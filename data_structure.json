@@ -1,0 +1,68 @@
+{
+  "product": {
+    "product": "dev-rear-lamp",
+    "spec": {
+      "type": "Rear lamp",
+      "vehicle_category": "M1",
+      "parts": []
+    },
+    "applicable_regulations": ["UN R48", "UN R7", "UN R3", "UN R10", "UN R148", "UN R150"],
+    "requirements": [
+      {
+        "id": "R-001",
+        "text": "The rear lamp shall ...",
+        "cites": "UN_R48@9.3.0:6.7.2",
+        "source": {
+          "regulation": "UN R48",
+          "version": "9.3.0",
+          "page": 45,
+          "paragraph": "6.7.2"
+        }
+      }
+    ]
+  },
+
+  "regulation_store": {
+    "regulations": [
+      {
+        "regulation": "UN R48",
+        "title": "...",
+        "scope": {
+          "text": "This Regulation applies to ...",
+          "vehicle_categories": ["L", "M", "N", "O", "T"]
+        },
+        "versions": ["9.3.0@base", "9.4.0@latest"],
+        "refers_to": ["UN R3", "UN R7", "UN R23", "UN R148", "UN R150"],
+        "referred_from": []
+      }
+    ],
+
+    "versions": [
+      {
+        "regulation": "UN R48",
+        "version": "9.3.0",
+        "role": "base",
+        "file": "UN_R48_base.pdf",
+        "n_pages": 123
+      }
+    ],
+
+    "clauses": [
+      {
+        "clause_id": "UN_R48@9.3.0:5.7.2.1",
+        "regulation": "UN R48",
+        "version": "9.3.0",
+        "page": 20,
+        "paragraph": "5.7.2.1",
+        "paragraph_norm": "5.7.2.1",
+        "section_kind": "normative",
+        "annex": null,
+        "heading_path": ["5. GENERAL SPECIFICATIONS", "5.7 ...", "5.7.2 ..."],
+        "text": "...",
+        "is_normative": true,
+        "internal_refs": ["5.8.1", "Annex 4"],
+        "external_refs": ["UN R23"]
+      }
+    ]
+  }
+}
