@@ -1,11 +1,7 @@
 {
  "kept": [
   "UN R10",
-  "UN R19",
-  "UN R26",
   "UN R48",
-  "UN R53",
-  "UN R128",
   "UN R148",
   "UN R150"
  ],
@@ -13,316 +9,392 @@
   "UN R3": {
    "regulation": "UN R3",
    "verdict": "no",
-   "reason": "Retro-reflectors are now covered by the consolidated UN R150, which applies to the Class IA retro-reflector."
+   "reason": "Superseded by UN R150 for new retro-reflector approvals.",
+   "condition": null
   },
   "UN R6": {
    "regulation": "UN R6",
    "verdict": "no",
-   "reason": "The lamp has no direction indicator. Direction indicators are in any case superseded by R148."
+   "reason": "No direction indicator in the lamp, and the regulation is superseded by UN R148.",
+   "condition": null
   },
   "UN R7": {
    "regulation": "UN R7",
    "verdict": "no",
-   "reason": "Rear position and stop lamps are now approved under the consolidated UN R148."
+   "reason": "Rear position and stop lamps are now approved under UN R148, which supersedes R7.",
+   "condition": null
   },
   "UN R10": {
    "regulation": "UN R10",
    "verdict": "applies",
-   "reason": "The LED modules on PCB are electronics, which makes the lamp an ESA subject to EMC requirements."
+   "reason": "The LED PCB with drive and connection components is an electrical/electronic sub-assembly (ESA).",
+   "condition": null
   },
   "UN R19": {
    "regulation": "UN R19",
-   "verdict": "maybe",
-   "reason": "The product has no front fog lamp. Front fog lamps are in any case superseded by R149. [BM25 safety net: lexical score 110.0]"
+   "verdict": "no",
+   "reason": "No front fog lamp, and the regulation is superseded by UN R149. [BM25 safety net: lexical score 142.7]",
+   "condition": "the product is within the scope of UN R19 despite the reason given: No front fog lamp, and the regulation is superseded by UN R149.",
+   "resolution": {
+    "regulation": "UN R19",
+    "status": "not_met",
+    "justification": "The profile describes a 'Rear lamp' with rear position, stop and reversing lamps plus a retro-reflector; it has no front fog lamp, so it is outside UN R19's scope."
+   }
   },
   "UN R23": {
    "regulation": "UN R23",
    "verdict": "no",
-   "reason": "The reversing lamp is now approved under the consolidated UN R148."
+   "reason": "The reversing lamp is now approved under UN R148, which supersedes R23.",
+   "condition": null
   },
   "UN R26": {
    "regulation": "UN R26",
-   "verdict": "maybe",
-   "reason": "This is an M1 vehicle regulation on external projections. The outer lens and housing form part of the vehicle's external surface, so radius and projection requirements may bind the lamp design."
+   "verdict": "no",
+   "reason": "External projections are a whole-vehicle bodywork requirement, not an obligation on the lamp.",
+   "condition": null
   },
   "UN R32": {
    "regulation": "UN R32",
    "verdict": "no",
-   "reason": "This is a whole-vehicle rear-end crash regulation; the lamp is not its subject."
+   "reason": "Whole-vehicle rear-end collision regulation.",
+   "condition": null
   },
   "UN R37": {
    "regulation": "UN R37",
    "verdict": "no",
-   "reason": "The light sources are LED modules on PCB, not filament lamps or their LED replacements."
+   "reason": "No filament or LED replacement light sources; the lamp uses LEDs on a PCB.",
+   "condition": null
   },
   "UN R38": {
    "regulation": "UN R38",
    "verdict": "no",
-   "reason": "The product has no rear fog lamp. Rear fog lamps are in any case superseded by R148."
+   "reason": "No rear fog lamp, and the regulation is superseded by UN R148.",
+   "condition": null
   },
   "UN R39": {
    "regulation": "UN R39",
    "verdict": "no",
-   "reason": "Speedometer and odometer requirements are unrelated to a lamp."
+   "reason": "Speedometer regulation, not related to this product.",
+   "condition": null
   },
   "UN R40": {
    "regulation": "UN R40",
    "verdict": "no",
-   "reason": "This covers motorcycle emissions, an unrelated subject and vehicle category."
+   "reason": "Motorcycle emissions regulation.",
+   "condition": null
   },
   "UN R42": {
    "regulation": "UN R42",
    "verdict": "no",
-   "reason": "This covers bumper and protective device behaviour; a lamp is not a protective device."
+   "reason": "Covers bumpers and protective devices, not lamps.",
+   "condition": null
   },
   "UN R43": {
    "regulation": "UN R43",
    "verdict": "no",
-   "reason": "Glazing for lighting and light-signalling devices is explicitly excluded from its scope."
+   "reason": "Glazing for lighting and light-signalling devices is excluded from its scope.",
+   "condition": null
   },
   "UN R48": {
    "regulation": "UN R48",
    "verdict": "applies",
-   "reason": "The rear position, stop and reversing lamps and the retro-reflector are fitted to an M1 vehicle, so the installation requirements apply."
+   "reason": "Lamps and a retro-reflector intended for an M1 vehicle fall under the installation regulation.",
+   "condition": null
   },
   "UN R49": {
    "regulation": "UN R49",
    "verdict": "no",
-   "reason": "This is a heavy-duty engine emissions regulation, unrelated to the lamp."
+   "reason": "Engine emissions regulation.",
+   "condition": null
   },
   "UN R51": {
    "regulation": "UN R51",
    "verdict": "no",
-   "reason": "This covers vehicle sound emissions, unrelated to the lamp."
+   "reason": "Vehicle sound regulation.",
+   "condition": null
   },
   "UN R53": {
    "regulation": "UN R53",
-   "verdict": "maybe",
-   "reason": "This is the lighting installation regulation for L3 vehicles; the product is for M1. [BM25 safety net: lexical score 131.6]"
+   "verdict": "no",
+   "reason": "Applies to L3 vehicles only. [BM25 safety net: lexical score 141.4]",
+   "condition": "the product is within the scope of UN R53 despite the reason given: Applies to L3 vehicles only.",
+   "resolution": {
+    "regulation": "UN R53",
+    "status": "not_met",
+    "justification": "The profile states \"vehicle_category\": \"M1\", not L3, so UN R53 (L3 vehicle installation) does not apply."
+   }
   },
   "UN R62": {
    "regulation": "UN R62",
    "verdict": "no",
-   "reason": "This applies only to L-category anti-theft devices."
+   "reason": "Applies to L-category vehicles only.",
+   "condition": null
   },
   "UN R64": {
    "regulation": "UN R64",
    "verdict": "no",
-   "reason": "This covers temporary-use spare units and run-flat tyres, unrelated to the lamp."
+   "reason": "Covers spare units and tyres.",
+   "condition": null
   },
   "UN R67": {
    "regulation": "UN R67",
    "verdict": "no",
-   "reason": "This covers LPG equipment, unrelated to the lamp."
+   "reason": "Covers LPG equipment.",
+   "condition": null
   },
   "UN R79": {
    "regulation": "UN R79",
    "verdict": "no",
-   "reason": "This covers steering equipment, unrelated to the lamp."
+   "reason": "Covers steering equipment.",
+   "condition": null
   },
   "UN R83": {
    "regulation": "UN R83",
    "verdict": "no",
-   "reason": "This covers vehicle emissions, unrelated to the lamp."
+   "reason": "Vehicle emissions regulation.",
+   "condition": null
   },
   "UN R89": {
    "regulation": "UN R89",
    "verdict": "no",
-   "reason": "This covers speed limitation devices, unrelated to the lamp."
+   "reason": "Covers speed limitation devices.",
+   "condition": null
   },
   "UN R92": {
    "regulation": "UN R92",
    "verdict": "no",
-   "reason": "This covers replacement exhaust systems for motorcycles, unrelated to the lamp."
+   "reason": "Covers motorcycle exhaust systems.",
+   "condition": null
   },
   "UN R94": {
    "regulation": "UN R94",
    "verdict": "no",
-   "reason": "This is a whole-vehicle frontal crash regulation; the lamp is not its subject."
+   "reason": "Whole-vehicle frontal collision regulation.",
+   "condition": null
   },
   "UN R100": {
    "regulation": "UN R100",
    "verdict": "no",
-   "reason": "This covers electric powertrain safety, unrelated to the lamp."
+   "reason": "Covers electric power train safety.",
+   "condition": null
   },
   "UN R101": {
    "regulation": "UN R101",
    "verdict": "no",
-   "reason": "This covers CO2 emissions and fuel consumption, unrelated to the lamp."
+   "reason": "Covers CO2 emissions and fuel consumption.",
+   "condition": null
   },
   "UN R102": {
    "regulation": "UN R102",
    "verdict": "no",
-   "reason": "This covers close-coupling devices for N2/N3/O3/O4 vehicles, unrelated to the lamp."
+   "reason": "Covers close-coupling devices for N2/N3/O3/O4 vehicles.",
+   "condition": null
   },
   "UN R103": {
    "regulation": "UN R103",
    "verdict": "no",
-   "reason": "This covers replacement pollution control devices, unrelated to the lamp."
+   "reason": "Covers replacement pollution control devices.",
+   "condition": null
   },
   "UN R104": {
    "regulation": "UN R104",
    "verdict": "no",
-   "reason": "This covers retro-reflective markings for M2/M3/N/O vehicles, not M1. It is in any case superseded by R150."
+   "reason": "Covers retro-reflective markings for other vehicle categories, and is superseded by UN R150.",
+   "condition": null
   },
   "UN R107": {
    "regulation": "UN R107",
    "verdict": "no",
-   "reason": "This applies only to M2/M3 buses."
+   "reason": "Applies to M2/M3 buses only.",
+   "condition": null
   },
   "UN R114": {
    "regulation": "UN R114",
    "verdict": "no",
-   "reason": "This covers replacement airbag systems, unrelated to the lamp."
+   "reason": "Covers airbag modules.",
+   "condition": null
   },
   "UN R116": {
    "regulation": "UN R116",
    "verdict": "no",
-   "reason": "This covers anti-theft and alarm systems, unrelated to the lamp."
+   "reason": "Covers anti-theft and alarm systems.",
+   "condition": null
   },
   "UN R123": {
    "regulation": "UN R123",
    "verdict": "no",
-   "reason": "This covers AFS headlamp systems, which the product does not include. It is in any case superseded by R149."
+   "reason": "Covers adaptive front-lighting systems, and is superseded by UN R149.",
+   "condition": null
   },
   "UN R127": {
    "regulation": "UN R127",
    "verdict": "no",
-   "reason": "Pedestrian safety tests cover front-end structures; a rear lamp is not involved."
+   "reason": "Pedestrian safety requirements fall on the vehicle front, not a rear lamp.",
+   "condition": null
   },
   "UN R128": {
    "regulation": "UN R128",
-   "verdict": "maybe",
-   "reason": "Replaceability of the LED modules is not stated. If replaceable LED light sources are used, R128 applies."
+   "verdict": "no",
+   "reason": "Applies only if the LED light sources are replaceable; the profile suggests they are non-replaceable but this is unconfirmed.",
+   "condition": "the LED light sources are replaceable",
+   "resolution": {
+    "regulation": "UN R128",
+    "status": "not_met",
+    "justification": "The profile states the light sources \"appear to be PCB-mounted non-replaceable LED light sources/modules\", described as \"LED modules on PCB\", so they are not replaceable light sources."
+   }
   },
   "UN R131": {
    "regulation": "UN R131",
    "verdict": "no",
-   "reason": "This covers AEBS for heavy vehicles, unrelated to the lamp."
+   "reason": "AEBS regulation for heavy vehicles.",
+   "condition": null
   },
   "UN R132": {
    "regulation": "UN R132",
    "verdict": "no",
-   "reason": "This covers retrofit emission control devices, unrelated to the lamp."
+   "reason": "Covers retrofit emission control devices.",
+   "condition": null
   },
   "UN R137": {
    "regulation": "UN R137",
    "verdict": "no",
-   "reason": "This is a whole-vehicle frontal impact restraint regulation; the lamp is not its subject."
+   "reason": "Whole-vehicle frontal impact regulation.",
+   "condition": null
   },
   "UN R13H": {
    "regulation": "UN R13H",
    "verdict": "no",
-   "reason": "This covers vehicle braking performance; the stop lamp is approved under R148 and installed under R48."
+   "reason": "Covers vehicle braking.",
+   "condition": null
   },
   "UN R148": {
    "regulation": "UN R148",
    "verdict": "applies",
-   "reason": "This is the consolidated regulation for rear position, stop and reversing lamps, all of which are on the product."
+   "reason": "The rear position lamp, stop lamp and reversing lamp are light-signalling devices within its scope.",
+   "condition": null
   },
   "UN R149": {
    "regulation": "UN R149",
    "verdict": "no",
-   "reason": "The product has no road illumination devices such as headlamps, front fog lamps or cornering lamps."
+   "reason": "No road illumination devices are present. [BM25 safety net: lexical score 138.6]",
+   "condition": "the product is within the scope of UN R149 despite the reason given: No road illumination devices are present.",
+   "resolution": {
+    "regulation": "UN R149",
+    "status": "not_met",
+    "justification": "The listed functions are \"rear position lamp, stop lamp, reversing lamp, ... retro-reflector\"; there are no headlamps, front fog lamps or cornering lamps, and reversing lamps fall under UN R148, so no road illumination device in UN R149's scope is present."
+   }
   },
   "UN R150": {
    "regulation": "UN R150",
    "verdict": "applies",
-   "reason": "The lamp includes a Class IA retro-reflector, which falls under this consolidated regulation."
+   "reason": "The rear retro-reflector (Class IA/IB) is within its scope.",
+   "condition": null
   },
   "UN R152": {
    "regulation": "UN R152",
    "verdict": "no",
-   "reason": "This covers AEBS for light vehicles, unrelated to the lamp."
+   "reason": "Vehicle AEBS regulation.",
+   "condition": null
   },
   "UN R155": {
    "regulation": "UN R155",
    "verdict": "no",
-   "reason": "This is a vehicle-level cyber security regulation; a simple LED lamp is not in scope."
+   "reason": "Vehicle-level cyber security regulation.",
+   "condition": null
   },
   "UN R156": {
    "regulation": "UN R156",
    "verdict": "no",
-   "reason": "This is a vehicle-level software update regulation; no updatable software is indicated in the lamp."
+   "reason": "Vehicle-level software update regulation.",
+   "condition": null
   },
   "UN R157": {
    "regulation": "UN R157",
    "verdict": "no",
-   "reason": "This covers automated lane keeping systems, unrelated to the lamp."
+   "reason": "Covers ALKS.",
+   "condition": null
   },
   "UN R161": {
    "regulation": "UN R161",
    "verdict": "no",
-   "reason": "This covers devices against unauthorized use, unrelated to the lamp."
+   "reason": "Covers protection against unauthorized use.",
+   "condition": null
   },
   "UN R162": {
    "regulation": "UN R162",
    "verdict": "no",
-   "reason": "This covers immobilizers, unrelated to the lamp."
+   "reason": "Covers immobilizers.",
+   "condition": null
   },
   "UN R163": {
    "regulation": "UN R163",
    "verdict": "no",
-   "reason": "This covers vehicle alarm systems; the lamp is not an alarm component."
+   "reason": "Covers vehicle alarm systems.",
+   "condition": null
   },
   "UN R164": {
    "regulation": "UN R164",
    "verdict": "no",
-   "reason": "This covers studded tyres, unrelated to the lamp."
+   "reason": "Covers studded tyres.",
+   "condition": null
   },
   "UN R171": {
    "regulation": "UN R171",
    "verdict": "no",
-   "reason": "This covers driver control assistance systems, unrelated to the lamp."
+   "reason": "Covers driver control assistance systems.",
+   "condition": null
   },
   "UN R174": {
    "regulation": "UN R174",
    "verdict": "no",
-   "reason": "This covers safety-belt reminders, unrelated to the lamp."
+   "reason": "Covers safety-belt reminders.",
+   "condition": null
   },
   "UN R175": {
    "regulation": "UN R175",
    "verdict": "no",
-   "reason": "This covers acceleration control for pedal error, unrelated to the lamp."
+   "reason": "Covers acceleration control for pedal error.",
+   "condition": null
   },
   "UN GTR 9": {
    "regulation": "UN GTR 9",
    "verdict": "no",
-   "reason": "Pedestrian safety requirements cover the vehicle front; a rear lamp is not involved."
+   "reason": "Pedestrian safety requirements fall on the vehicle front structure.",
+   "condition": null
   }
  },
  "bm25_top": [
   [
    "UN R48",
-   150.8
+   167.2
   ],
   [
    "UN R148",
-   132.0
-  ],
-  [
-   "UN R53",
-   131.6
-  ],
-  [
-   "UN R23",
-   123.6
+   147.9
   ],
   [
    "UN R3",
-   121.1
-  ],
-  [
-   "UN R150",
-   115.3
-  ],
-  [
-   "UN R7",
-   113.8
+   145.0
   ],
   [
    "UN R19",
-   110.0
+   142.7
+  ],
+  [
+   "UN R150",
+   141.7
+  ],
+  [
+   "UN R53",
+   141.4
+  ],
+  [
+   "UN R149",
+   138.6
+  ],
+  [
+   "UN R23",
+   138.3
   ]
  ],
  "prompt_chars": 91264

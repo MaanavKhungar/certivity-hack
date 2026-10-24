@@ -1,0 +1,1821 @@
+[
+ {
+  "id": "R-0012",
+  "text": "If measurements are made using the method described in Annex 7, the ESA broadband limit shall be 52 to 63 dB microvolts/m in the 75 to 400 MHz band, this limit increasing logarithmically with frequencies above 75 MHz as shown in Appendix 6.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 10,
+   "paragraph": "6.5.2.1"
+  },
+  "why": "Broadband emission limit applicable to the LED PCB ESA.",
+  "section": "6",
+  "test_case": "Perform the Annex 7 broadband scan from 75 to 400 MHz and compare readings to the limit line.",
+  "drop_reason": "merged into R-0011"
+ },
+ {
+  "id": "R-0013",
+  "text": "If measurements are made using the method described in Annex 7, the ESA broadband limit in the 400 to 1,000 MHz frequency band shall remain constant at 63 dB microvolts/m.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 10,
+   "paragraph": "6.5.2.1"
+  },
+  "why": "Broadband emission limit applicable to the LED PCB ESA.",
+  "section": "6",
+  "test_case": "Perform the Annex 7 broadband scan from 400 to 1,000 MHz and compare readings to 63 dBµV/m.",
+  "drop_reason": "merged into R-0011"
+ },
+ {
+  "id": "R-0017",
+  "text": "If measurements are made using the method described in Annex 8, the ESA narrowband limit shall be 42 to 53 dB microvolts/m in the 75 to 400 MHz band, this limit increasing logarithmically with frequencies above 75 MHz as shown in Appendix 7.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 10,
+   "paragraph": "6.6.2.1"
+  },
+  "why": "Narrowband emission limit applicable to the LED PCB ESA.",
+  "section": "6",
+  "test_case": "Perform the Annex 8 narrowband scan from 75 to 400 MHz and compare readings to the limit line.",
+  "drop_reason": "merged into R-0016"
+ },
+ {
+  "id": "R-0018",
+  "text": "When measurements are made using the method described in Annex 8, the ESA narrowband limit in the 400 to 1,000 MHz frequency band shall remain constant at 53 dB microvolts/m.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 10,
+   "paragraph": "6.6.2.1"
+  },
+  "why": "Narrowband emission limit applicable to the LED PCB ESA.",
+  "section": "6",
+  "test_case": "Perform the Annex 8 narrowband scan from 400 to 1,000 MHz and compare readings to 53 dBµV/m.",
+  "drop_reason": "merged into R-0016"
+ },
+ {
+  "id": "R-0042",
+  "text": "Where applicable (REESS charging mode coupled to the power grid), the ESA shall be so manufactured as to conform to the type approved by meeting the requirements set forth in paragraph 7.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 25,
+   "paragraph": "9.1"
+  },
+  "why": "This conditional CoP obligation applies to ESAs that operate in charging mode.",
+  "section": "9",
+  "test_case": "Confirm whether paragraph 7 applies; if it does, test production samples against paragraph 7.",
+  "drop_reason": "REESS charging mode not applicable to lamp"
+ },
+ {
+  "id": "R-0045",
+  "text": "If applicable, when the conformity of an ESA taken from the series is being verified, the broadband electromagnetic emission levels measured shall not exceed by more than 4 dB (60 per cent) the reference limits prescribed in paragraph 7.10.2.1.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 26,
+   "paragraph": "9.3.1"
+  },
+  "why": "This conditional CoP emission tolerance applies to ESAs in REESS charging mode.",
+  "section": "9",
+  "test_case": "Where charging-mode requirements apply, measure emissions per Annex 7 and check the result is at most limit + 4 dB.",
+  "drop_reason": "REESS charging mode limits not applicable"
+ },
+ {
+  "id": "R-0049",
+  "text": "If applicable, when the conformity of a component or STU taken from the series is being verified, the component shall not exceed the conducted emission levels given in paragraph 7.17.1.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 26,
+   "paragraph": "9.3.3"
+  },
+  "why": "This conditional CoP conducted emission limit applies to ESAs in charging mode.",
+  "section": "9",
+  "test_case": "Where charging-mode requirements apply, measure conducted emissions per ISO 7637-2:2011 and compare them with the Table 18 limits.",
+  "drop_reason": "REESS charging mode limits not applicable"
+ },
+ {
+  "id": "R-0053",
+  "text": "Where an open area test site (OATS) is used as an alternative to an ALSE, the OATS shall comply with the requirements of CISPR 16-1-4.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 92,
+   "paragraph": "Annex 7 3.3"
+  },
+  "why": "Alternative measuring location condition for the lamp ESA test.",
+  "section": "Annex 7",
+  "test_case": "Verify OATS validation per CISPR 16-1-4 if used.",
+  "drop_reason": "Test site requirement"
+ },
+ {
+  "id": "R-0054",
+  "text": "Ambient measurements shall be taken before or after the main test, and the extraneous noise or signal shall be at least 6 dB below the limits of interference given in paragraph 6.5.2.1., except for intentional narrowband ambient transmissions.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 92,
+   "paragraph": "Annex 7 3.4"
+  },
+  "why": "Validity condition for the lamp ESA broadband emission result.",
+  "section": "Annex 7",
+  "test_case": "Record ambient scan with ESA off and confirm it is at least 6 dB below the §6.5.2.1 limit line.",
+  "drop_reason": "Laboratory ambient measurement"
+ },
+ {
+  "id": "R-0056",
+  "text": "The limits are for quasi-peak detectors; if peak detectors are used, a correction factor of 20 dB as defined in CISPR 12 shall be applied.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 92,
+   "paragraph": "Annex 7 4.2"
+  },
+  "why": "Determines the pass/fail comparison of the lamp ESA emissions.",
+  "section": "Annex 7",
+  "test_case": "Check detector type and that a 20 dB correction is applied to peak readings.",
+  "drop_reason": "Detector/receiver setting"
+ },
+ {
+  "id": "R-0057",
+  "text": "The measurements shall be performed with a spectrum analyser or a scanning receiver using the parameters of Table 1 (spectrum analyser: peak RBW 100/120 kHz at -3 dB, minimum scan time 100 ms/MHz; quasi-peak RBW 120 kHz at -6 dB, minimum scan time 20 s/MHz) and Table 2 (scanning receiver: peak BW 120 kHz, max step 60 kHz, min dwell 5 ms; quasi-peak BW 120 kHz, max step 60 kHz, min dwell 1 s) for 30 to 1,000 MHz.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 92,
+   "paragraph": "Annex 7 4.3"
+  },
+  "why": "Measurement parameters constrain the validity of the lamp ESA emission result.",
+  "section": "Annex 7",
+  "test_case": "Verify receiver settings in the test report against Tables 1 and 2.",
+  "drop_reason": "Receiver settings"
+ },
+ {
+  "id": "R-0058",
+  "text": "If FFT-based measuring instruments are used, they shall continuously record and evaluate the signal during the measurement time, with a minimum measurement time of 1 s per analysis frequency band (in real-time mode).",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 92,
+   "paragraph": "Annex 7 4.3"
+  },
+  "why": "Measurement condition for the lamp ESA test when FFT instruments are used.",
+  "section": "Annex 7",
+  "test_case": "Check FFT instrument settings and dwell time in the test report.",
+  "drop_reason": "Instrument settings"
+ },
+ {
+  "id": "R-0059",
+  "text": "If a spectrum analyser is used for peak measurements, the video bandwidth shall be at least three times the resolution bandwidth (RBW).",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 92,
+   "paragraph": "Annex 7 4.3"
+  },
+  "why": "Measurement condition for the lamp ESA peak emission measurement.",
+  "section": "Annex 7",
+  "test_case": "Verify VBW ≥ 3 × RBW in analyser settings.",
+  "drop_reason": "Instrument settings"
+ },
+ {
+  "id": "R-0060",
+  "text": "Unless otherwise specified, the configuration with the LV harness closer to the antenna shall be tested.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 93,
+   "paragraph": "Annex 7 4.4"
+  },
+  "why": "Test configuration condition applying to the lamp ESA harness.",
+  "section": "Annex 7",
+  "test_case": "Inspect set-up photographs to confirm the LV harness of the lamp is nearest the antenna.",
+  "drop_reason": "Sample positioning"
+ },
+ {
+  "id": "R-0061",
+  "text": "The phase centre of the antenna shall be in line with the centre of the longitudinal part of the wiring harnesses for frequencies up to 1,000 MHz.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 93,
+   "paragraph": "Annex 7 4.4"
+  },
+  "why": "Test set-up condition for the lamp ESA emission measurement.",
+  "section": "Annex 7",
+  "test_case": "Verify antenna alignment with the harness centre in the set-up.",
+  "drop_reason": "Antenna positioning"
+ },
+ {
+  "id": "R-0062",
+  "text": "The test shall be performed at the intervals specified in the CISPR 12 standard throughout the frequency range 30 to 1,000 MHz, or alternatively at the 14 frequencies giving the highest emission levels within each of the 14 frequency bands, to confirm that the ESA meets the requirements of Annex 7.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 93,
+   "paragraph": "Annex 7 4.4"
+  },
+  "why": "The lamp ESA must meet the limits at the tested frequencies.",
+  "section": "Annex 7",
+  "test_case": "Confirm the scanned frequencies cover CISPR 12 intervals or the 14 worst-case band frequencies.",
+  "drop_reason": "Test frequency sampling"
+ },
+ {
+  "id": "R-0063",
+  "text": "In the event that the limit is exceeded during the test, investigations shall be made to ensure that this is due to the ESA and not to background radiation.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 93,
+   "paragraph": "Annex 7 4.4"
+  },
+  "why": "Determines whether an exceedance is attributed to the lamp ESA.",
+  "section": "Annex 7",
+  "test_case": "On any exceedance, repeat with ESA off to confirm source.",
+  "drop_reason": "Lab investigation procedure"
+ },
+ {
+  "id": "R-0064",
+  "text": "The maximum of the readings relative to the limit (horizontal/vertical polarization) in each of the 14 frequency bands shall be taken as the characteristic reading at the frequency at which the measurements were made.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 93,
+   "paragraph": "Annex 7 4.5"
+  },
+  "why": "Defines the characteristic reading of the lamp ESA compared with the limit.",
+  "section": "Annex 7",
+  "test_case": "Measure in both polarizations and evaluate the worst reading per band against the limit.",
+  "drop_reason": "Measurement evaluation procedure"
+ },
+ {
+  "id": "R-0068",
+  "text": "As an alternative to an absorber lined shielded enclosure (ALSE), the ESA may be tested on an open area test site (OATS), which shall comply with the requirements of CISPR 16-1-4.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 96,
+   "paragraph": "Annex 8 3.2"
+  },
+  "why": "This is an alternative test condition under which the lamp ESA's emissions may be qualified.",
+  "section": "Annex 8",
+  "test_case": "If an OATS is used, confirm the site has CISPR 16-1-4 compliance evidence.",
+  "drop_reason": "Test site requirement"
+ },
+ {
+  "id": "R-0069",
+  "text": "To ensure that no extraneous noise or signal materially affects the measurement, ambient measurements shall be taken before or after the main test.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 96,
+   "paragraph": "Annex 8 3.3"
+  },
+  "why": "The ambient scan is needed for the ESA emission result to be valid.",
+  "section": "Annex 8",
+  "test_case": "Confirm the report contains an ambient scan taken before or after the ESA scan.",
+  "drop_reason": "Laboratory ambient measurement"
+ },
+ {
+  "id": "R-0070",
+  "text": "In the ambient measurement, the extraneous noise or signal shall be at least 6 dB below the limits of interference given in paragraph 6.6.2.1., except for intentional narrowband ambient transmissions.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 96,
+   "paragraph": "Annex 8 3.3"
+  },
+  "why": "This condition determines whether the lamp ESA's narrowband compliance measurement is valid.",
+  "section": "Annex 8",
+  "test_case": "Compare the ambient scan against the §6.6.2.1 limit and check a margin of at least 6 dB.",
+  "drop_reason": "Laboratory ambient measurement"
+ },
+ {
+  "id": "R-0072",
+  "text": "Narrowband emission measurements of the ESA shall be performed with an average detector.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 96,
+   "paragraph": "Annex 8 4.2"
+  },
+  "why": "The detector type defines the basis against which the ESA's emission levels are judged.",
+  "section": "Annex 8",
+  "test_case": "Verify the receiver detector setting is average.",
+  "drop_reason": "Detector setting"
+ },
+ {
+  "id": "R-0073",
+  "text": "The measurements shall be performed with a spectrum analyser or a scanning receiver using the parameters defined in Tables 1 and 2.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 96,
+   "paragraph": "Annex 8 4.3"
+  },
+  "why": "These instrument settings constrain the conformity assessment of the lamp ESA.",
+  "section": "Annex 8",
+  "test_case": "Check the instrument type and settings in the test report.",
+  "drop_reason": "Instrument settings"
+ },
+ {
+  "id": "R-0074",
+  "text": "FFT-based measuring instruments shall continuously record and evaluate the signal during the measurement time.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 96,
+   "paragraph": "Annex 8 4.3"
+  },
+  "why": "This is a measurement condition for qualifying the ESA when FFT instruments are used.",
+  "section": "Annex 8",
+  "test_case": "If an FFT receiver is used, confirm it operates in gapless real-time mode.",
+  "drop_reason": "Instrument settings"
+ },
+ {
+  "id": "R-0075",
+  "text": "If FFT-based instruments are used, the minimum measurement time shall be 1 s per analysis frequency band (in real-time mode) of the FFT instrument.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 96,
+   "paragraph": "Annex 8 4.3"
+  },
+  "why": "This is a measurement condition for qualifying the ESA when FFT instruments are used.",
+  "section": "Annex 8",
+  "test_case": "Verify a dwell of at least 1 s per FFT analysis band in the instrument settings.",
+  "drop_reason": "Instrument settings"
+ },
+ {
+  "id": "R-0076",
+  "text": "For a spectrum analyser with average detector in the 30 to 1,000 MHz range, the RBW at -3 dB shall be 100/120 kHz and the minimum scan time shall be 100 ms/MHz (Table 1).",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 96,
+   "paragraph": "Annex 8 4.3"
+  },
+  "why": "These table parameters fix the measurement conditions for the lamp ESA.",
+  "section": "Annex 8",
+  "test_case": "Check the analyser settings: RBW 100/120 kHz and scan time of at least 100 ms/MHz.",
+  "drop_reason": "Instrument settings"
+ },
+ {
+  "id": "R-0077",
+  "text": "If a spectrum analyser is used for peak measurements, the video bandwidth shall be at least three times the resolution bandwidth (RBW).",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 96,
+   "paragraph": "Annex 8 4.3"
+  },
+  "why": "This is a measurement condition affecting the ESA emission result.",
+  "section": "Annex 8",
+  "test_case": "Verify VBW is at least 3 × RBW in the analyser settings.",
+  "drop_reason": "Instrument settings"
+ },
+ {
+  "id": "R-0078",
+  "text": "For a scanning receiver with average detector in the 30 to 1,000 MHz range, the BW at -6 dB shall be 120 kHz, the maximum step size 60 kHz and the minimum dwell time 5 ms (Table 2).",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 96,
+   "paragraph": "Annex 8 4.3"
+  },
+  "why": "These table parameters fix the measurement conditions for the lamp ESA.",
+  "section": "Annex 8",
+  "test_case": "Check the receiver settings: 120 kHz BW, step size of at most 60 kHz, dwell time of at least 5 ms.",
+  "drop_reason": "Instrument settings"
+ },
+ {
+  "id": "R-0079",
+  "text": "The test shall be performed at the intervals specified in the CISPR 12 standard throughout the frequency range 30 to 1,000 MHz, or alternatively, where accredited (ISO 17025) full-band data are provided, at the 14 frequencies giving the highest emission levels within each of the 14 bands (30-34, 34-45, 45-60, 60-80, 80-100, 100-130, 130-170, 170-225, 225-300, 300-400, 400-525, 525-700, 700-850 and 850-1,000 MHz) to confirm that the ESA meets the requirements.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 97,
+   "paragraph": "Annex 8 4.4"
+  },
+  "why": "This defines the frequency points at which the lamp ESA must demonstrate compliance.",
+  "section": "Annex 8",
+  "test_case": "Review the frequency coverage of the scan, or the 14-band peak selection backed by ISO 17025 lab data.",
+  "drop_reason": "Test frequency sampling"
+ },
+ {
+  "id": "R-0080",
+  "text": "In the event that the limit is exceeded during the test, investigations shall be made to ensure that this is due to the ESA and not to background radiation, including broadband radiation from the ESA.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 97,
+   "paragraph": "Annex 8 4.4"
+  },
+  "why": "This determines whether an exceedance is attributed to the lamp ESA as a narrowband failure.",
+  "section": "Annex 8",
+  "test_case": "For any limit exceedance, check that a root-cause analysis distinguishes ESA narrowband emission from background or broadband emission.",
+  "drop_reason": "Lab investigation procedure"
+ },
+ {
+  "id": "R-0081",
+  "text": "The maximum of the readings relative to the limit (horizontal/vertical polarisation) in each of the 14 frequency bands shall be taken as the characteristic reading at the frequency at which the measurements were made.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 97,
+   "paragraph": "Annex 8 4.5"
+  },
+  "why": "This defines the reading used to judge whether the lamp ESA passes or fails.",
+  "section": "Annex 8",
+  "test_case": "Confirm the worst-case horizontal/vertical reading per band is compared against the limit.",
+  "drop_reason": "Measurement evaluation procedure"
+ },
+ {
+  "id": "R-0086",
+  "text": "The ESA under test shall be arranged as defined in this Annex unless individual test methods dictate otherwise.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 98,
+   "paragraph": "Annex 9 2.2"
+  },
+  "why": "Defines the configuration in which the ESA must meet the immunity limits.",
+  "section": "Annex 9",
+  "test_case": "Inspect the test set-up against the Annex 9 arrangement.",
+  "drop_reason": "Sample arrangement"
+ },
+ {
+  "id": "R-0087",
+  "text": "Any extraneous equipment required to operate the ESA under test shall not be in place during the calibration phase, and no extraneous equipment shall be closer than 1 m from the reference point during calibration.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 98,
+   "paragraph": "Annex 9 2.4"
+  },
+  "why": "Test condition that governs the validity of the ESA immunity result.",
+  "section": "Annex 9",
+  "test_case": "Check the calibration records and set-up photos for the absence of extraneous equipment within 1 m.",
+  "drop_reason": "Calibration set-up"
+ },
+ {
+  "id": "R-0088",
+  "text": "The test signal generating equipment and its layout shall be to the same specification as that used during each appropriate calibration phase.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 98,
+   "paragraph": "Annex 9 2.5"
+  },
+  "why": "Test condition ensuring reproducible ESA immunity results.",
+  "section": "Annex 9",
+  "test_case": "Compare the test and calibration set-up records.",
+  "drop_reason": "Test equipment set-up"
+ },
+ {
+  "id": "R-0089",
+  "text": "If the ESA under test consists of more than one unit, the interconnecting cables should ideally be the wiring harnesses as intended for use in the vehicle; if these are not available, the length between the electronic control unit and the AN shall be as defined in the standard.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 98,
+   "paragraph": "Annex 9 2.6"
+  },
+  "why": "Applies if the lamp electronics are split into several units connected by harness.",
+  "section": "Annex 9",
+  "test_case": "Verify the harness used or the measured ECU-to-AN length against the standard.",
+  "drop_reason": "Test harness set-up"
+ },
+ {
+  "id": "R-0090",
+  "text": "All cables in the wiring harness of the ESA under test should be terminated as realistically as possible and preferably with real loads and actuators.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 98,
+   "paragraph": "Annex 9 2.6"
+  },
+  "why": "Test condition for the representative configuration of the lamp ESA.",
+  "section": "Annex 9",
+  "test_case": "Inspect the harness terminations and loads in the test set-up.",
+  "drop_reason": "Test harness set-up"
+ },
+ {
+  "id": "R-0095",
+  "text": "The frequency step size and dwell time shall be chosen according to ISO 11452-1.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 98,
+   "paragraph": "Annex 9 3.1"
+  },
+  "why": "Constrains the exposure the ESA must withstand.",
+  "section": "Annex 9",
+  "test_case": "Verify the step size and dwell time in the test report against ISO 11452-1.",
+  "drop_reason": "Step size/dwell time setting"
+ },
+ {
+  "id": "R-0097",
+  "text": "If the ESA fails the tests defined in this Annex, it shall be verified as having failed under the relevant test conditions and not as a result of the generation of uncontrolled fields.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 99,
+   "paragraph": "Annex 9 3.3"
+  },
+  "why": "Determines the validity of a failure verdict for the lamp ESA.",
+  "section": "Annex 9",
+  "test_case": "On failure, verify the field conditions and repeat the test.",
+  "drop_reason": "Lab verification procedure"
+ },
+ {
+  "id": "R-0098",
+  "text": "Where the absorber chamber test is used, the substitution method shall be used to establish the test field conditions according to ISO 11452-2.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 99,
+   "paragraph": "Annex 9 4.1.2"
+  },
+  "why": "Test condition for ESA immunity if this method is selected.",
+  "section": "Annex 9",
+  "test_case": "Check that the field calibration used the substitution method per ISO 11452-2.",
+  "drop_reason": "Field calibration method"
+ },
+ {
+  "id": "R-0099",
+  "text": "Where the absorber chamber test is used, the test shall be performed with vertical polarization.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 99,
+   "paragraph": "Annex 9 4.1.2"
+  },
+  "why": "Test condition for ESA immunity if this method is selected.",
+  "section": "Annex 9",
+  "test_case": "Verify the antenna polarization in the test report.",
+  "drop_reason": "Antenna polarization set-up"
+ },
+ {
+  "id": "R-0102",
+  "text": "As an alternative, the ESA may be tested while installed in the vehicle according to ISO 11451-4 using the BCI substitution method, with the injection probe positioned at 150 mm distance to the ESA.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 100,
+   "paragraph": "Annex 9 4.3.2"
+  },
+  "why": "Alternative test condition for the ESA's BCI immunity.",
+  "section": "Annex 9",
+  "test_case": "If tested in the vehicle, verify ISO 11451-4 compliance and the 150 mm probe distance.",
+  "drop_reason": "Alternative test set-up"
+ },
+ {
+  "id": "R-0105",
+  "text": "Unless otherwise specified, the reverberation chamber testing method shall be carried out using a test setup with ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 101,
+   "paragraph": "Annex 9 4.5.2"
+  },
+  "why": "Test condition for ESA immunity if this method is selected.",
+  "section": "Annex 9",
+  "test_case": "Inspect the reverberation chamber set-up for a ground plane.",
+  "drop_reason": "Test set-up"
+ },
+ {
+  "id": "R-0504",
+  "text": "No marking is required for electrical/electronic systems built into vehicles which are approved as units.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 8,
+   "paragraph": "5.2.2"
+  },
+  "why": "[recall pass] Exception to the ESA marking obligation that determines whether the LED PCB must carry the R10 mark.",
+  "section": "5",
+  "test_case": "Check whether the ESA is approved as part of a vehicle unit approval and, if so, confirm that no separate ESA approval mark is required.",
+  "drop_reason": "Duplicate of exception in R-0001"
+ },
+ {
+  "id": "R-0505",
+  "text": "When a scanning receiver is used for measurements in the 30 to 1,000 MHz range, the parameters of Table 2 shall be applied: peak detector BW at -6 dB 120 kHz, maximum step size 60 kHz, minimum dwell time 5 ms; quasi-peak detector BW at -6 dB 120 kHz, maximum step size 60 kHz, minimum dwell time 1 s.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 92,
+   "paragraph": "Annex 7 4.3"
+  },
+  "why": "[recall pass] The ESA (LED PCB) emission measurement validity depends on the prescribed receiver parameters; this was merged with the spectrum analyser parameters.",
+  "section": "Annex 7",
+  "test_case": "Review the receiver settings in the test report against Table 2.",
+  "drop_reason": "Receiver settings"
+ },
+ {
+  "id": "R-0506",
+  "text": "If FFT-based instruments are used, the minimum measurement time shall be 1 s per analysis frequency band (in real-time mode) of the FFT instrument.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 92,
+   "paragraph": "Annex 7 4.3"
+  },
+  "why": "[recall pass] This is a distinct test-condition obligation that was merged with the continuous-recording requirement for the ESA emission test.",
+  "section": "Annex 7",
+  "test_case": "Check the FFT instrument dwell or measurement time per band in the test log.",
+  "drop_reason": "Instrument settings"
+ },
+ {
+  "id": "R-0507",
+  "text": "Where the frequency range is divided into the 14 frequency bands 30-34, 34-45, 45-60, 60-80, 80-100, 100-130, 130-170, 170-225, 225-300, 300-400, 400-525, 525-700, 700-850 and 850-1,000 MHz, tests shall be performed at the 14 frequencies giving the highest emission levels within each band to confirm that the ESA meets the requirements of this Annex.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 93,
+   "paragraph": "Annex 7 4.4"
+  },
+  "why": "[recall pass] This alternative test case for the ESA's compliance was merged into the CISPR 12 interval requirement.",
+  "section": "Annex 7",
+  "test_case": "Verify that the reduced test covers the highest-emission frequency in each of the 14 bands and that the ESA is within the limits.",
+  "drop_reason": "Test frequency sampling"
+ },
+ {
+  "id": "R-0508",
+  "text": "Alternatively, if measurement data for the whole frequency band from a test laboratory accredited to the applicable parts of ISO 17025 and recognized by the Type Approval Authority are provided, the frequency range may be divided into the 14 frequency bands 30-34, 34-45, 45-60, 60-80, 80-100, 100-130, 130-170, 170-225, 225-300, 300-400, 400-525, 525-700, 700-850 and 850-1,000 MHz. In that case, the ESA shall be tested at the 14 frequencies giving the highest emission levels within each band and shall meet the requirements of this Annex at those frequencies.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 97,
+   "paragraph": "Annex 8 4.4"
+  },
+  "why": "[recall pass] States the alternative compliance-confirmation condition for the lamp's LED PCB ESA, which the first reader merged into the CISPR 12 interval requirement.",
+  "section": "Annex 8",
+  "test_case": "Review the accredited full-band report, select the highest-emission frequency in each of the 14 bands and retest the ESA at those frequencies against the limit.",
+  "drop_reason": "Test frequency sampling"
+ },
+ {
+  "id": "R-0509",
+  "text": "Spectrum analysers and FFT-based instruments used for conformity measurements of the ESA shall meet the requirements of CISPR 16-1-1.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 96,
+   "paragraph": "Annex 8 4.3"
+  },
+  "why": "[recall pass] Constrains the instruments that can be used to demonstrate the ESA's narrowband emission compliance.",
+  "section": "Annex 8",
+  "test_case": "Verify the calibration and compliance certificate of the measuring instrument against CISPR 16-1-1.",
+  "drop_reason": "Instrument requirement"
+ },
+ {
+  "id": "R-0510",
+  "text": "No extraneous equipment shall be closer than 1 m from the reference point during calibration.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 98,
+   "paragraph": "Annex 9 2.4"
+  },
+  "why": "[recall pass] This is a separate test-condition constraint on ESA immunity testing; the first reader merged it with the equipment-absence rule.",
+  "section": "Annex 9",
+  "test_case": "Inspect the calibration set-up and confirm that no extraneous equipment is within 1 m of the reference point.",
+  "drop_reason": "Calibration set-up"
+ },
+ {
+  "id": "R-0511",
+  "text": "If the ESA under test consists of more than one unit and the wiring harnesses as intended for use in the vehicle are not available, the length between the electronic control unit and the AN shall be as defined in the standard.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 98,
+   "paragraph": "Annex 9 2.6"
+  },
+  "why": "[recall pass] This is the binding 'shall' fallback for multi-unit ESA harness length; the first reader merged it with the non-binding 'should' preference.",
+  "section": "Annex 9",
+  "test_case": "Measure the cable length between the ECU and the AN in the test set-up and compare it with the length defined in ISO 11452.",
+  "drop_reason": "Test harness set-up"
+ },
+ {
+  "id": "R-0512",
+  "text": "Where bulk current injection testing on a test bench uses the closed loop method, the test shall be performed according to ISO 11452-4 with the injection probe positioned at 900 mm distance to the ESA.",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 100,
+   "paragraph": "Annex 9 4.3.2"
+  },
+  "why": "[recall pass] This is a distinct alternative test configuration for the LED PCB ESA; the first reader merged it with the substitution method.",
+  "section": "Annex 9",
+  "test_case": "Verify in the BCI closed-loop set-up that the injection probe is positioned 900 mm from the ESA.",
+  "drop_reason": "Duplicate of R-0101"
+ },
+ {
+  "id": "R-0289",
+  "text": "In a single lamp containing more than one light source, a group of light sources wired so that the failure of any one of them causes all of them to stop emitting light shall be considered to be one light source.",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 11,
+   "paragraph": "4.6.1.1"
+  },
+  "why": "The LED PCB contains multiple light sources per function.",
+  "section": "4",
+  "test_case": "Analyse the LED circuit topology to identify which LED groups count as single light sources for the failure assessment.",
+  "drop_reason": "definition of a light source group"
+ },
+ {
+  "id": "R-0302",
+  "text": "In the case of replaceable UN approved light sources, all photometric and colorimetric measurements shall be made using standard light sources as specified in R.E.5.",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 13,
+   "paragraph": "4.8.1.1"
+  },
+  "why": "This is a conditional test condition if replaceable light sources are used.",
+  "section": "4",
+  "test_case": "Use standard light sources per R.E.5 for the measurements.",
+  "drop_reason": "test method"
+ },
+ {
+  "id": "R-0303",
+  "text": "In the case of a lamp equipped with light source module(s) or non-replaceable light source(s), all photometric and colorimetric measurements shall be made with the light source(s) present in the lamp.",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 13,
+   "paragraph": "4.8.1.2"
+  },
+  "why": "The lamp uses LED modules / non-replaceable LEDs.",
+  "section": "4",
+  "test_case": "Measure the photometry and colour with the production LED PCB fitted.",
+  "drop_reason": "test method"
+ },
+ {
+  "id": "R-0304",
+  "text": "In case of a lamp (function) using light sources subject to more than one of the conditions of paragraph 4.8., the photometric measurements shall be made separately in accordance with each applicable condition and all separate results shall be added together.",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 13,
+   "paragraph": "4.8.1.3"
+  },
+  "why": "This applies if a function mixes light-source types.",
+  "section": "4",
+  "test_case": "Measure each light-source type separately and sum the intensities.",
+  "drop_reason": "test method"
+ },
+ {
+  "id": "R-0305",
+  "text": "In the case where the lamp may be installed on the vehicle in more than one position or in a field of different positions, the photometric measurements shall be repeated for each position or for the extreme positions of the field of the reference axis specified by the manufacturer.",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 13,
+   "paragraph": "4.8.1.5"
+  },
+  "why": "This is a conditional photometric verification depending on the mounting positions.",
+  "section": "4",
+  "test_case": "Repeat the photometric measurements at each specified mounting position or at the extreme positions.",
+  "drop_reason": "test method/positioning"
+ },
+ {
+  "id": "R-0306",
+  "text": "If not otherwise specified, the intensities shall be measured with the light source continuously lit.",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 14,
+   "paragraph": "4.8.1.7"
+  },
+  "why": "This test condition constrains the photometric compliance of each function.",
+  "section": "4",
+  "test_case": "Measure the steady-state intensities with the LEDs continuously powered.",
+  "drop_reason": "test method"
+ },
+ {
+  "id": "R-0307",
+  "text": "The intensity requirement for a particular direction of observation shall be deemed to be satisfied if that requirement is met in a direction deviating by not more than one-quarter of a degree from the direction of observation.",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 14,
+   "paragraph": "4.8.1.8.3"
+  },
+  "why": "This is the pass criterion tolerance applied to the lamp photometry.",
+  "section": "4",
+  "test_case": "In disputed measurements, check compliance within ±0.25° of the test point.",
+  "drop_reason": "measurement tolerance/method"
+ },
+ {
+  "id": "R-0309",
+  "text": "In case of a lamp controlled by an electronic light source control gear or a variable intensity control, the lamp shall be operated as specified by the applicant.",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 14,
+   "paragraph": "4.8.2.1"
+  },
+  "why": "This applies if the LED PCB includes driver/control electronics.",
+  "section": "4",
+  "test_case": "Operate the lamp via the specified control gear at the declared settings.",
+  "drop_reason": "test operating method"
+ },
+ {
+  "id": "R-0310",
+  "text": "In case of a lamp not controlled by an electronic light source control gear or a variable intensity control and equipped with light source module(s) or non-replaceable light source(s), the lamp shall be operated as specified by the applicant.",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 14,
+   "paragraph": "4.8.2.2"
+  },
+  "why": "The lamp uses non-replaceable LEDs/modules.",
+  "section": "4",
+  "test_case": "Operate the LED lamp at the voltage and current declared by the applicant.",
+  "drop_reason": "test operating method"
+ },
+ {
+  "id": "R-0311",
+  "text": "In case of a lamp not controlled by an electronic light source control gear or a variable intensity control and equipped with replaceable UN approved light source(s), the light sources shall be operated at the reference/objective luminous flux or alternatively at a different luminous flux with a proportional correction on the measured luminous intensities.",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 14,
+   "paragraph": "4.8.2.2"
+  },
+  "why": "This is a conditional test condition if replaceable light sources are used.",
+  "section": "4",
+  "test_case": "Set the light source to the reference flux or apply a proportional correction.",
+  "drop_reason": "test operating method"
+ },
+ {
+  "id": "R-0326",
+  "text": "For lamps equipped with non-replaceable light sources, the colorimetric characteristics shall be verified with the light sources present in the lamp.",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 16,
+   "paragraph": "4.9"
+  },
+  "why": "The lamp uses non-replaceable LEDs.",
+  "section": "4",
+  "test_case": "Perform the colorimetric measurement with the production LEDs fitted.",
+  "drop_reason": "test method"
+ },
+ {
+  "id": "R-0327",
+  "text": "For lamps (functions) using different light source technologies, the colorimetric characteristics shall be checked for each light source technology separately according to paragraphs 4.8.1 and 4.8.2.",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 16,
+   "paragraph": "4.9.1"
+  },
+  "why": "This is a conditional colorimetric requirement if mixed technologies are used.",
+  "section": "4",
+  "test_case": "Measure the colour separately for each light source technology.",
+  "drop_reason": "test method"
+ },
+ {
+  "id": "R-0349",
+  "text": "The reversing lamp (category AR) shall not exceed a maximum luminous intensity of 6.00∙10^2 cd below the H-plane down to 5°D (paragraph 4.8.3.1.(b)).",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 23,
+   "paragraph": "5.8.1"
+  },
+  "why": "Maximum intensity limit below H-plane to 5°D for AR from Table 10.",
+  "section": "5.8",
+  "test_case": "Goniophotometric scan between H-plane and 5°D, check max ≤ 600 cd.",
+  "drop_reason": "merged into R-0348"
+ },
+ {
+  "id": "R-0350",
+  "text": "The reversing lamp (category AR) shall not exceed a maximum luminous intensity of 8.00∙10^3 cd below 5°D (paragraph 4.8.3.1.(b)).",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 23,
+   "paragraph": "5.8.1"
+  },
+  "why": "Maximum intensity limit below 5°D for AR from Table 10.",
+  "section": "5.8",
+  "test_case": "Goniophotometric scan below 5°D, check max ≤ 8000 cd.",
+  "drop_reason": "merged into R-0348"
+ },
+ {
+  "id": "R-0356",
+  "text": "Conformity with the requirements of paragraph 5 shall be verified by complying with the minimum requirements for conformity of production control procedures set forth in Annex 4, covering the photometric and colorimetric characteristics of the lamp.",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 27,
+   "paragraph": "6.1.1"
+  },
+  "why": "Production lamps must meet Annex 4 CoP control requirements for their photometric and colorimetric performance.",
+  "section": "6",
+  "test_case": "Periodic in-production photometric and chromaticity measurements per Annex 4.",
+  "drop_reason": "manufacturer CoP procedure"
+ },
+ {
+  "id": "R-0357",
+  "text": "Conformity with the requirements of paragraph 5 shall be verified by complying with the minimum requirements for sampling by an inspector set forth in Annex 5.",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 27,
+   "paragraph": "6.1.2"
+  },
+  "why": "Production lamps must pass inspector sampling per Annex 5.",
+  "section": "6",
+  "test_case": "Random samples of lamps measured photometrically and colorimetrically per the Annex 5 sampling scheme.",
+  "drop_reason": "inspector sampling"
+ },
+ {
+  "id": "R-0360",
+  "text": "For a required minimum value of 3∙10^-1 cd throughout the fields specified in Annexes 2 and 3, the measured value shall correspond to at least 2∙10^-1 cd (20 per cent equivalent) and 1∙10^-1 cd (30 per cent equivalent).",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 27,
+   "paragraph": "6.1.3"
+  },
+  "why": "Table 12 row defining CoP minimum values for low-intensity field points.",
+  "section": "6",
+  "test_case": "Photometric measurement at the relevant field points of production samples.",
+  "drop_reason": "merged into R-0359"
+ },
+ {
+  "id": "R-0361",
+  "text": "For a required minimum value of 5∙10^-2 cd throughout the fields specified in Annexes 2 and 3, the measured value shall correspond to at least 3∙10^-2 cd (20 per cent equivalent) and 2∙10^-2 cd (30 per cent equivalent).",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 27,
+   "paragraph": "6.1.3"
+  },
+  "why": "Table 12 row defining CoP minimum values for low-intensity field points.",
+  "section": "6",
+  "test_case": "Photometric measurement at the relevant field points of production samples.",
+  "drop_reason": "merged into R-0359"
+ },
+ {
+  "id": "R-0370",
+  "text": "Unless specified otherwise, the values shown in Figures A3-I to A3-XV give, for the various directions of measurement, the minimum intensities as a percentage of the minimum intensities required. These values shall be mathematically rounded down to three significant digits.",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 35,
+   "paragraph": "Annex 3 1.1"
+  },
+  "why": "Defines the minimum intensity pass criterion at each grid point for the rear position, stop and reversing lamps.",
+  "section": "Annex 3",
+  "test_case": "Goniophotometric measurement at grid points, compared with the percentage of the required minimum rounded down to three significant digits.",
+  "drop_reason": "informative explanation of figures/rounding"
+ },
+ {
+  "id": "R-0380",
+  "text": "In the case of a lamp equipped with a replaceable light source, if the photometric test results do not meet the requirements, the tests on the lamp shall be repeated using another standard light source.",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 42,
+   "paragraph": "Annex 4 1.2.1"
+  },
+  "why": "Conditional CoP rule because the replaceability of the LED light sources has not yet been confirmed.",
+  "section": "Annex 4",
+  "test_case": "If the LED light sources are confirmed replaceable, repeat a failed photometric test with another standard light source.",
+  "drop_reason": "retest procedure"
+ },
+ {
+  "id": "R-0383",
+  "text": "The production of the lamp shall be such that, with a confidence level of 95 per cent, the minimum probability of passing a spot check in accordance with Annex 5 is 0.95.",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 43,
+   "paragraph": "Annex 4 2.5"
+  },
+  "why": "Sets the statistical acceptability criterion that the lamp's production consistency must meet.",
+  "section": "Annex 4",
+  "test_case": "Perform a statistical analysis of production photometric and colorimetric test results to demonstrate at least a 0.95 pass probability at 95 % confidence.",
+  "drop_reason": "statistics/sampling"
+ },
+ {
+  "id": "R-0522",
+  "text": "Where the lamp is approved for LED substitute light source(s), the marking of the category or categories of LED substitute light source(s) prescribed shall be visible when the lamp is fitted on the vehicle or when a movable part such as the hood or boot lid or a door is opened.",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 8,
+   "paragraph": "3.3.4.2"
+  },
+  "why": "[recall pass] This is a separate visibility obligation for a conditional marking on the lamp, merged by the first reader into the approval-marking visibility requirement.",
+  "section": "3.3",
+  "test_case": "Inspect the lamp fitted on the vehicle and check that any LED substitute light source category marking is visible, directly or after opening the boot lid or door.",
+  "drop_reason": "duplicate of R-0271"
+ },
+ {
+  "id": "R-0524",
+  "text": "In the case of replaceable UN approved light source(s) controlled by an electronic light source control gear or variable intensity control, the standard light source(s) shall have a luminous flux value that does not deviate more than 5 per cent from its reference/objective luminous flux value when test voltage is applied.",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 13,
+   "paragraph": "4.8.1.1.1"
+  },
+  "why": "[recall pass] Conditional test condition constraining photometric verification of the lamp.",
+  "section": "4",
+  "test_case": "Measure standard light source flux at test voltage and confirm deviation ≤ 5 per cent.",
+  "drop_reason": "standard light source test method"
+ },
+ {
+  "id": "R-0525",
+  "text": "In the case where the lamp also has to be approved with LED substitute light source(s), all measurements, photometric and colorimetric, shall be repeated using the LED substitute light source(s) prescribed.",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 13,
+   "paragraph": "4.8.1.6"
+  },
+  "why": "[recall pass] Conditional verification requirement for the lamp if approved with LED substitute light sources.",
+  "section": "4",
+  "test_case": "Repeat photometric and colorimetric measurements with the prescribed LED substitute light sources.",
+  "drop_reason": "test procedure"
+ },
+ {
+  "id": "R-0526",
+  "text": "The limits of the apparent surface in the direction of the reference axis of a light-signalling lamp shall be determined.",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 14,
+   "paragraph": "4.8.1.9"
+  },
+  "why": "[recall pass] Applies to the rear position, stop and reversing lamp functions as light-signalling lamps.",
+  "section": "4",
+  "test_case": "Determine and document the apparent surface outline of each function in the reference axis direction.",
+  "drop_reason": "measurement procedure"
+ },
+ {
+  "id": "R-0527",
+  "text": "In case of lamps equipped with multiple replaceable UN approved light sources, the lamp shall be operated at a voltage or electrical current setting such that the actual luminous fluxes of the light sources do not deviate by more than 5 per cent from the average luminous flux of the light sources, and the measured luminous intensities shall be corrected proportionally for the difference between the average luminous flux and the applicable reference/objective luminous flux.",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 14,
+   "paragraph": "4.8.2.3"
+  },
+  "why": "[recall pass] Conditional test operating condition for the lamp if multiple replaceable light sources are used.",
+  "section": "4",
+  "test_case": "Check light source fluxes within 5 per cent of average and apply proportional correction to measured intensities.",
+  "drop_reason": "test operating method"
+ },
+ {
+  "id": "R-0537",
+  "text": "The sampled lamp shall meet the required chromaticity coordinates (red for the rear position and stop lamps, white for the reversing lamp).",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 43,
+   "paragraph": "Annex 4 2.4"
+  },
+  "why": "[recall pass] The conformity-of-production colorimetric criterion applies to every lamp produced; the first reader merged it with the photometric criterion.",
+  "section": "Annex 4",
+  "test_case": "Measure the chromaticity coordinates of each function of a randomly sampled production lamp and check them against the prescribed colour limits.",
+  "drop_reason": "duplicate of R-0382"
+ },
+ {
+  "id": "R-0422",
+  "text": "The retro-reflector (first group) shall be subjected successively to the water penetration test (Part 2 of Annex 6) and then, if this test is satisfactory, to the tests for resistance to fuels and lubricants (Parts 1 and 2 of Annex 7).",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 11,
+   "paragraph": "5.1.3.1"
+  },
+  "why": "Water and fuel/oil resistance of the retro-reflector is a type-approval condition.",
+  "section": "5",
+  "test_case": "Immersion water test followed by n-heptane/toluol and lubricating oil wipe tests.",
+  "drop_reason": "Sample grouping and test order (how the lab tests)"
+ },
+ {
+  "id": "R-0423",
+  "text": "The retro-reflector (second group) shall, if necessary, be subjected to the corrosion test in Part 4 of Annex 6, and then to the abrasive-strength test of the rear face of the retro-reflective device in Part 5 of Annex 6.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 11,
+   "paragraph": "5.1.3.1"
+  },
+  "why": "Corrosion and rear-face resistance of the retro-reflector are verified.",
+  "section": "5",
+  "test_case": "Salt-mist test 24 h + 2 h + 24 h, then rear face brushing/fuel test.",
+  "drop_reason": "Sample grouping and test order (how the lab tests)"
+ },
+ {
+  "id": "R-0424",
+  "text": "The retro-reflector (third group) shall be subjected to the test for stability in time of the optical properties of retro-reflective device in Part 3 of Annex 4.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 11,
+   "paragraph": "5.1.3.1"
+  },
+  "why": "Optical stability of the retro-reflector is verified.",
+  "section": "5",
+  "test_case": "Stability-in-time test followed by colour and RI check.",
+  "drop_reason": "Sample grouping (how the lab tests)"
+ },
+ {
+  "id": "R-0425",
+  "text": "The retro-reflector (fourth group) shall be subjected to the resistance to weathering test (Part 6 of Annex 6).",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 11,
+   "paragraph": "5.1.3.1"
+  },
+  "why": "UV/weathering resistance of the PMMA retro-reflector is verified.",
+  "section": "5",
+  "test_case": "500 h accelerated artificial weathering per EN ISO 4892-2, then colour and RI check.",
+  "drop_reason": "Sample grouping (how the lab tests)"
+ },
+ {
+  "id": "R-0432",
+  "text": "When measured as described in paragraph 3 of Part 1 of Annex 4, the RI values of the red Class IA/IB retro-reflector at an angle of divergence of 1°30' shall be equal to or greater than 5 mcd/lx at β1 = 0°, β2 = 0°; 2.8 mcd/lx at β1 = ±10°, β2 = 0°; and 2.5 mcd/lx at β1 = ±5°, β2 = ±20°.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 12,
+   "paragraph": "5.1.4.4.1"
+  },
+  "why": "Red Class IA/IB retro-reflector minimum RI values from Table 3.",
+  "section": "5",
+  "test_case": "Goniophotometric RI measurement at 1°30' divergence for the listed illumination angles.",
+  "drop_reason": "merged into R-0431"
+ },
+ {
+  "id": "R-0435",
+  "text": "The night-time colour of the retro-reflector shall be tested according to the method described in paragraph 4.2.1.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 13,
+   "paragraph": "5.1.5.1"
+  },
+  "why": "Defines the colour verification condition for the retro-reflector.",
+  "section": "5",
+  "test_case": "Colour measurement with CIE Illuminant A per paragraph 4.2.1.",
+  "drop_reason": "Reference to test method only"
+ },
+ {
+  "id": "R-0447",
+  "text": "If the retro-reflector is reciprocally incorporated or grouped with signalling or lighting functions and the moisture test is applied, these functions shall be operated at design voltage according to a cycle of 5 min ON, 55 min OFF.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 44,
+   "paragraph": "Annex 6 Part 3 2.2.3"
+  },
+  "why": "Retro-reflector is grouped with rear position, stop and reversing lamps.",
+  "section": "5",
+  "test_case": "Operate the lamp functions during the 12 h spray test per the cycle.",
+  "drop_reason": "Duplicate of R-0478"
+ },
+ {
+  "id": "R-0448",
+  "text": "Upon completion of the drain period of the moisture test, no standing pool of water shall be allowed to be formed in the device, or which can be formed by tapping or tilting the device.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 44,
+   "paragraph": "Annex 6 Part 3 2.2.6"
+  },
+  "why": "Applies if the Class IB alternative moisture/dust test is used for the sealed lamp.",
+  "section": "5",
+  "test_case": "Inspect interior after spray test and drain period, tapping/tilting the device.",
+  "drop_reason": "Duplicate of R-0482"
+ },
+ {
+  "id": "R-0449",
+  "text": "When the RI of the retro-reflector is measured for an angle β of β1 = β2 = 0°, it shall be ascertained whether any mirror effect is produced by slightly turning the device.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 28,
+   "paragraph": "Annex 4 Part 1 1.1"
+  },
+  "why": "Defines the measurement position used to judge the retro-reflector's RI at normal incidence.",
+  "section": "Annex 4 Part 1",
+  "test_case": "Slightly turn the retro-reflector at β1 = β2 = 0° on the goniometer and observe whether RI shows a specular peak.",
+  "drop_reason": "Measurement procedure"
+ },
+ {
+  "id": "R-0450",
+  "text": "If a mirror effect is produced, the RI reading of the retro-reflector shall be taken with an angle β of β1 = -5°, β2 = 0°.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 28,
+   "paragraph": "Annex 4 Part 1 1.1"
+  },
+  "why": "Determines the incidence angle at which the retro-reflector's compliance is assessed.",
+  "section": "Annex 4 Part 1",
+  "test_case": "Where a mirror effect is found, measure RI at β1 = -5°, β2 = 0° and compare it with the paragraph 5 value.",
+  "drop_reason": "Measurement positioning"
+ },
+ {
+  "id": "R-0452",
+  "text": "When the RI is measured for the other angles of illumination and divergence, a retro-reflector not marked \"TOP\" shall be placed in the position corresponding to the minimum-RI value of ε.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 28,
+   "paragraph": "Annex 4 Part 1 1.2"
+  },
+  "why": "Defines the orientation in which the retro-reflector must meet all other RI values.",
+  "section": "Annex 4 Part 1",
+  "test_case": "Keep the retro-reflector at the minimum-RI rotation angle ε while measuring all other angle combinations.",
+  "drop_reason": "Sample positioning"
+ },
+ {
+  "id": "R-0455",
+  "text": "If, for the direction β1 = β2 = 0° and for ε = 0°, the RI of the retro-reflector exceeds the specified value by 50 per cent or more, all measurements for all angles of illumination and divergence shall be made for ε = 0°.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 28,
+   "paragraph": "Annex 4 Part 1 1.4"
+  },
+  "why": "Determines the rotation position in which the retro-reflector's compliance is assessed.",
+  "section": "Annex 4 Part 1",
+  "test_case": "Check whether RI at β = 0°, ε = 0° is at least 1.5 times the limit; if so, perform all measurements at ε = 0°.",
+  "drop_reason": "Measurement procedure"
+ },
+ {
+  "id": "R-0456",
+  "text": "The CIE-angular system shown in Figure A4-I shall be used for specifying and measuring the retro-reflector.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 29,
+   "paragraph": "Annex 4 Part 1 3.1"
+  },
+  "why": "Defines the angular reference against which the retro-reflector's performance is specified.",
+  "section": "Annex 4 Part 1",
+  "test_case": "Verify that the test report states the angles in the CIE co-ordinate system.",
+  "drop_reason": "Measurement angular system"
+ },
+ {
+  "id": "R-0457",
+  "text": "For testing the retro-reflection, the retro-reflector shall be illuminated with a CIE Standard Illuminant A (ISO 11664-2:2007(E)/CIE S 014-2/E:2006) and measured as described in Part 1 of Annex 4.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 30,
+   "paragraph": "Annex 4 Part 1 3.3"
+  },
+  "why": "Sets the illumination condition under which the retro-reflector's RI must comply.",
+  "section": "Annex 4 Part 1",
+  "test_case": "Confirm that the test source is calibrated to CIE Standard Illuminant A.",
+  "drop_reason": "Test illuminant set-up"
+ },
+ {
+  "id": "R-0458",
+  "text": "For the measurement of the retro-reflector, the angular diameter of the source shall be δ ≤ 10'.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 30,
+   "paragraph": "Annex 4 Part 1 3.4"
+  },
+  "why": "Sets the measuring geometry that conditions the retro-reflector's compliance.",
+  "section": "Annex 4 Part 1",
+  "test_case": "Check the source aperture size and distance geometry.",
+  "drop_reason": "Measurement equipment"
+ },
+ {
+  "id": "R-0459",
+  "text": "For the measurement of the retro-reflector, the angular diameter of the illuminated area shall be η ≤ 80'.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 30,
+   "paragraph": "Annex 4 Part 1 3.4"
+  },
+  "why": "Limits the retro-reflector's size relative to the test distance.",
+  "section": "Annex 4 Part 1",
+  "test_case": "Calculate the angle subtended by the largest dimension of the illuminating surface at the test distance.",
+  "drop_reason": "Measurement equipment"
+ },
+ {
+  "id": "R-0460",
+  "text": "The measuring distance for the retro-reflector shall respect at least the limits for the angles δ, γ and η, but shall not be lower than 10 m.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 30,
+   "paragraph": "Annex 4 Part 1 3.6"
+  },
+  "why": "Sets the test condition under which the retro-reflector's RI is assessed.",
+  "section": "Annex 4 Part 1",
+  "test_case": "Verify that the test distance is at least 10 m and that the angular limits are met.",
+  "drop_reason": "Measuring distance set-up"
+ },
+ {
+  "id": "R-0461",
+  "text": "The illuminance over the useful area of the retro-reflector, measured perpendicular to the incident light, shall be sufficiently uniform, with a variation of max/min ≤ 1.05, checked with a measuring element of sensitive area not greater than one-tenth of the area examined.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 30,
+   "paragraph": "Annex 4 Part 1 3.7"
+  },
+  "why": "Sets an illumination uniformity condition for the retro-reflector's photometric test.",
+  "section": "Annex 4 Part 1",
+  "test_case": "Scan the illuminance across the retro-reflector's useful area with a small sensor and verify max/min ≤ 1.05.",
+  "drop_reason": "Illuminance uniformity set-up"
+ },
+ {
+  "id": "R-0462",
+  "text": "The residual stray light, measured with the retro-reflector covered by an opaque matt black surface (or equivalent), shall be subtracted from the value measured on the retro-reflector.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 31,
+   "paragraph": "Annex 4 Part 1 4.1.3"
+  },
+  "why": "Defines how the retro-reflector's RI value is determined for pass/fail.",
+  "section": "Annex 4 Part 1",
+  "test_case": "Measure the background with the sample covered and subtract it from the RI reading.",
+  "drop_reason": "Stray light measurement procedure"
+ },
+ {
+  "id": "R-0463",
+  "text": "The shape of the illuminating surfaces of the retro-reflective device of Class IA or IB shall not be easily confused with the triangular shape, as prescribed for retro-reflectors mentioned in paragraph 2.1., from an observation distance of 10 metres.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 33,
+   "paragraph": "Annex 5 1.1"
+  },
+  "why": "The product includes a rear retro-reflector of Class IA/IB whose illuminating surface shape is constrained by this paragraph.",
+  "section": "Annex 5 1",
+  "test_case": "Visually inspect the retro-reflector illuminating surface from 10 m to confirm it cannot be easily confused with a triangular shape.",
+  "drop_reason": "Duplicate of R-0441"
+ },
+ {
+  "id": "R-0465",
+  "text": "After the heat resistance test, no cracking of the retro-reflective device, and in particular of its optical component, must be visible.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 42,
+   "paragraph": "Annex 6 Part 1 3"
+  },
+  "why": "This is the pass criterion for the heat test applied to the moulded plastics retro-reflector.",
+  "section": "Annex 6 Part 1",
+  "test_case": "Visually inspect the conditioned retro-reflector and its optical component for cracks.",
+  "drop_reason": "Duplicate of R-0442"
+ },
+ {
+  "id": "R-0469",
+  "text": "No water shall penetrate to the reflecting surface of the retro-reflecting optical unit.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 42,
+   "paragraph": "Annex 6 Part 2 1.2"
+  },
+  "why": "This is the pass/fail sealing criterion for the retro-reflector optical unit and its sealing to the lens/housing.",
+  "section": "Annex 6 Part 2",
+  "test_case": "After the immersion sequence, inspect the reflecting surface of the retro-reflecting optical unit for water ingress.",
+  "drop_reason": "Duplicate of R-0443"
+ },
+ {
+  "id": "R-0470",
+  "text": "If visual inspection clearly reveals the presence of water, the retro-reflective device shall not be considered to have passed the test.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 42,
+   "paragraph": "Annex 6 Part 2 1.2"
+  },
+  "why": "This defines the failure condition for the retro-reflector after the water test.",
+  "section": "Annex 6 Part 2",
+  "test_case": "Visually inspect for water inside the device; any clearly visible water means a fail.",
+  "drop_reason": "Duplicate of R-0443"
+ },
+ {
+  "id": "R-0474",
+  "text": "The sample device, mounted on a test fixture and with its initial RI measured and recorded, shall be subjected to the water spray.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 44,
+   "paragraph": "Annex 6 Part 3 2.2"
+  },
+  "why": "The initial RI is the baseline against which the retro-reflector's performance after moisture exposure is evaluated.",
+  "section": "Annex 6 Part 3",
+  "test_case": "Measure and record the RI of the retro-reflector before spraying the lamp mounted on its fixture.",
+  "drop_reason": "Test set-up"
+ },
+ {
+  "id": "R-0477",
+  "text": "During the water spray test, the device shall be rotated about its vertical axis at a rate of 4.0 ± 0.5 min-1.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 44,
+   "paragraph": "Annex 6 Part 3 2.2.2"
+  },
+  "why": "This is a test condition the lamp must withstand.",
+  "section": "Annex 6 Part 3",
+  "test_case": "Check the turntable speed with a tachometer during the test.",
+  "drop_reason": "Test fixture rotation set-up"
+ },
+ {
+  "id": "R-0481",
+  "text": "Upon completion of the drain period, the interior of the device shall be observed for moisture accumulation.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 44,
+   "paragraph": "Annex 6 Part 3 2.2.6"
+  },
+  "why": "This is the evaluation of the lamp's resistance to moisture ingress.",
+  "section": "Annex 6 Part 3",
+  "test_case": "Visually inspect the lamp interior after the drain period.",
+  "drop_reason": "Inspection procedure"
+ },
+ {
+  "id": "R-0483",
+  "text": "After the moisture test, the RI shall be measured according to the method specified in Part 1 of Annex 4 after having dried the exterior of the device with a dry cotton cloth.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 44,
+   "paragraph": "Annex 6 Part 3 2.2.6"
+  },
+  "why": "The retro-reflector's performance after moisture exposure must be verified.",
+  "section": "Annex 6 Part 3",
+  "test_case": "Dry the lens with a cotton cloth, measure the retro-reflector RI per Annex 4 Part 1, and compare it with the requirements.",
+  "drop_reason": "Measurement procedure"
+ },
+ {
+  "id": "R-0485",
+  "text": "The sample device, mounted on a test fixture and with its initial RI measured and recorded, shall be exposed to dust.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 44,
+   "paragraph": "Annex 6 Part 3 2.3.4"
+  },
+  "why": "The initial RI is the baseline for evaluating the retro-reflector after dust exposure.",
+  "section": "Annex 6 Part 3",
+  "test_case": "Record the initial retro-reflector RI before the dust exposure.",
+  "drop_reason": "Test set-up"
+ },
+ {
+  "id": "R-0488",
+  "text": "The mounted device shall be placed in the dust chamber no closer than 150 mm from a wall.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 45,
+   "paragraph": "Annex 6 Part 3 2.3.6"
+  },
+  "why": "This is a test condition for the lamp's dust exposure.",
+  "section": "Annex 6 Part 3",
+  "test_case": "Measure the distance from the lamp to the chamber walls.",
+  "drop_reason": "Sample positioning"
+ },
+ {
+  "id": "R-0489",
+  "text": "Devices with a length exceeding 600 mm shall be horizontally centred in the test chamber.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 45,
+   "paragraph": "Annex 6 Part 3 2.3.6"
+  },
+  "why": "This is a conditional test configuration depending on the lamp's size.",
+  "section": "Annex 6 Part 3",
+  "test_case": "Measure the lamp length and centre it in the chamber if it exceeds 600 mm.",
+  "drop_reason": "Sample positioning"
+ },
+ {
+  "id": "R-0491",
+  "text": "Upon completion of the dust exposure test, the exterior of the device shall be cleaned and dried with a dry cotton cloth and the RI measured according to the method specified in paragraph 5.1.3.2.2. of this Regulation.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 45,
+   "paragraph": "Annex 6 Part 3 2.3.7"
+  },
+  "why": "The retro-reflector's photometric performance after dust exposure must be verified.",
+  "section": "Annex 6 Part 3",
+  "test_case": "Clean the lens, measure the RI at 20' divergence and β1 = β2 = 0°, and verify compliance with paragraph 5.1.4.",
+  "drop_reason": "Measurement procedure"
+ },
+ {
+  "id": "R-0492",
+  "text": "The retro-reflective device shall be so designed that it retains the prescribed photometric and colorimetric characteristics despite the humidity and corrosive influences to which it is normally exposed.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 45,
+   "paragraph": "Annex 6 Part 4 1"
+  },
+  "why": "The rear lamp incorporates a retro-reflector (P-05) subject to the corrosion resistance requirement.",
+  "section": "Annex 6 Part 4",
+  "test_case": "Perform the ISO 9227:2017 saline mist corrosion test and re-verify photometric and colorimetric values afterwards.",
+  "drop_reason": "Duplicate of R-0444"
+ },
+ {
+  "id": "R-0497",
+  "text": "Before measuring the coefficient of retro-reflection after the corrosion test, the surface of the retro-reflective device shall be cleaned to remove salt deposits from the saline mist.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 45,
+   "paragraph": "Annex 6 Part 4 4.2"
+  },
+  "why": "Test condition constraining the post-corrosion evaluation of the retro-reflector.",
+  "section": "Annex 6 Part 4",
+  "test_case": "Verify salt deposits are removed from the retro-reflector surface before the post-test photometric measurement.",
+  "drop_reason": "Measurement preparation procedure"
+ },
+ {
+  "id": "R-0499",
+  "text": "The outer surface of the retro-reflective device, in particular the illuminating surface, shall be lightly wiped with a cotton cloth soaked in the test mixture.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 47,
+   "paragraph": "Annex 7 Part 1 1.1"
+  },
+  "why": "This test condition applies to the product's moulded PMMA retro-reflector.",
+  "section": "Annex 7 Part 1",
+  "test_case": "Lightly wipe the outer and illuminating surface of the retro-reflector with a cotton cloth soaked in the test mixture.",
+  "drop_reason": "Application procedure, covered by R-0446"
+ },
+ {
+  "id": "R-0500",
+  "text": "After about five minutes of being wiped with the test mixture, the surface of the retro-reflective device shall not show any apparent surface changes.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 47,
+   "paragraph": "Annex 7 Part 1 1.1"
+  },
+  "why": "This pass/fail criterion applies to the product's moulded plastics retro-reflector.",
+  "section": "Annex 7 Part 1",
+  "test_case": "Visually inspect the wiped surface about five minutes after wiping and check for apparent surface changes.",
+  "drop_reason": "Duplicate of R-0446"
+ },
+ {
+  "id": "R-0501",
+  "text": "Slight surface cracks on the retro-reflective device after the fuel resistance test will not be objected to.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 47,
+   "paragraph": "Annex 7 Part 1 1.1"
+  },
+  "why": "This exception to the acceptance criterion applies to the product's retro-reflector.",
+  "section": "Annex 7 Part 1",
+  "test_case": "During the visual inspection, classify any cracks found and accept only slight surface cracks.",
+  "drop_reason": "Duplicate of R-0446"
+ },
+ {
+  "id": "R-0542",
+  "text": "For the retro-reflector photometry, the photometer head shall be corrected to the spectral luminous efficiency for the CIE standard photometric observer in photopic vision.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 31,
+   "paragraph": "Annex 4 Part 1 3.8.1"
+  },
+  "why": "[recall pass] This measurement condition determines the validity of the RI values the retro-reflector must meet.",
+  "section": "Annex 4 Part 1",
+  "test_case": "Check the photometer head calibration certificate for V(λ) correction before measuring the retro-reflector RI.",
+  "drop_reason": "Measurement equipment"
+ },
+ {
+  "id": "R-0543",
+  "text": "For the retro-reflector photometry, the photometer head shall not show a perceptible change in local sensitivity within the area of its aperture; otherwise suitable provisions shall be added, e.g. a diffusing window at a certain distance in front of the sensitive surface.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 31,
+   "paragraph": "Annex 4 Part 1 3.8.2"
+  },
+  "why": "[recall pass] This test condition constrains how the retro-reflector's compliance with RI limits is established.",
+  "section": "Annex 4 Part 1",
+  "test_case": "Verify the uniformity of the photometer head's local sensitivity, or confirm a diffusing window is fitted.",
+  "drop_reason": "Measurement equipment"
+ },
+ {
+  "id": "R-0544",
+  "text": "During retro-reflector photometry, the field of view of the photometer head and the spread of light from both the sample and the source shall be restricted as much as possible.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 31,
+   "paragraph": "Annex 4 Part 1 4.1.1"
+  },
+  "why": "[recall pass] This stray-light condition applies to the RI measurement of the retro-reflector.",
+  "section": "Annex 4 Part 1",
+  "test_case": "Inspect the test set-up for apertures and masking that restrict the field of view and the light spread.",
+  "drop_reason": "Measurement set-up"
+ },
+ {
+  "id": "R-0545",
+  "text": "During retro-reflector photometry, reflections from the floor and walls shall be screened from both the sample and the photometer head by baffles.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 31,
+   "paragraph": "Annex 4 Part 1 4.1.2"
+  },
+  "why": "[recall pass] This test condition affects the RI value measured for the retro-reflector.",
+  "section": "Annex 4 Part 1",
+  "test_case": "Inspect the photometric tunnel for baffles that screen floor and wall reflections.",
+  "drop_reason": "Measurement set-up"
+ },
+ {
+  "id": "R-0546",
+  "text": "During the dust exposure test, the dust shall be allowed to settle between the agitation periods.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 45,
+   "paragraph": "Annex 6 Part 3 2.3.6"
+  },
+  "why": "[recall pass] ",
+  "section": "Annex 6 Part 3",
+  "test_case": "Review the dust test log to confirm agitation stops and the dust settles between agitation periods.",
+  "drop_reason": "Duplicate of R-0490"
+ },
+ {
+  "id": "R-0547",
+  "text": "The retro-reflective device, stripped of all removable parts, shall withstand a saline mist for a period of 50 hours, comprising two periods of exposure of 24 hours each separated by an interval of two hours during which the sample is allowed to dry.",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 45,
+   "paragraph": "Annex 6 Part 4 2"
+  },
+  "why": "[recall pass] P-05 is a separate retro-reflector element, so the device itself must meet the saline-mist exposure condition.",
+  "section": "Annex 6 Part 4",
+  "test_case": "Expose the stripped retro-reflector to 2 × 24 h of saline mist with a 2 h drying interval per ISO 9227:2017, then inspect it and measure RA.",
+  "drop_reason": "Duplicate of R-0494"
+ },
+ {
+  "id": "R-0117",
+  "text": "In the absence of specific instructions, the height and orientation of the lamps shall be verified with the vehicle unladen and placed on a flat, horizontal surface, in the normal condition of use.",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 19,
+   "paragraph": "5.4"
+  },
+  "why": "Defines the condition in which the rear lamp position must comply.",
+  "section": "5",
+  "test_case": "Measure lamp height and orientation on unladen vehicle on a flat surface.",
+  "drop_reason": "Describes verification conditions (how measured), not a product constraint"
+ },
+ {
+  "id": "R-0191",
+  "text": "For the purposes of reducing the geometric visibility angles, the position of the stop lamp with regard to height above the ground shall be measured from the H plane.",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 21,
+   "paragraph": "5.8.1"
+  },
+  "why": "This defines how the 750 mm mounting threshold is applied to P-02.",
+  "section": "6.7",
+  "test_case": "Determine the H-plane height of the stop lamp to decide whether the reduced visibility angles apply.",
+  "drop_reason": "Measurement reference method, no product constraint"
+ },
+ {
+  "id": "R-0214",
+  "text": "If the rear position lamp is reciprocally incorporated with a direction-indicator, the electrical connection of the rear position lamp on the relevant side of the vehicle, or the reciprocally incorporated part of it, may be such that it is switched OFF during the entire time (both ON and OFF cycle) of operation of the direction-indicator lamp.",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 51,
+   "paragraph": "6.10.7"
+  },
+  "why": "Conditional electrical connection option for reciprocally incorporated lamps.",
+  "section": "6.10",
+  "test_case": "Activate the direction indicator and verify the rear position lamp on that side is off for the entire operating period, if this option is used.",
+  "drop_reason": "Concerns direction-indicator incorporation; product has no direction indicator"
+ },
+ {
+  "id": "R-0224",
+  "text": "For M1 and N1 category vehicles, the distance between the inner edges of the two apparent surfaces in the direction of the reference axes shall have no special requirement.",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 55,
+   "paragraph": "6.14.4.1"
+  },
+  "why": "States the applicable inner-edge spacing rule for the M1 vehicle.",
+  "section": "6.14",
+  "drop_reason": "States no special requirement; no constraint"
+ },
+ {
+  "id": "R-0237",
+  "text": "For verifying that no red light is visible to the front and no white light (other than from the reversing lamp) is visible to the rear, the zones 1 and 2 explored by the eye of the observer shall be bounded in height by two horizontal planes 1 m and 2.2 m respectively above the ground.",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 106,
+   "paragraph": "Annex 4 0"
+  },
+  "why": "Defines the vertical extent of the zones in which the red rear lamps and the white reversing lamp light must not be visible against the wrong direction.",
+  "section": "Annex 4",
+  "test_case": "With the lamp installed on the vehicle, check from observation points between 1 m and 2.2 m height that no red light is directly visible from the front zone and no white light other than from the reversing lamp is directly visible from the rear zone.",
+  "drop_reason": "Observation zone geometry for verification (test method)"
+ },
+ {
+  "id": "R-0238",
+  "text": "The zones 1 and 2 explored by the eye of the observer shall be bounded in width by two vertical planes which, forming to the front and to the rear respectively an angle of 15° outwards from the vehicle's median longitudinal plane, pass through the point or points of contact of vertical planes parallel to the vehicle's median longitudinal plane delimiting the vehicle's overall width.",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 106,
+   "paragraph": "Annex 4 0"
+  },
+  "why": "Defines the lateral extent of the visibility zones that constrain light leakage and wrap-around design of the red lamp and white reversing compartment.",
+  "section": "Annex 4",
+  "test_case": "Lay out the 15° outward boundary planes from the vehicle's overall-width contact points and verify no red light from the rear lamp is directly visible in the front zone and no white light other than reversing lamp light in the rear zone.",
+  "drop_reason": "Observation zone geometry for verification (test method)"
+ },
+ {
+  "id": "R-0239",
+  "text": "Where there are several points of contact of the vertical planes delimiting the vehicle's overall width, the foremost shall correspond to the forward plane and the rearmost to the rearward plane.",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 106,
+   "paragraph": "Annex 4 0"
+  },
+  "why": "Determines the origin of the rear zone boundary used to assess visibility of light from the rear lamp mounted at the vehicle rear.",
+  "section": "Annex 4",
+  "test_case": "Inspect vehicle outline to identify the rearmost width contact point and use it as origin of the rearward 15° boundary plane when assessing white/red light visibility.",
+  "drop_reason": "Observation zone geometry for verification (test method)"
+ },
+ {
+  "id": "R-0513",
+  "text": "The requirement that the rear position lamps can only be switched ON and OFF simultaneously with the other lamps of paragraph 5.11 does not apply while daytime running lamps are switched ON.",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 22,
+   "paragraph": "5.11.1"
+  },
+  "why": "[recall pass] This exception to the simultaneous-switching rule is distinct from the parking-lamp exception and affects the rear position lamp wiring logic.",
+  "section": "5",
+  "test_case": "Check the switching logic with DRL active and confirm the rear position lamp behaviour.",
+  "drop_reason": "Duplicate of R-0138 (same paragraph)"
+ },
+ {
+  "id": "R-0520",
+  "text": "Stop lamp devices of S3 or S4 category shall be fitted on M1 category vehicles.",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 45,
+   "paragraph": "6.7.1"
+  },
+  "why": "[recall pass] Presence rule for the M1 vehicle on which the S1/S2 stop lamps are installed; it sets the S3/S4 interface referenced in 6.7.4.2.2.",
+  "section": "6.7",
+  "test_case": "Inspect the vehicle installation for the presence of an S3 or S4 category stop lamp alongside the S1/S2 rear lamps.",
+  "drop_reason": "S3/S4 category device not part of this product"
+ },
+ {
+  "id": "R-0521",
+  "text": "Where the rear retro-reflector is grouped with any rear lamp(s), its height above the ground shall not be more than 1,200 mm.",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 55,
+   "paragraph": "6.14.4.2"
+  },
+  "why": "[recall pass] x",
+  "section": "6.14",
+  "test_case": "Measure the height of the highest point of the illuminating surface above ground on the vehicle with the retro-reflector grouped in the rear lamp.",
+  "drop_reason": "Duplicate of R-0225 (same paragraph)"
+ }
+]

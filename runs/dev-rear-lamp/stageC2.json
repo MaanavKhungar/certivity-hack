@@ -1,0 +1,489 @@
+[
+ {
+  "regulation": "UN R10",
+  "key": "5",
+  "requirements": [
+   {
+    "paragraph": "5.2.2",
+    "text": "No marking is required for electrical/electronic systems built into vehicles which are approved as units.",
+    "test_case": "Check whether the ESA is approved as part of a vehicle unit approval and, if so, confirm that no separate ESA approval mark is required.",
+    "why": "[recall pass] Exception to the ESA marking obligation that determines whether the LED PCB must carry the R10 mark."
+   }
+  ]
+ },
+ {
+  "regulation": "UN R10",
+  "key": "6",
+  "requirements": []
+ },
+ {
+  "regulation": "UN R10",
+  "key": "9",
+  "requirements": []
+ },
+ {
+  "regulation": "UN R10",
+  "key": "Annex 7",
+  "requirements": [
+   {
+    "paragraph": "Annex 7 4.3",
+    "text": "When a scanning receiver is used for measurements in the 30 to 1,000 MHz range, the parameters of Table 2 shall be applied: peak detector BW at -6 dB 120 kHz, maximum step size 60 kHz, minimum dwell time 5 ms; quasi-peak detector BW at -6 dB 120 kHz, maximum step size 60 kHz, minimum dwell time 1 s.",
+    "test_case": "Review the receiver settings in the test report against Table 2.",
+    "why": "[recall pass] The ESA (LED PCB) emission measurement validity depends on the prescribed receiver parameters; this was merged with the spectrum analyser parameters."
+   },
+   {
+    "paragraph": "Annex 7 4.3",
+    "text": "If FFT-based instruments are used, the minimum measurement time shall be 1 s per analysis frequency band (in real-time mode) of the FFT instrument.",
+    "test_case": "Check the FFT instrument dwell or measurement time per band in the test log.",
+    "why": "[recall pass] This is a distinct test-condition obligation that was merged with the continuous-recording requirement for the ESA emission test."
+   },
+   {
+    "paragraph": "Annex 7 4.4",
+    "text": "Where the frequency range is divided into the 14 frequency bands 30-34, 34-45, 45-60, 60-80, 80-100, 100-130, 130-170, 170-225, 225-300, 300-400, 400-525, 525-700, 700-850 and 850-1,000 MHz, tests shall be performed at the 14 frequencies giving the highest emission levels within each band to confirm that the ESA meets the requirements of this Annex.",
+    "test_case": "Verify that the reduced test covers the highest-emission frequency in each of the 14 bands and that the ESA is within the limits.",
+    "why": "[recall pass] This alternative test case for the ESA's compliance was merged into the CISPR 12 interval requirement."
+   }
+  ]
+ },
+ {
+  "regulation": "UN R10",
+  "key": "Annex 8",
+  "requirements": [
+   {
+    "paragraph": "Annex 8 4.4",
+    "text": "Alternatively, if measurement data for the whole frequency band from a test laboratory accredited to the applicable parts of ISO 17025 and recognized by the Type Approval Authority are provided, the frequency range may be divided into the 14 frequency bands 30-34, 34-45, 45-60, 60-80, 80-100, 100-130, 130-170, 170-225, 225-300, 300-400, 400-525, 525-700, 700-850 and 850-1,000 MHz. In that case, the ESA shall be tested at the 14 frequencies giving the highest emission levels within each band and shall meet the requirements of this Annex at those frequencies.",
+    "test_case": "Review the accredited full-band report, select the highest-emission frequency in each of the 14 bands and retest the ESA at those frequencies against the limit.",
+    "why": "[recall pass] States the alternative compliance-confirmation condition for the lamp's LED PCB ESA, which the first reader merged into the CISPR 12 interval requirement."
+   },
+   {
+    "paragraph": "Annex 8 4.3",
+    "text": "Spectrum analysers and FFT-based instruments used for conformity measurements of the ESA shall meet the requirements of CISPR 16-1-1.",
+    "test_case": "Verify the calibration and compliance certificate of the measuring instrument against CISPR 16-1-1.",
+    "why": "[recall pass] Constrains the instruments that can be used to demonstrate the ESA's narrowband emission compliance."
+   }
+  ]
+ },
+ {
+  "regulation": "UN R10",
+  "key": "Annex 9",
+  "requirements": [
+   {
+    "paragraph": "Annex 9 2.4",
+    "text": "No extraneous equipment shall be closer than 1 m from the reference point during calibration.",
+    "test_case": "Inspect the calibration set-up and confirm that no extraneous equipment is within 1 m of the reference point.",
+    "why": "[recall pass] This is a separate test-condition constraint on ESA immunity testing; the first reader merged it with the equipment-absence rule."
+   },
+   {
+    "paragraph": "Annex 9 2.6",
+    "text": "If the ESA under test consists of more than one unit and the wiring harnesses as intended for use in the vehicle are not available, the length between the electronic control unit and the AN shall be as defined in the standard.",
+    "test_case": "Measure the cable length between the ECU and the AN in the test set-up and compare it with the length defined in ISO 11452.",
+    "why": "[recall pass] This is the binding 'shall' fallback for multi-unit ESA harness length; the first reader merged it with the non-binding 'should' preference."
+   },
+   {
+    "paragraph": "Annex 9 4.3.2",
+    "text": "Where bulk current injection testing on a test bench uses the closed loop method, the test shall be performed according to ISO 11452-4 with the injection probe positioned at 900 mm distance to the ESA.",
+    "test_case": "Verify in the BCI closed-loop set-up that the injection probe is positioned 900 mm from the ESA.",
+    "why": "[recall pass] This is a distinct alternative test configuration for the LED PCB ESA; the first reader merged it with the substitution method."
+   }
+  ]
+ },
+ {
+  "regulation": "UN R10",
+  "key": "Annex 10",
+  "requirements": []
+ },
+ {
+  "regulation": "UN R48",
+  "key": "5",
+  "requirements": [
+   {
+    "paragraph": "5.11.1",
+    "text": "The requirement that the rear position lamps can only be switched ON and OFF simultaneously with the other lamps of paragraph 5.11 does not apply while daytime running lamps are switched ON.",
+    "test_case": "Check the switching logic with DRL active and confirm the rear position lamp behaviour.",
+    "why": "[recall pass] This exception to the simultaneous-switching rule is distinct from the parking-lamp exception and affects the rear position lamp wiring logic."
+   },
+   {
+    "paragraph": "5.18.2",
+    "text": "Where the rear position lamp or rear retro-reflector function on movable components is obtained by an assembly of two lamps marked \"D\", only one of the lamps needs to meet the position, geometric visibility and photometric requirements at all fixed positions of the movable components.",
+    "test_case": "Measure position, visibility and photometry of the designated \"D\" lamp at all fixed positions of the movable component.",
+    "why": "[recall pass] This conditional installation rule applies to the rear position lamp and retro-reflector when they are split across a movable component."
+   },
+   {
+    "paragraph": "5.18.4",
+    "text": "Where the rear position lamp function is obtained by an interdependent lamp system mounted completely on the moving component(s), the requirements of paragraph 5.18.1 shall be satisfied, and any additional lamps switched ON in a fixed open position shall satisfy all the position, geometric visibility, colorimetric and photometric requirements applicable to the lamps installed on the movable component.",
+    "test_case": "Verify photometry, colour and visibility of the interdependent system and of any additional lamps at all fixed positions.",
+    "why": "[recall pass] This conditional rule applies to the rear position lamp when it is realised as an interdependent system on a movable component."
+   },
+   {
+    "paragraph": "5.18.4",
+    "text": "Where the rear position lamp interdependent lamp system is partly mounted on the fixed component and partly on a movable component, the interdependent lamp(s) specified by the Applicant shall meet all the position, outwards geometric visibility, colorimetric and photometric requirements at all fixed positions of the movable component(s), and the inwards geometric visibility requirement is deemed satisfied if they still conform to the photometric values prescribed in the field of light distribution.",
+    "test_case": "Measure the specified interdependent lamp at all fixed positions of the movable component.",
+    "why": "[recall pass] This conditional rule applies to the rear position lamp installed across fixed and movable components."
+   },
+   {
+    "paragraph": "5.22",
+    "text": "With the exception of retro-reflectors, a lamp even bearing an approval mark is deemed not to be present when it cannot be made to operate by the sole installation of a light source and/or a fuse.",
+    "test_case": "Verify that each lamp function operates with only light source/fuse installation and no additional modification.",
+    "why": "[recall pass] Each lamp function of the product must be operable in this way to count as fitted."
+   },
+   {
+    "paragraph": "5.7.2.4",
+    "text": "Where two lamps or an even number of lamps in the shape of a band or strip are used, they shall be placed symmetrically in relation to the median longitudinal plane of the vehicle, extend on both sides to within at least 0.4 m of the extreme outer edge of the vehicle, be not less than 0.8 m long, and be illuminated by not less than two light sources placed as close as possible to the ends.",
+    "test_case": "Measure strip length, lateral extent and light source positions on the vehicle.",
+    "why": "[recall pass] This conditional design and installation rule applies if the rear lamp is executed as a band/strip interdependent system."
+   },
+   {
+    "paragraph": "5.9.1",
+    "text": "Where the stop lamps are used as the emergency stop signal, the emergency stop signal shall be a flashing lamp.",
+    "test_case": "Activate the emergency stop signal and verify that the stop lamps flash.",
+    "why": "[recall pass] This conditional obligation applies to the stop lamp function if it provides the emergency stop signal."
+   }
+  ]
+ },
+ {
+  "regulation": "UN R48",
+  "key": "6.4",
+  "requirements": []
+ },
+ {
+  "regulation": "UN R48",
+  "key": "6.7",
+  "requirements": [
+   {
+    "paragraph": "6.7.1",
+    "text": "Stop lamp devices of S3 or S4 category shall be fitted on M1 category vehicles.",
+    "test_case": "Inspect the vehicle installation for the presence of an S3 or S4 category stop lamp alongside the S1/S2 rear lamps.",
+    "why": "[recall pass] Presence rule for the M1 vehicle on which the S1/S2 stop lamps are installed; it sets the S3/S4 interface referenced in 6.7.4.2.2."
+   }
+  ]
+ },
+ {
+  "regulation": "UN R48",
+  "key": "6.10",
+  "requirements": []
+ },
+ {
+  "regulation": "UN R48",
+  "key": "6.14",
+  "requirements": [
+   {
+    "paragraph": "6.14.4.2",
+    "text": "Where the rear retro-reflector is grouped with any rear lamp(s), its height above the ground shall not be more than 1,200 mm.",
+    "test_case": "Measure the height of the highest point of the illuminating surface above ground on the vehicle with the retro-reflector grouped in the rear lamp.",
+    "why": "[recall pass] x"
+   }
+  ]
+ },
+ {
+  "regulation": "UN R48",
+  "key": "8",
+  "requirements": []
+ },
+ {
+  "regulation": "UN R48",
+  "key": "Annex 4",
+  "requirements": []
+ },
+ {
+  "regulation": "UN R148",
+  "key": "3.3",
+  "requirements": [
+   {
+    "paragraph": "3.3.4.2",
+    "text": "Where the lamp is approved for LED substitute light source(s), the marking of the category or categories of LED substitute light source(s) prescribed shall be visible when the lamp is fitted on the vehicle or when a movable part such as the hood or boot lid or a door is opened.",
+    "test_case": "Inspect the lamp fitted on the vehicle and check that any LED substitute light source category marking is visible, directly or after opening the boot lid or door.",
+    "why": "[recall pass] This is a separate visibility obligation for a conditional marking on the lamp, merged by the first reader into the approval-marking visibility requirement."
+   }
+  ]
+ },
+ {
+  "regulation": "UN R148",
+  "key": "4",
+  "requirements": [
+   {
+    "paragraph": "4.6.2",
+    "text": "In case of failure of the variable intensity control of a rear position lamp category R2 emitting more than the maximum value of category R1, the requirements of steady luminous intensity of the respective category shall be fulfilled automatically.",
+    "test_case": "Simulate failure of the variable intensity control and measure that rear position lamp intensities fall within the steady-intensity category limits.",
+    "why": "[recall pass] Conditional failure-mode obligation for the rear position lamp function if it is of category R2."
+   },
+   {
+    "paragraph": "4.6.2",
+    "text": "In case of failure of the variable intensity control of a stop lamp category S2 emitting more than the maximum value of category S1, the requirements of steady luminous intensity of the respective category shall be fulfilled automatically.",
+    "test_case": "Simulate variable intensity control failure and measure stop lamp intensity against S1 steady limits.",
+    "why": "[recall pass] Conditional failure-mode obligation for the stop lamp function if it is of category S2."
+   },
+   {
+    "paragraph": "4.6.2",
+    "text": "In case of failure of the variable intensity control of a stop lamp category S4 emitting more than the maximum value of category S3, the requirements of steady luminous intensity of the respective category shall be fulfilled automatically.",
+    "test_case": "Simulate variable intensity control failure and measure stop lamp intensity against S3 steady limits.",
+    "why": "[recall pass] Conditional failure-mode obligation for the stop lamp function if it is of category S4."
+   },
+   {
+    "paragraph": "4.8.1.1.1",
+    "text": "In the case of replaceable UN approved light source(s) controlled by an electronic light source control gear or variable intensity control, the standard light source(s) shall have a luminous flux value that does not deviate more than 5 per cent from its reference/objective luminous flux value when test voltage is applied.",
+    "test_case": "Measure standard light source flux at test voltage and confirm deviation ≤ 5 per cent.",
+    "why": "[recall pass] Conditional test condition constraining photometric verification of the lamp."
+   },
+   {
+    "paragraph": "4.8.1.6",
+    "text": "In the case where the lamp also has to be approved with LED substitute light source(s), all measurements, photometric and colorimetric, shall be repeated using the LED substitute light source(s) prescribed.",
+    "test_case": "Repeat photometric and colorimetric measurements with the prescribed LED substitute light sources.",
+    "why": "[recall pass] Conditional verification requirement for the lamp if approved with LED substitute light sources."
+   },
+   {
+    "paragraph": "4.8.1.9",
+    "text": "The limits of the apparent surface in the direction of the reference axis of a light-signalling lamp shall be determined.",
+    "test_case": "Determine and document the apparent surface outline of each function in the reference axis direction.",
+    "why": "[recall pass] Applies to the rear position, stop and reversing lamp functions as light-signalling lamps."
+   },
+   {
+    "paragraph": "4.8.2.3",
+    "text": "In case of lamps equipped with multiple replaceable UN approved light sources, the lamp shall be operated at a voltage or electrical current setting such that the actual luminous fluxes of the light sources do not deviate by more than 5 per cent from the average luminous flux of the light sources, and the measured luminous intensities shall be corrected proportionally for the difference between the average luminous flux and the applicable reference/objective luminous flux.",
+    "test_case": "Check light source fluxes within 5 per cent of average and apply proportional correction to measured intensities.",
+    "why": "[recall pass] Conditional test operating condition for the lamp if multiple replaceable light sources are used."
+   }
+  ]
+ },
+ {
+  "regulation": "UN R148",
+  "key": "5.2",
+  "requirements": [
+   {
+    "paragraph": "5.2.1",
+    "text": "Where the rear position lamp is of category R2 (variable), it shall have a minimum luminous intensity of 4∙10^0 cd (paragraph 4.8.3.1. (a)).",
+    "test_case": "Goniophotometer measurement of the minimum luminous intensity at the test points.",
+    "why": "[recall pass] Table 4 row for the R2 variable-intensity rear position lamp, applicable if the lamp is a variable-intensity version."
+   },
+   {
+    "paragraph": "5.2.1",
+    "text": "Where the rear position lamp is of category R2 (variable) and used as a single lamp, its luminous intensity shall not exceed a maximum of 4.2∙10^1 cd (paragraph 4.8.3.1. (b)).",
+    "test_case": "Goniophotometer measurement of the maximum luminous intensity over the light distribution.",
+    "why": "[recall pass] Table 4 maximum-intensity limit for the R2 rear position lamp used as a single lamp."
+   },
+   {
+    "paragraph": "5.2.1",
+    "text": "Where the rear position lamp of category R2 (variable) is marked \"D\" (paragraph 3.3.2.5.2.), its maximum luminous intensity shall not exceed 2.1∙10^1 cd.",
+    "test_case": "Goniophotometer measurement of the maximum luminous intensity of the D-marked lamp.",
+    "why": "[recall pass] Table 4 maximum-intensity limit for a D-marked R2 rear position lamp."
+   },
+   {
+    "paragraph": "5.2.1",
+    "text": "Where the rear position lamp is of category R2 (variable), it shall meet the standard light distribution of Figure A3-I (paragraph 4.8.3.1. (c)).",
+    "test_case": "Measure the intensity at the Figure A3-I grid points and compare with the required percentages.",
+    "why": "[recall pass] Table 4 light-distribution requirement for the R2 rear position lamp."
+   },
+   {
+    "paragraph": "5.2.2",
+    "text": "Where the rear position lamp is of category R2 (variable), it shall have a minimum luminous intensity of 5∙10^-2 cd within the angles of geometric visibility defined in Table A2-1 (paragraph 4.8.3.1. (d)).",
+    "test_case": "Measure the luminous intensity at the boundary of the geometric visibility angles.",
+    "why": "[recall pass] Table 4 geometric-visibility minimum for the R2 rear position lamp."
+   }
+  ]
+ },
+ {
+  "regulation": "UN R148",
+  "key": "5.5",
+  "requirements": [
+   {
+    "paragraph": "5.5.1",
+    "text": "For a stop lamp of category S2 (variable), the minimum luminous intensity shall be 60 cd (6.0∙10^1 cd).",
+    "test_case": "Goniophotometer measurement on the axis of reference of both samples in variable-intensity mode.",
+    "why": "[recall pass] Applies if the rear-lamp stop function is approved as variable-intensity category S2."
+   },
+   {
+    "paragraph": "5.5.1",
+    "text": "For a stop lamp of category S2 (variable) used as a single lamp, the maximum luminous intensity shall be 730 cd (7.30∙10^2 cd).",
+    "test_case": "Goniophotometer measurement of the maximum intensity over the light distribution field of a single lamp.",
+    "why": "[recall pass] Sets the intensity cap for an S2 stop lamp approved as a single lamp."
+   },
+   {
+    "paragraph": "5.5.1",
+    "text": "For a stop lamp of category S2 (variable) marked \"D\", the maximum luminous intensity shall be 365 cd (3.65∙10^2 cd).",
+    "test_case": "Goniophotometer measurement of the maximum intensity of the lamp marked \"D\".",
+    "why": "[recall pass] Sets the intensity cap for an S2 stop lamp approved as a \"D\"-marked lamp."
+   },
+   {
+    "paragraph": "5.5.1",
+    "text": "For a stop lamp of category S2 (variable), the standard light distribution shall be as defined in Figure A3-I.",
+    "test_case": "Measure intensities at the Figure A3-I grid points and compare with the prescribed percentages.",
+    "why": "[recall pass] Defines the required photometric distribution for an S2 stop lamp."
+   },
+   {
+    "paragraph": "5.5.1",
+    "text": "For a stop lamp of category S2 (variable), the angles of geometric visibility shall be as defined in Table A2-1.",
+    "test_case": "Verify the visibility angles of the apparent surface against Table A2-1.",
+    "why": "[recall pass] Defines the required visibility field for an S2 stop lamp."
+   },
+   {
+    "paragraph": "5.5.2",
+    "text": "For a stop lamp of category S2 (variable), the minimum luminous intensity within the angles of geometric visibility shall be 0.3 cd (3∙10^-1 cd) by day and 0.07 cd (7∙10^-2 cd) by night.",
+    "test_case": "Goniophotometer measurement across the geometric visibility field in both day and night modes.",
+    "why": "[recall pass] Sets the minimum intensity within the geometric visibility field for an S2 stop lamp."
+   }
+  ]
+ },
+ {
+  "regulation": "UN R148",
+  "key": "5.8",
+  "requirements": [
+   {
+    "paragraph": "5.8.1",
+    "text": "Where the type approval of the reversing lamp is granted applying the condition of verification only up to 30° inwards, the device shall only be installed in a pair.",
+    "test_case": "Check the approval documentation and vehicle installation drawings to confirm the reversing lamp is fitted only as one of a pair.",
+    "why": "[recall pass] This conditional installation restriction applies to the product's reversing lamp function if the pair-only photometric option is used."
+   }
+  ]
+ },
+ {
+  "regulation": "UN R148",
+  "key": "6",
+  "requirements": []
+ },
+ {
+  "regulation": "UN R148",
+  "key": "Annex 2",
+  "requirements": []
+ },
+ {
+  "regulation": "UN R148",
+  "key": "Annex 3",
+  "requirements": []
+ },
+ {
+  "regulation": "UN R148",
+  "key": "Annex 4",
+  "requirements": [
+   {
+    "paragraph": "Annex 4 2.4",
+    "text": "The sampled lamp shall meet the required chromaticity coordinates (red for the rear position and stop lamps, white for the reversing lamp).",
+    "test_case": "Measure the chromaticity coordinates of each function of a randomly sampled production lamp and check them against the prescribed colour limits.",
+    "why": "[recall pass] The conformity-of-production colorimetric criterion applies to every lamp produced; the first reader merged it with the photometric criterion."
+   }
+  ]
+ },
+ {
+  "regulation": "UN R148",
+  "key": "Annex 8",
+  "requirements": [
+   {
+    "paragraph": "Annex 8 2.1.3",
+    "text": "In case a lamp (function) uses any other light generating technology (neither incandescent only nor LED only), the corresponding intensity requirements of the lamp (function) shall be tested and checked for compliance at the corresponding point in time listed in Table A8-1, ending when photometric stability is reached.",
+    "test_case": "Measure luminous intensity over time from the Table A8-1 switch-ON point until photometric stability and check it against the minimum and maximum limits.",
+    "why": "[recall pass] The light source technology is stated as LED but still to be confirmed, so this conditional run-up compliance obligation may apply to the lamp functions."
+   }
+  ]
+ },
+ {
+  "regulation": "UN R150",
+  "key": "3.3",
+  "requirements": []
+ },
+ {
+  "regulation": "UN R150",
+  "key": "4",
+  "requirements": []
+ },
+ {
+  "regulation": "UN R150",
+  "key": "5",
+  "requirements": [
+   {
+    "paragraph": "5.1.7",
+    "text": "The retro-reflector shall withstand the test for stability in time of the optical properties (Part 3 of Annex 4), followed by colorimetry (visual inspection or trichromatic coordinates) and photometry limited to 20' and β1 = β2 = 0°.",
+    "test_case": "Run the Part 3 of Annex 4 stability test, then check colour and RI at 20' divergence and β1 = β2 = 0°.",
+    "why": "[recall pass] This Table 4 row applies to Class IA/IB retro-reflectors and sets a distinct post-ageing pass criterion."
+   },
+   {
+    "paragraph": "5.1.7",
+    "text": "The retro-reflector shall withstand the resistance to weathering test (Part 6 of Annex 6), followed by colorimetry (visual inspection or trichromatic coordinates) and photometry limited to 20' and β1 = β2 = 0°.",
+    "test_case": "Run the Part 6 of Annex 6 weathering test, then measure colour and RI at 20' divergence and β1 = β2 = 0°.",
+    "why": "[recall pass] This Table 4 row applies to Class IA/IB retro-reflectors and imposes a distinct weathering durability requirement."
+   },
+   {
+    "paragraph": "5.1.7",
+    "text": "The retro-reflector shall pass visual inspection against the general specifications (paragraph 4.) before the sequence of tests.",
+    "test_case": "Visually inspect all ten samples against the general specifications of paragraph 4.",
+    "why": "[recall pass] This is the first step of the Table 4 test sequence for Class IA/IB, and every sample must comply."
+   }
+  ]
+ },
+ {
+  "regulation": "UN R150",
+  "key": "Annex 4 Part 1",
+  "requirements": [
+   {
+    "paragraph": "Annex 4 Part 1 3.8.1",
+    "text": "For the retro-reflector photometry, the photometer head shall be corrected to the spectral luminous efficiency for the CIE standard photometric observer in photopic vision.",
+    "test_case": "Check the photometer head calibration certificate for V(λ) correction before measuring the retro-reflector RI.",
+    "why": "[recall pass] This measurement condition determines the validity of the RI values the retro-reflector must meet."
+   },
+   {
+    "paragraph": "Annex 4 Part 1 3.8.2",
+    "text": "For the retro-reflector photometry, the photometer head shall not show a perceptible change in local sensitivity within the area of its aperture; otherwise suitable provisions shall be added, e.g. a diffusing window at a certain distance in front of the sensitive surface.",
+    "test_case": "Verify the uniformity of the photometer head's local sensitivity, or confirm a diffusing window is fitted.",
+    "why": "[recall pass] This test condition constrains how the retro-reflector's compliance with RI limits is established."
+   },
+   {
+    "paragraph": "Annex 4 Part 1 4.1.1",
+    "text": "During retro-reflector photometry, the field of view of the photometer head and the spread of light from both the sample and the source shall be restricted as much as possible.",
+    "test_case": "Inspect the test set-up for apertures and masking that restrict the field of view and the light spread.",
+    "why": "[recall pass] This stray-light condition applies to the RI measurement of the retro-reflector."
+   },
+   {
+    "paragraph": "Annex 4 Part 1 4.1.2",
+    "text": "During retro-reflector photometry, reflections from the floor and walls shall be screened from both the sample and the photometer head by baffles.",
+    "test_case": "Inspect the photometric tunnel for baffles that screen floor and wall reflections.",
+    "why": "[recall pass] This test condition affects the RI value measured for the retro-reflector."
+   }
+  ]
+ },
+ {
+  "regulation": "UN R150",
+  "key": "Annex 5 1",
+  "requirements": []
+ },
+ {
+  "regulation": "UN R150",
+  "key": "Annex 6 Part 1",
+  "requirements": []
+ },
+ {
+  "regulation": "UN R150",
+  "key": "Annex 6 Part 2",
+  "requirements": []
+ },
+ {
+  "regulation": "UN R150",
+  "key": "Annex 6 Part 3",
+  "requirements": [
+   {
+    "paragraph": "Annex 6 Part 3 2.3.6",
+    "text": "During the dust exposure test, the dust shall be allowed to settle between the agitation periods.",
+    "test_case": "Review the dust test log to confirm agitation stops and the dust settles between agitation periods.",
+    "why": "[recall pass] "
+   }
+  ]
+ },
+ {
+  "regulation": "UN R150",
+  "key": "Annex 6 Part 4",
+  "requirements": [
+   {
+    "paragraph": "Annex 6 Part 4 2",
+    "text": "The retro-reflective device, stripped of all removable parts, shall withstand a saline mist for a period of 50 hours, comprising two periods of exposure of 24 hours each separated by an interval of two hours during which the sample is allowed to dry.",
+    "test_case": "Expose the stripped retro-reflector to 2 × 24 h of saline mist with a 2 h drying interval per ISO 9227:2017, then inspect it and measure RA.",
+    "why": "[recall pass] P-05 is a separate retro-reflector element, so the device itself must meet the saline-mist exposure condition."
+   }
+  ]
+ },
+ {
+  "regulation": "UN R150",
+  "key": "Annex 7 Part 1",
+  "requirements": []
+ },
+ {
+  "regulation": "UN R150",
+  "key": "Annex 7 Part 2",
+  "requirements": []
+ }
+]
