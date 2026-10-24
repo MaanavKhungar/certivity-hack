@@ -10,7 +10,8 @@ B        per candidate: applies gate, parts -> defined terms, open options, sect
          nested selections collapsed                                                    [hybrid.stage_b + here]
 C        per section chunk: v3 extraction rules + mapping + references + R175 style examples  [hybrid.stage_c]
 C2       per section chunk: second reader adds obligations C missed or merged           [here, idea from pipeline v2]
-Post     dedupe, page/paragraph from parsed nodes                                       [hybrid.assemble]
+Tables   tables in selected sections checked against the PDF page image and rebuilt     [tablefix.py]
+Post     dedupe (never across differing numbers/terms), page/paragraph from parsed nodes [hybrid.assemble]
 D        per regulation: senior reviewer keeps / drops / merges candidates              [here, idea from pipeline v2]
 Final    renumber, validate, score (our judge + pipeline's judge)
 
@@ -27,6 +28,7 @@ import hybrid as H
 import pipeline as rp
 import reqagent
 from extend_profile import product_blocks
+import tablefix
 
 # ------------------------------------------------------------------------------------------------ B additions -----
 H.B_SYSTEM += """
@@ -167,6 +169,7 @@ def main(argv=None):
     A = H.stage_a(blocks, profile, a.threshold, log)
     B = H.stage_b(A, blocks, a.sure, log)
     collapse_nested(B)
+    tablefix.fix_selected(A["C"], B, log)
     jobs = H.section_jobs(A, B, profile)
     log(f"stage C: {len(jobs)} section calls")
     examples = H.style_examples()

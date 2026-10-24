@@ -211,6 +211,22 @@ def stage_c(A, B, profile, log) -> list[dict]:
 
 
 # ------------------------------------------------------------------------------------------------ Post ------------
+STOP = set("a an the of to in on at for by with and or shall be is are its it this that which as from any all "
+           "not no each when where if than then into under such".split())
+
+
+def _content(norm: str) -> set[str]:
+    return {t for t in norm.split() if t not in STOP}
+
+
+def same_obligation(a: str, b: str) -> bool:
+    """Near-duplicate only when the texts are near-identical AND no number or content word differs: '1 minute' vs
+    '10 minutes', 'S1' vs 'S2', 'narrowband' vs 'broadband', 'cracking' vs 'distortion' are different obligations."""
+    if a == b:
+        return True
+    return rp._similar(a, b) and not (_content(a) ^ _content(b))
+
+
 def assemble(qs: list[dict], case_id: str, team: str) -> tuple[dict, list[dict]]:
     reqs, dropped, seen = [], [], {}
     for q in qs:
@@ -219,7 +235,7 @@ def assemble(qs: list[dict], case_id: str, team: str) -> tuple[dict, list[dict]]
             dropped.append({**q, "reason": "unknown node id"}); continue
         norm = rp._norm(q["text"])
         key = (q["regulation"], n["key"])
-        if any(rp._similar(s, norm) for s in seen.get(key, [])):
+        if any(same_obligation(s, norm) for s in seen.get(key, [])):
             dropped.append({**q, "node": n["key"], "reason": "near-duplicate"}); continue
         seen.setdefault(key, []).append(norm)
         para = reqagent.full_label(n) + (f". Table {q['table']}" if q.get("table") else "")

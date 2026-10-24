@@ -1,0 +1,232 @@
+[
+ {
+  "regulation": "UN R150",
+  "paragraph": "5.1.3.1",
+  "pages": [
+   11,
+   12
+  ],
+  "tables": [
+   {
+    "changed": false,
+    "applied": false,
+    "note": "The extracted table matches the page: four group rows, each with one test description. The page table has no header row, so the first data row stands in as the markdown header.",
+    "before": "|First group:|The two samples shall be subjected successively to the water penetration test (Part 2 of Annex 6) and then, if this test is satisfactory, to the tests for resistance to fuels and lubricants (Parts 1 and 2 of Annex 7).|\n|---|---|\n|Second group:|The two samples shall, if necessary, be subjected to the corrosion test in Part 4 of Annex 6, and then to the abrasive-strength test of the rear face of the retro-reflective device in Part 5 of Annex 6.|\n|Third group:|The two samples shall be subjected to the test for stability in time of the optical properties of retro-reflective device in Part 3 of Annex 4.|\n|Fourth group:|The two samples shall be subjected to the resistance to weathering test (Part 6 of Annex 6).|",
+    "after": "|First group:|The two samples shall be subjected successively to the water penetration test (Part 2 of Annex 6) and then, if this test is satisfactory, to the tests for resistance to fuels and lubricants (Parts 1 and 2 of Annex 7).|\n|---|---|\n|Second group:|The two samples shall, if necessary, be subjected to the corrosion test in Part 4 of Annex 6, and then to the abrasive-strength test of the rear face of the retro-reflective device in Part 5 of Annex 6.|\n|Third group:|The two samples shall be subjected to the test for stability in time of the optical properties of retro-reflective device in Part 3 of Annex 4.|\n|Fourth group:|The two samples shall be subjected to the resistance to weathering test (Part 6 of Annex 6).|"
+   }
+  ],
+  "status": "unchanged"
+ },
+ {
+  "regulation": "UN R150",
+  "paragraph": "5.1.4.4.1",
+  "pages": [
+   12,
+   13
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "The three-row header was merged into a single header row, with full paths built from Angles in degrees, Vertical β1, Horizontal β2 and the Minimum requirements caption. The extraction had split this caption mid-word across the value cells. The page-break separator row in the middle of the table was removed. The spanned Class, Colour and 'Angle of divergence α' values are now repeated in every row they cover.",
+    "before": "|||||Angles|in degrees|||||\n|---|---|---|---|---|---|---|---|---|---|\n|Class|Colour|Illumination angles [º]|Vertical β1|0°|±10°|±5°|0°|0°|0°|\n||||Horizontal β2|0° Minim|0° um require|±20° ments for|±30° RI values i|±40° n mcd·lx^-1|±50°|\n|IA, IB|White|Angle of divergence α|20'|1.20∙10^3|8.00∙10^2|4.00∙10^2|--|--|--|\n|---|---|---|---|---|---|---|---|---|---|\n||||1°30'|2.0∙10^1|1.12∙10^1|1.0∙10^1|--|--|--|\n||Amber||20'|7.50∙10^2|5.00∙10^2|2.50∙10^2|--|--|--|\n||||1°30'|1.25∙10^1|7∙10^0|6.25∙10^0|--|--|--|\n||Red||20'|3.00∙10^2|2.00∙10^2|1.00∙10^2|--|--|--|\n||||1°30'|5∙10^0|2.8∙10^0|2.5∙10^0|--|--|--|\n|IIIA, IIIB|White||20'|1.80∙10^3|8.00∙10^2|6.00∙10^2|--|--|--|\n||||1°30'|4.8∙10^1|3.2∙10^1|3.2∙10^1|--|--|--|\n||Amber||20'|1.13∙10^3|5.00∙10^2|3.75∙10^2|--|--|--|\n||||1°30'|3.0∙10^1|2.0∙10^1|2.0∙10^1|--|--|--|\n||Red||20'|4.50∙10^2|2.00∙10^2|1.50∙10^2|--|--|--|\n||||1°30'|1.2∙10^1|8∙10^0|8∙10^0|--|--|--|\n|IV|White||20'|1.80∙10^3|1.20∙10^3|--|5.40∙10^2|4.70∙10^2|4.00∙10^2|\n||||1°30'|3.4∙10^1|2.4∙10^1|--|1.5∙10^1|1.5∙10^1|1.5∙10^1|\n||Amber||20'|1.13∙10^3|7.50∙10^2|--|3.35∙10^2|2.90∙10^2|2.50∙10^2|\n||||1°30'|2.1∙10^1|1.5∙10^1|--|1.0∙10^1|1.0∙10^1|1.0∙10^1|\n||Red||20'|4.50∙10^2|3.00∙10^2|--|1.35∙10^2|1.15∙10^2|1.00∙10^2|\n||||1°30'|9∙10^0|6∙10^0|--|4∙10^0|4∙10^0|4∙10^0|",
+    "after": "|Class|Colour|Illumination angles [º]|Vertical β1 / Horizontal β2|Angles in degrees / Vertical β1 0° / Horizontal β2 0° / Minimum requirements for RI values in mcd·lx^-1|Angles in degrees / Vertical β1 ±10° / Horizontal β2 0° / Minimum requirements for RI values in mcd·lx^-1|Angles in degrees / Vertical β1 ±5° / Horizontal β2 ±20° / Minimum requirements for RI values in mcd·lx^-1|Angles in degrees / Vertical β1 0° / Horizontal β2 ±30° / Minimum requirements for RI values in mcd·lx^-1|Angles in degrees / Vertical β1 0° / Horizontal β2 ±40° / Minimum requirements for RI values in mcd·lx^-1|Angles in degrees / Vertical β1 0° / Horizontal β2 ±50° / Minimum requirements for RI values in mcd·lx^-1|\n|---|---|---|---|---|---|---|---|---|---|\n|IA, IB|White|Angle of divergence α|20'|1.20∙10^3|8.00∙10^2|4.00∙10^2|--|--|--|\n|IA, IB|White|Angle of divergence α|1°30'|2.0∙10^1|1.12∙10^1|1.0∙10^1|--|--|--|\n|IA, IB|Amber|Angle of divergence α|20'|7.50∙10^2|5.00∙10^2|2.50∙10^2|--|--|--|\n|IA, IB|Amber|Angle of divergence α|1°30'|1.25∙10^1|7∙10^0|6.25∙10^0|--|--|--|\n|IA, IB|Red|Angle of divergence α|20'|3.00∙10^2|2.00∙10^2|1.00∙10^2|--|--|--|\n|IA, IB|Red|Angle of divergence α|1°30'|5∙10^0|2.8∙10^0|2.5∙10^0|--|--|--|\n|IIIA, IIIB|White|Angle of divergence α|20'|1.80∙10^3|8.00∙10^2|6.00∙10^2|--|--|--|\n|IIIA, IIIB|White|Angle of divergence α|1°30'|4.8∙10^1|3.2∙10^1|3.2∙10^1|--|--|--|\n|IIIA, IIIB|Amber|Angle of divergence α|20'|1.13∙10^3|5.00∙10^2|3.75∙10^2|--|--|--|\n|IIIA, IIIB|Amber|Angle of divergence α|1°30'|3.0∙10^1|2.0∙10^1|2.0∙10^1|--|--|--|\n|IIIA, IIIB|Red|Angle of divergence α|20'|4.50∙10^2|2.00∙10^2|1.50∙10^2|--|--|--|\n|IIIA, IIIB|Red|Angle of divergence α|1°30'|1.2∙10^1|8∙10^0|8∙10^0|--|--|--|\n|IV|White|Angle of divergence α|20'|1.80∙10^3|1.20∙10^3|--|5.40∙10^2|4.70∙10^2|4.00∙10^2|\n|IV|White|Angle of divergence α|1°30'|3.4∙10^1|2.4∙10^1|--|1.5∙10^1|1.5∙10^1|1.5∙10^1|\n|IV|Amber|Angle of divergence α|20'|1.13∙10^3|7.50∙10^2|--|3.35∙10^2|2.90∙10^2|2.50∙10^2|\n|IV|Amber|Angle of divergence α|1°30'|2.1∙10^1|1.5∙10^1|--|1.0∙10^1|1.0∙10^1|1.0∙10^1|\n|IV|Red|Angle of divergence α|20'|4.50∙10^2|3.00∙10^2|--|1.35∙10^2|1.15∙10^2|1.00∙10^2|\n|IV|Red|Angle of divergence α|1°30'|9∙10^0|6∙10^0|--|4∙10^0|4∙10^0|4∙10^0|"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R150",
+  "paragraph": "5.1.7",
+  "pages": [
+   14,
+   16
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Table 4 spans pages 14-15; merged its continuation (repeated header) into one table. Fixed split 'Samples' header and misaligned sample columns (f column was empty, i/j merged). Split multi-line test cells into separate rows so each 'x' stays with its test line; repeated Reference in each covered row.",
+    "before": "|Reference|Tests|Sa|mp|les||||||||\n|---|---|---|---|---|---|---|---|---|---|---|---|\n|||a|b|c|d|e|f||g|h|i j|\n|-|General specifications: visual inspection|x|x|x|x|x||x|x|x|x x|\n|Annex 5|Shapes and dimensions: visual inspection|x|x|x|x|x||x|x|x|x x|\n|Part 1 of Annex 6|Heat: 48 h at 65° ± 2°C Visual inspection for distortion|x x|x x|x x|x x|x x||x x|x x|x x|x x x x|\n|Par. 4.2.|Colorimetry: visual inspection Trichromatic coordinates in case of doubt|x|x x|x|x|x||x|x|x|x x|\n|Part 1 of Annex 4|Photometry: limited to 20' and β1= β2= 0°|x|x|x|x|x||x|x|x|x x|\n|Part 1 of Annex 4|Complete photometry|||x|x|||||||\n|Part 3 of Annex 6|Water: 10 min. in normal position 10 min. in inverted position visual inspection||||||||x x x|x x x||\n|Par. 4.2.|Colorimetry: visual inspection Trichromatic coordinates in case of doubt||||||||x x|x x||\n|Part 1 of Annex 4|Photometry: limited to 20' and β1= β2= 0°||||||||x|x||\n|Part 1 of Annex 7|Motor fuels: 5 min. visual inspection||||||||x x|x x||\n|Part 2 of Annex 7|Oils: 5 min. visual inspection||||||||x x|x x||\n|Par. 4.2.|Colorimetry: visual inspection Trichromatic coordinates in case of doubt||||||||x x|x x||\n|Part 1 of Annex 4|Photometry: limited to 20' and β1= β2= 0°||||||||x|x||\n|Part 4 of Annex 6|Corrosion: 24 hours 2 hours interval 24 hours visual inspection|||||x x x x||x x x x||||\n|Part 4 of Annex 6|Rear face: 1 min. visual inspection|||||x x||x x||||\n|Par. 4.2.|Colorimetry: visual inspection Trichromatic coordinates in case of doubt|||||x x||x x||||\n|Part 1 of Annex 4|Photometry: limited to 20' and β1= β2= 0°|||||x||x||||\n|Reference|Tests|Sampl|es|||||||\n|---|---|---|---|---|---|---|---|---|---|\n|||a b|c|d |e|f|g|h|i j|\n|Part 3 of Annex 4|Stability in time|||||||||\n|Par. 4.2.|Colorimetry: Visual inspection or trichromatic coordinates|||||||||\n|Part 1 of Annex 4|Photometry: limited to 20' and β1= β2= 0°|||||||||\n|Part 6 of Annex 6|Resistance to weathering|||||||||\n|Par. 4.2.|Colorimetry: Visual inspection or trichromatic coordinates|||||||||\n|Part 1 of Annex 4|Photometry: limited to 20' and β1= β2= 0°|||||||||",
+    "after": "|Reference|Tests|Samples / a|Samples / b|Samples / c|Samples / d|Samples / e|Samples / f|Samples / g|Samples / h|Samples / i|Samples / j|\n|---|---|---|---|---|---|---|---|---|---|---|---|\n|-|General specifications: visual inspection|x|x|x|x|x|x|x|x|x|x|\n|Annex 5|Shapes and dimensions: visual inspection|x|x|x|x|x|x|x|x|x|x|\n|Part 1 of Annex 6|Heat: 48 h at 65° ± 2°C|x|x|x|x|x|x|x|x|x|x|\n|Part 1 of Annex 6|Visual inspection for distortion|x|x|x|x|x|x|x|x|x|x|\n|Par. 4.2.|Colorimetry: visual inspection|x|x|x|x|x|x|x|x|x|x|\n|Par. 4.2.|Trichromatic coordinates in case of doubt||x|||||||||\n|Part 1 of Annex 4|Photometry: limited to 20' and β1 = β2 = 0°|x|x|x|x|x|x|x|x|x|x|\n|Part 1 of Annex 4|Complete photometry|||x|x|||||||\n|Part 3 of Annex 6|Water: 10 min. in normal position|||||||x|x|||\n|Part 3 of Annex 6|10 min. in inverted position|||||||x|x|||\n|Part 3 of Annex 6|visual inspection|||||||x|x|||\n|Par. 4.2.|Colorimetry: visual inspection|||||||x|x|||\n|Par. 4.2.|Trichromatic coordinates in case of doubt|||||||x|x|||\n|Part 1 of Annex 4|Photometry: limited to 20' and β1 = β2 = 0°|||||||x|x|||\n|Part 1 of Annex 7|Motor fuels: 5 min.|||||||x|x|||\n|Part 1 of Annex 7|visual inspection|||||||x|x|||\n|Part 2 of Annex 7|Oils: 5 min.|||||||x|x|||\n|Part 2 of Annex 7|visual inspection|||||||x|x|||\n|Par. 4.2.|Colorimetry: visual inspection|||||||x|x|||\n|Par. 4.2.|Trichromatic coordinates in case of doubt|||||||x|x|||\n|Part 1 of Annex 4|Photometry: limited to 20' and β1 = β2 = 0°|||||||x|x|||\n|Part 4 of Annex 6|Corrosion: 24 hours|||||x|x|||||\n|Part 4 of Annex 6|2 hours interval|||||x|x|||||\n|Part 4 of Annex 6|24 hours|||||x|x|||||\n|Part 4 of Annex 6|visual inspection|||||x|x|||||\n|Part 4 of Annex 6|Rear face: 1 min.|||||x|x|||||\n|Part 4 of Annex 6|visual inspection|||||x|x|||||\n|Par. 4.2.|Colorimetry: visual inspection|||||x|x|||||\n|Par. 4.2.|Trichromatic coordinates in case of doubt|||||x|x|||||\n|Part 1 of Annex 4|Photometry: limited to 20' and β1 = β2 = 0°|||||x|x|||||\n|Part 3 of Annex 4|Stability in time|||||||||||\n|Par. 4.2.|Colorimetry: Visual inspection or trichromatic coordinates|||||||||||\n|Part 1 of Annex 4|Photometry: limited to 20' and β1 = β2 = 0°|||||||||||\n|Part 6 of Annex 6|Resistance to weathering|||||||||||\n|Par. 4.2.|Colorimetry: Visual inspection or trichromatic coordinates|||||||||||\n|Part 1 of Annex 4|Photometry: limited to 20' and β1 = β2 = 0°|||||||||||"
+   },
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Table 5 spans pages 15-16; merged its continuation, attaching the orphan 'visual inspection' row to 'Part 4 of Annex 6' (Rear face). Fixed split 'Samples' header and column misalignment (f column), split multi-line test cells into separate rows with their marks, and repeated Reference values.",
+    "before": "|Reference|Tests|Sa|mpl|es|||||||||\n|---|---|---|---|---|---|---|---|---|---|---|---|---|\n|||a|b|c|d|e|f||g|h|i|j|\n|-|General specifications: visual inspection|x|x|x|x|x||x|x|x|x|x|\n|Annex 5|Shape and dimensions: visual inspection|x|x|x|x|x||x|x|x|x|x|\n|Part 1 of Annex 6|Heat: 48 h at 65 °C ± 2°C Visual inspection for distortion|x x|x x|x x|x x|x x||x x|x x|x x|x x|x x|\n|Par. 4.2.|Colorimetry: visual inspection Trichromatic coordinates in case of doubt|x|x x|x|x|x||x|x|x|x|x|\n|Part 1 of Annex 4|Photometry: limited to 20' and β1= β2= 0°|x|x|x|x|x||x|x|x|x|x|\n|Part 1 of Annex 4|Complete photometry|x|x||||||||||\n|Part 2 of Annex 6|Water: 10 min. in normal position 10 min. in inverted position visual inspection|||x x x|x x x||||||||\n|Part 1 of Annex 7|Motor fuels: 5 min. visual inspection|||x x|x x||||||||\n|Part 2 of Annex 7|Oils: 5 min. visual inspection|||x x|x x||||||||\n|Par. 4.2.|Colorimetry: visual inspection Trichromatic coordinates in case of doubt|||x x|x x||||||||\n|Part 1 of Annex 4|Photometry: limited to 20' and β1= β2= 0°|||x|x||||||||\n|Part 4 of Annex 6|Corrosion: 24 hours 2 hours' interval 24 hours visual inspection|||||x x x x||x x x x|||||\n|Part 4 of Annex 6|Rear face: 1 min.|||||x||x|||||\n|Reference|Tests|Sa|mpl|es|||||||\n|---|---|---|---|---|---|---|---|---|---|---|\n|||a|b|c|d|e|f|g|h|i j|\n||visual inspection|||||x|x||||\n|Part 4 of Annex 8|Impact|||||x|x||||\n||visual inspection|||||x|x||||\n|Par. 4.2.|Colorimetry: visual inspection|||||x|x||||\n||Trichromatic coordinates in case of doubt|||||x|x||||\n|Part 1 of Annex 4|Photometry: limited to 20' and β1= β2= 0°|||||x|x||||",
+    "after": "|Reference|Tests|Samples / a|Samples / b|Samples / c|Samples / d|Samples / e|Samples / f|Samples / g|Samples / h|Samples / i|Samples / j|\n|---|---|---|---|---|---|---|---|---|---|---|---|\n|-|General specifications: visual inspection|x|x|x|x|x|x|x|x|x|x|\n|Annex 5|Shape and dimensions: visual inspection|x|x|x|x|x|x|x|x|x|x|\n|Part 1 of Annex 6|Heat: 48 h at 65 °C ± 2°C|x|x|x|x|x|x|x|x|x|x|\n|Part 1 of Annex 6|Visual inspection for distortion|x|x|x|x|x|x|x|x|x|x|\n|Par. 4.2.|Colorimetry: visual inspection|x|x|x|x|x|x|x|x|x|x|\n|Par. 4.2.|Trichromatic coordinates in case of doubt||x|||||||||\n|Part 1 of Annex 4|Photometry: limited to 20' and β1 = β2 = 0°|x|x|x|x|x|x|x|x|x|x|\n|Part 1 of Annex 4|Complete photometry|x|x|||||||||\n|Part 2 of Annex 6|Water: 10 min. in normal position|||x|x|||||||\n|Part 2 of Annex 6|10 min. in inverted position|||x|x|||||||\n|Part 2 of Annex 6|visual inspection|||x|x|||||||\n|Part 1 of Annex 7|Motor fuels: 5 min.|||x|x|||||||\n|Part 1 of Annex 7|visual inspection|||x|x|||||||\n|Part 2 of Annex 7|Oils: 5 min.|||x|x|||||||\n|Part 2 of Annex 7|visual inspection|||x|x|||||||\n|Par. 4.2.|Colorimetry: visual inspection|||x|x|||||||\n|Par. 4.2.|Trichromatic coordinates in case of doubt|||x|x|||||||\n|Part 1 of Annex 4|Photometry: limited to 20' and β1 = β2 = 0°|||x|x|||||||\n|Part 4 of Annex 6|Corrosion: 24 hours|||||x|x|||||\n|Part 4 of Annex 6|2 hours' interval|||||x|x|||||\n|Part 4 of Annex 6|24 hours|||||x|x|||||\n|Part 4 of Annex 6|visual inspection|||||x|x|||||\n|Part 4 of Annex 6|Rear face: 1 min.|||||x|x|||||\n|Part 4 of Annex 6|visual inspection|||||x|x|||||\n|Part 4 of Annex 8|Impact|||||x|x|||||\n|Part 4 of Annex 8|visual inspection|||||x|x|||||\n|Par. 4.2.|Colorimetry: visual inspection|||||x|x|||||\n|Par. 4.2.|Trichromatic coordinates in case of doubt|||||x|x|||||\n|Part 1 of Annex 4|Photometry: limited to 20' and β1 = β2 = 0°|||||x|x|||||"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R150",
+  "paragraph": "5.2.5.1",
+  "pages": [
+   17,
+   18
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Merged split title header, combined the three header rows (observation angle/entrance angle, vertical β1, horizontal β2) into one header row with full paths, and repeated spanned class labels in every row. Empty cell for Class F, 5 Red at 20° kept empty as on page.",
+    "before": "|Observation angle α [º] α=0.33(20’)|Minimum values for the Coefficient|of Retro-r|eflection|RA in cd·m|^-²·lx^-1||\n|---|---|---|---|---|---|---|\n|Entrance Angle β [º]|Vertical β1|0°|0°|0°|0°|0°|\n||Horizontal β2|5°|20°|30°|40°|60°|\n|Class C|Yellow|3.00∙10^2|--|1.30∙10^2|7.5∙10^1|1.0∙10^1|\n||White|4.50∙10^2|--|2.00∙10^2|9.5∙10^1|1.6∙10^1|\n||Red|1.20∙10^2|6.0∙10^1|3.0∙10^1|1.0∙10^1|--|\n|Class F, 5|White|4.50∙10^2|--|2.00∙10^2|9.5∙10^1|1.6∙10^1|\n||Red|1.20∙10^2||3.0∙10^1|1.0∙10^1|2∙10^0|\n|Class 1, 2, 3, 4|Yellow|3.00∙10^2|--|1.80∙10^2|7.5∙10^1|1.0∙10^1|\n||Red|1.0∙10^1|--|7∙10^0|4∙10^0|--|\n|Class SMV|Red of the outer border (class 1, 2)|1.20∙10^2|6.0∙10^1|3.0∙10^1|1.0∙10^1|--|\n||Red of the enclosed triangle (class 2)|1.0∙10^1|7∙10^0|4∙10^0|--|--|",
+    "after": "|Observation angle α [º] α=0.33(20’) / Entrance Angle β [º]|Minimum values for the Coefficient of Retro-reflection RA in cd·m^-²·lx^-1 / Vertical β1 / Horizontal β2|Minimum values for the Coefficient of Retro-reflection RA in cd·m^-²·lx^-1 / Vertical β1 0° / Horizontal β2 5°|Minimum values for the Coefficient of Retro-reflection RA in cd·m^-²·lx^-1 / Vertical β1 0° / Horizontal β2 20°|Minimum values for the Coefficient of Retro-reflection RA in cd·m^-²·lx^-1 / Vertical β1 0° / Horizontal β2 30°|Minimum values for the Coefficient of Retro-reflection RA in cd·m^-²·lx^-1 / Vertical β1 0° / Horizontal β2 40°|Minimum values for the Coefficient of Retro-reflection RA in cd·m^-²·lx^-1 / Vertical β1 0° / Horizontal β2 60°|\n|---|---|---|---|---|---|---|\n|Class C|Yellow|3.00∙10^2|--|1.30∙10^2|7.5∙10^1|1.0∙10^1|\n|Class C|White|4.50∙10^2|--|2.00∙10^2|9.5∙10^1|1.6∙10^1|\n|Class C|Red|1.20∙10^2|6.0∙10^1|3.0∙10^1|1.0∙10^1|--|\n|Class F, 5|White|4.50∙10^2|--|2.00∙10^2|9.5∙10^1|1.6∙10^1|\n|Class F, 5|Red|1.20∙10^2||3.0∙10^1|1.0∙10^1|2∙10^0|\n|Class 1, 2, 3, 4|Yellow|3.00∙10^2|--|1.80∙10^2|7.5∙10^1|1.0∙10^1|\n|Class 1, 2, 3, 4|Red|1.0∙10^1|--|7∙10^0|4∙10^0|--|\n|Class SMV|Red of the outer border (class 1, 2)|1.20∙10^2|6.0∙10^1|3.0∙10^1|1.0∙10^1|--|\n|Class SMV|Red of the enclosed triangle (class 2)|1.0∙10^1|7∙10^0|4∙10^0|--|--|"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R150",
+  "paragraph": "5.2.5.2",
+  "pages": [
+   18,
+   18
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "The header text 'Maximum values for the Coefficient of Retro-reflection RA in cd·m^-²·lx^-1' had been split mid-word across six columns; it is rejoined and used as the parent of the angle columns. The Vertical β1 and Horizontal β2 rows were merged into the column headers. 'Any colour' is repeated for both class rows it spans.",
+    "before": "|Observation angle α [º] α=0.33(20’)|Maximum values|for the Coeffi|cient of|Retro-refle|ction RA in c|d·m^-²·lx^-1|\n|---|---|---|---|---|---|---|\n|Entrance Angle β [º]|Vertical β1|0°|0°|0°|0°|0°|\n||Horizontal β2|5°|20°|30°|40°|60°|\n|Any colour|class D|1.50∙10^2|--|6.5∙10^1|3.7∙10^1|5∙10^0|\n||class E|5.0∙10^1|--|2.2∙10^1|1.2∙10^1|1∙10^0|",
+    "after": "|Observation angle α [º] α=0.33(20’) / Entrance Angle β [º]|Maximum values for the Coefficient of Retro-reflection RA in cd·m^-²·lx^-1 / Entrance Angle β [º]|Maximum values for the Coefficient of Retro-reflection RA in cd·m^-²·lx^-1 / Vertical β1 0° / Horizontal β2 5°|Maximum values for the Coefficient of Retro-reflection RA in cd·m^-²·lx^-1 / Vertical β1 0° / Horizontal β2 20°|Maximum values for the Coefficient of Retro-reflection RA in cd·m^-²·lx^-1 / Vertical β1 0° / Horizontal β2 30°|Maximum values for the Coefficient of Retro-reflection RA in cd·m^-²·lx^-1 / Vertical β1 0° / Horizontal β2 40°|Maximum values for the Coefficient of Retro-reflection RA in cd·m^-²·lx^-1 / Vertical β1 0° / Horizontal β2 60°|\n|---|---|---|---|---|---|---|\n|Any colour|class D|1.50∙10^2|--|6.5∙10^1|3.7∙10^1|5∙10^0|\n|Any colour|class E|5.0∙10^1|--|2.2∙10^1|1.2∙10^1|1∙10^0|"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R150",
+  "paragraph": "5.3.4.2",
+  "pages": [
+   20,
+   20
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Repaired the header labels that were split mid-word ('Illuminati|on angles β|in deg.' and 'Minimum|values in m|cd·lx^-1'). Merged the spanning header and the Vertical β1 / Horizontal β2 rows into one header row, so each column header gives its full illumination-angle path and unit. The first column header is left empty, as on the page. All data values are unchanged.",
+    "before": "||Illuminati|on angles β|in deg.||\n|---|---|---|---|---|\n|Vertical β1|0°|±20°|0°|0°|\n|Horizontal β2|0° or ±5°|0°|±30°|±40°|\n||Minimum|values in m|cd·lx^-1||\n|Angles of divergence 20'|8.00∙10^3|4.00∙10^3|1.70∙10^3|6.00∙10^2|\n|Angles of divergence 1°30'|6.00∙10^2|2.00∙10^2|1.00∙10^2|5.0∙10^1|",
+    "after": "||Illumination angles β in deg. / Vertical β1 0° / Horizontal β2 0° or ±5° / Minimum values in mcd·lx^-1|Illumination angles β in deg. / Vertical β1 ±20° / Horizontal β2 0° / Minimum values in mcd·lx^-1|Illumination angles β in deg. / Vertical β1 0° / Horizontal β2 ±30° / Minimum values in mcd·lx^-1|Illumination angles β in deg. / Vertical β1 0° / Horizontal β2 ±40° / Minimum values in mcd·lx^-1|\n|---|---|---|---|---|\n|Angles of divergence 20'|8.00∙10^3|4.00∙10^3|1.70∙10^3|6.00∙10^2|\n|Angles of divergence 1°30'|6.00∙10^2|2.00∙10^2|1.00∙10^2|5.0∙10^1|"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R150",
+  "paragraph": "5.3.5.1.2",
+  "pages": [
+   20,
+   20
+  ],
+  "tables": [
+   {
+    "changed": false,
+    "applied": false,
+    "note": "Table 9 matches the page; no changes needed.",
+    "before": "|Point|1|2|3|4|\n|---|---|---|---|---|\n|x|0.712|0.735|0.589|0.625|\n|y|0.258|0.265|0.376|0.375|",
+    "after": "|Point|1|2|3|4|\n|---|---|---|---|---|\n|x|0.712|0.735|0.589|0.625|\n|y|0.258|0.265|0.376|0.375|"
+   }
+  ],
+  "status": "unchanged"
+ },
+ {
+  "regulation": "UN R150",
+  "paragraph": "5.3.5.2.2",
+  "pages": [
+   21,
+   21
+  ],
+  "tables": [
+   {
+    "changed": false,
+    "applied": false,
+    "note": "Extracted table matches the page; no changes needed.",
+    "before": "|Point|1|2|3|4|\n|---|---|---|---|---|\n|x|0.570|0.506|0.595|0.690|\n|y|0.430|0.404|0.315|0.310|",
+    "after": "|Point|1|2|3|4|\n|---|---|---|---|---|\n|x|0.570|0.506|0.595|0.690|\n|y|0.430|0.404|0.315|0.310|"
+   }
+  ],
+  "status": "unchanged"
+ },
+ {
+  "regulation": "UN R150",
+  "paragraph": "Annex 4 Part 1 2",
+  "pages": [
+   28,
+   28
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "The NOTE row spans both columns on the page but had been split mid-word into 'NOT' and 'E This angle...'. It is restored as one sentence, repeated in both cells to show the span. The table has no header row on the page, so the first data row stays in the header position.",
+    "before": "|C|Reference centre, e.g. a point on a retro-reflective area which is designated to be the centre of the device for the purpose of specifying its performance and mounting on the goniophoto-meter.|\n|---|---|\n|I|Illumination axis, e.g. the line passing through the centre of the light source and the reference centre.|\n|O|Observation axis, e.g. the line connecting the reference centre and the centre of the photometer head.|\n|α|Observation angle, e.g. the angle between the illumination axis and the observation axis.|\n|NOT|E This angle is sometimes called angle of divergence.|\n|β1/ β2|Entrance angle, e.g. the angle between the reference axis and the illumination axis. The illumination angle consists of a vertical component (symbol β1) and a horizontal component (symbol β2). For any direction the vertical angle is always given first.|",
+    "after": "|C|Reference centre, e.g. a point on a retro-reflective area which is designated to be the centre of the device for the purpose of specifying its performance and mounting on the goniophoto-meter.|\n|---|---|\n|I|Illumination axis, e.g. the line passing through the centre of the light source and the reference centre.|\n|O|Observation axis, e.g. the line connecting the reference centre and the centre of the photometer head.|\n|α|Observation angle, e.g. the angle between the illumination axis and the observation axis.|\n|NOTE This angle is sometimes called angle of divergence.|NOTE This angle is sometimes called angle of divergence.|\n|β1/ β2|Entrance angle, e.g. the angle between the reference axis and the illumination axis. The illumination angle consists of a vertical component (symbol β1) and a horizontal component (symbol β2). For any direction the vertical angle is always given first.|"
+   },
+   {
+    "changed": false,
+    "applied": false,
+    "note": "Matches the page; no change needed.",
+    "before": "|ε|Angle of rotation means the angle through which the retro-reflecting device is rotated about its axis of reference starting from a given position. If the retro-reflecting device is marked \"TOP\" (e.g. the datum mark), the indicated position is taken as the origin.|\n|---|---|\n|γ|Angular aperture of the measuring device, i.e. the angle subtended by the largest dimension of the receiver as seen from the reference centre(β1= β2= 0°).|\n|δ|Angular aperture of the source as seen from the reference centre|\n|η|Angular aperture of the retro-reflecting device, e.g. the angle subtended by the largest dimension of the visible area of the illuminating surface, either at the centre of the source of illumination or at the centre of the receiver.|",
+    "after": "|ε|Angle of rotation means the angle through which the retro-reflecting device is rotated about its axis of reference starting from a given position. If the retro-reflecting device is marked \"TOP\" (e.g. the datum mark), the indicated position is taken as the origin.|\n|---|---|\n|γ|Angular aperture of the measuring device, i.e. the angle subtended by the largest dimension of the receiver as seen from the reference centre(β1= β2= 0°).|\n|δ|Angular aperture of the source as seen from the reference centre|\n|η|Angular aperture of the retro-reflecting device, e.g. the angle subtended by the largest dimension of the visible area of the illuminating surface, either at the centre of the source of illumination or at the centre of the receiver.|"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R150",
+  "paragraph": "Annex 4 Part 1 3.4",
+  "pages": [
+   30,
+   30
+  ],
+  "tables": [
+   {
+    "changed": false,
+    "applied": false,
+    "note": "The table on the page has no header row; its three rows and values match the page, so it is returned unchanged.",
+    "before": "|Angular diameter of the source -|δ≤10'|\n|---|---|\n|Angular diameter of the measuring device -|γ≤10'|\n|Angular diameter of the illuminated area -|η≤80'|",
+    "after": "|Angular diameter of the source -|δ≤10'|\n|---|---|\n|Angular diameter of the measuring device -|γ≤10'|\n|Angular diameter of the illuminated area -|η≤80'|"
+   }
+  ],
+  "status": "unchanged"
+ },
+ {
+  "regulation": "UN R150",
+  "paragraph": "Annex 6 Part 6 3",
+  "pages": [
+   46,
+   47
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "The TM2 section title had been merged into the TM1 data row, and the second header was split across two rows. Merged the two sections into one table with a Thermometer column. Gave the Black-standard and Black-panel temperature columns their own headers. Split each exposure phase (dry / water spray) into its own row with its own irradiance values. Repeated the spanned temperature and humidity values in every row they cover. The cells left empty are temperature columns that do not apply to that thermometer.",
+    "before": "|Cycle No. according to EN ISO 4892-2:2013|Exposure period|Irradiance Broadband (300 to 400 nm) W/m²|Narrowband (340 nm) W/m²|Black-standard temperature °C|Relative humidity %|\n|---|---|---|---|---|---|\n|1 TM2 - Black-panel thermom|102 min dry 18 min water spray eter|60 ± 2 60 ± 2|0.51 ± 0.02 0.51 ± 0.02|65 ± 3|50 ± 10|\n|Cycle No. according to EN |Exposure period|Irradiance||Black-panel temperature|Relative |\n|ISO 4892-2:2013||Broadband (300 to 400 nm) W/m²|Narrowband (340 nm) W/m²|°C|humidity %|\n|4|102 min dry 18 min water spray|60 ± 2 60 ± 2|0.51 ± 0.02 0.51 ± 0.02|63 ± 3|50 ± 10|",
+    "after": "|Thermometer|Cycle No. according to EN ISO 4892-2:2013|Exposure period|Irradiance / Broadband (300 to 400 nm) W/m²|Irradiance / Narrowband (340 nm) W/m²|Black-standard temperature °C|Black-panel temperature °C|Relative humidity %|\n|---|---|---|---|---|---|---|---|\n|TM1 - Black-standard thermometer|1|102 min dry|60 ± 2|0.51 ± 0.02|65 ± 3||50 ± 10|\n|TM1 - Black-standard thermometer|1|18 min water spray|60 ± 2|0.51 ± 0.02|65 ± 3||50 ± 10|\n|TM2 - Black-panel thermometer|4|102 min dry|60 ± 2|0.51 ± 0.02||63 ± 3|50 ± 10|\n|TM2 - Black-panel thermometer|4|18 min water spray|60 ± 2|0.51 ± 0.02||63 ± 3|50 ± 10|"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R150",
+  "paragraph": "Annex 10 0",
+  "pages": [
+   51,
+   53
+  ],
+  "tables": [
+   {
+    "changed": false,
+    "applied": false,
+    "note": "Figure A10-V: the upper row holds only approval-mark images, and the captions Example A / Example B are already extracted correctly, so the table is unchanged.",
+    "before": "|Example A|Example B|\n|---|---|",
+    "after": "|Example A|Example B|\n|---|---|"
+   }
+  ],
+  "status": "unchanged"
+ }
+]

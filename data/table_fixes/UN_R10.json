@@ -1,0 +1,322 @@
+[
+ {
+  "regulation": "UN R10",
+  "paragraph": "6.7.1",
+  "pages": [
+   10,
+   11
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "The spanning header 'Maximum allowed pulse amplitude for' was split mid-word across two columns. It has been rejoined and used as the parent for both vehicle-system columns. The two header rows were merged into a single header row.",
+    "before": "||Maximum allowed pulse am|plitude for|\n|---|---|---|\n|Polarity of pulse amplitude|Vehicles with 12 V systems|Vehicles with 24 V systems|\n|Positive|+75 V|+150 V|\n|Negative|-100 V|-450 V|",
+    "after": "|Polarity of pulse amplitude|Maximum allowed pulse amplitude for / Vehicles with 12 V systems|Maximum allowed pulse amplitude for / Vehicles with 24 V systems|\n|---|---|---|\n|Positive|+75 V|+150 V|\n|Negative|-100 V|-450 V|"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R10",
+  "paragraph": "6.8.2.1",
+  "pages": [
+   11,
+   12
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Spanning header 'Test Level in over 90 per cent of the 20 to 6,000 MHz frequency band' was split across columns; merged and prefixed to each method column.",
+    "before": "||Test Level in|over 90 per cent|of the 20 to 6,000|MHz frequency band||\n|---|---|---|---|---|---|\n|Frequency range|Stripline|TEM cell|BCI|ALSE|Reverberation chamber|\n|Frequency range below 2 GHz|20 to 400 MHz|20 to 200 MHz|20 to 400 MHz|80 to 2,000 MHz|LUF to 2,000 MHz|\n|Test level below 2 GHz|60 V/m|75 V/m|60 mA|30 V/m|21 V/m|\n|Frequency range above 2 GHz|Not applicable|Not applicable|Not applicable|2,000 to 6,000 MHz|2,000 to 6,000 MHz|\n|Test level above 2 GHz|Not applicable|Not applicable|Not applicable|10 V/m|7 V/m|",
+    "after": "|Frequency range|Test Level in over 90 per cent of the 20 to 6,000 MHz frequency band / Stripline|Test Level in over 90 per cent of the 20 to 6,000 MHz frequency band / TEM cell|Test Level in over 90 per cent of the 20 to 6,000 MHz frequency band / BCI|Test Level in over 90 per cent of the 20 to 6,000 MHz frequency band / ALSE|Test Level in over 90 per cent of the 20 to 6,000 MHz frequency band / Reverberation chamber|\n|---|---|---|---|---|---|\n|Frequency range below 2 GHz|20 to 400 MHz|20 to 200 MHz|20 to 400 MHz|80 to 2,000 MHz|LUF to 2,000 MHz|\n|Test level below 2 GHz|60 V/m|75 V/m|60 mA|30 V/m|21 V/m|\n|Frequency range above 2 GHz|Not applicable|Not applicable|Not applicable|2,000 to 6,000 MHz|2,000 to 6,000 MHz|\n|Test level above 2 GHz|Not applicable|Not applicable|Not applicable|10 V/m|7 V/m|"
+   },
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Merged split spanning header; joined rows broken across lines and across the page break (last row continued on page 12).",
+    "before": "||Minimum Tes|t Level over the w|hole 20 to 6,000|MHz frequency band||\n|---|---|---|---|---|---|\n|Frequency range|Stripline|TEM cell|BCI|ALSE|Reverberation chamber|\n|Frequency range below 2 GHz|20 to 400 MHz|20 to 200 MHz|20 to 400 MHz|80 to 2,000 MHz|LUF to 2,000 MHz|\n|Test level below 2 GHz|50 V/m|62,5 V/m|50 mA|25 V/m|18 V/m|\n|Frequency range above 2|Not|Not|Not|2,000 to 6,000|2,000 to 6,000 MHz|\n|GHz|applicable|applicable|applicable|MHz||\n|Test level above 2 GHz|Not|Not|Not|8 V/m|6 V/m|\n|---|---|---|---|---|---|\n||applicable|applicable|applicable|||",
+    "after": "|Frequency range|Minimum Test Level over the whole 20 to 6,000 MHz frequency band / Stripline|Minimum Test Level over the whole 20 to 6,000 MHz frequency band / TEM cell|Minimum Test Level over the whole 20 to 6,000 MHz frequency band / BCI|Minimum Test Level over the whole 20 to 6,000 MHz frequency band / ALSE|Minimum Test Level over the whole 20 to 6,000 MHz frequency band / Reverberation chamber|\n|---|---|---|---|---|---|\n|Frequency range below 2 GHz|20 to 400 MHz|20 to 200 MHz|20 to 400 MHz|80 to 2,000 MHz|LUF to 2,000 MHz|\n|Test level below 2 GHz|50 V/m|62,5 V/m|50 mA|25 V/m|18 V/m|\n|Frequency range above 2 GHz|Not applicable|Not applicable|Not applicable|2,000 to 6,000 MHz|2,000 to 6,000 MHz|\n|Test level above 2 GHz|Not applicable|Not applicable|Not applicable|8 V/m|6 V/m|"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R10",
+  "paragraph": "6.9.1",
+  "pages": [
+   12,
+   12
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Rebuilt the two-level header: the split 'Immunit level' / 'y test' cells are rejoined, and each sub-column now carries its parent group. On the page, B sits in a separate row above its condition text, so it has been reattached to '(for ESA which shall be operational during engine start phases)'. The starting-profile row is split into two rows so that B and C each keep their condition. D is repeated in both rows as the value for functions not related to immunity.",
+    "before": "|Test pulse|Immunit level|y test|Number of pulses|Functional status classification for ESA:||\n|---|---|---|---|---|---|\n||12 V system|24 V system||Related to immunity related functions|Not related to immunity related functions|\n|||||B|D|\n|Starting profile|II|II|10 pulses|(for ESA which shall be operational during engine start phases) C (for other ESA)||",
+    "after": "|Test pulse|Immunity test level / 12 V system|Immunity test level / 24 V system|Number of pulses|Functional status classification for ESA: / Related to immunity related functions|Functional status classification for ESA: / Not related to immunity related functions|\n|---|---|---|---|---|---|\n|Starting profile|II|II|10 pulses|B (for ESA which shall be operational during engine start phases)|D|\n|Starting profile|II|II|10 pulses|C (for other ESA)|D|"
+   },
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Merged the header text that had been split across two rows into one header row with full column paths: 'Test pulse number', 'Immunity test level' split into its 12V and 24V columns, 'Test duration / number of pulses', and 'FPSC for ESA:' split into its two sub-columns. Data rows are unchanged.",
+    "before": "|Test pulse |Immunity|test level|Test duration /|FPSC for ESA:||\n|---|---|---|---|---|---|\n|number|12V system|24V system|number of pulses|Related to immunity related functions|Not related to immunity related functions|\n|1|-75 V|-450 V|500 pulses|III|III|\n|2a|+37 V|+37 V|500 pulses|I|III|\n|2b|+10 V|+20 V|10 pulses|II|III|\n|3a|-112 V|-150 V|1 h|I|III|\n|3b|+75 V|+150 V|1 h|I|III|",
+    "after": "|Test pulse number|Immunity test level / 12V system|Immunity test level / 24V system|Test duration / number of pulses|FPSC for ESA: / Related to immunity related functions|FPSC for ESA: / Not related to immunity related functions|\n|---|---|---|---|---|---|\n|1|-75 V|-450 V|500 pulses|III|III|\n|2a|+37 V|+37 V|500 pulses|I|III|\n|2b|+10 V|+20 V|10 pulses|II|III|\n|3a|-112 V|-150 V|1 h|I|III|\n|3b|+75 V|+150 V|1 h|I|III|"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R10",
+  "paragraph": "23",
+  "pages": [
+   29,
+   44
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Added the spanning table title (part of the table on page 30) as the parent of each column header.",
+    "before": "|30-75 MHz|75-400 MHz|400-1,000 MHz|\n|---|---|---|\n|E = 32|E = 32 + 15.13 log (F/75)|E = 43|",
+    "after": "|Limit E (dBµV/m) at frequency F (MHz) for a 120 kHz bandwidth / 30-75 MHz|Limit E (dBµV/m) at frequency F (MHz) for a 120 kHz bandwidth / 75-400 MHz|Limit E (dBµV/m) at frequency F (MHz) for a 120 kHz bandwidth / 400-1,000 MHz|\n|---|---|---|\n|E = 32|E = 32 + 15.13 log (F/75)|E = 43|"
+   },
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Added the spanning table title (part of the table on page 30) as the parent of each column header.",
+    "before": "|30-75 MHz|75-400 MHz|400-1,000 MHz|\n|---|---|---|\n|E = 42|E = 42 + 15.13 log (F/75)|E = 53|",
+    "after": "|Limit E (dBµV/m) at frequency F (MHz) for a 120 kHz bandwidth / 30-75 MHz|Limit E (dBµV/m) at frequency F (MHz) for a 120 kHz bandwidth / 75-400 MHz|Limit E (dBµV/m) at frequency F (MHz) for a 120 kHz bandwidth / 400-1,000 MHz|\n|---|---|---|\n|E = 42|E = 42 + 15.13 log (F/75)|E = 53|"
+   },
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Split the merged frequency and limit cells into two columns under the spanning title, as on page 31. The full-width note row is repeated in both columns.",
+    "before": "|Limit E (dBµV/m) at frequency F (MHz) for a 120 kHz bandwidth|\n|---|\n|30-230 MHz 230-1,000 MHz|\n|E = 28 E = 35|\n|The limits shall be measured with a 120 kHz bandwidth.|",
+    "after": "|Limit E (dBµV/m) at frequency F (MHz) for a 120 kHz bandwidth / 30-230 MHz|Limit E (dBµV/m) at frequency F (MHz) for a 120 kHz bandwidth / 230-1,000 MHz|\n|---|---|\n|E = 28|E = 35|\n|The limits shall be measured with a 120 kHz bandwidth.|The limits shall be measured with a 120 kHz bandwidth.|"
+   },
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Page not shown. Split the merged cells into two columns using the same layout as the Appendix 4 table.",
+    "before": "|Limit E (dBµV/m) at frequency F (MHz) for a 120 kHz bandwidth|\n|---|\n|30-230 MHz 230-1,000 MHz|\n|E = 38 E = 45|",
+    "after": "|Limit E (dBµV/m) at frequency F (MHz) for a 120 kHz bandwidth / 30-230 MHz|Limit E (dBµV/m) at frequency F (MHz) for a 120 kHz bandwidth / 230-1,000 MHz|\n|---|---|\n|E = 38|E = 45|"
+   },
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Page not shown. Added the spanning table title as parent header, following the layout of the Appendix 2/3 tables. Values are kept as extracted.",
+    "before": "|30-75 MHz|75-400 MHz|400-1,000 MHz|\n|---|---|---|\n|E = 62-25.13 log (F/30)|E = 52 + 15.13 log (F/75)|E = 63|",
+    "after": "|Limit E (dBµV/m) at frequency F (MHz) for a 120 kHz bandwidth / 30-75 MHz|Limit E (dBµV/m) at frequency F (MHz) for a 120 kHz bandwidth / 75-400 MHz|Limit E (dBµV/m) at frequency F (MHz) for a 120 kHz bandwidth / 400-1,000 MHz|\n|---|---|---|\n|E = 62-25.13 log (F/30)|E = 52 + 15.13 log (F/75)|E = 63|"
+   },
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Page not shown. Added the spanning table title as parent header, following the layout of the Appendix 2/3 tables. Values are kept as extracted.",
+    "before": "|30-75 MHz|75-400 MHz|400-1,000 MHz|\n|---|---|---|\n|E = 52 - 25.13 log (F/30)|E = 42 + 15.13 log (F/75)|E = 53|",
+    "after": "|Limit E (dBµV/m) at frequency F (MHz) for a 120 kHz bandwidth / 30-75 MHz|Limit E (dBµV/m) at frequency F (MHz) for a 120 kHz bandwidth / 75-400 MHz|Limit E (dBµV/m) at frequency F (MHz) for a 120 kHz bandwidth / 400-1,000 MHz|\n|---|---|---|\n|E = 52 - 25.13 log (F/30)|E = 42 + 15.13 log (F/75)|E = 53|"
+   },
+   {
+    "changed": false,
+    "applied": false,
+    "note": "Page not shown in the provided images. Returned unchanged.",
+    "before": "|L15 μH|A port to power supply|\n|---|---|\n|C10,1 μF|P port to ESA|\n|C21 μF (default value)|B ground|\n|R11 kΩ|MEP measuring port|",
+    "after": "|L15 μH|A port to power supply|\n|---|---|\n|C10,1 μF|P port to ESA|\n|C21 μF (default value)|B ground|\n|R11 kΩ|MEP measuring port|"
+   },
+   {
+    "changed": false,
+    "applied": false,
+    "note": "Page not shown in the provided images. Returned unchanged.",
+    "before": "|L15 μH|HV supply high voltage power supply|\n|---|---|\n|C10,1 μF|ESA HV high voltage of ESA|\n|C20,1 μF (default value)|MEP measuring port|\n|R11 kΩ|GND ground|\n|R21 MΩ (discharging C2to > 50 Vdcwithin 60 s)||",
+    "after": "|L15 μH|HV supply high voltage power supply|\n|---|---|\n|C10,1 μF|ESA HV high voltage of ESA|\n|C20,1 μF (default value)|MEP measuring port|\n|R11 kΩ|GND ground|\n|R21 MΩ (discharging C2to > 50 Vdcwithin 60 s)||"
+   },
+   {
+    "changed": false,
+    "applied": false,
+    "note": "Page not shown in the provided images. Returned unchanged.",
+    "before": "|L15 μH|HV supply high voltage power supply (positive and negative)|\n|---|---|\n|C10,1 μF|ESA HV high voltage of ESA (positive and negative)|\n|C20,1 μF (default value)|MEP measuring port|\n|R11 kΩ|GND ground|\n|R21 MΩ (discharging C2to > 50 Vdcwithin 60 s)||",
+    "after": "|L15 μH|HV supply high voltage power supply (positive and negative)|\n|---|---|\n|C10,1 μF|ESA HV high voltage of ESA (positive and negative)|\n|C20,1 μF (default value)|MEP measuring port|\n|R11 kΩ|GND ground|\n|R21 MΩ (discharging C2to > 50 Vdcwithin 60 s)||"
+   },
+   {
+    "changed": false,
+    "applied": false,
+    "note": "Page not shown in the provided images. Returned unchanged.",
+    "before": "|L15 μH|HV supply high voltage power supply (positive and negative)|\n|---|---|\n|C10,1 μF|ESA HV high voltage of ESA (positive and negative)|\n|C20,1 μF (default value)|MEP measuring port|\n|R11 kΩ|GND ground|\n|R21 MΩ (discharging C2to > 50 Vdcwithin 60 s)|ZDI-CMdifferential and common-mode impedance|",
+    "after": "|L15 μH|HV supply high voltage power supply (positive and negative)|\n|---|---|\n|C10,1 μF|ESA HV high voltage of ESA (positive and negative)|\n|C20,1 μF (default value)|MEP measuring port|\n|R11 kΩ|GND ground|\n|R21 MΩ (discharging C2to > 50 Vdcwithin 60 s)|ZDI-CMdifferential and common-mode impedance|"
+   },
+   {
+    "changed": false,
+    "applied": false,
+    "note": "Page not shown in the provided images. Returned unchanged.",
+    "before": "|Key||\n|---|---|\n|L15 µH|HV supply high voltage power supply|\n|C10,1 µF|Vehicle / ESA HV high voltage of vehicle or ESA|\n|C2 1 µF (default value, if another value is used, it shall be justified)|MEP measuring port|\n|R11 kΩ|GND ground|\n|R21 MΩ (discharging C2to > 50 Vdcwithin 60 s)||",
+    "after": "|Key||\n|---|---|\n|L15 µH|HV supply high voltage power supply|\n|C10,1 µF|Vehicle / ESA HV high voltage of vehicle or ESA|\n|C2 1 µF (default value, if another value is used, it shall be justified)|MEP measuring port|\n|R11 kΩ|GND ground|\n|R21 MΩ (discharging C2to > 50 Vdcwithin 60 s)||"
+   },
+   {
+    "changed": false,
+    "applied": false,
+    "note": "Page not shown in the provided images. Returned unchanged.",
+    "before": "|1 AAN||\n|---|---|\n|2 vehicle|Zcatsymmetric adjustment impedance|\n|3 charging station|A symmetrical line 1 (in vehicle)|\n|L12 x 38 mH|B symmetrical line 2 (in vehicle)|\n|L22 x 38 mH|C symmetrical line 1 (charging station side)|\n|R 200 Ω|D symmetrical line 2 (charging station side)|\n|C 4,7 µF|E measuring port with 50 Ω load|",
+    "after": "|1 AAN||\n|---|---|\n|2 vehicle|Zcatsymmetric adjustment impedance|\n|3 charging station|A symmetrical line 1 (in vehicle)|\n|L12 x 38 mH|B symmetrical line 2 (in vehicle)|\n|L22 x 38 mH|C symmetrical line 1 (charging station side)|\n|R 200 Ω|D symmetrical line 2 (charging station side)|\n|C 4,7 µF|E measuring port with 50 Ω load|"
+   },
+   {
+    "changed": false,
+    "applied": false,
+    "note": "Page not shown in the provided images. Returned unchanged.",
+    "before": "|1 AAN|C14,7 nF|\n|---|---|\n|2 vehicle|A PLC on AC or DC power line (vehicle side)|\n|3 charging station / power supply|B PLC on AC or DC power line (vehicle side)|\n|4 HV-AN or AMN or DC-charging-AN|C PLC line (charging station or AE side)|\n|5 AE|D PLC line (charging station or AE side)|\n|R12,5 kΩ||",
+    "after": "|1 AAN|C14,7 nF|\n|---|---|\n|2 vehicle|A PLC on AC or DC power line (vehicle side)|\n|3 charging station / power supply|B PLC on AC or DC power line (vehicle side)|\n|4 HV-AN or AMN or DC-charging-AN|C PLC line (charging station or AE side)|\n|5 AE|D PLC line (charging station or AE side)|\n|R12,5 kΩ||"
+   },
+   {
+    "changed": false,
+    "applied": false,
+    "note": "Page not shown in the provided images. Returned unchanged.",
+    "before": "|1 AAN||\n|---|---|\n|2 vehicle|R2270 Ω|\n|3 charging station|C12,2 nF|\n|4 control pilot (in vehicle)|L1100 µH|\n|5 PLC (in vehicle)|A control pilot line (vehicle side)|\n|6 AE|B/D protective earth|\n|R139 Ω|C control pilot line (charging station side)|",
+    "after": "|1 AAN||\n|---|---|\n|2 vehicle|R2270 Ω|\n|3 charging station|C12,2 nF|\n|4 control pilot (in vehicle)|L1100 µH|\n|5 PLC (in vehicle)|A control pilot line (vehicle side)|\n|6 AE|B/D protective earth|\n|R139 Ω|C control pilot line (charging station side)|"
+   },
+   {
+    "changed": false,
+    "applied": false,
+    "note": "Page not shown in the provided images. Returned unchanged.",
+    "before": "|Key||\n|---|---|\n|1 AAN|C11,1 nF|\n|2 vehicle|L1100 µH|\n|3 charging station|A control pilot line (vehicle side)|\n|4 control pilot (in vehicle)|B/D protective earth|\n|R1150 Ω|C control pilot line (charging station side)|",
+    "after": "|Key||\n|---|---|\n|1 AAN|C11,1 nF|\n|2 vehicle|L1100 µH|\n|3 charging station|A control pilot line (vehicle side)|\n|4 control pilot (in vehicle)|B/D protective earth|\n|R1150 Ω|C control pilot line (charging station side)|"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R10",
+  "paragraph": "Annex 7 4.3",
+  "pages": [
+   92,
+   93
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Merged two-row header into one, attaching the parent headers Peak detector and Quasi-peak detector (which had been split mid-word) to their sub-columns.",
+    "before": "|Frequency range MHz|Peak detector||Quasi-peak det|ector|\n|---|---|---|---|---|\n||RBW at -3 dB|Minimum scan time|RBW at -6 dB|Minimum scan time|\n|30 to 1,000|100/120 kHz|100 ms/MHz|120 kHz|20 s/MHz|",
+    "after": "|Frequency range MHz|Peak detector / RBW at -3 dB|Peak detector / Minimum scan time|Quasi-peak detector / RBW at -6 dB|Quasi-peak detector / Minimum scan time|\n|---|---|---|---|---|\n|30 to 1,000|100/120 kHz|100 ms/MHz|120 kHz|20 s/MHz|"
+   },
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Repaired header cells where the parent headers Peak detector and Quasi-peak detector had been split mid-word, and applied each parent to all three of its sub-columns.",
+    "before": "|Frequency range MHz|Peak de BW at -6 dB|tector Maximum step size|Minimum dwell time|Quasi-p BW at -6 dB|eak detector Maximum step size|Minimum dwell time|\n|---|---|---|---|---|---|---|\n|30 to 1,000|120 kHz|60 kHz|5 ms|120 kHz|60 kHz|1 s|",
+    "after": "|Frequency range MHz|Peak detector / BW at -6 dB|Peak detector / Maximum step size|Peak detector / Minimum dwell time|Quasi-peak detector / BW at -6 dB|Quasi-peak detector / Maximum step size|Quasi-peak detector / Minimum dwell time|\n|---|---|---|---|---|---|---|\n|30 to 1,000|120 kHz|60 kHz|5 ms|120 kHz|60 kHz|1 s|"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R10",
+  "paragraph": "Annex 8 4.3",
+  "pages": [
+   96,
+   97
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Merged split header 'Average det|ector' into a spanning parent; combined multi-row headers; added data row from page 97 that was extracted as plain text.",
+    "before": "|Frequency range|Average det|ector|\n|---|---|---|\n|MHz|RBW at|Minimum scan time|\n||-3 dB||",
+    "after": "|Frequency range MHz|Average detector / RBW at -3 dB|Average detector / Minimum scan time|\n|---|---|---|\n|30 to 1,000|100/120 kHz|100 ms/MHz|"
+   },
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Merged split header 'Average d|etector' into a spanning parent and combined multi-row header cells into full paths.",
+    "before": "|Frequency range|Average d|etector||\n|---|---|---|---|\n|MHz|BW at|Maximum step|Minimum dwell time|\n||-6 dB|size||\n|30 to 1,000|120 kHz|60 kHz|5 ms|",
+    "after": "|Frequency range MHz|Average detector / BW at -6 dB|Average detector / Maximum step size|Average detector / Minimum dwell time|\n|---|---|---|---|\n|30 to 1,000|120 kHz|60 kHz|5 ms|"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R10",
+  "paragraph": "Annex 9 2.3",
+  "pages": [
+   98,
+   98
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "On the page the test-conditions column is a single cell holding three paragraphs, and the failure-criteria cell spans all of them. The extraction had split these paragraphs into three rows, leaving the failure-criteria cell empty in the last two. They are merged here into one row so the failure criteria apply to all three paragraphs.",
+    "before": "|\"REESS charging mode\" ESA test conditions|Failure criteria|\n|---|---|\n|The REESS shall be in charging mode. The state of charge (SOC) of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole time duration of the measurement (this may lead to the measurement being split into different time slots with the need to discharge the vehicle’s traction battery before starting the next time slot). If the current consumption can be adjusted, then the current shall be set to at least 20 per cent of its maximum rated charging/input current value for AC charging.|Temporary loss of charging function is allowed, provided that there is no incorrect charging condition (e.g. over-current, overvoltage) and the function can be restored by a simple intervention, without the use of tools, such as turning off/on the DUT, after the disturbance is removed.|\n|If the current consumption can be adjusted, then the current shall be set to at least 20 per cent of its nominal value or to a minimum of 16 A (if the 20 per cent of its nominal value cannot be achieved in the test facility) for DC charging unless another value is agreed with the Type-Approval Authorities.||\n|In case of multiple batteries the average state of charge shall be considered.||",
+    "after": "|\"REESS charging mode\" ESA test conditions|Failure criteria|\n|---|---|\n|The REESS shall be in charging mode. The state of charge (SOC) of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole time duration of the measurement (this may lead to the measurement being split into different time slots with the need to discharge the vehicle’s traction battery before starting the next time slot). If the current consumption can be adjusted, then the current shall be set to at least 20 per cent of its maximum rated charging/input current value for AC charging. If the current consumption can be adjusted, then the current shall be set to at least 20 per cent of its nominal value or to a minimum of 16 A (if the 20 per cent of its nominal value cannot be achieved in the test facility) for DC charging unless another value is agreed with the Type-Approval Authorities. In case of multiple batteries the average state of charge shall be considered.|Temporary loss of charging function is allowed, provided that there is no incorrect charging condition (e.g. over-current, overvoltage) and the function can be restored by a simple intervention, without the use of tools, such as turning off/on the DUT, after the disturbance is removed.|"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R10",
+  "paragraph": "Annex 9 Appendix 1 0",
+  "pages": [
+   101,
+   101
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Merged the header text that had been split across two rows into a single header row; the data rows are unchanged.",
+    "before": "|Upper frequency|Cell form factor|Cell form factor|Plate separation|Septum|\n|---|---|---|---|---|\n|(MHz)|W: b|L/W|b (cm)|S (cm)|\n|200|1.69|0.66|56|70|\n|200|1.00|1|60|50|",
+    "after": "|Upper frequency (MHz)|Cell form factor W: b|Cell form factor L/W|Plate separation b (cm)|Septum S (cm)|\n|---|---|---|---|---|\n|200|1.69|0.66|56|70|\n|200|1.00|1|60|50|"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R10",
+  "paragraph": "Annex 9 Appendix 2 0",
+  "pages": [
+   101,
+   105
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Restored the 'Key' header row that the extraction had lost (the first data row had been promoted to header) and removed the stray separator row left where the table continues from page 102 to page 103.",
+    "before": "|1|ESA (grounded locally if required in test plan)|16|power line filter|\n|---|---|---|---|\n|2|ground plane|17|fibre optic feed through|\n|3|low relative permittivity support (εr≤ 1.4); thickness 50 mm|18|bulk head connector|\n|4|ground straps|19|stimulating and monitoring system|\n|5|LV harness|20|RF signal generator and amplifier|\n|6|HV lines (HV+, HV-)|21|high quality coaxial cable e.g. double shielded (50 Ω)|\n|7|LV load simulator|22|optical fibre|\n|8|impedance matching network (optional)|23|log-periodic antenna|\n|9|LV AN|24|RF absorber material|\n|---|---|---|---|\n|10|HV AN|25|AC power mains|\n|11|LV supply lines|26|AMN for AC power mains|\n|12|HV supply lines|27|AC charging load simulator|\n|13|LV power supply 12 V / 24 V / 48 V (placed on the bench)|28|50 Ω load|\n|14|additional shielded box (optional)|29|AC lines|\n|15|HV power supply (should be shielded if placed inside ALSE)|||",
+    "after": "|Key||||\n|---|---|---|---|\n|1|ESA (grounded locally if required in test plan)|16|power line filter|\n|2|ground plane|17|fibre optic feed through|\n|3|low relative permittivity support (εr ≤ 1.4); thickness 50 mm|18|bulk head connector|\n|4|ground straps|19|stimulating and monitoring system|\n|5|LV harness|20|RF signal generator and amplifier|\n|6|HV lines (HV+, HV-)|21|high quality coaxial cable e.g. double shielded (50 Ω)|\n|7|LV load simulator|22|optical fibre|\n|8|impedance matching network (optional)|23|log-periodic antenna|\n|9|LV AN|24|RF absorber material|\n|10|HV AN|25|AC power mains|\n|11|LV supply lines|26|AMN for AC power mains|\n|12|HV supply lines|27|AC charging load simulator|\n|13|LV power supply 12 V / 24 V / 48 V (placed on the bench)|28|50 Ω load|\n|14|additional shielded box (optional)|29|AC lines|\n|15|HV power supply (should be shielded if placed inside ALSE)|||"
+   },
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Joined the wrapped 'mm' fragment back onto item 3 and removed the stray mid-table separator row. This table falls on pages not included in the provided images, so only these structural fixes were made; the cell values are kept as extracted.",
+    "before": "|Key||||\n|---|---|---|---|\n|1|ESA (grounded locally if required in test plan)|16|power line filter|\n|2|ground plane|17|fibre optic feed through|\n|3|low relative permittivity support (εr≤ 1.4); thickness 50|18|bulk head connector|\n||mm|||\n|4|ground straps|19|stimulating and monitoring system|\n|5|LV harness|20|RF signal generator and amplifier|\n|6|HV lines (HV+, HV-)|21|high quality coaxial cable e.g. double shielded (50 Ω)|\n|---|---|---|---|\n|7|LV load simulator|22|optical fibre|\n|8|impedance matching network (optional)|23|horn antenna|\n|9|LV AN|24|RF absorber material|\n|10|HV AN|25|AC power mains|\n|11|LV supply lines|26|AMN for AC power mains|\n|12|HV supply lines|27|AC charging load simulator|\n|13|LV power supply 12 V / 24 V / 48 V (placed on the bench)|28|50 Ω load|\n|14|additional shielded box (optional)|29|AC lines|\n|15|HV power supply (should be shielded if placed inside ALSE)|||",
+    "after": "|Key||||\n|---|---|---|---|\n|1|ESA (grounded locally if required in test plan)|16|power line filter|\n|2|ground plane|17|fibre optic feed through|\n|3|low relative permittivity support (εr ≤ 1.4); thickness 50 mm|18|bulk head connector|\n|4|ground straps|19|stimulating and monitoring system|\n|5|LV harness|20|RF signal generator and amplifier|\n|6|HV lines (HV+, HV-)|21|high quality coaxial cable e.g. double shielded (50 Ω)|\n|7|LV load simulator|22|optical fibre|\n|8|impedance matching network (optional)|23|horn antenna|\n|9|LV AN|24|RF absorber material|\n|10|HV AN|25|AC power mains|\n|11|LV supply lines|26|AMN for AC power mains|\n|12|HV supply lines|27|AC charging load simulator|\n|13|LV power supply 12 V / 24 V / 48 V (placed on the bench)|28|50 Ω load|\n|14|additional shielded box (optional)|29|AC lines|\n|15|HV power supply (should be shielded if placed inside ALSE)|||"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R10",
+  "paragraph": "Annex 9 Appendix 3 0",
+  "pages": [
+   105,
+   108
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Removed the stray separator row left by the page break between rows 10 and 11, so the table continues as one grid.",
+    "before": "||Key|||\n|---|---|---|---|\n|1|ESA|14|additional shielded box|\n|2|ground plane|15|HV power supply (should be shielded if placed inside ALSE)|\n|3|low relative permittivity support (εr≤ 1,4); thickness 50 mm|16|power line filter|\n|4|ground straps|17|fibre optic feed through|\n|5|LV harness|18|bulk head connector|\n|6|HV lines (HV+, HV-)|19|stimulating and monitoring system|\n|7|LV load simulator|20|injection probe|\n|8|impedance matching network (optional) (see ISO 11452-1)|21|high frequency equipment (generator and amplifier)|\n|9|LV AN|22|optical fibre|\n|10|HV AN|23|50 Ω load|\n|---|---|---|---|\n|11|LV supply lines|24|AC lines|\n|12|HV supply lines|25|AMN for AC power mains|\n|13|LV power supply 12 V / 24 V / 48 V (should be placed on the bench)|26|AC charging load simulator|\n|||27|AC power mains|",
+    "after": "||Key|||\n|---|---|---|---|\n|1|ESA|14|additional shielded box|\n|2|ground plane|15|HV power supply (should be shielded if placed inside ALSE)|\n|3|low relative permittivity support (εr≤ 1,4); thickness 50 mm|16|power line filter|\n|4|ground straps|17|fibre optic feed through|\n|5|LV harness|18|bulk head connector|\n|6|HV lines (HV+, HV-)|19|stimulating and monitoring system|\n|7|LV load simulator|20|injection probe|\n|8|impedance matching network (optional) (see ISO 11452-1)|21|high frequency equipment (generator and amplifier)|\n|9|LV AN|22|optical fibre|\n|10|HV AN|23|50 Ω load|\n|11|LV supply lines|24|AC lines|\n|12|HV supply lines|25|AMN for AC power mains|\n|13|LV power supply 12 V / 24 V / 48 V (should be placed on the bench)|26|AC charging load simulator|\n|||27|AC power mains|"
+   },
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Restored the Key header row and row 1 (ESA / 15 HV power supply), which page 107 shows but the extraction captured only as picture text.",
+    "before": "|2|ground plane|16|power line filter|\n|---|---|---|---|\n|3|low relative permittivity support (εr≤ 1,4); thickness 50 mm|17|fibre optic feed through|\n|4|ground straps|18|bulk head connector|\n|5|LV harness|19|stimulating and monitoring system|\n|6|HV lines (HV+, HV-)|20|measuring probe|\n|7|LV load simulator|21|high frequency equipment (generator, amplifier and spectrum analyser)|\n|8|impedance matching network (optional) (see ISO 11452-1)|22|optical fibre|\n|9|LV AN|23|50 Ω load|\n|10|HV AN|24|AC lines|\n|11|LV supply lines|25|AMN for AC power mains|\n|12|HV supply lines|26|AC charging load simulator|\n|13|LV power supply 12 V / 24 V / 48 V (should be placed on the bench)|27|AC power mains|\n|14|additional shielded box|28|injection probe|",
+    "after": "||Key|||\n|---|---|---|---|\n|1|ESA|15|HV power supply (should be shielded if placed inside ALSE)|\n|2|ground plane|16|power line filter|\n|3|low relative permittivity support (εr≤ 1,4); thickness 50 mm|17|fibre optic feed through|\n|4|ground straps|18|bulk head connector|\n|5|LV harness|19|stimulating and monitoring system|\n|6|HV lines (HV+, HV-)|20|measuring probe|\n|7|LV load simulator|21|high frequency equipment (generator, amplifier and spectrum analyser)|\n|8|impedance matching network (optional) (see ISO 11452-1)|22|optical fibre|\n|9|LV AN|23|50 Ω load|\n|10|HV AN|24|AC lines|\n|11|LV supply lines|25|AMN for AC power mains|\n|12|HV supply lines|26|AC charging load simulator|\n|13|LV power supply 12 V / 24 V / 48 V (should be placed on the bench)|27|AC power mains|\n|14|additional shielded box|28|injection probe|"
+   }
+  ],
+  "status": "applied"
+ }
+]

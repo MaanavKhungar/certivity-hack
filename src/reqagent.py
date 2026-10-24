@@ -39,7 +39,9 @@ What counts as a requirement:
 - For prescribed tests, keep what the product must withstand and achieve: the exposure or stress applied to the
   product (e.g. the test atmosphere or solution it is exposed to, with its temperature and duration), the conditions
   that define what is measured (which surface or area counts, the illuminant and angles for a measurement), and the
-  pass criteria after the test.
+  pass criteria after the test. An exposure stays a requirement even when the same paragraph also describes the
+  apparatus: "the samples shall be exposed according to standard X using the parameters of Table Y for N hours" is
+  the stress the product must withstand; write it with its standard, parameters (from the table) and duration.
 - Design options with a condition ("if the device has / is marked / is combined with X, it shall ...") are
   requirements: the engineer decides whether the condition applies. Keep them.
 - Approval marking: the content, placement, size, legibility and format of the marks on the product are requirements.
@@ -69,8 +71,13 @@ How to write them:
 - Stay close to the regulation's wording; make each requirement understandable on its own (name the subject instead
   of "it", keep conditions such as "when tested according to ...").
 - When a paragraph sets a limit by reference to a table: write the paragraph's own obligation as one requirement
-  (table null), and the table's values that apply to the product as one further requirement (table set), listing all
-  applicable values in it. Write any further "shall" sentence stated around the table separately.
+  (table null), then the table's values that apply to the product (table set):
+  - if the table gives ONE limit of one quantity over a measuring grid (angles, measuring points, zones of one
+    function), write ONE requirement listing all applicable values;
+  - if its rows are DIFFERENT tests or test conditions (pulse types, test methods, frequency bands or severities
+    each with their own level, duration or pass criterion), write ONE requirement PER ROW, each stating the row's
+    test, its values and its criterion.
+  Write any further "shall" sentence stated around the table separately.
 - If the requirement comes from a table, set "table" to the table name (e.g. "3" or "A6-1"), else null.
 - Cite the node_id of the paragraph the obligation is stated in. Never invent node ids.
 - If nothing in the section applies to the product, return an empty list."""

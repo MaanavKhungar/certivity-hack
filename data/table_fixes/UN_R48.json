@@ -1,0 +1,81 @@
+[
+ {
+  "regulation": "UN R48",
+  "paragraph": "5.15",
+  "pages": [
+   23,
+   24
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Removed the stray separator row inserted at the page break (table continues from page 23 to 24) and merged the split 'Reversing / projection:' rows into one row. The table has no header row on the page, so the first data row stays in the header position as extracted. The empty left cells in the two rows after 'Conspicuity marking:' are left empty because they are separate bordered cells on the page, not a spanned cell.",
+    "before": "|Main-beam headlamp:|White|\n|---|---|\n|Dipped-beam headlamp:|White|\n|Front fog lamp:|White or selective yellow|\n|Reversing lamp:|White|\n|Direction-indicator lamp:|Amber|\n|Hazard warning signal:|Amber|\n|Stop lamp:|Red|\n|Emergency stop signal :|Amber or red|\n|Rear-end collision alert signal:|Amber|\n|Rear registration plate lamp:|White|\n|Front position lamp:|White|\n|Rear position lamp:|Red|\n|Front fog lamp|White or selective yellow|\n|Rear fog lamp:|Red|\n|Parking lamp:|White in front, red at the rear, amber if reciprocally incorporated in the side direction-indicator lamps or in the side-marker lamps.|\n|Side-marker lamp:|Amber; however the rearmost side- marker lamp can be red if it is grouped or combined or reciprocally incorporated with the rear position lamp, the rear end-outline marker lamp, the rear fog lamp, the stop lamp or is grouped or has part of the light emitting surface in common with the rear retro-reflector.|\n|End-outline marker lamp:|White in front, red at the rear|\n|---|---|\n|Daytime running lamp:|White|\n|Rear retro-reflector, non- triangular:|Red|\n|Rear retro-reflector, triangular:|Red|\n|Front retro-reflector, non- triangular:|Identical to incident light^8|\n|Side retro-reflector, non- triangular:|Amber; however the rearmost side retro-reflector can be red if it is grouped or has part of the light emitting surface in common with the rear position lamp, the rear end outline marker lamp, the rear fog lamp, the stop-lamp, the red rearmost side-marker lamp or the rear retro-reflector, non- triangular.|\n|Cornering lamp:|White|\n|Conspicuity marking:|White to the front;|\n||White or yellow to the side;|\n||Red or yellow to the rear.^9|\n|Adaptive front- lighting systems (AFS):|White|\n|Exterior courtesy lamp:|White|\n|Exterior courtesy lamp:|In addition, in accordance with the individual specifications applicable to the specific lamp used for the exterior courtesy lamp.|\n|Manoeuvring lamp:|White|\n|Answer-back signal:|In accordance with the individual specifications applicable to the specific lamp used for the answer- back signal.|\n|Reversing|White|\n|projection:||",
+    "after": "|Main-beam headlamp:|White|\n|---|---|\n|Dipped-beam headlamp:|White|\n|Front fog lamp:|White or selective yellow|\n|Reversing lamp:|White|\n|Direction-indicator lamp:|Amber|\n|Hazard warning signal:|Amber|\n|Stop lamp:|Red|\n|Emergency stop signal :|Amber or red|\n|Rear-end collision alert signal:|Amber|\n|Rear registration plate lamp:|White|\n|Front position lamp:|White|\n|Rear position lamp:|Red|\n|Front fog lamp|White or selective yellow|\n|Rear fog lamp:|Red|\n|Parking lamp:|White in front, red at the rear, amber if reciprocally incorporated in the side direction-indicator lamps or in the side-marker lamps.|\n|Side-marker lamp:|Amber; however the rearmost side- marker lamp can be red if it is grouped or combined or reciprocally incorporated with the rear position lamp, the rear end-outline marker lamp, the rear fog lamp, the stop lamp or is grouped or has part of the light emitting surface in common with the rear retro-reflector.|\n|End-outline marker lamp:|White in front, red at the rear|\n|Daytime running lamp:|White|\n|Rear retro-reflector, non- triangular:|Red|\n|Rear retro-reflector, triangular:|Red|\n|Front retro-reflector, non- triangular:|Identical to incident light^8|\n|Side retro-reflector, non- triangular:|Amber; however the rearmost side retro-reflector can be red if it is grouped or has part of the light emitting surface in common with the rear position lamp, the rear end outline marker lamp, the rear fog lamp, the stop-lamp, the red rearmost side-marker lamp or the rear retro-reflector, non- triangular.|\n|Cornering lamp:|White|\n|Conspicuity marking:|White to the front;|\n||White or yellow to the side;|\n||Red or yellow to the rear.^9|\n|Adaptive front- lighting systems (AFS):|White|\n|Exterior courtesy lamp:|White|\n|Exterior courtesy lamp:|In addition, in accordance with the individual specifications applicable to the specific lamp used for the exterior courtesy lamp.|\n|Manoeuvring lamp:|White|\n|Answer-back signal:|In accordance with the individual specifications applicable to the specific lamp used for the answer- back signal.|\n|Reversing projection:|White|"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R48",
+  "paragraph": "Annex 3 0",
+  "pages": [
+   93,
+   94
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Rejoined entries split across lines: \"X Not part of this function\", \"7a. … (with outer lens)\" and \"7b. … (without outer lens)\". Added row 8 (\"Direction of visibility\"), which continues the table on page 94. The table has no real header, so the first key row stays as the header row. Each left-column item is paired with the right-column item beside it in the page layout.",
+    "before": "|1. Illuminating surface|IO Inner optical part|\n|---|---|\n|2. Axis of reference|LG Light guide|\n|3. Centre of reference|L Outer lens|\n|4. Angle of geometric visibility|R Reflector|\n|5. Light-emitting surface|S Light source|\n|6. Apparent surface based on the illuminating surface|X Not part of this|\n|7a. Apparent surface based on the light-emitting surface according to paragraph 2.10.2. (a) (with|function|\n|outer lens)|F1 Function one|\n|7b. Apparent surface based on the light-emitting surface according to paragraph 2.10.2. (b)|F2 Function two|\n|(without outer lens)||",
+    "after": "|1. Illuminating surface|IO Inner optical part|\n|---|---|\n|2. Axis of reference|LG Light guide|\n|3. Centre of reference|L Outer lens|\n|4. Angle of geometric visibility|R Reflector|\n|5. Light-emitting surface|S Light source|\n|6. Apparent surface based on the illuminating surface|X Not part of this function|\n|7a. Apparent surface based on the light-emitting surface according to paragraph 2.10.2. (a) (with outer lens)|F1 Function one|\n|7b. Apparent surface based on the light-emitting surface according to paragraph 2.10.2. (b) (without outer lens)|F2 Function two|\n|8. Direction of visibility||"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R48",
+  "paragraph": "Annex 3 Part 6 0",
+  "pages": [
+   100,
+   102
+  ],
+  "tables": [
+   {
+    "changed": false,
+    "applied": false,
+    "note": "Example B table matches the page.",
+    "before": "||Illuminating surface|Declared Light-emitting surface according to 2.10.2. (a)|\n|---|---|---|\n|Edges are|a and b|c and d|",
+    "after": "||Illuminating surface|Declared Light-emitting surface according to 2.10.2. (a)|\n|---|---|---|\n|Edges are|a and b|c and d|"
+   },
+   {
+    "changed": false,
+    "applied": false,
+    "note": "Example C table matches the page.",
+    "before": "||Illuminating surface|\n|---|---|\n|Edges are|a and b|",
+    "after": "||Illuminating surface|\n|---|---|\n|Edges are|a and b|"
+   }
+  ],
+  "status": "unchanged"
+ },
+ {
+  "regulation": "UN R48",
+  "paragraph": "Annex 9 1.3.2",
+  "pages": [
+   114,
+   114
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Merged the '[per cent]' unit row into the column headers; the formulas for 0.9 < h ≤ 1.2 span both the 0.9 < h ≤ 1.2 and 1.2 < h ≤ 1.5 rows on the page, so they are repeated in the 1.2 < h ≤ 1.5 row.",
+    "before": "|Mounting height h [m]|Upper inclination limit|Lower inclination limit|\n|---|---|---|\n||[per cent]|[per cent]|\n|0.5 ≤ h ≤ 0.9|-0.50|- (h + 1.2)|\n|0.9 < h ≤ 1.2|- (h x 2.17 - 1.45)|- (h x 2.17 + 0.15)|\n|1.2 < h ≤ 1.5|||",
+    "after": "|Mounting height h [m]|Upper inclination limit [per cent]|Lower inclination limit [per cent]|\n|---|---|---|\n|0.5 ≤ h ≤ 0.9|-0.50|- (h + 1.2)|\n|0.9 < h ≤ 1.2|- (h x 2.17 - 1.45)|- (h x 2.17 + 0.15)|\n|1.2 < h ≤ 1.5|- (h x 2.17 - 1.45)|- (h x 2.17 + 0.15)|"
+   }
+  ],
+  "status": "applied"
+ }
+]

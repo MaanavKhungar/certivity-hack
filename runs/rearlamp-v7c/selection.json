@@ -1,0 +1,1208 @@
+{
+ "stageA": {
+  "product_summary": "Rear combination lamp for M1 passenger cars. It integrates a rear position lamp, a stop lamp and a reversing lamp, all on non-replaceable LED modules on a PCB. It also has a red PMMA outer lens, an integral non-triangular red retro-reflector (Class IA/IB), a metallised PC reflector, an ASA/PC or PP housing, a gasket and fasteners. The lamp functions need device approval under R148 and the retro-reflector under R150. Installation must comply with R48, and the LED electronics bring in EMC requirements.",
+  "regulations": {
+   "UN GTR No. 9": {
+    "regulation": "UN GTR No. 9",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Pedestrian protection covers the vehicle front structure. A rear lamp is outside the impact test areas."
+   },
+   "UN R10": {
+    "regulation": "UN R10",
+    "likelihood": 0.7,
+    "binds_through": "technology",
+    "reason": "The LED modules on the PCB with driving circuitry make the lamp an electrical/electronic sub-assembly. Stop lamps and rear position lamps are listed immunity-related functions under R10."
+   },
+   "UN R100 (version 5.0.0)": {
+    "regulation": "UN R100 (version 5.0.0)",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "This regulation covers high-voltage electric power train safety. A 12 V signalling lamp is not part of the HV bus."
+   },
+   "UN R101": {
+    "regulation": "UN R101",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "CO2 and energy consumption measurement is a whole-vehicle powertrain approval, unrelated to a rear lamp."
+   },
+   "UN R102": {
+    "regulation": "UN R102",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Close-coupling devices for heavy towing combinations have no relation to a passenger car rear lamp."
+   },
+   "UN R103": {
+    "regulation": "UN R103",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "This regulation covers replacement catalytic converters and particulate filters only."
+   },
+   "UN R104": {
+    "regulation": "UN R104",
+    "likelihood": 0.03,
+    "binds_through": "none",
+    "reason": "R104 covers retro-reflective marking materials for heavy vehicles, now in R150. The lamp has a rigid prismatic retro-reflector on an M1 car, which is outside its scope.",
+    "excluded": "replaced by a consolidated regulation that applies"
+   },
+   "UN R114": {
+    "regulation": "UN R114",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "This regulation covers replacement airbag systems, unrelated to lamps."
+   },
+   "UN R116": {
+    "regulation": "UN R116",
+    "likelihood": 0.02,
+    "binds_through": "none",
+    "reason": "Anti-theft and alarm systems may use direction indicators, but this lamp has no indicator function."
+   },
+   "UN R123": {
+    "regulation": "UN R123",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Adaptive front-lighting systems are front headlamps and are now covered by R149. They do not apply to a rear lamp."
+   },
+   "UN R127": {
+    "regulation": "UN R127",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Pedestrian safety concerns the vehicle front structure only."
+   },
+   "UN R128": {
+    "regulation": "UN R128",
+    "likelihood": 0.08,
+    "binds_through": "none",
+    "reason": "The light sources are non-replaceable LED modules on the PCB. R128 applies only to replaceable standardised LED light sources.",
+    "excluded": "light-source regulation; light sources not confirmed replaceable"
+   },
+   "UN R131": {
+    "regulation": "UN R131",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "AEBS for heavy vehicles has no relation to a rear lamp."
+   },
+   "UN R132": {
+    "regulation": "UN R132",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "This regulation covers retrofit diesel emission control devices only."
+   },
+   "UN R137": {
+    "regulation": "UN R137",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "This is a frontal-impact occupant protection test at whole-vehicle level."
+   },
+   "UN R13H": {
+    "regulation": "UN R13H",
+    "likelihood": 0.12,
+    "binds_through": "none",
+    "reason": "R13H governs the braking signal and emergency braking signal logic that activates the stop lamp. The lamp is only the actuator, so the link is weak."
+   },
+   "UN R148": {
+    "regulation": "UN R148",
+    "likelihood": 0.97,
+    "binds_through": "direct",
+    "reason": "The rear position lamp (4–17 cd), stop lamp (60–185 cd) and reversing lamp with non-replaceable LEDs are all light-signalling devices type-approved under R148. That includes colour, photometry and the grouped/combined lamp marking."
+   },
+   "UN R149": {
+    "regulation": "UN R149",
+    "likelihood": 0.03,
+    "binds_through": "none",
+    "reason": "R149 covers headlamps, front fog lamps and cornering lamps. A rear signalling lamp has none of these functions."
+   },
+   "UN R150": {
+    "regulation": "UN R150",
+    "likelihood": 0.9,
+    "binds_through": "direct",
+    "reason": "The integral red prismatic retro-reflector (Class IA/IB, reflectivity at 5° incidence) is a retro-reflective device approved under R150."
+   },
+   "UN R152": {
+    "regulation": "UN R152",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "AEBS for light vehicles is unrelated to the rear lamp."
+   },
+   "UN R155": {
+    "regulation": "UN R155",
+    "likelihood": 0.02,
+    "binds_through": "none",
+    "reason": "The cyber security approval applies at vehicle level. A simple LED lamp driver has no external interface."
+   },
+   "UN R156": {
+    "regulation": "UN R156",
+    "likelihood": 0.02,
+    "binds_through": "none",
+    "reason": "The software update approval applies at vehicle level. The lamp electronics are not shown as software-updatable ECUs."
+   },
+   "UN R157": {
+    "regulation": "UN R157",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "ALKS relates only to direction indicators, which this lamp does not have."
+   },
+   "UN R161": {
+    "regulation": "UN R161",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Devices preventing unauthorised use, such as steering and transmission locks, are unrelated."
+   },
+   "UN R162": {
+    "regulation": "UN R162",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Immobilizers are unrelated to a rear lamp."
+   },
+   "UN R163": {
+    "regulation": "UN R163",
+    "likelihood": 0.02,
+    "binds_through": "none",
+    "reason": "Alarm systems use hazard and direction indicator lamps for the optical warning. This lamp has no indicator function."
+   },
+   "UN R164": {
+    "regulation": "UN R164",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "This regulation covers studded tyres only."
+   },
+   "UN R171": {
+    "regulation": "UN R171",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "DCAS is a driver assistance system unrelated to rear lamps."
+   },
+   "UN R174": {
+    "regulation": "UN R174",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Safety-belt reminders are unrelated."
+   },
+   "UN R175": {
+    "regulation": "UN R175",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "The pedal-error acceleration control system is unrelated."
+   },
+   "UN R19": {
+    "regulation": "UN R19",
+    "likelihood": 0.02,
+    "binds_through": "none",
+    "reason": "Front fog lamps are a front lighting function, now under R149. They do not apply to a rear lamp."
+   },
+   "UN R23": {
+    "regulation": "UN R23",
+    "likelihood": 0.15,
+    "binds_through": "none",
+    "reason": "R23 was the former device regulation for the reversing lamp function. R148 has replaced it for new approvals.",
+    "excluded": "replaced by a consolidated regulation that applies"
+   },
+   "UN R26": {
+    "regulation": "UN R26",
+    "likelihood": 0.3,
+    "binds_through": "installation",
+    "reason": "Lighting devices form part of the M1 external surface. The lamp housing and lens edges and radii must therefore allow the vehicle to meet the external projection requirements."
+   },
+   "UN R3": {
+    "regulation": "UN R3",
+    "likelihood": 0.15,
+    "binds_through": "none",
+    "reason": "R3 was the former device regulation for the integrated retro-reflector. R150 has replaced it for new approvals.",
+    "excluded": "replaced by a consolidated regulation that applies"
+   },
+   "UN R32": {
+    "regulation": "UN R32",
+    "likelihood": 0.03,
+    "binds_through": "none",
+    "reason": "The rear-impact passenger compartment test is structural. The lamp does not influence it materially."
+   },
+   "UN R37 (version 3.48.0)": {
+    "regulation": "UN R37 (version 3.48.0)",
+    "likelihood": 0.04,
+    "binds_through": "none",
+    "reason": "There are no replaceable filament light sources. The lamp uses non-replaceable LEDs."
+   },
+   "UN R38": {
+    "regulation": "UN R38",
+    "likelihood": 0.04,
+    "binds_through": "none",
+    "reason": "The lamp has no rear fog function, and R38 is in any case replaced by R148.",
+    "excluded": "replaced by a consolidated regulation that applies"
+   },
+   "UN R39": {
+    "regulation": "UN R39",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Speedometer and odometer requirements are unrelated."
+   },
+   "UN R40": {
+    "regulation": "UN R40",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "This regulation covers motorcycle emissions and does not apply."
+   },
+   "UN R42": {
+    "regulation": "UN R42",
+    "likelihood": 0.07,
+    "binds_through": "none",
+    "reason": "After the low-speed bumper impact test, lighting must still function. This is a vehicle-level test with only a weak link to the lamp."
+   },
+   "UN R43": {
+    "regulation": "UN R43",
+    "likelihood": 0.02,
+    "binds_through": "none",
+    "reason": "Glazing of lighting and light-signalling devices is explicitly excluded from safety glazing."
+   },
+   "UN R48": {
+    "regulation": "UN R48",
+    "likelihood": 0.9,
+    "binds_through": "installation",
+    "reason": "R48 sets position, geometric visibility (e.g. the reversing lamp at 45° outboard), colour, switching and tell-tale requirements. These cover the rear position, stop and reversing lamps and the rear retro-reflector on M1 vehicles, so the lamp must be designed for compliant installation."
+   },
+   "UN R49 (version 7.3.1, 07 series of amendments)": {
+    "regulation": "UN R49 (version 7.3.1, 07 series of amendments)",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Heavy-duty engine emissions are unrelated."
+   },
+   "UN R51 (version 3.10.0)": {
+    "regulation": "UN R51 (version 3.10.0)",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Vehicle sound emissions are unrelated."
+   },
+   "UN R53": {
+    "regulation": "UN R53",
+    "likelihood": 0.03,
+    "binds_through": "none",
+    "reason": "This installation regulation applies only to L3 motorcycles. The product is for M1."
+   },
+   "UN R6": {
+    "regulation": "UN R6",
+    "likelihood": 0.04,
+    "binds_through": "none",
+    "reason": "The lamp has no direction indicator function, and R6 is replaced by R148.",
+    "excluded": "replaced by a consolidated regulation that applies"
+   },
+   "UN R62": {
+    "regulation": "UN R62",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "This anti-theft regulation applies to handlebar L-vehicles only."
+   },
+   "UN R64": {
+    "regulation": "UN R64",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Temporary spare units and run-flat tyres are unrelated."
+   },
+   "UN R67": {
+    "regulation": "UN R67",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "LPG equipment is unrelated."
+   },
+   "UN R7": {
+    "regulation": "UN R7",
+    "likelihood": 0.2,
+    "binds_through": "none",
+    "reason": "R7 was the former device regulation for the rear position and stop lamps. R148 has replaced it for new approvals.",
+    "excluded": "replaced by a consolidated regulation that applies"
+   },
+   "UN R79": {
+    "regulation": "UN R79",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Steering equipment is unrelated."
+   },
+   "UN R83 (version 9.0.0)": {
+    "regulation": "UN R83 (version 9.0.0)",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "M1/N1 emissions are unrelated."
+   },
+   "UN R89": {
+    "regulation": "UN R89",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Speed limitation devices are unrelated."
+   },
+   "UN R92": {
+    "regulation": "UN R92",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Motorcycle replacement silencers are unrelated."
+   },
+   "UN R94 (version 5.1.0)": {
+    "regulation": "UN R94 (version 5.1.0)",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "The frontal offset crash test is unrelated to a rear lamp."
+   }
+  },
+  "candidates": {
+   "UN R10": {
+    "regulation": "UN R10",
+    "likelihood": 0.7,
+    "binds_through": "technology",
+    "reason": "The LED modules on the PCB with driving circuitry make the lamp an electrical/electronic sub-assembly. Stop lamps and rear position lamps are listed immunity-related functions under R10.",
+    "via": "screening"
+   },
+   "UN R148": {
+    "regulation": "UN R148",
+    "likelihood": 0.97,
+    "binds_through": "direct",
+    "reason": "The rear position lamp (4–17 cd), stop lamp (60–185 cd) and reversing lamp with non-replaceable LEDs are all light-signalling devices type-approved under R148. That includes colour, photometry and the grouped/combined lamp marking.",
+    "via": "screening"
+   },
+   "UN R150": {
+    "regulation": "UN R150",
+    "likelihood": 0.9,
+    "binds_through": "direct",
+    "reason": "The integral red prismatic retro-reflector (Class IA/IB, reflectivity at 5° incidence) is a retro-reflective device approved under R150.",
+    "via": "screening"
+   },
+   "UN R19": {
+    "regulation": "UN R19",
+    "likelihood": 0.02,
+    "binds_through": "none",
+    "reason": "Front fog lamps are a front lighting function, now under R149. They do not apply to a rear lamp.",
+    "via": "bm25"
+   },
+   "UN R26": {
+    "regulation": "UN R26",
+    "likelihood": 0.3,
+    "binds_through": "installation",
+    "reason": "Lighting devices form part of the M1 external surface. The lamp housing and lens edges and radii must therefore allow the vehicle to meet the external projection requirements.",
+    "via": "screening"
+   },
+   "UN R48": {
+    "regulation": "UN R48",
+    "likelihood": 0.9,
+    "binds_through": "installation",
+    "reason": "R48 sets position, geometric visibility (e.g. the reversing lamp at 45° outboard), colour, switching and tell-tale requirements. These cover the rear position, stop and reversing lamps and the rear retro-reflector on M1 vehicles, so the lamp must be designed for compliant installation.",
+    "via": "screening"
+   },
+   "UN R53": {
+    "regulation": "UN R53",
+    "likelihood": 0.03,
+    "binds_through": "none",
+    "reason": "This installation regulation applies only to L3 motorcycles. The product is for M1.",
+    "via": "bm25"
+   }
+  },
+  "bm25": [
+   [
+    "UN R48",
+    170.0
+   ],
+   [
+    "UN R150",
+    148.0
+   ],
+   [
+    "UN R3",
+    147.4
+   ],
+   [
+    "UN R53",
+    146.9
+   ],
+   [
+    "UN R148",
+    142.9
+   ],
+   [
+    "UN R23",
+    128.8
+   ],
+   [
+    "UN R7",
+    125.5
+   ],
+   [
+    "UN R19",
+    120.0
+   ]
+  ]
+ },
+ "stageB": {
+  "UN R10": {
+   "applies": true,
+   "how_it_applies": "The rear lamp contains LED modules on a PCB with associated wiring and connector, so it is an electrical/electronic sub-assembly (ESA, para 2.8) that can be approved under UN R10 as a component or separate technical unit. Two of its functions, the stop lamp and the rear position lamp, are listed immunity-related functions (para 2.12), so the lamp must pass ESA immunity testing as well as the emission limits. Applicable requirements are: approval marking (para 5), broadband and narrowband radiated emission limits for ESAs (paras 6.5 and 6.6), radiated immunity of ESAs (para 6.8), and conducted transient immunity and emission on 12/24 V supply lines (Annex 10). The exceptions in para 6.10 may relieve some tests, depending on whether the electronics are active. Conformity of production (para 9) also applies. Because the light source is LED, the ESA-as-light-source provision (paras 3.2.10 / 4.2.4) applies: the lamp needs an R128 approval reference or a report that it is not mechanically interchangeable with approved light sources. The REESS charging-mode requirements (para 7) do not apply: the lamp is not part of a charging coupling system and has no AC/DC grid or network ports. Vehicle-level sections (6.2–6.4) concern the vehicle manufacturer, not this device. The lens, retro-reflector, housing, seal and fasteners are passive parts with no R10 obligations.",
+   "part_mapping": [
+    {
+     "part": "LED modules on PCB (light sources and drive circuitry)",
+     "defined_term": "Electrical/electronic sub-assembly (ESA) (2.8)",
+     "class_or_variant": "Configuration other than REESS charging mode coupled to the power grid; supply voltage 12/24 V ESA",
+     "confirmed": true
+    },
+    {
+     "part": "Complete rear lamp assembly with wiring/connector",
+     "defined_term": "ESA type (2.10)",
+     "class_or_variant": "ESA component approval or ESA STU approval",
+     "confirmed": true
+    },
+    {
+     "part": "Stop lamp function (P-02)",
+     "defined_term": "Immunity related functions (2.12) – stop lamps",
+     "class_or_variant": null,
+     "confirmed": true
+    },
+    {
+     "part": "Rear position lamp function (P-01)",
+     "defined_term": "Immunity related functions (2.12) – end-outline/rear position lamps",
+     "class_or_variant": null,
+     "confirmed": true
+    },
+    {
+     "part": "Reversing lamp function (P-03)",
+     "defined_term": "Electrical/electronic sub-assembly (ESA) (2.8) – function not in immunity-related list but part of same ESA",
+     "class_or_variant": null,
+     "confirmed": true
+    },
+    {
+     "part": "LED light source",
+     "defined_term": "ESA that is (part of) a light source (3.2.10 / 4.2.4)",
+     "class_or_variant": "Non-replaceable LED module (non-interchangeability report) or R128-approved LED light source",
+     "confirmed": false
+    },
+    {
+     "part": "Outer lens, retro-reflector, reflector, housing, seal, fasteners",
+     "defined_term": "None – passive non-electrical parts, no R10 obligations",
+     "class_or_variant": null,
+     "confirmed": true
+    }
+   ],
+   "open_options": [
+    {
+     "feature": "LED drive electronics",
+     "options": [
+      "passive drive (resistors/linear only, no oscillator or switching) – emission exceptions of 6.10 may apply",
+      "active electronic driver (switch-mode/PWM, microcontroller) – full broadband/narrowband emission testing"
+     ]
+    },
+    {
+     "feature": "Light source type",
+     "options": [
+      "non-replaceable LED modules (non-interchangeability report needed)",
+      "replaceable LED light source approved under UN R128"
+     ]
+    },
+    {
+     "feature": "Supply voltage",
+     "options": [
+      "12 V",
+      "24 V"
+     ]
+    },
+    {
+     "feature": "Communication interface",
+     "options": [
+      "discrete wired power/signal inputs only",
+      "data bus connection (e.g. CAN/LIN) for lamp control"
+     ]
+    }
+   ],
+   "selected_sections": [
+    {
+     "key": "4.2",
+     "reason": "Granting conditions, including the ESA-as-light-source provision (R128 approval or non-interchangeability) relevant to the LED modules"
+    },
+    {
+     "key": "5",
+     "reason": "Approval mark requirements for the ESA"
+    },
+    {
+     "key": "Annex 1",
+     "reason": "Arrangement of the approval mark the ESA must carry"
+    },
+    {
+     "key": "6",
+     "reason": "Specifications for normal (non-charging) operation apply to the lamp ESA"
+    },
+    {
+     "key": "9",
+     "reason": "Conformity of production for the approved ESA"
+    },
+    {
+     "key": "23",
+     "reason": "Referenced standard/content possibly relevant to transient and environmental testing of 12/24 V ESAs"
+    },
+    {
+     "key": "Annex 7",
+     "reason": "Broadband ESA emission test method"
+    },
+    {
+     "key": "Annex 8",
+     "reason": "Narrowband ESA emission test method"
+    },
+    {
+     "key": "Annex 9",
+     "reason": "ESA radiated immunity test methods"
+    },
+    {
+     "key": "Annex 10",
+     "reason": "Conducted transient immunity and emission tests for 12/24 V ESAs"
+    }
+   ],
+   "include": true,
+   "unresolved_keys": []
+  },
+  "UN R148": {
+   "applies": true,
+   "how_it_applies": "UN R148 type-approves light-signalling lamps regardless of light source technology. This rear combination lamp has three R148 functions in one housing: a rear position lamp (class R1 or R2), a stop lamp (class S1 or S2; not a central high-mounted stop lamp) and a reversing lamp (class AR). Each function needs its own approval symbol, though the lamp may carry a single grouped/combined approval mark. The outer lens, reflector, LED PCB and housing are parts of the lamp. They are assessed through the photometric, colour, visibility, vibration, light-source and failure provisions. The integrated retro-reflector is outside the R148 scope and falls under UN R150. Being grouped with it does not exempt the lamp functions, and the lamp may carry a combined mark with the R150 approval. A rear position lamp approved under R148 is also deemed approved as a rear end-outline marker lamp. EMC compliance is assessed at vehicle level (R10), not under R148.",
+   "part_mapping": [
+    {
+     "part": "P-01 Rear position lamp",
+     "defined_term": "Rear position lamp",
+     "class_or_variant": "R1 (steady) or R2 (variable intensity); possibly D/Y suffix; also deemed end-outline marker lamp RM1/RM2",
+     "confirmed": true
+    },
+    {
+     "part": "P-02 Stop lamp",
+     "defined_term": "Stop lamp",
+     "class_or_variant": "S1 (steady) or S2 (variable intensity)",
+     "confirmed": true
+    },
+    {
+     "part": "P-03 Reversing lamp",
+     "defined_term": "Reversing lamp",
+     "class_or_variant": "AR (standard or reduced light distribution)",
+     "confirmed": true
+    },
+    {
+     "part": "P-04 Outer lens",
+     "defined_term": "Lens of the lamp (part of grouped/combined lamp; colour of light emitted)",
+     "class_or_variant": "red for R and S functions; clear/white window for AR",
+     "confirmed": true
+    },
+    {
+     "part": "P-05 Retro-reflector",
+     "defined_term": "Not covered by R148 (rear retro-reflector under R150); grouped with the lamps for marking purposes",
+     "class_or_variant": null,
+     "confirmed": true
+    },
+    {
+     "part": "P-06 Reflector",
+     "defined_term": "Optical system of the lamp (characteristic of lamp type, para 2.2)",
+     "class_or_variant": null,
+     "confirmed": true
+    },
+    {
+     "part": "P-07 LED modules on PCB",
+     "defined_term": "Light source: non-replaceable light source, or light source module; possibly electronic light source control gear being part of the lamp",
+     "class_or_variant": "non-replaceable LED or replaceable light source module (MD code)",
+     "confirmed": false
+    },
+    {
+     "part": "P-08 Housing",
+     "defined_term": "Lamp body (grouped / combined / reciprocally incorporated lamps)",
+     "class_or_variant": null,
+     "confirmed": true
+    },
+    {
+     "part": "P-09 Seal / gasket",
+     "defined_term": "Part of lamp body; no specific R148 term",
+     "class_or_variant": null,
+     "confirmed": true
+    },
+    {
+     "part": "P-10 Fasteners / clips",
+     "defined_term": "Mounting; relevant to the vibration robustness general requirement",
+     "class_or_variant": null,
+     "confirmed": true
+    }
+   ],
+   "open_options": [
+    {
+     "feature": "Rear position lamp intensity",
+     "options": [
+      "steady (R1)",
+      "variable intensity (R2)"
+     ]
+    },
+    {
+     "feature": "Stop lamp intensity",
+     "options": [
+      "steady (S1)",
+      "variable intensity (S2)"
+     ]
+    },
+    {
+     "feature": "Light source type",
+     "options": [
+      "non-replaceable LED light sources",
+      "replaceable light source module with MD identification code"
+     ]
+    },
+    {
+     "feature": "Electronic light source control gear / variable intensity control",
+     "options": [
+      "none",
+      "inside lamp body",
+      "external but declared part of the lamp (requires marking)"
+     ]
+    },
+    {
+     "feature": "Rear position lamp / stop lamp arrangement",
+     "options": [
+      "grouped (separate LEDs and lenses)",
+      "reciprocally incorporated (shared LEDs and light-emitting surface)"
+     ]
+    },
+    {
+     "feature": "Independent / interdependent lamp arrangement",
+     "options": [
+      "single lamp",
+      "assembly of two independent lamps (D)",
+      "part of interdependent lamp system (Y)"
+     ]
+    },
+    {
+     "feature": "Reversing lamp light distribution",
+     "options": [
+      "standard light distribution",
+      "reduced light distribution (for two-lamp fitment, arrow marking)"
+     ]
+    },
+    {
+     "feature": "Vehicle manufacturer logo in rear position lamp",
+     "options": [
+      "no logo",
+      "logo incorporated (max 100 cm2)"
+     ]
+    },
+    {
+     "feature": "Failure detection",
+     "options": [
+      "internal failure provisions only",
+      "relies on vehicle tell-tale signal"
+     ]
+    },
+    {
+     "feature": "Mounting side marking",
+     "options": [
+      "symmetrical / either side",
+      "side-specific with arrow marking"
+     ]
+    }
+   ],
+   "selected_sections": [
+    {
+     "key": "3.3",
+     "reason": "Approval marking and other markings: approval mark per function, combined mark with retro-reflector, D/Y symbols, arrows, MD code and control gear marking."
+    },
+    {
+     "key": "Annex 7",
+     "reason": "Arrangement of approval markings for grouped, combined or reciprocally incorporated lamps, referenced from para 3.3."
+    },
+    {
+     "key": "4",
+     "reason": "General technical requirements: applicable R48 sections 5/6 and vibration robustness (lamp stays aimed)."
+    },
+    {
+     "key": "5",
+     "reason": "Specific technical requirements: general part applying to all functions."
+    },
+    {
+     "key": "6",
+     "reason": "Conformity of production requirements and tolerances."
+    },
+    {
+     "key": "Annex 2",
+     "reason": "Angles of geometric visibility for the rear position, stop and reversing lamps (e.g. 45° outboard)."
+    },
+    {
+     "key": "Annex 3",
+     "reason": "Standard light distributions for the photometric measurements."
+    },
+    {
+     "key": "Annex 4",
+     "reason": "Minimum COP control procedures (manufacturer)."
+    },
+    {
+     "key": "Annex 5",
+     "reason": "Inspector sampling and COP pass criteria."
+    },
+    {
+     "key": "Annex 8",
+     "reason": "Testing procedures with respect to light sources (luminous intensity compliance), referenced from para 4.8.3.6."
+    }
+   ],
+   "include": true,
+   "unresolved_keys": []
+  },
+  "UN R150": {
+   "applies": true,
+   "how_it_applies": "UN R150 applies only to the retro-reflector part of this rear lamp (P-05). It is a red rear retro-reflector built into a combined rear lamp of an M1 vehicle, and R48 requires one at the rear. The retro-reflector needs its own R150 approval as a Class IA or IB retro-reflector for motor vehicles. Under 'Classes and variants' the card defines Class IA as an independent retro-reflector and Class IB as a retro-reflector combined with signal lamps that are not watertight. The class therefore depends on whether the lamp housing counts as watertight. Its approval mark can be grouped with the lamp's other marks. The rear position, stop and reversing lamps, the LED modules and the electronics are outside R150; they fall under R148, R10 and R48. The retro-reflector must meet:\n- the shape and dimension rules for Class IA/IB;\n- the photometric limits (coefficient of luminous intensity, CIL) and the colorimetric limits for red;\n- the resistance tests: heat, water penetration (or the moisture and dust alternative for IB), corrosion, rear face if mirror-backed, fuels and lubricating oils;\n- the marking and conformity-of-production provisions.",
+   "part_mapping": [
+    {
+     "part": "P-05 Retro-reflector (PMMA moulded prism insert)",
+     "defined_term": "retro-reflecting optical unit / retro-reflective device (retro-reflector)",
+     "class_or_variant": "Class IA or Class IB, red",
+     "confirmed": true
+    },
+    {
+     "part": "P-04 Outer lens (red PMMA covering the retro-reflector)",
+     "defined_term": "filter combined with retro-reflecting optical unit (part of the retro-reflector optics if it covers the prism area)",
+     "class_or_variant": "red",
+     "confirmed": false
+    },
+    {
+     "part": "P-09 Seal / gasket",
+     "defined_term": "construction feature deciding watertightness (Class IA vs IB; water penetration or moisture/dust tests)",
+     "class_or_variant": "IA if watertight, IB if not",
+     "confirmed": false
+    },
+    {
+     "part": "P-01/P-02/P-03 Rear position, stop and reversing lamps",
+     "defined_term": "other signal lamps combined with the retro-reflector (not approved under R150)",
+     "class_or_variant": null,
+     "confirmed": true
+    }
+   ],
+   "open_options": [
+    {
+     "feature": "Watertightness of the lamp housing containing the retro-reflector",
+     "options": [
+      "watertight (Class IA)",
+      "not watertight (Class IB, water penetration or moisture/dust alternative tests)"
+     ]
+    },
+    {
+     "feature": "Rear face of the retro-reflector",
+     "options": [
+      "mirror-backed (metallised) prisms with accessible rear face",
+      "non-metallised total-internal-reflection prisms / rear face not accessible"
+     ]
+    },
+    {
+     "feature": "Retro-reflector optical unit vs filter",
+     "options": [
+      "red coloured optical unit itself",
+      "colourless optical unit behind red outer lens acting as filter"
+     ]
+    },
+    {
+     "feature": "Essential metal components susceptible to corrosion in the retro-reflector",
+     "options": [
+      "present",
+      "absent"
+     ]
+    }
+   ],
+   "selected_sections": [
+    {
+     "key": "3.3",
+     "reason": "Approval mark, class symbol IA/IB, TOP marking and grouped-mark rules the device must carry"
+    },
+    {
+     "key": "Annex 10",
+     "reason": "Arrangement of the approval marks for retro-reflectors grouped with lamps"
+    },
+    {
+     "key": "4",
+     "reason": "General requirements and construction of retro-reflective devices"
+    },
+    {
+     "key": "5",
+     "reason": "Specific technical requirements, including 5.1 for Class IA/IB retro-reflectors (shape, CIL, colour, resistance)"
+    },
+    {
+     "key": "Annex 2",
+     "reason": "Conformity of production control"
+    },
+    {
+     "key": "Annex 3",
+     "reason": "Conformity-of-production sampling and pass criteria, including water penetration"
+    },
+    {
+     "key": "Annex 4 Part 1",
+     "reason": "Photometric measurement of CIL"
+    },
+    {
+     "key": "Annex 4 Part 3",
+     "reason": "Stability of optical properties in use"
+    },
+    {
+     "key": "Annex 5",
+     "reason": "Shape and dimensions"
+    },
+    {
+     "key": "Annex 6 Part 1",
+     "reason": "Resistance to heat"
+    },
+    {
+     "key": "Annex 6 Part 2",
+     "reason": "Resistance to water penetration"
+    },
+    {
+     "key": "Annex 6 Part 3",
+     "reason": "Alternative moisture/dust tests (Class IB option)"
+    },
+    {
+     "key": "Annex 6 Part 4",
+     "reason": "Resistance to corrosion"
+    },
+    {
+     "key": "Annex 6 Part 5",
+     "reason": "Rear face resistance if mirror-backed (open option)"
+    },
+    {
+     "key": "Annex 6 Part 6",
+     "reason": "Weathering resistance (referenced from 5.1.3.1; included out of caution)"
+    },
+    {
+     "key": "Annex 7 Part 1",
+     "reason": "Resistance to fuels"
+    },
+    {
+     "key": "Annex 7 Part 2",
+     "reason": "Resistance to lubricating oils"
+    }
+   ],
+   "include": true,
+   "unresolved_keys": []
+  },
+  "UN R19": {
+   "applies": false,
+   "how_it_applies": "UN R19 applies only to front fog lamps (Class B or F3) and to grouped, combined or reciprocally incorporated lamps that include a front fog lamp. The product is a rear lamp for M1 vehicles. It combines a rear position lamp, a stop lamp, a reversing lamp and a rear retro-reflector behind a red outer lens. These functions fall under other regulations (R148, R150, R48), not R19. The product has no front fog lamp function, so R19 sets no obligations on it. Its plastic lens and LED provisions apply only within a front fog lamp approval.",
+   "part_mapping": [
+    {
+     "part": "Rear position lamp (P-01)",
+     "defined_term": "None in R19 (not a front fog lamp; rear position lamp is covered by UN R148)",
+     "class_or_variant": null,
+     "confirmed": true
+    },
+    {
+     "part": "Stop lamp (P-02)",
+     "defined_term": "None in R19 (stop lamp is covered by UN R148)",
+     "class_or_variant": null,
+     "confirmed": true
+    },
+    {
+     "part": "Reversing lamp (P-03)",
+     "defined_term": "None in R19 (reversing lamp is covered by UN R148)",
+     "class_or_variant": null,
+     "confirmed": true
+    },
+    {
+     "part": "Outer lens (P-04)",
+     "defined_term": "Lens (1.2) — defined only as the outermost component of a front fog lamp; not applicable to a red rear lamp lens",
+     "class_or_variant": null,
+     "confirmed": true
+    },
+    {
+     "part": "Retro-reflector (P-05)",
+     "defined_term": "None in R19 (retro-reflecting devices are covered by UN R150)",
+     "class_or_variant": null,
+     "confirmed": true
+    },
+    {
+     "part": "LED modules on PCB (P-07)",
+     "defined_term": "LED module (2.4.2 / 3.5) — relevant only for Class F3 front fog lamps; not applicable here",
+     "class_or_variant": null,
+     "confirmed": true
+    }
+   ],
+   "open_options": [],
+   "selected_sections": [],
+   "include": false,
+   "unresolved_keys": []
+  },
+  "UN R26": {
+   "applies": true,
+   "how_it_applies": "UN R26 approves M1 vehicle types, not lamps, so the rear lamp carries no R26 approval or marking of its own. However, para 2.3 lists 'lighting and light-signalling devices' as part of the vehicle's external surface. Once installed on an M1 car, the lamp's exposed outer lens, any visible housing or bezel edges, and any exposed seal must meet the general external-projection requirements of para 5. These include no pointed or sharp parts, minimum radii of curvature, and the Shore A hardness provisions. Projection dimensions are measured with the Annex 3 methods, and the requirements carry into conformity of production. The headlight visor/rim provisions (6.2) do not apply because this is a rear lamp, not a headlamp. The other particular items (ornaments, grilles, bumpers, plate brackets, racks, aerials) are not functions of this product. The lamp's photometric, colour and retro-reflection performance is outside R26.",
+   "part_mapping": [
+    {
+     "part": "P-04 Outer lens (red PMMA, front-most exposed surface)",
+     "defined_term": "External surface (2.3) – lighting and light-signalling devices",
+     "class_or_variant": "Vehicle type approval (M1 external projections) – component of external surface",
+     "confirmed": true
+    },
+    {
+     "part": "P-08 Housing (visible rim/bezel portions, if any, once installed)",
+     "defined_term": "External surface (2.3)",
+     "class_or_variant": "Vehicle type approval (M1 external projections)",
+     "confirmed": false
+    },
+    {
+     "part": "P-09 Seal / gasket (only if exposed at the lens-housing joint)",
+     "defined_term": "External surface (2.3) – material hardness < 60 Shore A provision",
+     "class_or_variant": null,
+     "confirmed": false
+    },
+    {
+     "part": "P-05 Retro-reflector (behind outer lens per exploded view; part of the lamp's external surface only if exposed)",
+     "defined_term": "External surface (2.3) – lighting and light-signalling devices",
+     "class_or_variant": null,
+     "confirmed": false
+    },
+    {
+     "part": "P-01 Rear position lamp function",
+     "defined_term": "Extreme outer edge (2.7) – position lamps disregarded when determining the side planes",
+     "class_or_variant": null,
+     "confirmed": true
+    },
+    {
+     "part": "Whole lamp as mounted on a body panel",
+     "defined_term": "The dimension of the projection (2.8) / The nominal line of a panel (2.9)",
+     "class_or_variant": null,
+     "confirmed": false
+    }
+   ],
+   "open_options": [
+    {
+     "feature": "Lamp outer surface relative to surrounding body panel",
+     "options": [
+      "flush with the panel",
+      "protruding beyond the panel nominal line"
+     ]
+    },
+    {
+     "feature": "Radii of exposed lens and housing edges",
+     "options": [
+      "all exposed edges with radius >= 2.5 mm",
+      "some exposed edges with radius < 2.5 mm (needing a hardness or projection-based exemption)"
+     ]
+    },
+    {
+     "feature": "Exposure of seal/gasket on the external surface",
+     "options": [
+      "seal concealed behind lens/housing",
+      "seal visible at the external surface (TPE/silicone, possibly < 60 Shore A)"
+     ]
+    },
+    {
+     "feature": "Housing visibility after installation",
+     "options": [
+      "housing fully concealed by body, only lens exposed",
+      "housing rim/bezel forms part of the external surface"
+     ]
+    }
+   ],
+   "selected_sections": [
+    {
+     "key": "5",
+     "reason": "General specifications on projections, sharp parts and radii of curvature apply to all external-surface parts, including lighting and light-signalling devices such as this lamp's lens and visible housing."
+    },
+    {
+     "key": "6",
+     "reason": "Introductory provisions of the particular specifications state how they combine with the general requirements; included as a precaution."
+    },
+    {
+     "key": "8",
+     "reason": "Conformity of production: series-production lamps must keep the external-surface geometry and material characteristics that were approved."
+    },
+    {
+     "key": "Annex 3",
+     "reason": "Measurement methods for projections, referenced from 2.8, 2.9 and 4.1.4, used when verifying the lamp's projection from the panel."
+    }
+   ],
+   "include": true,
+   "unresolved_keys": []
+  },
+  "UN R48": {
+   "applies": true,
+   "how_it_applies": "UN R48 approves the vehicle installation, not the lamp, so it applies indirectly. This rear combination lamp for M1 vehicles combines a rear position lamp, stop lamp, reversing lamp and non-triangular rear retro-reflector in one lamp body. Each function must be installable in compliance with R48. The lamp's photometric axis and apparent surfaces must allow the vehicle to meet the position, geometric-visibility and orientation requirements of paras 6.4, 6.7, 6.10 and 6.14. The colours must meet the R48 rules: red for position, stop and retro-reflector, white for reversing. The grouped or reciprocally incorporated combination must meet para 5.7. Electrical connections and any variable intensity control must suit para 5 and the individual function sections. Production lamps are checked under the visibility and intensity CoP (para 8 and Annex 9). The device itself still needs component approval under R148 (LSD) and R150 (RRD).",
+   "part_mapping": [
+    {
+     "part": "P-01 Rear position lamp",
+     "defined_term": "2.5.7 Rear position lamp",
+     "class_or_variant": "red rear light-signalling function, para 6.10",
+     "confirmed": true
+    },
+    {
+     "part": "P-02 Stop lamp",
+     "defined_term": "2.5.4 Stop lamp",
+     "class_or_variant": "red stop lamp (S1/S2 type), para 6.7; steady or variable intensity not stated",
+     "confirmed": true
+    },
+    {
+     "part": "P-03 Reversing lamp",
+     "defined_term": "2.5.12 Reversing lamp",
+     "class_or_variant": "white lamp to the rear, para 6.4 (separate window/compartment in drawing)",
+     "confirmed": true
+    },
+    {
+     "part": "P-04 Outer lens",
+     "defined_term": "2.8.1 Lens",
+     "class_or_variant": "red colour per 2.11, with clear window for reversing lamp",
+     "confirmed": true
+    },
+    {
+     "part": "P-05 Retro-reflector",
+     "defined_term": "2.5.8 Retro-reflector / 2.4.16.2 Retro-reflective device",
+     "class_or_variant": "Rear retro-reflector, non-triangular (para 6.14); Class IA or IB not settled",
+     "confirmed": false
+    },
+    {
+     "part": "P-06 Reflector",
+     "defined_term": "2.1.4 Device (optical part of the lamps)",
+     "class_or_variant": "defines light-emitting/apparent surfaces (2.10, Annex 3)",
+     "confirmed": true
+    },
+    {
+     "part": "P-07 LED modules on PCB",
+     "defined_term": "2.9.1.7 LED module / 2.9.1.6 LED light source",
+     "class_or_variant": "non-replaceable LED light sources; possible electronic light source control gear (2.9.2)",
+     "confirmed": true
+    },
+    {
+     "part": "P-08 Housing",
+     "defined_term": "2.4.3 Grouped lamps / 2.4.5 Reciprocally incorporated lamps (common lamp body)",
+     "class_or_variant": "common lamp body for all functions",
+     "confirmed": true
+    },
+    {
+     "part": "P-09 Seal / gasket",
+     "defined_term": "2.4.16.2 Retro-reflective device (watertightness distinguishes Class IA from IB)",
+     "class_or_variant": "watertight lamp, so retro-reflector likely IA",
+     "confirmed": false
+    },
+    {
+     "part": "P-10 Fasteners / clips",
+     "defined_term": "2.1.4 Device (installation/orientation of lamp)",
+     "class_or_variant": "maintains orientation required by paras 6.x.5",
+     "confirmed": true
+    }
+   ],
+   "open_options": [
+    {
+     "feature": "Relationship between rear position lamp and stop lamp",
+     "options": [
+      "grouped lamps (separate light sources and apparent surfaces)",
+      "reciprocally incorporated lamps (shared apparent surface, separate LEDs or same LEDs at different intensity)"
+     ]
+    },
+    {
+     "feature": "Retro-reflector class",
+     "options": [
+      "Class IA (watertight lamp)",
+      "Class IB (combined with non-watertight signal lamp integrated in body)"
+     ]
+    },
+    {
+     "feature": "Luminous intensity control of stop / rear position lamps",
+     "options": [
+      "steady intensity",
+      "variable intensity (with variable intensity control in lamp or vehicle)"
+     ]
+    },
+    {
+     "feature": "Lamp assembly type",
+     "options": [
+      "single lamp with one apparent surface per function",
+      "part of a lamp marked 'D' assembly",
+      "part of an interdependent lamp system marked 'Y'"
+     ]
+    },
+    {
+     "feature": "Manufacturer logo in lamp",
+     "options": [
+      "no logo",
+      "logo integrated in lens or light-emitting surface"
+     ]
+    },
+    {
+     "feature": "Electronic light source control gear",
+     "options": [
+      "integrated on PCB",
+      "external to the lamp"
+     ]
+    }
+   ],
+   "selected_sections": [
+    {
+     "key": "5",
+     "reason": "General installation specifications: colours, electrical connections, logos, light sources, orientation, tell-tales and red/white visibility rules that apply to every lamp function in the product"
+    },
+    {
+     "key": "6.4",
+     "reason": "Reversing lamp: number, position, geometric visibility, orientation and electrical connection"
+    },
+    {
+     "key": "6.7",
+     "reason": "Stop lamp: position, visibility, orientation, electrical connections and variable intensity"
+    },
+    {
+     "key": "6.10",
+     "reason": "Rear position lamp: position, visibility, orientation and electrical connections"
+    },
+    {
+     "key": "6.14",
+     "reason": "Rear non-triangular retro-reflector integrated in the lamp: position, visibility and orientation"
+    },
+    {
+     "key": "6.23",
+     "reason": "The emergency stop signal may be produced by flashing the stop lamps of this product"
+    },
+    {
+     "key": "8",
+     "reason": "Conformity of production for installed lamps"
+    },
+    {
+     "key": "Annex 9",
+     "reason": "CoP checks on visibility of lamps and light intensities, which concern this lamp"
+    },
+    {
+     "key": "Annex 3",
+     "reason": "Determination of lamp surfaces, axes, centre of reference and geometric visibility angles for the product's functions"
+    },
+    {
+     "key": "Annex 4",
+     "reason": "Visibility of white light to the rear, relevant to the reversing lamp and the red/white separation in the lamp"
+    }
+   ],
+   "include": true,
+   "unresolved_keys": []
+  },
+  "UN R53": {
+   "applies": false,
+   "how_it_applies": "UN R53 is a vehicle installation regulation limited to category L3 (two-wheeled motorcycles). It sets the number, position, visibility, colour and switching of lamps fitted to an L3 vehicle. The product is a rear combination lamp specified for M1 passenger cars. Its installation is therefore governed by UN R48, and the device itself by the device regulations (R148 for the rear position, stop and reversing lamps, R150 for the retro-reflector). The inputs give no indication that the lamp is intended for an L3 motorcycle. R53 therefore places no obligations on this product. The functions present (rear position lamp, stop lamp, retro-reflector, grouped/combined layout) correspond to terms R53 defines, but only in an L3 vehicle context. The reversing lamp has no counterpart section in R53 at all. If the same lamp were ever offered for fitment to an L3 motorcycle, §5, §5.6, §5.20, §6.4, §6.7, §6.8, §8 and Annexes 3 and 4 would become relevant to that vehicle's installation approval.",
+   "part_mapping": [
+    {
+     "part": "P-01 Rear position lamp",
+     "defined_term": "2.3.8 Rear position lamp",
+     "class_or_variant": null,
+     "confirmed": false
+    },
+    {
+     "part": "P-02 Stop lamp",
+     "defined_term": "Stop lamp (§6.4)",
+     "class_or_variant": null,
+     "confirmed": false
+    },
+    {
+     "part": "P-03 Reversing lamp",
+     "defined_term": "2.3 Lamp (no reversing-lamp provision in R53)",
+     "class_or_variant": null,
+     "confirmed": false
+    },
+    {
+     "part": "P-05 Retro-reflector",
+     "defined_term": "2.3.9 Retro-reflector",
+     "class_or_variant": "Rear retro-reflector, non-triangular",
+     "confirmed": false
+    },
+    {
+     "part": "Rear lamp assembly (common housing, separate functions)",
+     "defined_term": "2.3.3 Grouped lamps / 2.3.5 Reciprocally incorporated",
+     "class_or_variant": "Grouped or reciprocally incorporated",
+     "confirmed": false
+    },
+    {
+     "part": "P-04 Outer lens",
+     "defined_term": "2.4 Light-emitting surface",
+     "class_or_variant": null,
+     "confirmed": false
+    }
+   ],
+   "open_options": [],
+   "selected_sections": [],
+   "include": false,
+   "unresolved_keys": []
+  }
+ }
+}

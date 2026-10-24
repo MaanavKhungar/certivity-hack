@@ -1,0 +1,15 @@
+stage A: 7 candidates: UN R148 0.97, UN R150 0.90, UN R48 0.90, UN R10 0.70, UN R26 0.30, UN R53 0.03*, UN R19 0.02*
+stage B: UN R10    p=0.70 via=screening applies=True  -> INCLUDE 40 sections
+stage B: UN R148   p=0.97 via=screening applies=True  -> INCLUDE 26 sections
+stage B: UN R150   p=0.90 via=screening applies=True  -> INCLUDE 54 sections
+stage B: UN R19    p=0.02 via=bm25      applies=False -> drop    0 sections
+stage B: UN R26    p=0.30 via=screening applies=True  -> INCLUDE 5 sections
+stage B: UN R48    p=0.90 via=screening applies=True  -> INCLUDE 16 sections
+stage B: UN R53    p=0.03 via=bm25      applies=False -> drop    0 sections
+table fix: 39 table nodes checked, 30 repaired, 1 rejected (table count), 1 table repairs refused by the number guard
+stage C: 54 section calls
+stage C: 367 requirements
+stage C2: second reader added 25
+post: 392 candidates after dedupe (0 dropped)
+stage D: kept 360 of 392 (32 dropped or merged)
+final: 360 requirements, validation: OK

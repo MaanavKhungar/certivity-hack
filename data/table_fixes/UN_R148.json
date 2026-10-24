@@ -1,0 +1,228 @@
+[
+ {
+  "regulation": "UN R148",
+  "paragraph": "5.1.1",
+  "pages": [
+   16,
+   16
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Rebuilt two-level header: split parent headers 'Maximum luminous intensity...' and 'Angles of geometric visibility...' restored and prefixed to sub-columns; joined 'end-outline' and 'Table A2-1'.",
+    "before": "|Front position lamps, front end- outline marker lamp of categories|Minimum luminous intensity in cd (Par. 4.8.3.1. (a))|Maximum intensity i (Par. 4.8.3 A single lamp|luminous n cd when used as .1. (b)) A lamp marked \"D\" (Par. 3.3.2.5.2.)|Standard light distribution (Par. 4.8.3.1. (c))|Angles of g visibility (P Definition|eometric ar. 4.8.3.1. (d)) Minimum luminous intensity in cd|\n|---|---|---|---|---|---|---|\n|A, MA or AM|4∙10^0|1.40∙10^2|7.0∙10^1|Figure A3-I|Table A2- 1|5∙10^-2|",
+    "after": "|Front position lamps, front end-outline marker lamp of categories|Minimum luminous intensity in cd (Par. 4.8.3.1. (a))|Maximum luminous intensity in cd when used as (Par. 4.8.3.1. (b)) / A single lamp|Maximum luminous intensity in cd when used as (Par. 4.8.3.1. (b)) / A lamp marked \"D\" (Par. 3.3.2.5.2.)|Standard light distribution (Par. 4.8.3.1. (c))|Angles of geometric visibility (Par. 4.8.3.1. (d)) / Definition|Angles of geometric visibility (Par. 4.8.3.1. (d)) / Minimum luminous intensity in cd|\n|---|---|---|---|---|---|---|\n|A, MA or AM|4∙10^0|1.40∙10^2|7.0∙10^1|Figure A3-I|Table A2-1|5∙10^-2|"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R148",
+  "paragraph": "5.2.1",
+  "pages": [
+   17,
+   17
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Rebuilt split two-level headers (Maximum luminous intensity, Angles of geometric visibility) with full paths; joined hyphen-broken words.",
+    "before": "|Rear position lamps, rear end- outline marker lamps of categories|Minimum luminous intensity in cd (Par. 4.8.3.1. (a))|Maximum intensity i (Par. 4.8. A single lamp|luminous n cd when used as 3.1. (b)) A lamp marked \"D\" (Par. 3.3.2.5.2.)|Standard light distribution (Par. 4.8.3.1. (c))|Angles of g visibility (P Definition|eometric ar. 4.8.3.1. (d)) Minimum luminous intensity in cd|\n|---|---|---|---|---|---|---|\n|R1, MR or RM1 (steady)|4∙10^0|1.7∙10^1|8.5∙10^0|Figure A3-I|Table A2- 1|5∙10^-2|\n|R2 or RM2 (variable)|4∙10^0|4.2∙10^1|2.1∙10^1|Figure A3-I|Table A2- 1|5∙10^-2|",
+    "after": "|Rear position lamps, rear end-outline marker lamps of categories|Minimum luminous intensity in cd (Par. 4.8.3.1. (a))|Maximum luminous intensity in cd when used as (Par. 4.8.3.1. (b)) / A single lamp|Maximum luminous intensity in cd when used as (Par. 4.8.3.1. (b)) / A lamp marked \"D\" (Par. 3.3.2.5.2.)|Standard light distribution (Par. 4.8.3.1. (c))|Angles of geometric visibility (Par. 4.8.3.1. (d)) / Definition|Angles of geometric visibility (Par. 4.8.3.1. (d)) / Minimum luminous intensity in cd|\n|---|---|---|---|---|---|---|\n|R1, MR or RM1 (steady)|4∙10^0|1.7∙10^1|8.5∙10^0|Figure A3-I|Table A2-1|5∙10^-2|\n|R2 or RM2 (variable)|4∙10^0|4.2∙10^1|2.1∙10^1|Figure A3-I|Table A2-1|5∙10^-2|"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R148",
+  "paragraph": "5.3.1",
+  "pages": [
+   18,
+   18
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Rebuilt the split header for the 'Angles of geometric visibility (Par. 4.8.3.1. (d))' group, which spans two sub-columns: Definition and Minimum luminous intensity in cd. Joined the line-wrapped value 'Table A2-1'.",
+    "before": "|Parking lamps|Minimum luminous intensity in cd (Par. 4.8.3.1. (a))|Maximum luminous intensity in cd (Par. 4.8.3.1. (b))|Standard light distribution (Par. 4.8.3.1. (c))|Angles of g (Par. 4.8.3.1 Definition|eometric visibility . (d)) Minimum luminous intensity in cd|\n|---|---|---|---|---|---|\n|forward facing|2∙10^0|6.0∙10^1|Figure A3-I|Table A2- 1|5∙10^-2|\n|rearward facing|2∙10^0|3.0∙10^1|Figure A3-I|Table A2- 1|5∙10^-2|",
+    "after": "|Parking lamps|Minimum luminous intensity in cd (Par. 4.8.3.1. (a))|Maximum luminous intensity in cd (Par. 4.8.3.1. (b))|Standard light distribution (Par. 4.8.3.1. (c))|Angles of geometric visibility (Par. 4.8.3.1. (d)) / Definition|Angles of geometric visibility (Par. 4.8.3.1. (d)) / Minimum luminous intensity in cd|\n|---|---|---|---|---|---|\n|forward facing|2∙10^0|6.0∙10^1|Figure A3-I|Table A2-1|5∙10^-2|\n|rearward facing|2∙10^0|3.0∙10^1|Figure A3-I|Table A2-1|5∙10^-2|"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R148",
+  "paragraph": "5.4.1",
+  "pages": [
+   18,
+   19
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": false,
+    "note": "Rebuilt the header, which was split over several rows and broken mid-word, into one row with full parent/child paths. Joined the page-break continuation (\"3.3.2.5.2.)\", \"intensity in cd\") to its header. Rejoined \"Table A2- 1\" as \"Table A2-1\".",
+    "before": "|Daytime|Minimum luminous|Maximum|luminous intensity|Standard light|Angles of||\n|---|---|---|---|---|---|---|\n|running|intensity in cd (Par.|in cd whe|n used as|distribution|geometric v|isibility|\n|lamp|4.8.3.1. (a))|(Par. 4.8.3|.1. (b))|(Par. 4.8.3.1. (c))|(Par. 4.8.3.|1. (d))|\n|||A single lamp|A lamp marked \"D\" (Par.||Definition|Minimum luminous|\n||||3.3.2.5.2.)|||intensity in cd|\n|---|---|---|---|---|---|---|\n|RL|4.00∙10^2|1.20∙10^3|6.00∙10²|Figure A3-II|Table A2- 1|1.0∙10^0|",
+    "after": "|Daytime running lamp|Minimum luminous intensity in cd (Par. 4.8.3.1. (a))|Maximum luminous intensity in cd when used as (Par. 4.8.3.1. (b)) / A single lamp|Maximum luminous intensity in cd when used as (Par. 4.8.3.1. (b)) / A lamp marked \"D\" (Par. 3.3.2.5.2.)|Standard light distribution (Par. 4.8.3.1. (c))|Angles of geometric visibility (Par. 4.8.3.1. (d)) / Definition|Angles of geometric visibility (Par. 4.8.3.1. (d)) / Minimum luminous intensity in cd|\n|---|---|---|---|---|---|---|\n|RL|4.00∙10^2|1.20∙10^3|6.00∙10²|Figure A3-II|Table A2-1|1.0∙10^0|"
+   }
+  ],
+  "status": "unchanged"
+ },
+ {
+  "regulation": "UN R148",
+  "paragraph": "5.5.1",
+  "pages": [
+   19,
+   20
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "The two-level header has been rebuilt from fragments that were split mid-word: \"Maximum luminous intensity in cd when used as (Par. 4.8.3.1. (b))\" and \"Angles of geometric visibility (Par. 4.8.3.1. (d))\" are now the parents of their sub-columns. A spurious separator row left by the page break has been removed. \"Table A2- 1\" has been joined as \"Table A2-1\". The day/night values stay together in their cells.",
+    "before": "|Stop lamp of category|Minimum luminous intensity in cd (Par. 4.8.3.1. (a))|Maximum in cd when 4.8.3.1. (b)|luminous intensity used as (Par. )|Standard light distribution (Par. 4.8.3.1. (c))|Angles of g visibility (P|eometric ar. 4.8.3.1. (d))|\n|---|---|---|---|---|---|---|\n|||A single lamp|A lamp marked \"D\" (Par. 3.3.2.5.2.)||Definition|Minimum luminous intensity in cd|\n|S1 (steady)|6.0∙10^1|2.60∙10^2|1.30∙10^2|Figure A3-I|Table A2- 1|3∙10^-1|\n|S2 (variable)|6.0∙10^1|7.30∙10^2|3.65∙10^2|Figure A3-I|Table A2- 1|3∙10^-1(day) 7∙10^-2(night)|\n|S3 (steady)|2.5∙10^1|1.10∙10^2|5.5∙10^1|Figure A3-III|Table A2- 1|3∙10^-1|\n|S4 (variable)|2.5∙10^1|1.60∙10^2|8.0∙10^1|Figure A3-III|Table A2- 1|3∙10^-1(day) 7∙10^-2(night)|\n|---|---|---|---|---|---|---|\n|MS (steady)|4.0∙10^1|2.60∙10^2|1.30∙10^2|Figure A3-I|Table A2- 1|3∙10^-1|",
+    "after": "|Stop lamp of category|Minimum luminous intensity in cd (Par. 4.8.3.1. (a))|Maximum luminous intensity in cd when used as (Par. 4.8.3.1. (b)) / A single lamp|Maximum luminous intensity in cd when used as (Par. 4.8.3.1. (b)) / A lamp marked \"D\" (Par. 3.3.2.5.2.)|Standard light distribution (Par. 4.8.3.1. (c))|Angles of geometric visibility (Par. 4.8.3.1. (d)) / Definition|Angles of geometric visibility (Par. 4.8.3.1. (d)) / Minimum luminous intensity in cd|\n|---|---|---|---|---|---|---|\n|S1 (steady)|6.0∙10^1|2.60∙10^2|1.30∙10^2|Figure A3-I|Table A2-1|3∙10^-1|\n|S2 (variable)|6.0∙10^1|7.30∙10^2|3.65∙10^2|Figure A3-I|Table A2-1|3∙10^-1 (day) 7∙10^-2 (night)|\n|S3 (steady)|2.5∙10^1|1.10∙10^2|5.5∙10^1|Figure A3-III|Table A2-1|3∙10^-1|\n|S4 (variable)|2.5∙10^1|1.60∙10^2|8.0∙10^1|Figure A3-III|Table A2-1|3∙10^-1 (day) 7∙10^-2 (night)|\n|MS (steady)|4.0∙10^1|2.60∙10^2|1.30∙10^2|Figure A3-I|Table A2-1|3∙10^-1|"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R148",
+  "paragraph": "5.6.1",
+  "pages": [
+   20,
+   21
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Merged the two header rows into one, with full parent/child paths for the spanned headers 'Maximum luminous intensity…' and 'Angles of geometric visibility…'. Repaired header text split mid-word ('Maximum l'/'uminous', 'geometric v'/'isibility'). Restored '(a))', which had been pushed into the second header row, to the 'Minimum luminous intensity' header. Removed the stray separator row at the page break. Rejoined 'Table A2- 1' / 'Table A2- 2', which were broken at a line wrap, as 'Table A2-1' / 'Table A2-2'. Added spacing before '(day)' and '(night)' as shown on the page.",
+    "before": "|Direction indicator of categories|Minimum luminous intensity in cd (Par. 4.8.3.1.|Maximum l when used|uminous intensity in cd as (Par. 4.8.3.1. (b))|Standard light distribution (Par. 4.8.3.1. (c))|Angles of geometric v (Par. 4.8.3.|isibility 1. (d))|\n|---|---|---|---|---|---|---|\n||(a))|A single lamp|A lamp marked \"D\" (Par. 3.3.2.5.2.)||Definition|Minimum luminous intensity in cd|\n|1|1.75∙10^2|1.20∙10^3|6.00∙10^2|Figure A3-I|Table A2- 1|3∙10^-1|\n|1a|2.50∙10^2|1.20∙10^3|6.00∙10^2|Figure A3-I|Table A2- 1|3∙10^-1|\n|1b|4.00∙10^2|1.20∙10^3|6.00∙10^2|Figure A3-I|Table A2- 1|7∙10^-1|\n|---|---|---|---|---|---|---|\n|2a (steady)|5.0∙10^1|5.00∙10^2|2.50∙10^2|Figure A3-I|Table A2- 1|3∙10^-1|\n|2b (variable)|5.0∙10^1|1.00∙10^3|5.00∙10^2|Figure A3-I|Table A2- 1|3∙10^-1(day) 7∙10^-2(night)|\n|5|6∙10^-1|2.80∙10^2|1.40∙10^2|Table A2-2|Table A2- 2|6∙10^-1|\n|6|5.0∙10^1|2.80∙10^2|1.40∙10^2|Figure A3-IV|N.A.|N.A.|\n|11|9.0∙10^1|1.20∙10^3|6.00∙10^2|Figure A3-I|Table A2- 1|3∙10^-1|\n|11a|1.75∙10^2|1.20∙10^3|6.00∙10^2|Figure A3-I|Table A2- 1|3∙10^-1|\n|11b|2.50∙10^2|1.20∙10^3|6.00∙10^2|Figure A3-I|Table A2- 1|3∙10^-1|\n|11c|4.00∙10^2|1.20∙10^3|6.00∙10^2|Figure A3-I|Table A2- 1|3∙10^-1|\n|12|5.0∙10^1|5.00∙10^2|2.50∙10^2|Figure A3-I|Table A2- 1|3∙10^-1|",
+    "after": "|Direction indicator of categories|Minimum luminous intensity in cd (Par. 4.8.3.1. (a))|Maximum luminous intensity in cd when used as (Par. 4.8.3.1. (b)) / A single lamp|Maximum luminous intensity in cd when used as (Par. 4.8.3.1. (b)) / A lamp marked \"D\" (Par. 3.3.2.5.2.)|Standard light distribution (Par. 4.8.3.1. (c))|Angles of geometric visibility (Par. 4.8.3.1. (d)) / Definition|Angles of geometric visibility (Par. 4.8.3.1. (d)) / Minimum luminous intensity in cd|\n|---|---|---|---|---|---|---|\n|1|1.75∙10^2|1.20∙10^3|6.00∙10^2|Figure A3-I|Table A2-1|3∙10^-1|\n|1a|2.50∙10^2|1.20∙10^3|6.00∙10^2|Figure A3-I|Table A2-1|3∙10^-1|\n|1b|4.00∙10^2|1.20∙10^3|6.00∙10^2|Figure A3-I|Table A2-1|7∙10^-1|\n|2a (steady)|5.0∙10^1|5.00∙10^2|2.50∙10^2|Figure A3-I|Table A2-1|3∙10^-1|\n|2b (variable)|5.0∙10^1|1.00∙10^3|5.00∙10^2|Figure A3-I|Table A2-1|3∙10^-1 (day) 7∙10^-2 (night)|\n|5|6∙10^-1|2.80∙10^2|1.40∙10^2|Table A2-2|Table A2-2|6∙10^-1|\n|6|5.0∙10^1|2.80∙10^2|1.40∙10^2|Figure A3-IV|N.A.|N.A.|\n|11|9.0∙10^1|1.20∙10^3|6.00∙10^2|Figure A3-I|Table A2-1|3∙10^-1|\n|11a|1.75∙10^2|1.20∙10^3|6.00∙10^2|Figure A3-I|Table A2-1|3∙10^-1|\n|11b|2.50∙10^2|1.20∙10^3|6.00∙10^2|Figure A3-I|Table A2-1|3∙10^-1|\n|11c|4.00∙10^2|1.20∙10^3|6.00∙10^2|Figure A3-I|Table A2-1|3∙10^-1|\n|12|5.0∙10^1|5.00∙10^2|2.50∙10^2|Figure A3-I|Table A2-1|3∙10^-1|"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R148",
+  "paragraph": "5.7.1",
+  "pages": [
+   22,
+   22
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Rebuilt the split two-level header 'Angles of geometric visibility (Par. 4.8.3.1. (d))' over its two sub-columns; joined line-wrapped 'Table A2-3'.",
+    "before": "|Side marker lamp of categories|Minimum luminous intensity in cd in the axis of reference (Par. 4.8.3.1. (a))|Minimum luminous intensity in cd within the standard light distribution (Par. 4.8.3.1. (c))|Maximum luminous intensity in cd (Par. 4.8.3.1. (b))|Standard light distribution (Par. 4.8.3.1. (c))|Angles of g visibility (P (d)) Definition|eometric ar. 4.8.3.1. Minimum luminous intensity in cd|\n|---|---|---|---|---|---|---|\n|SM1|4.0∙10^0|6∙10^-1|2.50∙10^1|Figure A3-VII|Table A2- 3|6∙10^-1|\n|SM2|6∙10^-1|6∙10^-1|2.50∙10^1|Figure A3-VIII|Table A2- 3|6∙10^-1|",
+    "after": "|Side marker lamp of categories|Minimum luminous intensity in cd in the axis of reference (Par. 4.8.3.1. (a))|Minimum luminous intensity in cd within the standard light distribution (Par. 4.8.3.1. (c))|Maximum luminous intensity in cd (Par. 4.8.3.1. (b))|Standard light distribution (Par. 4.8.3.1. (c))|Angles of geometric visibility (Par. 4.8.3.1. (d)) / Definition|Angles of geometric visibility (Par. 4.8.3.1. (d)) / Minimum luminous intensity in cd|\n|---|---|---|---|---|---|---|\n|SM1|4.0∙10^0|6∙10^-1|2.50∙10^1|Figure A3-VII|Table A2-3|6∙10^-1|\n|SM2|6∙10^-1|6∙10^-1|2.50∙10^1|Figure A3-VIII|Table A2-3|6∙10^-1|"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R148",
+  "paragraph": "5.8.1",
+  "pages": [
+   23,
+   23
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Rebuilt the two-level header: the split header fragments were rejoined and the spanning parents 'Maximum luminous intensity in cd (Par. 4.8.3.1. (b))' and 'Angles of geometric visibility (Par. 4.8.3.1. (d))' were attached to their sub-columns. The stray continuation row was removed; the data row is unchanged.",
+    "before": "|Reversing|Minimum|Maximum l|uminous intens|ity in cd|Standard light|Angles of g|eometric|\n|---|---|---|---|---|---|---|---|\n|lamps of category|luminous intensity in cd (Par. 4.8.3.1. (a))|(Par. 4.8.3.1 in or above the|. (b)) below the h- plane, down|below 5°D|distribution (Par. 4.8.3.1. (c))|visibility (P Definition|ar. 4.8.3.1. (d)) Minimum luminous|\n|||h-plane|to 5°D||||intensity in cd|\n|AR|8.0∙10^1|3.00∙10^2|6.00∙10^2|8.00∙10^3|Figure A3-V|N.A.|N.A.|",
+    "after": "|Reversing lamps of category|Minimum luminous intensity in cd (Par. 4.8.3.1. (a))|Maximum luminous intensity in cd (Par. 4.8.3.1. (b)) / in or above the h-plane|Maximum luminous intensity in cd (Par. 4.8.3.1. (b)) / below the h-plane, down to 5°D|Maximum luminous intensity in cd (Par. 4.8.3.1. (b)) / below 5°D|Standard light distribution (Par. 4.8.3.1. (c))|Angles of geometric visibility (Par. 4.8.3.1. (d)) / Definition|Angles of geometric visibility (Par. 4.8.3.1. (d)) / Minimum luminous intensity in cd|\n|---|---|---|---|---|---|---|---|\n|AR|8.0∙10^1|3.00∙10^2|6.00∙10^2|8.00∙10^3|Figure A3-V|N.A.|N.A.|"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R148",
+  "paragraph": "5.9.1",
+  "pages": [
+   24,
+   24
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Merged split header rows into a single header; restored the 'Angles of geometric visibility (Par. 4.8.3.1. (d))' parent header, which had been split mid-word, onto its two sub-columns.",
+    "before": "|Rear fog lamps of|Minimum luminous intensity in cd (Par.|Maximum luminous intensity in cd when used|Standard light distribution (Par.|Angles of g (Par. 4.8.3.|eometric visibility 1. (d))|\n|---|---|---|---|---|---|\n|categories|4.8.3.1. (a))|as (Par. 4.8.3.1. (b))|4.8.3.1. (c))|Definition|Minimum luminous intensities in cd|\n|F1 (steady)|1.50∙10^2|3.00∙10^2|Figure A3-VI|N.A.|N.A.|\n|F2 (variable)|1.50∙10^2|8.40∙10^2|Figure A3-VI|N.A.|N.A.|",
+    "after": "|Rear fog lamps of categories|Minimum luminous intensity in cd (Par. 4.8.3.1. (a))|Maximum luminous intensity in cd when used as (Par. 4.8.3.1. (b))|Standard light distribution (Par. 4.8.3.1. (c))|Angles of geometric visibility (Par. 4.8.3.1. (d)) / Definition|Angles of geometric visibility (Par. 4.8.3.1. (d)) / Minimum luminous intensities in cd|\n|---|---|---|---|---|---|\n|F1 (steady)|1.50∙10^2|3.00∙10^2|Figure A3-VI|N.A.|N.A.|\n|F2 (variable)|1.50∙10^2|8.40∙10^2|Figure A3-VI|N.A.|N.A.|"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R148",
+  "paragraph": "6.1.3",
+  "pages": [
+   27,
+   27
+  ],
+  "tables": [
+   {
+    "changed": false,
+    "applied": false,
+    "note": "Checked against the page image: all three headers and all five data rows match, so the table is returned unchanged.",
+    "before": "|Required minimum value / cd|Equivalent 20 per cent /cd|Equivalent 30 per cent /cd|\n|---|---|---|\n|7∙10^-1|5∙10^-1|3∙10^-1|\n|6∙10^-1|4∙10^-1|2∙10^-1|\n|3∙10^-1|2∙10^-1|1∙10^-1|\n|7∙10^-2|5∙10^-2|3∙10^-2|\n|5∙10^-2|3∙10^-2|2∙10^-2|",
+    "after": "|Required minimum value / cd|Equivalent 20 per cent /cd|Equivalent 30 per cent /cd|\n|---|---|---|\n|7∙10^-1|5∙10^-1|3∙10^-1|\n|6∙10^-1|4∙10^-1|2∙10^-1|\n|3∙10^-1|2∙10^-1|1∙10^-1|\n|7∙10^-2|5∙10^-2|3∙10^-2|\n|5∙10^-2|3∙10^-2|2∙10^-2|"
+   }
+  ],
+  "status": "unchanged"
+ },
+ {
+  "regulation": "UN R148",
+  "paragraph": "6.1.3.2",
+  "pages": [
+   28,
+   28
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "The header 'Unfavourable deviation' was split mid-word across two cells. On the page it spans all three columns, so it is now repeated in each column header. The data rows are unchanged.",
+    "before": "|Unfavourabl|e deviation||\n|---|---|---|\n|2.5 x Bo/cm|comparable to|20 per cent|\n|3.0 x Bo/cm|comparable to|30 per cent|",
+    "after": "|Unfavourable deviation|Unfavourable deviation|Unfavourable deviation|\n|---|---|---|\n|2.5 x Bo/cm|comparable to|20 per cent|\n|3.0 x Bo/cm|comparable to|30 per cent|"
+   }
+  ],
+  "status": "applied"
+ },
+ {
+  "regulation": "UN R148",
+  "paragraph": "Annex 2 0",
+  "pages": [
+   32,
+   35
+  ],
+  "tables": [],
+  "status": "rejected: 6 tables returned for 4"
+ },
+ {
+  "regulation": "UN R148",
+  "paragraph": "Annex 8 2.1",
+  "pages": [
+   47,
+   48
+  ],
+  "tables": [
+   {
+    "changed": true,
+    "applied": true,
+    "note": "Removed the stray separator row left inside the data where the table breaks across pages 47-48; all cell values are unchanged.",
+    "before": "|Lamp (function)|Time after switch ON (seconds)|Reference coordinate|\n|---|---|---|\n|Rear-registration plate illumination|4|any measurement point given in Annex 3|\n|Direction Indicator Cat 1, 2, 11, 12|0.2|HV|\n|Direction Indicator Cat 5, 6|0.2|H5, V0|\n|Front and rear position|4|HV|\n|Stop|0.2|HV|\n|End-outline marker|4|HV|\n|Reversing|0.2|HV|\n|Manoeuvring|N.A.|N.A.|\n|Rear fog|4|HV|\n|---|---|---|\n|Parking|4|HV|\n|Daytime running|4|HV|\n|Side marker|4|HV|",
+    "after": "|Lamp (function)|Time after switch ON (seconds)|Reference coordinate|\n|---|---|---|\n|Rear-registration plate illumination|4|any measurement point given in Annex 3|\n|Direction Indicator Cat 1, 2, 11, 12|0.2|HV|\n|Direction Indicator Cat 5, 6|0.2|H5, V0|\n|Front and rear position|4|HV|\n|Stop|0.2|HV|\n|End-outline marker|4|HV|\n|Reversing|0.2|HV|\n|Manoeuvring|N.A.|N.A.|\n|Rear fog|4|HV|\n|Parking|4|HV|\n|Daytime running|4|HV|\n|Side marker|4|HV|"
+   }
+  ],
+  "status": "applied"
+ }
+]
