@@ -78,7 +78,12 @@ Rules:
 - Any electronics (LED driver, PCB, sensors, control gear) make the component an ESA for electromagnetic compatibility purposes.
 - Light sources: say whether they are replaceable (then the light-source regulations apply) or non-replaceable modules.
 - Quote evidence verbatim from the spec; describe drawing evidence factually. Do not invent parts that neither source supports.
-- Keep the vehicle category exactly as stated in the spec."""
+- Keep the vehicle category exactly as stated in the spec.
+- The drawing may carry labelled callouts with example requirements (e.g. "stop lamp: 60 to 185 cd on axis",
+  "no water ingress after the spray test"). They are illustrative: use them to identify parts, functions, tests and
+  operating conditions the product must cope with, and record them in drawing_observations, but do not copy them as
+  requirements. A callout's text may describe a different part or function than the part its leader line points to;
+  attach it to the part or function its text is about."""
 
 
 def _image_block(path: Path) -> dict:

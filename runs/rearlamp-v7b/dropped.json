@@ -1,0 +1,409 @@
+{
+ "post": [
+  {
+   "node_id": "n252",
+   "table": null,
+   "text": "For a rear lamp ESA taken from series production, the measured narrowband electromagnetic disturbance levels shall not exceed the reference limits prescribed in paragraph 6.6.2.1 by more than 4 dB (60 per cent).",
+   "applies_because": "The LED drive electronics of the lamp are subject to the ESA narrowband emission limits of para 6.6.",
+   "test_case": "Measure the radiated narrowband emissions of a production sample per Annex 8 and check that they stay within the 6.6.2.1 limit plus 4 dB.",
+   "regulation": "UN R10",
+   "section": "§9",
+   "node": "9.3.1",
+   "reason": "near-duplicate"
+  },
+  {
+   "node_id": "n99",
+   "table": null,
+   "text": "In case of failure of the variable intensity control of a stop lamp of category S2 emitting more than the maximum value of category S1, the steady luminous intensity requirements of category S1 shall be fulfilled automatically.",
+   "applies_because": "The stop lamp may be category S2 (open option).",
+   "test_case": "Simulate failure of the variable intensity control and measure that the intensities fall within the S1 limits.",
+   "regulation": "UN R148",
+   "section": "§4",
+   "node": "4.6.2",
+   "reason": "near-duplicate"
+  },
+  {
+   "node_id": "n302",
+   "table": "A2-1",
+   "text": "The stop lamp (S1 or S2) shall provide minimum angles of geometric visibility of 45° inboard / 45° outboard horizontally and 15° above / 15° below vertically. The inboard horizontal angle may be reduced to 20° only below the H-plane for lamps mounted with the H-plane below 750 mm. The angle below may be reduced to 5° for lamps installed with the H-plane at a mounting height of less than 750 mm. Angles are given for a right-side lamp and are mirrored for a left-side lamp.",
+   "applies_because": "The product integrates a stop lamp of class S1 or S2 (not high-mounted) approved under R148.",
+   "test_case": "Goniometric check of the stop lamp across the specified horizontal and vertical angular field, confirming light emission and the minimum intensity at the declared mounting height.",
+   "regulation": "UN R148",
+   "section": "Annex 2",
+   "node": "annex 2 0",
+   "reason": "near-duplicate"
+  },
+  {
+   "node_id": "n372",
+   "table": null,
+   "text": "For the reversing lamp (LED technology), the luminous intensities measured after 10 minutes of operation shall comply with the minimum and maximum requirements.",
+   "applies_because": "The product includes an LED reversing lamp (AR).",
+   "test_case": "Measure the reversing lamp intensity distribution after 10 minutes of operation (or derive it via the HV ratio) and compare it with the AR min/max values.",
+   "regulation": "UN R148",
+   "section": "Annex 8",
+   "node": "annex 8 1.2.1",
+   "reason": "near-duplicate"
+  },
+  {
+   "node_id": "n376",
+   "table": null,
+   "text": "After the heat resistance test, no appreciable distortion of the retro-reflective device, and in particular of its optical component, shall be visible.",
+   "applies_because": "This is the pass criterion of the heat test applied to the Class IA/IB moulded plastics retro-reflector.",
+   "test_case": "Visually and dimensionally inspect the retro-reflector after the heat test for warping or distortion of the optical component.",
+   "regulation": "UN R150",
+   "section": "Annex 6 Part 1",
+   "node": "annex 6 part 1 3",
+   "reason": "near-duplicate"
+  }
+ ],
+ "filter": [
+  {
+   "id": "R-0016",
+   "text": "Maximum allowed transient pulse amplitude: in case of 12 V systems, +75 V positive and -100 V negative; in case of 24 V systems, +150 V positive and -450 V negative.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 10,
+    "paragraph": "6.7.1. Table 1"
+   },
+   "test_case": "Compare the measured peak pulse amplitudes with the limits for the rated supply voltage.",
+   "drop_reason": "merged into R-0015"
+  },
+  {
+   "id": "R-0032",
+   "text": "In case the ESA is not exempted under paragraph 6.10 (e.g. an active electronic LED driver with switch-mode/PWM or microcontroller), the broadband electromagnetic interference radiated by the ESA (rear lamp), measured per Annex 7 with a 120 kHz bandwidth, shall not exceed the ESA broadband reference limits: E = 62 - 25.13 log(F/30) dBµV/m for 30-75 MHz; E = 52 + 15.13 log(F/75) dBµV/m for 75-400 MHz; E = 63 dBµV/m for 400-1,000 MHz.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 29,
+    "paragraph": "23. Table Appendix 6"
+   },
+   "test_case": "Measure radiated broadband emissions of the lamp per Annex 7 (ALSE, 120 kHz bandwidth, 30-1,000 MHz) and compare against the Appendix 6 limit curve.",
+   "drop_reason": "Informative appendix figure duplicating the broadband limits of R-0010"
+  },
+  {
+   "id": "R-0033",
+   "text": "In case the ESA is not exempted under paragraph 6.10 (e.g. an LED driver containing a microcontroller, oscillator or other narrowband source), the narrowband electromagnetic interference radiated by the ESA (rear lamp), measured per Annex 8 with a 120 kHz bandwidth, shall not exceed the ESA narrowband reference limits: E = 52 - 25.13 log(F/30) dBµV/m for 30-75 MHz; E = 42 + 15.13 log(F/75) dBµV/m for 75-400 MHz; E = 53 dBµV/m for 400-1,000 MHz.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 29,
+    "paragraph": "23. Table Appendix 7"
+   },
+   "test_case": "Measure radiated narrowband emissions of the lamp per Annex 8 (120 kHz bandwidth, 30-1,000 MHz) and compare against the Appendix 7 limit curve.",
+   "drop_reason": "Informative appendix figure duplicating the narrowband limits of R-0012"
+  },
+  {
+   "id": "R-0035",
+   "text": "For an ESA not involved in 'REESS charging mode coupled to the power grid', the broadband emission test shall be performed according to the ALSE method described in Clause 6.4 of CISPR 25.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 91,
+    "paragraph": "Annex 7 3.1"
+   },
+   "test_case": "Perform radiated broadband emission measurement of the lamp per CISPR 25 clause 6.4 ALSE method and confirm the setup in the report.",
+   "drop_reason": "Laboratory test method"
+  },
+  {
+   "id": "R-0037",
+   "text": "The broadband limits of paragraph 6.5 are quasi-peak limits; if peak detectors are used for the measurement of the rear lamp ESA, a correction factor of 20 dB as defined in CISPR 12 shall be applied.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 92,
+    "paragraph": "Annex 7 4.2"
+   },
+   "test_case": "Review the emission plot to confirm quasi-peak readings, or peak readings with the 20 dB correction, were compared with the para 6.5 limits.",
+   "drop_reason": "Measurement detector correction (lab procedure)"
+  },
+  {
+   "id": "R-0040",
+   "text": "The narrowband emission levels of the lamp ESA shall be evaluated with an average detector when compared with the limits.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 96,
+    "paragraph": "Annex 8 4.2"
+   },
+   "test_case": "Verify in the test report that the narrowband scan used an average detector and that all readings are below the limit.",
+   "drop_reason": "Measurement detector setting"
+  },
+  {
+   "id": "R-0041",
+   "text": "The rear lamp ESA shall comply with the immunity requirements using any combination of the following test methods, at the manufacturer's discretion, provided the full frequency range of paragraph 3.1 of Annex 9 is covered: absorber chamber (ISO 11452-2), TEM cell (ISO 11452-3), bulk current injection (ISO 11452-4), stripline (ISO 11452-5) or reverberation chamber (ISO 11452-11).",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 97,
+    "paragraph": "Annex 9 1.2.1"
+   },
+   "test_case": "Review the immunity test plan and reports to confirm the selected ISO 11452 methods together cover 20 to 6,000 MHz.",
+   "drop_reason": "Choice of laboratory test methods, covered by R-0018"
+  },
+  {
+   "id": "R-0042",
+   "text": "The radiated immunity test conditions for the rear lamp ESA (frequency range and general conditions) shall be according to ISO 11452-1.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 98,
+    "paragraph": "Annex 9 2.1"
+   },
+   "test_case": "Check that the immunity test report states ISO 11452-1 general conditions were applied.",
+   "drop_reason": "General lab test conditions reference"
+  },
+  {
+   "id": "R-0048",
+   "text": "In case the absorber chamber method is used, the rear lamp ESA shall be exposed with vertical polarization, with the field conditions established by the substitution method according to ISO 11452-2.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 99,
+    "paragraph": "Annex 9 4.1.2"
+   },
+   "test_case": "Check that the absorber chamber report shows vertical polarization and substitution-method field calibration per ISO 11452-2.",
+   "drop_reason": "Test setup (polarization, field calibration)"
+  },
+  {
+   "id": "R-0049",
+   "text": "In case bulk current injection is used, the rear lamp ESA shall be tested according to ISO 11452-4, either by the substitution method with the injection probe at 150 mm from the ESA or by the closed-loop method with the probe at 900 mm.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 100,
+    "paragraph": "Annex 9 4.3.2"
+   },
+   "test_case": "Check that the BCI report states the method used and the matching probe distance (150 mm substitution or 900 mm closed loop).",
+   "drop_reason": "Test setup (probe positioning)"
+  },
+  {
+   "id": "R-0345",
+   "text": "The broadband electromagnetic radiation generated by the ESA representative of its type shall be measured by the method described in Annex 7.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 10,
+    "paragraph": "6.5.1"
+   },
+   "test_case": "Measure the lamp's broadband radiated emissions in an ALSE per Annex 7 (CISPR 25) and confirm the test report references this method.",
+   "drop_reason": "Measurement method reference"
+  },
+  {
+   "id": "R-0346",
+   "text": "In case of an active electronic LED driver (containing an electronic oscillator above 9 kHz), the narrowband electromagnetic radiation generated by the ESA representative of its type shall be measured by the method described in Annex 8.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 10,
+    "paragraph": "6.6.1"
+   },
+   "test_case": "Measure the lamp's narrowband radiated emissions with an average detector per Annex 8 and confirm the test report references this method.",
+   "drop_reason": "Measurement method reference"
+  },
+  {
+   "id": "R-0349",
+   "text": "In case TEM cell testing is used, the rear lamp ESA immunity test shall be performed according to ISO 11452-3.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 100,
+    "paragraph": "Annex 9 4.2.2"
+   },
+   "test_case": "Run a TEM cell immunity test per ISO 11452-3 with the lamp operating and check that the stop and rear position lamp functions are not disturbed.",
+   "drop_reason": "Lab test method"
+  },
+  {
+   "id": "R-0350",
+   "text": "In case stripline testing is used, the rear lamp ESA immunity test shall be performed according to ISO 11452-5.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 101,
+    "paragraph": "Annex 9 4.4.2"
+   },
+   "test_case": "Expose the lamp wiring harness in a stripline per ISO 11452-5 with the lamp operating and monitor the lamp functions for disturbance.",
+   "drop_reason": "Lab test method"
+  },
+  {
+   "id": "R-0351",
+   "text": "In case the reverberation chamber test is used, the rear lamp ESA immunity test shall be performed according to ISO 11452-11.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 101,
+    "paragraph": "Annex 9 4.5.2"
+   },
+   "test_case": "Run a reverberation chamber immunity test per ISO 11452-11 with the lamp operating and monitor the lamp functions.",
+   "drop_reason": "Lab test method"
+  },
+  {
+   "id": "R-0352",
+   "text": "In case the reverberation chamber test is used, unless otherwise specified, the rear lamp ESA shall be tested using a test setup with ground plane.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 101,
+    "paragraph": "Annex 9 4.5.2"
+   },
+   "test_case": "Inspect the test report to confirm that the reverberation chamber test of the lamp was carried out on a ground-plane setup.",
+   "drop_reason": "Test setup"
+  },
+  {
+   "id": "R-0088",
+   "text": "Each lamp function submitted for approval (rear position lamp, stop lamp, reversing lamp) shall conform to the requirements set forth in paragraphs 4. and 5. of UN R148.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 10,
+    "paragraph": "4.1"
+   },
+   "test_case": "Review the type-approval test report to confirm every applicable paragraph 4 and 5 requirement was verified with a pass result for each function.",
+   "drop_reason": "Pure announcement that paragraphs 4 and 5 apply"
+  },
+  {
+   "id": "R-0096",
+   "text": "In a single lamp containing more than one light source, a group of LEDs wired so that the failure of any one of them causes all of them to stop emitting light shall be considered to be one light source for the failure provisions.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 11,
+    "paragraph": "4.6.1.1"
+   },
+   "test_case": "Review the LED wiring schematic to identify the light-source groups used for the failure analysis.",
+   "drop_reason": "Definitional rule on what counts as one light source"
+  },
+  {
+   "id": "R-0121",
+   "text": "Compliance of the luminous intensities shall be demonstrated by tests carried out according to Annex 8.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 16,
+    "paragraph": "4.8.3.6"
+   },
+   "test_case": "Perform the photometric tests per the Annex 8 procedure and record the results.",
+   "drop_reason": "Test method reference (Annex 8)"
+  },
+  {
+   "id": "R-0149",
+   "text": "For the reversing lamp light distribution, the directions H = 0° and V = 0° shall correspond to the axis of reference, which on the vehicle is horizontal, parallel to the median longitudinal plane of the vehicle, oriented in the required direction of visibility and passing through the centre of reference.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 38,
+    "paragraph": "Annex 3 2.5"
+   },
+   "test_case": "Verify the declared reference axis and centre of reference in the photometric test set-up and drawings.",
+   "drop_reason": "Definition of the axis of reference"
+  },
+  {
+   "id": "R-0161",
+   "text": "In case a lamp function uses LED technology only, the lamp function is deemed to comply with the intensity requirements at all points in time if the values measured according to paragraph 1.2 are compliant.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 48,
+    "paragraph": "Annex 8 2.1.2"
+   },
+   "test_case": "Confirm the functions are LED-only and that the 1 min / 10 min / 30 min (or stability) measurements comply.",
+   "drop_reason": "Deeming rule on test procedure, not a product obligation"
+  },
+  {
+   "id": "R-0202",
+   "text": "Minimum RI values for a red Class IA/IB retro-reflector (vertical β1 / horizontal β2):\n- at angle of divergence 20': 300 mcd/lx at 0°/0°; 200 mcd/lx at ±10°/0°; 100 mcd/lx at ±5°/±20°;\n- at angle of divergence 1°30': 5 mcd/lx at 0°/0°; 2.8 mcd/lx at ±10°/0°; 2.5 mcd/lx at ±5°/±20°.",
+   "source": {
+    "regulation": "UN R150",
+    "version": "1.2.1",
+    "page": 12,
+    "paragraph": "5.1.4.4.1. Table 3"
+   },
+   "test_case": "Compare the measured RI at each angle combination with these minimum values.",
+   "drop_reason": "merged into R-0201"
+  },
+  {
+   "id": "R-0218",
+   "text": "The retro-reflection performance (CIL) of the retro-reflector shall be achieved when it is illuminated with CIE Standard Illuminant A (ISO 11664-2:2007(E)/CIE S 014-2/E:2006).",
+   "source": {
+    "regulation": "UN R150",
+    "version": "1.2.1",
+    "page": 30,
+    "paragraph": "Annex 4 Part 1 3.3"
+   },
+   "test_case": "Perform the CIL measurements with a source calibrated to CIE Standard Illuminant A and verify that the paragraph 5 values are met.",
+   "drop_reason": "Measurement equipment (light source) set-up"
+  },
+  {
+   "id": "R-0228",
+   "text": "In case of the Class IB moisture test, all drain holes and other openings of the device shall remain open during the test, and drain wicks, when used, shall be tested in the device.",
+   "source": {
+    "regulation": "UN R150",
+    "version": "1.2.1",
+    "page": 44,
+    "paragraph": "Annex 6 Part 3 2.2.1"
+   },
+   "test_case": "Inspect the test sample to confirm that all drain holes and vents are unobstructed and that the wicks are fitted as in production.",
+   "drop_reason": "Sample set-up for test"
+  },
+  {
+   "id": "R-0229",
+   "text": "In case of the Class IB moisture test, the device shall be rotated about its vertical axis at 4.0 ± 0.5 min-1 while exposed to the water spray.",
+   "source": {
+    "regulation": "UN R150",
+    "version": "1.2.1",
+    "page": 44,
+    "paragraph": "Annex 6 Part 3 2.2.2"
+   },
+   "test_case": "Verify the platform rotation speed during the water spray test.",
+   "drop_reason": "Test set-up (rotation of sample)"
+  },
+  {
+   "id": "R-0235",
+   "text": "In case of the Class IB dust exposure test, all drain holes and other openings of the device shall remain open, and drain wicks, when used, shall be tested in the device.",
+   "source": {
+    "regulation": "UN R150",
+    "version": "1.2.1",
+    "page": 45,
+    "paragraph": "Annex 6 Part 3 2.3.5"
+   },
+   "test_case": "Inspect the sample before the dust test to confirm that its openings are unobstructed.",
+   "drop_reason": "Sample set-up for dust test"
+  },
+  {
+   "id": "R-0256",
+   "text": "If the dimension of the projection of the rear lamp mounted on a surface other than convex cannot be determined by simple measurement, it shall be determined as the maximum variation of the distance of the centre of a 100 mm diameter sphere from the nominal line of the panel when the sphere is moved over the lamp in constant contact with it.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 15,
+    "paragraph": "Annex 3 2.2"
+   },
+   "test_case": "Roll a 100 mm sphere over the installed lamp and adjacent panel, record the maximum displacement of the sphere centre from the panel nominal line, and check it against the applicable projection limit.",
+   "drop_reason": "Annex 3 measurement method (100 mm sphere procedure) describes how the projection dimension is measured, not a limit the product must meet."
+  },
+  {
+   "id": "R-0282",
+   "text": "The colour of the light emitted by each lamp function shall be as prescribed in paragraph 5.15.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 23,
+    "paragraph": "5.15"
+   },
+   "test_case": "Measure the chromaticity of each function and of the retro-reflector against the R48 2.11 limits.",
+   "drop_reason": "Pure announcement; the colour content is in R-0283"
+  },
+  {
+   "id": "R-0304",
+   "text": "The non-replaceable LED modules shall be stated as not replaceable in the communication sheet of the component type approval.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 28,
+    "paragraph": "5.29"
+   },
+   "test_case": "Review the R148 communication sheet for the non-replaceability statement.",
+   "drop_reason": "Paperwork statement in the communication sheet"
+  }
+ ]
+}

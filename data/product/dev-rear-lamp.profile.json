@@ -1,0 +1,221 @@
+{
+ "case_id": "dev-rear-lamp",
+ "spec_file": "spec.md",
+ "image_files": [
+  "exploded_view.png"
+ ],
+ "deterministic": {
+  "product": "Rear lamp",
+  "product_description": "Rear lamp  — exterior lighting & signalling module combining multiple light functions, lens, and retro-reflector in a single housing.",
+  "vehicle_category": "M1",
+  "vehicle_category_note": "M1 — passenger car. UNECE lighting regulations referenced apply across M and N categories.",
+  "functions": [
+   "Rear position signalling (presence/visibility)",
+   "Braking indication (stop lamp)",
+   "Reversing illumination",
+   "Passive conspicuity (retro-reflector)",
+   "Light transmission & color definition (outer lens)"
+  ],
+  "parts": [
+   {
+    "part_id": "P-01",
+    "name": "Rear position lamp"
+   },
+   {
+    "part_id": "P-02",
+    "name": "Stop lamp"
+   },
+   {
+    "part_id": "P-03",
+    "name": "Reversing lamp"
+   },
+   {
+    "part_id": "P-04",
+    "name": "Outer lens"
+   },
+   {
+    "part_id": "P-05",
+    "name": "Retro-reflector"
+   }
+  ],
+  "materials": {
+   "Outer lens": "PMMA (red-tinted, UV-stabilised)",
+   "Housing": "PP or ASA/PC",
+   "Reflector surface": "PC with aluminium vacuum-metallised coating",
+   "Retro-reflector": "PMMA (molded prism optics)",
+   "Light source": "LED modules on PCB",
+   "Seal / gasket": "TPE or silicone",
+   "Fasteners / clips": "PA, POM, or steel"
+  },
+  "spec_sections": [
+   "function",
+   "main parts",
+   "materials",
+   "product type",
+   "spec: rear lamp",
+   "vehicle category"
+  ]
+ },
+ "model": {
+  "product": "Rear lamp",
+  "vehicle_category": "M1",
+  "mounting": "rear exterior",
+  "parts": [
+   {
+    "part_id": "P-01",
+    "name": "Rear position lamp",
+    "function": "Emits red light to the rear to indicate the presence and width of the vehicle",
+    "regulated_function": "rear position lamp",
+    "material": "LED modules on PCB (light source); PC with aluminium vacuum-metallised coating (reflector surface)",
+    "evidence_spec": "Rear position signalling (presence/visibility)",
+    "evidence_drawing": "Reflector callout text 'rear position lamp: 4 to 17 cd on axis' (illustrative); LED array behind reflector cells"
+   },
+   {
+    "part_id": "P-02",
+    "name": "Stop lamp",
+    "function": "Emits red light to the rear, higher intensity, when service brake is applied",
+    "regulated_function": "stop lamp",
+    "material": "LED modules on PCB",
+    "evidence_spec": "Braking indication (stop lamp)",
+    "evidence_drawing": "LED modules on PCB callout text 'stop lamp: 60 to 185 cd on axis' (illustrative)"
+   },
+   {
+    "part_id": "P-03",
+    "name": "Reversing lamp",
+    "function": "Illuminates the road to the rear and warns road users that the vehicle is reversing",
+    "regulated_function": "reversing lamp",
+    "material": "LED modules on PCB",
+    "evidence_spec": "Reversing illumination",
+    "evidence_drawing": "Housing callout text 'reversing lamp visible to 45° outboard' (illustrative, refers to reversing lamp function, not housing); separate clear window on outer lens and separate compartment in reflector"
+   },
+   {
+    "part_id": "P-04",
+    "name": "Outer lens",
+    "function": "Closes the lamp, transmits light and defines red colour of signal light",
+    "regulated_function": "outer lens (lens of a lamp)",
+    "material": "PMMA (red-tinted, UV-stabilised)",
+    "evidence_spec": "Light transmission & color definition (outer lens)",
+    "evidence_drawing": "Front-most component in exploded view; callout 'red, within the chromaticity limits'; rectangular window area visible in lens"
+   },
+   {
+    "part_id": "P-05",
+    "name": "Retro-reflector",
+    "function": "Passive conspicuity by reflecting incident light back towards its source",
+    "regulated_function": "rear retro-reflector, non-triangular (Class IA or IB)",
+    "material": "PMMA (molded prism optics)",
+    "evidence_spec": "Passive conspicuity (retro-reflector)",
+    "evidence_drawing": "Small rectangular hatched prism element between lens and seal; callout 'reflectivity at 5° angle of incidence'"
+   },
+   {
+    "part_id": "P-06",
+    "name": "Reflector",
+    "function": "Optical reflector shaping light distribution of the LED light sources",
+    "regulated_function": null,
+    "material": "PC with aluminium vacuum-metallised coating",
+    "evidence_spec": "Reflector surface | PC with aluminium vacuum-metallised coating",
+    "evidence_drawing": "Third layer with array of reflector cups and separate compartments; labelled 'Reflector'"
+   },
+   {
+    "part_id": "P-07",
+    "name": "LED modules on PCB",
+    "function": "Light sources and electronic circuit board powering signal functions",
+    "regulated_function": "electrical/electronic sub-assembly (ESA)",
+    "material": "LED modules on PCB",
+    "evidence_spec": "Light source | LED modules on PCB",
+    "evidence_drawing": "Flat board with grid of LED packages, connector-like strip and a square component; labelled 'LED modules on PCB'"
+   },
+   {
+    "part_id": "P-08",
+    "name": "Housing",
+    "function": "Structural body carrying optical and electronic parts; attachment to vehicle body",
+    "regulated_function": null,
+    "material": "PP or ASA/PC",
+    "evidence_spec": "Housing | PP or ASA/PC",
+    "evidence_drawing": "Rear-most deep tray with mounting holes; labelled 'Housing'"
+   },
+   {
+    "part_id": "P-09",
+    "name": "Seal / gasket",
+    "function": "Seals lens-to-housing joint against water and dust ingress",
+    "regulated_function": null,
+    "material": "TPE or silicone",
+    "evidence_spec": "Seal / gasket | TPE or silicone",
+    "evidence_drawing": "Thin perimeter ring between lens and reflector; callout 'no water ingress after the spray test'"
+   },
+   {
+    "part_id": "P-10",
+    "name": "Fasteners / clips",
+    "function": "Fix lamp to vehicle and maintain aim",
+    "regulated_function": null,
+    "material": "PA, POM, or steel",
+    "evidence_spec": "Fasteners / clips | PA, POM, or steel",
+    "evidence_drawing": "Three screws/pins shown behind housing; callout 'lamp stays aimed under vibration'"
+   }
+  ],
+  "has_electronics": true,
+  "electronic_subassemblies": [
+   "LED modules on PCB (LED light sources and driving circuitry)"
+  ],
+  "light_sources": "non-replaceable LED modules on PCB",
+  "regulated_functions": [
+   "rear position lamp",
+   "stop lamp",
+   "reversing lamp",
+   "outer lens (lens of a lamp)",
+   "rear retro-reflector, non-triangular (Class IA or IB)",
+   "electrical/electronic sub-assembly (ESA)"
+  ],
+  "search_terms": [
+   "rear position lamp",
+   "stop lamp",
+   "reversing lamp",
+   "retro-reflector",
+   "rear retro-reflecting device",
+   "Class IA",
+   "Class IB",
+   "grouped lamps",
+   "combined lamps",
+   "reciprocally incorporated lamps",
+   "signalling lamps",
+   "light-signalling devices",
+   "light source module",
+   "LED",
+   "non-replaceable light source",
+   "outer lens",
+   "red colour",
+   "chromaticity",
+   "luminous intensity",
+   "photometric",
+   "apparent surface",
+   "angles of geometric visibility",
+   "installation of lighting and light-signalling devices",
+   "electromagnetic compatibility",
+   "electrical/electronic sub-assembly",
+   "ESA",
+   "UN R148",
+   "UN R150",
+   "UN R48",
+   "UN R10",
+   "UN R128",
+   "plastic lens",
+   "heat resistance",
+   "colour stability",
+   "M1"
+  ],
+  "drawing_observations": [
+   "Exploded view along a common axis: outer lens, retro-reflector, seal/gasket, reflector, LED PCB, housing, fasteners.",
+   "Outer lens shows a separate rectangular window area, likely for the reversing lamp.",
+   "Retro-reflector is a separate small rectangular prismatic insert between lens and gasket.",
+   "Reflector has an array of LED reflector cups plus distinct compartments for separate functions.",
+   "PCB carries a grid of LED packages, a square component and a connector-like strip.",
+   "Housing is a deep tray with mounting holes; three screw/clip fasteners shown.",
+   "Illustrative callouts: red within chromaticity limits; retro-reflector reflectivity at 5° incidence; no water ingress after spray test; rear position lamp 4 to 17 cd on axis; stop lamp 60 to 185 cd on axis; reversing lamp visible to 45° outboard; lamp stays aimed under vibration.",
+   "Callouts for reflector, PCB and housing describe lamp functions (rear position, stop, reversing) rather than those parts."
+  ],
+  "_model": "claude-opus-5-5",
+  "_usage": {
+   "input": 7655,
+   "output": 2325
+  }
+ }
+}

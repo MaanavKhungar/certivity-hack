@@ -18,7 +18,7 @@ from regparse import Corpus, Node, paragraph_key
 MODEL = "claude-opus-5-5"
 WORK = Path(__file__).resolve().parent
 ROOT = WORK.parent
-PKG = ROOT / "package"
+PKG = ROOT / "package" if (ROOT / "package").exists() else ROOT.parent / "industrial-ai-hackathon"   # repo-local or sibling clone
 CACHE = WORK / "cache"
 RUNS = ROOT / "runs"
 

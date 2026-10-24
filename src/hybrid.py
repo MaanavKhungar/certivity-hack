@@ -154,9 +154,9 @@ def style_examples(k: int = 12) -> str:
     return "\n".join(f"- [{r['source']['regulation']} §{r['source']['paragraph']}] {r['text']}" for r in ok[::step][:k])
 
 
-def stage_c(A, B, profile, log) -> list[dict]:
-    C, examples = A["C"], style_examples()
-    jobs = []
+def section_jobs(A, B, profile) -> list[tuple]:
+    """One job per chunk of selected sections: (reg, name, part nodes, referenced nodes, product context)."""
+    C, jobs = A["C"], []
     for reg, b in B.items():
         if not b["include"]:
             continue
@@ -173,19 +173,38 @@ def stage_c(A, B, profile, log) -> list[dict]:
             refs = [r for r in rp.expand_refs(C, reg, [nodes[int(d["id"][1:])] for d in part])
                     if pos[(r.doc, r.label)] not in chosen][:80]
             jobs.append((reg, name, part, [dicts[pos[(r.doc, r.label)]] for r in refs], product))
+    return jobs
+
+
+def job_prompt(A, job, examples: str) -> str:
+    reg, name, part, refs, product = job
+    version = part[0]["version"]
+    toc = reqagent.toc([{**asdict(n), "id": ""} for n in A["C"].by_reg[(reg, "base")]])
+    return (f"## Product profile\n{json.dumps(product, indent=1, ensure_ascii=False)}\n\n"
+            f"## Style examples\n{examples}\n\n## Regulation\n{reg}, version {version}\n\n## Table of contents\n{toc}\n\n"
+            f"## Section {name}\n\n" + "\n\n".join(reqagent.render(n) for n in part) +
+            ("\n\n## Referenced paragraphs (context)\n\n" + "\n\n".join(reqagent.render(n) for n in refs) if refs else ""))
+
+
+def job_tag(prefix: str, job) -> str:
+    return f"{prefix}_{job[0].replace(' ', '_')}_{job[1].replace(' ', '-').replace('§', 's')[:40]}"
+
+
+def tie(job, reqs: list[dict]) -> list[dict]:
+    """Attach regulation, section and the cited node (from the section or its references) to model output."""
+    reg, name, part, refs, _ = job
+    by_id = {d["id"]: d for d in part + refs}
+    return [{**q, "regulation": reg, "section": name, "node": by_id.get(q["node_id"])} for q in reqs]
+
+
+def stage_c(A, B, profile, log) -> list[dict]:
+    examples, jobs = style_examples(), section_jobs(A, B, profile)
     log(f"stage C: {len(jobs)} section calls")
 
     def one(job):
-        reg, name, part, refs, product = job
-        version, toc = part[0]["version"], reqagent.toc([{**asdict(n), "id": ""} for n in C.by_reg[(reg, "base")]])
-        user = (f"## Product profile\n{json.dumps(product, indent=1, ensure_ascii=False)}\n\n"
-                f"## Style examples\n{examples}\n\n## Regulation\n{reg}, version {version}\n\n## Table of contents\n{toc}\n\n"
-                f"## Section {name}\n\n" + "\n\n".join(reqagent.render(n) for n in part) +
-                ("\n\n## Referenced paragraphs (context)\n\n" + "\n\n".join(reqagent.render(n) for n in refs) if refs else ""))
-        res = rp.call_json(reqagent.SYSTEM + C_EXTRA, [{"type": "text", "text": user}], C_SCHEMA, max_tokens=64000,
-                           tag=f"H_C_{reg.replace(' ', '_')}_{name.replace(' ', '-').replace('§', 's')[:40]}")
-        by_id = {d["id"]: d for d in part + refs}
-        return [{**q, "regulation": reg, "section": name, "node": by_id.get(q["node_id"])} for q in res["requirements"]]
+        res = rp.call_json(reqagent.SYSTEM + C_EXTRA, [{"type": "text", "text": job_prompt(A, job, examples)}], C_SCHEMA,
+                           max_tokens=64000, tag=job_tag("H_C", job))
+        return tie(job, res["requirements"])
 
     with ThreadPoolExecutor(8) as pool:
         return [q for qs in pool.map(one, jobs) for q in qs]

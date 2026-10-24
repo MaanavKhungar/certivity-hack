@@ -1,0 +1,14 @@
+stage A: 7 candidates: UN R148 0.97, UN R150 0.90, UN R48 0.90, UN R10 0.70, UN R26 0.30, UN R53 0.03*, UN R19 0.02*
+stage B: UN R10    p=0.70 via=screening applies=True  -> INCLUDE 40 sections
+stage B: UN R148   p=0.97 via=screening applies=True  -> INCLUDE 26 sections
+stage B: UN R150   p=0.90 via=screening applies=True  -> INCLUDE 54 sections
+stage B: UN R19    p=0.02 via=bm25      applies=False -> drop    0 sections
+stage B: UN R26    p=0.30 via=screening applies=True  -> INCLUDE 5 sections
+stage B: UN R48    p=0.90 via=screening applies=True  -> INCLUDE 16 sections
+stage B: UN R53    p=0.03 via=bm25      applies=False -> drop    0 sections
+stage C: 54 section calls
+stage C: 349 requirements
+stage C2: second reader added 25
+post: 369 candidates after dedupe (5 dropped)
+stage D: kept 340 of 369 (29 dropped or merged)
+final: 340 requirements, validation: OK
