@@ -1,0 +1,116 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R102",
+ "changes": [
+  {
+   "requirement_id": "R-0021",
+   "change": "modified",
+   "new_text": "This control unit must be fitted outside the cabin and shall be situated in such a position that the operator is not endangered by the movement of the trailer and can see the danger area between the vehicles at a glance.",
+   "reason": "Paragraph 5.1.7.2 of UN R102 was amended in version 0.1.0: 'driver's' was removed.",
+   "source": {
+    "page": 4,
+    "paragraph": "5.1.7.2"
+   }
+  },
+  {
+   "requirement_id": "R-0063",
+   "change": "modified",
+   "new_text": "The optical signal shall be red in colour and located on the instrument panel in the direct field of vision of the driver and must be easily visible even in daylight (if applicable).",
+   "reason": "Paragraph 13.3.2 of UN R102 was amended in version 0.1.0: 'daylight.' became 'daylight (if applicable).'.",
+   "source": {
+    "page": 7,
+    "paragraph": "13.3.2"
+   }
+  },
+  {
+   "requirement_id": "R-0089",
+   "change": "modified",
+   "new_text": "(1 ) An emergency straight line braking test from a speed of 60 km/h, to rest at a mean fully developed deceleration of at least 4 m/s2 shall not cause the combination to deviate outside a lane 3.5 metres wide. 2/ The technical service shall take account of the predominance setting of the combination.",
+   "reason": "Paragraph Annex 4 2.2.2 (formerly Annex 4 2.2.1) of UN R102 was amended in version 0.1.0: 'During the test, it must be possible to travel along a straight section of the road without unusual steering correction by the driver. 2.2.2. 2/' became '(1 )'; 'km/h' became 'km/h,'.",
+   "source": {
+    "page": 14,
+    "paragraph": "Annex 4 2.2.2"
+   }
+  },
+  {
+   "requirement_id": "R-0090",
+   "change": "modified",
+   "new_text": "Starting from rest, a forward acceleration of at least 2 m/s2 shall not cause any movement between the vehicles of a degree likely to cause difficulty in controlling the vehicle combination.",
+   "reason": "Paragraph Annex 4 2.2.3 of UN R102 was amended in version 0.1.0: 'the driver' was removed.",
+   "source": {
+    "page": 14,
+    "paragraph": "Annex 4 2.2.3"
+   }
+  },
+  {
+   "requirement_id": "R-0093",
+   "change": "modified",
+   "new_text": "A simulated overtaking manoeuvre, as defined in the appendix, conducted at a progressively increasing speed up to 80 km/h, or the maximum design speed, whichever is lower, shall not cause any difficulty in controlling the combination.",
+   "reason": "Paragraph Annex 4 2.3.1 of UN R102 was amended in version 0.1.0: 'or the maximum design speed, whichever is lower,' was added; 'the driver' was removed.",
+   "source": {
+    "page": 14,
+    "paragraph": "Annex 4 2.3.1"
+   }
+  },
+  {
+   "requirement_id": "R-0094",
+   "change": "modified",
+   "new_text": "At a speed of 20 km/h steering from one side of the track to the other alternately at least 3 times by turning the steering wheel as fast and as far as possible, or while an ADS feature is active, actuate the steering equipment at the maximum performance allowed by the ADS, no contact between the vehicles or damage to the CCD shall occur (track width is 10 metres).",
+   "reason": "Paragraph Annex 4 2.3.2 of UN R102 was amended in version 0.1.0: 'or while an ADS feature is active, actuate the steering equipment at the maximum performance allowed by the ADS,' was added.",
+   "source": {
+    "page": 14,
+    "paragraph": "Annex 4 2.3.2"
+   }
+  },
+  {
+   "requirement_id": "R-0096",
+   "change": "modified",
+   "new_text": "This shall not cause any movement between the vehicles of a degree likely to cause difficulty in controlling the vehicle combination.",
+   "reason": "Paragraph Annex 4 3.1 of UN R102 was amended in version 0.1.0: 'the driver' was removed.",
+   "source": {
+    "page": 14,
+    "paragraph": "Annex 4 3.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In case the vehicle is equipped with an ADS, a logic signal shall be transmitted to the ADS, indicating any power system and/or control system failure.",
+   "reason": "Paragraph 5.1.5.2 of UN R102 is new in version 0.1.0: 'In case the vehicle is equipped with an ADS, a logic signal shall be transmitted to the ADS, indicat…'.",
+   "source": {
+    "page": 3,
+    "paragraph": "5.1.5.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "While an ADS feature is active, a logic signal shall be transmitted to the ADS indicating the correct engagement of the positive locking system.",
+   "reason": "Paragraph 5.1.11 of UN R102 is new in version 0.1.0: 'While an ADS feature is active, a logic signal shall be transmitted to the ADS indicating the correc…'.",
+   "source": {
+    "page": 4,
+    "paragraph": "5.1.11"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "While an ADS feature is active, a logic signal shall be transmitted to the ADS indicating that the CCD is about to reach its maximum extension.",
+   "reason": "Paragraph 5.1.13 of UN R102 is new in version 0.1.0: 'While an ADS feature is active, a logic signal shall be transmitted to the ADS indicating that the C…'.",
+   "source": {
+    "page": 4,
+    "paragraph": "5.1.13"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "During the test, it must be possible to travel along a straight section of the road without unusual steering correction.",
+   "reason": "Paragraph Annex 4 2.2.1 of UN R102 is new in version 0.1.0: 'During the test, it must be possible to travel along a straight section of the road without unusual …'.",
+   "source": {
+    "page": 14,
+    "paragraph": "Annex 4 2.2.1"
+   }
+  }
+ ]
+}

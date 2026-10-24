@@ -1,0 +1,216 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R127",
+ "changes": [
+  {
+   "requirement_id": "R-0016",
+   "change": "modified",
+   "new_text": "This procedure shall be followed, using alternative tapes of appropriate lengths, to describe wrap around distances of 1,000 mm (WAD1000), of 1,700 mm (WAD1700) and of 2,500 mm (WAD2500)1 . 1or WAD 2,100 in accordance with paragraph 11.19 to 11.21.",
+   "reason": "Paragraph 2.43 of UN R127 was amended in version 4.4.0: '11.9.' became '11.19 to 11.21.'.",
+   "source": {
+    "page": 12,
+    "paragraph": "2.43"
+   }
+  },
+  {
+   "requirement_id": "R-0051",
+   "change": "modified",
+   "new_text": "In such cases, ARHSS shall automatically return to the normal ride height when the vehicle speed exceeds 25 km/h or when the system is manually disengaged by the driver or whilst an ADS feature is performing the DDT9 .",
+   "reason": "Paragraph 5.3.1.2 of UN R127 was amended in version 4.4.0: 'driver.' became 'driver or whilst an ADS feature is performing the DDT9 .'.",
+   "source": {
+    "page": 20,
+    "paragraph": "5.3.1.2"
+   }
+  },
+  {
+   "requirement_id": "R-0067",
+   "change": "removed",
+   "reason": "Paragraph 11.1 of UN R127 was amended in version 4.4.0; the provision 'As from the official date of entry into force of the 02 series of amendments, no Contracting Party a…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0068",
+   "change": "removed",
+   "reason": "Paragraph 11.2 of UN R127 was amended in version 4.4.0; the provision 'As from 31 December 2017, Contracting Parties applying this Regulation shall grant type approvals on…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0069",
+   "change": "removed",
+   "reason": "Paragraph 11.3 of UN R127 was amended in version 4.4.0; the provision 'Contracting Parties applying this Regulation shall not refuse to grant extensions of type approvals …' no longer appears."
+  },
+  {
+   "requirement_id": "R-0070",
+   "change": "removed",
+   "reason": "Paragraph 11.4 of UN R127 was amended in version 4.4.0; the provision 'Contracting Parties applying this Regulation shall continue to accept type approvals to the original…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0071",
+   "change": "removed",
+   "reason": "Paragraph 11.5 of UN R127 was amended in version 4.4.0; the provision 'As from the official date of entry into force of the 03 series of amendments, no Contracting Party a…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0072",
+   "change": "removed",
+   "reason": "Paragraph 11.6 of UN R127 was amended in version 4.4.0; the provision 'As from 7 July 2024, Contracting Parties applying this Regulation shall not be obliged to accept typ…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0073",
+   "change": "removed",
+   "reason": "Paragraph 11.7 of UN R127 was amended in version 4.4.0; the provision 'Until 7 July 2026, Contracting Parties applying this Regulation shall accept type approvals to the p…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0074",
+   "change": "removed",
+   "reason": "Paragraph 11.8 of UN R127 was amended in version 4.4.0; the provision 'As from 7 July 2026, Contracting Parties applying this Regulation shall not be obliged to accept typ…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0075",
+   "change": "removed",
+   "reason": "Paragraph 11.9 of UN R127 was amended in version 4.4.0; the provision 'Until 1 September 2028, Contracting Parties applying this Regulation shall continue to grant type ap…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0076",
+   "change": "removed",
+   "reason": "Paragraph 11.10 of UN R127 was amended in version 4.4.0; the provision 'Until 1 September 2029, Contracting Parties applying this Regulation shall continue to accept type a…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0077",
+   "change": "removed",
+   "reason": "Paragraph 11.11 of UN R127 was amended in version 4.4.0; the provision 'As from 1 September 2029, Contracting Parties applying this Regulation shall not be obliged to accep…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0078",
+   "change": "removed",
+   "reason": "Paragraph 11.13 of UN R127 was amended in version 4.4.0; the provision 'Contracting Parties applying this Regulation shall continue to grant extensions of existing approval…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0082",
+   "change": "modified",
+   "new_text": "Contracting Parties applying this Regulation shall continue to grant type approvals using the test proceedings related to atypical windscreen fracture behaviour (see Annex 5 paragraphs 4.8. and 5.8.) until 1 September 2033 and specific provisions related to WAD 2,100 boundary (see paragraphs 2.1. and 2.45.) until 1 September 2028.",
+   "reason": "Paragraph 11.19 of UN R127 was amended in version 4.4.0: 'Until 1 September 2028,' was removed; 'UN' was removed; 'until 1 September 2033' was added; '2.45.).' became '2.45.) until 1 September 2028.'.",
+   "source": {
+    "page": 22,
+    "paragraph": "11.19"
+   }
+  },
+  {
+   "requirement_id": "R-0085",
+   "change": "modified",
+   "new_text": "Notwithstanding paragraph 11.19., until 1 September 2030, Contracting Parties applying this Regulation shall continue to grant type approvals using the specific provisions related to BRRL (see paragraph 2.1.).",
+   "reason": "Paragraph 11.22 of UN R127 was amended in version 4.4.0: 'the' was removed; 'contracting parties' became 'Contracting Parties'; 'footnote 2 in' was removed; '2.1).' became '2.1.).'.",
+   "source": {
+    "page": 22,
+    "paragraph": "11.22"
+   }
+  },
+  {
+   "requirement_id": "R-0086",
+   "change": "modified",
+   "new_text": "Notwithstanding paragraphs 11.20. and 11.21., until 1 September 2031, Contracting Parties applying this UN Regulation shall continue to accept type approvals issued using the specific provisions related to BRRL (see paragraph 2.1.).",
+   "reason": "Paragraph 11.23 of UN R127 was amended in version 4.4.0: 'the' was removed; 'contracting parties' became 'Contracting Parties'; 'footnote 2 in' was removed.",
+   "source": {
+    "page": 22,
+    "paragraph": "11.23"
+   }
+  },
+  {
+   "requirement_id": "R-0129",
+   "change": "modified",
+   "new_text": "The torque limiting joint shall be set so that the longitudinal axis of the front member is vertical at the time of impact with a tolerance of ±2°, with the joint friction torque set to a minimum of 650 Nm but no more than 850 Nm.",
+   "reason": "Paragraph Annex 4 3.5 of UN R127 was amended in version 4.4.0: '675' became 'a minimum of 650'; '± 25' became 'but no more than 850'.",
+   "source": {
+    "page": 30,
+    "paragraph": "Annex 4 3.5"
+   }
+  },
+  {
+   "requirement_id": "R-0328",
+   "change": "modified",
+   "new_text": "The torque limiting joint shall be set so that the longitudinal axis of the front member is perpendicular to the axis of the guidance system, with a tolerance of ±2°, with the joint friction torque set to a minimum of 650 Nm but no more than 850 Nm.",
+   "reason": "Paragraph Annex 6 2.4.1 of UN R127 was amended in version 4.4.0: '675' became 'a minimum of 650'; '± 25' became 'but no more than 850'.",
+   "source": {
+    "page": 46,
+    "paragraph": "Annex 6 2.4.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The approval mark shall contain an additional character after the type approval number, the purpose of which is to distinguish vehicles for which the approval has been granted based upon the specific provisions related to WAD 2,100 boundary versus vehicles approved with the extended WAD 2,500 boundary.",
+   "reason": "Paragraph 4.4.3 of UN R127 is new in version 4.4.0: 'The approval mark shall contain an additional character after the type approval number, the purpose …'.",
+   "source": {
+    "page": 18,
+    "paragraph": "4.4.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Each Contracting Party applying this Regulation shall notify and inform by its Approval Authority other Approval Authorities of the Contracting Parties applying this UN Regulation about the test results of the cowl monitoring area and the windscreen.",
+   "reason": "Paragraph 4.8 of UN R127 is new in version 4.4.0: 'Each Contracting Party applying this Regulation shall notify and inform by its Approval Authority ot…'.",
+   "source": {
+    "page": 18,
+    "paragraph": "4.8"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "This information shall be shared (a) when granting an approval according to this Regulation for the first time and (b) with each extension when new tests in these areas have been performed.",
+   "reason": "Paragraph 4.8 of UN R127 is new in version 4.4.0: 'This information shall be shared (a) when granting an approval according to this Regulation for the …'.",
+   "source": {
+    "page": 18,
+    "paragraph": "4.8"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The information referred to in paragraph 4.8. shall be uploaded in English language to the secure internet database \"DETA\"8 , established by the United Nations Economic Commission for Europe. 8 https://www.unece.org/trans/main/wp29/datasharing.html",
+   "reason": "Paragraph 4.9 of UN R127 is new in version 4.4.0: 'The information referred to in paragraph 4.8. shall be uploaded in English language to the secure in…'.",
+   "source": {
+    "page": 18,
+    "paragraph": "4.9"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Each Approval Authority granting a type approval or extension thereto pursuant to this Regulation shall notify other Approval Authorities of the approval granted.",
+   "reason": "Paragraph 4.10 of UN R127 is new in version 4.4.0: 'Each Approval Authority granting a type approval or extension thereto pursuant to this Regulation sh…'.",
+   "source": {
+    "page": 18,
+    "paragraph": "4.10"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The type approval together with the test results of the cowl monitoring area and the windscreen shall be uploaded in English language by the Approval Authority within 14 days after the day of granting the approval, to DETA.",
+   "reason": "Paragraph 4.10 of UN R127 is new in version 4.4.0: 'The type approval together with the test results of the cowl monitoring area and the windscreen shal…'.",
+   "source": {
+    "page": 18,
+    "paragraph": "4.10"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For all tests to the windscreen, resultant acceleration versus time and jerk (derivation of the resultant acceleration) versus time histories must be provided and evaluated against the atypical fracture criteria according to paragraph 2.48.",
+   "reason": "Paragraph Annex 5 4.1 of UN R127 is new in version 4.4.0: 'For all tests to the windscreen, resultant acceleration versus time and jerk (derivation of the resu…'.",
+   "source": {
+    "page": 39,
+    "paragraph": "Annex 5 4.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For all tests to the windscreen, resultant acceleration versus time and jerk (derivation of the resultant acceleration) versus time histories must be provided and evaluated against the atypical fracture criteria according to paragraph 2.48.",
+   "reason": "Paragraph Annex 5 5.1 of UN R127 is new in version 4.4.0: 'For all tests to the windscreen, resultant acceleration versus time and jerk (derivation of the resu…'.",
+   "source": {
+    "page": 41,
+    "paragraph": "Annex 5 5.1"
+   }
+  }
+ ]
+}

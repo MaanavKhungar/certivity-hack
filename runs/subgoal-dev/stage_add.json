@@ -1,0 +1,173 @@
+[
+ {
+  "key": "5.1.4",
+  "added": []
+ },
+ {
+  "key": "5.1.4.1",
+  "added": [
+   {
+    "new_text": "An ACPE intervention is not required when: (a) there is an AEBS warning or intervention occurring; or (b) the vehicle speed is greater than 10 km/h.",
+    "source_quote": "An ACPE intervention is not required when: (a) there is an AEBS warning or intervention occurring; or (b) the vehicle speed is greater than 10 km/h."
+   }
+  ]
+ },
+ {
+  "key": "5.1.5",
+  "added": [
+   {
+    "new_text": "When the triggering conditions (as outlined in paragraph 5.1.2.) are achieved, the ACPE shall limit vehicle acceleration in order to prevent or mitigate a collision with an obstacle located not more than 1.5 m in front of or behind the vehicle, in the vehicle path, provided the situation is unambiguous, i.e. also: (v) The direction of travel is straight with no curve, and the vehicle is not turning at an intersection and following its lane; (vi) The obstacle is a vehicle of category M1, or a wall-like structure with a width of at least 2.0 m and a height of at least 1.0 m or a silhouette of a pedestrian that relates to a human being; (vii) The obstacle is located at least 1.0 m from the vehicle at the time the triggering conditions (as outlined in paragraph 5.1.2.) are achieved; (viii) The vehicle is travelling at or below its maximum creeping speed in the forward direction and at or below 4 km/h in rearward direction.",
+    "source_quote": "(v) The direction of travel is straight with no curve, and the vehicle is not turning at an intersection and following its lane. (vi) The obstacle is a vehicle of category M1, or a wall-like structure with a width of at least 2.0 m and a height of at least 1.0 m or a silhouette of a pedestrian that relates to a human being. (vii) The obstacle is located at least 1.0m from the vehicle at the time the triggering conditions (as outlined in paragraph 5.1.2.) are achieved; (viii) The vehicle is travelling at or below its maximum creeping speed in the forward direction and at or below 4km/h in rearward direction3 ."
+   }
+  ]
+ },
+ {
+  "key": "5.1.6",
+  "added": []
+ },
+ {
+  "key": "5.1.6.2",
+  "added": [
+   {
+    "new_text": "While creeping, in the case a collision is not prevented, the ACPE shall reduce the effective demand of the accelerator control to zero at or before the point of collision.",
+    "source_quote": "Acceleration while creeping, In the case a collision is not prevented, the ACPE shall reduce the effective demand of the accelerator control to zero at or before the point of collision."
+   }
+  ]
+ },
+ {
+  "key": "6.3.2",
+  "added": []
+ },
+ {
+  "key": "6.4.2",
+  "added": [
+   {
+    "new_text": "The targets used for the pedestrian detection tests shall be a child articulated \"soft target\" in its resting position with the articulation switched off and shall be representative of the human attributes applicable to the sensor system of the ACPE under test according to ISO 19206-2:2018.",
+    "source_quote": "The targets used for the pedestrian detection tests shall be a child articulated \"soft target\" in its resting position with the articulation being switched off and be representative of the human attributes applicable to the sensor system of the ACPE under test according to ISO 19206-2:2018."
+   }
+  ]
+ },
+ {
+  "key": "6.5",
+  "added": []
+ },
+ {
+  "key": "6.5.1",
+  "added": [
+   {
+    "new_text": "During the test procedure, the reference point for the location of the vehicle shall be the most rearward point on the centreline of the vehicle when going rearwards, and the most forward point of the vehicle when going forwards.",
+    "source_quote": "The reference point for the location of the vehicle shall be the most rearward point on the centreline of the vehicle when going rearwards, and the most forward point of the vehicle when going forwards."
+   }
+  ]
+ },
+ {
+  "key": "6.5.2",
+  "added": []
+ },
+ {
+  "key": "6.5.3",
+  "added": [
+   {
+    "new_text": "During the test procedure, the lateral offset between the centre line of the pedestrian obstacle and the centre line of the vehicle shall not be more than 25 per cent of the vehicle width.",
+    "source_quote": "The lateral offset between the centre line of the pedestrian obstacle and the centre line of the vehicle is not more than 25 per cent of the vehicle width."
+   }
+  ]
+ },
+ {
+  "key": "6.5.4",
+  "added": [
+   {
+    "new_text": "For the test with offset of vehicle and target, the Technical Service shall determine the orientation of the pedestrian target.",
+    "source_quote": "The orientation of the pedestrian target is to be determined by the technical service."
+   }
+  ]
+ },
+ {
+  "key": "6.5.5",
+  "added": [
+   {
+    "new_text": "The orientation of the vehicle target shall be 0° or 180° respectively as defined in ISO 19206-3:2021, chosen by the Technical Service.",
+    "source_quote": "The orientation of the vehicle target shall be 0° or 180° respectively as defined in ISO 19206-3:2021, chosen by the technical service."
+   }
+  ]
+ },
+ {
+  "key": "6.6",
+  "added": []
+ },
+ {
+  "key": "6.6.1",
+  "added": []
+ },
+ {
+  "key": "6.6.1.1",
+  "added": [
+   {
+    "new_text": "For the test procedure for a stationary vehicle, each test condition according to Table 1 shall be tested with and without the presence of the target.",
+    "source_quote": "Each test condition according to Table 1 shall be tested with and without the presence of the target."
+   },
+   {
+    "new_text": "For tests without a target in the test procedure for a stationary vehicle, the ACPE shall be deactivated if necessary.",
+    "source_quote": "For tests without a target the ACPE shall be deactivated if necessary, and may be combined where feasible."
+   },
+   {
+    "new_text": "For tests without a target in the test procedure for a stationary vehicle, the tests may be combined where feasible.",
+    "source_quote": "For tests without a target the ACPE shall be deactivated if necessary, and may be combined where feasible."
+   }
+  ]
+ },
+ {
+  "key": "6.6.1.2",
+  "added": []
+ },
+ {
+  "key": "6.6.2",
+  "added": []
+ },
+ {
+  "key": "6.6.2.1",
+  "added": [
+   {
+    "new_text": "For the test procedure for a creeping vehicle, each test condition according to Table 1 shall be tested once with a starting point and a profile of the accelerator control application selected at the discretion of the Technical Service.",
+    "source_quote": "Each test condition according to Table 1 shall be tested once with a starting point and a profile of the accelerator control application selected at the discretion of the Technical Service."
+   },
+   {
+    "new_text": "For the test procedure for a creeping vehicle, the starting point and the accelerator control application profile shall be selected such that the triggering condition (as outlined in paragraph 5.1.2.) is achieved as close to the maximum creeping speed in the forward direction as reasonably practical whilst remaining at or below that speed and avoiding any AEBS warning or intervention which results in an ACPE intervention not occurring.",
+    "source_quote": "The starting point and the accelerator control application profile shall be selected such that the triggering condition (as outlined in paragraph 5.1.2.) is achieved as close to: (a) The maximum creeping speed in the forward direction, As reasonably practical whilst remaining at or below that speed and avoiding any AEBS warning or intervention which results in an ACPE intervention not occurring."
+   },
+   {
+    "new_text": "For the test procedure for a creeping vehicle, the starting point and the accelerator control application profile shall be selected such that the triggering condition (as outlined in paragraph 5.1.2.) is achieved as close to 4 km/h in the rearward direction as reasonably practical whilst remaining at or below that speed and avoiding any AEBS warning or intervention which results in an ACPE intervention not occurring.",
+    "source_quote": "The starting point and the accelerator control application profile shall be selected such that the triggering condition (as outlined in paragraph 5.1.2.) is achieved as close to: (b) 4km/h in the rearward direction, As reasonably practical whilst remaining at or below that speed and avoiding any AEBS warning or intervention which results in an ACPE intervention not occurring."
+   }
+  ]
+ },
+ {
+  "key": "6.6.2.2",
+  "added": [
+   {
+    "new_text": "The procedure for each test with a creeping vehicle shall position the vehicle at the selected starting point as determined by paragraph 6.6.2.1.",
+    "source_quote": "(a) Position the vehicle at the selected starting point as determined by paragraph 6.6.2.1."
+   },
+   {
+    "new_text": "The procedure for each test with a creeping vehicle shall hold the vehicle stationary and select the corresponding driving direction.",
+    "source_quote": "(b) Hold the vehicle stationary and select the corresponding driving direction."
+   },
+   {
+    "new_text": "The procedure for each test with a creeping vehicle shall release the braking system so that the vehicle starts creeping.",
+    "source_quote": "(c) Release the braking system so that the vehicle starts creeping."
+   },
+   {
+    "new_text": "The procedure for each test with a creeping vehicle shall operate the accelerator control in order to achieve the relevant triggering conditions (as outlined in paragraph 5.1.2.) at the point the vehicle has reached the distance to target according to Table 1.",
+    "source_quote": "(d) Operate the accelerator control in order to achieve the relevant triggering conditions (as outlined in paragraph 5.1.2.) at the point the vehicle has reached the distance to target according to Table 1."
+   },
+   {
+    "new_text": "In the case a collision is not prevented in a test with a creeping vehicle, the manufacturer shall demonstrate to the satisfaction of the technical service that the intervention complies with the requirements of paragraph 5.1.6.2.",
+    "source_quote": "(e) In the case a collision is not prevented the manufacturer shall demonstrate to the satisfaction of the technical service that the intervention complies with the requirements of paragraph 5.1.6.2."
+   }
+  ]
+ },
+ {
+  "key": "6.7",
+  "added": []
+ }
+]

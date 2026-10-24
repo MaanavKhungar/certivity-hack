@@ -1,0 +1,476 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R53",
+ "changes": [
+  {
+   "requirement_id": "R-0029",
+   "change": "modified",
+   "new_text": "In the absence of specific instructions, the height and orientation of the lamp shall be verified with the vehicle unladen and placed on a flat horizontal surface, its median longitudinal plane being vertical and the handlebars being in the position corresponding to the straight-ahead movement.",
+   "reason": "Paragraph 5.4 of UN R53 was amended in version 4.1.0: 'lamps' became 'lamp'; 'straight ahead' became 'straight-ahead'.",
+   "source": {
+    "page": 6,
+    "paragraph": "5.4"
+   }
+  },
+  {
+   "requirement_id": "R-0030",
+   "change": "modified",
+   "new_text": "The tyre pressure shall be those prescribed by the manufacturer for the particular conditions of loading required in this Regulation.",
+   "reason": "Paragraph 5.4 of UN R53 was amended in version 4.1.0: 'pressures' became 'pressure'.",
+   "source": {
+    "page": 6,
+    "paragraph": "5.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Where an AFS is fitted on the vehicle, the applicant shall submit a detailed description providing the following information:",
+   "reason": "Paragraph 3.2.8 of UN R53 is new in version 4.1.0: 'Where an AFS is fitted on the vehicle, the applicant shall submit a detailed description providing t…'.",
+   "source": {
+    "page": 4,
+    "paragraph": "3.2.8"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Where an AFS is fitted, it shall be considered equivalent to the passing-beam headlamp(s).",
+   "reason": "Paragraph 5.24 of UN R53 is new in version 4.1.0: 'Where an AFS is fitted, it shall be considered equivalent to the passing-beam headlamp(s).'.",
+   "source": {
+    "page": 11,
+    "paragraph": "5.24"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Position The AFS shall, prior to the subsequent test procedures, be set to the neutral state;",
+   "reason": "Paragraph 6.18.4 of UN R53 is new in version 4.1.0: 'Position The AFS shall, prior to the subsequent test procedures, be set to the neutral state;'.",
+   "source": {
+    "page": 32,
+    "paragraph": "6.18.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "An independent AFS installation unit may be installed above, below or to one side of another front lamp: if these lamps are one above the other the reference centre of the AFS installation unit shall be located within the median longitudinal plane of the vehicle; if these lamps are side by side their reference centre shall be symmetrical in relation to the median longitudinal plane of the vehicle.",
+   "reason": "Paragraph 6.18.4.1.1 of UN R53 is new in version 4.1.0: 'An independent AFS installation unit may be installed above, below or to one side of another front l…'.",
+   "source": {
+    "page": 32,
+    "paragraph": "6.18.4.1.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "An AFS installation unit that is reciprocally incorporated with another front lamp, shall be fitted in such a way that its reference centre lies within the median longitudinal plane of the vehicle.",
+   "reason": "Paragraph 6.18.4.1.2 of UN R53 is new in version 4.1.0: 'An AFS installation unit that is reciprocally incorporated with another front lamp, shall be fitted …'.",
+   "source": {
+    "page": 33,
+    "paragraph": "6.18.4.1.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "However, when the vehicle is also fitted with an independent driving beam headlamp, or a driving-beam headlamp that is reciprocally incorporated with a front position lamp alongside the AFS installation unit, their reference centre shall be symmetrical in relation to the median longitudinal plane of the vehicle.",
+   "reason": "Paragraph 6.18.4.1.2 of UN R53 is new in version 4.1.0: 'However, when the vehicle is also fitted with an independent driving beam headlamp, or a driving-bea…'.",
+   "source": {
+    "page": 33,
+    "paragraph": "6.18.4.1.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Two AFS installation units, of which either one or both are reciprocally incorporated with another front lamp shall be installed in such a way that their reference centres are symmetrical in relation to the median longitudinal plane of the vehicle.",
+   "reason": "Paragraph 6.18.4.1.3 of UN R53 is new in version 4.1.0: 'Two AFS installation units, of which either one or both are reciprocally incorporated with another f…'.",
+   "source": {
+    "page": 33,
+    "paragraph": "6.18.4.1.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "If installed, additional lighting unit(s) which provide bend lighting, type approved as part of the AFS according to UN Regulation No. 149, shall be installed under the following conditions:",
+   "reason": "Paragraph 6.18.4.1.4 of UN R53 is new in version 4.1.0: 'If installed, additional lighting unit(s) which provide bend lighting, type approved as part of the …'.",
+   "source": {
+    "page": 33,
+    "paragraph": "6.18.4.1.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In the case of (a) pair(s) of additional lighting units, they shall be installed so that their reference centre(s) are symmetrical in relation to the median longitudinal plane of the vehicle.",
+   "reason": "Paragraph 6.18.4.1.4 of UN R53 is new in version 4.1.0: 'In the case of (a) pair(s) of additional lighting units, they shall be installed so that their refer…'.",
+   "source": {
+    "page": 33,
+    "paragraph": "6.18.4.1.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In the case of a single additional lighting unit, its reference centre shall be coincident with the median longitudinal plane of the vehicle.",
+   "reason": "Paragraph 6.18.4.1.4 of UN R53 is new in version 4.1.0: 'In the case of a single additional lighting unit, its reference centre shall be coincident with the …'.",
+   "source": {
+    "page": 33,
+    "paragraph": "6.18.4.1.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In the case of two AFS installation units: the distance separating the illuminating surfaces of two AFS installation units must not exceed 200 mm.",
+   "reason": "Paragraph 6.18.4.1.7 of UN R53 is new in version 4.1.0: 'In the case of two AFS installation units: the distance separating the illuminating surfaces of two …'.",
+   "source": {
+    "page": 33,
+    "paragraph": "6.18.4.1.7"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The angles of geometric visibility prescribed for the respective lighting functions according to paragraph 6.2.4. of this Regulation, shall be met by at least one lighting unit that is energized to perform said function and mode(s), according to the description of the applicant.",
+   "reason": "Paragraph 6.18.5 of UN R53 is new in version 4.1.0: 'The angles of geometric visibility prescribed for the respective lighting functions according to par…'.",
+   "source": {
+    "page": 33,
+    "paragraph": "6.18.5"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Vertical orientation: the vertical inclination of the headlamp shall be set according the procedure described in the paragraphs 6.2.5.1. through 6.2.5.4. of this Regulation.",
+   "reason": "Paragraph 6.18.5.1 of UN R53 is new in version 4.1.0: 'Vertical orientation: the vertical inclination of the headlamp shall be set according the procedure …'.",
+   "source": {
+    "page": 33,
+    "paragraph": "6.18.5.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In the case where a headlamp levelling device is necessary to satisfy the requirements of paragraph 6.18.5.1., the device shall be automatic.",
+   "reason": "Paragraph 6.18.5.2.1 of UN R53 is new in version 4.1.0: 'In the case where a headlamp levelling device is necessary to satisfy the requirements of paragraph …'.",
+   "source": {
+    "page": 33,
+    "paragraph": "6.18.5.2.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In the event of a failure of this device, the passing beam shall not assume a position in which the dip is less than it was at the time when the failure of the device occurred.",
+   "reason": "Paragraph 6.18.5.2.2 of UN R53 is new in version 4.1.0: 'In the event of a failure of this device, the passing beam shall not assume a position in which the …'.",
+   "source": {
+    "page": 33,
+    "paragraph": "6.18.5.2.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "After adjustment of the initial setting of beam orientation, the vertical inclination of the passing beam or, when applicable, the vertical inclination of all different lighting units that provide or contribute to the cut-off(s) of the basic passing beam according to paragraph 6.18.5.1. above, shall be verified for all loading conditions of the vehicle in accordance with the specifications in paragraphs 6.2.5.1. to 6.2.5.4. of this regulation.",
+   "reason": "Paragraph 6.18.5.2.3 of UN R53 is new in version 4.1.0: 'After adjustment of the initial setting of beam orientation, the vertical inclination of the passing…'.",
+   "source": {
+    "page": 33,
+    "paragraph": "6.18.5.2.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In this case the requirements as specified in paragraph 6.2.5.5. and 6.2.5.6. of this Regulation shall be fulfilled.",
+   "reason": "Paragraph 6.18.5.3 of UN R53 is new in version 4.1.0: 'In this case the requirements as specified in paragraph 6.2.5.5. and 6.2.5.6. of this Regulation sha…'.",
+   "source": {
+    "page": 34,
+    "paragraph": "6.18.5.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In this case the requirement as specified in paragraph 6.2.5.7. and 6.2.5.8. of this Regulation shall be fulfilled.",
+   "reason": "Paragraph 6.18.5.4 of UN R53 is new in version 4.1.0: 'In this case the requirement as specified in paragraph 6.2.5.7. and 6.2.5.8. of this Regulation shal…'.",
+   "source": {
+    "page": 34,
+    "paragraph": "6.18.5.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "(a) The control for changing over to the passing beam shall switch OFF all main-beam headlamps simultaneously;",
+   "reason": "Paragraph 6.18.6.1 of UN R53 is new in version 4.1.0: '(a) The control for changing over to the passing beam shall switch OFF all main-beam headlamps simul…'.",
+   "source": {
+    "page": 34,
+    "paragraph": "6.18.6.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "(c) In the case of lighting units for the passing beam being discharge light sources, the gas discharge light sources shall remain switched ON during the main-beam operation.",
+   "reason": "Paragraph 6.18.6.1 of UN R53 is new in version 4.1.0: '(c) In the case of lighting units for the passing beam being discharge light sources, the gas discha…'.",
+   "source": {
+    "page": 34,
+    "paragraph": "6.18.6.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The passing-beam headlamps switching ON and OFF shall fulfil the requirements for “Electrical connection” in paragraph 5.10. and 6.2.6. of this Regulation.",
+   "reason": "Paragraph 6.18.6.2 of UN R53 is new in version 4.1.0: 'The passing-beam headlamps switching ON and OFF shall fulfil the requirements for “Electrical connec…'.",
+   "source": {
+    "page": 34,
+    "paragraph": "6.18.6.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Automatic operation of the AFS The changes within and between the provided classes and their modes of the AFS lighting functions as specified below, shall be performed automatically without causing discomfort, distraction or glare, neither for the driver nor for the other road users.",
+   "reason": "Paragraph 6.18.6.3 of UN R53 is new in version 4.1.0: 'Automatic operation of the AFS The changes within and between the provided classes and their modes o…'.",
+   "source": {
+    "page": 34,
+    "paragraph": "6.18.6.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The class C mode(s) of the passing beam shall be activated if no mode of another passing beam class is activated.",
+   "reason": "Paragraph 6.18.6.3.1 of UN R53 is new in version 4.1.0: 'The class C mode(s) of the passing beam shall be activated if no mode of another passing beam class …'.",
+   "source": {
+    "page": 34,
+    "paragraph": "6.18.6.3.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The class V mode(s) of the passing beam shall not operate unless one or more of the following conditions is/are automatically detected (V-signal applies): (a) Roads in built-up areas and the vehicle’s speed not exceeding 60 km/h;",
+   "reason": "Paragraph 6.18.6.3.2 of UN R53 is new in version 4.1.0: '(a) Roads in built-up areas and the vehicle’s speed not exceeding 60 km/h;'.",
+   "source": {
+    "page": 34,
+    "paragraph": "6.18.6.3.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The class V mode(s) of the passing beam shall not operate unless one or more of the following conditions is/are automatically detected (V-signal applies): (b) Roads equipped with a fixed illumination, and the vehicle’s speed not exceeding 60 km/h;",
+   "reason": "Paragraph 6.18.6.3.2 of UN R53 is new in version 4.1.0: '(b) Roads equipped with a fixed illumination, and the vehicle’s speed not exceeding 60 km/h;'.",
+   "source": {
+    "page": 34,
+    "paragraph": "6.18.6.3.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The class V mode(s) of the passing beam shall not operate unless one or more of the following conditions is/are automatically detected (V-signal applies): (c) A road surface illumination of 1 cd/m2 and/or a horizontal road illumination of 10 lx being exceeded continuously;",
+   "reason": "Paragraph 6.18.6.3.2 of UN R53 is new in version 4.1.0: '(c) A road surface illumination of 1 cd/m2 and/or a horizontal road illumination of 10 lx being exce…'.",
+   "source": {
+    "page": 34,
+    "paragraph": "6.18.6.3.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The class V mode(s) of the passing beam shall not operate unless one or more of the following conditions is/are automatically detected (V-signal applies): (d) The vehicle’s speed not exceeding 50 km/h.",
+   "reason": "Paragraph 6.18.6.3.2 of UN R53 is new in version 4.1.0: '(d) The vehicle’s speed not exceeding 50 km/h.'.",
+   "source": {
+    "page": 34,
+    "paragraph": "6.18.6.3.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The class E mode(s) of the passing beam shall not operate unless the vehicle’s speed exceed 60 km/h and one or more of the following conditions is /are automatically detected: (a) The road characteristics correspond to motorway conditions (1 ) or the vehicle’s speed exceeds 110 km/h (Esignal applies);",
+   "reason": "Paragraph 6.18.6.3.3 of UN R53 is new in version 4.1.0: '(a) The road characteristics correspond to motorway conditions (1 ) or the vehicle’s speed exceeds 1…'.",
+   "source": {
+    "page": 34,
+    "paragraph": "6.18.6.3.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The class E mode(s) of the passing beam shall not operate unless the vehicle’s speed exceed 60 km/h and one or more of the following conditions is /are automatically detected: (b) In case of a class E mode of the passing beam which, according to the system’s approval documents / communication sheet, complies with a “data set” of UN Regulation No. 149, Table 12 only.",
+   "reason": "Paragraph 6.18.6.3.3 of UN R53 is new in version 4.1.0: '(b) In case of a class E mode of the passing beam which, according to the system’s approval document…'.",
+   "source": {
+    "page": 34,
+    "paragraph": "6.18.6.3.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The class W-mode(s) of the passing beam shall not operate unless the front fog lamp, if any, are switched OFF and the wetness of the road has been automatically detected (W-signal applies).",
+   "reason": "Paragraph 6.18.6.3.4 of UN R53 is new in version 4.1.0: 'The class W-mode(s) of the passing beam shall not operate unless the front fog lamp, if any, are swi…'.",
+   "source": {
+    "page": 34,
+    "paragraph": "6.18.6.3.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "It shall always be possible for the driver to set the AFS to the neutral state and to return it to its automatic operation.",
+   "reason": "Paragraph 6.18.6.4 of UN R53 is new in version 4.1.0: 'It shall always be possible for the driver to set the AFS to the neutral state and to return it to i…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "6.18.6.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "It shall be activated whenever a failure is detected with respect to the AFS control signals or when a failure signal is received in accordance with paragraph 4.13. of UN Regulation No. 149.",
+   "reason": "Paragraph 6.18.7.2 of UN R53 is new in version 4.1.0: 'It shall be activated whenever a failure is detected with respect to the AFS control signals or when…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "6.18.7.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "It shall remain activated while the failure is present.",
+   "reason": "Paragraph 6.18.7.2 of UN R53 is new in version 4.1.0: 'It shall remain activated while the failure is present.'.",
+   "source": {
+    "page": 35,
+    "paragraph": "6.18.7.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "It may be cancelled temporarily but shall be repeated whenever the device which starts and stop the propulsion system is switched ON and OFF.",
+   "reason": "Paragraph 6.18.7.2 of UN R53 is new in version 4.1.0: 'It may be cancelled temporarily but shall be repeated whenever the device which starts and stop the …'.",
+   "source": {
+    "page": 35,
+    "paragraph": "6.18.7.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The applicant shall demonstrate with _a concise description_ or other means acceptable to the Type Approval Authority: (a) The correspondence of the AFS control signals (i) To the description required in paragraph 3.2.8. of this Regulation; and (ii) To the respective AFS control signals specified in the AFS type approval documents; and (b) Compliance with the automatic operating requirements according to paragraph 6.18.6.3.1. through 6.18.6.3.4. above.",
+   "reason": "Paragraph 6.18.8.1.1 of UN R53 is new in version 4.1.0: '(a) The correspondence of the AFS control signals (i) To the description required in paragraph 3.2.8…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "6.18.8.1.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "To verify, whether, according to the paragraph 6.18.6.3., the AFS automatic operation of the passingbeam functions does not cause any discomfort, the technical service shall perform a test drive which comprises any situation relevant to the system control on the basis of the applicants description; it shall be notified whether all modes are activated, performing and de-activated according to the applicant’s description; obvious malfunctioning, if any, shall be contested (e.g. excessive angular movement or flicker).",
+   "reason": "Paragraph 6.18.8.1.2 of UN R53 is new in version 4.1.0: 'To verify, whether, according to the paragraph 6.18.6.3., the AFS automatic operation of the passing…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "6.18.8.1.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The overall performance of the automatic control shall be demonstrated by the applicant by documentation or by other means acceptable by the Type Approval Authority.",
+   "reason": "Paragraph 6.18.8.1.3 of UN R53 is new in version 4.1.0: 'The overall performance of the automatic control shall be demonstrated by the applicant by documenta…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "6.18.8.1.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Furthermore, the manufacturer shall provide a documentation package which gives access to the design of “safety concept” of the system.",
+   "reason": "Paragraph 6.18.8.1.3 of UN R53 is new in version 4.1.0: 'Furthermore, the manufacturer shall provide a documentation package which gives access to the design…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "6.18.8.1.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "This description shall also give a simple explanation of all the control functions of the “system” and the methods employed to achieve the objectives, including a statement of the mechanism(s) by which control is exercised.",
+   "reason": "Paragraph 6.18.8.1.3 of UN R53 is new in version 4.1.0: 'This description shall also give a simple explanation of all the control functions of the “system” a…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "6.18.8.1.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "A list of all input and sensed variables shall be provided and the working range of these shall be defined.",
+   "reason": "Paragraph 6.18.8.1.3 of UN R53 is new in version 4.1.0: 'A list of all input and sensed variables shall be provided and the working range of these shall be d…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "6.18.8.1.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The possibility of a fallback to the basic passing beam (class C) function shall be a part of the safety concept.",
+   "reason": "Paragraph 6.18.8.1.3 of UN R53 is new in version 4.1.0: 'The possibility of a fallback to the basic passing beam (class C) function shall be a part of the sa…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "6.18.8.1.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The function of the system and the safety concept, as laid down by the manufacturer, shall be explained.",
+   "reason": "Paragraph 6.18.8.1.3 of UN R53 is new in version 4.1.0: 'The function of the system and the safety concept, as laid down by the manufacturer, shall be explai…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "6.18.8.1.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The documentation shall be brief, yet provide evidence that the design and development has had the benefit of expertise from all the system fields which are involved.",
+   "reason": "Paragraph 6.18.8.1.3 of UN R53 is new in version 4.1.0: 'The documentation shall be brief, yet provide evidence that the design and development has had the b…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "6.18.8.1.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For periodic technical inspections, the documentation shall describe how the current operational status of the “system” can be checked.",
+   "reason": "Paragraph 6.18.8.1.3 of UN R53 is new in version 4.1.0: 'For periodic technical inspections, the documentation shall describe how the current operational sta…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "6.18.8.1.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For type approval purposes this documentation shall be taken as the basis reference for the verification process.",
+   "reason": "Paragraph 6.18.8.1.3 of UN R53 is new in version 4.1.0: 'For type approval purposes this documentation shall be taken as the basis reference for the verifica…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "6.18.8.1.3"
+   }
+  }
+ ]
+}

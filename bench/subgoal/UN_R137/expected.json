@@ -1,0 +1,326 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R137",
+ "changes": [
+  {
+   "requirement_id": "R-0048",
+   "change": "modified",
+   "new_text": "In the case of automatically activated door locking systems which are installed optionally and/or which can be de-activated by the driver or by the ADS, this requirement shall be verified by using one of the following 2 test procedures, at the choice of the manufacturer:",
+   "reason": "Paragraph 5.2.3.1 of UN R137 was amended in version 4.1.0: 'driver,' became 'driver or by the ADS,'.",
+   "source": {
+    "page": 8,
+    "paragraph": "5.2.3.1"
+   }
+  },
+  {
+   "requirement_id": "R-0052",
+   "change": "modified",
+   "new_text": "In the case of vehicles equipped with automatically activated door locking systems which are installed optionally and/or which can be de-activated by the driver or by the ADS, this requirement shall be verified by using one of the following 2 test procedures, at the choice of the manufacturer:",
+   "reason": "Paragraph 5.2.4.2 of UN R137 was amended in version 4.1.0: 'driver,' became 'driver or by the ADS,'.",
+   "source": {
+    "page": 8,
+    "paragraph": "5.2.4.2"
+   }
+  },
+  {
+   "requirement_id": "R-0090",
+   "change": "modified",
+   "new_text": "For a vehicle fitted with airbag assemblies intended to protect occupants, compliance with paragraphs 8.1.8. to 8.1.9. of UN Regulation No. 16 as amended by the 08 series of amendments, or with paragraphs 8.1.9. to 8.1.10. of UN Regulation No. 16 as amended by the 09 series of amendments or with paragraphs 5.1.9. to 5.1.10. of UN Regulation No. 173 original series, shall be demonstrated as from 1 September 2020 for new vehicle types.",
+   "reason": "Paragraph 6.1 of UN R137 was amended in version 4.1.0: 'the driver and occupants other than the driver,' became 'occupants,'; 'Series' became 'series of amendments, or with paragraphs 8.1.9. to 8.1.10. of UN Regulation No. 16 as amended by the 09 series'; 'or with paragraphs 5.1.9. to 5.1.10. of UN Regulation No. 173 original series,' was added.",
+   "source": {
+    "page": 11,
+    "paragraph": "6.1"
+   }
+  },
+  {
+   "requirement_id": "R-0139",
+   "change": "modified",
+   "new_text": "In the case of vehicles equipped with an automatically activated door locking system that is installed optionally and/or which can be de-activated by the driver or by the ADS, one of the following two procedures shall be used at the choice of the manufacturer:",
+   "reason": "Paragraph Annex 3 1.4.3.5.2 of UN R137 was amended in version 4.1.0: 'driver,' became 'driver or by the ADS,'.",
+   "source": {
+    "page": 17,
+    "paragraph": "Annex 3 1.4.3.5.2"
+   }
+  },
+  {
+   "requirement_id": "R-0142",
+   "change": "modified",
+   "new_text": "The side doors on one side shall be unlocked and the system overridden for these doors; for the side doors on the other vehicle side, the system may be activated in order to lock these doors automatically before the moment of impact.",
+   "reason": "Paragraph Annex 3 1.4.3.5.2.2 of UN R137 was amended in version 4.1.0: 'the driver' became 'one'; 'passenger' became 'other vehicle'.",
+   "source": {
+    "page": 17,
+    "paragraph": "Annex 3 1.4.3.5.2.2"
+   }
+  },
+  {
+   "requirement_id": "R-0150",
+   "change": "modified",
+   "new_text": "Position of front seats Seats adjustable longitudinally shall be placed so that their \"H\" point, determined in accordance with the procedure set out in annex 6 is in the middle position of travel or in the nearest locking position thereto, and at the height position defined by the manufacturer (if independently adjustable for height).",
+   "reason": "Paragraph Annex 3 1.4.3.11.1 of UN R137 was amended in version 4.1.0: 'driver seat' became 'seats'; 'Annex' became 'annex'.",
+   "source": {
+    "page": 17,
+    "paragraph": "Annex 3 1.4.3.11.1"
+   }
+  },
+  {
+   "requirement_id": "R-0167",
+   "change": "modified",
+   "new_text": "A dummy corresponding to the specifications for Hybrid III fifth percentile female dummy1 meeting the specifications for its adjustment shall be installed in the front passenger seat in accordance with the conditions set out in Annex 5.",
+   "reason": "Paragraph Annex 3 2.1.1 of UN R137 was amended in version 4.1.0: 'front' was added; '1The Working Party on Passive Safety (GRSP) of UNECE intends to prepare an addendum for the Mutual Resolution M.R.1 on frontal impact dummies.' was removed.",
+   "source": {
+    "page": 19,
+    "paragraph": "Annex 3 2.1.1"
+   }
+  },
+  {
+   "requirement_id": "R-0232",
+   "change": "modified",
+   "new_text": "The foot shall be moved inward or outward while the separation distance between the knees is kept constant. <!-- Start of picture text --> Figure (a) Figure (b) Figure (c) Figure (d) <!-- End of picture text -->",
+   "reason": "Paragraph Annex 5 3.6.1 of UN R137 was amended in version 4.1.0: '[figure not available]' was removed.",
+   "source": {
+    "page": 26,
+    "paragraph": "Annex 5 3.6.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles of category X, the \"R\" point of the most forward outboard passenger seat shall be taken instead of the R-point of the driver's seat;",
+   "reason": "Paragraph 2.4 of UN R137 is new in version 4.1.0: 'For vehicles of category X, the \"R\" point of the most forward outboard passenger seat shall be taken…'.",
+   "source": {
+    "page": 2,
+    "paragraph": "2.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "(a) where the vehicle is equipped to be driven for right hand traffic, the Hybrid III fiftieth percentile male dummy shall be installed on the left front outboard position and the Hybrid III fifth percentile female dummy on the right front outboard position.",
+   "reason": "Paragraph 5.2 of UN R137 is new in version 4.1.0: '(a) where the vehicle is equipped to be driven for right hand traffic, the Hybrid III fiftieth perce…'.",
+   "source": {
+    "page": 6,
+    "paragraph": "5.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "(b) where the vehicle is equipped to be driven for left hand traffic, the Hybrid III fiftieth percentile male dummy shall be installed on the right front outboard position and the Hybrid III fifth percentile female dummy on the left front outboard position.",
+   "reason": "Paragraph 5.2 of UN R137 is new in version 4.1.0: '(b) where the vehicle is equipped to be driven for left hand traffic, the Hybrid III fiftieth percen…'.",
+   "source": {
+    "page": 6,
+    "paragraph": "5.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles of category X, the \"H\" point of the most forward outboard passenger’s place shall be taken instead of the H-point of the driver's place.",
+   "reason": "Paragraph Annex 3 1.4.3.11.1 of UN R137 is new in version 4.1.0: 'For vehicles of category X, the \"H\" point of the most forward outboard passenger’s place shall be ta…'.",
+   "source": {
+    "page": 17,
+    "paragraph": "Annex 3 1.4.3.11.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "(a) where the vehicle is equipped to be driven in right hand traffic, the Hybrid III fiftieth percentile male dummy shall be installed on the left front outboard position and the Hybrid III fifth percentile female dummy on the right front outboard position.",
+   "reason": "Paragraph Annex 3 2.1.1 of UN R137 is new in version 4.1.0: '(a) where the vehicle is equipped to be driven in right hand traffic, the Hybrid III fiftieth percen…'.",
+   "source": {
+    "page": 19,
+    "paragraph": "Annex 3 2.1.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "(b) where the vehicle is equipped to be driven in left hand traffic, the Hybrid III fiftieth percentile male dummy shall be installed on the right front outboard position and the Hybrid III fifth percentile female dummy on the left front outboard position. 1The Working Party on Passive Safety (GRSP) of UNECE intends to prepare an addendum for the Mutual Resolution M.R.1 on frontal impact dummies.",
+   "reason": "Paragraph Annex 3 2.1.1 of UN R137 is new in version 4.1.0: '(b) where the vehicle is equipped to be driven in left hand traffic, the Hybrid III fiftieth percent…'.",
+   "source": {
+    "page": 19,
+    "paragraph": "Annex 3 2.1.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Outer passengers for vehicles of category X For vehicles of category X, the plane of symmetry of the dummies shall be vertical and parallel to the vehicle's longitudinal centreline using the Y-coordinate of the R-points as defined by the manufacturer.",
+   "reason": "Paragraph Annex 5 1.2.3 of UN R137 is new in version 4.1.0: 'Outer passengers for vehicles of category X For vehicles of category X, the plane of symmetry of the…'.",
+   "source": {
+    "page": 22,
+    "paragraph": "Annex 5 1.2.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "If the seating position is determined by the shape of the bench, such seat shall be regarded as a separate seat.",
+   "reason": "Paragraph Annex 5 1.2.3 of UN R137 is new in version 4.1.0: 'If the seating position is determined by the shape of the bench, such seat shall be regarded as a se…'.",
+   "source": {
+    "page": 22,
+    "paragraph": "Annex 5 1.2.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "(a) where the vehicle is equipped to be driven in right hand traffic, the Hybrid III fiftieth percentile male dummy shall be installed on the left front outboard position.",
+   "reason": "Paragraph Annex 5 2 of UN R137 is new in version 4.1.0: '(a) where the vehicle is equipped to be driven in right hand traffic, the Hybrid III fiftieth percen…'.",
+   "source": {
+    "page": 22,
+    "paragraph": "Annex 5 2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "(b) where the vehicle is equipped to be driven in left hand traffic, the Hybrid III fiftieth percentile male dummy shall be installed on the right front outboard position.",
+   "reason": "Paragraph Annex 5 2 of UN R137 is new in version 4.1.0: '(b) where the vehicle is equipped to be driven in left hand traffic, the Hybrid III fiftieth percent…'.",
+   "source": {
+    "page": 22,
+    "paragraph": "Annex 5 2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles of category X, the dummy's upper arms shall be in contact with the seat back and the sides of the torso.",
+   "reason": "Paragraph Annex 5 2.2.2 of UN R137 is new in version 4.1.0: 'For vehicles of category X, the dummy's upper arms shall be in contact with the seat back and the si…'.",
+   "source": {
+    "page": 23,
+    "paragraph": "Annex 5 2.2.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles of category X, the palms of the test dummy shall be in contact with outside of thigh.",
+   "reason": "Paragraph Annex 5 2.3.2 of UN R137 is new in version 4.1.0: 'For vehicles of category X, the palms of the test dummy shall be in contact with outside of thigh.'.",
+   "source": {
+    "page": 23,
+    "paragraph": "Annex 5 2.3.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The little finger shall be in contact with the seat cushion.",
+   "reason": "Paragraph Annex 5 2.3.2 of UN R137 is new in version 4.1.0: 'The little finger shall be in contact with the seat cushion.'.",
+   "source": {
+    "page": 23,
+    "paragraph": "Annex 5 2.3.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles of category X, the midsagittal plane of the dummy shall be vertical and parallel to the vehicle's longitudinal centreline using the Y-coordinate of the R-point as defined by the manufacturer.",
+   "reason": "Paragraph Annex 5 2.4.1 of UN R137 is new in version 4.1.0: 'For vehicles of category X, the midsagittal plane of the dummy shall be vertical and parallel to the…'.",
+   "source": {
+    "page": 23,
+    "paragraph": "Annex 5 2.4.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles of category X, the midsagittal plane of the dummy shall be vertical and shall coincide with the longitudinal centreline of the individual seat.",
+   "reason": "Paragraph Annex 5 2.4.2 of UN R137 is new in version 4.1.0: 'For vehicles of category X, the midsagittal plane of the dummy shall be vertical and shall coincide …'.",
+   "source": {
+    "page": 23,
+    "paragraph": "Annex 5 2.4.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles of category X, the upper legs of the test dummy shall rest against the seat cushion to the extent permitted by placement of the feet.",
+   "reason": "Paragraph Annex 5 2.5 of UN R137 is new in version 4.1.0: 'For vehicles of category X, the upper legs of the test dummy shall rest against the seat cushion to …'.",
+   "source": {
+    "page": 24,
+    "paragraph": "Annex 5 2.5"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The initial distance between the outboard knee clevis flange surfaces shall be 270 mm ± 10 mm.",
+   "reason": "Paragraph Annex 5 2.5 of UN R137 is new in version 4.1.0: 'The initial distance between the outboard knee clevis flange surfaces shall be 270 mm ± 10 mm.'.",
+   "source": {
+    "page": 24,
+    "paragraph": "Annex 5 2.5"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "To the extent practicable, both legs of the test dummy shall be in vertical longitudinal planes.",
+   "reason": "Paragraph Annex 5 2.5 of UN R137 is new in version 4.1.0: 'To the extent practicable, both legs of the test dummy shall be in vertical longitudinal planes.'.",
+   "source": {
+    "page": 24,
+    "paragraph": "Annex 5 2.5"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles of category X, the heels of both feet of the test dummy shall be placed as far forward as possible and shall rest on the floor pan.",
+   "reason": "Paragraph Annex 5 2.6.2 of UN R137 is new in version 4.1.0: 'For vehicles of category X, the heels of both feet of the test dummy shall be placed as far forward …'.",
+   "source": {
+    "page": 24,
+    "paragraph": "Annex 5 2.6.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Both feet shall be positioned as flat as possible on the toe board.",
+   "reason": "Paragraph Annex 5 2.6.2 of UN R137 is new in version 4.1.0: 'Both feet shall be positioned as flat as possible on the toe board.'.",
+   "source": {
+    "page": 24,
+    "paragraph": "Annex 5 2.6.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The longitudinal centreline of the feet shall be placed as parallel as possible to the longitudinal centreline of the vehicle.",
+   "reason": "Paragraph Annex 5 2.6.2 of UN R137 is new in version 4.1.0: 'The longitudinal centreline of the feet shall be placed as parallel as possible to the longitudinal …'.",
+   "source": {
+    "page": 24,
+    "paragraph": "Annex 5 2.6.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "(a) where the vehicle is equipped to be driven in right hand traffic, the Hybrid III fifth percentile female dummy shall be on the right front outboard position.",
+   "reason": "Paragraph Annex 5 3 of UN R137 is new in version 4.1.0: '(a) where the vehicle is equipped to be driven in right hand traffic, the Hybrid III fifth percentil…'.",
+   "source": {
+    "page": 24,
+    "paragraph": "Annex 5 3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "(b) where the vehicle is equipped to be driven in left hand traffic, the Hybrid III fifth percentile female dummy shall be on the left front outboard position.",
+   "reason": "Paragraph Annex 5 3 of UN R137 is new in version 4.1.0: '(b) where the vehicle is equipped to be driven in left hand traffic, the Hybrid III fifth percentile…'.",
+   "source": {
+    "page": 24,
+    "paragraph": "Annex 5 3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles of category X, the midsagittal plane of the Hybrid III fifth percentile female dummy shall be vertical and parallel to the vehicle's longitudinal centreline and the same distance from the vehicle's longitudinal centreline as the midsagittal plane of the Hybrid III fiftieth percentile male dummy.",
+   "reason": "Paragraph Annex 5 3.4.1 of UN R137 is new in version 4.1.0: 'For vehicles of category X, the midsagittal plane of the Hybrid III fifth percentile female dummy sh…'.",
+   "source": {
+    "page": 26,
+    "paragraph": "Annex 5 3.4.1"
+   }
+  }
+ ]
+}

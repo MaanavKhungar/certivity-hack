@@ -1,0 +1,91 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R131",
+ "changes": [
+  {
+   "requirement_id": "R-0005",
+   "change": "removed",
+   "reason": "Paragraph 1 of UN R131 was amended in version 2.4.0; the provision 'For vehicles of category M2, and for those of category M3/N2 with a maximum weight below or equal to…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0014",
+   "change": "modified",
+   "new_text": "An approval number shall be assigned to each type approved; its first two digits (at present 02, corresponding to the 02 series of amendments) shall indicate the series of amendments incorporating the most recent major technical amendments made to the Regulation at the time of issue of the approval.",
+   "reason": "Paragraph 4.2 of UN R131 was amended in version 2.4.0: '(02' became '(at present 02,'.",
+   "source": {
+    "page": 4,
+    "paragraph": "4.2"
+   }
+  },
+  {
+   "requirement_id": "R-0016",
+   "change": "modified",
+   "new_text": "Notice of approval or of refusal or withdrawal of approval pursuant to this Regulation shall be communicated to the Parties to the Agreement which apply this Regulation by means of a form conforming to the model in Annex 1 and documentation supplied by the applicant being in a format not exceeding A4 (210 x 297 mm), or folded to that format, and on an appropriate scale or electronic format.",
+   "reason": "Paragraph 4.3 of UN R131 was amended in version 2.4.0: 'Contracting' was removed; '× 297mm),' became 'x 297 mm),'.",
+   "source": {
+    "page": 4,
+    "paragraph": "4.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "As an alternative at the request of the manufacturer, for vehicles of Category M2, and for those of Category M3 / N2 with a maximum mass below or equal to 8,000 kg, not equipped with a pneumatic braking system, approval shall be granted if the vehicle type meets the requirements of paragraph 5. of the 02 or later series of amendments to UN Regulation No. 152, subject to the conditions in the following sub-paragraphs.",
+   "reason": "Paragraph 4.1.1 of UN R131 is new in version 2.4.0: 'As an alternative at the request of the manufacturer, for vehicles of Category M2, and for those of …'.",
+   "source": {
+    "page": 4,
+    "paragraph": "4.1.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For the requirements of paragraph 5.1.7. of UN Regulation No. 152, the requirements of paragraph 5.1.7. of this Regulation shall apply.",
+   "reason": "Paragraph 4.1.1.1 of UN R131 is new in version 2.4.0: 'For the requirements of paragraph 5.1.7. of UN Regulation No. 152, the requirements of paragraph 5.1…'.",
+   "source": {
+    "page": 4,
+    "paragraph": "4.1.1.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles of category M2 and M3, the performance requirements in paragraph 5.2. of UN Regulation No. 152 corresponding to M1 category vehicles shall apply.",
+   "reason": "Paragraph 4.1.1.2 of UN R131 is new in version 2.4.0: 'For vehicles of category M2 and M3, the performance requirements in paragraph 5.2. of UN Regulation …'.",
+   "source": {
+    "page": 4,
+    "paragraph": "4.1.1.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles of category N2, the performance requirements in paragraph 5.2. of UN Regulation No. 152 corresponding to N1 category vehicles shall apply.",
+   "reason": "Paragraph 4.1.1.3 of UN R131 is new in version 2.4.0: 'For vehicles of category N2, the performance requirements in paragraph 5.2. of UN Regulation No. 152…'.",
+   "source": {
+    "page": 4,
+    "paragraph": "4.1.1.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The AEBS shall be deactivated upon activation of an ADS feature, and shall not be able to be activated whilst an ADS feature is active.",
+   "reason": "Paragraph 5.4.5.1 of UN R131 is new in version 2.4.0: 'The AEBS shall be deactivated upon activation of an ADS feature, and shall not be able to be activat…'.",
+   "source": {
+    "page": 11,
+    "paragraph": "5.4.5.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The AEBS shall be automatically reactivated upon deactivation of an ADS feature.",
+   "reason": "Paragraph 5.4.5.2 of UN R131 is new in version 2.4.0: 'The AEBS shall be automatically reactivated upon deactivation of an ADS feature.'.",
+   "source": {
+    "page": 11,
+    "paragraph": "5.4.5.2"
+   }
+  }
+ ]
+}

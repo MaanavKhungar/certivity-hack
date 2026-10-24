@@ -1,0 +1,156 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R89",
+ "changes": [
+  {
+   "requirement_id": "R-0020",
+   "change": "modified",
+   "new_text": "No malfunction or unauthorised interference shall result in an increase in engine power above that demanded by the driver or ADS.",
+   "reason": "Paragraph 5.1.6 of UN R89 was amended in version 0.4.0: 'unauthorized' became 'unauthorised'; 'position of the driver's accelerator.' became 'driver or ADS.'.",
+   "source": {
+    "page": 4,
+    "paragraph": "5.1.6"
+   }
+  },
+  {
+   "requirement_id": "R-0021",
+   "change": "modified",
+   "new_text": "The speed limitation function shall be obtained regardless of the accelerator control used if there is more than one such control which may be reached from the driver's seating position, or regardless of any form of demand by the ADS.",
+   "reason": "Paragraph 5.1.7 of UN R89 was amended in version 0.4.0: 'driver’s' became 'driver's'; 'position.' became 'position, or regardless of any form of demand by the ADS.'.",
+   "source": {
+    "page": 4,
+    "paragraph": "5.1.7"
+   }
+  },
+  {
+   "requirement_id": "R-0037",
+   "change": "modified",
+   "new_text": "When the ASLF is activated the initial setting of Vadj shall not be less than the current vehicle speed.",
+   "reason": "Paragraph 5.2.7.3 of UN R89 was amended in version 0.4.0: '5.3. <u>Tests</u>' was removed.",
+   "source": {
+    "page": 6,
+    "paragraph": "5.2.7.3"
+   }
+  },
+  {
+   "requirement_id": "R-0070",
+   "change": "modified",
+   "new_text": "The speed limitation function shall be obtained regardless of the accelerator control used if there is more than one such control which may be reached from the driver's seating position, or regardless of any form of demand by the ADS.",
+   "reason": "Paragraph 13.1.3 of UN R89 was amended in version 0.4.0: 'driver’s' became 'driver's'; 'position.' became 'position, or regardless of any form of demand by the ADS.'.",
+   "source": {
+    "page": 9,
+    "paragraph": "13.1.3"
+   }
+  },
+  {
+   "requirement_id": "R-0102",
+   "change": "modified",
+   "new_text": "No malfunction or unauthorised interference shall result in an increase in engine power above that demanded by the driver or ADS.",
+   "reason": "Paragraph 21.1.6 of UN R89 was amended in version 0.4.0: 'unauthorized' became 'unauthorised'; 'position of the driver’s accelerator.' became 'driver or ADS.'.",
+   "source": {
+    "page": 12,
+    "paragraph": "21.1.6"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Such an SLF shall be considered to fulfil the requirements of paragraphs 5.1. and 5.3. of this regulation if the ADS complies with the requirements of UN Regulation No. [ADS] according to its original version or later series of amendments, including verification of this maximum speed.",
+   "reason": "Paragraph 5.1.11 of UN R89 is new in version 0.4.0: 'Such an SLF shall be considered to fulfil the requirements of paragraphs 5.1. and 5.3. of this regul…'.",
+   "source": {
+    "page": 4,
+    "paragraph": "5.1.11"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The ASLF shall be deactivated upon activation of an ADS feature, and shall not be able to be activated whilst an ADS feature is active. 5.3. <u>Tests</u>",
+   "reason": "Paragraph 5.2.7.4 of UN R89 is new in version 0.4.0: 'The ASLF shall be deactivated upon activation of an ADS feature, and shall not be able to be activat…'.",
+   "source": {
+    "page": 6,
+    "paragraph": "5.2.7.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The ASLD shall be deactivated upon activation of an ADS feature, and shall not be able to be activated whilst an ADS feature is active. 21.3. <u>Tests</u>",
+   "reason": "Paragraph 21.2.7.4 of UN R89 is new in version 0.4.0: 'The ASLD shall be deactivated upon activation of an ADS feature, and shall not be able to be activat…'.",
+   "source": {
+    "page": 13,
+    "paragraph": "21.2.7.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles of Categories X and Y, all tests in this annex shall be conducted, and all respective requirements shall be fulfilled.",
+   "reason": "Paragraph Annex 5 1 of UN R89 is new in version 0.4.0: 'For vehicles of Categories X and Y, all tests in this annex shall be conducted, and all respective r…'.",
+   "source": {
+    "page": 20,
+    "paragraph": "Annex 5 1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In the absence of manual driving controls, tests shall be conducted using dedicated activation methods, which may include: (a) A test mode allowing to manually control or trigger the acceleration functions, or (b) Any other method subject to agreement between the vehicle manufacturer and the technical service, ensuring that the evaluation accurately reflects real-world ADS performance.",
+   "reason": "Paragraph Annex 5 1 of UN R89 is new in version 0.4.0: '(a) A test mode allowing to manually control or trigger the acceleration functions, or (b) Any other…'.",
+   "source": {
+    "page": 20,
+    "paragraph": "Annex 5 1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Wherever this annex details a manual control being actuated or an action being applied on it, that shall be understood as an acceleration demand being made through the selected activation method above.",
+   "reason": "Paragraph Annex 5 1 of UN R89 is new in version 0.4.0: 'Wherever this annex details a manual control being actuated or an action being applied on it, that s…'.",
+   "source": {
+    "page": 20,
+    "paragraph": "Annex 5 1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The manufacturer shall demonstrate that the test activation method accurately replicates ADS performance, and a detailed description of the method used shall be included in the test report.",
+   "reason": "Paragraph Annex 5 1 of UN R89 is new in version 0.4.0: 'The manufacturer shall demonstrate that the test activation method accurately replicates ADS perform…'.",
+   "source": {
+    "page": 20,
+    "paragraph": "Annex 5 1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The acceleration demand made shall be recorded in the test report alongside the results of each test.",
+   "reason": "Paragraph Annex 5 1 of UN R89 is new in version 0.4.0: 'The acceleration demand made shall be recorded in the test report alongside the results of each test…'.",
+   "source": {
+    "page": 20,
+    "paragraph": "Annex 5 1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles equipped with an ADS, other than those of Categories X and Y, the tests in this annex shall be performed at least in the manual driving mode.",
+   "reason": "Paragraph Annex 5 1 of UN R89 is new in version 0.4.0: 'For vehicles equipped with an ADS, other than those of Categories X and Y, the tests in this annex s…'.",
+   "source": {
+    "page": 20,
+    "paragraph": "Annex 5 1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "However, testing to verify this shall be performed at the request of the technical service.",
+   "reason": "Paragraph Annex 5 1 of UN R89 is new in version 0.4.0: 'However, testing to verify this shall be performed at the request of the technical service.'.",
+   "source": {
+    "page": 20,
+    "paragraph": "Annex 5 1"
+   }
+  }
+ ]
+}

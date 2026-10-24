@@ -1,0 +1,656 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R107",
+ "changes": [
+  {
+   "requirement_id": "R-0088",
+   "change": "removed",
+   "reason": "Paragraph Annex 1 Appendix 1 5.10 of UN R107 was amended in version 11.2.0; the provision '(b) If the means of identification of type contains characters not relevant to describe the vehicle,…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0109",
+   "change": "modified",
+   "new_text": "Space shall be provided in the frontal area of the passenger compartment, in a position clearly visible to the driver or a crew member in his seating position, for the markings provided for in paragraph 3.3. of Annex 11.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: 'driver’s area,' became 'frontal area of the passenger compartment,'; 'or a crew member' was added; '7.2.3.2.' was removed.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0155",
+   "change": "modified",
+   "new_text": "The battery compartment shall be separated from the passenger compartment and driver’s compartment (if fitted) and ventilated to outside air. 7.5.3.3.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: '(if fitted)' was added.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0157",
+   "change": "modified",
+   "new_text": "Space shall be provided for the fitting of one or more fire extinguishers.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: 'extinguishers, one being near the driver’s seat.' became 'extinguishers.'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0190",
+   "change": "modified",
+   "new_text": "A driver’s door (if applicable) in a compartment protected by such a barrier shall not be counted as an exit for passengers. 7.6.1.11.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: '(if applicable)' was added.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0240",
+   "change": "modified",
+   "new_text": "This shall not apply to controls located within the driver’s area (if fitted). 7.6.4.3.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: 'area.' became 'area (if fitted).'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0250",
+   "change": "modified",
+   "new_text": "In the case of vehicles having a capacity not exceeding 23 occupants, the service doors of which are in the rear face of the vehicle, the leaves shall not be capable of being opened more than 115° nor less than 85° and, when open, shall be capable of being held automatically in that position.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: '22 passengers,' became '23 occupants,'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0254",
+   "change": "modified",
+   "new_text": "A warning shall be provided to the driver (if applicable) indicating that the overnight locking system remains in operation at one or more door(s) when the ignition is in the \"ON\" position.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: '(if applicable)' was added.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0256",
+   "change": "modified",
+   "new_text": "May be protected by a device which can be easily removed or broken to gain access to the emergency control; the operation of the emergency control, or the removal of a protective cover over the control, shall be indicated to the driver both audibly and visually and/or sent as a logic signal to the ADS, and 7.6.5.1.8.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: 'visually,' became 'visually and/or sent as a logic signal to the ADS,'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0257",
+   "change": "modified",
+   "new_text": "In the case of a driver-operated door which does not comply with the requirements of paragraph 7.6.5.6.2., shall be such that after they have been operated to open the door and returned to their normal position, the door will not close again until the driver subsequently operates a closing control. 7.6.5.1.9.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: '7.6.5.6.2. above,' became '7.6.5.6.2.,'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0260",
+   "change": "modified",
+   "new_text": "Subsequently, deactivation of the outside emergency controls shall not occur automatically, but shall require a further action by the driver or shall be capable of being controlled by the ADS. 7.6.5.3.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: 'driver.' became 'driver or shall be capable of being controlled by the ADS.'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0279",
+   "change": "modified",
+   "new_text": "Activation of the opening controls shall be indicated inside and, where a door is to be opened from outside, also on the outside of the vehicle; the indicator (e.g. illuminated push-button, illuminated sign) shall be on or adjacent to the door to which it relates. 7.6.6.1.4.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: 'by the driver' was removed.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0282",
+   "change": "modified",
+   "new_text": "After activation of the opening controls it shall be possible for passengers to open the door as follows: 7.6.6.2.1.1.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: 'by the driver' was removed.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0286",
+   "change": "modified",
+   "new_text": "A door that has closed automatically in accordance with paragraph 7.6.6.3.1. above shall be capable of being opened again by a passenger in accordance with paragraph 7.6.6.2.; this shall not apply if the opening controls have been deactivated (e.g. by the driver, an ADS, etc.) 7.6.6.3.4.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: '7.6.6.2. below;' became '7.6.6.2.;'; 'driver has' became 'opening controls have been'; '(e.g. by' was added; 'opening controls.' became 'driver, an ADS, etc.)'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0287",
+   "change": "modified",
+   "new_text": "After deactivation of the opening controls of the automatically operated service doors, open doors shall close in accordance with paragraphs 7.6.6.3.1. and 7.6.6.3.2. above. 7.6.6.4.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: 'automatically-operated' became 'automatically operated'; 'doors by the driver,' became 'doors,'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0288",
+   "change": "modified",
+   "new_text": "The driver (if applicable), shall be able to inhibit the automatic closing process by actuation of a special control.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: '(if applicable),' was added.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0290",
+   "change": "modified",
+   "new_text": "The inhibition of the automatic closing process shall be indicated to the driver, e.g. by a visual tell-tale **,** or sent as a logic signal to the ADS. 7.6.6.4.3.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: 'tell-tale.' became 'tell-tale **,** or sent as a logic signal to the ADS.'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0295",
+   "change": "modified",
+   "new_text": "Emergency doors, during their use as such, shall not be of the power-operated type unless, once either a service door control prescribed in paragraph 7.6.5.1. above, or a control for a dedicated emergency door complying with the provisions of paragraph 7.6.5.1. has been actuated and returned to its normal position, the doors do not close again until a closing control has been operated.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: 'the driver subsequently operates' was removed; 'control.' became 'control has been operated.'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0297",
+   "change": "modified",
+   "new_text": "In addition emergency doors shall not be of the sliding type except in the case of vehicles having a capacity not exceeding 23 occupants.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: '22 passengers.' became '23 occupants.'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0326",
+   "change": "modified",
+   "new_text": "In case of electronic devices such device shall be operational in the event of a failure of the vehicle's power supply, and its operational status shall be easily verifiable at the driver’s seat position, or provided as a logic signal to the ADS.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: 'position.' became 'position, or provided as a logic signal to the ADS.'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0329",
+   "change": "modified",
+   "new_text": "(a) be permanently fixed adjacent to or on each emergency window; or (b) engage a warning signal being audible or visible at the driver's seating position, or provided as a logic signal to the ADS. when the device is temporarily removed from its designated location. 7.6.8.2.2.4.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: 'The device shall' was removed; 'position' became 'position, or provided as a logic signal to the ADS.'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0377",
+   "change": "modified",
+   "new_text": "When an occupant is standing on a power-operated retractable step, the corresponding door shall be incapable of being closed.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: 'a passenger' became 'an occupant'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0379",
+   "change": "modified",
+   "new_text": "This requirement does not apply to any door within the driver’s direct field of view or a door which is capable of being controlled by an ADS. 7.6.10.7.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: 'shall' became 'does'; 'view.' became 'view or a door which is capable of being controlled by an ADS.'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0412",
+   "change": "modified",
+   "new_text": "In the case of vehicles having a capacity not exceeding 23 occupants a doorway and the route by which passengers gain access to it shall be considered unobstructed if they have: 7.7.1.9.1.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: '22 passengers' became '23 occupants'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0416",
+   "change": "modified",
+   "new_text": "The following requirements do not apply to driver’s doors used as emergency exits in vehicles having a capacity not exceeding 23 occupants and to vehicles of category X. 7.7.2.1.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: 'Access to emergency doors (see Annex 4, Figure 5)' was removed; 'shall' became 'do'; '22 passengers.' became '23 occupants and to vehicles of category X.'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0490",
+   "change": "modified",
+   "new_text": "On vehicles of Classes I, II and A, a means shall be provided to enable passengers to signal that the vehicle should be stopped.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: 'driver' became 'vehicle'; 'stop the vehicle.' became 'be stopped.'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0495",
+   "change": "modified",
+   "new_text": "The sign shall display the words \"bus stopping\" or equivalent, and/or a suitable pictogram and shall remain illuminated until the service door(s) open.",
+   "reason": "Paragraph Annex 3 0 of UN R107 was amended in version 11.2.0: '‘bus stopping’' became '\"bus stopping\"'; 'in letters of not less than 50 mm high,' was removed; 'pictogram,' became 'pictogram'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-0603",
+   "change": "modified",
+   "new_text": "For the purpose of the above, each rigid section of an articulated vehicle shall be considered separately. 3 220 mm in the case of laterally movable seats (see paragraph 7.7.5.3. of Annex 3). 4 In the case of a vehicle with part of its deck directly over the driver’s compartment (if applicable), the overall height of the gauging device may be reduced (by reducing the height of the lower cylinder) from 1,900 mm to 1,680 mm in any part of the gangway forward to a transverse vertical plane which coincides with the centre line of the front axle. 5 The overall height of the gauging device may be reduced (by reducing the height of the lower cylinder):",
+   "reason": "Paragraph Annex 4 0 of UN R107 was amended in version 11.2.0: 'compartment,' became 'compartment (if applicable),'.",
+   "source": {
+    "page": 72,
+    "paragraph": "Annex 4 0"
+   }
+  },
+  {
+   "requirement_id": "R-0659",
+   "change": "modified",
+   "new_text": "If a vehicle is fitted with a ramp or lift, a means of communication with the driver and/or crew member, shall be fitted outside, adjacent to the door, and at a height between 850 mm and 1,300 mm from the ground.",
+   "reason": "Paragraph Annex 8 3.3.4 of UN R107 was amended in version 11.2.0: 'and/or crew member,' was added; 'on or' was removed; 'accessible even when the door is open,' was removed.",
+   "source": {
+    "page": 98,
+    "paragraph": "Annex 8 3.3.4"
+   }
+  },
+  {
+   "requirement_id": "R-0660",
+   "change": "removed",
+   "reason": "Paragraph Annex 8 3.3.4 of UN R107 was amended in version 11.2.0; the provision 'This requirement shall not apply to a door situated in the direct field of vision of the driver.' no longer appears."
+  },
+  {
+   "requirement_id": "R-0766",
+   "change": "modified",
+   "new_text": "The extended or lowered position of the boarding device shall be indicated by a tell-tale to the driver and/or crew member.",
+   "reason": "Paragraph Annex 8 3.11.1.1 of UN R107 was amended in version 11.2.0: 'driver.' became 'driver and/or crew member.'.",
+   "source": {
+    "page": 106,
+    "paragraph": "Annex 8 3.11.1.1"
+   }
+  },
+  {
+   "requirement_id": "R-0771",
+   "change": "modified",
+   "new_text": "Any control which initiates the lowering or raising of any part or the whole of the bodywork relative to the road surface shall be clearly identified and be under the direct control of the driver and/or crew member.",
+   "reason": "Paragraph Annex 8 3.11.2.2 of UN R107 was amended in version 11.2.0: 'driver.' became 'driver and/or crew member.'.",
+   "source": {
+    "page": 107,
+    "paragraph": "Annex 8 3.11.2.2"
+   }
+  },
+  {
+   "requirement_id": "R-0772",
+   "change": "modified",
+   "new_text": "The lowering process shall be capable of being stopped and immediately reversed by a control both within the reach of the driver and/or crew member, and also adjacent to any other operating controls provided for the operation of the kneeling system.",
+   "reason": "Paragraph Annex 8 3.11.2.3 of UN R107 was amended in version 11.2.0: 'driver, whilst seated in the cab,' became 'driver and/or crew member,'.",
+   "source": {
+    "page": 107,
+    "paragraph": "Annex 8 3.11.2.3"
+   }
+  },
+  {
+   "requirement_id": "R-0783",
+   "change": "modified",
+   "new_text": "The controls shall be capable of being activated and deactivated by the driver, and/or the crew member and/or shall be capable of being activated and deactivated by an ADS.",
+   "reason": "Paragraph Annex 8 3.11.3.3.2 of UN R107 was amended in version 11.2.0: 'They' became 'The controls'; 'only' was removed; 'driver from his seat.' became 'driver, and/or the crew member and/or shall be capable of being activated and deactivated by an ADS.'.",
+   "source": {
+    "page": 107,
+    "paragraph": "Annex 8 3.11.3.3.2"
+   }
+  },
+  {
+   "requirement_id": "R-0860",
+   "change": "modified",
+   "new_text": "Provision shall be made to enable the driver and/or crew member to replace, if necessary, contact surface inserts while the vehicle is in operation on the road.",
+   "reason": "Paragraph Annex 12 2.8 of UN R107 was amended in version 11.2.0: 'and/or crew member' was added.",
+   "source": {
+    "page": 117,
+    "paragraph": "Annex 12 2.8"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Vehicles equipped with an ADSF-2, shall comply with the technical requirements of UN Regulation No [XXX].",
+   "reason": "Paragraph 5.7 of UN R107 is new in version 11.2.0: 'Vehicles equipped with an ADSF-2, shall comply with the technical requirements of UN Regulation No […'.",
+   "source": {
+    "page": 8,
+    "paragraph": "5.7"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles of category X, this space shall be provided in the frontal area of the passenger compartment, for the markings provided for in paragraph 3.3. of Annex 11. 7.2.3.2.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: 'For vehicles of category X, this space shall be provided in the frontal area of the passenger compar…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In the case of vehicles equipped with an ADSF-2, vehicles having an internal combustion engine or a combustion heater, all compartments where an internal combustion engine, or a combustion heater are located, shall be equipped with an alarm system transmitting a logic signal to the ADS whilst the ADS feature is active, and activating the hazard warning signal, in the event of excess temperatures in those compartments. 7.5.1.5.1.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: 'In the case of vehicles equipped with an ADSF-2, vehicles having an internal combustion engine or a …'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In case of vehicles equipped with an ADSF-2, such manually operated isolating switch shall be readily accessible to a crew member.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: 'In case of vehicles equipped with an ADSF-2, such manually operated isolating switch shall be readil…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In case of an ADS feature without crew member, the ADS safety concept shall include an alternative solution providing an equivalent level of safety, in agreement with the Technical Service Type and Approval Authority. 7.5.2.6.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: 'In case of an ADS feature without crew member, the ADS safety concept shall include an alternative s…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In case of absence of a driver's compartment, space shall be provided close to the crew member seat, if fitted, or in the frontal area of the passenger compartment.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: 'In case of absence of a driver's compartment, space shall be provided close to the crew member seat,…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In the case of vehicles equipped with an ADSF-2, such vehicles shall be equipped with an alarm system detecting either an excess temperature or smoke in toilet compartments, sleeping compartments, passenger compartment(s) and other separate compartments. 7.5.6.2.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: 'In the case of vehicles equipped with an ADSF-2, such vehicles shall be equipped with an alarm syste…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Whilst an ADSF-2 is active, the system shall transmit a logic signal to the ADS and shall activate the hazard warning signal. 7.5.6.3.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: 'Whilst an ADSF-2 is active, the system shall transmit a logic signal to the ADS and shall activate t…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "(a) The emergency lighting system according to paragraph 7.8.3., if fitted, shall automatically activate; and (b) a logic signal shall be transmitted to the ADS. 7.6.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: '(a) The emergency lighting system according to paragraph 7.8.3., if fitted, shall automatically acti…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Alternatively, the ADS shall inhibit normal operation of such doors. 7.6.2.2.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: 'Alternatively, the ADS shall inhibit normal operation of such doors. 7.6.2.2.'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Vehicles equipped with an ADSF-2 shall be equipped with automatically-operated service doors unless the safety concept of the ADS provides for an equivalent level of safety in agreement with the Technical Service and Type Approval Authority. 7.6.4.7.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: 'Vehicles equipped with an ADSF-2 shall be equipped with automatically-operated service doors unless …'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Whilst an ADSF-2 is active, a logic signal shall be transmitted to the ADS. 7.6.5.6.2.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: 'Whilst an ADSF-2 is active, a logic signal shall be transmitted to the ADS. 7.6.5.6.2.'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Vehicles equipped with an ADSF-2 shall be fitted with a starting prevention device.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: 'Vehicles equipped with an ADSF-2 shall be fitted with a starting prevention device.'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles equipped with an ADSF-2, every door shall be so constructed that its opening movement is not likely to cause injury to passengers in normal conditions of use.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: 'For vehicles equipped with an ADSF-2, every door shall be so constructed that its opening movement i…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Where necessary, appropriate protection devices shall be fitted. 7.6.6.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: 'Where necessary, appropriate protection devices shall be fitted. 7.6.6.'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In case of vehicles equipped with an ADSF-2, every automatically operated service door shall be capable of being controlled by the ADS, unless the ADS safety concept delegates this task to a crew member. 7.6.6.1.2.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: 'In case of vehicles equipped with an ADSF-2, every automatically operated service door shall be capa…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Whilst an ADSF-2 is active, the actuation shall be capable of being controlled by the ADS, unless the ADS safety concept delegates this task to a crew member. 7.6.6.2.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: 'Whilst an ADSF-2 is active, the actuation shall be capable of being controlled by the ADS, unless th…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles equipped with an ADSF-2, the ADS shall be able to inhibit the automatic closing process, unless the ADS safety concept delegates this task to a crew member. 7.6.6.4.2.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: 'For vehicles equipped with an ADSF-2, the ADS shall be able to inhibit the automatic closing process…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In case of vehicles equipped with an ADSF-2, the ADS shall be able to perform this task, unless the ADS safety concept delegates this task to a crew member. 7.6.6.4.4.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: 'In case of vehicles equipped with an ADSF-2, the ADS shall be able to perform this task, unless the …'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In case of vehicles with an ADSF-2, a logic signal shall be transmitted to the ADS. 7.6.7.7.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: 'In case of vehicles with an ADSF-2, a logic signal shall be transmitted to the ADS. 7.6.7.7.'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In case of vehicles with an ADSF-2, the warning shall be transmitted as a logic signal to the ADS. 7.6.8.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: 'In case of vehicles with an ADSF-2, the warning shall be transmitted as a logic signal to the ADS. 7…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Whilst an ADSF-2 is active, it shall transmit a logic signal to the ADS when a hinged emergency window is not completely closed. 7.6.9.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: 'Whilst an ADSF-2 is active, it shall transmit a logic signal to the ADS when a hinged emergency wind…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Whilst an ADSF-2 is active, it shall provide a logic signal to the ADS when the floor escape hatch is not securely closed. 7.6.9.3.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: 'Whilst an ADSF-2 is active, it shall provide a logic signal to the ADS when the floor escape hatch i…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Whilst an ADSF-2 is active, a logic signal shall be transmitted to the ADS when a roof and/or floor escape hatch has been opened or removed for emergency egress. 7.6.10.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: 'Whilst an ADSF-2 is active, a logic signal shall be transmitted to the ADS when a roof and/or floor …'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles equipped with an ADSF-2, a means shall be provided to enable passengers in case of emergency, to request to bring the vehicle to a safe stop. 7.7.9.2.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: 'For vehicles equipped with an ADSF-2, a means shall be provided to enable passengers in case of emer…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Whilst an ADSF-2 is active, such emergency lighting system shall be capable of being controlled by the ADS. 7.8.3.2.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: 'Whilst an ADSF-2 is active, such emergency lighting system shall be capable of being controlled by t…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In case of vehicles equipped with an ADSF-2, such emergency lighting system shall be capable of being controlled by the ADS. 7.8.3.4.",
+   "reason": "Paragraph Annex 3 0 of UN R107 is new in version 11.2.0: 'In case of vehicles equipped with an ADSF-2, such emergency lighting system shall be capable of bein…'.",
+   "source": {
+    "page": 35,
+    "paragraph": "Annex 3 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "This requirement shall not apply to a door situated in the direct field of vision of the driver and/or crew member and to vehicles equipped with an ADSF-2, where the ADS takes over control of the ramp or lift as defined in the ADS safety concept.",
+   "reason": "Paragraph Annex 8 3.3.4 of UN R107 is new in version 11.2.0: 'This requirement shall not apply to a door situated in the direct field of vision of the driver and/…'.",
+   "source": {
+    "page": 98,
+    "paragraph": "Annex 8 3.3.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles equipped with an ADSF-2 without onboard human supervision (e.g. crew member), a safety device (e.g. reversing mechanism) shall protect all areas where the movement might trap or crush objects or persons.",
+   "reason": "Paragraph Annex 8 3.11.2.3 of UN R107 is new in version 11.2.0: 'For vehicles equipped with an ADSF-2 without onboard human supervision (e.g. crew member), a safety …'.",
+   "source": {
+    "page": 107,
+    "paragraph": "Annex 8 3.11.2.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles equipped with an ADSF-2, the controls shall be capable of being activated and deactivated by the ADS, or a crew member from her or his dedicated seat, as defined in the ADS safety concept.",
+   "reason": "Paragraph Annex 8 3.11.4.4.2 of UN R107 is new in version 11.2.0: 'For vehicles equipped with an ADSF-2, the controls shall be capable of being activated and deactivat…'.",
+   "source": {
+    "page": 109,
+    "paragraph": "Annex 8 3.11.4.4.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In case of vehicles equipped with an ADSF-2 (including vehicles of category X), it shall be marked in the passenger compartment and visible to a crew member, if any; if the ADS may operate without a crew member, the required information must also be made available to the ADS.",
+   "reason": "Paragraph Annex 11 3.3.1 of UN R107 is new in version 11.2.0: 'In case of vehicles equipped with an ADSF-2 (including vehicles of category X), it shall be marked i…'.",
+   "source": {
+    "page": 114,
+    "paragraph": "Annex 11 3.3.1"
+   }
+  }
+ ]
+}

@@ -1,0 +1,229 @@
+[
+ {
+  "key": "5.1.2",
+  "partners": [
+   "5.1.2"
+  ],
+  "decisions": [
+   {
+    "requirement_id": "R-015",
+    "decision": "modified",
+    "new_paragraph": "§5.1.2",
+    "new_text": "The accelerator control application resulting in continuous acceleration and having a velocity of at least 400 per cent per second over a travel distance of at least 70 per cent of the total travel distance of the accelerator control, and reaching a maximum position of the accelerator control of at least 90 per cent with that velocity shall be regarded as an accelerator control misapplication in the context of the paragraph 5.1.1.",
+    "old_quote": "An accelerator control application having a velocity of at least 400 per cent per second over a travel distance of at least 70 per cent of the total travel distance of the accelerator control, and reaching a maximum position of the accelerator control of at least 90 per cent with that velocity shall be regarded as an accelerator control misapplication in the context of the paragraph 5.1.1.",
+    "new_quote": "An accelerator control application resulting in continuous acceleration and having a velocity of at least 400 per cent per second over a travel distance of at least 70 per cent of the total travel distance of the accelerator control, and reaching a maximum position of the accelerator control of at least 90 per cent with that velocity shall be regarded as an accelerator control misapplication in the context of the paragraph 5.1.1.",
+    "note": "Added condition: the application must result in continuous acceleration."
+   }
+  ]
+ },
+ {
+  "key": "5.1.4",
+  "partners": [
+   "5.1.4"
+  ],
+  "decisions": [
+   {
+    "requirement_id": "R-018",
+    "decision": "modified",
+    "new_paragraph": "§5.1.4",
+    "new_text": "When the vehicle is accelerated both from standstill and, as relevant, while creeping, the ACPE shall control acceleration.",
+    "old_quote": "The ACPE shall control acceleration when the vehicle is accelerated from standstill.",
+    "new_quote": "The ACPE shall control acceleration when the vehicle is accelerated both from standstill and, as relevant, while creeping.",
+    "note": "Condition extended: acceleration control now also applies, as relevant, while the vehicle is creeping."
+   }
+  ]
+ },
+ {
+  "key": "5.1.4.1",
+  "partners": [
+   "5.1.4.2",
+   "5.1.4.1"
+  ],
+  "decisions": [
+   {
+    "requirement_id": "R-019",
+    "decision": "unchanged",
+    "new_paragraph": "§5.1.4.2",
+    "new_text": null,
+    "old_quote": "If ACPE is not ready to perform an intervention 6 seconds after the initiation of the vehicle powertrain, information of this status shall be indicated to the driver.",
+    "new_quote": "If ACPE is not ready to perform an intervention 6 s after the initiation of the vehicle powertrain, information of this status shall be indicated to the driver.",
+    "note": "Renumbered to §5.1.4.2; \"seconds\" written as \"s\" is editorial."
+   },
+   {
+    "requirement_id": "R-020",
+    "decision": "unchanged",
+    "new_paragraph": "§5.1.4.2",
+    "new_text": null,
+    "old_quote": "If ACPE is not ready to perform an intervention 6 seconds after the initiation of the vehicle powertrain, information of this status shall be indicated to the driver. This information shall exist until the system has been successfully initialised.",
+    "new_quote": "If ACPE is not ready to perform an intervention 6 s after the initiation of the vehicle powertrain, information of this status shall be indicated to the driver.\nThis information shall exist until the system has been successfully initialised.",
+    "note": "Same substance; renumbered to §5.1.4.2; unit abbreviation only."
+   }
+  ]
+ },
+ {
+  "key": "5.1.5",
+  "partners": [
+   "5.1.5",
+   "5.1.5.1"
+  ],
+  "decisions": [
+   {
+    "requirement_id": "R-021",
+    "decision": "modified",
+    "new_paragraph": "§5.1.5",
+    "new_text": "When the triggering conditions (as outlined in paragraph 5.1.2.) are achieved, the ACPE shall limit vehicle acceleration in order to prevent or mitigate a collision with an obstacle located not more than 1.5 m in front of or behind the vehicle, in the vehicle path, provided: (a) Vehicle external influences allow for the required acceleration inhibition, i.e.: (i) The road is flat, horizontal and dry affording good adhesion; (ii) The weather conditions do not affect the performance of the vehicle (e.g. no storm, not below 0°C); (b) The vehicle state itself allows for the required acceleration inhibition, e.g.: (i) The tyres are in an appropriate state and properly inflated; (ii) The brakes if intended to be used are properly operational (brake temperature, pads condition etc.); (iii) There is no severe uneven load distribution; (iv) No trailer is coupled to the motor vehicle and the mass of the motor vehicle is between maximum mass and mass in running order conditions; (v) The vehicle’s powertrain management system is properly operational (vi) If the vehicle is equipped with rear hatches, trunk lids or tailgates, they are closed and latched in the normal conditions of vehicle operation. (c) There are no external influences affecting the physical sensing capabilities; (d) The situation is unambiguous, i.e.: (i) The obstacle is stationary, unobstructed, clearly separated from other objects in the driving direction; (ii) In the case of a vehicle obstacle, the centre line of the obstacle is located between two vertical longitudinal planes defining the extreme outer edge of the vehicle. (iii) In the case of a wall obstacle, the overlap between wall and vehicle is at least 1.0 m. (iv) In the case of a pedestrian obstacle, the distance between the centre line of the pedestrian obstacle and the centre line of the vehicle is not more than 25 per cent of the vehicle width.",
+    "old_quote": "The ACPE shall limit vehicle acceleration in order to prevent or mitigate a collision with an obstacle located between 1.0 m and 1.5 m in front of or behind the vehicle, in the vehicle path, at the time the accelerator control is applied, provided: (a) Vehicle external influences allow for the required acceleration inhibition, i.e.: (i) The road is flat, horizontal and dry affording good adhesion; (ii) The weather conditions do not affect the performance of the vehicle (e.g. no storm, not below 0°C); (b) The vehicle state itself allows for the required acceleration inhibition, e.g.: (i) The tyres are in an appropriate state and properly inflated; (ii) The brakes if intended to be used are properly operational (brake temperature, pads condition etc.); (iii) There is no severe uneven load distribution; (iv) No trailer is coupled to the motor vehicle and the mass of the motor vehicle is between maximum mass and mass in running order conditions; (v) The vehicle’s powertrain management system is properly operational (c) There are no external influences affecting the physical sensing capabilities, i.e.: (i) The ambient illumination conditions are at least 1000 Lux and there is no extreme blinding of the sensors (e.g. direct blinding sunlight, highly radar-reflective environment); (ii) The target vehicle is not extreme with regard to the Radar Cross Section (RCS) or the shape/silhouette (e.g. below fifth percentile of RCS of all M1 vehicles) (iii) There are no significant weather conditions affecting the sensing capabilities of the vehicle (e.g. heavy rain, dense fog, snow, dirt); (iv) There are no overhead obstructions close to the vehicle; (d) The situation is unambiguous, i.e.: (i) The obstacle is stationary, unobstructed, clearly separated from other objects in the driving direction; (ii) The lateral offset between the centreline of the obstacle and the centreline of the vehicle is not more than 0.2 m (iii) The direction of travel is straight with no curve, and the vehicle is not turning at an intersection and following its lane.",
+    "new_quote": "The ACPE shall limit vehicle acceleration in order to prevent or mitigate a collision with an obstacle located not more than 1.5 m in front of or behind the vehicle, in the vehicle path, at the time the triggering conditions (as outlined in paragraph 5.1.2.) are achieved, provided: (a) Vehicle external influences allow for the required acceleration inhibition, i.e.: (i) The road is flat, horizontal and dry affording good adhesion; (ii) The weather conditions do not affect the performance of the vehicle (e.g. no storm, not below 0°C); (b) The vehicle state itself allows for the required acceleration inhibition, e.g.: (i) The tyres are in an appropriate state and properly inflated; (ii) The brakes if intended to be used are properly operational (brake temperature, pads condition etc.); (iii) There is no severe uneven load distribution; (iv) No trailer is coupled to the motor vehicle and the mass of the motor vehicle is between maximum mass and mass in running order conditions; (v) The vehicle’s powertrain management system is properly operational (vi) If the vehicle is equipped with rear hatches, trunk lids or tailgates, they are closed and latched in the normal conditions of vehicle operation. (c) There are no external influences affecting the physical sensing capabilities, i.e.: (i) The ambient illumination conditions are at least 1000 Lux and there is no extreme blinding of the sensors (e.g. direct blinding sunlight, highly radar-reflective environment); (ii) The target vehicle is not extreme with regard to the Radar Cross Section (RCS) or the shape/silhouette (e.g. below fifth percentile of RCS of all M1 vehicles) (iii) There are no significant weather conditions affecting the sensing capabilities of the vehicle (e.g. heavy rain, dense fog, snow, dirt); (iv) There are no overhead obstructions close to the vehicle; (d) The situation is unambiguous, i.e.: (i) The obstacle is stationary, unobstructed, clearly separated from other objects in the driving direction; (ii) In the case of a vehicle obstacle, the centre line of the obstacle is located between two vertical longitudinal planes defining the extreme outer edge of the vehicle. (iii) In the case of a wall obstacle, the overlap between wall and vehicle is at least 1.0 m. (iv) In the case of a pedestrian obstacle, the distance between the centre line of the pedestrian obstacle and the centre line of the vehicle is not more than 25 per cent of the vehicle width. (v) The direction of travel is straight with no curve, and the vehicle is not turning at an intersection and following its lane.",
+    "note": "Trigger changed from accelerator control applied to triggering conditions of 5.1.2; distance range changed to not more than 1.5 m; new vehicle-state item (b)(vi) on closed hatches/tailgates; old 0.2 m lateral offset item replaced by obstacle-specific items (d)(ii)-(iv). Incomplete trailing fragment dropped; unchanged (c) sub-items dropped to respect the length limit."
+   },
+   {
+    "requirement_id": "R-022",
+    "decision": "unchanged",
+    "new_paragraph": "§5.1.5.1",
+    "new_text": null,
+    "old_quote": "When conditions deviate from those listed above, the system shall not deactivate or unreasonably switch the control strategy.",
+    "new_quote": "When conditions deviate from those listed above, the system shall not deactivate or unreasonably switch the control strategy.",
+    "note": "Moved to sub-paragraph 5.1.5.1 with identical wording."
+   },
+   {
+    "requirement_id": "R-023",
+    "decision": "unchanged",
+    "new_paragraph": "§5.1.5.1",
+    "new_text": null,
+    "old_quote": "This shall be demonstrated by the manufacturer in accordance with Annex 3 of this Regulation and, if deemed justified, may be followed by testing by the Technical Service in conditions deviating from those listed above or those in paragraph 6.",
+    "new_quote": "This shall be demonstrated by the manufacturer in accordance with Annex 3 of this Regulation and, if deemed justified, may be followed by testing by the Technical Service in conditions deviating from those listed above or those in paragraph 6.",
+    "note": "Moved to sub-paragraph 5.1.5.1 with identical wording."
+   },
+   {
+    "requirement_id": "R-024",
+    "decision": "unchanged",
+    "new_paragraph": "§5.1.5.1",
+    "new_text": null,
+    "old_quote": "The rationale for and the results of this verification testing shall be appended to the test report.",
+    "new_quote": "The rationale for and the results of this verification testing shall be appended to the test report.",
+    "note": "Moved to sub-paragraph 5.1.5.1 with identical wording."
+   }
+  ]
+ },
+ {
+  "key": "5.1.6",
+  "partners": [
+   "5.1.6.1",
+   "5.1.6"
+  ],
+  "decisions": [
+   {
+    "requirement_id": "R-025",
+    "decision": "unchanged",
+    "new_paragraph": "5.1.6.1",
+    "new_text": null,
+    "old_quote": "In the case that a collision is not prevented, the collision speed shall be no greater than 8 km/h higher than the vehicle speed at the point where the triggering conditions specified in paragraph 5.1.2. are met.",
+    "new_quote": "In the case that a collision is not prevented, the collision speed shall be no greater than 8 km/h higher than the vehicle speed at the point where the triggering conditions specified in paragraph 5.1.2. are met.",
+    "note": "Sentence identical; it was moved to the new sub-paragraph 5.1.6.1, which only adds the heading 'Acceleration from standstill'."
+   },
+   {
+    "requirement_id": "R-026",
+    "decision": "unchanged",
+    "new_paragraph": "5.1.6.1",
+    "new_text": null,
+    "old_quote": "In addition, the collision speed shall not be greater than 70% of that speed the vehicle would have had in the same position and under the same circumstances but without any ACPE intervention.",
+    "new_quote": "In addition, the collision speed shall not be greater than 70 per cent of that speed the vehicle would have had in the same position and under the same circumstances but without any ACPE intervention.",
+    "note": "Only an editorial change ('70%' is now written '70 per cent'); the paragraph was renumbered to 5.1.6.1."
+   }
+  ]
+ },
+ {
+  "key": "5.1.6.1",
+  "partners": [
+   "5.1.6.1.1",
+   "5.1.6.1"
+  ],
+  "decisions": [
+   {
+    "requirement_id": "R-027",
+    "decision": "unchanged",
+    "new_paragraph": "§5.1.6.1.1",
+    "new_text": null,
+    "old_quote": "In the case of vehicles that do not exceed 8 km/h without ACPE in the test scenarios but for which a speed reduction of 30 per cent cannot be achieved due to a low engine power to test mass ratio, the speed reduction shall be of at least 15 per cent.",
+    "new_quote": "Low power to weight vehicles, In the case of vehicles that do not exceed 8 km/h without ACPE in the test scenarios but for which a speed reduction of 30 per cent cannot be achieved due to a low engine power to test mass ratio, the speed reduction shall be of at least 15 per cent.",
+    "note": "Only a heading 'Low power to weight vehicles' was added and the paragraph was renumbered to 5.1.6.1.1; the obligation (minimum 15 per cent speed reduction) is unchanged."
+   }
+  ]
+ },
+ {
+  "key": "6.5",
+  "partners": [
+   "6.5.2",
+   "6.6.2.2",
+   "6.6",
+   "6.4",
+   "6.6.1.2",
+   "6.5"
+  ],
+  "decisions": [
+   {
+    "requirement_id": "R-084",
+    "decision": "modified",
+    "new_paragraph": "§6.5.2",
+    "new_text": "For the accelerator control misapplication test, the lateral offset between the centreline of the vehicle target and the centreline of the vehicle shall be between 0.0 m and the distance to extreme outer edge of the vehicle.",
+    "old_quote": "The lateral offset between the centreline of the target and the centreline of the vehicle shall be between 0.0 m and 0.2 m.",
+    "new_quote": "The lateral offset between the centreline of the vehicle target and the centreline of the vehicle shall be between 0.0 m and the distance to extreme outer edge of the vehicle.",
+    "note": "Target now 'vehicle target'; the upper offset limit changed from 0.2 m to the distance to the extreme outer edge of the vehicle."
+   },
+   {
+    "requirement_id": "R-085",
+    "decision": "modified",
+    "new_paragraph": "§6.6",
+    "new_text": "The accelerator control misapplication test procedure shall be performed both in a forward and rearward direction and at least with the ACPE interventions triggered at 1.0 m (+0.1 m tolerance) and 1.5 m (-0.1 m tolerance) distance from the target position (as detailed in Table 1).",
+    "old_quote": "The test procedure shall be performed with and without an expected ACPE intervention both in a forward and rearward direction and at least with the vehicle situated 1.0 m (+0.1 m tolerance) and 1.5 m (-0.1 m tolerance) from the target position at the start of the test (as detailed in Table 1).",
+    "new_quote": "The test procedures shall be performed both in a forward and rearward direction and at least with the ACPE interventions triggered at 1.0 m (+0.1 m tolerance) and 1.5 m (-0.1 m tolerance) distance from the target position (as detailed in Table 1).",
+    "note": "The 'with and without an expected ACPE intervention' condition was dropped. The distances now refer to where the ACPE intervention is triggered, not to the vehicle position at the start of the test."
+   },
+   {
+    "requirement_id": "R-086",
+    "decision": "modified",
+    "new_paragraph": "§6.6.1.2",
+    "new_text": "The procedure for each accelerator control misapplication test shall be to position the vehicle at a distance to the relevant target or speed measurement point as defined in Table 1.",
+    "old_quote": "(a) Position the vehicle at a distance to the target or speed measurement point as defined in Table 1.",
+    "new_quote": "(a) Position the vehicle at a distance to the relevant target or speed measurement point as defined in Table 1.",
+    "note": "The qualifier 'relevant' was added before 'target'. The step now sits in the stationary (non-creeping) vehicle procedure."
+   },
+   {
+    "requirement_id": "R-087",
+    "decision": "unchanged",
+    "new_paragraph": "§6.6.1.2",
+    "new_text": null,
+    "old_quote": "(b) Hold the vehicle stationary and select the corresponding driving direction.",
+    "new_quote": "(b) Hold the vehicle stationary and select the corresponding driving direction.",
+    "note": "Wording is identical; the step now sits in the stationary vehicle test procedure."
+   },
+   {
+    "requirement_id": "R-088",
+    "decision": "unchanged",
+    "new_paragraph": "§6.6.1.2",
+    "new_text": null,
+    "old_quote": "(c) Accelerate the vehicle, whilst maintaining the steering control in the neutral position, by operating the accelerator control in order to achieve the relevant triggering conditions (as outlined in paragraph 5.1.2.) before the vehicle reaches a speed of 0.5 km/h.",
+    "new_quote": "(c) Accelerate the vehicle, whilst maintaining the steering control in the neutral position, by operating the accelerator control in order to achieve the relevant triggering conditions (as outlined in paragraph 5.1.2.) before the vehicle reaches a speed of 0.5 km/h.",
+    "note": "Wording is identical; the step now sits in the stationary vehicle test procedure."
+   },
+   {
+    "requirement_id": "R-089",
+    "decision": "unchanged",
+    "new_paragraph": "§6.6.1.2",
+    "new_text": null,
+    "old_quote": "(d) Record the speed at the collision point (if applicable) or the speed at the respective speed measurement point.",
+    "new_quote": "(d) Record the speed at the collision point (if applicable) or the speed at the respective speed measurement point.",
+    "note": "Wording is identical; the step now sits in the stationary vehicle test procedure."
+   },
+   {
+    "requirement_id": "R-090",
+    "decision": "removed",
+    "new_paragraph": null,
+    "new_text": null,
+    "old_quote": "Before any test is started the vehicle may be driven in the direction of the target for a distance of up to 20 m to the start position and/or the engine may be switched “off” and “on”, if requested by the manufacturer.",
+    "new_quote": null,
+    "note": "The pre-test driving and engine off/on provision has no counterpart in the new version."
+   }
+  ]
+ }
+]

@@ -1,0 +1,36 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R152",
+ "changes": [
+  {
+   "requirement_id": "R-0086",
+   "change": "modified",
+   "new_text": "Where automatic deactivation of the AEBS function is a consequence of the driver manually switching off the ESC function of the vehicle, this deactivation of the ESC shall require at least two deliberate actions by the driver.",
+   "reason": "Paragraph 5.4.2.3 of UN R152 was amended in version 2.6.0: 'AEBS' became 'ESC'.",
+   "source": {
+    "page": 13,
+    "paragraph": "5.4.2.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The AEBS shall be deactivated upon activation of an ADS feature, and shall not be able to be activated whilst an ADS feature is active.",
+   "reason": "Paragraph 5.4.4.1 of UN R152 is new in version 2.6.0: 'The AEBS shall be deactivated upon activation of an ADS feature, and shall not be able to be activat…'.",
+   "source": {
+    "page": 13,
+    "paragraph": "5.4.4.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The AEBS shall be automatically reactivated upon deactivation of an ADS feature.",
+   "reason": "Paragraph 5.4.4.2 of UN R152 is new in version 2.6.0: 'The AEBS shall be automatically reactivated upon deactivation of an ADS feature.'.",
+   "source": {
+    "page": 13,
+    "paragraph": "5.4.4.2"
+   }
+  }
+ ]
+}

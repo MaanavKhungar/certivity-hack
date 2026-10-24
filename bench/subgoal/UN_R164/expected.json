@@ -1,0 +1,71 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R164",
+ "changes": [
+  {
+   "requirement_id": "R-0003",
+   "change": "modified",
+   "new_text": "Drawings or photographs of the tyre side wall, showing the information given in paragraph 3.1.8. above and the approval mark referred to in paragraph 4., shall be submitted once the production has been established, but no later than one year after the date of granting of type approval.",
+   "reason": "Paragraph 3.2.2 of UN R164 was amended in version 0.1.0: 'marking' became 'mark'.",
+   "source": {
+    "page": 3,
+    "paragraph": "3.2.2"
+   }
+  },
+  {
+   "requirement_id": "R-0007",
+   "change": "modified",
+   "new_text": "Tyres type approved under this Regulation shall bear:4 4Some of these requirements may be specified separately in UN Regulation No. 30 or 54. 4.2.1. the word \"STUDDED\" at least 4 mm in height.",
+   "reason": "Paragraph 4.2 of UN R164 was amended in version 0.1.0: 'In particular tyres meeting the requirements of paragraph 6.1. below,' became 'Tyres type approved under this Regulation'; '4.2.1. the word \"STUDDED\" at least 4 mm in height.' was added.",
+   "source": {
+    "page": 3,
+    "paragraph": "4.2"
+   }
+  },
+  {
+   "requirement_id": "R-0009",
+   "change": "removed",
+   "reason": "Paragraph 4.3.2 of UN R164 was amended in version 0.1.0; the provision 'Studded tyres approved according to this Regulation shall also bear the word “STUDDED” at least 4 mm…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0010",
+   "change": "modified",
+   "new_text": "The marking referred to in paragraph 4.2. and the approval mark prescribed in paragraph 5.4 of this Regulation shall be clearly legible, indelible and raised above or sunk below the tyre surface.",
+   "reason": "Paragraph 4.4 of UN R164 was amended in version 0.1.0: 'markings' became 'marking'; '4.3.2.' became '4.2.'.",
+   "source": {
+    "page": 4,
+    "paragraph": "4.4"
+   }
+  },
+  {
+   "requirement_id": "R-0031",
+   "change": "modified",
+   "new_text": "In the case of verification tests with regard to approvals in accordance with paragraph 6. of this Regulation, these shall be carried out using the same testing method as that adopted for original approval as declared in item 8 of the communication form.",
+   "reason": "Paragraph 8.3.1 of UN R164 was amended in version 0.1.0: '(see Annex 7 of UN Regulation No. 117)' was removed.",
+   "source": {
+    "page": 6,
+    "paragraph": "8.3.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The studded tyre of class C1 in category of snow tyre for use in severe snow conditions shall meet the minimum ice grip index value compared with the respective Standard Reference Test Tyre (SRTT) as follows:",
+   "reason": "Paragraph 6.3 of UN R164 is new in version 0.1.0: 'The studded tyre of class C1 in category of snow tyre for use in severe snow conditions shall meet t…'.",
+   "source": {
+    "page": 6,
+    "paragraph": "6.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The ice performance of studded tyres approved according to this Regulation shall be tested in studded form and following the additional prescriptions for testing as defined in Annex 3 to this Regulation.",
+   "reason": "Paragraph 6.4 of UN R164 is new in version 0.1.0: 'The ice performance of studded tyres approved according to this Regulation shall be tested in studde…'.",
+   "source": {
+    "page": 6,
+    "paragraph": "6.4"
+   }
+  }
+ ]
+}

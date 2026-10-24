@@ -1,0 +1,66 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R100",
+ "changes": [
+  {
+   "requirement_id": "R-0120",
+   "change": "modified",
+   "new_text": "For a high voltage REESS the isolation resistance of the Tested-Device shall ensure at least 100 Ω/Volt for the whole REESS measured in accordance with Annex 5A to this Regulation after the vehicle based test (paragraph 6.4.1.1.) or in accordance with Annex 5B to this Regulation after the component based test (paragraph 6.4.1.2.), or the protection degree IPXXB shall be fulfilled for the Tested-Device.",
+   "reason": "Paragraph 6.4.1.3 of UN R100 was amended in version 5.1.0: 'after the test' was removed; '45A or Annex 45B' became '5A'; 'Regulation,' became 'Regulation after the vehicle based test (paragraph 6.4.1.1.) or in accordance with Annex 5B to this Regulation after the component based test (paragraph 6.4.1.2.),'.",
+   "source": {
+    "page": 15,
+    "paragraph": "6.4.1.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Whilst an ADSF-2 is active, the warning shall be transmitted as a logic signal to the ADS, which shall comply with the technical requirements of UN Regulation No. [XXX] according to its original version or later series of amendments.",
+   "reason": "Paragraph 5.1.3.3 of UN R100 is new in version 5.1.0: 'Whilst an ADSF-2 is active, the warning shall be transmitted as a logic signal to the ADS, which sha…'.",
+   "source": {
+    "page": 10,
+    "paragraph": "5.1.3.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Whilst an ADSF-2 is active, the warning shall be transmitted as a logic signal to the ADS, which shall comply with the technical requirements of UN Regulation No. [XXX] according to its original version or later series of amendments.",
+   "reason": "Paragraph 5.1.4.4 of UN R100 is new in version 5.1.0: 'Whilst an ADSF-2 is active, the warning shall be transmitted as a logic signal to the ADS, which sha…'.",
+   "source": {
+    "page": 11,
+    "paragraph": "5.1.4.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In case of vehicles of category O, the trailer shall provide an optical and/or audible warning to the driver of the towing vehicle.",
+   "reason": "Paragraph 5.1.4.4 of UN R100 is new in version 5.1.0: 'In case of vehicles of category O, the trailer shall provide an optical and/or audible warning to th…'.",
+   "source": {
+    "page": 11,
+    "paragraph": "5.1.4.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Whilst an ADSF-2 is active, the warning shall be transmitted as a logic signal to the ADS, which shall comply with the technical requirements of UN Regulation No. [XXX] according to its original version or later series of amendments.",
+   "reason": "Paragraph 5.2.3 of UN R100 is new in version 5.1.0: 'Whilst an ADSF-2 is active, the warning shall be transmitted as a logic signal to the ADS, which sha…'.",
+   "source": {
+    "page": 11,
+    "paragraph": "5.2.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Whilst an ADSF-2 is active, the warning shall be transmitted as a logic signal to the ADS, which shall comply with the technical requirements of UN Regulation No. [XXX] according to its original version or later series of amendments.",
+   "reason": "Paragraph 5.2.4 of UN R100 is new in version 5.1.0: 'Whilst an ADSF-2 is active, the warning shall be transmitted as a logic signal to the ADS, which sha…'.",
+   "source": {
+    "page": 12,
+    "paragraph": "5.2.4"
+   }
+  }
+ ]
+}

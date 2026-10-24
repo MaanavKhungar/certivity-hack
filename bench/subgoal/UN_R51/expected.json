@@ -1,0 +1,366 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R51",
+ "changes": [
+  {
+   "requirement_id": "R-0034",
+   "change": "modified",
+   "new_text": "The sound emission of the vehicle under typical on-road driving conditions, which are different from those under which the type-approval test set out in Annex 3 and Annex 7 was carried out, shall not deviate from the test result in a significant manner.11 Any emission of EES shall be activated during the type-approval test. 11 See guidance document for interpretation of paragraph 6.2.3.",
+   "reason": "Paragraph 6.2.3 of UN R51 was amended in version 3.11.0: 'manner.' became 'manner.11 Any emission of EES shall be activated during the type-approval test. 11 See guidance document for interpretation of paragraph 6.2.3.'.",
+   "source": {
+    "page": 9,
+    "paragraph": "6.2.3"
+   }
+  },
+  {
+   "requirement_id": "R-0035",
+   "change": "removed",
+   "reason": "Paragraph 6.2.3 of UN R51 was amended in version 3.11.0; the provision 'Any electric sound enhancement system for the purpose of the exterior sound emission shall be operat…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0083",
+   "change": "removed",
+   "reason": "Paragraph Annex 3 1.2 of UN R51 was amended in version 3.11.0; the provision 'Calibration of the entire Acoustic Measurement System for a Measurement Session At the beginning and…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0084",
+   "change": "modified",
+   "new_text": "Without any further adjustment the difference between the readings at the beginning and at the end shall be less than or equal to 0.5 dB.",
+   "reason": "Paragraph Annex 3 1.2 of UN R51 was amended in version 3.11.0: 'of two consecutive checks' became 'at the beginning and at the end'.",
+   "source": {
+    "page": 17,
+    "paragraph": "Annex 3 1.2"
+   }
+  },
+  {
+   "requirement_id": "R-0085",
+   "change": "modified",
+   "new_text": "If the difference is greater than 0.5 dB, the results of the whole measurement session shall be discarded.",
+   "reason": "Paragraph Annex 3 1.2 of UN R51 was amended in version 3.11.0: 'this value' became 'the difference'; 'exceeded **,**' became 'greater than 0.5 dB,'; 'measurements obtained after the previous satisfactory check' became 'whole measurement session'.",
+   "source": {
+    "page": 17,
+    "paragraph": "Annex 3 1.2"
+   }
+  },
+  {
+   "requirement_id": "R-0087",
+   "change": "modified",
+   "new_text": "Such a method is recommended to be provided by the hardware supplier and, in that case, shall be implemented in the measurement software used.",
+   "reason": "Paragraph Annex 3 1.2 of UN R51 was amended in version 3.11.0: 'A qualified calibration' became 'Such a'; '(i.e. electrical calibration)' was removed.",
+   "source": {
+    "page": 17,
+    "paragraph": "Annex 3 1.2"
+   }
+  },
+  {
+   "requirement_id": "R-0096",
+   "change": "modified",
+   "new_text": "(b) The test facility shall meet the requirements of ISO 26101:2012 with the qualification criteria and measurement requirements appropriate to this test method as described in ISO 362-3:2022, paragraph 7.3.",
+   "reason": "Paragraph Annex 3 2.1.2 of UN R51 was amended in version 3.11.0: '362-3:2016,' became '362-3:2022,'.",
+   "source": {
+    "page": 17,
+    "paragraph": "Annex 3 2.1.2"
+   }
+  },
+  {
+   "requirement_id": "R-0113",
+   "change": "removed",
+   "reason": "Paragraph Annex 3 2.1.3.2.4 of UN R51 was amended in version 3.11.0; the provision 'The background noise (including any wind noise) shall be at least 10 dB(A) below the A-weighted soun…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0114",
+   "change": "removed",
+   "reason": "Paragraph Annex 3 2.1.3.2.4 of UN R51 was amended in version 3.11.0; the provision 'If the difference between the ambient noise and the measured sound is between 10 and 15 dB(A), in or…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0119",
+   "change": "removed",
+   "reason": "Paragraph Annex 3 2.2.2.2 of UN R51 was amended in version 3.11.0; the provision 'The target mass, mtarget, shall be achieved with a tolerance of ±5 per cent.' no longer appears."
+  },
+  {
+   "requirement_id": "R-0131",
+   "change": "modified",
+   "new_text": "Systems generating EES Any system generating EES, subject to paragraph 6.2.3. and Annex 7 of this Regulation, shall operate as foreseen by the vehicle manufacturer and not be interfered with during the measurements.",
+   "reason": "Paragraph Annex 3 2.2.3.2 (formerly Annex 3 2.2.3.3) of UN R51 was amended in version 3.11.0: 'Active Sound' was removed; 'generating EES' was added; 'active sound devices, either for noise control, or sound enhancement,' became 'system generating EES, subject to paragraph 6.2.3. and Annex 7 of this Regulation,'.",
+   "source": {
+    "page": 21,
+    "paragraph": "Annex 3 2.2.3.2"
+   }
+  },
+  {
+   "requirement_id": "R-0151",
+   "change": "modified",
+   "new_text": "Indoor tests shall be performed according to paragraph 3.1. using the specifications of ISO 362-3:2022, variant A.",
+   "reason": "Paragraph Annex 3 2.2.3.6 (formerly Annex 3 3) of UN R51 was amended in version 3.11.0: '362-3:2016,' became '362-3:2022,'.",
+   "source": {
+    "page": 21,
+    "paragraph": "Annex 3 2.2.3.6"
+   }
+  },
+  {
+   "requirement_id": "R-0207",
+   "change": "modified",
+   "new_text": "During the constant speed test the accelerator shall be positioned to maintain a constant speed between AA' and BB' as specified.",
+   "reason": "Paragraph Annex 3 2.2.3.6 (formerly Annex 3 3.1.2.1.5) of UN R51 was amended in version 3.11.0: 'test,' became 'test'; 'acceleration control' became 'accelerator'.",
+   "source": {
+    "page": 21,
+    "paragraph": "Annex 3 2.2.3.6"
+   }
+  },
+  {
+   "requirement_id": "R-0241",
+   "change": "modified",
+   "new_text": "Acceleration test When the reference point of the vehicle reaches the line AA' the accelerator shall be fully depressed (without operating the automatic downshift to a lower range than normally used in urban driving) and held fully engaged until the reference point reaches BB’ + 5 m.",
+   "reason": "Paragraph Annex 3 2.2.3.6 (formerly Annex 3 3.1.2.2.2) of UN R51 was amended in version 3.11.0: 'control' was removed.",
+   "source": {
+    "page": 21,
+    "paragraph": "Annex 3 2.2.3.6"
+   }
+  },
+  {
+   "requirement_id": "R-0285",
+   "change": "modified",
+   "new_text": "Case 1: d1 shall be equal to 0.5 m and the distance from the side (outer border of the vehicle) shall be at least 0.2 m. _d2_ shall be equal to 0.5 m and the distance from the side (outer border of the vehicle) shall be at least 0.2 m.",
+   "reason": "Paragraph Annex 3 2.2.3.6 (formerly Annex 3 3.2.5.3.1.5) of UN R51 was amended in version 3.11.0: '_d1_' became 'd1'.",
+   "source": {
+    "page": 21,
+    "paragraph": "Annex 3 2.2.3.6"
+   }
+  },
+  {
+   "requirement_id": "R-0320",
+   "change": "modified",
+   "new_text": "LPT,wot,j = 10 × lg(100.1×Lwot,j − 100.1×LTR,wot,j,ϑwot ) In case that 100.1×LTR,wot,j,ϑwot ≥ 0.99 × 100.1×Lwot,j the power train component LPT,wot,j is determined by LPT,wot,j = 10 × lg(0.01 × 100.1×Lwot,j ) with LTR,wot,j,ϑwot redefined as LTR,wot,j,ϑwot = 10 × lg(0.99 × 100.1×Lwot,j ) The redefined LTR,wot,j,ϑwot shall then be subjected to temperature correction in paragraph 3.3.3. to obtain the corresponding LTR,wot,j,ϑref..",
+   "reason": "Paragraph Annex 3 Appendix 2 3.3.4 of UN R51 was amended in version 3.11.0: '3.2.3' became 'paragraph 3.3.3.'; 'LTR,wot,j,ϑref.' became 'LTR,wot,j,ϑref..'.",
+   "source": {
+    "page": 40,
+    "paragraph": "Annex 3 Appendix 2 3.3.4"
+   }
+  },
+  {
+   "requirement_id": "R-0345",
+   "change": "modified",
+   "new_text": "When the front end of the test vehicle has reached the line AA' the vehicle shall be brought to coast-down by full release of the accelerator If applicable, the influence of the power train noise shall be minimized, e.g. the driver shall have put the gear selector to neutral position and switched off the engine.",
+   "reason": "Paragraph Annex 3 Appendix 2 2.5.4 of UN R51 was amended in version 3.11.0: 'acceleration pedal.' became 'accelerator If applicable, the influence of the power train noise shall be minimized, e.g. the driver shall have put the gear selector to neutral position and switched off the engine.'.",
+   "source": {
+    "page": 46,
+    "paragraph": "Annex 3 Appendix 2 2.5.4"
+   }
+  },
+  {
+   "requirement_id": "R-0346",
+   "change": "removed",
+   "reason": "Paragraph Annex 3 Appendix 2 2.5.4 of UN R51 was amended in version 3.11.0; the provision 'If applicable, the influence of the power train noise shall be minimized, e.g. the driver shall have…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0382",
+   "change": "modified",
+   "new_text": "Testing procedure The test site and measuring instruments shall be those as described in Annex 3 and Annex 10 for vehicles equipped with an ADS.",
+   "reason": "Paragraph Annex 6 2 of UN R51 was amended in version 3.11.0: '3.' became '3 and Annex 10 for vehicles equipped with an ADS.'.",
+   "source": {
+    "page": 51,
+    "paragraph": "Annex 6 2"
+   }
+  },
+  {
+   "requirement_id": "R-0421",
+   "change": "modified",
+   "new_text": "If at any point the measured sound level exceeds the limit, two additional measurements at the same point shall be carried out to verify the measurement uncertainty.",
+   "reason": "Paragraph Annex 7 3.6 (formerly Annex 7 3.4) of UN R51 was amended in version 3.11.0: 'Lκj ≤ LASEP_κ.j + x With: x = 3 dB(A) **+** limit value2 - Lurban for vehicle tested with non-locked transmission conditions x = 2 dB(A) + limit value2 - Lurban for vehicles tested with locked transmission conditions' was removed; 'at any point' was added; 'at a point' was removed.",
+   "source": {
+    "page": 54,
+    "paragraph": "Annex 7 3.6"
+   }
+  },
+  {
+   "requirement_id": "R-0449",
+   "change": "modified",
+   "new_text": "This calculation shall be carried out for each single run as describe in ISO 3623:2022, paragraph 10.2.4.",
+   "reason": "Paragraph Annex 8 2.4 of UN R51 was amended in version 3.11.0: '3623.2016,' became '3623:2022,'.",
+   "source": {
+    "page": 59,
+    "paragraph": "Annex 8 2.4"
+   }
+  },
+  {
+   "requirement_id": "R-0450",
+   "change": "modified",
+   "new_text": "Adjustment of room dimensions To cater for the smaller size test rooms, the maximum levels shall be evaluated with caution though to avoid missing them according to ISO 362-3:2022, Annex F.",
+   "reason": "Paragraph Annex 8 4 of UN R51 was amended in version 3.11.0: '362-3:2016,' became '362-3:2022,'; 'E.' became 'F.'.",
+   "source": {
+    "page": 59,
+    "paragraph": "Annex 8 4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Operation of EES When the vehicle is switched on by the vehicle master control switch, any EES shall be deactivated.",
+   "reason": "Paragraph 6.2.3.3.1 of UN R51 is new in version 3.11.0: 'Operation of EES When the vehicle is switched on by the vehicle master control switch, any EES shall…'.",
+   "source": {
+    "page": 10,
+    "paragraph": "6.2.3.3.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Any activation of EES shall require an intentional action of the driver.12 The EES shall be capable of being deactivated. 12 Example: changing a mode or operating a switch.",
+   "reason": "Paragraph 6.2.3.3.1 of UN R51 is new in version 3.11.0: 'Any activation of EES shall require an intentional action of the driver.12 The EES shall be capable …'.",
+   "source": {
+    "page": 10,
+    "paragraph": "6.2.3.3.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Vehicle Sound Limits In the speed range equal to or lower than 20 km/h including standstill the sound emitted by the vehicle shall comply with the requirements of UN-Regulation No. 138 paragraph 6.",
+   "reason": "Paragraph 6.2.3.3.2 of UN R51 is new in version 3.11.0: 'Vehicle Sound Limits In the speed range equal to or lower than 20 km/h including standstill the soun…'.",
+   "source": {
+    "page": 10,
+    "paragraph": "6.2.3.3.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In the speed range from 20 km/h to 80 km/h the sound emitted by the vehicle shall comply with the requirements of this Regulation.",
+   "reason": "Paragraph 6.2.3.3.2 of UN R51 is new in version 3.11.0: 'In the speed range from 20 km/h to 80 km/h the sound emitted by the vehicle shall comply with the re…'.",
+   "source": {
+    "page": 10,
+    "paragraph": "6.2.3.3.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "From the entry into force of Supplement 11, ISO 362-3:2022 shall be accepted for all approvals granted under this Regulation.",
+   "reason": "Paragraph 11.20 of UN R51 is new in version 3.11.0: 'From the entry into force of Supplement 11, ISO 362-3:2022 shall be accepted for all approvals grant…'.",
+   "source": {
+    "page": 12,
+    "paragraph": "11.20"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Until five years from the entry into force of Supplement 11, ISO 362-3:2016 shall be accepted for all approvals granted under this Regulation.",
+   "reason": "Paragraph 11.20 of UN R51 is new in version 3.11.0: 'Until five years from the entry into force of Supplement 11, ISO 362-3:2016 shall be accepted for al…'.",
+   "source": {
+    "page": 12,
+    "paragraph": "11.20"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Verification and adjustment of the entire acoustic measurement system for every measurement session The Technical Service shall determine the duration of a measurement session, which shall be no more than one day.",
+   "reason": "Paragraph Annex 3 1.2 of UN R51 is new in version 3.11.0: 'Verification and adjustment of the entire acoustic measurement system for every measurement session …'.",
+   "source": {
+    "page": 17,
+    "paragraph": "Annex 3 1.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "At the beginning of every measurement session the entire acoustic measurement system shall be checked by means of a sound calibrator of at least precision Class 1 according to IEC 60942:2003, and – if the equipment allows it – adjusted to the reference values given by the calibrator.",
+   "reason": "Paragraph Annex 3 1.2 of UN R51 is new in version 3.11.0: 'At the beginning of every measurement session the entire acoustic measurement system shall be checke…'.",
+   "source": {
+    "page": 17,
+    "paragraph": "Annex 3 1.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "At the end of every measurement session, the entire acoustic measurement system shall be re-checked by means of the same sound calibrator which was used for the check at the beginning.",
+   "reason": "Paragraph Annex 3 1.2 of UN R51 is new in version 3.11.0: 'At the end of every measurement session, the entire acoustic measurement system shall be re-checked …'.",
+   "source": {
+    "page": 17,
+    "paragraph": "Annex 3 1.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In this case, if a person is inside the vehicle to perform the test, the mass of this person shall be considered part of the extra load mxload.",
+   "reason": "Paragraph Annex 3 2.2.2.2 of UN R51 is new in version 3.11.0: 'In this case, if a person is inside the vehicle to perform the test, the mass of this person shall b…'.",
+   "source": {
+    "page": 18,
+    "paragraph": "Annex 3 2.2.2.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Calculation of extra loading The target mass, mtarget, (per kW rated power) for two-axle vehicles of category N2 and N3 is specified in the Table in paragraph 2.2.1: above. mtarget = 50 [kg / kW] × Pn [kW] (1) To reach the required target mass, mtarget, for a vehicle being tested, the unladen vehicle, including the mass of the driver, md, shall be loaded with an extra mass, mxload, which shall be placed above the rear axle as given in Formula (8): mtarget = munladen + md + mxload (2) The target mass, mtarget, shall be achieved with a tolerance of ±5 per cent.",
+   "reason": "Paragraph Annex 3 2.2.2.3.1 of UN R51 is new in version 3.11.0: 'Calculation of extra loading The target mass, mtarget, (per kW rated power) for two-axle vehicles of…'.",
+   "source": {
+    "page": 19,
+    "paragraph": "Annex 3 2.2.2.3.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Vehicles, when electrically propelled without internal combustion engines operating shall comply with Analysis method 12 (Slope assessment method) only. 2 The Analysis method 2 (Lurban assessment) and the Reference Sound Assessment are not applicable for these vehicles.",
+   "reason": "Paragraph Annex 7 1.1 of UN R51 is new in version 3.11.0: 'Vehicles, when electrically propelled without internal combustion engines operating shall comply wit…'.",
+   "source": {
+    "page": 52,
+    "paragraph": "Annex 7 1.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles subject to paragraph 1.1. of this Annex, the manufacturer shall take measures to achieve an acceleration within the control range in such a way that each test point P1 to P4 as specified in paragraph 2.4. of this Annex reaches the given target speed within the specified tolerance.",
+   "reason": "Paragraph Annex 7 2.3 of UN R51 is new in version 3.11.0: 'For vehicles subject to paragraph 1.1. of this Annex, the manufacturer shall take measures to achiev…'.",
+   "source": {
+    "page": 52,
+    "paragraph": "Annex 7 2.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Any measure used by manufacturers for the above-mentioned purposes shall be documented in the test report.",
+   "reason": "Paragraph Annex 7 2.3 of UN R51 is new in version 3.11.0: 'Any measure used by manufacturers for the above-mentioned purposes shall be documented in the test r…'.",
+   "source": {
+    "page": 52,
+    "paragraph": "Annex 7 2.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles subject to paragraph 1.1. of this annex, the sound measurements shall be evaluated as function of vehicle speed and Slopeκ shall be set to a constant value of 0.25 dB/(km/h) for further calculation.",
+   "reason": "Paragraph Annex 7 3.2 of UN R51 is new in version 3.11.0: 'For vehicles subject to paragraph 1.1. of this annex, the sound measurements shall be evaluated as f…'.",
+   "source": {
+    "page": 53,
+    "paragraph": "Annex 7 3.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The sound level LASEP,κ,j for measurement point j and gear ratio κ shall be calculated using the vehicle speed measured for each measurement point, using the constant slope specified in paragraph 3.2.2. above to the specific anchor point for each gear ratio.",
+   "reason": "Paragraph Annex 7 3.2.1 of UN R51 is new in version 3.11.0: 'The sound level LASEP,κ,j for measurement point j and gear ratio κ shall be calculated using the veh…'.",
+   "source": {
+    "page": 53,
+    "paragraph": "Annex 7 3.2.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Calculation of the sound level increase regarding performance For tests of purely electrically propelled vehicles, the sound level ΔLASEP,j shall be calculated:",
+   "reason": "Paragraph Annex 7 3.4 of UN R51 is new in version 3.11.0: 'Calculation of the sound level increase regarding performance For tests of purely electrically prope…'.",
+   "source": {
+    "page": 54,
+    "paragraph": "Annex 7 3.4"
+   }
+  }
+ ]
+}

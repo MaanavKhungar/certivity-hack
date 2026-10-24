@@ -1,0 +1,446 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R83",
+ "changes": [
+  {
+   "requirement_id": "R-0001",
+   "change": "modified",
+   "new_text": "This Regulation shall apply to vehicles of categories M1 and N1.1 At the request of the manufacturer, for vehicles of category N2 between 3.5 and 5 tonnes maximum mass originating from a type of vehicle of category N1, the approval authority may grant an emission type-approval if the vehicle meets the requirements for a type of vehicle of category N1. 1 As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3.), document ECE/TRANS/WP.29/78/Rev.8 - https://unece.org/transport/vehicle-regulations/wp29/resolutions",
+   "reason": "Paragraph 1.1 of UN R83 was amended in version 9.1.0: 'ECE/TRANS/WP.29/78/Rev.6, para. 2.' became 'ECE/TRANS/WP.29/78/Rev.8'; 'www.unece.org/transport/vehicle-regulations/wp29/resolutions' became 'https://unece.org/transport/vehicle-regulations/wp29/resolutions'.",
+   "source": {
+    "page": 1,
+    "paragraph": "1.1"
+   }
+  },
+  {
+   "requirement_id": "R-0008",
+   "change": "removed",
+   "reason": "Paragraph 3.3.2 of UN R83 was amended in version 9.1.0; the provision 'For the purpose of paragraph 3.1.2.(a)., the manufacturer shall comply with Annex 7 to this Regulati…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0009",
+   "change": "removed",
+   "reason": "Paragraph 3.3.2.1 of UN R83 was amended in version 9.1.0; the provision 'These tests, methods and procedures include the roles and responsibilities assigned to vehicle manuf…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0031",
+   "change": "modified",
+   "new_text": "Manufacturers shall ensure that type approval procedures for verifying conformity of production; in-service conformity; anti-tampering, security and cybersecurity are met.",
+   "reason": "Paragraph 5.1.1 of UN R83 was amended in version 9.1.0: 'cybersecurity; and manipulation devices and manipulation strategies' became 'cybersecurity'.",
+   "source": {
+    "page": 6,
+    "paragraph": "5.1.1"
+   }
+  },
+  {
+   "requirement_id": "R-0062",
+   "change": "modified",
+   "new_text": "Measures to ensure in-service conformity of vehicles type-approved under this Regulation shall be taken in accordance with Annex 4 to this Regulation for tailpipe and evaporative emissions, Annex 5 for battery durability, Annex 11 for electric range of pure electric vehicles at low temperatures, Annex 12 for brake emissions, Annex 13 for on-board monitoring systems and when conducted at the option of the Type Approval Authority, Annex 14 for system power testing.",
+   "reason": "Paragraph 9.1 of UN R83 was amended in version 9.1.0: 'emissions and' became 'emissions,'; 'systems.' became 'systems and when conducted at the option of the Type Approval Authority, Annex 14 for system power testing.'.",
+   "source": {
+    "page": 10,
+    "paragraph": "9.1"
+   }
+  },
+  {
+   "requirement_id": "R-0262",
+   "change": "removed",
+   "reason": "Paragraph Annex 5 3.1.3 of UN R83 was amended in version 9.1.0; the provision 'For evaluating the SOCR/SOCE monitors normalised values shall be calculated: 𝑥𝑖 = 𝑆𝑂𝐶𝑋𝑟𝑒𝑎𝑑 , 𝑖 − 𝑆𝑂𝐶…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0263",
+   "change": "modified",
+   "new_text": "For the total number of N tests and the normalised values of the tested vehicles, _x1_ , _x2_ , … _xN_ , the average Xtests and the standard deviation s shall be determined: and For each N tests 3 ≤ N ≤ 16, one of the three following decisions can be reached, where the factor A shall be set at 5:",
+   "reason": "Paragraph Annex 5 3.1.3 of UN R83 was amended in version 9.1.0: '𝑥 1 _,_ 𝑥 2,' became '_x1_ , _x2_ ,'; '𝑥 _N_' became '_xN_'.",
+   "source": {
+    "page": 54,
+    "paragraph": "Annex 5 3.1.3"
+   }
+  },
+  {
+   "requirement_id": "R-0324",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 1.5 of UN R83 was amended in version 9.1.0; the provision 'The notion of manipulation strategy shall be distinguished from respectively the notions of ‘Base Em…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0325",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 2.3 of UN R83 was amended in version 9.1.0; the provision 'For such situations, manufacturers shall comply with criteria for the declaration of technically jus…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0326",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 2.3 of UN R83 was amended in version 9.1.0; the provision 'These technically justified emission strategies shall satisfy strict criteria to demonstrate that th…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0327",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 2.4 of UN R83 was amended in version 9.1.0; the provision 'Manufacturers shall ensure that no vehicle is equipped with manipulation devices or strategies relat…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0328",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 2.5 of UN R83 was amended in version 9.1.0; the provision 'Manufacturers shall not introduce software or calibration updates that manipulate data related to se…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0329",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 2.6 of UN R83 was amended in version 9.1.0; the provision 'Manufacturers shall disclose any software and calibration updates affecting the integrity of data re…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0330",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 3.1 of UN R83 was amended in version 9.1.0; the provision 'Manufacturers shall document Auxiliary Emission Strategies (AES) at type-approval.' no longer appears."
+  },
+  {
+   "requirement_id": "R-0331",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 3.1 of UN R83 was amended in version 9.1.0; the provision 'For the type-approval authorities to be able to assess the proper use of AES, considering the prohib…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0332",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 3.2 of UN R83 was amended in version 9.1.0; the provision 'The extended documentation shall remain strictly confidential.' no longer appears."
+  },
+  {
+   "requirement_id": "R-0333",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 3.2 of UN R83 was amended in version 9.1.0; the provision 'In the case the manufacturer retains the documentation package, that package shall be identified and…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0334",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 3.2 of UN R83 was amended in version 9.1.0; the provision 'It shall be made available for inspection by the approval authority at the time of approval or at an…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0335",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 3.3 of UN R83 was amended in version 9.1.0; the provision 'Manufacturers shall also provide to the approval authorities a formal documentation package, as desc…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0336",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 3.4 of UN R83 was amended in version 9.1.0; the provision 'Manufacturers shall make the formal documentation package available to all type-approval authorities…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0337",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 3.5 of UN R83 was amended in version 9.1.0; the provision 'Manufacturers shall introduce an indicator (AES flag or timer) to indicate when a vehicle runs in a …' no longer appears."
+  },
+  {
+   "requirement_id": "R-0338",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 3.5 of UN R83 was amended in version 9.1.0; the provision 'The indicator shall be available via the serial port of the standard diagnostic connector upon reque…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0339",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 3.5 of UN R83 was amended in version 9.1.0; the provision 'The AES that is running shall be identifiable via the formal documentation package.' no longer appears."
+  },
+  {
+   "requirement_id": "R-0340",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 4.1 of UN R83 was amended in version 9.1.0; the provision 'These emission control strategies shall satisfy strict technical criteria to demonstrate that they d…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0341",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 4.2.1 of UN R83 was amended in version 9.1.0; the provision 'Manufacturers shall ensure the absence of manipulation devices and manipulation strategies related t…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0342",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 4.2.2 of UN R83 was amended in version 9.1.0; the provision 'Manufacturers shall document software updates to vehicles in service that reduce the effectiveness o…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0343",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 4.2.3 of UN R83 was amended in version 9.1.0; the provision 'Manufacturers shall disclose any software updates or calibrations affecting exhaust emissions contro…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0344",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 4.2.4 of UN R83 was amended in version 9.1.0; the provision 'Manufacturers shall document Auxiliary Emission Strategies (AES) as part of type-approval as specifi…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0345",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 4.2.5 of UN R83 was amended in version 9.1.0; the provision 'The manufacturer shall cooperate with the type-approval authority to allow them to select up to a ma…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0346",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 4.3.1 of UN R83 was amended in version 9.1.0; the provision 'At the request of the manufacturer, the approval authority shall conduct a preliminary assessment of…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0347",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 4.3.1 of UN R83 was amended in version 9.1.0; the provision 'In that case, the relevant documentation shall be provided to the type-approval authority between 2 …' no longer appears."
+  },
+  {
+   "requirement_id": "R-0348",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 4.3.2 of UN R83 was amended in version 9.1.0; the provision 'The type-approval authority shall make a preliminary assessment based on the extended documentation …' no longer appears."
+  },
+  {
+   "requirement_id": "R-0349",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 4.3.2 of UN R83 was amended in version 9.1.0; the provision 'The approval authority shall make the assessment in accordance with the methodology described in App…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0350",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 4.3.3 of UN R83 was amended in version 9.1.0; the provision 'The preliminary assessment of the AES for new vehicle types with regard to emissions shall remain va…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0351",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 4.3.4 of UN R83 was amended in version 9.1.0; the provision 'In cooperation with the manufacturer, the type-approval authority shall select up to a maximum of 5 …' no longer appears."
+  },
+  {
+   "requirement_id": "R-0352",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 4.3.4 of UN R83 was amended in version 9.1.0; the provision 'The selection of AES shall prioritise those AES with the greatest expected impact by combination of …' no longer appears."
+  },
+  {
+   "requirement_id": "R-0353",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 4.3.5 of UN R83 was amended in version 9.1.0; the provision 'The extended documentation package shall be identified and dated by the type-approval authority.' no longer appears."
+  },
+  {
+   "requirement_id": "R-0354",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 4.3.5 of UN R83 was amended in version 9.1.0; the provision 'If the extended documentation package is kept by the type-approval authority, it shall be retained f…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0355",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 4.3.6 of UN R83 was amended in version 9.1.0; the provision 'The type-approval authority shall evaluate the documentation of software updates that reduce the eff…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0356",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 4.3.8 of UN R83 was amended in version 9.1.0; the provision 'Type-approval authorities shall ensure a harmonised assessment of Auxiliary Emission Strategies (AES…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0357",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 4.3.8 of UN R83 was amended in version 9.1.0; the provision 'A list of AES which were deemed non-acceptable by type-approval authorities shall be compiled yearly…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0358",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 4.4.4 of UN R83 was amended in version 9.1.0; the provision 'For all screening test campaigns, it shall be necessary, as a minimum, to include testing the vehicl…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0359",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 4.4.6 of UN R83 was amended in version 9.1.0; the provision 'Contracting Party authorities shall enforce the prohibition of manipulation devices and manipulation…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0360",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 4.4.6 of UN R83 was amended in version 9.1.0; the provision 'If a manipulation device or strategy related to emissions is identified, market surveillance authori…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0361",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 4.4.7 of UN R83 was amended in version 9.1.0; the provision 'Contracting Party authorities shall ensure a uniform application of criteria for the assessment of s…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0362",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 Appendix 1 1.1 of UN R83 was amended in version 9.1.0; the provision 'Manufacturers shall include a technical description of their BES in the extended documentation packa…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0363",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 Appendix 1 1.2 of UN R83 was amended in version 9.1.0; the provision 'Manufacturers shall document all AES, with the possible omission of certain AES according to paragra…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0364",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 Appendix 1 1.2 of UN R83 was amended in version 9.1.0; the provision 'Manufacturers shall justify the use of an AES that is documented based on one or more of the followi…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0365",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 Appendix 1 1.3 of UN R83 was amended in version 9.1.0; the provision 'For each AES that is documented, manufacturers shall submit:' no longer appears."
+  },
+  {
+   "requirement_id": "R-0366",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 Appendix 1 1.3 of UN R83 was amended in version 9.1.0; the provision 'This shall include, as appropriate, engine parameters, ambient parameters and any other relevant con…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0367",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 Appendix 1 1.4 of UN R83 was amended in version 9.1.0; the provision 'The information referred to in paragraph 1.3. shall be included in the extended documentation packag…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0368",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 Appendix 1 2.1 of UN R83 was amended in version 9.1.0; the provision 'Authorities shall approve a BES that satisfies the documentation requirements of paragraph 1.1.' no longer appears."
+  },
+  {
+   "requirement_id": "R-0369",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 Appendix 1 2.2 of UN R83 was amended in version 9.1.0; the provision 'Authorities shall approve an AES that is documented if it is technically justified by one or more cr…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0370",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 Appendix 1 3 of UN R83 was amended in version 9.1.0; the provision 'Approval of AES and BES The type-approval authority shall approve the AES and BES submitted by the m…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0371",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 Appendix 1 3 of UN R83 was amended in version 9.1.0; the provision 'The extended documentation package shall be limited to 100 pages.' no longer appears."
+  },
+  {
+   "requirement_id": "R-0372",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 Appendix 1 3 of UN R83 was amended in version 9.1.0; the provision 'The manufacturer shall send a new consolidated version of the extended documentation package (with t…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0373",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 Appendix 1 3 of UN R83 was amended in version 9.1.0; the provision 'The new version of the AES shall be evaluated and approved by the typeapproval authority.' no longer appears."
+  },
+  {
+   "requirement_id": "R-0374",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 Appendix 1 3 of UN R83 was amended in version 9.1.0; the provision 'The extended documentation package shall include a declaration of the software versions and calibrat…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0375",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 Appendix 1 3 of UN R83 was amended in version 9.1.0; the provision 'The extended documentation package shall also include a declaration of the manufacturer on the absen…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0376",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 Appendix 1 3 of UN R83 was amended in version 9.1.0; the provision 'The approval of the extended documentation package shall not constitute proof of the absence of mani…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0377",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 Appendix 2 0 of UN R83 was amended in version 9.1.0; the provision 'The formal documentation package shall include the following information:' no longer appears."
+  },
+  {
+   "requirement_id": "R-0378",
+   "change": "removed",
+   "reason": "Paragraph Annex 7 Appendix 2 0 of UN R83 was amended in version 9.1.0; the provision 'Extended Documentation Package The extended documentation package shall be structured as follows:' no longer appears."
+  },
+  {
+   "requirement_id": "R-0464",
+   "change": "modified",
+   "new_text": "Following the ex-post emissions test, for all pollutants not monitored by the OBM system, the test outcome shall be considered a ‘follow-up’ when the pollutants are substantially increased to a level above the applicable OBD threshold values as specified in paragraph 6.8.2 of UN Regulation No 154 while the malfunction indication (MI) is not activated.",
+   "reason": "Paragraph Annex 9 3.3.3.2 of UN R83 was amended in version 9.1.0: 'indicator' became 'indication'.",
+   "source": {
+    "page": 76,
+    "paragraph": "Annex 9 3.3.3.2"
+   }
+  },
+  {
+   "requirement_id": "R-0513",
+   "change": "modified",
+   "new_text": "Two decisions are possible for a statistical procedure for a given combination of low temperature vehicle family, as defined in paragraph 6.10. of UN Regulation No. 154: ‘Sample pass’ decision shall be reached when the applicable decision chart from Table 11/1 gives a ‘PASS’ decision for the current cumulative sample size ‘n’ and the count of failed results ‘f’. ‘Sample fail’ decision shall be reached, for a given cumulative sample size ‘n’, when at least one of the following conditions is fulfilled:",
+   "reason": "Paragraph Annex 11 1.3 of UN R83 was amended in version 9.1.0: 'family:' became 'family, as defined in paragraph 6.10. of UN Regulation No. 154:'.",
+   "source": {
+    "page": 86,
+    "paragraph": "Annex 11 1.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In-service conformity for System Power shall be checked on properly maintained and used vehicles, in accordance with Annex 14, with a total distance (sum of the distance driven as reported by the odometer and the virtual distance (if applicable)) between 3,000 km and up to 40,000 km or with a vehicle age of up to 2 years, counting from the date of manufacture of the vehicle, whichever comes first, and:",
+   "reason": "Paragraph 9.7.1 of UN R83 is new in version 9.1.0: 'In-service conformity for System Power shall be checked on properly maintained and used vehicles, in…'.",
+   "source": {
+    "page": 12,
+    "paragraph": "9.7.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In the case of NOVC-HEVs, which can provide a battery state of health value of the selected vehicle, in place of the battery SOCE, this state of health value shall be equal to or above 90 per cent.",
+   "reason": "Paragraph 9.7.1 of UN R83 is new in version 9.1.0: 'In the case of NOVC-HEVs, which can provide a battery state of health value of the selected vehicle,…'.",
+   "source": {
+    "page": 12,
+    "paragraph": "9.7.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles of categories X and Y1 the mass of the driver shall not be included: ................................................................... 4 The mass of the driver and, if applicable, of the crew member is assessed at 75 kg (subdivided into 68 kg occupant mass and 7 kg luggage mass according to ISO Standard 2416 – 1992), the fuel tank is filled to 90 per cent and the other liquid containing systems (except those for used water) to 100 per cent of the capacity s specified by the manufacturer.",
+   "reason": "Paragraph Annex 1 2.6 of UN R83 is new in version 9.1.0: 'For vehicles of categories X and Y1 the mass of the driver shall not be included: ..................…'.",
+   "source": {
+    "page": 15,
+    "paragraph": "Annex 1 2.6"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For evaluating the SOCR/SOCE monitors normalised values shall be calculated:",
+   "reason": "Paragraph Annex 5 3.1.3 of UN R83 is new in version 9.1.0: 'For evaluating the SOCR/SOCE monitors normalised values shall be calculated:'.",
+   "source": {
+    "page": 54,
+    "paragraph": "Annex 5 3.1.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Vehicle Owner Interview _(the owner will only be asked the main questions and shall have no knowledge of the implications of the replies)_",
+   "reason": "Paragraph Annex 5 Appendix 1 0 of UN R83 is new in version 9.1.0: 'Vehicle Owner Interview _(the owner will only be asked the main questions and shall have no knowledg…'.",
+   "source": {
+    "page": 60,
+    "paragraph": "Annex 5 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Vehicles of categories X and Y shall be tested using the ADS testing mode as set out in paragraph 2.4.2.7. of Annex B6 to UN Regulation No. 154, but extended to enable the correct execution of the tests, where necessary.",
+   "reason": "Paragraph Annex 6 3.4.1 of UN R83 is new in version 9.1.0: 'Vehicles of categories X and Y shall be tested using the ADS testing mode as set out in paragraph 2.…'.",
+   "source": {
+    "page": 65,
+    "paragraph": "Annex 6 3.4.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "If the vehicle is equipped with an ADS testing mode, it shall be engaged for all tests on the chassis dynamometer where an ADS feature is active.",
+   "reason": "Paragraph Annex 6 3.4.2 of UN R83 is new in version 9.1.0: 'If the vehicle is equipped with an ADS testing mode, it shall be engaged for all tests on the chassi…'.",
+   "source": {
+    "page": 65,
+    "paragraph": "Annex 6 3.4.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Vehicles of categories X and Y shall be tested using the ADS testing mode as set out in paragraph 2.4.2.7. of Annex B6 to UN Regulation No. 154, but extended to enable the correct execution of the tests, where necessary. 3.6.2.",
+   "reason": "Paragraph Annex 8 3.6.1 of UN R83 is new in version 9.1.0: 'Vehicles of categories X and Y shall be tested using the ADS testing mode as set out in paragraph 2.…'.",
+   "source": {
+    "page": 70,
+    "paragraph": "Annex 8 3.6.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "If the vehicle is equipped with an ADS testing mode, it shall be engaged for all tests on the chassis dynamometer where an ADS feature is active.",
+   "reason": "Paragraph Annex 8 3.6.1 of UN R83 is new in version 9.1.0: 'If the vehicle is equipped with an ADS testing mode, it shall be engaged for all tests on the chassi…'.",
+   "source": {
+    "page": 70,
+    "paragraph": "Annex 8 3.6.1"
+   }
+  }
+ ]
+}

@@ -1,0 +1,191 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R13H",
+ "changes": [
+  {
+   "requirement_id": "R-0021",
+   "change": "modified",
+   "new_text": "A driver, if any, shall be able to achieve this braking action from his driving seat without removing his hands from the steering control.",
+   "reason": "Paragraph 5.1.2.1 of UN R13H was amended in version 2.2.0: 'The driver' became 'A driver, if any,'.",
+   "source": {
+    "page": 6,
+    "paragraph": "5.1.2.1"
+   }
+  },
+  {
+   "requirement_id": "R-0022",
+   "change": "modified",
+   "new_text": "Secondary braking system The secondary braking system shall make it possible by application of the service brake control or by demand from the ADS (as applicable) to halt the vehicle within a reasonable distance in the event of failure of the service braking system.",
+   "reason": "Paragraph 5.1.2.2 of UN R13H was amended in version 2.2.0: 'or by demand from the ADS (as applicable)' was added.",
+   "source": {
+    "page": 6,
+    "paragraph": "5.1.2.2"
+   }
+  },
+  {
+   "requirement_id": "R-0024",
+   "change": "modified",
+   "new_text": "A driver, if any, shall be able to obtain this braking action from his driving seat without removing his hands from the steering control.",
+   "reason": "Paragraph 5.1.2.2 of UN R13H was amended in version 2.2.0: 'The driver' became 'A driver, if any,'.",
+   "source": {
+    "page": 6,
+    "paragraph": "5.1.2.2"
+   }
+  },
+  {
+   "requirement_id": "R-0026",
+   "change": "modified",
+   "new_text": "A driver, if any, shall be able to achieve this braking action from his driving seat.",
+   "reason": "Paragraph 5.1.2.3 of UN R13H was amended in version 2.2.0: 'The driver' became 'A driver, if any,'.",
+   "source": {
+    "page": 6,
+    "paragraph": "5.1.2.3"
+   }
+  },
+  {
+   "requirement_id": "R-0049",
+   "change": "removed",
+   "reason": "Paragraph 5.2.2.1 of UN R13H was amended in version 2.2.0; the provision 'This requirement shall not apply to a parking brake control when it is mechanically locked in an app…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0054",
+   "change": "removed",
+   "reason": "Paragraph 5.2.2.7 of UN R13H was amended in version 2.2.0; the provision 'If service braking is ensured by the action of the driver's muscular energy assisted by one or more …' no longer appears."
+  },
+  {
+   "requirement_id": "R-0055",
+   "change": "modified",
+   "new_text": "If service braking is ensured by the action of the driver's muscular energy assisted by one or more energy reserves, secondary braking shall, in the event of failure of that assistance, be capable of being ensured by the driver's muscular energy assisted by the energy reserves, if any, which are unaffected by the failure, the force applied to the service brake control not exceeding the prescribed maximum; 5.2.2.8. if the service braking force and transmission depend exclusively on the use, controlled by the driver or the ADS, of an energy reserve, there shall be at least two completely independent energy reserves, each provided with its own transmission, likewise independent; each of them may act on the brakes of only two or more wheels so selected as to be capable of ensuring by themselves the prescribed degree of secondary braking without endangering the stability of the vehicle during braking; in addition, each of the aforesaid energy reserves shall be equipped with a warning device as defined in paragraph 5.2.14. below;",
+   "reason": "Paragraph 5.2.2.7 (formerly 5.2.2.8) of UN R13H was amended in version 2.2.0: 'service braking is ensured by the action of the driver's muscular energy assisted by one or more energy reserves, secondary braking shall, in the event of failure of that assistance, be capable of being ensured by the driver's muscular energy assisted by the energy reserves, if any, which are unaffected by the failure, the force applied to the service brake control not exceeding the prescribed maximum; 5.2.2.8. if' was added; 'driver,' became 'driver or the ADS,'.",
+   "source": {
+    "page": 8,
+    "paragraph": "5.2.2.7"
+   }
+  },
+  {
+   "requirement_id": "R-0139",
+   "change": "modified",
+   "new_text": "After the powertrain has been deactivated and/or the key removed it shall remain possible to apply the parking braking system, whereas releasing by using the parking brake control shall be prevented.",
+   "reason": "Paragraph 5.2.19.4 of UN R13H was amended in version 2.2.0: 'ignition/start switch which controls the electrical energy for the braking equipment' became 'powertrain'; 'switched off' became 'deactivated'; 'removed,' became 'removed'; 'by using the parking brake control' was added.",
+   "source": {
+    "page": 15,
+    "paragraph": "5.2.19.4"
+   }
+  },
+  {
+   "requirement_id": "R-0232",
+   "change": "modified",
+   "new_text": "Special provisions for vehicles equipped with an Automated Driving System The braking system of any vehicle equipped with an Automated Driving System shall fulfil the following requirements.",
+   "reason": "Paragraph 5.3 of UN R13H was amended in version 2.2.0: 'Provisions' became 'provisions'; 'equipment' became 'system'; 'System, other than Automated Lane Keeping Systems as defined in UN Regulation No. 157,' became 'System'.",
+   "source": {
+    "page": 22,
+    "paragraph": "5.3"
+   }
+  },
+  {
+   "requirement_id": "R-0235",
+   "change": "removed",
+   "reason": "Paragraph 5.3.3 of UN R13H was amended in version 2.2.0; the provision 'Whilst the ADS is active, detected faults as specified in this UN Regulation shall be transmitted to…' no longer appears."
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "This requirement shall not apply to a parking brake control when it is mechanically locked in an applied position; 1 As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3.), document ECE/TRANS/WP.29/78/Rev.8 - https://unece.org/transport/vehicle-regulations/wp29/resolutions",
+   "reason": "Paragraph 5.2.2.1 of UN R13H is new in version 2.2.0: 'This requirement shall not apply to a parking brake control when it is mechanically locked in an app…'.",
+   "source": {
+    "page": 8,
+    "paragraph": "5.2.2.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Whilst an ADS feature is active, warnings (e.g. defect warning signals, signals from a warning device, failure status) and other information intended for the driver as specified in this UN Regulation (including those received from a trailer) shall be transmitted to the ADS.",
+   "reason": "Paragraph 5.3.3 of UN R13H is new in version 2.2.0: 'Whilst an ADS feature is active, warnings (e.g. defect warning signals, signals from a warning devic…'.",
+   "source": {
+    "page": 22,
+    "paragraph": "5.3.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The means by which it is ensured that existing detected faults are transmitted to the ADS before an ADS feature becomes active (e.g. previously detected faults which remain present) shall be documented by the manufacturer and demonstrated in accordance with Annex 8.",
+   "reason": "Paragraph 5.3.3 of UN R13H is new in version 2.2.0: 'The means by which it is ensured that existing detected faults are transmitted to the ADS before an …'.",
+   "source": {
+    "page": 22,
+    "paragraph": "5.3.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles of categories X and Y, all tests in this annex shall be conducted, and all respective requirements shall be fulfilled.",
+   "reason": "Paragraph Annex 3 1.1.3 of UN R13H is new in version 2.2.0: 'For vehicles of categories X and Y, all tests in this annex shall be conducted, and all respective r…'.",
+   "source": {
+    "page": 30,
+    "paragraph": "Annex 3 1.1.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In the absence of manual driving controls, braking tests shall be conducted using dedicated activation methods, which may include: (a) A test mode allowing to manually control or trigger the braking functions, or (b) Any other method subject to agreement between the vehicle manufacturer and the technical service, ensuring that the evaluation accurately reflects real-world ADS braking performance.",
+   "reason": "Paragraph Annex 3 1.1.3 of UN R13H is new in version 2.2.0: '(a) A test mode allowing to manually control or trigger the braking functions, or (b) Any other meth…'.",
+   "source": {
+    "page": 30,
+    "paragraph": "Annex 3 1.1.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Wherever this annex details a control being actuated or a force being applied, that shall be understood as a braking demand being made through the selected activation method above.",
+   "reason": "Paragraph Annex 3 1.1.3 of UN R13H is new in version 2.2.0: 'Wherever this annex details a control being actuated or a force being applied, that shall be underst…'.",
+   "source": {
+    "page": 30,
+    "paragraph": "Annex 3 1.1.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The manufacturer shall demonstrate that the test activation method accurately replicates ADS braking performance, and a detailed description of the method used shall be included in the test report.",
+   "reason": "Paragraph Annex 3 1.1.3 of UN R13H is new in version 2.2.0: 'The manufacturer shall demonstrate that the test activation method accurately replicates ADS braking…'.",
+   "source": {
+    "page": 30,
+    "paragraph": "Annex 3 1.1.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The braking demand made shall be recorded in the test report alongside the results of each test.",
+   "reason": "Paragraph Annex 3 1.1.3 of UN R13H is new in version 2.2.0: 'The braking demand made shall be recorded in the test report alongside the results of each test.'.",
+   "source": {
+    "page": 30,
+    "paragraph": "Annex 3 1.1.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles equipped with an ADS, other than those of category X or Y, the tests in this annex shall be performed at least in the manual driving mode.",
+   "reason": "Paragraph Annex 3 1.1.4 of UN R13H is new in version 2.2.0: 'For vehicles equipped with an ADS, other than those of category X or Y, the tests in this annex shal…'.",
+   "source": {
+    "page": 30,
+    "paragraph": "Annex 3 1.1.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "However, testing to verify this shall be performed at the request of the technical service.",
+   "reason": "Paragraph Annex 3 1.1.4 of UN R13H is new in version 2.2.0: 'However, testing to verify this shall be performed at the request of the technical service.'.",
+   "source": {
+    "page": 30,
+    "paragraph": "Annex 3 1.1.4"
+   }
+  }
+ ]
+}

@@ -1,0 +1,571 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R79",
+ "changes": [
+  {
+   "requirement_id": "R-0021",
+   "change": "removed",
+   "reason": "Paragraph 5.1.1 of UN R79 was amended in version 5.0.0; the provision 'There shall be a tendency to self-centre when tested in accordance with paragraph 6.2. with the inta…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0025",
+   "change": "modified",
+   "new_text": "It shall be possible to travel along a straight section of road without unusual steering correction by the driver or ADS, and without unusual vibration in the steering system at the maximum design speed of the vehicle.",
+   "reason": "Paragraph 5.1.2 of UN R79 was amended in version 5.0.0: 'or ADS,' was added.",
+   "source": {
+    "page": 10,
+    "paragraph": "5.1.2"
+   }
+  },
+  {
+   "requirement_id": "R-0031",
+   "change": "modified",
+   "new_text": "This shall be demonstrated by fulfilling the technical requirements and respecting the transitional provisions of Regulation No. 10 by applying the following series of amendments (or later), as applicable:",
+   "reason": "Paragraph 5.1.5 of UN R79 was amended in version 5.0.0: 'UN' was removed; 'applying:' became 'applying the following series of amendments (or later), as applicable:'.",
+   "source": {
+    "page": 10,
+    "paragraph": "5.1.5"
+   }
+  },
+  {
+   "requirement_id": "R-0378",
+   "change": "modified",
+   "new_text": "Special Provisions for vehicles equipped with an Automated Driving System The steering equipment of any vehicle equipped with an Automated Driving System shall fulfil the following requirements.",
+   "reason": "Paragraph 5.8 of UN R79 was amended in version 5.0.0: 'System, other than Automated Lane Keeping Systems as defined in UN Regulation No. 157,' became 'System'.",
+   "source": {
+    "page": 36,
+    "paragraph": "5.8"
+   }
+  },
+  {
+   "requirement_id": "R-0381",
+   "change": "modified",
+   "new_text": "Whilst an ADS feature is active, warning signals (e.g. failure status) and other information intended for the driver as described in this UN Regulation shall be transmitted to the ADS.",
+   "reason": "Paragraph 5.8.3 of UN R79 was amended in version 5.0.0: 'the' became 'an'; 'feature' was added; 'detected faults' became 'warning signals (e.g. failure status) and other information intended for the driver'; 'paragraph 5.4. of' was removed.",
+   "source": {
+    "page": 36,
+    "paragraph": "5.8.3"
+   }
+  },
+  {
+   "requirement_id": "R-0387",
+   "change": "modified",
+   "new_text": "In the case of any systems that use electrical energy for part or all of the energy supply, all performance tests shall be carried out under conditions of actual or simulated electrical load of all essential systems or system components which share the same energy supply.",
+   "reason": "Paragraph 6.1.4 of UN R79 was amended in version 5.0.0: 'systems' became 'system'.",
+   "source": {
+    "page": 37,
+    "paragraph": "6.1.4"
+   }
+  },
+  {
+   "requirement_id": "R-0388",
+   "change": "modified",
+   "new_text": "Essential systems shall comprise at least the following, where fitted: lighting systems, windscreen wipers, powertrain management systems, braking systems and automated driving systems.",
+   "reason": "Paragraph 6.1.4 of UN R79 was amended in version 5.0.0: 'the following, where fitted:' was added; 'engine' became 'powertrain'; 'systems, braking systems' was added; 'braking' became 'automated driving'.",
+   "source": {
+    "page": 37,
+    "paragraph": "6.1.4"
+   }
+  },
+  {
+   "requirement_id": "R-0456",
+   "change": "modified",
+   "new_text": "Except for parts of ASE not considered susceptible to breakdown as specified in paragraph 5.3.1.1. of this Regulation, the following failure of ASE shall be clearly brought to the attention of the driver or transmitted to the ADS, as applicable:",
+   "reason": "Paragraph Annex 4 2.3.1 of UN R79 was amended in version 5.0.0: 'driver.' became 'driver or transmitted to the ADS, as applicable:'.",
+   "source": {
+    "page": 49,
+    "paragraph": "Annex 4 2.3.1"
+   }
+  },
+  {
+   "requirement_id": "R-0526",
+   "change": "modified",
+   "new_text": "The user manual shall include information to advise the user on the electrical energy available for the trailer steering system and that the electrical interface shall not be connected when the current requirement marked on the trailer exceeds that which can be supplied by the towing vehicle.",
+   "reason": "Paragraph Annex 7 2.1.2 of UN R79 was amended in version 5.0.0: 'driver's' became 'user'; 'driver' became 'user'.",
+   "source": {
+    "page": 56,
+    "paragraph": "Annex 7 2.1.2"
+   }
+  },
+  {
+   "requirement_id": "R-0545",
+   "change": "modified",
+   "new_text": "Failures within the electric control transmission of the steering system shall be directly displayed to the driver or transmitted to the ADS, as applicable.",
+   "reason": "Paragraph Annex 7 3.5 of UN R79 was amended in version 5.0.0: 'driver.' became 'driver or transmitted to the ADS, as applicable.'.",
+   "source": {
+    "page": 57,
+    "paragraph": "Annex 7 3.5"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Except in the case of vehicles of categories X and Y1 , there shall be a tendency to self-centre when tested in accordance with paragraph 6.2. with intact steering equipment. 1 As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3.), document ECE/TRANS/WP.29/78/Rev.8 - https://unece.org/transport/vehicle-regulations/wp29/resolutions",
+   "reason": "Paragraph 5.1.1.1 of UN R79 is new in version 5.0.0: 'Except in the case of vehicles of categories X and Y1 , there shall be a tendency to self-centre whe…'.",
+   "source": {
+    "page": 9,
+    "paragraph": "5.1.1.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The direction of operation of the steering control shall correspond to the intended change of direction of the vehicle.",
+   "reason": "Paragraph 5.1.1.2.1 of UN R79 is new in version 5.0.0: 'The direction of operation of the steering control shall correspond to the intended change of direct…'.",
+   "source": {
+    "page": 9,
+    "paragraph": "5.1.1.2.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Paragraphs 5.1.5. and 5.1.11. shall apply.",
+   "reason": "Paragraph 5.1.1.2.2 of UN R79 is new in version 5.0.0: 'Paragraphs 5.1.5. and 5.1.11. shall apply.'.",
+   "source": {
+    "page": 9,
+    "paragraph": "5.1.1.2.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Paragraph 5.3.1.3. shall apply whilst the steering control is in use.",
+   "reason": "Paragraph 5.1.1.2.3 of UN R79 is new in version 5.0.0: 'Paragraph 5.3.1.3. shall apply whilst the steering control is in use.'.",
+   "source": {
+    "page": 9,
+    "paragraph": "5.1.1.2.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The steering control shall be located such that the driver is able to operate the vehicle safely (e.g. with an adequate view of the driving environment).",
+   "reason": "Paragraph 5.1.1.2.4 of UN R79 is new in version 5.0.0: 'The steering control shall be located such that the driver is able to operate the vehicle safely (e.…'.",
+   "source": {
+    "page": 9,
+    "paragraph": "5.1.1.2.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "(with the exception of paragraph 5.7.1.13. and paragraphs 5.7.1.16. to 5.7.1.21.) shall apply.",
+   "reason": "Paragraph 5.1.1.2.5 of UN R79 is new in version 5.0.0: '(with the exception of paragraph 5.7.1.13. and paragraphs 5.7.1.16. to 5.7.1.21.) shall apply.'.",
+   "source": {
+    "page": 9,
+    "paragraph": "5.1.1.2.5"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "It shall be ensured through technical means that the speed of vehicles of categories X and Y cannot exceed 6 km/h whilst the vehicle is being manually driven.",
+   "reason": "Paragraph 5.1.1.3 of UN R79 is new in version 5.0.0: 'It shall be ensured through technical means that the speed of vehicles of categories X and Y cannot …'.",
+   "source": {
+    "page": 10,
+    "paragraph": "5.1.1.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "This shall be demonstrated by fulfilling the technical requirements and respecting the transitional provisions of Regulation No. 10 by applying the following series of amendments (or later), as applicable: (c) The 07 series of amendments for vehicles equipped with an ADS.",
+   "reason": "Paragraph 5.1.5 of UN R79 is new in version 5.0.0: '(c) The 07 series of amendments for vehicles equipped with an ADS.'.",
+   "source": {
+    "page": 10,
+    "paragraph": "5.1.5"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Warning signals The requirements of this section related to warning signals to the driver shall not apply whilst an ADS feature is active.",
+   "reason": "Paragraph 5.4 of UN R79 is new in version 5.0.0: 'Warning signals The requirements of this section related to warning signals to the driver shall not …'.",
+   "source": {
+    "page": 20,
+    "paragraph": "5.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Requirements of paragraph 5.8.3. shall apply instead.",
+   "reason": "Paragraph 5.4 of UN R79 is new in version 5.0.0: 'Requirements of paragraph 5.8.3. shall apply instead.'.",
+   "source": {
+    "page": 20,
+    "paragraph": "5.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles of categories X and Y, suitable means shall be provided (e.g. a test mode, manual controls) to enable the performance of the necessary physical checks described in paragraph 5.5.1.",
+   "reason": "Paragraph 5.5.3 of UN R79 is new in version 5.0.0: 'For vehicles of categories X and Y, suitable means shall be provided (e.g. a test mode, manual contr…'.",
+   "source": {
+    "page": 21,
+    "paragraph": "5.5.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The means by which it is ensured that existing detected faults are transmitted to the ADS before an ADS feature becomes active (e.g. previously detected faults which remain present) shall be documented by the manufacturer and demonstrated in accordance with Annex 6.",
+   "reason": "Paragraph 5.8.3 of UN R79 is new in version 5.0.0: 'The means by which it is ensured that existing detected faults are transmitted to the ADS before an …'.",
+   "source": {
+    "page": 36,
+    "paragraph": "5.8.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Notwithstanding the provisions of sections 5.1.6 and 5.6, Advanced Driver Assistance Steering Systems shall not be active, or be able to be activated, whilst an ADS feature is active.",
+   "reason": "Paragraph 5.8.5 of UN R79 is new in version 5.0.0: 'Notwithstanding the provisions of sections 5.1.6 and 5.6, Advanced Driver Assistance Steering System…'.",
+   "source": {
+    "page": 36,
+    "paragraph": "5.8.5"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Whilst the vehicle is in a manual driving mode (if applicable), the steering system is classified according to paragraphs 2.5.1.1.1. to 2.5.1.1.3. and shall meet all requirements of this regulation relevant to that classification.",
+   "reason": "Paragraph 5.8.6 of UN R79 is new in version 5.0.0: 'Whilst the vehicle is in a manual driving mode (if applicable), the steering system is classified ac…'.",
+   "source": {
+    "page": 36,
+    "paragraph": "5.8.6"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Whilst an ADS Feature is active, the steering equipment is classified as ADS Steering Equipment according to paragraph 2.5.1.1.4. and shall meet all applicable requirements of this regulation, and the following additional requirements.",
+   "reason": "Paragraph 5.8.6 of UN R79 is new in version 5.0.0: 'Whilst an ADS Feature is active, the steering equipment is classified as ADS Steering Equipment acco…'.",
+   "source": {
+    "page": 36,
+    "paragraph": "5.8.6"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "ADS Steering Equipment with electrical energy transmission shall meet the following additional requirements:",
+   "reason": "Paragraph 5.8.6.1 of UN R79 is new in version 5.0.0: 'ADS Steering Equipment with electrical energy transmission shall meet the following additional requi…'.",
+   "source": {
+    "page": 36,
+    "paragraph": "5.8.6.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "If any ADS Feature can operate at speeds above 10 km/h, there shall be an energy management system meeting the requirements of paragraph 5.3.3.6.7.",
+   "reason": "Paragraph 5.8.6.1.1 of UN R79 is new in version 5.0.0: 'If any ADS Feature can operate at speeds above 10 km/h, there shall be an energy management system m…'.",
+   "source": {
+    "page": 36,
+    "paragraph": "5.8.6.1.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "A warning signal shall be transmitted to the ADS no later than when the effect of ageing on the electrical storage device(s) is such that its performance is not sufficient to fulfil the specifications defined by the manufacturer according to paragraph 5.8.6.3.",
+   "reason": "Paragraph 5.8.6.1.1.1 of UN R79 is new in version 5.0.0: 'A warning signal shall be transmitted to the ADS no later than when the effect of ageing on the elec…'.",
+   "source": {
+    "page": 37,
+    "paragraph": "5.8.6.1.1.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The energy management system shall continuously transmit the state of the electrical storage device(s) to the ADS.",
+   "reason": "Paragraph 5.8.6.1.1.2 of UN R79 is new in version 5.0.0: 'The energy management system shall continuously transmit the state of the electrical storage device(…'.",
+   "source": {
+    "page": 37,
+    "paragraph": "5.8.6.1.1.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "ADS Steering Equipment with non-electrical energy transmission shall meet the following additional requirement:",
+   "reason": "Paragraph 5.8.6.2 of UN R79 is new in version 5.0.0: 'ADS Steering Equipment with non-electrical energy transmission shall meet the following additional r…'.",
+   "source": {
+    "page": 37,
+    "paragraph": "5.8.6.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The level of stored energy in the energy reservoir(s) shall be continuously transmitted to the ADS.",
+   "reason": "Paragraph 5.8.6.2.1 of UN R79 is new in version 5.0.0: 'The level of stored energy in the energy reservoir(s) shall be continuously transmitted to the ADS.'.",
+   "source": {
+    "page": 37,
+    "paragraph": "5.8.6.2.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The manufacturer shall document and demonstrate according to Annex 6 how, in case of a failure of the energy supply (including the energy source, if any), energy transmission or control transmission, the system is able to fulfil the specifications defined by the manufacturer.",
+   "reason": "Paragraph 5.8.6.3 of UN R79 is new in version 5.0.0: 'The manufacturer shall document and demonstrate according to Annex 6 how, in case of a failure of th…'.",
+   "source": {
+    "page": 37,
+    "paragraph": "5.8.6.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "These specifications shall be defined in terms of a sequence (or sequences) of manoeuvres which can be performed, considering all relevant effects which could negatively impact the performance of the steering system (e.g. temperature, ageing effects of the electrical storage devices).",
+   "reason": "Paragraph 5.8.6.3 of UN R79 is new in version 5.0.0: 'These specifications shall be defined in terms of a sequence (or sequences) of manoeuvres which can …'.",
+   "source": {
+    "page": 37,
+    "paragraph": "5.8.6.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The requirements of paragraph 6 for an intact system shall be satisfied until the vehicle speed is below 10 km/h.",
+   "reason": "Paragraph 5.8.6.3 of UN R79 is new in version 5.0.0: 'The requirements of paragraph 6 for an intact system shall be satisfied until the vehicle speed is b…'.",
+   "source": {
+    "page": 37,
+    "paragraph": "5.8.6.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The performance shall be assessed by the Technical Service at the time of type approval.",
+   "reason": "Paragraph 5.8.6.3 of UN R79 is new in version 5.0.0: 'The performance shall be assessed by the Technical Service at the time of type approval.'.",
+   "source": {
+    "page": 37,
+    "paragraph": "5.8.6.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The vehicle shall be driven from straight ahead into a spiral at a speed of 10 km/h.",
+   "reason": "Paragraph 6.2.6.1 of UN R79 is new in version 5.0.0: 'The vehicle shall be driven from straight ahead into a spiral at a speed of 10 km/h.'.",
+   "source": {
+    "page": 38,
+    "paragraph": "6.2.6.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The time shall be measured from the start of steering motion until the position of the steered wheels corresponds to a turning radius of 12 m.",
+   "reason": "Paragraph 6.2.6.1 of UN R79 is new in version 5.0.0: 'The time shall be measured from the start of steering motion until the position of the steered wheel…'.",
+   "source": {
+    "page": 38,
+    "paragraph": "6.2.6.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "One steering movement shall be made to the right and one to the left.",
+   "reason": "Paragraph 6.2.6.1 of UN R79 is new in version 5.0.0: 'One steering movement shall be made to the right and one to the left.'.",
+   "source": {
+    "page": 38,
+    "paragraph": "6.2.6.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The test described in paragraph 6.2.6. shall be repeated with a failure in the steering equipment.",
+   "reason": "Paragraph 6.2.7.1 of UN R79 is new in version 5.0.0: 'The test described in paragraph 6.2.6. shall be repeated with a failure in the steering equipment.'.",
+   "source": {
+    "page": 39,
+    "paragraph": "6.2.7.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The steering time shall be measured from the start of steering motion until the position of the steered wheels corresponds to the turning radius of 20 m.",
+   "reason": "Paragraph 6.2.7.1 of UN R79 is new in version 5.0.0: 'The steering time shall be measured from the start of steering motion until the position of the stee…'.",
+   "source": {
+    "page": 39,
+    "paragraph": "6.2.7.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "If the turning radii specified in paragraphs 6.2.6.1. or 6.2.7.1. are not attainable (because the steering angle available to the ADS is limited, or because full lock is reached), the maximum attainable steering angle shall be used, and the maximum permitted steering time shall be adjusted according to the following formula.",
+   "reason": "Paragraph 6.2.8 of UN R79 is new in version 5.0.0: 'If the turning radii specified in paragraphs 6.2.6.1. or 6.2.7.1. are not attainable (because the st…'.",
+   "source": {
+    "page": 39,
+    "paragraph": "6.2.8"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The tests described in paragraphs 6.2.6. and 6.2.7. shall be conducted using a method subject to agreement between the manufacturer and the Technical Service, in order to demonstrate that the steering actuator(s) can achieve the specified steering times.",
+   "reason": "Paragraph 6.2.9 of UN R79 is new in version 5.0.0: 'The tests described in paragraphs 6.2.6. and 6.2.7. shall be conducted using a method subject to agr…'.",
+   "source": {
+    "page": 39,
+    "paragraph": "6.2.9"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The manufacturer shall demonstrate that the test activation method accurately replicates ADS steering performance, and a detailed description of the method used shall be included in the test report.",
+   "reason": "Paragraph 6.2.9 of UN R79 is new in version 5.0.0: 'The manufacturer shall demonstrate that the test activation method accurately replicates ADS steerin…'.",
+   "source": {
+    "page": 39,
+    "paragraph": "6.2.9"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The steering demand made shall be recorded in the test report alongside the results of each test.",
+   "reason": "Paragraph 6.2.9 of UN R79 is new in version 5.0.0: 'The steering demand made shall be recorded in the test report alongside the results of each test.'.",
+   "source": {
+    "page": 39,
+    "paragraph": "6.2.9"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In the case that the vehicle has full power steering in the manual driving mode, the tests described in paragraphs 6.2.6. and 6.2.7. are not required to be performed if the manufacturer can demonstrate that the steering performance available to the ADS is equivalent to that available in the manual mode.",
+   "reason": "Paragraph 6.2.9 of UN R79 is new in version 5.0.0: 'In the case that the vehicle has full power steering in the manual driving mode, the tests described…'.",
+   "source": {
+    "page": 39,
+    "paragraph": "6.2.9"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "As from the official date of entry into force of the 05 series of amendments, no Contracting Party applying this Regulation shall refuse to grant or refuse to accept UN type approvals under this regulation as amended by the 05 series of amendments.",
+   "reason": "Paragraph 12.4.1 of UN R79 is new in version 5.0.0: 'As from the official date of entry into force of the 05 series of amendments, no Contracting Party a…'.",
+   "source": {
+    "page": 42,
+    "paragraph": "12.4.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "As from 1 September 2027, Contracting Parties applying this Regulation shall not be obliged to accept UN type approvals to the preceding series of amendments, first issued after 1 September 2027.",
+   "reason": "Paragraph 12.4.2 of UN R79 is new in version 5.0.0: 'As from 1 September 2027, Contracting Parties applying this Regulation shall not be obliged to accep…'.",
+   "source": {
+    "page": 42,
+    "paragraph": "12.4.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Until 1 September 2029, Contracting Parties applying this Regulation shall continue to accept UN type approvals to the preceding series of amendments to this Regulation, first issued before 1 September 2029.",
+   "reason": "Paragraph 12.4.3 of UN R79 is new in version 5.0.0: 'Until 1 September 2029, Contracting Parties applying this Regulation shall continue to accept UN typ…'.",
+   "source": {
+    "page": 42,
+    "paragraph": "12.4.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "As from 1 September 2029, Contracting Parties applying this Regulation shall not be obliged to accept type approvals issued to the preceding series of amendments to this Regulation.",
+   "reason": "Paragraph 12.4.4 of UN R79 is new in version 5.0.0: 'As from 1 September 2029, Contracting Parties applying this Regulation shall not be obliged to accep…'.",
+   "source": {
+    "page": 42,
+    "paragraph": "12.4.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Notwithstanding paragraphs 12.4.2. and 12.4.4., Contracting Parties applying this UN Regulation shall continue to accept UN type approvals issued according to any of the preceding series of amendments to this UN Regulation, for vehicles which are not affected by the provisions introduced with the 05 series of amendments, provided the transitional provisions in these respective previous series of amendments foresee this possibility.",
+   "reason": "Paragraph 12.4.5 of UN R79 is new in version 5.0.0: 'Notwithstanding paragraphs 12.4.2. and 12.4.4., Contracting Parties applying this UN Regulation shal…'.",
+   "source": {
+    "page": 42,
+    "paragraph": "12.4.5"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Contracting Parties applying this Regulation shall continue to accept UN type approvals for vehicle types equipped with an Automated Lane Keeping System as defined in UN Regulation No. 157, for vehicles not complying with the requirements of paragraph 5.8. with respect to that Automated Lane Keeping System (ALKS), first issued before 1 September 2030.",
+   "reason": "Paragraph 12.4.7 of UN R79 is new in version 5.0.0: 'Contracting Parties applying this Regulation shall continue to accept UN type approvals for vehicle …'.",
+   "source": {
+    "page": 42,
+    "paragraph": "12.4.7"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles of categories X and Y, tests shall be conducted using a method subject to agreement between the manufacturer and the Technical Service, ensuring that the evaluation accurately reflects real-world ADS braking performance.",
+   "reason": "Paragraph Annex 3 1.4 of UN R79 is new in version 5.0.0: 'For vehicles of categories X and Y, tests shall be conducted using a method subject to agreement bet…'.",
+   "source": {
+    "page": 47,
+    "paragraph": "Annex 3 1.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Wherever this annex details a control being actuated or a force being applied, that shall be understood as a braking demand being made.",
+   "reason": "Paragraph Annex 3 1.4 of UN R79 is new in version 5.0.0: 'Wherever this annex details a control being actuated or a force being applied, that shall be underst…'.",
+   "source": {
+    "page": 47,
+    "paragraph": "Annex 3 1.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The manufacturer shall demonstrate that the test activation method accurately replicates ADS braking performance, and a detailed description of the method used shall be included in the test report.",
+   "reason": "Paragraph Annex 3 1.4 of UN R79 is new in version 5.0.0: 'The manufacturer shall demonstrate that the test activation method accurately replicates ADS braking…'.",
+   "source": {
+    "page": 47,
+    "paragraph": "Annex 3 1.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The braking demand made shall be recorded in the test report alongside the results of each test.",
+   "reason": "Paragraph Annex 3 1.4 of UN R79 is new in version 5.0.0: 'The braking demand made shall be recorded in the test report alongside the results of each test.'.",
+   "source": {
+    "page": 47,
+    "paragraph": "Annex 3 1.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles equipped with an ADS, other than those of categories X and Y, the tests in this annex shall be performed at least using the relevant manual brake control.",
+   "reason": "Paragraph Annex 3 1.4 of UN R79 is new in version 5.0.0: 'For vehicles equipped with an ADS, other than those of categories X and Y, the tests in this annex s…'.",
+   "source": {
+    "page": 47,
+    "paragraph": "Annex 3 1.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "However, testing to verify this shall be performed at the discretion of the Technical Service.",
+   "reason": "Paragraph Annex 3 1.4 of UN R79 is new in version 5.0.0: 'However, testing to verify this shall be performed at the discretion of the Technical Service.'.",
+   "source": {
+    "page": 47,
+    "paragraph": "Annex 3 1.4"
+   }
+  }
+ ]
+}

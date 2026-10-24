@@ -1,0 +1,156 @@
+{
+ "summary": {
+  "expected": 24,
+  "submitted": 26,
+  "flag_recall": 1.0,
+  "accuracy_of_found": 0.958,
+  "correct_recall": 0.958,
+  "precision": 0.923
+ },
+ "items": [
+  {
+   "expected_index": 0,
+   "submitted_index": 0,
+   "correct": true,
+   "note": "Same misapplication definition, paraphrased."
+  },
+  {
+   "expected_index": 1,
+   "submitted_index": 1,
+   "correct": true,
+   "note": "Same obligation, reordered."
+  },
+  {
+   "expected_index": 2,
+   "submitted_index": 2,
+   "correct": true,
+   "note": "Identical text."
+  },
+  {
+   "expected_index": 3,
+   "submitted_index": 3,
+   "correct": true,
+   "note": "Same lateral offset constraint; the added test context is harmless."
+  },
+  {
+   "expected_index": 4,
+   "submitted_index": 4,
+   "correct": false,
+   "note": "Submitted adds a 'both in a forward and rearward direction' constraint that is not in the expected new text; the expected modification appears to drop it."
+  },
+  {
+   "expected_index": 5,
+   "submitted_index": 5,
+   "correct": true,
+   "note": "Same positioning step."
+  },
+  {
+   "expected_index": 6,
+   "submitted_index": 6,
+   "correct": true,
+   "note": "Removal matches."
+  },
+  {
+   "expected_index": 7,
+   "submitted_index": 9,
+   "correct": true,
+   "note": "Same creeping collision demand-reduction requirement."
+  },
+  {
+   "expected_index": 8,
+   "submitted_index": 10,
+   "correct": true,
+   "note": "Same pedestrian target requirement."
+  },
+  {
+   "expected_index": 9,
+   "submitted_index": 11,
+   "correct": true,
+   "note": "Same reference point definition."
+  },
+  {
+   "expected_index": 10,
+   "submitted_index": 14,
+   "correct": true,
+   "note": "Same vehicle target orientation."
+  },
+  {
+   "expected_index": 11,
+   "submitted_index": 15,
+   "correct": true,
+   "note": "Test with and without target."
+  },
+  {
+   "expected_index": 12,
+   "submitted_index": 16,
+   "correct": true,
+   "note": "ACPE deactivated if necessary without target."
+  },
+  {
+   "expected_index": 13,
+   "submitted_index": 17,
+   "correct": true,
+   "note": "Tests without target may be combined."
+  },
+  {
+   "expected_index": 14,
+   "submitted_index": 21,
+   "correct": true,
+   "note": "Position at starting point."
+  },
+  {
+   "expected_index": 15,
+   "submitted_index": 22,
+   "correct": true,
+   "note": "Hold stationary and select direction."
+  },
+  {
+   "expected_index": 16,
+   "submitted_index": 23,
+   "correct": true,
+   "note": "Release braking system."
+  },
+  {
+   "expected_index": 17,
+   "submitted_index": 24,
+   "correct": true,
+   "note": "Operate accelerator to trigger at distance."
+  },
+  {
+   "expected_index": 18,
+   "submitted_index": 25,
+   "correct": true,
+   "note": "Manufacturer demonstrates compliance with 5.1.6.2."
+  },
+  {
+   "expected_index": 19,
+   "submitted_index": 18,
+   "correct": true,
+   "note": "Each condition tested once, at Technical Service discretion."
+  },
+  {
+   "expected_index": 20,
+   "submitted_index": 19,
+   "correct": true,
+   "note": "Forward creeping speed selection."
+  },
+  {
+   "expected_index": 21,
+   "submitted_index": 20,
+   "correct": true,
+   "note": "Rearward 4 km/h selection."
+  },
+  {
+   "expected_index": 22,
+   "submitted_index": 7,
+   "correct": true,
+   "note": "Same exemption conditions."
+  },
+  {
+   "expected_index": 23,
+   "submitted_index": 12,
+   "correct": true,
+   "note": "Same 25% pedestrian lateral offset."
+  }
+ ]
+}

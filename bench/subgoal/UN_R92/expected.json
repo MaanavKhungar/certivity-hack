@@ -1,0 +1,151 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R92",
+ "changes": [
+  {
+   "requirement_id": "R-0017",
+   "change": "modified",
+   "new_text": "Its first two digits (at present 03 corresponding to the 03 series of amendments to the UN Regulation) shall indicate the series of amendments incorporating the most recent major technical amendments made to the Regulation at the time of issue of the approval.",
+   "reason": "Paragraph 5.2 of UN R92 was amended in version 3.0.0: '01' became '03'; '01' became '03'; 'UN' was removed.",
+   "source": {
+    "page": 4,
+    "paragraph": "5.2"
+   }
+  },
+  {
+   "requirement_id": "R-0026",
+   "change": "modified",
+   "new_text": "They shall not exceed either of the values measured in conformity with the requirements of paragraph 3.3.(c), for the same vehicle when fitted with the original silencing system during the test with the vehicle in motion and during the stationary test.",
+   "reason": "Paragraph 6.2 of UN R92 was amended in version 3.0.0: 'either of' was added; 'during' was added.",
+   "source": {
+    "page": 4,
+    "paragraph": "6.2"
+   }
+  },
+  {
+   "requirement_id": "R-0027",
+   "change": "removed",
+   "reason": "Paragraph 6.3.1 of UN R92 was amended in version 3.0.0; the provision 'Tampering protection provisions The NORESS or its components shall be constructed in a way that does…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0028",
+   "change": "removed",
+   "reason": "Paragraph 6.3.1 of UN R92 was amended in version 3.0.0; the provision 'Where incorporation of such a part is unavoidable, its method of attachment shall be such that remov…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0035",
+   "change": "removed",
+   "reason": "Paragraph 6.3.4.9.1 of UN R92 was amended in version 3.0.0; the provision 'It shall be made available in the two following parts:' no longer appears."
+  },
+  {
+   "requirement_id": "R-0065",
+   "change": "modified",
+   "new_text": "As from the official date of entry into force of the 03 series of amendments to this Regulation, no Contracting Party applying this Regulation shall refuse to grant or refuse to accept type approvals under this Regulation as amended by the 03 series of amendments.",
+   "reason": "Paragraph 12.1 of UN R92 was amended in version 3.0.0: '02' became '03'; 'of amendments' was added; 'UN' was removed; 'UN' was removed; 'this Regulation as amended by' was added; '02' became '03'; 'to this UN Regulation.' became 'of amendments.'.",
+   "source": {
+    "page": 8,
+    "paragraph": "12.1"
+   }
+  },
+  {
+   "requirement_id": "R-0066",
+   "change": "modified",
+   "new_text": "As from 24 months after the date of entry into force of the 03 series of amendments, Contracting Parties applying this Regulation shall not be obliged to accept type approvals to the preceding series of amendments, first issued after 24 months after the date of entry into force of the 03 series of amendments.",
+   "reason": "Paragraph 12.2 of UN R92 was amended in version 3.0.0: '12' became '24'; 'force,' became 'force of the 03 series of amendments,'; 'UN' was removed; 'grant' became 'not be obliged to accept type'; 'only if' became 'to'; 'type' became 'preceding series'; 'component or separate technical unit to be approved meets' became 'amendments, first issued after 24 months after'; 'requirements' became 'date of entry into force'; '02' became '03'; 'to this UN Regulation.' became 'of amendments.'.",
+   "source": {
+    "page": 9,
+    "paragraph": "12.2"
+   }
+  },
+  {
+   "requirement_id": "R-0067",
+   "change": "modified",
+   "new_text": "Until 36 months after the date of entry into force of the 03 series of amendments, Contracting Parties applying this Regulation shall accept type approvals issued according to the preceding series of amendments, first issued before 24 months after the date of entry into force of the 03 series of amendments.",
+   "reason": "Paragraph 12.4 (formerly 12.3) of UN R92 was amended in version 3.0.0: 'As from' became 'Until 36 months after the date of entry into force of the 03 series of amendments, Contracting Parties applying this Regulation shall accept type approvals issued according to the preceding series of amendments, first issued before'; 'force, Contracting Parties applying this UN Regulation shall grant extensions to existing approvals only if the type of component or separate technical unit to be approved meets the requirements' became 'force'; '02' became '03'; 'to this UN Regulation.' became 'of amendments.'.",
+   "source": {
+    "page": 9,
+    "paragraph": "12.4"
+   }
+  },
+  {
+   "requirement_id": "R-0068",
+   "change": "removed",
+   "reason": "Paragraph 12.4 of UN R92 was amended in version 3.0.0; the provision 'Even after the entry into force of the 02 series of amendments to this UN Regulation, approvals of t…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0069",
+   "change": "removed",
+   "reason": "Paragraph Annex 1 1 of UN R92 was amended in version 3.0.0; the provision 'If not available, the following information shall be provided: 10.1.' no longer appears."
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The manufacturer shall provide: (a) Instructions explaining in detail the correct method of mounting on the vehicle, (b) Instructions for handling the silencing system, (c) A list of components with the numbers of the corresponding parts, excluding retainers, (d) The approval mark.",
+   "reason": "Paragraph 4.6 of UN R92 is new in version 3.0.0: '(a) Instructions explaining in detail the correct method of mounting on the vehicle, (b) Instruction…'.",
+   "source": {
+    "page": 3,
+    "paragraph": "4.6"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Tampering protection provisions The NORESS and its components shall be designed and constructed considering tamper proofing measures.",
+   "reason": "Paragraph 6.3.1 of UN R92 is new in version 3.0.0: 'Tampering protection provisions The NORESS and its components shall be designed and constructed cons…'.",
+   "source": {
+    "page": 5,
+    "paragraph": "6.3.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Any tampering event shall cause irrecoverable damage to the assembly.",
+   "reason": "Paragraph 6.3.1 of UN R92 is new in version 3.0.0: 'Any tampering event shall cause irrecoverable damage to the assembly.'.",
+   "source": {
+    "page": 5,
+    "paragraph": "6.3.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Software of the NORESS (if any) shall be designed and programmed considering tamper proofing measures.",
+   "reason": "Paragraph 6.3.1 of UN R92 is new in version 3.0.0: 'Software of the NORESS (if any) shall be designed and programmed considering tamper proofing measure…'.",
+   "source": {
+    "page": 5,
+    "paragraph": "6.3.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "At the request of the type-approval authority or its technical service, the manufacturer of the NORESS shall describe the tamper proofing measures applied and demonstrate their practical effectiveness.",
+   "reason": "Paragraph 6.3.1 of UN R92 is new in version 3.0.0: 'At the request of the type-approval authority or its technical service, the manufacturer of the NORE…'.",
+   "source": {
+    "page": 5,
+    "paragraph": "6.3.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Compliance with those anti-tampering provisions shall be ensured in any case.",
+   "reason": "Paragraph 6.3.1 of UN R92 is new in version 3.0.0: 'Compliance with those anti-tampering provisions shall be ensured in any case.'.",
+   "source": {
+    "page": 5,
+    "paragraph": "6.3.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "As from 36 months after the date of entry into force of the 03 series of amendments, Contracting Parties applying this Regulation shall not be obliged to accept type approvals issued to the preceding series of amendments to this Regulation (unless the equipment or part is intended as a replacement for fitting on vehicles in use and that it would not be technically feasible for the equipment or part in question to satisfy the new requirements contained in this Regulation as amended by the 03 series of amendments).",
+   "reason": "Paragraph 12.3 of UN R92 is new in version 3.0.0: 'As from 36 months after the date of entry into force of the 03 series of amendments, Contracting Par…'.",
+   "source": {
+    "page": 9,
+    "paragraph": "12.3"
+   }
+  }
+ ]
+}

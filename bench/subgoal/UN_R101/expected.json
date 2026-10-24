@@ -1,0 +1,81 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R101",
+ "changes": [
+  {
+   "requirement_id": "R-0193",
+   "change": "removed",
+   "reason": "Paragraph Annex 8 3.2.2.5 of UN R101 was amended in version 1.13.0; the provision 'Application of a normal overnight charge The electrical energy/power storage device shall be charged…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0194",
+   "change": "modified",
+   "new_text": "The car manufacturer shall declare that during the test, a special charge procedure has not occurred.",
+   "reason": "Paragraph Annex 8 3.2.2.5.1 of UN R101 was amended in version 1.13.0: 'car' was added.",
+   "source": {
+    "page": 75,
+    "paragraph": "Annex 8 3.2.2.5.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The vehicle shall be prepared according to the procedure in paragraph 5.2.2. of Annex 7 to this Regulation.",
+   "reason": "Paragraph 9.4.3.1 of UN R101 is new in version 1.13.0: 'The vehicle shall be prepared according to the procedure in paragraph 5.2.2. of Annex 7 to this Regu…'.",
+   "source": {
+    "page": 16,
+    "paragraph": "9.4.3.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Where there are several possible methods to perform a normal AC charge (e.g. cable, induction, etc.), the charging procedure via cable shall be used.",
+   "reason": "Paragraph Annex 8 3.2.2.5 of UN R101 is new in version 1.13.0: 'Where there are several possible methods to perform a normal AC charge (e.g. cable, induction, etc.)…'.",
+   "source": {
+    "page": 75,
+    "paragraph": "Annex 8 3.2.2.5"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Where there are several AC charging power levels available, the highest normal charging power shall be used.",
+   "reason": "Paragraph Annex 8 3.2.2.5 of UN R101 is new in version 1.13.0: 'Where there are several AC charging power levels available, the highest normal charging power shall …'.",
+   "source": {
+    "page": 75,
+    "paragraph": "Annex 8 3.2.2.5"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Charging procedure The REESS shall be charged at an ambient temperature compromised between 20°C and 30°C with the on-board charger if fitted.",
+   "reason": "Paragraph Annex 8 3.2.2.5.1 of UN R101 is new in version 1.13.0: 'Charging procedure The REESS shall be charged at an ambient temperature compromised between 20°C and…'.",
+   "source": {
+    "page": 75,
+    "paragraph": "Annex 8 3.2.2.5.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In the following cases, a charger recommended by the manufacturer and using the charging pattern prescribed for normal charging shall be used if: (a) No on-board charger is fitted, or (b) Charging time exceeds maximum time defined in paragraph 3.2.2.5.2.",
+   "reason": "Paragraph Annex 8 3.2.2.5.1 of UN R101 is new in version 1.13.0: '(a) No on-board charger is fitted, or (b) Charging time exceeds maximum time defined in paragraph 3.…'.",
+   "source": {
+    "page": 75,
+    "paragraph": "Annex 8 3.2.2.5.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The accuracy of these data shall be demonstrated to the approval authority.",
+   "reason": "Paragraph Annex 8 Appendix 2 3 of UN R101 is new in version 1.13.0: 'The accuracy of these data shall be demonstrated to the approval authority.'.",
+   "source": {
+    "page": 91,
+    "paragraph": "Annex 8 Appendix 2 3"
+   }
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R103",
+ "changes": [
+  {
+   "requirement_id": "R-0048",
+   "change": "modified",
+   "new_text": "Requirements regarding durability The replacement pollution control device shall comply with the requirementsof paragraph 5.3.6. of Regulation No. 83.",
+   "reason": "Paragraph 5.4 of UN R103 was amended in version 0.4.0: 'requirements of' became 'requirementsof'; '83 i.e. type V test or deterioration factors from the following table for the results of the type I tests.' became '83.'.",
+   "source": {
+    "page": 6,
+    "paragraph": "5.4"
+   }
+  },
+  {
+   "requirement_id": "R-0050",
+   "change": "modified",
+   "new_text": "The compatibility of the replacement pollution control device with the OBD system shall be demonstrated by using the procedures described in the 05, 06 or 073 series of amendments to Regulation No. 83, Annex 11, Appendix 1 3 Whichever was in force at the time of the approval of the vehicle.",
+   "reason": "Paragraph 5.5.1 of UN R103 was amended in version 0.4.0: '05' became '05, 06'; '063' became '073'; '1.' became '1'.",
+   "source": {
+    "page": 6,
+    "paragraph": "5.5.1"
+   }
+  },
+  {
+   "requirement_id": "R-0051",
+   "change": "modified",
+   "new_text": "The provisions in the 05, 06 or 073 series of amendments to Regulation No. 83, Annex 11, Appendix 1 applicable to components other than the pollution control device shall not be applied. 3 Whichever was in force at the time of the approval of the vehicle.",
+   "reason": "Paragraph 5.5.2 of UN R103 was amended in version 0.4.0: '05' became '05, 06'; '065' became '073'.",
+   "source": {
+    "page": 6,
+    "paragraph": "5.5.2"
+   }
+  },
+  {
+   "requirement_id": "R-0059",
+   "change": "modified",
+   "new_text": "Upon request of the applicant for the approval of the replacement component,the approval authority shall make available on a non-discriminatory basis, theinformation referred to in items 3.2.12.2.1.11.1. and 3.2.12.2.6.4.1. of theinformation document contained in Annex 1 to Regulation No. 83 for eachvehicle tested.",
+   "reason": "Paragraph 5.6.2.2 of UN R103 was amended in version 0.4.0: 'component, the' became 'component,the'; 'the information' became 'theinformation'; '3.2.12.2.1.11.1' became '3.2.12.2.1.11.1.'; '3.2.12.2.6.4.1' became '3.2.12.2.6.4.1.'; 'the information' became 'theinformation'; 'I' became '1'; 'each vehicle' became 'eachvehicle'.",
+   "source": {
+    "page": 7,
+    "paragraph": "5.6.2.2"
+   }
+  }
+ ]
+}

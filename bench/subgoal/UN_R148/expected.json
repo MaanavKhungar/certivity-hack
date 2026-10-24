@@ -1,0 +1,66 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R148",
+ "changes": [
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The intensity of light emitted shall not exceed 1.20∙104 cd within the projection area as defined by the individual specifications of UN Regulation No. 48, when installed in any mounting position specified by the applicant.",
+   "reason": "Paragraph 5.13.1.1 of UN R148 is new in version 1.7.0: 'The intensity of light emitted shall not exceed 1.20∙104 cd within the projection area as defined by…'.",
+   "source": {
+    "page": 27,
+    "paragraph": "5.13.1.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In addition, outside of the projection area as defined by the individual specifications of UN Regulation No. 48, one of the following conditions shall be fulfilled: (a) The light emitted directly towards the side, the front or the rear of the vehicle shall not exceed 5∙10-1 cd within the angular field as defined below:",
+   "reason": "Paragraph 5.13.1.2 of UN R148 is new in version 1.7.0: '(a) The light emitted directly towards the side, the front or the rear of the vehicle shall not exce…'.",
+   "source": {
+    "page": 27,
+    "paragraph": "5.13.1.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "(a) The light emitted directly towards the side, the front or the rear of the vehicle shall not exceed 5∙10-1 cd within the angular field as defined below: (i) The vertical minimum angle φmin (in degrees) is: φmin = arctan ((1-h)/10); where h is mounting height in m (ii) The vertical maximum angle φmax (in degrees) is: φmax = φmin + 11.3 The measurement shall be limited to a horizontal angle ranging from +90° to -90° with respect to the line which cuts the reference axis and which is perpendicular to the vertical transversal plane of the vehicle.",
+   "reason": "Paragraph 5.13.1.2 of UN R148 is new in version 1.7.0: '(i) The vertical minimum angle φmin (in degrees) is: φmin = arctan ((1-h)/10); where h is mounting h…'.",
+   "source": {
+    "page": 27,
+    "paragraph": "5.13.1.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "(a) The light emitted directly towards the side, the front or the rear of the vehicle shall not exceed 5∙10-1 cd within the angular field as defined below: (b) When the apparent surfaces of the direction indicator projector and the apparent surface of the direction indicator lamp are arranged in such a way that (i) Either the projection of the apparent surfaces in the direction of the reference axis of them occupies not less than 60 per cent of the smallest quadrilateral circumscribing the projections of the said apparent surfaces in the direction of the reference axis; or (ii) The minimum distance between the facing edges of the apparent surfaces in the direction of the reference axis of them does not exceed 75 mm when measured perpendicularly to the reference axis, the direction indicator projector shall be tested together with the direction indicator lamp and the integrated luminous intensity shall not exceed the maximum luminous intensity required in Table 8 of the relevant direction indicator lamp.",
+   "reason": "Paragraph 5.13.1.2 of UN R148 is new in version 1.7.0: '(b) When the apparent surfaces of the direction indicator projector and the apparent surface of the …'.",
+   "source": {
+    "page": 27,
+    "paragraph": "5.13.1.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The related indication shall be made in the communication form in Annex 1.",
+   "reason": "Paragraph 5.13.1.3 of UN R148 is new in version 1.7.0: 'The related indication shall be made in the communication form in Annex 1.'.",
+   "source": {
+    "page": 27,
+    "paragraph": "5.13.1.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The colour of light emitted shall be amber.",
+   "reason": "Paragraph 5.13.7 of UN R148 is new in version 1.7.0: 'The colour of light emitted shall be amber.'.",
+   "source": {
+    "page": 28,
+    "paragraph": "5.13.7"
+   }
+  }
+ ]
+}

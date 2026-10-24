@@ -1,0 +1,76 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R67",
+ "changes": [
+  {
+   "requirement_id": "R-0035",
+   "change": "modified",
+   "new_text": "The electrical connections inside the boot and occupant compartment shall comply with at least the minimum protection degree class IP 40 according to IEC Standard 60529-1989+A1:1999+A2:2013 or IP40 according to ISO20653:2013.",
+   "reason": "Paragraph 6.17.2.1 of UN R67 was amended in version 4.3.0: 'passengers' became 'occupant'.",
+   "source": {
+    "page": 9,
+    "paragraph": "6.17.2.1"
+   }
+  },
+  {
+   "requirement_id": "R-0184",
+   "change": "modified",
+   "new_text": "In an occupant compartment or enclosed luggage compartment the gas tube or hose shall be no longer than reasonably required; this provision is fulfilled when the gas tube or hose does not extend further than from the fuel container to the side of vehicle.",
+   "reason": "Paragraph 17.8.8 of UN R67 was amended in version 4.3.0: 'a passenger' became 'an occupant'.",
+   "source": {
+    "page": 21,
+    "paragraph": "17.8.8"
+   }
+  },
+  {
+   "requirement_id": "R-0185",
+   "change": "modified",
+   "new_text": "There shall be no gas-conveying connections in the occupant compartment or enclosed luggage compartment with the exception of:",
+   "reason": "Paragraph 17.8.8.1 of UN R67 was amended in version 4.3.0: 'passenger' became 'occupant'.",
+   "source": {
+    "page": 21,
+    "paragraph": "17.8.8.1"
+   }
+  },
+  {
+   "requirement_id": "R-0192",
+   "change": "modified",
+   "new_text": "When the LPG container is installed in the occupant compartment or enclosed (luggage) compartment the filling unit shall be located at the outside of the vehicle.",
+   "reason": "Paragraph 17.10.2 of UN R67 was amended in version 4.3.0: 'passenger' became 'occupant'; 'an' was removed; 'compartment,' became 'compartment'.",
+   "source": {
+    "page": 22,
+    "paragraph": "17.10.2"
+   }
+  },
+  {
+   "requirement_id": "R-0198",
+   "change": "modified",
+   "new_text": "The electrical connections inside the boot and occupant compartment shall comply with protection degree class IP 40 according to IEC Standard 605291989+A1:1999.",
+   "reason": "Paragraph 17.11.4 of UN R67 was amended in version 4.3.0: 'passengers' became 'occupant'.",
+   "source": {
+    "page": 22,
+    "paragraph": "17.11.4"
+   }
+  },
+  {
+   "requirement_id": "R-0213",
+   "change": "modified",
+   "new_text": "The present requirement shall be fulfilled also in case of faults by use of a malfunction indication to the driver or sent as a logic signal to ADS, and optionally activation of limp home mode.",
+   "reason": "Paragraph 17.13.2.3 of UN R67 was amended in version 4.3.0: 'driver,' became 'driver or sent as a logic signal to ADS,'.",
+   "source": {
+    "page": 23,
+    "paragraph": "17.13.2.3"
+   }
+  },
+  {
+   "requirement_id": "R-0613",
+   "change": "modified",
+   "new_text": "Such a fault shall be clearly indicated to the driver or sent as a logic signal to ADS.",
+   "reason": "Paragraph Annex 14 6 of UN R67 was amended in version 4.3.0: 'driver.' became 'driver or sent as a logic signal to ADS.'.",
+   "source": {
+    "page": 107,
+    "paragraph": "Annex 14 6"
+   }
+  }
+ ]
+}

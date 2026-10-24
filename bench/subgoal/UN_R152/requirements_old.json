@@ -1,0 +1,2459 @@
+[
+ {
+  "id": "R-0001",
+  "text": "The system shall automatically detect an imminent forward collision, provide the driver with an appropriate warning and activate the vehicle braking system to decelerate the vehicle with the purpose of avoiding or mitigating the severity of a collision in the event that the driver does not respond to the warning.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 1,
+   "paragraph": "0"
+  }
+ },
+ {
+  "id": "R-0002",
+  "text": "In the case of a failure in the system, the safe operation of the vehicle shall not be endangered.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 1,
+   "paragraph": "0"
+  }
+ },
+ {
+  "id": "R-0003",
+  "text": "It shall not prevent contracting parties from mandating the fitting of AEBS designed to avoid collision either with cars or pedestrians or both approved in accordance to this Regulation.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 1,
+   "paragraph": "0"
+  }
+ },
+ {
+  "id": "R-0004",
+  "text": "\" _The mean fully developed deceleration (dm)_ \" shall be calculated as the deceleration averaged with respect to distance over the interval vb to ve, according to the following formula:",
+  "source": {
+   "regulation": "UN R152",
+   "page": 3,
+   "paragraph": "2.18"
+  }
+ },
+ {
+  "id": "R-0005",
+  "text": "The speed and distance shall be determined using instrumentation having an accuracy of ±1 per cent at the prescribed speed for the test.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 3,
+   "paragraph": "2.18"
+  }
+ },
+ {
+  "id": "R-0006",
+  "text": "The dm may be determined by other methods than the measurement of speed and distance; in this case, the accuracy of the dm shall be within ±3 per cent.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 3,
+   "paragraph": "2.18"
+  }
+ },
+ {
+  "id": "R-0007",
+  "text": "The application for approval of a vehicle type with regard to the AEBS shall be submitted by the vehicle manufacturer or by his authorised representative.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 3,
+   "paragraph": "3.1"
+  }
+ },
+ {
+  "id": "R-0008",
+  "text": "It shall be accompanied by the documents mentioned below in triplicate:",
+  "source": {
+   "regulation": "UN R152",
+   "page": 3,
+   "paragraph": "3.2"
+  }
+ },
+ {
+  "id": "R-0009",
+  "text": "The numbers and/or symbols identifying the vehicle type shall be specified.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 3,
+   "paragraph": "3.2.1"
+  }
+ },
+ {
+  "id": "R-0010",
+  "text": "A vehicle representative of the vehicle type to be approved shall be submitted to the Technical Service conducting the approval tests.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 3,
+   "paragraph": "3.3"
+  }
+ },
+ {
+  "id": "R-0011",
+  "text": "If the vehicle type submitted for approval pursuant to this Regulation meets the requirements of paragraph 5. below, approval of that vehicle shall be granted.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 3,
+   "paragraph": "4.1"
+  }
+ },
+ {
+  "id": "R-0012",
+  "text": "An approval number shall be assigned to each type approved; its first two digits (at present 00 corresponding to the 00 series of amendments) shall indicate the series of amendments incorporating the most recent major technical amendments made to the Regulation at the time of issue of the approval.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 3,
+   "paragraph": "4.2"
+  }
+ },
+ {
+  "id": "R-0013",
+  "text": "The same Contracting Party shall not assign the same number to the same vehicle type equipped with another type of AEBS, or to another vehicle type.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 3,
+   "paragraph": "4.2"
+  }
+ },
+ {
+  "id": "R-0014",
+  "text": "Notice of approval or of refusal or withdrawal of approval pursuant to this Regulation shall be communicated to the Contracting Parties to the Agreement which apply this Regulation by means of a form conforming to the model in Annex 1 and documentation supplied by the applicant being in a format not exceeding A4 (210 × 297mm), or folded to that format, and on an appropriate scale or electronic format.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 4,
+   "paragraph": "4.3"
+  }
+ },
+ {
+  "id": "R-0015",
+  "text": "There shall be affixed, conspicuously and in a readily accessible place specified on the approval form, to every vehicle conforming to a vehicle type approved under this Regulation, an international approval mark conforming to the model described in Annex 2, consisting of:",
+  "source": {
+   "regulation": "UN R152",
+   "page": 4,
+   "paragraph": "4.4"
+  }
+ },
+ {
+  "id": "R-0016",
+  "text": "If the vehicle conforms to a vehicle type approved under one or more other Regulations, annexed to the Agreement, in the country which has granted approval under this Regulation, the symbol prescribed in paragraph 4.4.1. above need not be repeated; in such a case, the Regulation and approval numbers and the additional symbols shall be placed in vertical columns to the right of the symbol prescribed in paragraph 4.4.1. above.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 4,
+   "paragraph": "4.5"
+  }
+ },
+ {
+  "id": "R-0017",
+  "text": "The approval mark shall be clearly legible and be indelible.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 4,
+   "paragraph": "4.6"
+  }
+ },
+ {
+  "id": "R-0018",
+  "text": "The approval mark shall be placed close to or on the vehicle data plate.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 4,
+   "paragraph": "4.7"
+  }
+ },
+ {
+  "id": "R-0019",
+  "text": "Any vehicle fitted with an AEBS complying with the definition of paragraph 2.1. above shall, when activated and operated within the prescribed speed ranges, meet the performance requirements: 5.1.1.1. of paragraphs 5.1. and paragraphs 5.3. to 5.6. of this Regulation for all vehicles; 5.1.1.2. of paragraph 5.2.1. of this Regulation for vehicles submitted to approval for Car to car scenario; 5.1.1.3. of paragraph 5.2.2. of this Regulation for vehicles submitted to approval for Car to pedestrian scenario.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 4,
+   "paragraph": "5.1.1"
+  }
+ },
+ {
+  "id": "R-0020",
+  "text": "The effectiveness of AEBS shall not be adversely affected by magnetic or electrical fields.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 4,
+   "paragraph": "5.1.2"
+  }
+ },
+ {
+  "id": "R-0021",
+  "text": "This shall be demonstrated by fulfilling the technical requirements and respecting the transitional provisions of the 06 series of amendments to UN Regulation No. 10.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 4,
+   "paragraph": "5.1.2"
+  }
+ },
+ {
+  "id": "R-0022",
+  "text": "Conformity with the safety aspects of electronic control systems shall be shown by meeting the requirements of Annex 3.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 4,
+   "paragraph": "5.1.3"
+  }
+ },
+ {
+  "id": "R-0023",
+  "text": "Warnings and information In addition to the collision warnings described in paragraphs 5.2.1.1. and 5.2.2.1., the system shall provide the driver with appropriate warning(s) as below:",
+  "source": {
+   "regulation": "UN R152",
+   "page": 4,
+   "paragraph": "5.1.4"
+  }
+ },
+ {
+  "id": "R-0024",
+  "text": "The warning shall be as specified in paragraph 5.5.4.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 4,
+   "paragraph": "5.1.4.1"
+  }
+ },
+ {
+  "id": "R-0025",
+  "text": "There shall not be an appreciable time interval between each AEBS self-check, and subsequently there shall not be a delay in illuminating the warning signal, in the case of an electrically detectable failure.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 4,
+   "paragraph": "5.1.4.1.1"
+  }
+ },
+ {
+  "id": "R-0026",
+  "text": "Upon detection of any non-electrical failure condition (e.g. sensor blindness or sensor misalignment), the warning signal as defined in paragraph 5.1.4.1. shall be illuminated.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 4,
+   "paragraph": "5.1.4.1.2"
+  }
+ },
+ {
+  "id": "R-0027",
+  "text": "If the system has not been initialised after a cumulative driving time of 15 seconds above a speed of 10km/h, information of this status shall be indicated to the driver.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 5,
+   "paragraph": "5.1.4.2"
+  }
+ },
+ {
+  "id": "R-0028",
+  "text": "This information shall exist until the system has been successfully initialised.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 5,
+   "paragraph": "5.1.4.2"
+  }
+ },
+ {
+  "id": "R-0029",
+  "text": "A deactivation warning, if the vehicle is equipped with a means to deactivate the AEBS, shall be given when the system is deactivated.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 5,
+   "paragraph": "5.1.4.3"
+  }
+ },
+ {
+  "id": "R-0030",
+  "text": "This shall be as specified in paragraph 5.4.3.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 5,
+   "paragraph": "5.1.4.3"
+  }
+ },
+ {
+  "id": "R-0031",
+  "text": "Emergency braking Subject to the provisions of paragraphs 5.3.1. and 5.3.2., the system shall provide emergency braking interventions described in paragraphs 5.2.1.2., 5.2.2.2. and 5.2.3.2. having the purpose of significantly decreasing the speed of the subject vehicle.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 5,
+   "paragraph": "5.1.5"
+  }
+ },
+ {
+  "id": "R-0032",
+  "text": "False reaction avoidance The system shall be designed to minimise the generation of collision warning signals and to avoid advanced emergency braking in situations where there is no risk of an imminent collision.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 5,
+   "paragraph": "5.1.6"
+  }
+ },
+ {
+  "id": "R-0033",
+  "text": "This shall be demonstrated in the assessment carried out under Annex 3, and this assessment shall include in particular scenarios listed in Appendix 2 of Annex 3.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 5,
+   "paragraph": "5.1.6"
+  }
+ },
+ {
+  "id": "R-0034",
+  "text": "Any vehicle fitted with an AEBS shall meet the performance requirements of UN Regulation No. 13-H in its 01 series of amendments for vehicles of Category M1 and N1 or Regulation No. 13 in its 11 series of amendments for vehicles of Category N1 and shall be equipped with an anti-lock braking function in accordance with the performance requirements of Annex 6 to UN Regulation No.13-H in its 01 series of amendments or of Annex 13 to UN Regulation No. 13 in its 11 series of amendments.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 5,
+   "paragraph": "5.1.7"
+  }
+ },
+ {
+  "id": "R-0035",
+  "text": "Collision warning When an imminent collision with a preceding vehicle of Category M1, in the same lane is detected with a relative speed above that speed up to which the subject vehicle is able to avoid the collision (within the conditions specified in paragraph 5.2.1.4.), a collision warning shall be provided as specified in paragraph 5.5.1., and shall be triggered at the latest 0.8 seconds before the start of emergency braking.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 5,
+   "paragraph": "5.2.1.1"
+  }
+ },
+ {
+  "id": "R-0036",
+  "text": "However, in case the collision cannot be anticipated in time to give a collision warning 0.8 seconds ahead of an emergency braking a collision warning shall be provided as specified in paragraph 5.5.1. and shall be provided no later than the start of emergency braking intervention.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 5,
+   "paragraph": "5.2.1.1"
+  }
+ },
+ {
+  "id": "R-0037",
+  "text": "This shall be tested according to paragraphs 6.4. and 6.5.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 5,
+   "paragraph": "5.2.1.1"
+  }
+ },
+ {
+  "id": "R-0038",
+  "text": "Emergency braking When the system has detected the possibility of an imminent collision, there shall be a braking demand of at least 5.0 m/s² to the service braking system of the vehicle.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 5,
+   "paragraph": "5.2.1.2"
+  }
+ },
+ {
+  "id": "R-0039",
+  "text": "This shall be tested in accordance with paragraphs 6.4. and 6.5. of this Regulation.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 5,
+   "paragraph": "5.2.1.2"
+  }
+ },
+ {
+  "id": "R-0040",
+  "text": "Speed range The system shall be active at least within the vehicle speed range between 10 km/h and 60 km/h and at all vehicle load conditions, unless deactivated as per paragraph 5.4.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 5,
+   "paragraph": "5.2.1.3"
+  }
+ },
+ {
+  "id": "R-0041",
+  "text": "Speed reduction by braking demand In absence of driver's input which would lead to interruption according to paragraph 5.3.2., the AEBS shall be able to achieve a relative impact speed that is less or equal to the maximum relative impact speed as shown in the following table, provided:",
+  "source": {
+   "regulation": "UN R152",
+   "page": 6,
+   "paragraph": "5.2.1.4"
+  }
+ },
+ {
+  "id": "R-0042",
+  "text": "When conditions deviate from those listed above, the system shall not deactivate or unreasonably switch the control strategy.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 6,
+   "paragraph": "5.2.1.4"
+  }
+ },
+ {
+  "id": "R-0043",
+  "text": "This shall be demonstrated by the manufacturer in accordance with Annex 3 of this Regulation and, if deemed justified, may be followed by testing by the Technical Service in conditions deviating from those listed above or those in paragraph 6.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 6,
+   "paragraph": "5.2.1.4"
+  }
+ },
+ {
+  "id": "R-0044",
+  "text": "The rationale for and the results of this verification testing shall be appended to the test report.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 6,
+   "paragraph": "5.2.1.4"
+  }
+ },
+ {
+  "id": "R-0045",
+  "text": "For relative speeds between the listed values (e.g. 53 km/h), the maximum relative impact speed (i.e. 30/30 km/h) assigned to the next higher relative speed (i.e. 55 km/h) shall apply.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 6,
+   "paragraph": "5.2.1.4"
+  }
+ },
+ {
+  "id": "R-0046",
+  "text": "For masses above the mass in running order, the maximum relative impact speed assigned to the maximum mass shall apply.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 6,
+   "paragraph": "5.2.1.4"
+  }
+ },
+ {
+  "id": "R-0047",
+  "text": "For relative speeds between the listed values (e.g. 53 km/h), the maximum relative impact speed (i.e. 35/30 km/h) assigned to the next higher relative speed (i.e. 55 km/h) shall apply.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 6,
+   "paragraph": "5.2.1.4"
+  }
+ },
+ {
+  "id": "R-0048",
+  "text": "For masses above the mass in running order, the maximum relative impact speed assigned to the maximum mass shall apply. with α = Wr/W × L/H, where :",
+  "source": {
+   "regulation": "UN R152",
+   "page": 6,
+   "paragraph": "5.2.1.4"
+  }
+ },
+ {
+  "id": "R-0049",
+  "text": "H is the subject vehicle centre of gravity height in running order The speed reduction shall be demonstrated according to paragraphs 6.4. and 6.5.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 6,
+   "paragraph": "5.2.1.4"
+  }
+ },
+ {
+  "id": "R-0050",
+  "text": "Collision Warning When the AEBS has detected the possibility of a collision with a pedestrian crossing the road at a constant speed of 5 km/h (within the conditions specified in paragraph 5.2.2.4.) a collision warning shall be provided as specified in paragraph 5.5.1. and shall be provided no later than the start of emergency braking intervention.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 8,
+   "paragraph": "5.2.2.1"
+  }
+ },
+ {
+  "id": "R-0051",
+  "text": "Emergency Braking When the system has detected the possibility of an imminent collision, there shall be a braking demand of at least 5.0 m/s2 to the service braking system of the vehicle.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 8,
+   "paragraph": "5.2.2.2"
+  }
+ },
+ {
+  "id": "R-0052",
+  "text": "This shall be tested in accordance with paragraph 6.6. of this Regulation.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 8,
+   "paragraph": "5.2.2.2"
+  }
+ },
+ {
+  "id": "R-0053",
+  "text": "Speed range The system shall be active at least within the vehicle speed range between 20 km/h and 60 km/h and at all vehicle load conditions. **,** unless deactivated as per paragraph 5.4.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 8,
+   "paragraph": "5.2.2.3"
+  }
+ },
+ {
+  "id": "R-0054",
+  "text": "Speed Reduction by Braking Demand In absence of driver's input which would lead to interruption according to paragraph 5.3.2., the AEBS shall be able to achieve an impact speed that is less or equal to the maximum relative impact speed as shown in the following table, provided:",
+  "source": {
+   "regulation": "UN R152",
+   "page": 8,
+   "paragraph": "5.2.2.4"
+  }
+ },
+ {
+  "id": "R-0055",
+  "text": "When conditions deviate from those listed above, the system shall not deactivate or unreasonably switch the control strategy.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 8,
+   "paragraph": "5.2.2.4"
+  }
+ },
+ {
+  "id": "R-0056",
+  "text": "This shall be demonstrated by the manufacturer in accordance with Annex 3 of this Regulation and, if deemed justified, may be followed by testing by the Technical Service in conditions deviating from those listed above or those in paragraph 6.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 8,
+   "paragraph": "5.2.2.4"
+  }
+ },
+ {
+  "id": "R-0057",
+  "text": "The rationale for and the results of this verification testing shall be appended to the test report.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 8,
+   "paragraph": "5.2.2.4"
+  }
+ },
+ {
+  "id": "R-0058",
+  "text": "For subject vehicle speeds between the listed values (e.g. 53 km/h), the maximum relative impact speed (i.e. 30/30 km/h) assigned to the next higher relative speed (i.e. 55 km/h) shall apply.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 8,
+   "paragraph": "5.2.2.4"
+  }
+ },
+ {
+  "id": "R-0059",
+  "text": "For masses above the mass in running order, the maximum relative impact speed assigned to the maximum mass shall apply.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 8,
+   "paragraph": "5.2.2.4"
+  }
+ },
+ {
+  "id": "R-0060",
+  "text": "For subject vehicle speeds between the listed values (e.g. 53 km/h), the maximum impact speed (i.e.35/30 km/h) assigned to the next higher subject vehicle speed (i.e. 55 km/h) shall apply.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 8,
+   "paragraph": "5.2.2.4"
+  }
+ },
+ {
+  "id": "R-0061",
+  "text": "For masses above the mass in running order, the maximum relative impact speed assigned to the maximum mass shall apply.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 8,
+   "paragraph": "5.2.2.4"
+  }
+ },
+ {
+  "id": "R-0062",
+  "text": "H is the subject vehicle centre of gravity height in running order The speed reduction shall be demonstrated according to paragraph 6.6.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 8,
+   "paragraph": "5.2.2.4"
+  }
+ },
+ {
+  "id": "R-0063",
+  "text": "Collision warning When the AEBS has detected the possibility of a collision with a bicycle crossing the road at a constant speed of 15 km/h (within the conditions specified in paragraph 5.2.3.4.) a collision warning shall be provided as specified in paragraph 5.5.1. and shall be provided no later than the start of emergency braking intervention.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 10,
+   "paragraph": "5.2.3.1"
+  }
+ },
+ {
+  "id": "R-0064",
+  "text": "Emergency braking When the system has detected the possibility of an imminent collision. there shall be a braking demand of at least 5.0 m/s² to the service braking system of the vehicle.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 10,
+   "paragraph": "5.2.3.2"
+  }
+ },
+ {
+  "id": "R-0065",
+  "text": "This shall be tested in accordance with paragraph 6.7. of this Regulation.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 10,
+   "paragraph": "5.2.3.2"
+  }
+ },
+ {
+  "id": "R-0066",
+  "text": "Speed range The system shall be active at least within the vehicle speed range between 20 km/h and 60 km/h and at all vehicle load conditions., unless deactivated as per paragraph 5.4.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 11,
+   "paragraph": "5.2.3.3"
+  }
+ },
+ {
+  "id": "R-0067",
+  "text": "Speed reduction by braking demand In absence of driver’s input which would lead to interruption according to paragraph 5.3.2., the AEBS shall be able to achieve an impact speed that is less or equal to the maximum relative impact speed as shown in the following table, provided:",
+  "source": {
+   "regulation": "UN R152",
+   "page": 11,
+   "paragraph": "5.2.3.4"
+  }
+ },
+ {
+  "id": "R-0068",
+  "text": "When conditions deviate from those listed above, the system shall not deactivate or unreasonably switch the control strategy.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 11,
+   "paragraph": "5.2.3.4"
+  }
+ },
+ {
+  "id": "R-0069",
+  "text": "This shall be demonstrated by the manufacturer in accordance with Annex 3 of this Regulation and, if deemed justified, may be followed by testing by the Technical Service in conditions deviating from those listed above or those in paragraph 6.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 11,
+   "paragraph": "5.2.3.4"
+  }
+ },
+ {
+  "id": "R-0070",
+  "text": "The rationale for and the results of this verification testing shall be appended to the test report.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 11,
+   "paragraph": "5.2.3.4"
+  }
+ },
+ {
+  "id": "R-0071",
+  "text": "For subject vehicle speeds between the listed values (e.g. 53 km/h), the maximum relative impact speed (i.e.35/35 km/h) assigned to the next higher relative speed (i.e. 55 km/h) shall apply.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 11,
+   "paragraph": "5.2.3.4"
+  }
+ },
+ {
+  "id": "R-0072",
+  "text": "For masses above the mass in running order, the maximum relative impact speed assigned to the maximum mass shall apply.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 11,
+   "paragraph": "5.2.3.4"
+  }
+ },
+ {
+  "id": "R-0073",
+  "text": "For subject vehicle speeds between the listed values (e.g. 53 km/h), the maximum relative impact speed (i.e.40/35 km/h) assigned to the next higher relative speed (i.e. 55 km/h) shall apply.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 11,
+   "paragraph": "5.2.3.4"
+  }
+ },
+ {
+  "id": "R-0074",
+  "text": "For masses above the mass in running order, the maximum relative impact speed assigned to the maximum mass shall apply.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 11,
+   "paragraph": "5.2.3.4"
+  }
+ },
+ {
+  "id": "R-0075",
+  "text": "The AEBS shall provide the means for the driver to interrupt the collision warning and the emergency braking.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 12,
+   "paragraph": "5.3.1"
+  }
+ },
+ {
+  "id": "R-0076",
+  "text": "The vehicle manufacturer shall provide a list of these positive actions to the technical service at the time of type approval and it shall be annexed to the test report.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 12,
+   "paragraph": "5.3.2"
+  }
+ },
+ {
+  "id": "R-0077",
+  "text": "When a vehicle is equipped with a means to manually deactivate the AEBS function. the following conditions shall apply as appropriate:",
+  "source": {
+   "regulation": "UN R152",
+   "page": 13,
+   "paragraph": "5.4.1"
+  }
+ },
+ {
+  "id": "R-0078",
+  "text": "The AEBS function shall be automatically reinstated at each initiation of the powertrain10 .",
+  "source": {
+   "regulation": "UN R152",
+   "page": 13,
+   "paragraph": "5.4.1.1"
+  }
+ },
+ {
+  "id": "R-0079",
+  "text": "A new engine start (or run cycle) which is performed automatically, e.g. the operation of a stop/start system, shall not be considered an “initiation of the powertrain” wherever that term is used in this Regulation. 10 As defined in Mutual Resolution No. 2 (M.R.2) of the 1958 and the 1998 Agreements containing vehicle propulsion system definitions, see document ECE/TRANS/WP.29/1121.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 13,
+   "paragraph": "5.4.1.1"
+  }
+ },
+ {
+  "id": "R-0080",
+  "text": "The AEBS control shall be designed a in such a way that manual deactivation shall not be possible with less than two deliberate actions.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 13,
+   "paragraph": "5.4.1.2"
+  }
+ },
+ {
+  "id": "R-0081",
+  "text": "The AEBS control shall be installed so as to comply with the relevant requirements and transitional provisions of UN Regulation No. 121 in its 01 series of amendments or any later series of amendments.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 13,
+   "paragraph": "5.4.1.3"
+  }
+ },
+ {
+  "id": "R-0082",
+  "text": "It shall not be possible to manually deactivate the AEBS at a speed above 10 km/h.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 13,
+   "paragraph": "5.4.1.4"
+  }
+ },
+ {
+  "id": "R-0083",
+  "text": "When the vehicle is equipped with a means to automatically deactivate the AEBS function, for instance in situations such as off-road use, being towed, being operated on a dynamometer, being operated in a washing plant, the following conditions shall apply as appropriate:",
+  "source": {
+   "regulation": "UN R152",
+   "page": 13,
+   "paragraph": "5.4.2"
+  }
+ },
+ {
+  "id": "R-0084",
+  "text": "The vehicle manufacturer shall provide a list of situations and corresponding criteria where the AEBS function is automatically deactivated to the technical service at the time of type approval and it shall be annexed to the test report.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 13,
+   "paragraph": "5.4.2.1"
+  }
+ },
+ {
+  "id": "R-0085",
+  "text": "The AEBS function shall be automatically reactivated as soon as the conditions that led to the automatic deactivation are not present anymore.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 13,
+   "paragraph": "5.4.2.2"
+  }
+ },
+ {
+  "id": "R-0086",
+  "text": "Where automatic deactivation of the AEBS function is a consequence of the driver manually switching off the ESC function of the vehicle, this deactivation of the AEBS shall require at least two deliberate actions by the driver.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 13,
+   "paragraph": "5.4.2.3"
+  }
+ },
+ {
+  "id": "R-0087",
+  "text": "A constant optical warning signal shall inform the driver that the AEBS function has been deactivated.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 13,
+   "paragraph": "5.4.3"
+  }
+ },
+ {
+  "id": "R-0088",
+  "text": "The collision warning referred to in paragraphs 5.2.1.1. **,** 5.2.2.1. and 5.2.3.1. shall be provided by at least two modes selected from acoustic, haptic or optical.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 13,
+   "paragraph": "5.5.1"
+  }
+ },
+ {
+  "id": "R-0089",
+  "text": "A description of the warning indication and the sequence in which the collision warning signals are presented to the driver shall be provided by the vehicle manufacturer at the time of type-approval and recorded in the test report.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 13,
+   "paragraph": "5.5.2"
+  }
+ },
+ {
+  "id": "R-0090",
+  "text": "The failure warning referred to in paragraph 5.1.4.1. shall be a constant yellow optical warning signal.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 13,
+   "paragraph": "5.5.4"
+  }
+ },
+ {
+  "id": "R-0091",
+  "text": "Each AEBS optical warning signal shall be activated either when the ignition (start) switch is turned to the \"on\" (run) position or when the ignition (start) switch is in a position between the \"on\" (run) and \"start\" position that is designated by the manufacturer as a check position (initial system (power-on)).",
+  "source": {
+   "regulation": "UN R152",
+   "page": 14,
+   "paragraph": "5.5.5"
+  }
+ },
+ {
+  "id": "R-0092",
+  "text": "The optical warning signals shall be visible even by daylight; the satisfactory condition of the signals must be easily verifiable by the driver from the driver's seat.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 14,
+   "paragraph": "5.5.6"
+  }
+ },
+ {
+  "id": "R-0093",
+  "text": "When the driver is provided with an optical warning signal to indicate that the AEBS is temporarily not available, for example due to inclement weather conditions, the signal shall be constant.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 14,
+   "paragraph": "5.5.7"
+  }
+ },
+ {
+  "id": "R-0094",
+  "text": "At a Periodic Technical Inspection, it shall be possible to confirm the correct operational status of the AEBS by a visible observation of the failure warning signal status. following a \"power-ON\" and any bulb check.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 14,
+   "paragraph": "5.6.1"
+  }
+ },
+ {
+  "id": "R-0095",
+  "text": "At the time of type approval, the means to protect against simple unauthorised modification of the operation of the failure warning signal chosen by the manufacturer shall be confidentially outlined.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 14,
+   "paragraph": "5.6.2"
+  }
+ },
+ {
+  "id": "R-0096",
+  "text": "The test shall be performed on a flat, dry **,** concrete or asphalt, road affording good adhesion.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 14,
+   "paragraph": "6.1.1.1"
+  }
+ },
+ {
+  "id": "R-0097",
+  "text": "The test surface shall have a consistent slope between level and 1 per cent.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 14,
+   "paragraph": "6.1.1.2"
+  }
+ },
+ {
+  "id": "R-0098",
+  "text": "The ambient temperature shall be between 0°C and 45°C.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 14,
+   "paragraph": "6.1.2"
+  }
+ },
+ {
+  "id": "R-0099",
+  "text": "The horizontal visibility range shall allow the target to be observed throughout the test.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 14,
+   "paragraph": "6.1.3"
+  }
+ },
+ {
+  "id": "R-0100",
+  "text": "The tests shall be performed when there is no wind liable to affect the results.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 14,
+   "paragraph": "6.1.4"
+  }
+ },
+ {
+  "id": "R-0101",
+  "text": "Test mass The vehicle shall be tested:",
+  "source": {
+   "regulation": "UN R152",
+   "page": 14,
+   "paragraph": "6.2.1"
+  }
+ },
+ {
+  "id": "R-0102",
+  "text": "At the mass in running order with an additional mass of maximum 125 kg where this additional mass includes the measuring equipment and a possible second person who is responsible for noting the results in order to demonstrate compliance with the requirements referring to the mass in running order, and At the maximum mass The load distribution shall be according to the manufacturer’s recommendation and be annexed to the test report.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 14,
+   "paragraph": "6.2.1"
+  }
+ },
+ {
+  "id": "R-0103",
+  "text": "No alteration shall be made once the test procedure has begun.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 14,
+   "paragraph": "6.2.1"
+  }
+ },
+ {
+  "id": "R-0104",
+  "text": "During the series of test runs, the fuel level may decrease but shall never fall below 50 %.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 14,
+   "paragraph": "6.2.1"
+  }
+ },
+ {
+  "id": "R-0105",
+  "text": "Details of the pre-test condition strategy requested by the vehicle manufacturer shall be identified and recorded in the vehicle type approval documentation.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 15,
+   "paragraph": "6.2.2.2"
+  }
+ },
+ {
+  "id": "R-0106",
+  "text": "The mounted tyres shall be identified and recorded in the vehicle type approval documentation.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 15,
+   "paragraph": "6.2.3"
+  }
+ },
+ {
+  "id": "R-0107",
+  "text": "The target used for the vehicle detection tests shall be a regular high-volume series production passenger car of Category M1 or alternatively a \"soft target\" representative of a passenger vehicle in terms of its identification characteristics applicable to the sensor system of the AEBS under test according to ISO 19206-3:2021.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 15,
+   "paragraph": "6.3.1"
+  }
+ },
+ {
+  "id": "R-0108",
+  "text": "The reference point for the location of the vehicle shall be the most rearward point on the centreline of the vehicle.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 15,
+   "paragraph": "6.3.1"
+  }
+ },
+ {
+  "id": "R-0109",
+  "text": "The target used for the pedestrian detection tests shall be a child \"articulated soft target\" and be representative of the human attributes applicable to the sensor system of the AEBS under test according to ISO 19206-2:2018.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 15,
+   "paragraph": "6.3.2"
+  }
+ },
+ {
+  "id": "R-0110",
+  "text": "The targets used for the bicycle detection tests shall be a \"soft target\" and be representative of the bicycle with an adult cyclist attributes applicable to the sensor system of the AEBS under test according to ISO 192064:2020.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 15,
+   "paragraph": "6.3.3"
+  }
+ },
+ {
+  "id": "R-0111",
+  "text": "Details that enable the target(s) to be specifically identified and reproduced shall be recorded in the vehicle type approval documentation.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 15,
+   "paragraph": "6.3.4"
+  }
+ },
+ {
+  "id": "R-0112",
+  "text": "Warning and Activation Test with a Stationary Vehicle Target The subject vehicle shall approach the stationary target in a straight line for at least two seconds prior to the functional part of the test with a subject vehicle to target centreline offset of not more than 0.2 m.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 15,
+   "paragraph": "6.4"
+  }
+ },
+ {
+  "id": "R-0113",
+  "text": "Tests shall be conducted with a vehicle travelling at speeds shown in tables below for respectively M1 and N1 Categories.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 15,
+   "paragraph": "6.4"
+  }
+ },
+ {
+  "id": "R-0114",
+  "text": "All values in km/h The functional part of the test shall start with:",
+  "source": {
+   "regulation": "UN R152",
+   "page": 15,
+   "paragraph": "6.4"
+  }
+ },
+ {
+  "id": "R-0115",
+  "text": "The tolerances shall be respected between the start of the functional part of the test and the system intervention.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 15,
+   "paragraph": "6.4"
+  }
+ },
+ {
+  "id": "R-0116",
+  "text": "Warning and Activation Test with a Moving Vehicle Target The subject vehicle and the moving target shall travel in a straight line, in the same direction, for at least two seconds prior to the functional part of the test. with a subject vehicle to target centreline offset of not more than 0.2m.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 16,
+   "paragraph": "6.5"
+  }
+ },
+ {
+  "id": "R-0117",
+  "text": "Tests shall be conducted with a vehicle travelling at speeds shown in tables below for respectively M1 and N1 categories and target travelling at 20 km/h (with a tolerance of +0/-2 km/h for the target vehicles).",
+  "source": {
+   "regulation": "UN R152",
+   "page": 16,
+   "paragraph": "6.5"
+  }
+ },
+ {
+  "id": "R-0118",
+  "text": "All values in km/h The functional part of the test shall start with:",
+  "source": {
+   "regulation": "UN R152",
+   "page": 16,
+   "paragraph": "6.5"
+  }
+ },
+ {
+  "id": "R-0119",
+  "text": "The tolerances shall be respected between the start of the functional part of the test and the system intervention.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 16,
+   "paragraph": "6.5"
+  }
+ },
+ {
+  "id": "R-0120",
+  "text": "The subject vehicle shall approach the impact point with the pedestrian target in a straight line for at least two seconds prior to the functional part of the test with an anticipated subject vehicle to impact point centreline offset of not more than 0.1 m.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 16,
+   "paragraph": "6.6.1"
+  }
+ },
+ {
+  "id": "R-0121",
+  "text": "The functional part of the test shall start with:",
+  "source": {
+   "regulation": "UN R152",
+   "page": 16,
+   "paragraph": "6.6.1"
+  }
+ },
+ {
+  "id": "R-0122",
+  "text": "The tolerances shall be respected between the start of the functional part of the test and the system intervention.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 16,
+   "paragraph": "6.6.1"
+  }
+ },
+ {
+  "id": "R-0123",
+  "text": "The pedestrian target shall travel in a straight line perpendicular to the subject vehicle’s direction of travel at a constant speed of 5 km/h +0/-0.4 km/h, starting not before the functional part of the test has started.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 16,
+   "paragraph": "6.6.1"
+  }
+ },
+ {
+  "id": "R-0124",
+  "text": "The pedestrian target’s positioning shall be coordinated with the subject vehicle in such a way that the impact point of the pedestrian target on the front of the subject vehicle is on the longitudinal centreline of the subject vehicle. with a tolerance of not more than 0.1 m. if the subject vehicle would remain at the prescribed test speed throughout the functional part of the test and does not brake.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 16,
+   "paragraph": "6.6.1"
+  }
+ },
+ {
+  "id": "R-0125",
+  "text": "Tests shall be conducted with a vehicle travelling at speeds shown in the tables below for respectively M1 and N1 categories.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 16,
+   "paragraph": "6.6.1"
+  }
+ },
+ {
+  "id": "R-0126",
+  "text": "All values in km/h From the start of the functional part until the subject vehicle has avoided the collision or the subject vehicle has passed the impact point with the pedestrian target there shall be no adjustment to any control of the subject vehicle by the driver other than slight adjustments to the steering control to counteract any drifting.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 16,
+   "paragraph": "6.6.1"
+  }
+ },
+ {
+  "id": "R-0127",
+  "text": "The test prescribed above shall be carried out with a 6-year old child pedestrian \"soft target\" defined in 6.3.2.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 16,
+   "paragraph": "6.6.1"
+  }
+ },
+ {
+  "id": "R-0128",
+  "text": "The assessment of the impact speed shall be based on the actual contact point between the target and the vehicle, taking into account the vehicle shape without additional protective equipment as permitted per paragraph 6.2.4.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 17,
+   "paragraph": "6.6.2"
+  }
+ },
+ {
+  "id": "R-0129",
+  "text": "The subject vehicle shall approach the impact point with the bicycle target in a straight line for at least two seconds prior to the functional part of the test with an anticipated subject vehicle to crankshaft of the bicycle impact point centreline offset of not more than 0.1 m.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 17,
+   "paragraph": "6.7.1"
+  }
+ },
+ {
+  "id": "R-0130",
+  "text": "The functional part of the test shall start when the subject vehicle is travelling at a constant speed and is at a distance corresponding to a TTC of at least 4 seconds from the collision point.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 17,
+   "paragraph": "6.7.1"
+  }
+ },
+ {
+  "id": "R-0131",
+  "text": "The bicycle target shall travel in a straight line perpendicular to the subject vehicle’s direction of travel at a constant speed of 15 km/h +0/-1 km/h, starting not before the functional part of the test has started.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 17,
+   "paragraph": "6.7.1"
+  }
+ },
+ {
+  "id": "R-0132",
+  "text": "During the acceleration phase of the bicycle prior to the functional part of the test the bicycle target shall be obstructed.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 17,
+   "paragraph": "6.7.1"
+  }
+ },
+ {
+  "id": "R-0133",
+  "text": "The bicycle target’s positioning shall be coordinated with the subject vehicle in such a way that the impact point of the bicycle target on the front of the subject vehicle is on the longitudinal centreline of the subject vehicle, with a tolerance of not more than 0.1 m, if the subject vehicle would remain at the prescribed test speed throughout the functional part of the test and does not brake.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 17,
+   "paragraph": "6.7.1"
+  }
+ },
+ {
+  "id": "R-0134",
+  "text": "Tests shall be conducted with a vehicle travelling at speeds shown in tables below for respectively M1 and N1 Categories.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 17,
+   "paragraph": "6.7.1"
+  }
+ },
+ {
+  "id": "R-0135",
+  "text": "All values in km/h From the start of the functional part until the subject vehicle has avoided the collision or the subject vehicle has passed the impact point with the bicycle target there shall be no adjustment to any control of the subject vehicle by the driver other than slight adjustments to the steering control to counteract any drifting.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 17,
+   "paragraph": "6.7.1"
+  }
+ },
+ {
+  "id": "R-0136",
+  "text": "The test prescribed above shall be carried out with a bicycle \"soft target\" defined in paragraph 6.3.3.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 17,
+   "paragraph": "6.7.1"
+  }
+ },
+ {
+  "id": "R-0137",
+  "text": "The functional part of the test shall start with (a) The subject vehicle travelling at the required test speed within the tolerances and within the lateral offset prescribed in this paragraph, (b) The bicycle target travelling at the required test speed within the tolerances specified in this paragraph and (c) A distance corresponding to a TTC of at least 4 seconds from the target.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 17,
+   "paragraph": "6.7.1"
+  }
+ },
+ {
+  "id": "R-0138",
+  "text": "The tolerances shall be respected between the start of the functional part of the test and the system intervention.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 17,
+   "paragraph": "6.7.1"
+  }
+ },
+ {
+  "id": "R-0139",
+  "text": "The assessment of the impact speed shall be based on the actual contact point between the target and the vehicle, taking into account the vehicle shape.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 18,
+   "paragraph": "6.7.2"
+  }
+ },
+ {
+  "id": "R-0140",
+  "text": "When simulating an AEBS failure, neither the electrical connections for the driver warning signal of paragraph 5.5.4. above nor the optional manual AEBS deactivation control of paragraph 5.4.1. shall be disconnected.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 18,
+   "paragraph": "6.8.1"
+  }
+ },
+ {
+  "id": "R-0141",
+  "text": "The failure warning signal mentioned in paragraph 5.5.4. above shall be activated and remain activated not later than 10 s after the vehicle has been driven at a speed greater than 10 km/h and be reactivated immediately after a subsequent ignition \"off\" ignition \"on\" cycle with the vehicle stationary as long as the simulated failure exists.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 19,
+   "paragraph": "6.8.2"
+  }
+ },
+ {
+  "id": "R-0142",
+  "text": "The warning signal mentioned in paragraph 5.4.3. above shall be activated.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 19,
+   "paragraph": "6.9.1"
+  }
+ },
+ {
+  "id": "R-0143",
+  "text": "If the ignition system is activated by means of a \"key\", the above requirement shall be fulfilled without removing the key.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 19,
+   "paragraph": "6.9.1"
+  }
+ },
+ {
+  "id": "R-0144",
+  "text": "Any of the above test scenarios, where a scenario describes one test setup at one subject vehicle speed at one load condition of one category (Car to Car, Car to Pedestrian, Car to Bicycle), shall be performed two times.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 19,
+   "paragraph": "6.10.1"
+  }
+ },
+ {
+  "id": "R-0145",
+  "text": "A test scenario shall be accounted as passed if the required performance is met in two test runs.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 19,
+   "paragraph": "6.10.1"
+  }
+ },
+ {
+  "id": "R-0146",
+  "text": "The number of failed tests runs within one category shall not exceed:",
+  "source": {
+   "regulation": "UN R152",
+   "page": 19,
+   "paragraph": "6.10.1"
+  }
+ },
+ {
+  "id": "R-0147",
+  "text": "The root cause of any failed test run shall be analyzed together with the Technical Service and annexed to the test report.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 19,
+   "paragraph": "6.10.2"
+  }
+ },
+ {
+  "id": "R-0148",
+  "text": "During the assessment as per Annex 3, the manufacturer shall demonstrate, via appropriate documentation, that the system is capable of reliably delivering the required performances.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 19,
+   "paragraph": "6.10.3"
+  }
+ },
+ {
+  "id": "R-0149",
+  "text": "The virtual testing shall be verified and validated according to Annex 4 and used in accordance with Annex .",
+  "source": {
+   "regulation": "UN R152",
+   "page": 19,
+   "paragraph": "6.11.1"
+  }
+ },
+ {
+  "id": "R-0150",
+  "text": "In order to demonstrate that the complete physical system can reliably deliver the required performance, at least 30 per cent* of required tests shall be performed physically including at least one test of each scenario variant described in paragraphs 6.4 to 6.7 relevant for the approval.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 19,
+   "paragraph": "6.11.3"
+  }
+ },
+ {
+  "id": "R-0151",
+  "text": "The tests to be performed shall be agreed between the manufacturer and Type Approval Authority or its Technical Service.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 19,
+   "paragraph": "6.11.3"
+  }
+ },
+ {
+  "id": "R-0152",
+  "text": "Notwithstanding paragraph 6.11.3, in the case of modification of the vehicle type and extension of the approval according to paragraph 7, the proportion of physical tests required to demonstrate that the complete physical system continues to reliably deliver the required performance, may be less than 30 per cent of the required tests and shall be agreed between the manufacturer and Type Approval Authority or its Technical Service.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 20,
+   "paragraph": "6.11.3.1"
+  }
+ },
+ {
+  "id": "R-0153",
+  "text": "Where virtual testing is used by the manufacturer, a separate report including at least the additional information specified in Annex 4 shall be annexed to the test report.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 20,
+   "paragraph": "6.11.4"
+  }
+ },
+ {
+  "id": "R-0154",
+  "text": "Every modification of the vehicle type as defined in paragraph 2.4. above shall be notified to the Type Approval Authority which approved the vehicle type.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 20,
+   "paragraph": "7.1"
+  }
+ },
+ {
+  "id": "R-0155",
+  "text": "Confirmation or refusal of approval. specifying the alterations. shall be communicated by the procedure specified in paragraph 4.3. above to the Contracting Parties to the Agreement which apply this Regulation.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 20,
+   "paragraph": "7.2"
+  }
+ },
+ {
+  "id": "R-0156",
+  "text": "The Type Approval Authority shall inform the other Contracting Parties of the extension by means of the communication form which appears in Annex 1 to this Regulation.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 20,
+   "paragraph": "7.3"
+  }
+ },
+ {
+  "id": "R-0157",
+  "text": "It shall assign a serial number to each extension to be known as the extension number.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 20,
+   "paragraph": "7.3"
+  }
+ },
+ {
+  "id": "R-0158",
+  "text": "Procedures concerning conformity of production shall comply with those set out in the 1958 Agreement, Schedule 1 (E/ECE/TRANS/505/Rev.3) and meet the following requirements:",
+  "source": {
+   "regulation": "UN R152",
+   "page": 20,
+   "paragraph": "8.1"
+  }
+ },
+ {
+  "id": "R-0159",
+  "text": "A vehicle approved pursuant to this Regulation shall be so manufactured as to conform to the type approved by meeting the requirements of paragraph 5. above;",
+  "source": {
+   "regulation": "UN R152",
+   "page": 20,
+   "paragraph": "8.2"
+  }
+ },
+ {
+  "id": "R-0160",
+  "text": "The normal frequency of such inspections shall be once every two years.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 20,
+   "paragraph": "8.3"
+  }
+ },
+ {
+  "id": "R-0161",
+  "text": "If a Contracting Party withdraws an approval it had previously granted, it shall forthwith so notify the other Contracting Parties applying this Regulation by sending them a communication form conforming to the model in Annex 1 to this Regulation.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 20,
+   "paragraph": "9.2"
+  }
+ },
+ {
+  "id": "R-0162",
+  "text": "Production definitively discontinued If the holder of the approval completely ceases to manufacture a type of vehicle approved in accordance with this Regulation, he shall so inform the Type Approval Authority which granted the approval, which in turn shall forthwith inform the other Contracting Parties to the Agreement applying this Regulation by means of a communication form conforming to the model in Annex 1 to this Regulation.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 20,
+   "paragraph": "10"
+  }
+ },
+ {
+  "id": "R-0163",
+  "text": "Names and addresses of the Technical Services responsible for conducting approval tests and of Type Approval Authorities The Contracting Parties to the Agreement applying this Regulation shall communicate to the United Nations Secretariat4 the names and addresses of the Technical Services responsible for conducting approval tests and of the Type Approval Authorities which grant approval and to which forms certifying approval or extension or refusal or withdrawal of approval are to be sent. 4The UNECE secretariats provides the online platform (“/343 Application”) for exchange of such information with the secretariat: https://www.unece.org/trans/main/wp29/datasharing.html",
+  "source": {
+   "regulation": "UN R152",
+   "page": 21,
+   "paragraph": "11"
+  }
+ },
+ {
+  "id": "R-0164",
+  "text": "As from the official date of entry into force of the 01 series of amendments, no Contracting Party applying this Regulation shall refuse to grant or refuse to accept type approvals under this Regulation as amended by the 01 series of amendments.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 21,
+   "paragraph": "12.1.1"
+  }
+ },
+ {
+  "id": "R-0165",
+  "text": "As from 1 May 2024, Contracting Parties applying this Regulation shall not be obliged to accept type approvals to the original version of this Regulation, first issued after 1 May 2024.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 21,
+   "paragraph": "12.1.2"
+  }
+ },
+ {
+  "id": "R-0166",
+  "text": "Until 1 May 2026, Contracting Parties applying this Regulation shall accept type approvals to the original version of this Regulation, first issued before 1 May 2024.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 21,
+   "paragraph": "12.1.3"
+  }
+ },
+ {
+  "id": "R-0167",
+  "text": "As from 1 May 2026, Contracting Parties applying this Regulation shall not be obliged to accept type approvals issued to the original version of this Regulation.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 21,
+   "paragraph": "12.1.4"
+  }
+ },
+ {
+  "id": "R-0168",
+  "text": "Notwithstanding paragraph 12.1.4., Contracting Parties applying this Regulation shall continue to accept type approvals issued according to the original version of this Regulation, for vehicles which are not affected by the changes introduced by the 01 Series of amendments.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 21,
+   "paragraph": "12.1.5"
+  }
+ },
+ {
+  "id": "R-0169",
+  "text": "As from the official date of entry into force of the 02 series of amendments, no Contracting Party applying this Regulation shall refuse to grant or refuse to accept type approvals under this Regulation as amended by the 02 series of amendments.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 21,
+   "paragraph": "12.2.1"
+  }
+ },
+ {
+  "id": "R-0170",
+  "text": "As from 1 May 2024, Contracting Parties applying this Regulation shall not be obliged to accept type approvals to the preceding series of amendments of this Regulation, first issued after 1 May 2024.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 21,
+   "paragraph": "12.2.2"
+  }
+ },
+ {
+  "id": "R-0171",
+  "text": "Until 1 July 2026, Contracting Parties applying this Regulation shall accept type approvals to the preceding series of this Regulation, first issued before 1 May 2024.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 21,
+   "paragraph": "12.2.3"
+  }
+ },
+ {
+  "id": "R-0172",
+  "text": "As from 1 July 2026, Contracting Parties applying this Regulation shall not be obliged to accept type approvals issued to the preceding series of this Regulation.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 21,
+   "paragraph": "12.2.4"
+  }
+ },
+ {
+  "id": "R-0173",
+  "text": "Notwithstanding paragraph 12.2.4., Contracting Parties applying this Regulation shall continue to accept type approvals issued according to the preceding series of amendments to this Regulation, for vehicles which are not affected by the changes introduced by the 02 series of amendments (i.e. car-to-car and/or car-to-pedestrian approvals are not affected by this new 02 series).",
+  "source": {
+   "regulation": "UN R152",
+   "page": 21,
+   "paragraph": "12.2.5"
+  }
+ },
+ {
+  "id": "R-0174",
+  "text": "Contracting Parties applying this Regulation shall continue to grant extensions of existing approvals to any preceding series of amendments to this Regulation.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 21,
+   "paragraph": "12.3.2"
+  }
+ },
+ {
+  "id": "R-0175",
+  "text": "This annex shall also apply to safety related functions identified in this Regulation which are controlled by electronic system(s) (paragraph 2.3.) as far as this Regulation is concerned.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 23,
+   "paragraph": "Annex 3 1"
+  }
+ },
+ {
+  "id": "R-0176",
+  "text": "This information shall show that \"The System\" respects, under non-fault and fault conditions, all the appropriate performance requirements specified elsewhere in this Regulation and that it is designed to operate in such a way that it does not induce safety critical risks.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 23,
+   "paragraph": "Annex 3 1"
+  }
+ },
+ {
+  "id": "R-0177",
+  "text": "The transmission links to and from overriding systems/function outside of the scope of this Regulation shall also be included.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 24,
+   "paragraph": "Annex 3 2.4"
+  }
+ },
+ {
+  "id": "R-0178",
+  "text": "Requirements The manufacturer shall provide a documentation package which gives access to the basic design of \"The System\" and the means by which it is linked to other vehicle systems or by which it directly controls output variables.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 24,
+   "paragraph": "Annex 3 3.1"
+  }
+ },
+ {
+  "id": "R-0179",
+  "text": "The function(s) of \"The System\" and the safety concept, as laid down by the manufacturer, shall be explained.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 24,
+   "paragraph": "Annex 3 3.1"
+  }
+ },
+ {
+  "id": "R-0180",
+  "text": "Documentation shall be brief, yet provide evidence that the design and development has had the benefit of expertise from all the system fields which are involved.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 24,
+   "paragraph": "Annex 3 3.1"
+  }
+ },
+ {
+  "id": "R-0181",
+  "text": "For periodic technical inspections, the documentation shall describe how the current operational status of \"The System\" can be checked.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 24,
+   "paragraph": "Annex 3 3.1"
+  }
+ },
+ {
+  "id": "R-0182",
+  "text": "The Technical Service shall assess the documentation package to show that \"The System\":",
+  "source": {
+   "regulation": "UN R152",
+   "page": 24,
+   "paragraph": "Annex 3 3.1"
+  }
+ },
+ {
+  "id": "R-0183",
+  "text": "Documentation shall be made available in two parts:",
+  "source": {
+   "regulation": "UN R152",
+   "page": 24,
+   "paragraph": "Annex 3 3.1.1"
+  }
+ },
+ {
+  "id": "R-0184",
+  "text": "(with the exception of that of paragraph 3.4.4.) which shall be supplied to the Technical Service at the time of submission of the type approval application.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 24,
+   "paragraph": "Annex 3 3.1.1"
+  }
+ },
+ {
+  "id": "R-0185",
+  "text": "This documentation package shall be used by the Technical Service as the basic reference for the verification process set out in paragraph 4. of this annex.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 24,
+   "paragraph": "Annex 3 3.1.1"
+  }
+ },
+ {
+  "id": "R-0186",
+  "text": "The Technical Service shall ensure that this documentation package remains available for a period determined in agreement with the Approval Authority.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 24,
+   "paragraph": "Annex 3 3.1.1"
+  }
+ },
+ {
+  "id": "R-0187",
+  "text": "This period shall be at least 10 years counted from the time when production of the vehicle is definitely discontinued.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 24,
+   "paragraph": "Annex 3 3.1.1"
+  }
+ },
+ {
+  "id": "R-0188",
+  "text": "(b) Additional material and analysis data of paragraph 3.4.4. which shall be retained by the manufacturer, but made open for inspection at the time of type approval.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 24,
+   "paragraph": "Annex 3 3.1.1"
+  }
+ },
+ {
+  "id": "R-0189",
+  "text": "The manufacturer shall ensure that this material and analysis data remains available for a period of 10 years counted from the time when production of the vehicle is definitely discontinued.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 24,
+   "paragraph": "Annex 3 3.1.1"
+  }
+ },
+ {
+  "id": "R-0190",
+  "text": "Description of the functions of \"The System\" A description shall be provided which gives a simple explanation of all the control functions of \"The System\" and the methods employed to achieve the objectives, including a statement of the mechanism(s) by which control is exercised.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 25,
+   "paragraph": "Annex 3 3.2"
+  }
+ },
+ {
+  "id": "R-0191",
+  "text": "Any described function that can be over-ridden shall be identified and a further description of the changed rationale of the function’s operation provided.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 25,
+   "paragraph": "Annex 3 3.2"
+  }
+ },
+ {
+  "id": "R-0192",
+  "text": "A list of all input and sensed variables shall be provided and the working range of these defined.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 25,
+   "paragraph": "Annex 3 3.2.1"
+  }
+ },
+ {
+  "id": "R-0193",
+  "text": "A list of all output variables which are controlled by \"The System\" shall be provided and an indication given, in each case, of whether the control is direct or via another vehicle system.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 25,
+   "paragraph": "Annex 3 3.2.2"
+  }
+ },
+ {
+  "id": "R-0194",
+  "text": "The range of control (paragraph 2.8.) exercised on each such variable shall be defined.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 25,
+   "paragraph": "Annex 3 3.2.2"
+  }
+ },
+ {
+  "id": "R-0195",
+  "text": "Limits defining the boundaries of functional operation (paragraph 2.9.) shall be stated where appropriate to system performance.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 25,
+   "paragraph": "Annex 3 3.2.3"
+  }
+ },
+ {
+  "id": "R-0196",
+  "text": "A list shall be provided, collating all the units of \"The System\" and mentioning the other vehicle systems which are needed to achieve the control function in question.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 25,
+   "paragraph": "Annex 3 3.3.1"
+  }
+ },
+ {
+  "id": "R-0197",
+  "text": "An outline schematic showing these units in combination, shall be provided with both the equipment distribution and the interconnections made clear.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 25,
+   "paragraph": "Annex 3 3.3.1"
+  }
+ },
+ {
+  "id": "R-0198",
+  "text": "Functions of the units The function of each unit of \"The System\" shall be outlined and the signals linking it with other units or with other vehicle systems shall be shown.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 25,
+   "paragraph": "Annex 3 3.3.2"
+  }
+ },
+ {
+  "id": "R-0199",
+  "text": "Interconnections Interconnections within \"The System\" shall be shown by a circuit diagram for the electric transmission links, by a piping diagram for pneumatic or hydraulic transmission equipment and by a simplified diagrammatic layout for mechanical linkages.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 25,
+   "paragraph": "Annex 3 3.3.3"
+  }
+ },
+ {
+  "id": "R-0200",
+  "text": "The transmission links both to and from other systems shall also be shown",
+  "source": {
+   "regulation": "UN R152",
+   "page": 25,
+   "paragraph": "Annex 3 3.3.3"
+  }
+ },
+ {
+  "id": "R-0201",
+  "text": "Signal flow, operating data and priorities There shall be a clear correspondence between these transmission links and the signals and/or operating data carried between units.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 25,
+   "paragraph": "Annex 3 3.3.4"
+  }
+ },
+ {
+  "id": "R-0202",
+  "text": "Priorities of signals and/or operating data on multiplexed data paths shall be stated wherever priority may be an issue affecting performance or safety as far as this Regulation is concerned.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 25,
+   "paragraph": "Annex 3 3.3.4"
+  }
+ },
+ {
+  "id": "R-0203",
+  "text": "Identification of units Each unit shall be clearly and unambiguously identifiable (e.g. by marking for hardware and marking or software output for software content) to provide corresponding hardware and documentation association.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 25,
+   "paragraph": "Annex 3 3.3.5"
+  }
+ },
+ {
+  "id": "R-0204",
+  "text": "Where functions are combined within a single unit or indeed within a single computer, but shown in multiple blocks in the block diagram for clarity and ease of explanation, only a single hardware identification marking shall be used.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 25,
+   "paragraph": "Annex 3 3.3.5"
+  }
+ },
+ {
+  "id": "R-0205",
+  "text": "The manufacturer shall, by the use of this identification, affirm that the equipment supplied conforms to the corresponding document.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 25,
+   "paragraph": "Annex 3 3.3.5"
+  }
+ },
+ {
+  "id": "R-0206",
+  "text": "The identification defines the hardware and software version and, where the latter changes such as to alter the function of the unit as far as this Regulation is concerned, this identification shall also be changed.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 26,
+   "paragraph": "Annex 3 3.3.5.1"
+  }
+ },
+ {
+  "id": "R-0207",
+  "text": "The Manufacturer shall provide a statement which affirms that the strategy chosen to achieve \"The System\" objectives will not, under non-fault conditions, prejudice the safe operation of the vehicle.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 26,
+   "paragraph": "Annex 3 3.4.1"
+  }
+ },
+ {
+  "id": "R-0208",
+  "text": "In respect of software employed in \"The System\", the outline architecture shall be explained and the design methods and tools used shall be identified.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 26,
+   "paragraph": "Annex 3 3.4.2"
+  }
+ },
+ {
+  "id": "R-0209",
+  "text": "The manufacturer shall show evidence of the means by which they determined the realisation of the system logic, during the design and development process.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 26,
+   "paragraph": "Annex 3 3.4.2"
+  }
+ },
+ {
+  "id": "R-0210",
+  "text": "The Manufacturer shall provide the Technical Service with an explanation of the design provisions built into \"The System\" so as to generate safe operation under fault conditions.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 26,
+   "paragraph": "Annex 3 3.4.3"
+  }
+ },
+ {
+  "id": "R-0211",
+  "text": "In case of a failure, the driver shall be warned for example by warning signal or message display.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 26,
+   "paragraph": "Annex 3 3.4.3"
+  }
+ },
+ {
+  "id": "R-0212",
+  "text": "When the system is not deactivated by the driver, e.g. by turning the ignition (run) switch to \"off\", or by switching off that particular function if a special switch is provided for that purpose, the warning shall be present as long as the fault condition persists.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 26,
+   "paragraph": "Annex 3 3.4.3"
+  }
+ },
+ {
+  "id": "R-0213",
+  "text": "If the chosen provision selects a partial performance mode of operation under certain fault conditions, then these conditions shall be stated and the resulting limits of effectiveness defined.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 26,
+   "paragraph": "Annex 3 3.4.3.1"
+  }
+ },
+ {
+  "id": "R-0214",
+  "text": "If the chosen provision selects a second (back-up) means to realise the vehicle control system objective, the principles of the change-over mechanism, the logic and level of redundancy and any built in back-up checking features shall be explained and the resulting limits of back-up effectiveness defined.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 26,
+   "paragraph": "Annex 3 3.4.3.2"
+  }
+ },
+ {
+  "id": "R-0215",
+  "text": "If the chosen provision selects the removal of the Higher Level Function, all the corresponding output control signals associated with this function shall be inhibited, and in such a manner as to limit the transition disturbance.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 26,
+   "paragraph": "Annex 3 3.4.3.3"
+  }
+ },
+ {
+  "id": "R-0216",
+  "text": "The documentation shall be supported, by an analysis which shows, in overall terms, how the system will behave on the occurrence of any individual hazard or fault which will have a bearing on vehicle control performance or safety.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 26,
+   "paragraph": "Annex 3 3.4.4"
+  }
+ },
+ {
+  "id": "R-0217",
+  "text": "The chosen analytical approach(es) shall be established and maintained by the Manufacturer and shall be made open for inspection by the Technical Service at the time of the type approval.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 26,
+   "paragraph": "Annex 3 3.4.4"
+  }
+ },
+ {
+  "id": "R-0218",
+  "text": "The Technical Service shall perform an assessment of the application of the analytical approach(es).",
+  "source": {
+   "regulation": "UN R152",
+   "page": 26,
+   "paragraph": "Annex 3 3.4.4"
+  }
+ },
+ {
+  "id": "R-0219",
+  "text": "This approach shall be based on a Hazard / Risk analysis appropriate to system safety.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 26,
+   "paragraph": "Annex 3 3.4.4"
+  }
+ },
+ {
+  "id": "R-0220",
+  "text": "This approach shall be based on a Failure Mode and Effect Analysis (FMEA), a Fault Tree Analysis (FTA) or any similar process appropriate to system safety.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 26,
+   "paragraph": "Annex 3 3.4.4"
+  }
+ },
+ {
+  "id": "R-0221",
+  "text": "This validation shall use, for example, Hardware in the Loop (HIL) testing, vehicle on-road operational testing, or any means appropriate for validation.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 26,
+   "paragraph": "Annex 3 3.4.4"
+  }
+ },
+ {
+  "id": "R-0222",
+  "text": "The assessment shall consist of checks of hazards and faults chosen by the Technical Service to establish that the manufacturer’s explanation of the safety concept is understandable, logical and that the validation plans are suitable and have been completed.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 26,
+   "paragraph": "Annex 3 3.4.4"
+  }
+ },
+ {
+  "id": "R-0223",
+  "text": "This documentation shall itemize the parameters being monitored and shall set out, for each fault condition of the type defined in paragraph 3.4.4. of this annex, the warning signal to be given to the driver and/or to service/technical inspection personnel.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 27,
+   "paragraph": "Annex 3 3.4.4.1"
+  }
+ },
+ {
+  "id": "R-0224",
+  "text": "This documentation shall describe the measures in place to ensure the \"The System\" does not prejudice the safe operation of the vehicle when the performance of \"The System\" is affected by environmental conditions e.g. climatic, temperature, dust ingress, water ingress, ice packing.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 27,
+   "paragraph": "Annex 3 3.4.4.2"
+  }
+ },
+ {
+  "id": "R-0225",
+  "text": "The functional operation of \"The System\", as laid out in the documents required in paragraph 3., shall be tested as follows:",
+  "source": {
+   "regulation": "UN R152",
+   "page": 27,
+   "paragraph": "Annex 3 4.1"
+  }
+ },
+ {
+  "id": "R-0226",
+  "text": "Verification of the function of \"The System\" The Technical Service shall verify \"The System\" under non-fault conditions by testing a number of selected functions from those declared by the manufacturer in paragraph 3.2. above.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 27,
+   "paragraph": "Annex 3 4.1.1"
+  }
+ },
+ {
+  "id": "R-0227",
+  "text": "For complex electronic systems, these tests shall include scenarios whereby a declared function is overridden.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 27,
+   "paragraph": "Annex 3 4.1.1"
+  }
+ },
+ {
+  "id": "R-0228",
+  "text": "The reaction of \"The System\" shall be checked under the influence of a failure in any individual unit by applying corresponding output signals to electrical units or mechanical elements in order to simulate the effects of internal faults within the unit.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 27,
+   "paragraph": "Annex 3 4.1.2"
+  }
+ },
+ {
+  "id": "R-0229",
+  "text": "The Technical Service shall conduct this check for at least one individual unit, but shall not check the reaction of \"The System\" to multiple simultaneous failures of individual units.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 27,
+   "paragraph": "Annex 3 4.1.2"
+  }
+ },
+ {
+  "id": "R-0230",
+  "text": "The Technical Service shall verify that these tests include aspects that may have an impact on vehicle controllability and user information (HMI aspects).\"",
+  "source": {
+   "regulation": "UN R152",
+   "page": 27,
+   "paragraph": "Annex 3 4.1.2"
+  }
+ },
+ {
+  "id": "R-0231",
+  "text": "The verification results shall correspond with the documented summary of the failure analysis, to a level of overall effect such that the safety concept and execution are confirmed as being adequate.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 27,
+   "paragraph": "Annex 3 4.1.2.1"
+  }
+ },
+ {
+  "id": "R-0232",
+  "text": "Reporting by Technical Service Reporting of the assessment by the Technical Service shall be performed in such a manner that allows traceability, e.g. versions of documents inspected are coded and listed in the records of the Technical Service.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 27,
+   "paragraph": "Annex 3 5"
+  }
+ },
+ {
+  "id": "R-0233",
+  "text": "The following scenarios shall be used to assess the system’s strategies implemented in order to minimize the generation of false reactions.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 29,
+   "paragraph": "Annex 3 Appendix 2 0"
+  }
+ },
+ {
+  "id": "R-0234",
+  "text": "For each type of scenario the vehicle manufacturer shall explain the principle strategies implemented to ensure safety.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 29,
+   "paragraph": "Annex 3 Appendix 2 0"
+  }
+ },
+ {
+  "id": "R-0235",
+  "text": "The manufacturer shall provide evidence (e.g. simulation results, real-world test data, track test data) of the system’s behaviour in the described types of scenarios.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 29,
+   "paragraph": "Annex 3 Appendix 2 0"
+  }
+ },
+ {
+  "id": "R-0236",
+  "text": "The parameters described in subparagraph 2 of each scenario shall be used as guidance if the Technical Service deems a demonstration of the scenario necessary.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 29,
+   "paragraph": "Annex 3 Appendix 2 0"
+  }
+ },
+ {
+  "id": "R-0237",
+  "text": "Credibility of the toolchain that is used for the virtual testing shall be demonstrated by the vehicle manufacturer to the satisfaction of the Type Approval Authority or its Technical Service.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 34,
+   "paragraph": "Annex 4 2.1.1"
+  }
+ },
+ {
+  "id": "R-0238",
+  "text": "For this, the following five criteria shall be considered:",
+  "source": {
+   "regulation": "UN R152",
+   "page": 34,
+   "paragraph": "Annex 4 2.1.1"
+  }
+ },
+ {
+  "id": "R-0239",
+  "text": "The toolchain shall reflect the vehicle, system and components that are to be tested.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 34,
+   "paragraph": "Annex 4 2.2.1"
+  }
+ },
+ {
+  "id": "R-0240",
+  "text": "Toolchain management The following information shall be provided by the manufacturer to the Technical Service:",
+  "source": {
+   "regulation": "UN R152",
+   "page": 34,
+   "paragraph": "Annex 4 2.3"
+  }
+ },
+ {
+  "id": "R-0241",
+  "text": "The manufacturer shall also provide documentation demonstrating that the data used to validate the models covers the intended scope and functionality of the toolchain.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 34,
+   "paragraph": "Annex 4 2.3.3"
+  }
+ },
+ {
+  "id": "R-0242",
+  "text": "All parts of the toolchain, tools and models shall be described by the manufacturer.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 34,
+   "paragraph": "Annex 4 2.3.6.1"
+  }
+ },
+ {
+  "id": "R-0243",
+  "text": "The vehicle manufacturer shall define the validity domain on which the toolchain will be applicable and how the validity domain has been derived including any AEBS performance influencing factors, parameter ranges, assumptions, limitations and tolerances.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 34,
+   "paragraph": "Annex 4 2.3.6.2"
+  }
+ },
+ {
+  "id": "R-0244",
+  "text": "The documentation shall include a description of the key performance indicators which will be assessed during validation, such as time to collision, remaining distance or impact speed.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 34,
+   "paragraph": "Annex 4 2.3.6.3"
+  }
+ },
+ {
+  "id": "R-0245",
+  "text": "The documentation shall include a description of the accuracy requirements for the toolchain and its components, including comparison with physical tests.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 34,
+   "paragraph": "Annex 4 2.3.6.4"
+  }
+ },
+ {
+  "id": "R-0246",
+  "text": "The documentation of the toolchain shall include assumptions, limitations, uncertainties and the necessary levels of fidelity.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 34,
+   "paragraph": "Annex 4 2.3.6.5"
+  }
+ },
+ {
+  "id": "R-0247",
+  "text": "The manufacturer shall provide a description of the toolchain assessment methodology, including the impact of any errors and uncertainties on the results and the subsequent consequences for the compliance of the system with this regulation.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 35,
+   "paragraph": "Annex 4 2.3.6.6"
+  }
+ },
+ {
+  "id": "R-0248",
+  "text": "The manufacturer shall review the information produced in addressing the requirements of paragraph 2.3.6.2. and document any implications for the use of the toolchain.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 35,
+   "paragraph": "Annex 4 2.3.7"
+  }
+ },
+ {
+  "id": "R-0249",
+  "text": "The toolchain and its components shall be capable of accurately representing the relevant aspects of the physical AEBS that is being modelled.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 35,
+   "paragraph": "Annex 4 2.4.1"
+  }
+ },
+ {
+  "id": "R-0250",
+  "text": "The manufacturer shall provide documentation on the verification activity of the modelling that implements the AEBS function in the toolchain and its components.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 35,
+   "paragraph": "Annex 4 2.4.2"
+  }
+ },
+ {
+  "id": "R-0251",
+  "text": "This shall include a description of the models, their implementation, how they represent the AEBS function and a description of the activities that have been performed to confirm that the models have been correctly implemented.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 35,
+   "paragraph": "Annex 4 2.4.2"
+  }
+ },
+ {
+  "id": "R-0252",
+  "text": "The manufacturer shall provide an estimation of the numerical errors affecting the toolchain and its components and analysis that the errors remain sufficiently bounded.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 35,
+   "paragraph": "Annex 4 2.4.3"
+  }
+ },
+ {
+  "id": "R-0253",
+  "text": "The manufacturer shall demonstrate the effect of variations of the model parameters on the output values and identification of the most critical parameters which will influence the results.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 35,
+   "paragraph": "Annex 4 2.4.4"
+  }
+ },
+ {
+  "id": "R-0254",
+  "text": "This shall also include a robust calibration procedure for these parameters.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 35,
+   "paragraph": "Annex 4 2.4.4"
+  }
+ },
+ {
+  "id": "R-0255",
+  "text": "The vehicle manufacturer shall describe their overall approach to validation including performance measures and a validation strategy.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 35,
+   "paragraph": "Annex 4 2.5.1"
+  }
+ },
+ {
+  "id": "R-0256",
+  "text": "The validation strategy shall be agreed by the Type Approval Authority or its Technical Service, including physical tests performed to demonstrate that the toolchain is an accurate representation of the physical system.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 35,
+   "paragraph": "Annex 4 2.5.1"
+  }
+ },
+ {
+  "id": "R-0257",
+  "text": "The tests performed shall ensure a statistical comparison between physical and simulation results is possible.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 35,
+   "paragraph": "Annex 4 2.5.1"
+  }
+ },
+ {
+  "id": "R-0258",
+  "text": "The validation strategy shall be defined by the manufacturer and presented to the Type Approval Authority or its Technical Service for review and agreement.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 35,
+   "paragraph": "Annex 4 2.5.2"
+  }
+ },
+ {
+  "id": "R-0259",
+  "text": "The manufacturer shall demonstrate how the toolchain achieves the key performance indicators defined in paragraph 2.3.6.3. and accuracy requirements defined in paragraph 2.3.6.4.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 35,
+   "paragraph": "Annex 4 2.5.3"
+  }
+ },
+ {
+  "id": "R-0260",
+  "text": "This shall include justification for the choice of key performance indicators and accuracy requirements, and what the criteria is for satisfying these indicators and requirements.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 35,
+   "paragraph": "Annex 4 2.5.3"
+  }
+ },
+ {
+  "id": "R-0261",
+  "text": "The manufacturer shall provide the list of validation scenarios.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 35,
+   "paragraph": "Annex 4 2.5.4"
+  }
+ },
+ {
+  "id": "R-0262",
+  "text": "The manufacturer shall provide the parameter descriptions and accuracy requirements that were needed to perform the validation tests.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 35,
+   "paragraph": "Annex 4 2.5.4"
+  }
+ },
+ {
+  "id": "R-0263",
+  "text": "The manufacturer shall provide documentation describing the validation that was performed to establish the credibility of the toolchain.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 35,
+   "paragraph": "Annex 4 2.5.5"
+  }
+ },
+ {
+  "id": "R-0264",
+  "text": "This shall include information related to the processes that were followed, physical tests that were performed and models and tools that were used.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 35,
+   "paragraph": "Annex 4 2.5.5"
+  }
+ },
+ {
+  "id": "R-0265",
+  "text": "The manufacturer shall provide documentation that demonstrates how they have characterised the uncertainty in the input data and evaluated the model parameters.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 35,
+   "paragraph": "Annex 4 2.5.6"
+  }
+ },
+ {
+  "id": "R-0266",
+  "text": "The overall uncertainty of the results shall be quantified based on the toolchain structure and from the data and its flow through the toolchain.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 35,
+   "paragraph": "Annex 4 2.5.6"
+  }
+ },
+ {
+  "id": "R-0267",
+  "text": "This uncertainty quantification shall allow estimates of the likely errors and the required safety margins that shall be applied to the results when the toolchain is used for virtual testing.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 35,
+   "paragraph": "Annex 4 2.5.6"
+  }
+ },
+ {
+  "id": "R-0268",
+  "text": "At the request of the Type Approval Authority or its Technical Service, in addition to the documentation provided by the vehicle manufacturer, additional confirmatory validation, which shall include physical tests, shall be performed or witnessed.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 35,
+   "paragraph": "Annex 4 2.5.7"
+  }
+ },
+ {
+  "id": "R-0269",
+  "text": "The number of physical tests shall be defined in agreement between the manufacturer and the Type Approval Authority or its Technical Service.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 36,
+   "paragraph": "Annex 4 2.5.8"
+  }
+ },
+ {
+  "id": "R-0270",
+  "text": "They shall be sufficient to cover the validity domain specified by the vehicle manufacturer.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 36,
+   "paragraph": "Annex 4 2.5.8"
+  }
+ },
+ {
+  "id": "R-0271",
+  "text": "The methodology used to generate physical validation data, such as data recording equipment, data processing, calculation of scalar values shall be documented as part of the validation documentation.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 36,
+   "paragraph": "Annex 4 2.5.9"
+  }
+ },
+ {
+  "id": "R-0272",
+  "text": "All virtual testing results provided by the manufacturer in applying for an approval in accordance with paragraph 4. of this regulation shall refer to the toolchain evaluated and validated according to paragraph 1. of this annex.",
+  "source": {
+   "regulation": "UN R152",
+   "page": 36,
+   "paragraph": "Annex 4 3.2"
+  }
+ },
+ {
+  "id": "R-0273",
+  "text": "For each approval application the manufacturer shall provide a confirmation that the virtual testing:",
+  "source": {
+   "regulation": "UN R152",
+   "page": 36,
+   "paragraph": "Annex 4 3.3"
+  }
+ }
+]

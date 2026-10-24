@@ -1,0 +1,286 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R175",
+ "changes": [
+  {
+   "requirement_id": "R-0015",
+   "change": "modified",
+   "new_text": "An accelerator control application resulting in continuous acceleration and having a velocity of at least 400 per cent per second over a travel distance of at least 70 per cent of the total travel distance of the accelerator control, and reaching a maximum position of the accelerator control of at least 90 per cent with that velocity shall be regarded as an accelerator control misapplication in the context of the paragraph 5.1.1.",
+   "reason": "Paragraph 5.1.2 of UN R175 was amended in version 1.0.0: 'resulting in continuous acceleration and' was added.",
+   "source": {
+    "page": 4,
+    "paragraph": "5.1.2"
+   }
+  },
+  {
+   "requirement_id": "R-0018",
+   "change": "modified",
+   "new_text": "The ACPE shall control acceleration when the vehicle is accelerated both from standstill and, as relevant, while creeping.",
+   "reason": "Paragraph 5.1.4 of UN R175 was amended in version 1.0.0: 'both' was added; 'standstill.' became 'standstill and, as relevant, while creeping.'.",
+   "source": {
+    "page": 5,
+    "paragraph": "5.1.4"
+   }
+  },
+  {
+   "requirement_id": "R-0021",
+   "change": "modified",
+   "new_text": "The ACPE shall limit vehicle acceleration in order to prevent or mitigate a collision with an obstacle located not more than 1.5 m in front of or behind the vehicle, in the vehicle path, at the time the triggering conditions (as outlined in paragraph 5.1.2.) are achieved, provided:",
+   "reason": "Paragraph 5.1.5 of UN R175 was amended in version 1.0.0: 'between 1.0 m and' became 'not more than'; 'accelerator control is applied,' became 'triggering conditions (as outlined in paragraph 5.1.2.) are achieved,'.",
+   "source": {
+    "page": 5,
+    "paragraph": "5.1.5"
+   }
+  },
+  {
+   "requirement_id": "R-0038",
+   "change": "modified",
+   "new_text": "The performance requirements shall be verified using the test procedure as described in section 6.6.1. and 6.6.2.",
+   "reason": "Paragraph 5.1.12 of UN R175 was amended in version 1.0.0: '6.' became '6.6.1. and 6.6.2.'.",
+   "source": {
+    "page": 7,
+    "paragraph": "5.1.12"
+   }
+  },
+  {
+   "requirement_id": "R-0081",
+   "change": "modified",
+   "new_text": "The lateral offset between the centreline of the vehicle target and the centreline of the vehicle shall be between 0.0 m and the distance to extreme outer edge of the vehicle.",
+   "reason": "Paragraph 6.5.2 (formerly 6.5) of UN R175 was amended in version 1.0.0: 'Accelerator control misapplication test' was removed; 'vehicle' was added; '0.2 m.' became 'the distance to extreme outer edge of the vehicle.'.",
+   "source": {
+    "page": 10,
+    "paragraph": "6.5.2"
+   }
+  },
+  {
+   "requirement_id": "R-0082",
+   "change": "removed",
+   "reason": "Paragraph 6.5 of UN R175 was amended in version 1.0.0; the provision 'The test procedure shall be as follows:' no longer appears."
+  },
+  {
+   "requirement_id": "R-0083",
+   "change": "modified",
+   "new_text": "Test procedures The test procedures shall be performed both in a forward and rearward direction and at least with the ACPE interventions triggered at 1.0 m (+0.1 m tolerance) and 1.5 m (-0.1 m tolerance) distance from the target position (as detailed in Table 1).",
+   "reason": "Paragraph 6.6 (formerly 6.5) of UN R175 was amended in version 1.0.0: 'Test procedures' was added; 'procedure' became 'procedures'; 'with and without an expected ACPE intervention' was removed; 'vehicle situated' became 'ACPE interventions triggered at'; 'distance' was added; 'at the start of the test' was removed.",
+   "source": {
+    "page": 10,
+    "paragraph": "6.6"
+   }
+  },
+  {
+   "requirement_id": "R-0084",
+   "change": "removed",
+   "reason": "Paragraph 6.5 of UN R175 was amended in version 1.0.0; the provision 'Yes : with ACPE intervention No : without ACPE intervention or with ACPE deactivation These tests ma…' no longer appears."
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "An ACPE intervention is not required when: (a) there is an AEBS warning or intervention occurring; or (b) the vehicle speed is greater than 10 km/h.",
+   "reason": "Paragraph 5.1.4.1 of UN R175 is new in version 1.0.0: '(a) there is an AEBS warning or intervention occurring; or (b) the vehicle speed is greater than 10 …'.",
+   "source": {
+    "page": 5,
+    "paragraph": "5.1.4.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The ACPE shall limit vehicle acceleration in order to prevent or mitigate a collision with an obstacle located not more than 1.5 m in front of or behind the vehicle, in the vehicle path, at the time the triggering conditions (as outlined in paragraph 5.1.2.) are achieved, provided: (v) The vehicle’s powertrain management system is properly operational (vi) If the vehicle is equipped with rear hatches, trunk lids or tailgates, they are closed and latched in the normal conditions of vehicle operation.",
+   "reason": "Paragraph 5.1.5 of UN R175 is new in version 1.0.0: '(v) The vehicle’s powertrain management system is properly operational (vi) If the vehicle is equipp…'.",
+   "source": {
+    "page": 5,
+    "paragraph": "5.1.5"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The ACPE shall limit vehicle acceleration in order to prevent or mitigate a collision with an obstacle located not more than 1.5 m in front of or behind the vehicle, in the vehicle path, at the time the triggering conditions (as outlined in paragraph 5.1.2.) are achieved, provided: (ii) In the case of a vehicle obstacle, the centre line of the obstacle is located between two vertical longitudinal planes defining the extreme outer edge of the vehicle.",
+   "reason": "Paragraph 5.1.5 of UN R175 is new in version 1.0.0: '(ii) In the case of a vehicle obstacle, the centre line of the obstacle is located between two verti…'.",
+   "source": {
+    "page": 5,
+    "paragraph": "5.1.5"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The ACPE shall limit vehicle acceleration in order to prevent or mitigate a collision with an obstacle located not more than 1.5 m in front of or behind the vehicle, in the vehicle path, at the time the triggering conditions (as outlined in paragraph 5.1.2.) are achieved, provided: (iii) In the case of a wall obstacle, the overlap between wall and vehicle is at least 1.0 m.",
+   "reason": "Paragraph 5.1.5 of UN R175 is new in version 1.0.0: '(iii) In the case of a wall obstacle, the overlap between wall and vehicle is at least 1.0 m.'.",
+   "source": {
+    "page": 5,
+    "paragraph": "5.1.5"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The ACPE shall limit vehicle acceleration in order to prevent or mitigate a collision with an obstacle located not more than 1.5 m in front of or behind the vehicle, in the vehicle path, at the time the triggering conditions (as outlined in paragraph 5.1.2.) are achieved, provided: (iv) In the case of a pedestrian obstacle, the distance between the centre line of the pedestrian obstacle and the centre line of the vehicle is not more than 25 per cent of the vehicle width.",
+   "reason": "Paragraph 5.1.5 of UN R175 is new in version 1.0.0: '(iv) In the case of a pedestrian obstacle, the distance between the centre line of the pedestrian ob…'.",
+   "source": {
+    "page": 5,
+    "paragraph": "5.1.5"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The ACPE shall limit vehicle acceleration in order to prevent or mitigate a collision with an obstacle located not more than 1.5 m in front of or behind the vehicle, in the vehicle path, at the time the triggering conditions (as outlined in paragraph 5.1.2.) are achieved, provided: (vii) The obstacle is located at least 1.0m from the vehicle at the time the triggering conditions (as outlined in paragraph 5.1.2.) are achieved;",
+   "reason": "Paragraph 5.1.5 of UN R175 is new in version 1.0.0: '(vii) The obstacle is located at least 1.0m from the vehicle at the time the triggering conditions (…'.",
+   "source": {
+    "page": 5,
+    "paragraph": "5.1.5"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The ACPE shall limit vehicle acceleration in order to prevent or mitigate a collision with an obstacle located not more than 1.5 m in front of or behind the vehicle, in the vehicle path, at the time the triggering conditions (as outlined in paragraph 5.1.2.) are achieved, provided: (viii) The vehicle is travelling at or below its maximum creeping speed in the forward direction and at or below 4km/h in rearward direction3 . 3 This condition shall be reviewed by September 2032.",
+   "reason": "Paragraph 5.1.5 of UN R175 is new in version 1.0.0: '(viii) The vehicle is travelling at or below its maximum creeping speed in the forward direction and…'.",
+   "source": {
+    "page": 5,
+    "paragraph": "5.1.5"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Acceleration while creeping, In the case a collision is not prevented, the ACPE shall reduce the effective demand of the accelerator control to zero at or before the point of collision.",
+   "reason": "Paragraph 5.1.6.2 of UN R175 is new in version 1.0.0: 'Acceleration while creeping, In the case a collision is not prevented, the ACPE shall reduce the eff…'.",
+   "source": {
+    "page": 6,
+    "paragraph": "5.1.6.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The targets used for the pedestrian detection tests shall be a child articulated \"soft target\" in its resting position with the articulation being switched off and be representative of the human attributes applicable to the sensor system of the ACPE under test according to ISO 19206-2:2018.",
+   "reason": "Paragraph 6.4.2 of UN R175 is new in version 1.0.0: 'The targets used for the pedestrian detection tests shall be a child articulated \"soft target\" in it…'.",
+   "source": {
+    "page": 10,
+    "paragraph": "6.4.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The reference point for the location of the vehicle shall be the most rearward point on the centreline of the vehicle when going rearwards, and the most forward point of the vehicle when going forwards.",
+   "reason": "Paragraph 6.5.1 of UN R175 is new in version 1.0.0: 'The reference point for the location of the vehicle shall be the most rearward point on the centreli…'.",
+   "source": {
+    "page": 10,
+    "paragraph": "6.5.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The orientation of the vehicle target shall be 0° or 180° respectively as defined in ISO 19206-3:2021, chosen by the technical service.",
+   "reason": "Paragraph 6.5.5 of UN R175 is new in version 1.0.0: 'The orientation of the vehicle target shall be 0° or 180° respectively as defined in ISO 19206-3:202…'.",
+   "source": {
+    "page": 10,
+    "paragraph": "6.5.5"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Each test condition according to Table 1 shall be tested with and without the presence of the target.",
+   "reason": "Paragraph 6.6.1.1 of UN R175 is new in version 1.0.0: 'Each test condition according to Table 1 shall be tested with and without the presence of the target…'.",
+   "source": {
+    "page": 10,
+    "paragraph": "6.6.1.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For tests without a target the ACPE shall be deactivated if necessary, and may be combined where feasible.",
+   "reason": "Paragraph 6.6.1.1 of UN R175 is new in version 1.0.0: 'For tests without a target the ACPE shall be deactivated if necessary, and may be combined where fea…'.",
+   "source": {
+    "page": 10,
+    "paragraph": "6.6.1.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The procedure for each test with a stationary (non-creeping) vehicle shall be as follows:",
+   "reason": "Paragraph 6.6.1.2 of UN R175 is new in version 1.0.0: 'The procedure for each test with a stationary (non-creeping) vehicle shall be as follows:'.",
+   "source": {
+    "page": 10,
+    "paragraph": "6.6.1.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Each test condition according to Table 1 shall be tested once with a starting point and a profile of the accelerator control application selected at the discretion of the Technical Service.",
+   "reason": "Paragraph 6.6.2.1 of UN R175 is new in version 1.0.0: 'Each test condition according to Table 1 shall be tested once with a starting point and a profile of…'.",
+   "source": {
+    "page": 11,
+    "paragraph": "6.6.2.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The starting point and the accelerator control application profile shall be selected such that the triggering condition (as outlined in paragraph 5.1.2.) is achieved as close to: (a) The maximum creeping speed in the forward direction, (b) 4km/h in the rearward direction, As reasonably practical whilst remaining at or below that speed and avoiding any AEBS warning or intervention which results in an ACPE intervention not occurring.",
+   "reason": "Paragraph 6.6.2.1 of UN R175 is new in version 1.0.0: '(a) The maximum creeping speed in the forward direction, (b) 4km/h in the rearward direction, As rea…'.",
+   "source": {
+    "page": 11,
+    "paragraph": "6.6.2.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The procedure for each test with a creeping vehicle shall be as follows: (a) Position the vehicle at the selected starting point as determined by paragraph 6.6.2.1.",
+   "reason": "Paragraph 6.6.2.2 of UN R175 is new in version 1.0.0: '(a) Position the vehicle at the selected starting point as determined by paragraph 6.6.2.1.'.",
+   "source": {
+    "page": 11,
+    "paragraph": "6.6.2.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The procedure for each test with a creeping vehicle shall be as follows: (b) Hold the vehicle stationary and select the corresponding driving direction.",
+   "reason": "Paragraph 6.6.2.2 of UN R175 is new in version 1.0.0: '(b) Hold the vehicle stationary and select the corresponding driving direction.'.",
+   "source": {
+    "page": 11,
+    "paragraph": "6.6.2.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The procedure for each test with a creeping vehicle shall be as follows: (c) Release the braking system so that the vehicle starts creeping.",
+   "reason": "Paragraph 6.6.2.2 of UN R175 is new in version 1.0.0: '(c) Release the braking system so that the vehicle starts creeping.'.",
+   "source": {
+    "page": 11,
+    "paragraph": "6.6.2.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The procedure for each test with a creeping vehicle shall be as follows: (d) Operate the accelerator control in order to achieve the relevant triggering conditions (as outlined in paragraph 5.1.2.) at the point the vehicle has reached the distance to target according to Table 1.",
+   "reason": "Paragraph 6.6.2.2 of UN R175 is new in version 1.0.0: '(d) Operate the accelerator control in order to achieve the relevant triggering conditions (as outli…'.",
+   "source": {
+    "page": 11,
+    "paragraph": "6.6.2.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The procedure for each test with a creeping vehicle shall be as follows: (e) In the case a collision is not prevented the manufacturer shall demonstrate to the satisfaction of the technical service that the intervention complies with the requirements of paragraph 5.1.6.2.",
+   "reason": "Paragraph 6.6.2.2 of UN R175 is new in version 1.0.0: '(e) In the case a collision is not prevented the manufacturer shall demonstrate to the satisfaction …'.",
+   "source": {
+    "page": 11,
+    "paragraph": "6.6.2.2"
+   }
+  }
+ ]
+}

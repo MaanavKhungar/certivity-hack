@@ -85,7 +85,10 @@ def page_markdown(pdf_path):
     """[(page_no, markdown)] for the file, from PyMuPDF4LLM, cached on disk (the conversion takes ~8 s per 100 pages)."""
     pdf_path = Path(pdf_path)
     MD_CACHE.mkdir(parents=True, exist_ok=True)
-    cache = MD_CACHE / (pdf_path.parent.parent.name + "_" + pdf_path.parent.name + ".json")
+    name = pdf_path.parent.parent.name + "_" + pdf_path.parent.name
+    if pdf_path.stem in ("old", "new"):                 # sub-goal folders hold old.pdf and new.pdf side by side
+        name += "_" + pdf_path.stem
+    cache = MD_CACHE / (name + ".json")
     if cache.exists():
         return [tuple(x) for x in json.loads(cache.read_text())]
     chunks = pymupdf4llm.to_markdown(str(pdf_path), page_chunks=True, show_progress=False)

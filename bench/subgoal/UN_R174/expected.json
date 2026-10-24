@@ -1,0 +1,86 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R174",
+ "changes": [
+  {
+   "requirement_id": "R-0011",
+   "change": "modified",
+   "new_text": "The seating position of the driver of M and N categories of vehicles as well as the seating positions of the occupants of seats in the same row as the driver seat of M and N categories of vehicles shall be equipped with a safety-belt reminder satisfying the requirements of paragraph 5.3.",
+   "reason": "Paragraph 5.1.1 of UN R174 was amended in version 1.1.0: 'vehicles3' became 'vehicles'; '3 As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3), document ECE/TRANS/WP.29/78/Rev.7, para. 2 - https://unece.org/transport/standards/transport/vehicle-regulations-wp29/resolutions' was removed.",
+   "source": {
+    "page": 5,
+    "paragraph": "5.1.1"
+   }
+  },
+  {
+   "requirement_id": "R-0012",
+   "change": "modified",
+   "new_text": "All seating positions of the rear seat row(s) of vehicles of categories M1 and N1 shall be equipped with a safety-belt reminder satisfying the requirements of paragraph 5.4.",
+   "reason": "Paragraph 5.1.2 of UN R174 was amended in version 1.1.0: 'N13' became 'N1'.",
+   "source": {
+    "page": 5,
+    "paragraph": "5.1.2"
+   }
+  },
+  {
+   "requirement_id": "R-0031",
+   "change": "modified",
+   "new_text": "Safety-belt reminders for driver and occupants of seats in the same row as the driver, and, for vehicles of category X, safety-belt reminder for occupants of seat(s) of the first row, shall fulfil the requirements set out in paragraph 5.2.",
+   "reason": "Paragraph 5.3.1 of UN R174 was amended in version 1.1.0: 'driver' became 'driver, and, for vehicles of category X, safety-belt reminder for occupants of seat(s) of the first row,'.",
+   "source": {
+    "page": 6,
+    "paragraph": "5.3.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles of category X, the seating positions in the first row of vehicles of categories M and N shall be equipped with a safety-belt reminder satisfying the requirements of paragraph 5.3.",
+   "reason": "Paragraph 5.1.1 of UN R174 is new in version 1.1.0: 'For vehicles of category X, the seating positions in the first row of vehicles of categories M and N…'.",
+   "source": {
+    "page": 5,
+    "paragraph": "5.1.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Whilst an ADSF-2 is active, paragraph 5.1.4. shall apply.",
+   "reason": "Paragraph 5.2.3.1 of UN R174 is new in version 1.1.0: 'Whilst an ADSF-2 is active, paragraph 5.1.4. shall apply.'.",
+   "source": {
+    "page": 5,
+    "paragraph": "5.2.3.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Whilst an ADSF-2 is active, paragraph 5.1.4. shall apply.",
+   "reason": "Paragraph 5.2.4.1 of UN R174 is new in version 1.1.0: 'Whilst an ADSF-2 is active, paragraph 5.1.4. shall apply.'.",
+   "source": {
+    "page": 6,
+    "paragraph": "5.2.4.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Whilst an ADSF-2 is active, paragraph 5.1.4. shall apply.",
+   "reason": "Paragraph 5.4.2 of UN R174 is new in version 1.1.0: 'Whilst an ADSF-2 is active, paragraph 5.1.4. shall apply.'.",
+   "source": {
+    "page": 7,
+    "paragraph": "5.4.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In case of a vehicle equipped with an ADSF-2, the manufacturer shall demonstrate, to the satisfaction of the Type Approval Authority, a suitable test plan for the safety-belt reminder.",
+   "reason": "Paragraph Annex 3 0 of UN R174 is new in version 1.1.0: 'In case of a vehicle equipped with an ADSF-2, the manufacturer shall demonstrate, to the satisfactio…'.",
+   "source": {
+    "page": 12,
+    "paragraph": "Annex 3 0"
+   }
+  }
+ ]
+}

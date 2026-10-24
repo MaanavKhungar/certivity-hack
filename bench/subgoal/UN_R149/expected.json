@@ -1,0 +1,86 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R149",
+ "changes": [
+  {
+   "requirement_id": "R-0001",
+   "change": "removed",
+   "reason": "Paragraph 0 of UN R149 was amended in version 1.7.0; the provision 'In addition, the use of the 'Unique Identifier' shall only be possible if the corresponding Summary …' no longer appears."
+  },
+  {
+   "requirement_id": "R-0023",
+   "change": "modified",
+   "new_text": "Every device belonging to an approved type shall comprise a space of sufficient size for the approval marking and other markings as defined in paragraph 3.3.3.",
+   "reason": "Paragraph 3.3.1.1 of UN R149 was amended in version 1.7.0: 'Unique Identifier as referred to in the 1958 Agreement and other markings as defined in paragraph 3.3.4. or the' was removed; '3.3.4.' became '3.3.3.'.",
+   "source": {
+    "page": 6,
+    "paragraph": "3.3.1.1"
+   }
+  },
+  {
+   "requirement_id": "R-0032",
+   "change": "removed",
+   "reason": "Paragraph 3.3.3.1 of UN R149 was amended in version 1.7.0; the provision 'The Unique Identifier mark shall follow the format in the example shown below:' no longer appears."
+  },
+  {
+   "requirement_id": "R-0033",
+   "change": "modified",
+   "new_text": "Marking requirements Road illumination functions or systems shall bear the approval marking, the trade name or mark of the applicant and the following markings:",
+   "reason": "Paragraph 3.3.3 (formerly 3.3.4) of UN R149 was amended in version 1.7.0: 'marking or the Unique Identifier,' became 'marking,'.",
+   "source": {
+    "page": 7,
+    "paragraph": "3.3.3"
+   }
+  },
+  {
+   "requirement_id": "R-0046",
+   "change": "modified",
+   "new_text": "In any case, the approval marking as well as the category or categories of LED substitute light source(s) prescribed, if any, shall be visible when the lamp is fitted on the vehicle or when a movable part such as the hood or boot lid or a door is opened.",
+   "reason": "Paragraph 3.3.4.2 (formerly 3.3.5.2) of UN R149 was amended in version 1.7.0: 'the Unique Identifier or' was removed.",
+   "source": {
+    "page": 8,
+    "paragraph": "3.3.4.2"
+   }
+  },
+  {
+   "requirement_id": "R-0047",
+   "change": "modified",
+   "new_text": "If the outer lens of a device is designed to be separated from the main body, the approval marking shall be placed on both, the detachable lens and the main body.",
+   "reason": "Paragraph 3.3.4.3 (formerly 3.3.5.3) of UN R149 was amended in version 1.7.0: 'Unique Identifier or the' was removed.",
+   "source": {
+    "page": 8,
+    "paragraph": "3.3.4.3"
+   }
+  },
+  {
+   "requirement_id": "R-0117",
+   "change": "modified",
+   "new_text": "Having re-aimed the headlamp/system or part(s) thereof as a whole (by means of the goniometer for example) in the corresponding opposite direction the light output in the following directions shall be controlled and lie within the required limits: passing-beam: for headlamp points B50L and 75R (B50R and 75L, respectively);",
+   "reason": "Paragraph 4.17.3 of UN R149 was amended in version 1.7.0: 'passing-beam: for headlamp points B50L and 75R (B50R and 75L, respectively);' was added.",
+   "source": {
+    "page": 14,
+    "paragraph": "4.17.3"
+   }
+  },
+  {
+   "requirement_id": "R-0320",
+   "change": "modified",
+   "new_text": "Measurement of the quality of the \"cut-off\" To determine the minimum sharpness, measurements shall be performed by vertically scanning through the horizontal part of the \"cut-off\" in angular steps of 0.05° or smaller at either a measurement distance of:",
+   "reason": "Paragraph Annex 6 2.2 of UN R149 was amended in version 1.7.0: 'or smaller' was added.",
+   "source": {
+    "page": 59,
+    "paragraph": "Annex 6 2.2"
+   }
+  },
+  {
+   "requirement_id": "R-0322",
+   "change": "modified",
+   "new_text": "To determine the maximum sharpness and linearity, measurements shall be performed by vertically scanning through the horizontal part of the \"cut-off\" in angular steps of 0.05° or smaller, exclusively at a measurement distance of 25 m and with a detector having a diameter of approximately 30 mm.",
+   "reason": "Paragraph Annex 6 2.2 of UN R149 was amended in version 1.7.0: '**and linearity** ,' became 'and linearity,'; 'or smaller,' was added.",
+   "source": {
+    "page": 59,
+    "paragraph": "Annex 6 2.2"
+   }
+  }
+ ]
+}

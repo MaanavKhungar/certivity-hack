@@ -1,0 +1,76 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R132",
+ "changes": [
+  {
+   "requirement_id": "R-0013",
+   "change": "modified",
+   "new_text": "REC samples for approval testing shall be clearly identified with at least the applicant’s name and the reference of the application for type approval.",
+   "reason": "Paragraph 5.4 of UN R132 was amended in version 1.1.0: 'application.' became 'application for type approval.'.",
+   "source": {
+    "page": 5,
+    "paragraph": "5.4"
+   }
+  },
+  {
+   "requirement_id": "R-0061",
+   "change": "modified",
+   "new_text": "The approval shall be conditional upon the manufacturer providing:",
+   "reason": "Paragraph 7.9 of UN R132 was amended in version 1.1.0: 'following sub-paragraphs.' became 'manufacturer providing:'.",
+   "source": {
+    "page": 8,
+    "paragraph": "7.9"
+   }
+  },
+  {
+   "requirement_id": "R-0066",
+   "change": "modified",
+   "new_text": "The reduction efficiency shall be determined by comparison of the emissions measured over the weighted WHTC for REC to be applied to heavy-duty engines or over the weighted NRTC for REC to be applied to nonroad mobile machinery or Category T vehicles engines.",
+   "reason": "Paragraph 8.3.2 of UN R132 was amended in version 1.1.0: 'agricultural and forestry tractor' became 'Category T vehicles'.",
+   "source": {
+    "page": 8,
+    "paragraph": "8.3.2"
+   }
+  },
+  {
+   "requirement_id": "R-0077",
+   "change": "modified",
+   "new_text": "The dilution ratios of the particle number diluters (PND1 and PND2 of the particle transfer system, as defined in UN Regulations Nos. 49 and 96) shall then be adapted to the measurement range of the Particle Number Counter (PNC).",
+   "reason": "Paragraph 8.5.2 of UN R132 was amended in version 1.1.0: 'Regulation No. 49)' became 'UN Regulations Nos. 49 and 96)'; 'particle number counter' became 'Particle Number Counter'.",
+   "source": {
+    "page": 9,
+    "paragraph": "8.5.2"
+   }
+  },
+  {
+   "requirement_id": "R-0081",
+   "change": "modified",
+   "new_text": "For Class III and Class IV REC, emissions of ammonia shall not exceed a mean value of 25 ppm when measured using the procedures defined in Appendix 7 to Annex 4 of the 06 series of amendments to UN Regulation No. 49 or in Appendix 7 to Annex 4 of the 05 series of amendment to UN Regulation No. 96.",
+   "reason": "Paragraph 8.6.2 of UN R132 was amended in version 1.1.0: 'UN' was added; '49.' became '49 or in Appendix 7 to Annex 4 of the 05 series of amendment to UN Regulation No. 96.'.",
+   "source": {
+    "page": 9,
+    "paragraph": "8.6.2"
+   }
+  },
+  {
+   "requirement_id": "R-0257",
+   "change": "modified",
+   "new_text": "The manufacturer shall specify a minimum acceptable reagent concentration CDmin, which results in tailpipe NOX emissions not exceeding the lower of either the applicable NOX limit multiplied by 2.25 or the applicable NOX limit plus 1.5 g/kWh.",
+   "reason": "Paragraph Annex 10 8.2 of UN R132 was amended in version 1.1.0: 'NOx' became 'NOX'; '(a) 0.9 g/kWh for retrofitted engine systems complying with' was removed; 'NOx emission' became 'lower of either the applicable NOX'; 'for stage Q and R of Regulation No. 96;' became 'multiplied by 2.25'; '(b) The NOx emission' became 'the applicable NOX'; '+' became 'plus'; 'g/kWh for all other systems.' became 'g/kWh.'.",
+   "source": {
+    "page": 46,
+    "paragraph": "Annex 10 8.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For engine sub-categories with a combined HC and NOX limit, the applicable NOX limit value for the purpose of this paragraph shall be the combined limit value for HC and NOX reduced by 0.19 g/kWh.",
+   "reason": "Paragraph Annex 10 8.2 of UN R132 is new in version 1.1.0: 'For engine sub-categories with a combined HC and NOX limit, the applicable NOX limit value for the p…'.",
+   "source": {
+    "page": 46,
+    "paragraph": "Annex 10 8.2"
+   }
+  }
+ ]
+}

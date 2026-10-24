@@ -1,0 +1,5429 @@
+[
+ {
+  "id": "R-0001",
+  "text": "ADAS are aimed to assist the drivers, who always remain responsible for vehicle control and shall permanently monitor the environment and vehicle/system performance.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 1,
+   "paragraph": "1"
+  }
+ },
+ {
+  "id": "R-0002",
+  "text": "DCAS support shall not adversely impact road safety and driver control over the vehicle behaviour.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 1,
+   "paragraph": "2"
+  }
+ },
+ {
+  "id": "R-0003",
+  "text": "These provisions are phrased as “the system shall…”;",
+  "source": {
+   "regulation": "UN R171",
+   "page": 1,
+   "paragraph": "7"
+  }
+ },
+ {
+  "id": "R-0004",
+  "text": "These provisions are phrased as “the system shall aim to…”; and (c) Some requirements are difficult to verify by assessing system performance directly and are more readily verified by assessing the design of the system, for example by analysing its control strategies.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 1,
+   "paragraph": "7"
+  }
+ },
+ {
+  "id": "R-0005",
+  "text": "These provisions are phrased as “the system shall be designed to…”.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 1,
+   "paragraph": "7"
+  }
+ },
+ {
+  "id": "R-0006",
+  "text": "When manoeuvres are initiated by the system, the system shall be designed to follow the national traffic rules.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 2,
+   "paragraph": "8"
+  }
+ },
+ {
+  "id": "R-0007",
+  "text": "Therefore, DCAS shall aim to prevent reasonably foreseeable risks of driver’s misuse or abuse.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 2,
+   "paragraph": "10"
+  }
+ },
+ {
+  "id": "R-0008",
+  "text": "DCAS shall provide sufficient information to enable the driver to supervise the assistance provided.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 2,
+   "paragraph": "10"
+  }
+ },
+ {
+  "id": "R-0009",
+  "text": "DCAS shall be designed to avoid drivers undertaking activities other than driving over and above those permitted for manual driving before this UN Regulation enters into force as DCAS require the driver to remain engaged with the driving task.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 2,
+   "paragraph": "11"
+  }
+ },
+ {
+  "id": "R-0010",
+  "text": "Therefore, DCAS shall have means to evaluate continuous driver involvement in and supervision of the vehicle operation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 2,
+   "paragraph": "11"
+  }
+ },
+ {
+  "id": "R-0011",
+  "text": "The validation of DCAS shall ensure that a thorough assessment, considering the functional and operational safety of the features integrated in DCAS and the entire DCAS integrated into a vehicle, has been performed by the manufacturer during the design and development processes.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 2,
+   "paragraph": "13"
+  }
+ },
+ {
+  "id": "R-0012",
+  "text": "The application for approval of a vehicle type with regard to the DCAS shall be submitted by the vehicle manufacturer or by the manufacturer’s authorized representative to the Type Approval Authority of the Contracting Party, according to the provisions of Schedule 3 of the 1958 Agreement.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 6,
+   "paragraph": "3.1"
+  }
+ },
+ {
+  "id": "R-0013",
+  "text": "It shall be accompanied by the following documentation:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 6,
+   "paragraph": "3.2"
+  }
+ },
+ {
+  "id": "R-0014",
+  "text": "A vehicle representative of the vehicle type to be approved shall be submitted to the Type Approval Authority or its designated technical service responsible for conducting the approval tests. 4.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 6,
+   "paragraph": "3.3"
+  }
+ },
+ {
+  "id": "R-0015",
+  "text": "If the vehicle type submitted for approval pursuant to this UN Regulation meets the requirements of paragraphs 5 to 10 below, approval of that vehicle type shall be granted.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 6,
+   "paragraph": "4.1"
+  }
+ },
+ {
+  "id": "R-0016",
+  "text": "An approval number shall be assigned to each type approved.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 6,
+   "paragraph": "4.2"
+  }
+ },
+ {
+  "id": "R-0017",
+  "text": "Its first two digits (at present 00 for the UN Regulation in its original form) shall indicate the series of amendments incorporating the technical amendments made to the UN Regulation at the time of issue of the approval.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 6,
+   "paragraph": "4.2"
+  }
+ },
+ {
+  "id": "R-0018",
+  "text": "The same Contracting Party shall not assign the same number to another type of vehicle.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 6,
+   "paragraph": "4.2"
+  }
+ },
+ {
+  "id": "R-0019",
+  "text": "Communication of approval or extension of approval or refusal of approval or withdrawal of approval or of production definitively discontinued of a vehicle type pursuant to this UN Regulation shall be communicated to the Contracting Parties to the Agreement applying this UN Regulation by means of a form conforming to the model in Annex 1 to this UN Regulation and documentation supplied by the applicant being in a format not exceeding A4 (210 × 297mm), and on an appropriate scale or electronic format.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 6,
+   "paragraph": "4.3"
+  }
+ },
+ {
+  "id": "R-0020",
+  "text": "There shall be affixed, conspicuously and in a readily accessible place specified on the approval form, to every vehicle conforming to a vehicle type approved under this UN Regulation, an international approval mark conforming to the model described in Annex 2, consisting of either:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 7,
+   "paragraph": "4.4"
+  }
+ },
+ {
+  "id": "R-0021",
+  "text": "The approval mark shall be clearly legible and be indelible.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 7,
+   "paragraph": "4.5"
+  }
+ },
+ {
+  "id": "R-0022",
+  "text": "The Type Approval Authority shall verify the existence of satisfactory arrangements for ensuring effective checks on conformity of production before type-approval is granted. 5.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 7,
+   "paragraph": "4.6"
+  }
+ },
+ {
+  "id": "R-0023",
+  "text": "General Specifications The fulfilment of the provisions of this paragraph shall be demonstrated by the manufacturer to the Type Approval Authority during the inspection of the safety approach as part of the assessment to Annex 3 and according to the relevant tests in Annex 4.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 7,
+   "paragraph": "4.6"
+  }
+ },
+ {
+  "id": "R-0024",
+  "text": "The system shall be designed to ensure the driver remains engaged with the driving task, in accordance with paragraph 5.5.4.2.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 7,
+   "paragraph": "5.1.1"
+  }
+ },
+ {
+  "id": "R-0025",
+  "text": "The system shall be designed to ensure mode awareness and avoid driver overreliance.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 7,
+   "paragraph": "5.1.2"
+  }
+ },
+ {
+  "id": "R-0026",
+  "text": "This shall be demonstrated by fulfilment of provisions of paragraphs 5.5.4.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 7,
+   "paragraph": "5.1.2"
+  }
+ },
+ {
+  "id": "R-0027",
+  "text": "The system shall be designed to guard against reasonably foreseeable misuse by the driver and unauthorized modification of the system’s software and hardware components.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 7,
+   "paragraph": "5.1.3"
+  }
+ },
+ {
+  "id": "R-0028",
+  "text": "The system shall provide the driver a means to safely override or deactivate the system at any time in accordance with paragraphs 5.5.3.4.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 7,
+   "paragraph": "5.1.4"
+  }
+ },
+ {
+  "id": "R-0029",
+  "text": "The DCAS-equipped vehicle shall at least be equipped with an Advanced Emergency Braking System.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 7,
+   "paragraph": "5.1.5"
+  }
+ },
+ {
+  "id": "R-0030",
+  "text": "In addition, it shall be equipped with either a Lane Departure Prevention System or Lane Departure Warning System.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 7,
+   "paragraph": "5.1.5"
+  }
+ },
+ {
+  "id": "R-0031",
+  "text": "These systems shall comply with the technical requirements and transitional provisions of UN Regulations Nos. 131, 152, 79 (Corrective Steering Function) and 130, as appropriate for the DCAS-equipped vehicle category.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 7,
+   "paragraph": "5.1.5"
+  }
+ },
+ {
+  "id": "R-0032",
+  "text": "While the system is in ‘active’ mode, its operation shall not deactivate or suppress the longitudinal functionality of activated emergency assistance systems (i.e., AEBS).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 7,
+   "paragraph": "5.2.1"
+  }
+ },
+ {
+  "id": "R-0033",
+  "text": "Transitions between DCAS and other assistance or automation systems, prioritization of one over the other, and any suppression or deactivation of other assistance systems which are intended to ensure the safe and nominal operation of the vehicle shall be described in detail in the documentation presented to the Type Approval Authority.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 7,
+   "paragraph": "5.2.2"
+  }
+ },
+ {
+  "id": "R-0034",
+  "text": "The manufacturer shall describe in detail in the documentation the detection capabilities of the system relevant to the individual features, especially for those system boundaries listed in Annex 3, Appendix 3.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 7,
+   "paragraph": "5.3.1"
+  }
+ },
+ {
+  "id": "R-0035",
+  "text": "The system shall be able to detect, assess and respond to its surroundings as required to implement the system’s intended functionality, within the system boundaries and to the extent possible if operating beyond system boundaries.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 7,
+   "paragraph": "5.3.2"
+  }
+ },
+ {
+  "id": "R-0036",
+  "text": "The system shall aim to avoid disruption to the flow of traffic by adapting its behaviour to the surrounding traffic in an appropriate safety-oriented way.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 8,
+   "paragraph": "5.3.2.1"
+  }
+ },
+ {
+  "id": "R-0037",
+  "text": "If the system detects a risk of collision, it shall aim to avoid or mitigate the severity of a collision.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 8,
+   "paragraph": "5.3.2.2"
+  }
+ },
+ {
+  "id": "R-0038",
+  "text": "Without prejudice to other requirements in this UN Regulation, the system shall control the longitudinal and lateral motion of the vehicle aiming to maintain appropriate distances from other road users.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 8,
+   "paragraph": "5.3.2.3"
+  }
+ },
+ {
+  "id": "R-0039",
+  "text": "The system’s control strategy shall be designed to reduce the risk of collisions whilst remaining controllable, accounting for the reaction time of the driver, as per paragraph 5.3.6.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 8,
+   "paragraph": "5.3.4"
+  }
+ },
+ {
+  "id": "R-0040",
+  "text": "The system shall aim to detect the applicable system boundaries when DCAS or a feature of DCAS is in ‘on’ mode.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 8,
+   "paragraph": "5.3.5.1"
+  }
+ },
+ {
+  "id": "R-0041",
+  "text": "If the system identifies that the system or feature boundary is exceeded, it shall transition into ‘standby’ mode and immediately notify the driver in accordance to the strategies described by the manufacturer as outlined in paragraph 5.3.5.2. and according to the HMI requirements defined in paragraph 5.5.4.1.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 8,
+   "paragraph": "5.3.5.1"
+  }
+ },
+ {
+  "id": "R-0042",
+  "text": "The system shall terminate assistance to the driver provided by the affected feature or the system in a controllable way.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 8,
+   "paragraph": "5.3.5.1"
+  }
+ },
+ {
+  "id": "R-0043",
+  "text": "The assistance termination strategy shall be described by the vehicle manufacturer and assessed according to Annex 3.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 8,
+   "paragraph": "5.3.5.1"
+  }
+ },
+ {
+  "id": "R-0044",
+  "text": "The system shall aim to avoid rapid system fluctuations between ‘stand-by’ and ‘active’ modes.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 8,
+   "paragraph": "5.3.5.1.1"
+  }
+ },
+ {
+  "id": "R-0045",
+  "text": "The manufacturer shall describe in detail, as part of the documentation required for Section 9, the system boundary conditions for the system and its features, and the strategies to notify the driver in the event a boundary condition is detected to be exceeded, being met or being approached (as per paragraph 5.3.5.5.).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 8,
+   "paragraph": "5.3.5.2"
+  }
+ },
+ {
+  "id": "R-0046",
+  "text": "The description shall at least take into account potentially relevant boundary conditions as listed in Annex 3, Appendix 3.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 8,
+   "paragraph": "5.3.5.2.1"
+  }
+ },
+ {
+  "id": "R-0047",
+  "text": "The manufacturer shall describe and where reasonable demonstrate the behaviour of the system, the impact on system performance and how safety is ensured in case the system or its features remain in ‘active’ mode beyond these boundaries.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 8,
+   "paragraph": "5.3.5.2.2"
+  }
+ },
+ {
+  "id": "R-0048",
+  "text": "The manufacturer shall identify those system boundaries that the system is able to detect and shall describe the means by which the system is capable of identifying system boundaries.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 8,
+   "paragraph": "5.3.5.3"
+  }
+ },
+ {
+  "id": "R-0049",
+  "text": "Any declared system boundary that the system is unable to detect shall be documented and it shall be justified, to the satisfaction of the Type Approval Authority, how the inability to detect does not affect the safe operation of the system or its features.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 8,
+   "paragraph": "5.3.5.4"
+  }
+ },
+ {
+  "id": "R-0050",
+  "text": "When the system identifies that the vehicle is approaching a system boundary of a feature in ‘active mode’, it shall inform the driver of this with sufficient lead time for the driver to respond appropriately.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 8,
+   "paragraph": "5.3.5.5"
+  }
+ },
+ {
+  "id": "R-0051",
+  "text": "The system shall be designed to ensure that control actions by the system including, but not limited to, those resulting from system failures, reaching system boundaries, cancelling manoeuvres or when the system is being switched to ‘off’ mode remain controllable for the driver.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 8,
+   "paragraph": "5.3.6.1"
+  }
+ },
+ {
+  "id": "R-0052",
+  "text": "This shall take into account the driver’s potential reaction time, as relevant to the situation, including manual reengagement where applicable, so that the driver intervention can be safely performed at any time (e.g., during a given manoeuvre).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 8,
+   "paragraph": "5.3.6.1"
+  }
+ },
+ {
+  "id": "R-0053",
+  "text": "Whilst withholding HORs, the manufacturer shall consider this potential reaction time required for the driver to respond to a DCA and to hold the steering control.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 8,
+   "paragraph": "5.3.6.1.1"
+  }
+ },
+ {
+  "id": "R-0054",
+  "text": "This shall never be assumed to be less than 1 second, unless the manufacturer is able to demonstrate that controllability is ensured through specific strategies.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 8,
+   "paragraph": "5.3.6.1.1"
+  }
+ },
+ {
+  "id": "R-0055",
+  "text": "The system shall be designed to ensure controllability in accordance with the system’s capabilities and within the defined system boundaries.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 9,
+   "paragraph": "5.3.6.2"
+  }
+ },
+ {
+  "id": "R-0056",
+  "text": "In the case that HORs are being withheld, the system shall take into account that the driver may be motorically disengaged.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 9,
+   "paragraph": "5.3.6.2"
+  }
+ },
+ {
+  "id": "R-0057",
+  "text": "The manufacturer’s controllability design shall be described in detail to the Type Approval Authority and shall be assessed according to Annex 3.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 9,
+   "paragraph": "5.3.6.2"
+  }
+ },
+ {
+  "id": "R-0058",
+  "text": "When controlled by the system, the vehicle deceleration and acceleration shall remain manageable for the driver and surrounding traffic, unless increased levels of deceleration are required to ensure the safety of the vehicle or surrounding road users.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 9,
+   "paragraph": "5.3.6.3.1"
+  }
+ },
+ {
+  "id": "R-0059",
+  "text": "While the system is trying to maintain a constant speed without external disturbances, it shall aim to minimise unreasonable fluctuations in the vehicle’s speed.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 9,
+   "paragraph": "5.3.6.3.2"
+  }
+ },
+ {
+  "id": "R-0060",
+  "text": "The system while being in ‘active’ mode shall assist in keeping the vehicle in a stable position within its lane of travel.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 9,
+   "paragraph": "5.3.7.1.1"
+  }
+ },
+ {
+  "id": "R-0061",
+  "text": "While being in ‘active’ mode, the system shall ensure that the vehicle does not leave its lane of travel for lateral acceleration values specified by the manufacturer.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 9,
+   "paragraph": "5.3.7.1.1"
+  }
+ },
+ {
+  "id": "R-0062",
+  "text": "The system shall have the capability to adapt the vehicle speed in response to road curvature in order to achieve this.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 9,
+   "paragraph": "5.3.7.1.1.1"
+  }
+ },
+ {
+  "id": "R-0063",
+  "text": "The activated feature shall at any time, within the boundary conditions, ensure that the vehicle does not unintentionally cross a lane marking for lateral accelerations values to be specified by the manufacturer which shall not exceed 3 m/s² for M1 and N1 category vehicles and 2.5 m/s² for M2, M3, N2 and N3 category vehicles.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 9,
+   "paragraph": "5.3.7.1.2"
+  }
+ },
+ {
+  "id": "R-0064",
+  "text": "The feature shall not deactivate or unreasonably switch the control strategy in these other conditions.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 9,
+   "paragraph": "5.3.7.1.2"
+  }
+ },
+ {
+  "id": "R-0065",
+  "text": "The moving average over half a second of the lateral jerk generated by the system shall not exceed 5 m/s3 .",
+  "source": {
+   "regulation": "UN R171",
+   "page": 9,
+   "paragraph": "5.3.7.1.2.1"
+  }
+ },
+ {
+  "id": "R-0066",
+  "text": "The strategy by which the system determines the appropriate speed and resulting lateral acceleration shall be documented and assessed by the Type Approval Authority.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 9,
+   "paragraph": "5.3.7.1.3"
+  }
+ },
+ {
+  "id": "R-0067",
+  "text": "When the system reaches its boundary conditions set out in paragraph 9.1.3., and both in the absence of any driver input to the steering control and when any the front tyre of the vehicle starts to unintentionally cross a lane marking, the system shall avoid sudden loss of steering support by providing continued assistance to the extent possible as outlined in the safety concept of the vehicle manufacturer.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 9,
+   "paragraph": "5.3.7.1.4"
+  }
+ },
+ {
+  "id": "R-0068",
+  "text": "The system shall clearly inform the driver about this system status by means of an optical warning signal and additionally by an acoustic or haptic warning signal.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 9,
+   "paragraph": "5.3.7.1.4"
+  }
+ },
+ {
+  "id": "R-0069",
+  "text": "A manoeuvre shall only be initiated if the driver is not detected to be disengaged, and (a) has commanded the system to perform the manoeuvre for a driver-initiated manoeuvre; or (b) has acknowledged the system’s intention as needed for a driver-confirmed manoeuvre; or (c) is given sufficient notice to react for a system-initiated manoeuvre.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 10,
+   "paragraph": "5.3.7.2.1.1"
+  }
+ },
+ {
+  "id": "R-0070",
+  "text": "The system shall only be permitted to perform a manoeuvre if the vehicle is equipped with detection capabilities with sufficient range to the front, side and rear with respect to the manoeuvre.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 10,
+   "paragraph": "5.3.7.2.1.2"
+  }
+ },
+ {
+  "id": "R-0071",
+  "text": "A manoeuvre shall not be initiated if a driver disengagement warning is being given to the driver.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 10,
+   "paragraph": "5.3.7.2.1.3"
+  }
+ },
+ {
+  "id": "R-0072",
+  "text": "A manoeuvre shall not be initiated if a risk of collision with another vehicle or road user is detected in the predicted path of the DCAS vehicle during the manoeuvre.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 10,
+   "paragraph": "5.3.7.2.1.4"
+  }
+ },
+ {
+  "id": "R-0073",
+  "text": "A manoeuvre shall be predictable and manageable for other road users.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 10,
+   "paragraph": "5.3.7.2.1.5"
+  }
+ },
+ {
+  "id": "R-0074",
+  "text": "A manoeuvre shall aim to be one continuous movement.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 10,
+   "paragraph": "5.3.7.2.1.6"
+  }
+ },
+ {
+  "id": "R-0075",
+  "text": "A manoeuvre shall be completed without undue delay.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 10,
+   "paragraph": "5.3.7.2.1.7"
+  }
+ },
+ {
+  "id": "R-0076",
+  "text": "Once a manoeuvre has been completed, the system shall resume assisting in maintaining a stable position in the lane of travel.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 10,
+   "paragraph": "5.3.7.2.1.8"
+  }
+ },
+ {
+  "id": "R-0077",
+  "text": "In case the vehicle is unexpectedly forced to become stationary during a planned manoeuvre, the system shall provide at least a visual warning signal to the driver, and may request the driver to resume control.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 10,
+   "paragraph": "5.3.7.2.1.9"
+  }
+ },
+ {
+  "id": "R-0078",
+  "text": "The system shall indicate driving manoeuvres assisted by the system (e.g., a lane change or turn) to other road users as per the required convention or as specifically defined in this Regulation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 10,
+   "paragraph": "5.3.7.2.1.10"
+  }
+ },
+ {
+  "id": "R-0079",
+  "text": "This shall include the use of the direction indicator to notify road users of an upcoming lateral manoeuvre.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 10,
+   "paragraph": "5.3.7.2.1.10"
+  }
+ },
+ {
+  "id": "R-0080",
+  "text": "The system shall ensure the manoeuvre remains controllable for the driver, as per paragraph 5.3.6., by adapting its longitudinal speed before and during the manoeuvre when necessary.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 10,
+   "paragraph": "5.3.7.2.1.11"
+  }
+ },
+ {
+  "id": "R-0081",
+  "text": "The manoeuvre shall aim to not cause a collision with another detected vehicle or road user in the predicted path of the vehicle during the manoeuvre.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 10,
+   "paragraph": "5.3.7.2.1.12"
+  }
+ },
+ {
+  "id": "R-0082",
+  "text": "The system shall only initiate the manoeuvre when explicitly commanded by the driver without prior request by the system, and when it is safe to do so.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 10,
+   "paragraph": "5.3.7.2.2.1"
+  }
+ },
+ {
+  "id": "R-0083",
+  "text": "The requirements outlined in paragraph 5.5.4.1.8. and subparagraphs shall apply.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 10,
+   "paragraph": "5.3.7.2.3.1"
+  }
+ },
+ {
+  "id": "R-0084",
+  "text": "In addition, the system shall be designed to ensure that the driver has sufficient time to confirm that the system may proceed with the manoeuvre, as appropriate.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 10,
+   "paragraph": "5.3.7.2.3.1"
+  }
+ },
+ {
+  "id": "R-0085",
+  "text": "A request by the system for the driver to confirm a manoeuvre shall at least be indicated through a specific signal (or combination of signals) in accordance with paragraph 5.5.4.1.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 11,
+   "paragraph": "5.3.7.2.3.2"
+  }
+ },
+ {
+  "id": "R-0086",
+  "text": "In the event that the driver does not confirm a request by the system, the system shall not initiate that manoeuvre.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 11,
+   "paragraph": "5.3.7.2.3.3"
+  }
+ },
+ {
+  "id": "R-0087",
+  "text": "A manoeuvre shall only be proposed if there is a justifiable reason for said manoeuvre.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 11,
+   "paragraph": "5.3.7.2.3.4"
+  }
+ },
+ {
+  "id": "R-0088",
+  "text": "The system shall aim not to initiate the proposed manoeuvre, even if already confirmed by the driver, unless the following conditions are met:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 11,
+   "paragraph": "5.3.7.2.3.5"
+  }
+ },
+ {
+  "id": "R-0089",
+  "text": "The system shall not propose a manoeuvre if it would knowingly cause other road users to unreasonably or unmanageably decelerate or evade the vehicle as a consequence of the manoeuvre.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 11,
+   "paragraph": "5.3.7.2.3.6"
+  }
+ },
+ {
+  "id": "R-0090",
+  "text": "The system shall aim to not initiate a manoeuvre if it would violate applicable instruction by relevant signage or performance requirements as specified in paragraph 6.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 11,
+   "paragraph": "5.3.7.2.3.7"
+  }
+ },
+ {
+  "id": "R-0091",
+  "text": "The system shall not propose a manoeuvre if it would lead the vehicle to cross lane markings which are not permitted to be crossed.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 11,
+   "paragraph": "5.3.7.2.3.8"
+  }
+ },
+ {
+  "id": "R-0092",
+  "text": "The system shall be designed to ensure that the driver has sufficient time to reject the manoeuvre announced by the system before it is performed in an easily accessible way, or to resume unassisted control, as appropriate.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 11,
+   "paragraph": "5.3.7.2.4.1"
+  }
+ },
+ {
+  "id": "R-0093",
+  "text": "If the driver rejects a manoeuvre, the system shall not initiate the same manoeuvre unless the circumstances change or there is a risk of an imminent collision.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 11,
+   "paragraph": "5.3.7.2.4.1"
+  }
+ },
+ {
+  "id": "R-0094",
+  "text": "A manoeuvre shall not be initiated if system has presented an EOR to the driver in the 7 seconds leading up to the initiation of the manoeuvre.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 11,
+   "paragraph": "5.3.7.2.4.2"
+  }
+ },
+ {
+  "id": "R-0095",
+  "text": "In addition, further strategies shall be implemented to ensure appropriate driver engagement prior to the initiation of the manoeuvre, which shall be documented and explained.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 11,
+   "paragraph": "5.3.7.2.4.2.1"
+  }
+ },
+ {
+  "id": "R-0096",
+  "text": "The manufacturer shall also describe in the safety concept the system behaviour in case the driver is detected to be disengaged during a manoeuvre (e.g., initiation of a risk mitigation function, full execution of the manoeuvre, stop the vehicle).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 11,
+   "paragraph": "5.3.7.2.4.3"
+  }
+ },
+ {
+  "id": "R-0097",
+  "text": "A manoeuvre shall only be performed if there is a justifiable reason for said manoeuvre (e.g., pursuing a set destination, following traffic flow, safety-relevant manoeuvres, etc.).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 11,
+   "paragraph": "5.3.7.2.4.4"
+  }
+ },
+ {
+  "id": "R-0098",
+  "text": "The manufacturer shall explain in the documentation the traffic situations where the system may initiate manoeuvres.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 11,
+   "paragraph": "5.3.7.2.4.4"
+  }
+ },
+ {
+  "id": "R-0099",
+  "text": "The system shall not initiate the manoeuvre if the conditions outlined in paragraph 5.3.7.2.3.5. are not met.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 11,
+   "paragraph": "5.3.7.2.4.5"
+  }
+ },
+ {
+  "id": "R-0100",
+  "text": "The system shall aim to not initiate a manoeuvre if it would cause other road users to unreasonably or unmanageably decelerate or evade the vehicle as a consequence of the manoeuvre.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 12,
+   "paragraph": "5.3.7.2.4.6"
+  }
+ },
+ {
+  "id": "R-0101",
+  "text": "The system shall aim to not initiate a manoeuvre if it would violate applicable instruction by relevant signage or performance requirements as specified in paragraph 6.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 12,
+   "paragraph": "5.3.7.2.4.7"
+  }
+ },
+ {
+  "id": "R-0102",
+  "text": "The system shall not initiate a manoeuvre if it would lead the vehicle to cross lane markings which are not permitted to be crossed.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 12,
+   "paragraph": "5.3.7.2.4.8"
+  }
+ },
+ {
+  "id": "R-0103",
+  "text": "The system shall aim not to violate appropriate right-of-way rules applicable in the country of operation where relevant to the manoeuvre.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 12,
+   "paragraph": "5.3.7.2.4.9"
+  }
+ },
+ {
+  "id": "R-0104",
+  "text": "The system shall only initiate a manoeuvre if the vehicle is located on a highway (including highway slip roads) and it is not withholding HORs.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 12,
+   "paragraph": "5.3.7.2.4.10"
+  }
+ },
+ {
+  "id": "R-0105",
+  "text": "A request for the driver to acknowledge that they have read and understood the driver information material outlined in paragraph 5.6 shall be given while the vehicle is in a stopped position.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 12,
+   "paragraph": "5.3.7.2.4.11"
+  }
+ },
+ {
+  "id": "R-0106",
+  "text": "This request shall be given at least once every month.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 12,
+   "paragraph": "5.3.7.2.4.11"
+  }
+ },
+ {
+  "id": "R-0107",
+  "text": "If the vehicle can identify that the current driver has not acknowledged this request before, then it shall be given in the current drive cycle.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 12,
+   "paragraph": "5.3.7.2.4.11"
+  }
+ },
+ {
+  "id": "R-0108",
+  "text": "The system shall be designed to have anticipatory behaviour in interaction with other road user(s) aiming to ensure stable, low-amplitude dynamics and/or to minimise risk as appropriate (e.g., when critical situations could become imminent).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 12,
+   "paragraph": "5.3.7.2.5.1"
+  }
+ },
+ {
+  "id": "R-0109",
+  "text": "This shall be demonstrated by avoidance of a collision in the following scenarios, accounting for the robustness criteria outlined in Annex 3 Appendix 4:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 12,
+   "paragraph": "5.3.7.2.5.1"
+  }
+ },
+ {
+  "id": "R-0110",
+  "text": "In case the following distance to a vehicle in front is temporarily disrupted (e.g., vehicle is cutting in, a decelerating lead vehicle, etc.), the vehicle shall readjust the following distance at the next available opportunity without any harsh braking implementing strategies aiming to address significant string instability, unless an emergency manoeuvre would become necessary.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 12,
+   "paragraph": "5.3.7.2.5.2"
+  }
+ },
+ {
+  "id": "R-0111",
+  "text": "For highway operation, the system shall aim to respond to work zones, lane reductions, lane closures, toll stations and end of highways (e.g., by notifying the driver, issuing a DCA, or continuing operation if capable).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 12,
+   "paragraph": "5.3.7.2.5.3.1"
+  }
+ },
+ {
+  "id": "R-0112",
+  "text": "For non-highway operation, if system-initiated manoeuvres can be activated, the system shall aim to respond to relevant situations when the vehicle could be expected to stop, give way or required to change lane.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 12,
+   "paragraph": "5.3.7.2.5.3.2"
+  }
+ },
+ {
+  "id": "R-0113",
+  "text": "If the relevant situation is within the system boundaries, the system shall manage it by either:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 12,
+   "paragraph": "5.3.7.2.5.3.2"
+  }
+ },
+ {
+  "id": "R-0114",
+  "text": "If the relevant situation means that the system is approaching a system boundary, the system shall issue a DCA. 5.3.7.2.5.3.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 12,
+   "paragraph": "5.3.7.2.5.3.2"
+  }
+ },
+ {
+  "id": "R-0115",
+  "text": "The system shall be able to recognize lane markings as outlined in Annex 3 of the 01 or later series of amendments to UN Regulation No. 130, as relevant to the countries in which the system can be activated.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 12,
+   "paragraph": "5.3.7.2.5.3.2"
+  }
+ },
+ {
+  "id": "R-0116",
+  "text": "The system shall comply with the technical requirements and transitional provisions of the 04 or later series of amendments to UN Regulation No. 79 with respect to the Risk Mitigation Function (RMF).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 13,
+   "paragraph": "5.3.7.3.1"
+  }
+ },
+ {
+  "id": "R-0117",
+  "text": "In the event that the driver has been determined to be unavailable following a driver disengagement warning escalation sequence as defined in paragraph 5.5.4.2.6., the system shall appropriately activate the Risk Mitigation Function in order to come to a safe stop.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 13,
+   "paragraph": "5.3.7.3.1"
+  }
+ },
+ {
+  "id": "R-0118",
+  "text": "The system shall be designed to select an appropriate target stop area based on the system capabilities and current circumstances (e.g. traffic situation, road infrastructure) with the aim of minimising risk.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 13,
+   "paragraph": "5.3.7.3.2"
+  }
+ },
+ {
+  "id": "R-0119",
+  "text": "Where the system is equipped with a driver-confirmed or system-initiated lane change feature, the RMF shall be capable of performing lane changes, in compliance with the technical requirements for systems with the purpose of bringing the vehicle to a safe stop outside its own lane of travel of the 04 or later series of amendments to UN Regulation No. 79, during an intervention on a highway to bring the vehicle towards a target stop area in a slower or emergency lane.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 13,
+   "paragraph": "5.3.7.3.3"
+  }
+ },
+ {
+  "id": "R-0120",
+  "text": "The system shall aim to determine the permitted road speed limit relevant to the current lane of travel.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 13,
+   "paragraph": "5.3.7.4.1"
+  }
+ },
+ {
+  "id": "R-0121",
+  "text": "The system shall continuously display the system-determined road speed limit to the driver.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 13,
+   "paragraph": "5.3.7.4.2"
+  }
+ },
+ {
+  "id": "R-0122",
+  "text": "The system and any of its features shall only provide assistance within their designed speed range.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 13,
+   "paragraph": "5.3.7.4.3"
+  }
+ },
+ {
+  "id": "R-0123",
+  "text": "The maximum speed up to which the system and any of its features provides assistance shall not exceed the maximum speed limit in the country where the vehicle is currently operating.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 13,
+   "paragraph": "5.3.7.4.4"
+  }
+ },
+ {
+  "id": "R-0124",
+  "text": "The current maximum speed the system may assist up to shall be determined either from:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 13,
+   "paragraph": "5.3.7.4.5"
+  }
+ },
+ {
+  "id": "R-0125",
+  "text": "The system shall automatically control the vehicle speed to not exceed the current maximum speed.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 13,
+   "paragraph": "5.3.7.4.6"
+  }
+ },
+ {
+  "id": "R-0126",
+  "text": "The system shall provide a means for the driver to set a driver-set maximum speed within the system’s designed speed range.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 13,
+   "paragraph": "5.3.7.4.7"
+  }
+ },
+ {
+  "id": "R-0127",
+  "text": "When the vehicle speed exceeds the system-determined road speed limit, the system shall provide at least an optical signal to the driver for an appropriate duration.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 13,
+   "paragraph": "5.3.7.4.7.1"
+  }
+ },
+ {
+  "id": "R-0128",
+  "text": "In the case where there is a change in the system-determined road speed limit the following shall apply:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 13,
+   "paragraph": "5.3.7.4.7.3"
+  }
+ },
+ {
+  "id": "R-0129",
+  "text": "The driver shall be given at least an acoustic or haptic signal, which may be suppressed permanently by the driver.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 13,
+   "paragraph": "5.3.7.4.7.3.1"
+  }
+ },
+ {
+  "id": "R-0130",
+  "text": "If the current maximum speed before the change was a driver set maximum speed and the driver set maximum speed is lower than both the previous system-determined road speed limit as well as the new systemdetermined road speed limit, then the current maximum speed shall not automatically change to the new systemdetermined road speed limit.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 13,
+   "paragraph": "5.3.7.4.7.3.2"
+  }
+ },
+ {
+  "id": "R-0131",
+  "text": "If the new system-determined road speed limit is lower than the current maximum speed, the current maximum speed shall automatically change to the new system-determined road speed limit.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 13,
+   "paragraph": "5.3.7.4.7.3.3"
+  }
+ },
+ {
+  "id": "R-0132",
+  "text": "For those cases not specifically addressed by the provisions above, the manufacturer shall document the system behaviour in response to a change in system-determined road speed limit and demonstrate this to the Type Approval Authority.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 14,
+   "paragraph": "5.3.7.4.7.3.4"
+  }
+ },
+ {
+  "id": "R-0133",
+  "text": "Any system-initiated change in vehicle speed due to a changed system-determined road speed limit shall be controllable to the driver.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 14,
+   "paragraph": "5.3.7.4.8"
+  }
+ },
+ {
+  "id": "R-0134",
+  "text": "The system shall not enable the driver to set a default offset by which the current maximum speed is supposed to exceed the system-determined road speed limit.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 14,
+   "paragraph": "5.3.7.4.9"
+  }
+ },
+ {
+  "id": "R-0135",
+  "text": "Technically reasonable tolerances (e.g., related to speedometer inaccuracy) may be applied to the warning thresholds and the system’s designed speed range and shall be declared by the manufacturer to the Type Approval Authority.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 14,
+   "paragraph": "5.3.7.4.10"
+  }
+ },
+ {
+  "id": "R-0136",
+  "text": "The provisions of paragraph 5.3.7.4. shall not be in prejudice to any national or regional legislations which regulate the speed limit control system.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 14,
+   "paragraph": "5.3.7.4.11"
+  }
+ },
+ {
+  "id": "R-0137",
+  "text": "The system shall support the driver in complying with regulatorily defined headway according to national traffic rules.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 14,
+   "paragraph": "5.3.7.5.1"
+  }
+ },
+ {
+  "id": "R-0138",
+  "text": "For M1 and N1 vehicles, the requirement in paragraph 5.3.7.5.1. shall be deemed to be fulfilled if either of the following requirements are met:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 14,
+   "paragraph": "5.3.7.5.1.1"
+  }
+ },
+ {
+  "id": "R-0139",
+  "text": "The system shall permanently indicate to the driver the current headway setting while the system is in ‘active’ mode.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 14,
+   "paragraph": "5.3.7.5.1.1.1"
+  }
+ },
+ {
+  "id": "R-0140",
+  "text": "Upon first activation of the system following an initiation of the powertrain3 , the system shall provide information to the driver that the headway configuration is set to a value lower than 2 seconds, if that is the case. 3 As defined in Mutual Resolution No. 2 (M.R.2) of the 1958 and the 1998 Agreements containing vehicle propulsion system definitions, see document ECE/TRANS/WP.29/1121.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 14,
+   "paragraph": "5.3.7.5.1.1.2"
+  }
+ },
+ {
+  "id": "R-0141",
+  "text": "The activated system shall be capable of detecting and responding to electrical and non-electrical (e.g., sensor blockage, misalignment) failure conditions affecting the safe operation of the system or its features.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 14,
+   "paragraph": "5.4.1"
+  }
+ },
+ {
+  "id": "R-0142",
+  "text": "Upon detection of a failure affecting the safe operation of a given feature(s) or the system as a whole, the control assistance of the affected feature(s) or the system altogether shall be terminated in a safe manner in accordance with the manufacturer’s safety concept.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 14,
+   "paragraph": "5.4.2"
+  }
+ },
+ {
+  "id": "R-0143",
+  "text": "The system shall gradually reduce its control assistance provided by the affected features(s) or system if it is safe to do so, and inform the driver according to paragraph 5.5.4.1.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 14,
+   "paragraph": "5.4.2"
+  }
+ },
+ {
+  "id": "R-0144",
+  "text": "If a failure affects the entire system, the system shall switch to ‘off’ mode upon termination of assistance and provide at least an optical failure warning signal to the driver for an appropriate duration.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 14,
+   "paragraph": "5.4.2.1"
+  }
+ },
+ {
+  "id": "R-0145",
+  "text": "The failure affecting the system shall be indicated to the driver with at least an optical signal unless the system is in ‘off’ mode.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 14,
+   "paragraph": "5.4.2.2"
+  }
+ },
+ {
+  "id": "R-0146",
+  "text": "The manufacturer shall take appropriate measures (according to paragraph 5.3.6.) to ensure that failures in the system remain controllable by the driver.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 14,
+   "paragraph": "5.4.3"
+  }
+ },
+ {
+  "id": "R-0147",
+  "text": "The remaining available features or the absence of those features as a result of the failure shall be visually indicated to the driver in an easily understandable manner.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 14,
+   "paragraph": "5.4.4.1"
+  }
+ },
+ {
+  "id": "R-0148",
+  "text": "If the system is able to provide continued assistance in the case of a failure disabling a given feature, the manufacturer shall describe which features are able to operate independently from one another.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 15,
+   "paragraph": "5.4.4.2"
+  }
+ },
+ {
+  "id": "R-0149",
+  "text": "This shall be assessed according to Annex 3.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 15,
+   "paragraph": "5.4.4.2"
+  }
+ },
+ {
+  "id": "R-0150",
+  "text": "When the driver attempts to switch to ‘on’ mode the system or a feature that is unavailable due to a failure, the system shall provide a notice to the driver about the failure and the unavailability of the system or given feature.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 15,
+   "paragraph": "5.4.5"
+  }
+ },
+ {
+  "id": "R-0151",
+  "text": "When the system is switched into ‘on’ mode, specific system features shall be either in ‘active’ mode (generating control outputs) or in ‘stand-by’ mode (currently not generating control outputs), while some other system features may remain in ‘off’ mode and be commanded by a different means.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 15,
+   "paragraph": "5.5.2.1"
+  }
+ },
+ {
+  "id": "R-0152",
+  "text": "When the system is switched to ‘off’ mode by the driver, there shall not be an automatic transition to any system which provides continuous longitudinal and/or lateral movement of the vehicle.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 15,
+   "paragraph": "5.5.2.2"
+  }
+ },
+ {
+  "id": "R-0153",
+  "text": "When the system is in ‘active’ mode, sustained longitudinal and lateral control assistance shall not be provided by any other system other than DCAS, unless an intervention of an emergency safety system is deemed necessary as specified in paragraph 5.2.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 15,
+   "paragraph": "5.5.2.3"
+  }
+ },
+ {
+  "id": "R-0154",
+  "text": "The HMI shall be designed not to cause mode confusion with other systems equipped on the vehicle.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 15,
+   "paragraph": "5.5.2.4"
+  }
+ },
+ {
+  "id": "R-0155",
+  "text": "Without prejudice to the provisions of UN Regulation No. 121, the vehicle controls dedicated to the DCAS shall be clearly identified and distinguishable (e.g., through size, form, colour, type, action, spacing and/or control shape) to accommodate only the appropriate interactions.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 15,
+   "paragraph": "5.5.2.4.1"
+  }
+ },
+ {
+  "id": "R-0156",
+  "text": "The default status of the system shall be the ‘off’ mode at each initiation of the powertrain, regardless of what mode the driver had previously selected.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 16,
+   "paragraph": "5.5.3.1"
+  }
+ },
+ {
+  "id": "R-0157",
+  "text": "A new engine start (or run cycle), which is performed automatically, e.g., the operation of a stop/start system, shall not be considered an “initiation of the powertrain” wherever that term is used in this regulation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 16,
+   "paragraph": "5.5.3.1"
+  }
+ },
+ {
+  "id": "R-0158",
+  "text": "At the latest when the system first enters ‘active’ mode following an initiation of the powertrain, the system shall provide visual information to the driver requesting them to remain engaged with the driving task while using the system.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 16,
+   "paragraph": "5.5.3.2.1"
+  }
+ },
+ {
+  "id": "R-0159",
+  "text": "The system shall change its mode from ‘off’ to ‘on’ only upon a deliberate action of the driver.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 16,
+   "paragraph": "5.5.3.2.2"
+  }
+ },
+ {
+  "id": "R-0160",
+  "text": "The system or its features shall only enter ‘active’ mode if all of the following conditions are met:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 16,
+   "paragraph": "5.5.3.2.3"
+  }
+ },
+ {
+  "id": "R-0161",
+  "text": "The manufacturer shall specify in the documentation additional types of preconditions enabling the system or its features to enter ‘active’ mode, if applicable.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 16,
+   "paragraph": "5.5.3.2.3"
+  }
+ },
+ {
+  "id": "R-0162",
+  "text": "It shall be possible for the driver to switch the system to ‘off‘ mode at any time.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 16,
+   "paragraph": "5.5.3.3.1"
+  }
+ },
+ {
+  "id": "R-0163",
+  "text": "When the driver switches the system or one of its features off, the system or feature respectively shall go to ‘off’ mode.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 16,
+   "paragraph": "5.5.3.3.2"
+  }
+ },
+ {
+  "id": "R-0164",
+  "text": "When the system or a feature thereof has assessed that the preconditions for remaining in ‘active’ mode are no longer met, the system or features shall terminate the control output in a safe and timely manner by either transitioning to ‘stand-by’ mode, or by switching the system or feature to ‘off’ mode, unless specifically defined otherwise by this Regulation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 16,
+   "paragraph": "5.5.3.3.3"
+  }
+ },
+ {
+  "id": "R-0165",
+  "text": "The system shall not resume longitudinal control without driver input if the vehicle comes to a standstill following an intervention by an emergency safety system (e.g., AEBS).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 16,
+   "paragraph": "5.5.3.3.4"
+  }
+ },
+ {
+  "id": "R-0166",
+  "text": "A driver input to the braking control resulting in a higher deceleration than that induced by the system shall override and suspend the longitudinal control assistance provided by the system during the overriding period.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 16,
+   "paragraph": "5.5.3.4.1.1"
+  }
+ },
+ {
+  "id": "R-0167",
+  "text": "The system shall not resume longitudinal control assistance without a separate action by the driver, however, the system may provide the longitudinal control assistance in order to avoid inappropriate distances to other road users.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 16,
+   "paragraph": "5.5.3.4.1.1.1"
+  }
+ },
+ {
+  "id": "R-0168",
+  "text": "The rate of increase of acceleration shall be gradual (i.e. with low jerk) and controllable in accordance with paragraph 5.3.6.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 16,
+   "paragraph": "5.5.3.4.1.1.2"
+  }
+ },
+ {
+  "id": "R-0169",
+  "text": "A driver input to the control of any braking system (e.g., service brake, parking brake) in order to maintain the vehicle at standstill, shall override the longitudinal control assistance performed by the system.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 17,
+   "paragraph": "5.5.3.4.1.2"
+  }
+ },
+ {
+  "id": "R-0170",
+  "text": "An accelerator input by the driver with a higher acceleration than that induced by the system shall override longitudinal control assistance provided by the system.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 17,
+   "paragraph": "5.5.3.4.1.3"
+  }
+ },
+ {
+  "id": "R-0171",
+  "text": "The system shall resume longitudinal control assistance on the basis of the current maximum speed.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 17,
+   "paragraph": "5.5.3.4.1.3"
+  }
+ },
+ {
+  "id": "R-0172",
+  "text": "A steering input by the driver shall override any feature associated with the lateral control assistance performed by the system.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 17,
+   "paragraph": "5.5.3.4.1.4"
+  }
+ },
+ {
+  "id": "R-0173",
+  "text": "The steering control effort necessary to override shall not exceed 50 N.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 17,
+   "paragraph": "5.5.3.4.1.4"
+  }
+ },
+ {
+  "id": "R-0174",
+  "text": "When the driver override occurs while the system is performing a manoeuvre, the manoeuvre shall be terminated unless the steering input is in support of the intended manoeuvre and/or providing minor lateral corrections.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 17,
+   "paragraph": "5.5.3.4.1.4.1"
+  }
+ },
+ {
+  "id": "R-0175",
+  "text": "If according to paragraph 5.3.7.4.4. the system is no longer permitted to provide longitudinal or lateral assistance in response to driver override, the system shall be designed to ensure controllability of these phases of operation (e.g. not terminating lateral control while the driver is detected to be motorically disengaged).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 17,
+   "paragraph": "5.5.3.4.1.5"
+  }
+ },
+ {
+  "id": "R-0176",
+  "text": "The system shall inform or warn the driver about:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 17,
+   "paragraph": "5.5.4.1.1"
+  }
+ },
+ {
+  "id": "R-0177",
+  "text": "The system messages and signals shall be unambiguous, timely and shall not lead to confusion.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 17,
+   "paragraph": "5.5.4.1.2"
+  }
+ },
+ {
+  "id": "R-0178",
+  "text": "The system’s messages and signals shall use individual or an appropriate combination of visual, audio and/or haptic feedback for the given circumstances.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 17,
+   "paragraph": "5.5.4.1.3"
+  }
+ },
+ {
+  "id": "R-0179",
+  "text": "In the case of multiple messages or signals being offered in parallel, they shall be subject to prioritization by urgency.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 17,
+   "paragraph": "5.5.4.1.4"
+  }
+ },
+ {
+  "id": "R-0180",
+  "text": "Safety-relevant messages and signals shall be given the greatest urgency.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 17,
+   "paragraph": "5.5.4.1.4"
+  }
+ },
+ {
+  "id": "R-0181",
+  "text": "The manufacturer shall list and explain all system messages and signals in the documentation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 17,
+   "paragraph": "5.5.4.1.4"
+  }
+ },
+ {
+  "id": "R-0182",
+  "text": "The system’s messages and signals shall be designed to actively encourage driver understanding of the state of the system, its capabilities and the driver’s tasks and responsibilities.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 17,
+   "paragraph": "5.5.4.1.5"
+  }
+ },
+ {
+  "id": "R-0183",
+  "text": "The system’s messages and signals shall encourage driver understanding of system’s intended control outputs.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 17,
+   "paragraph": "5.5.4.1.6"
+  }
+ },
+ {
+  "id": "R-0184",
+  "text": "The system’s overall status indication shall be unambiguously distinguishable from the status indication of any ADS equipped on the vehicle.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 17,
+   "paragraph": "5.5.4.1.7"
+  }
+ },
+ {
+  "id": "R-0185",
+  "text": "The system shall visually inform the driver about a proposed manoeuvre.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 17,
+   "paragraph": "5.5.4.1.8.1"
+  }
+ },
+ {
+  "id": "R-0186",
+  "text": "If informing about a series of manoeuvres, then it shall be a combination that is comprehensible to the driver and of a connected series.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 17,
+   "paragraph": "5.5.4.1.8.1"
+  }
+ },
+ {
+  "id": "R-0187",
+  "text": "The manufacturer shall explain to the Type Approval Authority the timing at which this information is provided to ensure appropriate driver response.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 17,
+   "paragraph": "5.5.4.1.8.1"
+  }
+ },
+ {
+  "id": "R-0188",
+  "text": "The direction indicators shall not be deemed to satisfy this requirement.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 18,
+   "paragraph": "5.5.4.1.8.2"
+  }
+ },
+ {
+  "id": "R-0189",
+  "text": "The system’s signals and messages shall be designed to avoid driver overreliance or misuse.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 18,
+   "paragraph": "5.5.4.1.8.3"
+  }
+ },
+ {
+  "id": "R-0190",
+  "text": "The provisions 5.5.4.1.8. shall equally apply.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 18,
+   "paragraph": "5.5.4.1.9.1"
+  }
+ },
+ {
+  "id": "R-0191",
+  "text": "The system shall aim to provide information ahead of the initiation of a relevant intended manoeuvre with sufficient notice to allow the driver to comprehend the manoeuvre and the traffic situation, taking into account the complexity of the manoeuvre and amount of other road users present.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 18,
+   "paragraph": "5.5.4.1.9.2"
+  }
+ },
+ {
+  "id": "R-0192",
+  "text": "If there is a risk of imminent collision or it would conflict with the information about an ongoing manoeuvre, the time may be reduced and system shall visually inform the driver as far in advance as possible.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 18,
+   "paragraph": "5.5.4.1.9.2"
+  }
+ },
+ {
+  "id": "R-0193",
+  "text": "In addition, the initiation of a lane change procedure shall be announced by another modality unless the system has assessed that the driver has observed the visual information.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 18,
+   "paragraph": "5.5.4.1.9.2"
+  }
+ },
+ {
+  "id": "R-0194",
+  "text": "Provided the system is capable of performing system-initiated manoeuvres, the system shall indicate to the driver whether in the current mode of operation, manoeuvres could be initiated automatically, or only upon driver initiation or confirmation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 18,
+   "paragraph": "5.5.4.1.9.3"
+  }
+ },
+ {
+  "id": "R-0195",
+  "text": "Driver State Monitoring and Warning Strategies The driver state monitoring system and its warning strategy shall be documented and demonstrated by the manufacturer to the Type Approval Authority during the inspection of the safety concept as part of the assessment to Annex 3 and according to the relevant tests of Annex 4.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 18,
+   "paragraph": "5.5.4.2"
+  }
+ },
+ {
+  "id": "R-0196",
+  "text": "Driver Disengagement Monitoring The system shall be equipped with means to appropriately detect driver disengagement as specified in the following paragraphs.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 18,
+   "paragraph": "5.5.4.2.1"
+  }
+ },
+ {
+  "id": "R-0197",
+  "text": "The system shall monitor if the driver is motorically (as per paragraph 5.5.4.2.4.) and visually (as per paragraph 5.5.4.2.5.) disengaged.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 18,
+   "paragraph": "5.5.4.2.1.1"
+  }
+ },
+ {
+  "id": "R-0198",
+  "text": "If visual disengagement determination is detected to be temporarily unavailable, the system shall not lead the vehicle to leave its current lane of travel.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 18,
+   "paragraph": "5.5.4.2.1.2"
+  }
+ },
+ {
+  "id": "R-0199",
+  "text": "The warning shall guide the driver on the required actions in order to support appropriate engagement in the driving task.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 18,
+   "paragraph": "5.5.4.2.2.1"
+  }
+ },
+ {
+  "id": "R-0200",
+  "text": "The system’s warning and escalation strategy shall consider for and prioritize warning strategies of simultaneously activated emergency assistance systems (e.g.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 18,
+   "paragraph": "5.5.4.2.2.3"
+  }
+ },
+ {
+  "id": "R-0201",
+  "text": "An HOR shall contain at least a continual (continuous or intermittent) visual information similar to the presented in the example below.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 18,
+   "paragraph": "5.5.4.2.3.1.1"
+  }
+ },
+ {
+  "id": "R-0202",
+  "text": "An HOR, as a minimum, shall be considered confirmed when the driver is no longer motorically disengaged.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 19,
+   "paragraph": "5.5.4.2.3.1.2"
+  }
+ },
+ {
+  "id": "R-0203",
+  "text": "An EOR shall be a continual visual information in combination with at least one other modality which are clear and easily perceptible, unless it can be ensured that the driver has observed the visual information.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 19,
+   "paragraph": "5.5.4.2.3.2.1"
+  }
+ },
+ {
+  "id": "R-0204",
+  "text": "An EOR shall, as a minimum, be considered confirmed when the driver is no longer visually disengaged as per paragraph 5.5.4.2.5.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 19,
+   "paragraph": "5.5.4.2.3.2.2"
+  }
+ },
+ {
+  "id": "R-0205",
+  "text": "A DCA shall clearly and prominently instruct the driver to immediately resume at least lateral control of the vehicle.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 19,
+   "paragraph": "5.5.4.2.3.3.1"
+  }
+ },
+ {
+  "id": "R-0206",
+  "text": "It shall comprise of a visual warning combined with at least one other modality which are clear and easily perceptible.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 19,
+   "paragraph": "5.5.4.2.3.3.1"
+  }
+ },
+ {
+  "id": "R-0207",
+  "text": "A DCA shall, as a minimum, be considered confirmed when the driver has taken control of the vehicle without any continuous lateral assistance as requested by the DCA.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 19,
+   "paragraph": "5.5.4.2.3.3.2"
+  }
+ },
+ {
+  "id": "R-0208",
+  "text": "The driver shall be deemed to be motorically disengaged when the driver has removed their hands from the steering control.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 19,
+   "paragraph": "5.5.4.2.4.1"
+  }
+ },
+ {
+  "id": "R-0209",
+  "text": "The driver state monitoring system shall detect the driver’s visual disengagement at a minimum based on the detection of the driver’s eye gaze.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 19,
+   "paragraph": "5.5.4.2.5.1"
+  }
+ },
+ {
+  "id": "R-0210",
+  "text": "The driver shall be deemed to be visually disengaged when the driver’s eye gaze and/or head posture, as relevant, is directed away from any currently driving task relevant area.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 19,
+   "paragraph": "5.5.4.2.5.2"
+  }
+ },
+ {
+  "id": "R-0211",
+  "text": "An outline of the driving task relevant areas, and when they are relevant, shall be specified by the manufacturer in the documentation provided to the Type Approval Authority.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 19,
+   "paragraph": "5.5.4.2.5.2"
+  }
+ },
+ {
+  "id": "R-0212",
+  "text": "For the purpose of the assessment of visual disengagement, the dashboard and instrument panel shall not be considered as a driving task relevant area.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 19,
+   "paragraph": "5.5.4.2.5.2"
+  }
+ },
+ {
+  "id": "R-0213",
+  "text": "The driver shall be deemed to be visually engaged or reengaged following an aversion of eye gaze or head posture if either are re-directed towards any currently driving task relevant area for a sufficient duration depending on the situation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 19,
+   "paragraph": "5.5.4.2.5.2.1"
+  }
+ },
+ {
+  "id": "R-0214",
+  "text": "The duration shall be at least 200 milliseconds.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 19,
+   "paragraph": "5.5.4.2.5.2.1"
+  }
+ },
+ {
+  "id": "R-0215",
+  "text": "An outline of the sufficient duration depending on the situation shall be specified by the manufacturer in the documentation provided to the Type Approval Authority.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 19,
+   "paragraph": "5.5.4.2.5.2.2"
+  }
+ },
+ {
+  "id": "R-0216",
+  "text": "The system shall be designed to address the detection and response to multiple subsequent short aversions of eye gaze or head posture by the driver (e.g. increased reengagement time and/or immediate issuing of an EOR).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 19,
+   "paragraph": "5.5.4.2.5.3"
+  }
+ },
+ {
+  "id": "R-0217",
+  "text": "This functionality shall be documented and explained by the manufacturer to the Type Approval Authority.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 19,
+   "paragraph": "5.5.4.2.5.3"
+  }
+ },
+ {
+  "id": "R-0218",
+  "text": "At speeds above 10 km/h a HOR shall be given latest when driver is deemed motorically disengaged for more than 5 seconds.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 20,
+   "paragraph": "5.5.4.2.6.1.1"
+  }
+ },
+ {
+  "id": "R-0219",
+  "text": "In the event of continued disengagement, the HOR request shall be escalated latest 10 seconds after the initial HOR.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 20,
+   "paragraph": "5.5.4.2.6.1.2"
+  }
+ },
+ {
+  "id": "R-0220",
+  "text": "The escalated HOR shall contain an additional acoustic and/or haptic information.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 20,
+   "paragraph": "5.5.4.2.6.1.2"
+  }
+ },
+ {
+  "id": "R-0221",
+  "text": "The system shall be designed to avoid misuse (e.g., nudging the steering wheel in response to an HOR without becoming, as requested by the system, motorically engaged).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 20,
+   "paragraph": "5.5.4.2.6.1.4"
+  }
+ },
+ {
+  "id": "R-0222",
+  "text": "At speeds above 10 km/h an EOR shall be given latest when the driver is deemed visually disengaged for 5 seconds.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 20,
+   "paragraph": "5.5.4.2.6.2.1"
+  }
+ },
+ {
+  "id": "R-0223",
+  "text": "Following an EOR, if the driver has been deemed visually reengaged according to paragraph 5.5.4.2.5.2.1 and subsequently **s** tarts to be visually disengaged again for at least 1 second within the following 2 seconds, an EOR shall be given immediately.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 20,
+   "paragraph": "5.5.4.2.6.2.2"
+  }
+ },
+ {
+  "id": "R-0224",
+  "text": "In the event of continued visual disengagement, the EOR shall be escalated at the latest 3 seconds after the initial EOR according to the warning strategy with increased intensity.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 20,
+   "paragraph": "5.5.4.2.6.2.3"
+  }
+ },
+ {
+  "id": "R-0225",
+  "text": "The escalated EOR shall always contain acoustic and/or haptic information.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 20,
+   "paragraph": "5.5.4.2.6.2.3"
+  }
+ },
+ {
+  "id": "R-0226",
+  "text": "At the latest 5 seconds following an escalation of the EOR, a DCA shall be presented to the driver.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 20,
+   "paragraph": "5.5.4.2.6.3.1"
+  }
+ },
+ {
+  "id": "R-0227",
+  "text": "If the system determines the driver to continue to be disengaged following a warning escalation, the system shall initiate a driver unavailability response at the latest 10 seconds after the first escalated request or DCA.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 20,
+   "paragraph": "5.5.4.2.6.4.1"
+  }
+ },
+ {
+  "id": "R-0228",
+  "text": "As outlined in paragraph 5.3.5.2., the manufacturer shall describe in detail, as part of the documentation required for section 9, the boundary conditions under which HORs can be withheld.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 20,
+   "paragraph": "5.5.4.2.6.5"
+  }
+ },
+ {
+  "id": "R-0229",
+  "text": "Whilst in this mode of operation, the following subparagraphs shall apply:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 20,
+   "paragraph": "5.5.4.2.6.5"
+  }
+ },
+ {
+  "id": "R-0230",
+  "text": "In case of a detected upcoming boundary condition which requires an HOR, this HOR shall be given at the latest 5 seconds in advance of reaching the boundary condition(s).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 20,
+   "paragraph": "5.5.4.2.6.5.1"
+  }
+ },
+ {
+  "id": "R-0231",
+  "text": "For situations not detected 5 seconds in advance, a DCA shall be issued unless lateral assistance will still be provided after the driver is motorically reengaged.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 20,
+   "paragraph": "5.5.4.2.6.5.1"
+  }
+ },
+ {
+  "id": "R-0232",
+  "text": "Where a DCA is not issued, an HOR shall be issued upon detection of the upcoming boundary condition(s).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 20,
+   "paragraph": "5.5.4.2.6.5.1"
+  }
+ },
+ {
+  "id": "R-0233",
+  "text": "In addition to the requirements of paragraph 5.3.6., for those situations not detected 5 seconds in advance, the vehicle manufacturer shall demonstrate the controllability of such situations to the Type Approval Authority during the inspection of the safety concept.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 20,
+   "paragraph": "5.5.4.2.6.5.1"
+  }
+ },
+ {
+  "id": "R-0234",
+  "text": "The system shall issue an HOR or DCA as appropriate upon reaching the system boundaries due to a driver override of the longitudinal control by acceleration.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 21,
+   "paragraph": "5.5.4.2.6.5.2"
+  }
+ },
+ {
+  "id": "R-0235",
+  "text": "If the system has the ability to suppress accelerator input in order to avoid exceeding the system boundaries, the driver shall be able to override this.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 21,
+   "paragraph": "5.5.4.2.6.5.3"
+  }
+ },
+ {
+  "id": "R-0236",
+  "text": "Notwithstanding paragraph 5.5.4.2.6.2.1., an EOR shall be given at the latest when the driver has been deemed visually disengaged for the relevant time period according to the table below.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 21,
+   "paragraph": "5.5.4.2.6.5.4"
+  }
+ },
+ {
+  "id": "R-0237",
+  "text": "For vehicle speeds values between 60 km/h and 130 km/h, a linear interpolation shall be used to calculate the corresponding EOR timing.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 21,
+   "paragraph": "5.5.4.2.6.5.4"
+  }
+ },
+ {
+  "id": "R-0238",
+  "text": "The system shall be designed to determine when there has been no deviation in eye gaze (or movement of head position when this is being used to determine visual engagement) for a significant period of time.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 21,
+   "paragraph": "5.5.4.2.6.5.5"
+  }
+ },
+ {
+  "id": "R-0239",
+  "text": "An EOR shall be issued in this case.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 21,
+   "paragraph": "5.5.4.2.6.5.5"
+  }
+ },
+ {
+  "id": "R-0240",
+  "text": "These strategies shall be documented and explained by the manufacturer to the Type Approval Authority.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 21,
+   "paragraph": "5.5.4.2.6.5.5"
+  }
+ },
+ {
+  "id": "R-0241",
+  "text": "The system shall inform the driver whether HORs are currently being withheld or not in a clearly distinguishable way.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 21,
+   "paragraph": "5.5.4.2.6.5.6"
+  }
+ },
+ {
+  "id": "R-0242",
+  "text": "This information shall be designed to not actively promote that the driver should remove their hands from the steering control (i.e., an indication of a steering wheel without hands is not considered to violate this requirement).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 21,
+   "paragraph": "5.5.4.2.6.5.6"
+  }
+ },
+ {
+  "id": "R-0243",
+  "text": "Additional Strategies for Disengagement Detection and Re-Engagement Support The driver state monitoring system shall be equipped with strategies to assess whether the driver is disengaged in the event that no driver input has been determined over prolonged periods (e.g. through a negative determination of driver drowsiness), and implement appropriate countermeasures.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 21,
+   "paragraph": "5.5.4.2.7"
+  }
+ },
+ {
+  "id": "R-0244",
+  "text": "The system shall be disabled for a period of at least 30 minutes whilst the powertrain is active when the driver is detected to have insufficient engagement.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 21,
+   "paragraph": "5.5.4.2.8.1"
+  }
+ },
+ {
+  "id": "R-0245",
+  "text": "The number of warnings and the time interval over which these are counted shall be defined by the manufacturer and justified to the Type Approval Authority.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 21,
+   "paragraph": "5.5.4.2.8.3"
+  }
+ },
+ {
+  "id": "R-0246",
+  "text": "When the system is disabled due to insufficient engagement by the driver, at the latest upon the deactivation of the powertrain, the system shall request that the driver reads the driver information material as outlined in paragraph 5.6.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 21,
+   "paragraph": "5.5.4.2.8.4"
+  }
+ },
+ {
+  "id": "R-0247",
+  "text": "Driver Information Materials In addition to the user manual the manufacturer shall provide clear and easily accessible information (e.g. documentation, video, website materials) free of charge regarding system operation on the specific vehicle type.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 21,
+   "paragraph": "5.6"
+  }
+ },
+ {
+  "id": "R-0248",
+  "text": "The information shall cover at least the following aspects using terminology that is understandable by a nontechnical audience:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 21,
+   "paragraph": "5.6"
+  }
+ },
+ {
+  "id": "R-0249",
+  "text": "In the manufacturer’s documentation, including the educational materials (e.g. documentation, video, website materials) addressed to consumers, the manufacturer shall not describe the system in a manner that would mislead the customer about the capabilities and limits of the system or about its level of automation. 6.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 21,
+   "paragraph": "5.6"
+  }
+ },
+ {
+  "id": "R-0250",
+  "text": "Additional Specifications for DCAS features The fulfilment of the provisions of this paragraph shall be demonstrated by the manufacturer to the Type Approval Authority during the inspection of the safety approach as part of the assessment to Annex 3 and according to the relevant tests in Annex 4.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 21,
+   "paragraph": "5.6"
+  }
+ },
+ {
+  "id": "R-0251",
+  "text": "The system shall fulfil the requirements of paragraph 6 where applicable to the design of the system and relevant to the safety concept, when operated within its boundary conditions according to paragraphs 5.3.5.2.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 21,
+   "paragraph": "5.6"
+  }
+ },
+ {
+  "id": "R-0252",
+  "text": "When any of the conditions are no longer met, the system shall implement strategies to ensure controllability.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 22,
+   "paragraph": "6.1.1.1"
+  }
+ },
+ {
+  "id": "R-0253",
+  "text": "The manufacturer shall demonstrate how the provisions of paragraph 6.1.1.1. are implemented in the system design to the Type Approval Authority.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 23,
+   "paragraph": "6.1.1.2"
+  }
+ },
+ {
+  "id": "R-0254",
+  "text": "If the system has the capability to assist in merging roads, the system shall aim to detect situations where the current lane of travel merges into another lane of travel (including slip roads), and shall be designed to ensure safe control in these situations accounting for road users in the neighbouring lane.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 23,
+   "paragraph": "6.1.2.1"
+  }
+ },
+ {
+  "id": "R-0255",
+  "text": "If the system is designed to handle such a situation by performing a manoeuvre, this shall be in accordance with the provisions of this regulation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 23,
+   "paragraph": "6.1.2.1"
+  }
+ },
+ {
+  "id": "R-0256",
+  "text": "If the system is capable of forming an access corridor for emergency and enforcement vehicles, the system shall only leave its current lane of travel to (pre-emptively) form an access corridor where this is required and allowed according to national traffic rules.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 23,
+   "paragraph": "6.1.3.1"
+  }
+ },
+ {
+  "id": "R-0257",
+  "text": "While forming an access corridor, the system shall ensure sufficient lateral and longitudinal distance to road boundaries, vehicles and other road users.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 23,
+   "paragraph": "6.1.3.2"
+  }
+ },
+ {
+  "id": "R-0258",
+  "text": "The vehicle shall return completely to its original lane of travel once the situation that required this access corridor to be formed has passed.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 23,
+   "paragraph": "6.1.3.3"
+  }
+ },
+ {
+  "id": "R-0259",
+  "text": "If the system is designed to perform lane positioning on roads without lane markings, it shall utilize other sources of information in order to robustly determine and pursue the appropriate trajectory in respect of other road users.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 23,
+   "paragraph": "6.1.4.1"
+  }
+ },
+ {
+  "id": "R-0260",
+  "text": "A lane change shall only be performed if the system has sufficient information about its surrounding to the front, side and rear in order to assess the criticality of that lane change.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 23,
+   "paragraph": "6.2.1"
+  }
+ },
+ {
+  "id": "R-0261",
+  "text": "A lane change shall not be performed towards a lane intended for traffic moving in the opposite direction.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 23,
+   "paragraph": "6.2.2"
+  }
+ },
+ {
+  "id": "R-0262",
+  "text": "During the lane change manoeuvre, the system shall be designed to avoid a lateral acceleration of more than 1.5 m/s² in addition to the lateral acceleration generated by the lane curvature and avoid a total lateral acceleration in excess of 3.5 m/s².",
+  "source": {
+   "regulation": "UN R171",
+   "page": 23,
+   "paragraph": "6.2.3"
+  }
+ },
+ {
+  "id": "R-0263",
+  "text": "The moving average over half a second of the lateral jerk generated by the system shall not exceed 5 m/s3 .",
+  "source": {
+   "regulation": "UN R171",
+   "page": 23,
+   "paragraph": "6.2.3"
+  }
+ },
+ {
+  "id": "R-0264",
+  "text": "A lane change manoeuvre shall only be started if a vehicle in the target lane is not forced to unmanageably decelerate due to the lane change of the vehicle.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 23,
+   "paragraph": "6.2.4"
+  }
+ },
+ {
+  "id": "R-0265",
+  "text": "The system shall be designed to not make an approaching vehicle decelerate at a higher level than 3.0 m/s² in order to ensure that the distance between the two vehicles is never less than that which the DCAS vehicle travels in 1 second.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 23,
+   "paragraph": "6.2.4.1"
+  }
+ },
+ {
+  "id": "R-0266",
+  "text": "This assessment shall be performed with the assumptions that the approaching vehicle begins its deceleration:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 23,
+   "paragraph": "6.2.4.1"
+  }
+ },
+ {
+  "id": "R-0267",
+  "text": "When there is no vehicle detected If no approaching vehicle is detected by the system in the target lane, the assessment shall be calculated as per paragraph 6.2.4.1. with the assumption that:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 24,
+   "paragraph": "6.2.4.2"
+  }
+ },
+ {
+  "id": "R-0268",
+  "text": "In case the system intends to decelerate the vehicle during a lane change procedure, this deceleration shall be factored in when assessing the distance to a vehicle approaching from the rear, and the deceleration shall not exceed 2 m/s2 except for the purpose of avoiding or mitigating the risk of an imminent collision.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 24,
+   "paragraph": "6.2.4.3"
+  }
+ },
+ {
+  "id": "R-0269",
+  "text": "Where there is not sufficient headway time for the vehicle behind at the end of the lane change procedure, the system shall not increase the rate of deceleration for a least 2 seconds after the completion of the lane change procedure except in case this is necessary for nominal operation of the system (e.g., when responding to road infrastructure or other road users), or avoiding or mitigating the risk of an imminent collision.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 24,
+   "paragraph": "6.2.4.4"
+  }
+ },
+ {
+  "id": "R-0270",
+  "text": "The manufacturer shall demonstrate how the provisions of paragraph 6.2.4. are implemented in the system design to the Type Approval Authority.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 24,
+   "paragraph": "6.2.5"
+  }
+ },
+ {
+  "id": "R-0271",
+  "text": "The system shall generate a signal to activate the direction indicator unless already activated by the driver.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 24,
+   "paragraph": "6.2.6"
+  }
+ },
+ {
+  "id": "R-0272",
+  "text": "The direction indicator signal shall remain active throughout the whole period of the lane change procedure and shall be deactivated by the system in a timely manner once the positioning in the lane of travel feature is resumed, unless the direction indicator control remains fully engaged (latched position).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 24,
+   "paragraph": "6.2.6"
+  }
+ },
+ {
+  "id": "R-0273",
+  "text": "A lane change procedure shall be indicated to other road users for at least 3 seconds prior to the start of the lane change manoeuvre.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 24,
+   "paragraph": "6.2.7"
+  }
+ },
+ {
+  "id": "R-0274",
+  "text": "When the lane change procedure is suppressed by the system, it shall clearly inform the driver by means of an optical signal in combination with either an acoustic or haptic signal.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 24,
+   "paragraph": "6.2.8"
+  }
+ },
+ {
+  "id": "R-0275",
+  "text": "The system shall aim not to make an approaching vehicle in the target lane unreasonably decelerate, particularly in the case where the lane change is not urgent (e.g., for the purpose of overtaking a slower moving vehicle).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 24,
+   "paragraph": "6.2.9.1.1"
+  }
+ },
+ {
+  "id": "R-0276",
+  "text": "However, where making another vehicle in the target lane decelerate is necessary due to the traffic situation (e.g., current lane of travel is ending, where there is dense traffic in the target lane), the requirements of paragraph 6.2.4.1. shall apply.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 24,
+   "paragraph": "6.2.9.1.1"
+  }
+ },
+ {
+  "id": "R-0277",
+  "text": "A lane change procedure shall only be proposed if sufficient free space in the target lane is already available or can reasonably be expected to become available allowing a LCM to be executed according to the provisions of paragraph 6.2.4.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 24,
+   "paragraph": "6.2.9.1.1"
+  }
+ },
+ {
+  "id": "R-0278",
+  "text": "The requirements outlined in paragraph 6.2.9.1. shall equally apply.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 25,
+   "paragraph": "6.2.9.2.1"
+  }
+ },
+ {
+  "id": "R-0279",
+  "text": "The system shall aim to detect restricted lanes of travel which restrict access to specific vehicle road users (e.g., bus, bike or taxi lanes) and shall aim to refrain from initiating lane changes to such lanes.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 25,
+   "paragraph": "6.2.9.2.2"
+  }
+ },
+ {
+  "id": "R-0280",
+  "text": "If the system is designed to assist lane changes on roads where there is no physical separation of traffic moving in the opposite direction, the system shall implement strategies to ensure that the lane change procedure is only performed into or via a lane where the target lane is not designated for oncoming traffic.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 25,
+   "paragraph": "6.2.9.3"
+  }
+ },
+ {
+  "id": "R-0281",
+  "text": "These strategies shall be demonstrated to and assessed by the Technical Service according to the corresponding tests in Annex 4 during Type Approval.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 25,
+   "paragraph": "6.2.9.3"
+  }
+ },
+ {
+  "id": "R-0282",
+  "text": "The system shall only be permitted to perform a lane change on roads with pedestrians and cyclists if the system is able to avoid causing risk of a collision with any vulnerable road user (such as pedestrians and cyclists).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 25,
+   "paragraph": "6.2.9.4"
+  }
+ },
+ {
+  "id": "R-0283",
+  "text": "The system shall be designed to respond to vehicles, road users, infrastructure or a blocked path ahead which are already within or may enter the planned trajectory or the corresponding driving environment in order to ensure safe operation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 25,
+   "paragraph": "6.3.2"
+  }
+ },
+ {
+  "id": "R-0284",
+  "text": "The system shall be designed to respond to traffic lights, stop signs, right-of-way infrastructure (such as zebra crossings or bus stops) and restricted lanes appropriate to the system’s given lane of travel, or the lane of travel the system would find itself in as a result of the manoeuvre where this is deemed relevant for the given manoeuvre and operating domain (e.g., highway or non-highway).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 25,
+   "paragraph": "6.3.3"
+  }
+ },
+ {
+  "id": "R-0285",
+  "text": "The system shall be designed to safely and cautiously navigate hillcrests where this is deemed relevant for the controllability the given manoeuvre.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 25,
+   "paragraph": "6.3.4"
+  }
+ },
+ {
+  "id": "R-0286",
+  "text": "If the manoeuvre would potentially lead the system to cross paths with vulnerable road users crossing the lane of travel (e.g., bike path, crosswalk), the system shall be designed to respond appropriately to the road users and infrastructure.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 25,
+   "paragraph": "6.3.5"
+  }
+ },
+ {
+  "id": "R-0287",
+  "text": "If the manoeuvre would lead the system to cross paths with crossing traffic (e.g., when taking a turn) or lead the system to merge with traffic approaching from a different direction, the system shall be designed to appropriately respond to these road users (e.g., by giving way).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 25,
+   "paragraph": "6.3.6"
+  }
+ },
+ {
+  "id": "R-0288",
+  "text": "Where relevant to the manoeuvre, the system shall be designed to detect restricted lanes of travel (e.g., bus, bike or taxi lanes) and shall aim to refrain from navigating on such lanes.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 26,
+   "paragraph": "6.3.7"
+  }
+ },
+ {
+  "id": "R-0289",
+  "text": "In the event the system detects that it has entered into a restricted lane of travel, it shall propose or perform a lane change procedure to an appropriate lane of travel as appropriate to the system design, or request the driver to resume manual control.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 26,
+   "paragraph": "6.3.7"
+  }
+ },
+ {
+  "id": "R-0290",
+  "text": "The system shall aim to respect appropriate right-of-way rules.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 26,
+   "paragraph": "6.3.8"
+  }
+ },
+ {
+  "id": "R-0291",
+  "text": "Navigating around an obstruction shall only be permitted if the system is able to determine the position and movement of other road users to the front, side and rear where relevant to the specific manoeuvre, and that there is adequate distance to them to perform the manoeuvre.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 26,
+   "paragraph": "6.3.9.2"
+  }
+ },
+ {
+  "id": "R-0292",
+  "text": "If the manoeuvre would cause the vehicle to cross partially or fully into another lane, the system shall only do so if it is able to confirm that sufficient space and time is available.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 26,
+   "paragraph": "6.3.9.3"
+  }
+ },
+ {
+  "id": "R-0293",
+  "text": "It shall not cross into another lane, where the direction of travel is in the opposite direction, to pass general traffic moving at an appropriate speed.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 26,
+   "paragraph": "6.3.9.3"
+  }
+ },
+ {
+  "id": "R-0294",
+  "text": "The system shall appropriately indicate the manoeuvre to other road users throughout the manoeuvre.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 26,
+   "paragraph": "6.3.9.3"
+  }
+ },
+ {
+  "id": "R-0295",
+  "text": "The system shall not suggest a manoeuvre to the driver or perform a system-initiated manoeuvre, which intends to cross a solid lane marking that is not permitted to be crossed, unless permitted by the situation as described in paragraph 6.3.9.1.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 26,
+   "paragraph": "6.3.9.4"
+  }
+ },
+ {
+  "id": "R-0296",
+  "text": "The manufacturer shall maintain processes to monitor safety-critical occurrences caused by the operation of the system.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 26,
+   "paragraph": "7.1.1"
+  }
+ },
+ {
+  "id": "R-0297",
+  "text": "The manufacturer shall set up a monitoring program aimed at collecting and analysing data in order to provide, to the extent feasible, evidence of the in-service safety performance of the DCAS and confirmatory evidence of the audit results of the Safety Management System requirements established in Annex 3 to this Regulation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 26,
+   "paragraph": "7.1.2"
+  }
+ },
+ {
+  "id": "R-0298",
+  "text": "The manufacturer shall notify the Type Approval Authority without unreasonable delay about any safetycritical occurrence the manufacturer becomes aware of through a monitoring program, where the system or its features were in ‘on’ mode, or had been switched to ‘on’ mode within the last 5 seconds before the safety-critical occurrence.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 26,
+   "paragraph": "7.2.1.1"
+  }
+ },
+ {
+  "id": "R-0299",
+  "text": "For systems capable of system-initiated manoeuvres, the applicable notification requirement shall apply to any instance where the feature was active within the last 7 seconds before the safety-critical occurrence.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 26,
+   "paragraph": "7.2.1.1.1"
+  }
+ },
+ {
+  "id": "R-0300",
+  "text": "The initial notification may be limited to high-level data but shall contain information about the features in ‘on’ mode, or which had been switched to ‘on’ mode with the last 5 seconds before the safety-critical occurrence (e.g., location, time, type of accident) to the extent that such information is available at the time of notification.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 27,
+   "paragraph": "7.2.1.2"
+  }
+ },
+ {
+  "id": "R-0301",
+  "text": "Following the initial notification as per paragraph 7.2.1., the manufacturer shall investigate whether the incident was related to DCAS operation and inform the Type Approval Authority of the results of this investigation as soon as possible.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 27,
+   "paragraph": "7.2.2.1"
+  }
+ },
+ {
+  "id": "R-0302",
+  "text": "If the operation of the system was likely one of the causes of the incident, in addition, the manufacturer shall inform the Type Approval Authority of intended remedial action(s) addressing DCAS design, if applicable.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 27,
+   "paragraph": "7.2.2.1"
+  }
+ },
+ {
+  "id": "R-0303",
+  "text": "If remedial action addressing DCAS design is to be taken by the manufacturer, the Type Approval Authority shall upload the information received from the manufacturer in the English language to the secure internet database \"DETA\"1 , established by the United Nations Economic Commission for Europe, without undue delay but no later than 14 days after receipt, to communicate this information to all Type Approval Authorities.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 27,
+   "paragraph": "7.2.2.2"
+  }
+ },
+ {
+  "id": "R-0304",
+  "text": "The information shall be sufficient to understand the incident, the cause of it and the remedial action.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 27,
+   "paragraph": "7.2.2.2"
+  }
+ },
+ {
+  "id": "R-0305",
+  "text": "The manufacturer shall report at least once a year to the Type Approval Authority on the information deemed to be proper evidence of the intended operation collected through the monitoring program and safety of the system in the field until the production is definitively discontinued according to paragraph 14.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 27,
+   "paragraph": "7.2.3.1"
+  }
+ },
+ {
+  "id": "R-0306",
+  "text": "The manufacturer shall report at least the information listed in the table below, which can be shared in confidence with other Type Approval Authorities on request.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 27,
+   "paragraph": "7.2.3.1"
+  }
+ },
+ {
+  "id": "R-0307",
+  "text": "The manufacturer shall be notified in this case.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 27,
+   "paragraph": "7.2.3.1"
+  }
+ },
+ {
+  "id": "R-0308",
+  "text": "In the event that the system was subject to significant changes relevant to the reported information during the reporting period, the report shall differentiate the changes of the system.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 27,
+   "paragraph": "7.2.3.1"
+  }
+ },
+ {
+  "id": "R-0309",
+  "text": "The validation of the system shall ensure that an acceptable thorough consideration of functional and operational safety of the features integrated in the system and the entire system integrated into a vehicle has been performed by the manufacturer assessed according to Annex 3.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 28,
+   "paragraph": "8.1"
+  }
+ },
+ {
+  "id": "R-0310",
+  "text": "The validation of the system shall demonstrate that the features integrated in the system and the entire system meet the performance requirements specified in paragraphs 5. and 6. of this Regulation The validation of the system shall include:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 28,
+   "paragraph": "8.2"
+  }
+ },
+ {
+  "id": "R-0311",
+  "text": "If virtual testing is performed, a credibility assessment as described in Annex 5 shall be provided to the Type Approval Authority. 9.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 28,
+   "paragraph": "8.2.1"
+  }
+ },
+ {
+  "id": "R-0312",
+  "text": "The following data shall be provided by the manufacturer, together with the documentation package required in Annex 3 of this UN Regulation, to the Type Approval Authority at the time of type-approval.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 29,
+   "paragraph": "9.1"
+  }
+ },
+ {
+  "id": "R-0313",
+  "text": "For the purpose of ensuring the software of the System can be identified, an R171SWIN shall be implemented by the vehicle manufacturer.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 31,
+   "paragraph": "10.1"
+  }
+ },
+ {
+  "id": "R-0314",
+  "text": "The R171SWIN ay be held on the vehicle or, if R1XXSWIN is not held on the vehicle, the manufacturer shall declare the software version(s) of the vehicle or single ECUs with the connection to the relevant type approvals to the Type Approval Authority.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 31,
+   "paragraph": "10.1"
+  }
+ },
+ {
+  "id": "R-0315",
+  "text": "The vehicle manufacturer shall demonstrate compliance with UN Regulation No. 156 (Software Update and Software Update Management System) by fulfilling the requirements and respecting the transitional provisions of the original version of UN Regulation No. 156 or later series of amendments.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 31,
+   "paragraph": "10.2"
+  }
+ },
+ {
+  "id": "R-0316",
+  "text": "The vehicle manufacturer shall provide the following information in the communication form of this UN Regulation:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 31,
+   "paragraph": "10.3"
+  }
+ },
+ {
+  "id": "R-0317",
+  "text": "The information provided shall be declared by the vehicle manufacturer and may not be verified by a Type Approval Authority.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 31,
+   "paragraph": "10.4"
+  }
+ },
+ {
+  "id": "R-0318",
+  "text": "In agreement with the Type Approval Authority duplication of tests shall be avoided where possible. 11.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 31,
+   "paragraph": "10.5"
+  }
+ },
+ {
+  "id": "R-0319",
+  "text": "Every modification of the vehicle type as defined in paragraph 2.2. of this Regulation shall be notified to the Type Approval Authority which approved the vehicle type.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 31,
+   "paragraph": "11.1"
+  }
+ },
+ {
+  "id": "R-0320",
+  "text": "The Type Approval Authority shall then either:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 31,
+   "paragraph": "11.1"
+  }
+ },
+ {
+  "id": "R-0321",
+  "text": "Revision When particulars recorded in the information documents have changed and the Type Approval Authority considers that the modifications made are unlikely to have appreciable adverse effects, the modification shall be designated a \"revision\".",
+  "source": {
+   "regulation": "UN R171",
+   "page": 31,
+   "paragraph": "11.1.1"
+  }
+ },
+ {
+  "id": "R-0322",
+  "text": "In such a case, the Type Approval Authority shall issue the revised pages of the information documents as necessary, marking each revised page to show clearly the nature of the modification and the date of re-issue.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 31,
+   "paragraph": "11.1.1"
+  }
+ },
+ {
+  "id": "R-0323",
+  "text": "A consolidated, updated version of the information documents, accompanied by a detailed description of the modification, shall be deemed to meet this requirement.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 31,
+   "paragraph": "11.1.1"
+  }
+ },
+ {
+  "id": "R-0324",
+  "text": "Extension The modification shall be designated an \"extension\" if, in addition to the change of the particulars recorded in the information documents, (a) Further inspections or tests are required; or (b) Any information on the communication document (with the exception of its attachments) has changed; or (c) Approval to a later series of amendments is requested after its entry into force.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 32,
+   "paragraph": "11.1.2"
+  }
+ },
+ {
+  "id": "R-0325",
+  "text": "Confirmation or refusal of approval, specifying the alterations, shall be communicated by the procedure specified in paragraph 4.3. above to the Contracting Parties to the Agreement applying this UN Regulation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 32,
+   "paragraph": "11.2"
+  }
+ },
+ {
+  "id": "R-0326",
+  "text": "In addition, the index to the information documents and to the test reports, attached to the communication document of Annex 1, shall be amended accordingly to show the date of the most recent revision or extension.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 32,
+   "paragraph": "11.2"
+  }
+ },
+ {
+  "id": "R-0327",
+  "text": "The Type Approval Authority shall inform the other Contracting Parties of the extension by means of the communication form which appears in Annex 1 to this UN Regulation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 32,
+   "paragraph": "11.3"
+  }
+ },
+ {
+  "id": "R-0328",
+  "text": "It shall assign a serial number to each extension, to be known as the extension number. 12.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 32,
+   "paragraph": "11.3"
+  }
+ },
+ {
+  "id": "R-0329",
+  "text": "Procedures for the conformity of production shall conform to the general provisions defined in Article 2 and Schedule 1 to the Agreement (E/ECE/TRANS/505/Rev.3) and meet the following requirements:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 32,
+   "paragraph": "12.1"
+  }
+ },
+ {
+  "id": "R-0330",
+  "text": "A vehicle approved pursuant to this UN Regulation shall be so manufactured as to conform to the type approved by meeting the requirements of paragraph 5. above;",
+  "source": {
+   "regulation": "UN R171",
+   "page": 32,
+   "paragraph": "12.2"
+  }
+ },
+ {
+  "id": "R-0331",
+  "text": "The normal frequency of such inspections shall be once every two years.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 32,
+   "paragraph": "12.3"
+  }
+ },
+ {
+  "id": "R-0332",
+  "text": "If a Contracting Party withdraws an approval, it had previously granted, it shall forthwith so notify the other Contracting Parties applying this Regulation by sending them a communication form conforming to the model in Annex 1 to this UN Regulation. 13.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 32,
+   "paragraph": "12.5"
+  }
+ },
+ {
+  "id": "R-0333",
+  "text": "If a Contracting Party withdraws an approval it had previously granted, it shall forthwith so notify the other Contracting Parties applying this UN Regulation by sending them a communication form conforming to the model in Annex 1 to this UN Regulation. 14.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 32,
+   "paragraph": "13.2"
+  }
+ },
+ {
+  "id": "R-0334",
+  "text": "If the holder of the approval completely ceases to manufacture a type of vehicle approved in accordance with this UN Regulation, he shall so inform the Type Approval Authority which granted the approval, which in turn shall forthwith inform the other Contracting Parties to the Agreement applying this Regulation by means of a communication form conforming to the model in Annex 1 to this UN Regulation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 33,
+   "paragraph": "14.1"
+  }
+ },
+ {
+  "id": "R-0335",
+  "text": "The Contracting Parties to the Agreement applying this UN Regulation shall communicate to the United Nations Secretariat5 the names and addresses of the Technical Services responsible for conducting approval tests and of the Type Approval Authorities which grant approval and to which forms certifying approval or extension or refusal or withdrawal of approval are to be sent. 5 Through the online platform (\"/343 Application\") provided by UNECE and dedicated to the exchange of such information https://apps.unece.org/WP29_application/ 16.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 33,
+   "paragraph": "15.1"
+  }
+ },
+ {
+  "id": "R-0336",
+  "text": "As from the official date of entry into force of the 01 series of amendments, no Contracting Party applying this Regulation shall refuse to grant or refuse to accept type approvals under this Regulation as amended by the 01 series of amendments.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 33,
+   "paragraph": "16.1"
+  }
+ },
+ {
+  "id": "R-0337",
+  "text": "As from 1 September 2027, Contracting Parties applying this Regulation shall not be obliged to accept type approvals issued to the original version (00 series of amendments) of this Regulation, first issued after 1 September 2027.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 33,
+   "paragraph": "16.2"
+  }
+ },
+ {
+  "id": "R-0338",
+  "text": "Until 1 September 2030, Contracting Parties applying this Regulation shall accept type approvals issued to the original version (00 series of amendments) of this Regulation, first issued before 1 September 2027.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 33,
+   "paragraph": "16.3"
+  }
+ },
+ {
+  "id": "R-0339",
+  "text": "As from 1 September 2030, Contracting Parties applying this Regulation shall not be obliged to accept type approvals issued to the original version (00 series of amendments) of this Regulation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 33,
+   "paragraph": "16.4"
+  }
+ },
+ {
+  "id": "R-0340",
+  "text": "Contracting Parties applying this Regulation shall continue to grant extensions of existing approvals to the original version (00 series of amendments) of this Regulation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 33,
+   "paragraph": "16.7"
+  }
+ },
+ {
+  "id": "R-0341",
+  "text": "This information shall show that \"The System\" respects, under non-fault and fault conditions, all the appropriate performance requirements specified elsewhere in this UN Regulation and that it is designed to operate in such a way that it is free of unreasonable safety risks to the driver, passengers and other road users.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 36,
+   "paragraph": "Annex 3 1"
+  }
+ },
+ {
+  "id": "R-0342",
+  "text": "Provisions in this UN Regulation of the form “the system shall…” must always be complied with.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 36,
+   "paragraph": "Annex 3 1"
+  }
+ },
+ {
+  "id": "R-0343",
+  "text": "Provisions in this UN Regulation of the form “the system shall aim to…” acknowledge that the requirement may not always be achieved (e.g., due to external disturbances or because it is not appropriate to do so under the specific circumstances).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 36,
+   "paragraph": "Annex 3 1"
+  }
+ },
+ {
+  "id": "R-0344",
+  "text": "Provisions in this UN Regulation of the form “the system shall be designed to…” acknowledge that testing of system performance is not a comprehensive way to verify that the requirement is, or is not, complied-with, and that verification of the requirement will require an assessment of the system design (e.g. its control strategies).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 36,
+   "paragraph": "Annex 3 1"
+  }
+ },
+ {
+  "id": "R-0345",
+  "text": "If during assessment a requirement of the form “shall aim to...” or “shall be designed to…” is not fulfilled, the manufacturer shall demonstrate to the satisfaction of the Type Approval Authority why this was the case, and how the system nevertheless remains free from unreasonable risk.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 36,
+   "paragraph": "Annex 3 1"
+  }
+ },
+ {
+  "id": "R-0346",
+  "text": "Requirements The manufacturer shall provide a documentation package which gives access to the basic design of the system and the means by which it is linked to other vehicle systems or by which it directly controls output variables.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 38,
+   "paragraph": "Annex 3 3.1"
+  }
+ },
+ {
+  "id": "R-0347",
+  "text": "The function(s) of the system and the safety concept, as laid down by the manufacturer, shall be explained.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 38,
+   "paragraph": "Annex 3 3.1"
+  }
+ },
+ {
+  "id": "R-0348",
+  "text": "Documentation shall be brief, yet provide evidence that the design and development has had the benefit of expertise from all the system fields which are involved.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 38,
+   "paragraph": "Annex 3 3.1"
+  }
+ },
+ {
+  "id": "R-0349",
+  "text": "For periodic technical inspections, the documentation shall describe how the current operational status of the system can be checked.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 38,
+   "paragraph": "Annex 3 3.1"
+  }
+ },
+ {
+  "id": "R-0350",
+  "text": "The Type Approval Authority shall assess the documentation package to show that \"The System\":",
+  "source": {
+   "regulation": "UN R171",
+   "page": 38,
+   "paragraph": "Annex 3 3.1"
+  }
+ },
+ {
+  "id": "R-0351",
+  "text": "Documentation shall be made available in two parts:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 38,
+   "paragraph": "Annex 3 3.1.1"
+  }
+ },
+ {
+  "id": "R-0352",
+  "text": "(with the exception of that of paragraph 3.4.4.) which shall be supplied to the Type Approval Authority at the time of submission of the type approval application.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 38,
+   "paragraph": "Annex 3 3.1.1"
+  }
+ },
+ {
+  "id": "R-0353",
+  "text": "This documentation package shall be used by the Type Approval Authority as the basic reference for the verification process set out in paragraph 4. of this Annex.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 38,
+   "paragraph": "Annex 3 3.1.1"
+  }
+ },
+ {
+  "id": "R-0354",
+  "text": "The Type Approval Authority shall ensure that this documentation package remains available for a period determined in agreement with the Type Approval Authority.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 38,
+   "paragraph": "Annex 3 3.1.1"
+  }
+ },
+ {
+  "id": "R-0355",
+  "text": "This period shall be at least 10 years counted from the time when production of the vehicle is definitely discontinued.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 38,
+   "paragraph": "Annex 3 3.1.1"
+  }
+ },
+ {
+  "id": "R-0356",
+  "text": "(b) Additional confidential material and analysis data (intellectual property) of paragraph 3.4.4. which shall be retained by the manufacturer, but made open for inspection (e.g., on-site in the engineering facilities of the manufacturer) at the time of type approval.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 38,
+   "paragraph": "Annex 3 3.1.1"
+  }
+ },
+ {
+  "id": "R-0357",
+  "text": "The manufacturer shall ensure that this material and analysis data remains available for a period of 10 years counted from the time when production of the vehicle is definitely discontinued.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 38,
+   "paragraph": "Annex 3 3.1.1"
+  }
+ },
+ {
+  "id": "R-0358",
+  "text": "Description of the functions of the system A description shall be provided which gives a simple explanation of all the functions, including control strategies, of the system and the methods employed to achieve the objectives, including a statement of the mechanism(s) by which control is exercised.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 39,
+   "paragraph": "Annex 3 3.2"
+  }
+ },
+ {
+  "id": "R-0359",
+  "text": "Any described function shall be identified and a further description of the changed rationale of the function’s operation provided.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 39,
+   "paragraph": "Annex 3 3.2"
+  }
+ },
+ {
+  "id": "R-0360",
+  "text": "Any enabled or disabled safety related functions providing assistance to the driver as defined in paragraph 2.1. of this UN Regulation, when the hardware and software are present in the vehicle at the time of production, shall be declared and are subject to the requirements of this Annex, prior to their use in the vehicle.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 39,
+   "paragraph": "Annex 3 3.2"
+  }
+ },
+ {
+  "id": "R-0361",
+  "text": "A list of all input and sensed variables shall be provided and the working range of these defined, along with a description of how each variable affects system behaviour.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 39,
+   "paragraph": "Annex 3 3.2.1"
+  }
+ },
+ {
+  "id": "R-0362",
+  "text": "A list of all output variables which are controlled by the system shall be provided and an explanation given, in each case, of whether the control is direct or via another vehicle system.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 39,
+   "paragraph": "Annex 3 3.2.2"
+  }
+ },
+ {
+  "id": "R-0363",
+  "text": "The range of control exercised on each such variable shall be defined.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 39,
+   "paragraph": "Annex 3 3.2.2"
+  }
+ },
+ {
+  "id": "R-0364",
+  "text": "Limits defining the boundaries of functional operation shall be stated where appropriate to system performance.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 39,
+   "paragraph": "Annex 3 3.2.3"
+  }
+ },
+ {
+  "id": "R-0365",
+  "text": "A declaration of the capability of the system and its features according to the model in Appendix 4 to this Annex shall be provided.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 39,
+   "paragraph": "Annex 3 3.2.4"
+  }
+ },
+ {
+  "id": "R-0366",
+  "text": "A list shall be provided, collating all the units of the system and mentioning the other vehicle systems which are needed to achieve the control function in question.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 39,
+   "paragraph": "Annex 3 3.3.1"
+  }
+ },
+ {
+  "id": "R-0367",
+  "text": "An outline schematic showing these units in combination, shall be provided with both the equipment distribution and the interconnections made clear.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 39,
+   "paragraph": "Annex 3 3.3.1"
+  }
+ },
+ {
+  "id": "R-0368",
+  "text": "Functions of the units The function of each unit of the system shall be outlined and the signals linking it with other units or with other vehicle systems shall be shown.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 39,
+   "paragraph": "Annex 3 3.3.2"
+  }
+ },
+ {
+  "id": "R-0369",
+  "text": "Interconnections Interconnections within the system shall be shown by a circuit diagram for the electric transmission links, by a piping diagram for pneumatic or hydraulic transmission equipment and by a simplified diagrammatic layout for mechanical linkages.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 39,
+   "paragraph": "Annex 3 3.3.3"
+  }
+ },
+ {
+  "id": "R-0370",
+  "text": "The transmission links both to and from other systems shall also be shown",
+  "source": {
+   "regulation": "UN R171",
+   "page": 39,
+   "paragraph": "Annex 3 3.3.3"
+  }
+ },
+ {
+  "id": "R-0371",
+  "text": "Signal flow, operating data and priorities There shall be a clear correspondence between transmission links and the signals carried between units.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 39,
+   "paragraph": "Annex 3 3.3.4"
+  }
+ },
+ {
+  "id": "R-0372",
+  "text": "Priorities of signals on multiplexed data paths shall be stated wherever priority may be an issue affecting performance or safety.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 39,
+   "paragraph": "Annex 3 3.3.4"
+  }
+ },
+ {
+  "id": "R-0373",
+  "text": "Identification of units Each unit shall be clearly and unambiguously identifiable (e.g. by marking for hardware and marking or software output for software content) to provide corresponding hardware and documentation association.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 39,
+   "paragraph": "Annex 3 3.3.5"
+  }
+ },
+ {
+  "id": "R-0374",
+  "text": "Where functions are combined within a single unit or indeed within a single computer, but shown in multiple blocks in the block diagram for clarity and ease of explanation, only a single hardware identification marking shall be used.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 39,
+   "paragraph": "Annex 3 3.3.5"
+  }
+ },
+ {
+  "id": "R-0375",
+  "text": "The manufacturer shall, by the use of this identification, affirm that the equipment supplied conforms to the corresponding document.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 39,
+   "paragraph": "Annex 3 3.3.5"
+  }
+ },
+ {
+  "id": "R-0376",
+  "text": "The identification defines the hardware and software version and, where the latter changes such as to alter the function of the Unit as far as this Regulation is concerned, this identification shall also be changed.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 40,
+   "paragraph": "Annex 3 3.3.5.1"
+  }
+ },
+ {
+  "id": "R-0377",
+  "text": "The manufacturer shall provide a statement which affirms that the strategy chosen to achieve the system objectives will not, under non-fault conditions, prejudice the safe operation of the vehicle.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 40,
+   "paragraph": "Annex 3 3.4.1"
+  }
+ },
+ {
+  "id": "R-0378",
+  "text": "The manufacturer shall supplement this statement by an explanation showing in overall terms how the chosen strategy ensures that the system objectives does not prejudice the safe operation of the systems referred above, and by a description of the part of the validation plan supporting the statement.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 40,
+   "paragraph": "Annex 3 3.4.1"
+  }
+ },
+ {
+  "id": "R-0379",
+  "text": "The Type Approval Authority shall perform an assessment to establish that the manufacturer’s explanation of the chosen strategy is understandable, logical and that the validation plan is suitable and have been completed.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 40,
+   "paragraph": "Annex 3 3.4.1"
+  }
+ },
+ {
+  "id": "R-0380",
+  "text": "In respect of software employed in the system, the outline architecture shall be explained and the design methods and tools used shall be identified.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 40,
+   "paragraph": "Annex 3 3.4.2"
+  }
+ },
+ {
+  "id": "R-0381",
+  "text": "The manufacturer shall show evidence of the means by which they determined the realisation of the system logic, during the design and development process.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 40,
+   "paragraph": "Annex 3 3.4.2"
+  }
+ },
+ {
+  "id": "R-0382",
+  "text": "The manufacturer shall provide the Type Approval Authority with an explanation of the design provisions built into the system so as to generate safe operation under fault conditions.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 40,
+   "paragraph": "Annex 3 3.4.3"
+  }
+ },
+ {
+  "id": "R-0383",
+  "text": "If the chosen provision selects a partial performance mode of operation under certain fault conditions, then these conditions shall be stated and the resulting limits of effectiveness defined.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 40,
+   "paragraph": "Annex 3 3.4.3.1"
+  }
+ },
+ {
+  "id": "R-0384",
+  "text": "If the chosen provision selects a second (back-up) means to realise the vehicle control system objective, the principles of the change-over mechanism, the logic and level of redundancy and any built in back-up checking features shall be explained and the resulting limits of back-up effectiveness defined.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 40,
+   "paragraph": "Annex 3 3.4.3.2"
+  }
+ },
+ {
+  "id": "R-0385",
+  "text": "If the chosen provision selects the removal of the higher-level function, all the corresponding output control signals associated with this function shall be inhibited, and in such a manner as to limit the transition disturbance.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 40,
+   "paragraph": "Annex 3 3.4.3.3"
+  }
+ },
+ {
+  "id": "R-0386",
+  "text": "The documentation shall be supported, by an analysis which shows, in overall terms, how the system will behave on the occurrence of any individual hazard or fault which will have a bearing on vehicle control performance or safety.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 40,
+   "paragraph": "Annex 3 3.4.4"
+  }
+ },
+ {
+  "id": "R-0387",
+  "text": "The chosen analytical approach(es) shall be established and maintained by the manufacturer and shall be made open for inspection by the Type Approval Authority at the time of the type approval.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 40,
+   "paragraph": "Annex 3 3.4.4"
+  }
+ },
+ {
+  "id": "R-0388",
+  "text": "The Type Approval Authority shall perform an assessment of the application of the analytical approach(es).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 40,
+   "paragraph": "Annex 3 3.4.4"
+  }
+ },
+ {
+  "id": "R-0389",
+  "text": "The assessment shall include:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 40,
+   "paragraph": "Annex 3 3.4.4"
+  }
+ },
+ {
+  "id": "R-0390",
+  "text": "This validation shall / may include validation testing appropriate for validation, for example, Hardware in the Loop (HIL) testing, vehicle on-road operational testing, or any other testing appropriate for validation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 40,
+   "paragraph": "Annex 3 3.4.4"
+  }
+ },
+ {
+  "id": "R-0391",
+  "text": "The assessment shall consist of checks of hazards, faults and failure conditions chosen by the Type Approval Authority to establish that the manufacturer’s explanation of the safety concept is understandable, logical and that the validation plans are suitable and have been completed.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 40,
+   "paragraph": "Annex 3 3.4.4"
+  }
+ },
+ {
+  "id": "R-0392",
+  "text": "This documentation shall itemize the parameters being monitored and shall set out, for each **relevant** failure condition of the type defined in paragraph 3.4.4. of this Annex, the warning signal to be given to the driver and/or to service/technical inspection personnel.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 41,
+   "paragraph": "Annex 3 3.4.4.1"
+  }
+ },
+ {
+  "id": "R-0393",
+  "text": "This documentation shall describe the measures in place to ensure the system does not prejudice the safe operation of the vehicle when the performance of the system is affected by environmental conditions e.g. climatic, temperature, dust ingress, water ingress, ice packing.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 41,
+   "paragraph": "Annex 3 3.4.4.2"
+  }
+ },
+ {
+  "id": "R-0394",
+  "text": "Where this UN Regulation contains particular requirements for the operation of the system under different environmental conditions, this documentation shall describe the measures in place to ensure compliance with those requirements.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 41,
+   "paragraph": "Annex 3 3.4.4.2"
+  }
+ },
+ {
+  "id": "R-0395",
+  "text": "In respect of software and hardware employed in the system, the manufacturer shall demonstrate to the Type Approval Authority in terms of a safety management system that effective processes, methodologies and tools are in place, up to date and being followed within the organization to manage the safety and continued compliance throughout the product lifecycle (design, development, production and operation).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 41,
+   "paragraph": "Annex 3 3.5.1"
+  }
+ },
+ {
+  "id": "R-0396",
+  "text": "The safety management system shall comprise of the following key components:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 41,
+   "paragraph": "Annex 3 3.5.2"
+  }
+ },
+ {
+  "id": "R-0397",
+  "text": "The design and development process shall be established including safety-by-design, requirements management, requirements’ implementation, testing, failure tracking, remedy and release.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 42,
+   "paragraph": "Annex 3 3.5.3"
+  }
+ },
+ {
+  "id": "R-0398",
+  "text": "The manufacturer shall institute and maintain effective communication channels between manufacturer departments responsible for functional/operational safety, cybersecurity and any other relevant disciplines related to the achievement of vehicle safety.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 42,
+   "paragraph": "Annex 3 3.5.4"
+  }
+ },
+ {
+  "id": "R-0399",
+  "text": "The manufacturer shall demonstrate that periodic independent internal process audits are carried out to ensure that the processes established in accordance with paragraphs 3.5.1 to 3.5.4. are implemented consistently.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 42,
+   "paragraph": "Annex 3 3.5.5"
+  }
+ },
+ {
+  "id": "R-0400",
+  "text": "The manufacturer shall put in place suitable arrangements (e.g. contractual arrangements, clear interfaces, quality management system) with suppliers to ensure that the supplier safety management system comply with the requirements of paragraphs 3.5.1.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 42,
+   "paragraph": "Annex 3 3.5.6"
+  }
+ },
+ {
+  "id": "R-0401",
+  "text": "The documentation shall outline a system information strategy which aims to encourage the driver to review information on system operation when the driver operates the system (e.g. a regular notification at the start of the drive cycle when the system is switched to ‘on’ mode inviting the driver to review relevant materials).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 42,
+   "paragraph": "Annex 3 3.5.7"
+  }
+ },
+ {
+  "id": "R-0402",
+  "text": "The functional operation of the system, as laid out in the documents required in paragraph 3., shall be tested as follows:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 42,
+   "paragraph": "Annex 3 4.1"
+  }
+ },
+ {
+  "id": "R-0403",
+  "text": "Verification of the function of the system The Type Approval Authority shall verify the system under non-fault conditions by testing a number of selected functions from those declared by the manufacturer in paragraph 3.2. above.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 42,
+   "paragraph": "Annex 3 4.1.1"
+  }
+ },
+ {
+  "id": "R-0404",
+  "text": "The verification of the performance of those selected functions shall be conducted following the manufacturer's test procedures unless a test procedure is specified in this UN Regulation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 42,
+   "paragraph": "Annex 3 4.1.1"
+  }
+ },
+ {
+  "id": "R-0405",
+  "text": "For cases where the system is subject to input signal(s) from systems outside the scope of this UN Regulation, the test shall be conducted using the test procedure of the relevant UN Regulation, or by another means that generates the relevant input signal(s), (e.g. simulation).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 42,
+   "paragraph": "Annex 3 4.1.1"
+  }
+ },
+ {
+  "id": "R-0406",
+  "text": "For complex electronic systems, these tests shall include scenarios whereby a declared function is overridden.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 42,
+   "paragraph": "Annex 3 4.1.1"
+  }
+ },
+ {
+  "id": "R-0407",
+  "text": "The verification results shall correspond with the description, including the control strategies, provided by the manufacturer in paragraph 3.2.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 42,
+   "paragraph": "Annex 3 4.1.1.1"
+  }
+ },
+ {
+  "id": "R-0408",
+  "text": "The reaction of the system shall be checked under the influence of a failure in any individual unit by applying corresponding output signals to electrical units or mechanical elements in order to simulate the effects of internal faults within the unit.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 42,
+   "paragraph": "Annex 3 4.1.2"
+  }
+ },
+ {
+  "id": "R-0409",
+  "text": "The Type Approval Authority shall conduct this check for at least one individual unit, but shall not check the reaction of \"The System\" to multiple simultaneous failures of individual units.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 42,
+   "paragraph": "Annex 3 4.1.2"
+  }
+ },
+ {
+  "id": "R-0410",
+  "text": "The Type Approval Authority shall verify that these tests include aspects that may have an impact on vehicle controllability and user information/interaction (HMI aspects).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 42,
+   "paragraph": "Annex 3 4.1.2"
+  }
+ },
+ {
+  "id": "R-0411",
+  "text": "The verification results shall correspond with the documented summary of the failure analysis, to a level of overall effect such that the safety concept and execution are confirmed as being adequate.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 42,
+   "paragraph": "Annex 3 4.1.2.1"
+  }
+ },
+ {
+  "id": "R-0412",
+  "text": "Verification of the controllability The verification under non-fault (paragraph 4.1.1.1.) and fault (paragraph 4.1.2.1.) conditions shall be adequate from a controllability perspective.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 42,
+   "paragraph": "Annex 3 4.1.3"
+  }
+ },
+ {
+  "id": "R-0413",
+  "text": "Where used for this purpose, such methods shall be in accordance of Annex 5 of this UN Regulation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 43,
+   "paragraph": "Annex 3 4.2"
+  }
+ },
+ {
+  "id": "R-0414",
+  "text": "The manufacturer shall demonstrate the scope of the simulation tool, its validity for the scenario concerned as well as the validation performed for the simulation tool chain (correlation of the outcome with physical tests).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 43,
+   "paragraph": "Annex 3 4.2"
+  }
+ },
+ {
+  "id": "R-0415",
+  "text": "If virtual testing is performed by the manufacturer, the Type Approval Authority shall evaluate the declared results provided by the manufacturer, in particular pertaining to safety metrics and the coverage of the system boundaries.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 43,
+   "paragraph": "Annex 3 4.2.1"
+  }
+ },
+ {
+  "id": "R-0416",
+  "text": "The Type Approval Authority shall check a number of scenarios that are critical for the characterization of HMI functions of the system, as well as to verify the effective performance of the driver disengagement monitoring and warning system.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 43,
+   "paragraph": "Annex 3 4.3"
+  }
+ },
+ {
+  "id": "R-0417",
+  "text": "The Type Approval Authority shall also check a number of scenarios that are critical for controllability of system boundaries by the driver (e.g. object difficult to detect, when the system reaches its system boundaries, risk of collision with another road user **,** system fault conditions) as defined in the regulation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 43,
+   "paragraph": "Annex 3 4.4"
+  }
+ },
+ {
+  "id": "R-0418",
+  "text": "Reporting by Type Approval Authority The reporting of the assessment by the Type Approval Authority shall be performed in such a manner that it allows traceability, e.g. versions of documents inspected are coded and listed in the assessment records.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 43,
+   "paragraph": "Annex 3 5"
+  }
+ },
+ {
+  "id": "R-0419",
+  "text": "Introduction This Appendix reflects a summary of system design aspects outlined in the core text of this Regulation to be assessed by the Type Approval Authority **.** The following information shall be provided by the manufacturer for assessment.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 45,
+   "paragraph": "Annex 3 Appendix 2 1"
+  }
+ },
+ {
+  "id": "R-0420",
+  "text": "This shall include evidence that the system performance in meeting the regulatory requirements is not affected adversely by e.g.:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 45,
+   "paragraph": "Annex 3 Appendix 2 2.1.1.3"
+  }
+ },
+ {
+  "id": "R-0421",
+  "text": "Strategies implemented for determination when there has been no deviation in eye gaze (or movement of head position when this is being used to determine visual engagement) for a significant period of time, where an EOR shall be issued (paragraph 5.5.4.2.6.5.5.).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 46,
+   "paragraph": "Annex 3 Appendix 2 2.1.1.7"
+  }
+ },
+ {
+  "id": "R-0422",
+  "text": "The manufacturer shall explain the detection capabilities of DCAS, differentiated by features, if applicable, and the system boundaries for these detection capabilities.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 47,
+   "paragraph": "Annex 3 Appendix 3 0"
+  }
+ },
+ {
+  "id": "R-0423",
+  "text": "The following list shall be taken as guidance on possibly relevant objects and events in different operating scenarios:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 47,
+   "paragraph": "Annex 3 Appendix 3 0"
+  }
+ },
+ {
+  "id": "R-0424",
+  "text": "The manufacturer shall declare the capability of the system and its features according to the classification of paragraph 6 based on the following criteria.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 47,
+   "paragraph": "Annex 3 Appendix 4 0"
+  }
+ },
+ {
+  "id": "R-0425",
+  "text": "The system shall be considered to possess a capability as declared below if it is able to demonstrate the required behaviour in at least 90% of the corresponding tests.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 47,
+   "paragraph": "Annex 3 Appendix 4 0"
+  }
+ },
+ {
+  "id": "R-0426",
+  "text": "Evidence of this capability shall be provided to the Type Approval Authority via appropriate documentation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 47,
+   "paragraph": "Annex 3 Appendix 4 0"
+  }
+ },
+ {
+  "id": "R-0427",
+  "text": "When conditions deviate from those specified for the corresponding test, the system shall not unreasonably switch its control strategy.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 47,
+   "paragraph": "Annex 3 Appendix 4 0"
+  }
+ },
+ {
+  "id": "R-0428",
+  "text": "This shall be demonstrated by the manufacturer to the Type Approval Authority in accordance to Annex 4.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 47,
+   "paragraph": "Annex 3 Appendix 4 0"
+  }
+ },
+ {
+  "id": "R-0429",
+  "text": "The manufacturer shall declare the maximum operational speed up to which the system is able to handle (i.e., to avoid a collision without driver intervention) the following scenarios as relevant for the system’s design:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 48,
+   "paragraph": "Annex 3 Appendix 4 1"
+  }
+ },
+ {
+  "id": "R-0430",
+  "text": "System’s ability to ensure safe operation when assisting lane changes (applicable to both driver- and systeminitiated lane changes) The manufacturer shall declare the range at which the system is able to respond to other unobstructed targets if equipped with lane change feature.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 52,
+   "paragraph": "Annex 3 Appendix 4 3"
+  }
+ },
+ {
+  "id": "R-0431",
+  "text": "The manufacturer shall declare the conditions under which the maximum range is reduced:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 52,
+   "paragraph": "Annex 3 Appendix 4 3"
+  }
+ },
+ {
+  "id": "R-0432",
+  "text": "System’s ability to operate in accordance with traffic rules related to a certain driver-initiated manoeuvre The manufacturer shall declare traffic rule compliance related to a certain manoeuvre, if relevant to the given signal.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 53,
+   "paragraph": "Annex 3 Appendix 4 5"
+  }
+ },
+ {
+  "id": "R-0433",
+  "text": "All the tests in this annex shall be performed or witnessed by the Type Approval Authority or the Technical Service acting on its behalf (hereafter referred as “Type Approval Authority”) during the approval process.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 53,
+   "paragraph": "Annex 4 1"
+  }
+ },
+ {
+  "id": "R-0434",
+  "text": "The specific test parameters for track tests shall be selected by the Type Approval Authority based on the declaration made by the manufacturer and shall be recorded in the test report in such a manner that allows traceability and repeatability of the test setup.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 53,
+   "paragraph": "Annex 4 1"
+  }
+ },
+ {
+  "id": "R-0435",
+  "text": "The tests specified in this document shall be intended as a minimum set of tests.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 53,
+   "paragraph": "Annex 4 1"
+  }
+ },
+ {
+  "id": "R-0436",
+  "text": "The tests shall be performed under conditions (e.g. environmental, road geometry) that allow the activation of the system or specific features thereof.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 54,
+   "paragraph": "Annex 4 3.1.1"
+  }
+ },
+ {
+  "id": "R-0437",
+  "text": "For conditions not tested that may occur within the defined system boundaries of the vehicle, the manufacturer shall demonstrate as part of the audit described in Annex 3 to the satisfaction of the Type Approval Authority that the vehicle is safely controlled.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 54,
+   "paragraph": "Annex 4 3.1.1"
+  }
+ },
+ {
+  "id": "R-0438",
+  "text": "If system modifications are required in order to allow testing (e.g. road type assessment criteria), it shall be ensured that these modifications do not have an effect on the test results.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 54,
+   "paragraph": "Annex 4 3.1.2"
+  }
+ },
+ {
+  "id": "R-0439",
+  "text": "These modifications shall be documented and annexed to the test report.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 54,
+   "paragraph": "Annex 4 3.1.2"
+  }
+ },
+ {
+  "id": "R-0440",
+  "text": "The description and the evidence of influence (if any) of these modifications shall be documented and annexed to the test report.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 54,
+   "paragraph": "Annex 4 3.1.2"
+  }
+ },
+ {
+  "id": "R-0441",
+  "text": "It shall be verified, that the condition of the system is according to the intended testing purpose (e.g. in a fault-free condition or with the specific faults to be tested).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 54,
+   "paragraph": "Annex 4 3.1.3"
+  }
+ },
+ {
+  "id": "R-0442",
+  "text": "The test surface shall afford at least the adhesion required by the scenario in order to achieve the expected test result.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 54,
+   "paragraph": "Annex 4 3.1.4"
+  }
+ },
+ {
+  "id": "R-0443",
+  "text": "The target used for the vehicle detection tests shall be a regular high-volume series production vehicle of Category M or N or alternatively a \"soft target\" representative of a vehicle in terms of its identification characteristics applicable to the sensor equipment of the system under test according to ISO 19206-3.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 54,
+   "paragraph": "Annex 4 3.1.5.1"
+  }
+ },
+ {
+  "id": "R-0444",
+  "text": "The reference point for the location of the vehicle shall be the most rearward point on the centreline of the vehicle.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 54,
+   "paragraph": "Annex 4 3.1.5.1"
+  }
+ },
+ {
+  "id": "R-0445",
+  "text": "The target used for the Powered-Two-wheeler tests shall be a test device according to ISO 19206-5 or a type approved high volume series production motorcycle of Category **L3** .",
+  "source": {
+   "regulation": "UN R171",
+   "page": 54,
+   "paragraph": "Annex 4 3.1.5.2"
+  }
+ },
+ {
+  "id": "R-0446",
+  "text": "The reference point for the location of the motorcycle shall be the most backward point on the centreline of the motorcycle.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 54,
+   "paragraph": "Annex 4 3.1.5.2"
+  }
+ },
+ {
+  "id": "R-0447",
+  "text": "The target used for the pedestrian detection tests shall be an \"articulated soft target\" and be representative of the human attributes applicable to the sensor equipment of the system under test according to ISO 19206-2.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 54,
+   "paragraph": "Annex 4 3.1.5.3"
+  }
+ },
+ {
+  "id": "R-0448",
+  "text": "The target used for bicycle detection tests shall be a device according to ISO 19206-4.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 54,
+   "paragraph": "Annex 4 3.1.5.4"
+  }
+ },
+ {
+  "id": "R-0449",
+  "text": "The reference point for the location of the bicycle shall be the most forward point on the centreline of the bicycle.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 54,
+   "paragraph": "Annex 4 3.1.5.4"
+  }
+ },
+ {
+  "id": "R-0450",
+  "text": "It shall be ensured that the test tools replacing the reference targets have comparable characteristics to the vehicle or road user they are intended to represent, and are in agreement between the Type Approval Authority and the manufacturer.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 55,
+   "paragraph": "Annex 4 3.1.5.5"
+  }
+ },
+ {
+  "id": "R-0451",
+  "text": "Details that enable the target(s) to be specifically identified and reproduced shall be recorded in the vehicle type approval documentation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 55,
+   "paragraph": "Annex 4 3.1.5.6"
+  }
+ },
+ {
+  "id": "R-0452",
+  "text": "The manufacturer shall declare the system boundaries to the Type Approval Authority.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 55,
+   "paragraph": "Annex 4 3.1.6.1"
+  }
+ },
+ {
+  "id": "R-0453",
+  "text": "The Type Approval Authority shall define different combinations of test parameters (e.g., present speed of the vehicle under test, type and offset of the target, curvature of lane).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 55,
+   "paragraph": "Annex 4 3.1.6.1"
+  }
+ },
+ {
+  "id": "R-0454",
+  "text": "In order to confirm consistency of the system, base tests shall be carried out at least 2 times.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 55,
+   "paragraph": "Annex 4 3.1.6.2"
+  }
+ },
+ {
+  "id": "R-0455",
+  "text": "If one of the two test runs fails to meet the required performance, the test shall be repeated once.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 55,
+   "paragraph": "Annex 4 3.1.6.2"
+  }
+ },
+ {
+  "id": "R-0456",
+  "text": "A test shall be accounted as passed if the required performance is met in two test runs and the manufacturer has provided sufficient evidence according to Annex 3 Appendix 4.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 55,
+   "paragraph": "Annex 4 3.1.6.2"
+  }
+ },
+ {
+  "id": "R-0457",
+  "text": "When conditions deviate from those specified for the base test, the system shall not unreasonably switch its control strategy.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 55,
+   "paragraph": "Annex 4 3.1.6.3"
+  }
+ },
+ {
+  "id": "R-0458",
+  "text": "This shall be verified by the extended testing.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 55,
+   "paragraph": "Annex 4 3.1.6.3"
+  }
+ },
+ {
+  "id": "R-0459",
+  "text": "Each parameter as outlined in the extended tests shall be varied, where variations can be grouped into a single test design.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 55,
+   "paragraph": "Annex 4 3.1.6.3"
+  }
+ },
+ {
+  "id": "R-0460",
+  "text": "Where applicable to the type of feature of the system, the Type Approval Authority shall conduct, or shall witness, an assessment of the system, in a fault-free condition, in the presence of traffic in at least in one country of operation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 55,
+   "paragraph": "Annex 4 3.1.7.1"
+  }
+ },
+ {
+  "id": "R-0461",
+  "text": "Test scenarios to confirm general compliance with requirements of this UN Regulation Compliance with the requirements of this UN Regulation shall be demonstrated by physical test for the following paragraphs.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 55,
+   "paragraph": "Annex 4 4.1"
+  }
+ },
+ {
+  "id": "R-0462",
+  "text": "Requirements and system aspects that shall be tested during the physical tests are described in table A4/1.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 55,
+   "paragraph": "Annex 4 4.1.1"
+  }
+ },
+ {
+  "id": "R-0463",
+  "text": "The relevant requirements or system aspects shall be chosen based on the system boundaries.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 55,
+   "paragraph": "Annex 4 4.1.1"
+  }
+ },
+ {
+  "id": "R-0464",
+  "text": "Scenarios with the aim of testing the given requirement or aspect shall be created and described in agreement with the Type Approval Authority.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 55,
+   "paragraph": "Annex 4 4.1.1"
+  }
+ },
+ {
+  "id": "R-0465",
+  "text": "Each requirement or aspect shall be assessed at least through track testing or public road verification.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 55,
+   "paragraph": "Annex 4 4.1.1"
+  }
+ },
+ {
+  "id": "R-0466",
+  "text": "Test scenarios shall be created depending on the system preconditions for activation and system boundaries.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 55,
+   "paragraph": "Annex 4 4.1.1"
+  }
+ },
+ {
+  "id": "R-0467",
+  "text": "Scenarios and test procedures for these items shall be agreed between the manufacturer and the Type Approval Authority.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 55,
+   "paragraph": "Annex 4 4.1.1"
+  }
+ },
+ {
+  "id": "R-0468",
+  "text": "Scenarios and test procedures for these items shall be agreed between the manufacturer and the Type Approval Authority.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 55,
+   "paragraph": "Annex 4 4.1.1"
+  }
+ },
+ {
+  "id": "R-0469",
+  "text": "Scenarios and test procedures for these items shall be agreed between the manufacturer and the Type Approval Authority.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 55,
+   "paragraph": "Annex 4 4.1.1"
+  }
+ },
+ {
+  "id": "R-0470",
+  "text": "Test scenarios shall be selected depending on the system’s preconditions for activation and system boundaries.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 58,
+   "paragraph": "Annex 4 4.2.1"
+  }
+ },
+ {
+  "id": "R-0471",
+  "text": "AEB equivalent performance, driver unavailability response, high lateral accelerations, etc.) shall be aimed to be tested on a test track.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 58,
+   "paragraph": "Annex 4 4.2.2"
+  }
+ },
+ {
+  "id": "R-0472",
+  "text": "The tests shall be performed in a way that the outcome of the test is not affected by driver settings or driver input and any other influences not related to the manoeuvre under test.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 58,
+   "paragraph": "Annex 4 4.2.2.1"
+  }
+ },
+ {
+  "id": "R-0473",
+  "text": "Therefore, the following conditions shall apply:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 58,
+   "paragraph": "Annex 4 4.2.2.1"
+  }
+ },
+ {
+  "id": "R-0474",
+  "text": "(a) The system’s longitudinal control following distance shall be set to:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 58,
+   "paragraph": "Annex 4 4.2.2.1"
+  }
+ },
+ {
+  "id": "R-0475",
+  "text": "(b) The system’s longitudinal control set speed shall be set to the speed indicated in the test or the speed declared by the manufacturer according to Annex 3 Appendix 4;",
+  "source": {
+   "regulation": "UN R171",
+   "page": 58,
+   "paragraph": "Annex 4 4.2.2.1"
+  }
+ },
+ {
+  "id": "R-0476",
+  "text": "(d) There shall be no corrective driver input to the steering control.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 58,
+   "paragraph": "Annex 4 4.2.2.1"
+  }
+ },
+ {
+  "id": "R-0477",
+  "text": "The manufacturer shall declare any other relevant conditions to be met for correct execution of each test.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 58,
+   "paragraph": "Annex 4 4.2.2.1"
+  }
+ },
+ {
+  "id": "R-0478",
+  "text": "Where base tests are required to be performed on a curved section of road, the geometry shall fulfil the following criteria (S-bend means both turns in the listed order, curved section of the road means the 2nd turn):",
+  "source": {
+   "regulation": "UN R171",
+   "page": 58,
+   "paragraph": "Annex 4 4.2.4.1"
+  }
+ },
+ {
+  "id": "R-0479",
+  "text": "At the time of type approval, the Type Approval Authority shall conduct or shall witness at least the following tests to assess the behaviour of the system based on the declared operating domains:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 59,
+   "paragraph": "Annex 4 4.2.5"
+  }
+ },
+ {
+  "id": "R-0480",
+  "text": "The test shall confirm positioning in the lane of travel capabilities declared by the manufacturer.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 59,
+   "paragraph": "Annex 4 4.2.5.1.1.1"
+  }
+ },
+ {
+  "id": "R-0481",
+  "text": "The VUT speed shall remain in the range declared by the manufacturer in paragraphs 9.1.1. and 9.1.2. of this UN Regulation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 59,
+   "paragraph": "Annex 4 4.2.5.1.1.1.1"
+  }
+ },
+ {
+  "id": "R-0482",
+  "text": "The test shall be carried out for each speed range declared by the manufacturer in paragraphs 9.1.1. and 9.1.2. of this UN Regulation separately or within contiguous speed ranges where the declared maximum lateral acceleration is identical.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 59,
+   "paragraph": "Annex 4 4.2.5.1.1.1.1"
+  }
+ },
+ {
+  "id": "R-0483",
+  "text": "The VUT shall be driven without any force applied by the driver on the steering control (e.g. by removing the hands from the steering control) with a constant speed on a curved track with lane markings at each side.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 59,
+   "paragraph": "Annex 4 4.2.5.1.1.1.1"
+  }
+ },
+ {
+  "id": "R-0484",
+  "text": "The necessary lateral acceleration to follow the curve shall be between 80 and 90 per cent of the maximum lateral acceleration declared by the manufacturer in Annex 3 Appendix 4 of this UN Regulation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 59,
+   "paragraph": "Annex 4 4.2.5.1.1.1.1"
+  }
+ },
+ {
+  "id": "R-0485",
+  "text": "The VUT speed shall remain in the range declared by the manufacturer in paragraphs 9.1.1. and 9.1.2. of this UN Regulation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 59,
+   "paragraph": "Annex 4 4.2.5.1.1.1.2"
+  }
+ },
+ {
+  "id": "R-0486",
+  "text": "The test shall be carried out for each speed range declared by the manufacturer in paragraphs 9.1.1. and 9.1.2. of this UN Regulation separately or within contiguous speed ranges where the declared maximum lateral acceleration is identical.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 59,
+   "paragraph": "Annex 4 4.2.5.1.1.1.2"
+  }
+ },
+ {
+  "id": "R-0487",
+  "text": "The VUT shall be driven without any force applied by the driver on the steering control (e.g. by removing the hands from the steering control) with a constant speed on a curved track with lane markings at each side.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 59,
+   "paragraph": "Annex 4 4.2.5.1.1.1.2"
+  }
+ },
+ {
+  "id": "R-0488",
+  "text": "The Type Approval Authority shall define a test speed and a radius which would provoke a higher acceleration than the declared maximum lateral acceleration + 0.3 m/s2 (e.g. by travelling with a higher speed through a curve with a given radius).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 59,
+   "paragraph": "Annex 4 4.2.5.1.1.1.2"
+  }
+ },
+ {
+  "id": "R-0489",
+  "text": "The test shall demonstrate that the system does not leave its lane and maintains a stable motion inside its ego lane across the speed range and different curvatures within its system boundaries up to the maximum lateral acceleration declared by the manufacturer.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 60,
+   "paragraph": "Annex 4 4.2.5.1.1.2"
+  }
+ },
+ {
+  "id": "R-0490",
+  "text": "The test shall be executed at least:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 60,
+   "paragraph": "Annex 4 4.2.5.1.1.2.1"
+  }
+ },
+ {
+  "id": "R-0491",
+  "text": "The test shall confirm the driver-initiated lane changing capabilities of the system declared by the manufacturer.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 60,
+   "paragraph": "Annex 4 4.2.5.1.2.1"
+  }
+ },
+ {
+  "id": "R-0492",
+  "text": "The VUT shall perform a full lane change (e.g., 3.5 m lateral displacement) into the adjacent lane after the driver initiated the LCP.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 60,
+   "paragraph": "Annex 4 4.2.5.1.2.1.1"
+  }
+ },
+ {
+  "id": "R-0493",
+  "text": "The test shall assess the system’s ability to assist the driver within its boundary conditions/manufacturer’s declared system features in changing lanes safely:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 60,
+   "paragraph": "Annex 4 4.2.5.1.2.2"
+  }
+ },
+ {
+  "id": "R-0494",
+  "text": "The test shall be executed at least:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 60,
+   "paragraph": "Annex 4 4.2.5.1.2.2.1"
+  }
+ },
+ {
+  "id": "R-0495",
+  "text": "The test shall confirm system-initiated lane changing capabilities declared by the manufacturer.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 61,
+   "paragraph": "Annex 4 4.2.5.1.3.1"
+  }
+ },
+ {
+  "id": "R-0496",
+  "text": "The VUT shall perform a full lane change (e.g., 3.5 m lateral displacement) into the adjacent lane after the system has initiated the LCP.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 61,
+   "paragraph": "Annex 4 4.2.5.1.3.1.1"
+  }
+ },
+ {
+  "id": "R-0497",
+  "text": "The VUT and the lead vehicle shall travel in a straight line, in the same direction, for at least two seconds prior to the functional part of the test with a VUT to lead vehicle centreline offset of not more than 1 m.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 61,
+   "paragraph": "Annex 4 4.2.5.1.3.1.2"
+  }
+ },
+ {
+  "id": "R-0498",
+  "text": "The test shall demonstrate that the system is able to assist the driver in changing lanes safely:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 61,
+   "paragraph": "Annex 4 4.2.5.1.3.2"
+  }
+ },
+ {
+  "id": "R-0499",
+  "text": "The test shall be executed at least:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 61,
+   "paragraph": "Annex 4 4.2.5.1.3.2.1"
+  }
+ },
+ {
+  "id": "R-0500",
+  "text": "The test shall confirm the declared response capability of the system for a stationary vehicle ahead on straight section of road.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 61,
+   "paragraph": "Annex 4 4.2.5.2.1.1"
+  }
+ },
+ {
+  "id": "R-0501",
+  "text": "The VUT shall approach the stationary target in a straight line for at least 2 seconds prior to the functional part of the test with a VUT to target centreline offset of not more than 0.5 m.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 61,
+   "paragraph": "Annex 4 4.2.5.2.1.1.1"
+  }
+ },
+ {
+  "id": "R-0502",
+  "text": "The functional part of the test shall begin with:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 61,
+   "paragraph": "Annex 4 4.2.5.2.1.1.2"
+  }
+ },
+ {
+  "id": "R-0503",
+  "text": "The tolerances shall be respected between the start of the functional part of the test and the system intervention.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 61,
+   "paragraph": "Annex 4 4.2.5.2.1.1.2"
+  }
+ },
+ {
+  "id": "R-0504",
+  "text": "The test shall demonstrate that the system is not unreasonably changing the control strategy for a stationary vehicle ahead on straight section of road.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 62,
+   "paragraph": "Annex 4 4.2.5.2.1.3"
+  }
+ },
+ {
+  "id": "R-0505",
+  "text": "The test shall be executed at least with:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 62,
+   "paragraph": "Annex 4 4.2.5.2.1.3.1"
+  }
+ },
+ {
+  "id": "R-0506",
+  "text": "The test shall confirm the declared response capability of the system for a stationary vehicle ahead on curved section of road.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 62,
+   "paragraph": "Annex 4 4.2.5.2.2.1"
+  }
+ },
+ {
+  "id": "R-0507",
+  "text": "The target shall be positioned within a 0.5 m offset between the centreline of the target vehicle and the centreline of the lane around the bend (1st turn defined in 4.2.4.1. of this Annex) so that the rear corner is touching the extrapolated lane line if the straight were to continue.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 62,
+   "paragraph": "Annex 4 4.2.5.2.2.1.1"
+  }
+ },
+ {
+  "id": "R-0508",
+  "text": "The VUT vehicle shall be driven along the straight section of the fully marked lane at a constant speed with the system on for enough time for the lateral control to take up a constant position within the lane, prior to the start of the curved section of road.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 62,
+   "paragraph": "Annex 4 4.2.5.2.2.1.2"
+  }
+ },
+ {
+  "id": "R-0509",
+  "text": "The test shall demonstrate that the system is not unreasonably changing the control strategy for a stationary vehicle ahead on curved section of road.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 63,
+   "paragraph": "Annex 4 4.2.5.2.2.2"
+  }
+ },
+ {
+  "id": "R-0510",
+  "text": "The test shall be executed at least with:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 63,
+   "paragraph": "Annex 4 4.2.5.2.2.2.1"
+  }
+ },
+ {
+  "id": "R-0511",
+  "text": "The test shall confirm the declared response capability of the system for a slower moving vehicle ahead on a straight section of road.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 63,
+   "paragraph": "Annex 4 4.2.5.2.3.1"
+  }
+ },
+ {
+  "id": "R-0512",
+  "text": "The VUT and the target shall travel in a straight line, in the same direction, for at least two seconds prior to the functional part of the test with a VUT to target centreline offset of not more than 0.5 m.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 63,
+   "paragraph": "Annex 4 4.2.5.2.3.1.1"
+  }
+ },
+ {
+  "id": "R-0513",
+  "text": "The tests shall be conducted with a slower moving vehicle target travelling 50 km/h slower than the VUT.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 63,
+   "paragraph": "Annex 4 4.2.5.2.3.1.2"
+  }
+ },
+ {
+  "id": "R-0514",
+  "text": "The test shall demonstrate that the system is not unreasonably changing the control strategy for a slower moving vehicle ahead on straight section of road.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 63,
+   "paragraph": "Annex 4 4.2.5.2.3.2"
+  }
+ },
+ {
+  "id": "R-0515",
+  "text": "The test shall be executed at least:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 63,
+   "paragraph": "Annex 4 4.2.5.2.3.2.1"
+  }
+ },
+ {
+  "id": "R-0516",
+  "text": "The test shall confirm the declared response capability of the system for a decelerating vehicle on a straight section of road.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 63,
+   "paragraph": "Annex 4 4.2.5.2.4.1"
+  }
+ },
+ {
+  "id": "R-0517",
+  "text": "The VUT and the target shall travel in a straight line with 50 km/h speed, in the same direction, with the VUT following the target with a steady state following time gap maintained by the system, for at least two seconds prior to the functional part of the test, with a VUT to target centreline offset of not more than 0.5 m.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 63,
+   "paragraph": "Annex 4 4.2.5.2.4.1.1"
+  }
+ },
+ {
+  "id": "R-0518",
+  "text": "The tests shall be conducted with a vehicle target decelerating up to 4 m/s2 .",
+  "source": {
+   "regulation": "UN R171",
+   "page": 64,
+   "paragraph": "Annex 4 4.2.5.2.4.1.2"
+  }
+ },
+ {
+  "id": "R-0519",
+  "text": "The test shall demonstrate that the system is not unreasonably changing the control strategy for a decelerating vehicle on a straight section of road.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 64,
+   "paragraph": "Annex 4 4.2.5.2.4.2"
+  }
+ },
+ {
+  "id": "R-0520",
+  "text": "The test shall be executed at least with:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 64,
+   "paragraph": "Annex 4 4.2.5.2.4.2.1"
+  }
+ },
+ {
+  "id": "R-0521",
+  "text": "The test shall confirm the declared response capability of the system for a cut-out of the lead M1 category vehicle.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 64,
+   "paragraph": "Annex 4 4.2.5.2.5.1"
+  }
+ },
+ {
+  "id": "R-0522",
+  "text": "The vehicle cutting out shall perform a full lane change (e.g., 3.5 m lateral displacement) into the adjacent lane to avoid the stationary vehicle target, with the measurement behind the stationary vehicle target indicating that start of the lane change, and the measurement in front of the stationary vehicle target indicating the end of the lane change.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 64,
+   "paragraph": "Annex 4 4.2.5.2.5.1.1"
+  }
+ },
+ {
+  "id": "R-0523",
+  "text": "The cutting out vehicle shall not deviate from its defined path by more than ±0.2 m.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 64,
+   "paragraph": "Annex 4 4.2.5.2.5.1.3"
+  }
+ },
+ {
+  "id": "R-0524",
+  "text": "The test shall demonstrate that the system is not unreasonably changing the control strategy for a cut-out of the lead vehicle.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 65,
+   "paragraph": "Annex 4 4.2.5.2.5.2"
+  }
+ },
+ {
+  "id": "R-0525",
+  "text": "The test shall be executed at least with:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 65,
+   "paragraph": "Annex 4 4.2.5.2.5.2.1"
+  }
+ },
+ {
+  "id": "R-0526",
+  "text": "The test shall confirm the declared response capability of the system for a cut-in of the vehicle from adjacent lane.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 65,
+   "paragraph": "Annex 4 4.2.5.2.6.1"
+  }
+ },
+ {
+  "id": "R-0527",
+  "text": "The vehicle target on the adjacent lane shall perform a full lane change (e.g., 3.5 m lateral displacement) into the lane of the VUT.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 65,
+   "paragraph": "Annex 4 4.2.5.2.6.1.1"
+  }
+ },
+ {
+  "id": "R-0528",
+  "text": "The cutting in vehicle shall not deviate from its defined path by more than ±0.2 m.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 65,
+   "paragraph": "Annex 4 4.2.5.2.6.1.3"
+  }
+ },
+ {
+  "id": "R-0529",
+  "text": "The test shall demonstrate that the system is not unreasonably changing the control strategy for a cut-in of vehicle from adjacent lane.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 66,
+   "paragraph": "Annex 4 4.2.5.2.6.2"
+  }
+ },
+ {
+  "id": "R-0530",
+  "text": "The test shall be executed at least with:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 66,
+   "paragraph": "Annex 4 4.2.5.2.6.2.1"
+  }
+ },
+ {
+  "id": "R-0531",
+  "text": "The test shall confirm the declared response capability of the system for a stationary pedestrian.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 66,
+   "paragraph": "Annex 4 4.2.5.2.7.1"
+  }
+ },
+ {
+  "id": "R-0532",
+  "text": "The pedestrian target shall be positioned within the driving path of the VUT facing away from the VUT.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 66,
+   "paragraph": "Annex 4 4.2.5.2.7.1.1"
+  }
+ },
+ {
+  "id": "R-0533",
+  "text": "The VUT shall approach the impact point with the pedestrian target in a straight line for at least two seconds prior to the functional part of the test.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 66,
+   "paragraph": "Annex 4 4.2.5.2.7.1.2"
+  }
+ },
+ {
+  "id": "R-0534",
+  "text": "The test shall demonstrate that the system is not unreasonably changing the control strategy for a stationary pedestrian.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 66,
+   "paragraph": "Annex 4 4.2.5.2.7.2"
+  }
+ },
+ {
+  "id": "R-0535",
+  "text": "The test shall be executed at least with:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 66,
+   "paragraph": "Annex 4 4.2.5.2.7.2.1"
+  }
+ },
+ {
+  "id": "R-0536",
+  "text": "The test shall confirm the declared response capability of the system for a stationary target and any lateral movement navigating around the target, if applicable.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 67,
+   "paragraph": "Annex 4 4.2.5.2.8.1"
+  }
+ },
+ {
+  "id": "R-0537",
+  "text": "The bicycle target shall be positioned within the driving path of the VUT facing away from the subject vehicle.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 67,
+   "paragraph": "Annex 4 4.2.5.2.8.1.1"
+  }
+ },
+ {
+  "id": "R-0538",
+  "text": "The VUT shall approach the impact point with the bicycle target in a straight line for at least two seconds prior to the functional part of the test.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 67,
+   "paragraph": "Annex 4 4.2.5.2.8.1.2"
+  }
+ },
+ {
+  "id": "R-0539",
+  "text": "The test shall demonstrate that the system is not unreasonably changing the control strategy for a stationary bicycle.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 67,
+   "paragraph": "Annex 4 4.2.5.2.8.2"
+  }
+ },
+ {
+  "id": "R-0540",
+  "text": "The test shall be executed at least with:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 67,
+   "paragraph": "Annex 4 4.2.5.2.8.2.1"
+  }
+ },
+ {
+  "id": "R-0541",
+  "text": "The test shall confirm the declared response capability of the system for a crossing pedestrian target.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 67,
+   "paragraph": "Annex 4 4.2.5.2.9.1"
+  }
+ },
+ {
+  "id": "R-0542",
+  "text": "The functional part of the test shall start with:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 67,
+   "paragraph": "Annex 4 4.2.5.2.9.1.1"
+  }
+ },
+ {
+  "id": "R-0543",
+  "text": "The tolerances shall be respected between the start of the functional part of the test and the system intervention.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 67,
+   "paragraph": "Annex 4 4.2.5.2.9.1.2"
+  }
+ },
+ {
+  "id": "R-0544",
+  "text": "The pedestrian target shall travel in a straight line perpendicular to the VUT’s direction of travel at a constant speed of 5 km/h +0/-0.4 km/h, starting not before the functional part of the test has started.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 67,
+   "paragraph": "Annex 4 4.2.5.2.9.1.3"
+  }
+ },
+ {
+  "id": "R-0545",
+  "text": "The pedestrian target’s positioning shall be coordinated with the VUT in such a way that the impact point of the pedestrian target on the front of the VUT is on the longitudinal centreline of the VUT with a tolerance of not more than 0.2 m, if the VUT would remain at the prescribed test speed throughout the functional part of the test and does not brake.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 67,
+   "paragraph": "Annex 4 4.2.5.2.9.1.3"
+  }
+ },
+ {
+  "id": "R-0546",
+  "text": "The test shall demonstrate that the system is not unreasonably changing the control strategy for a crossing pedestrian target.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 68,
+   "paragraph": "Annex 4 4.2.5.2.9.2"
+  }
+ },
+ {
+  "id": "R-0547",
+  "text": "The test shall be executed at least:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 68,
+   "paragraph": "Annex 4 4.2.5.2.9.2.1"
+  }
+ },
+ {
+  "id": "R-0548",
+  "text": "The test shall confirm the declared response capability of the system for a crossing bicycle target.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 68,
+   "paragraph": "Annex 4 4.2.5.2.10.1"
+  }
+ },
+ {
+  "id": "R-0549",
+  "text": "The bicycle target shall travel in a straight line perpendicular to the VUT’s direction of travel at a constant speed of 15 km/h +0/-1 km/h, starting not before the functional part of the test has started.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 68,
+   "paragraph": "Annex 4 4.2.5.2.10.1.1"
+  }
+ },
+ {
+  "id": "R-0550",
+  "text": "During the acceleration phase of the bicycle target prior to the functional part of the test the bicycle target shall be obstructed.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 68,
+   "paragraph": "Annex 4 4.2.5.2.10.1.1"
+  }
+ },
+ {
+  "id": "R-0551",
+  "text": "The bicycle target’s positioning shall be coordinated with the VUT in such a way that the impact point of the bicycle target on the front of the VUT is on the longitudinal centreline of the VUT with a tolerance of not more than 0.2 m, if the VUT would remain at the prescribed test speed throughout the functional part of the test and does not brake.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 68,
+   "paragraph": "Annex 4 4.2.5.2.10.1.1"
+  }
+ },
+ {
+  "id": "R-0552",
+  "text": "The test shall demonstrate that the system is not unreasonably changing the control strategy for a crossing bicycle target.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 68,
+   "paragraph": "Annex 4 4.2.5.2.10.2"
+  }
+ },
+ {
+  "id": "R-0553",
+  "text": "The test shall be executed at least with:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 68,
+   "paragraph": "Annex 4 4.2.5.2.10.2.1"
+  }
+ },
+ {
+  "id": "R-0554",
+  "text": "The test shall confirm the declared response capability of the system for a crossing pedestrian target in an intersection.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 69,
+   "paragraph": "Annex 4 4.2.5.2.11.1"
+  }
+ },
+ {
+  "id": "R-0555",
+  "text": "The functional part of the test shall start with:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 69,
+   "paragraph": "Annex 4 4.2.5.2.11.1.1"
+  }
+ },
+ {
+  "id": "R-0556",
+  "text": "The tolerances shall be respected between the start of the functional part of the test and the system intervention.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 69,
+   "paragraph": "Annex 4 4.2.5.2.11.1.3"
+  }
+ },
+ {
+  "id": "R-0557",
+  "text": "The pedestrian target shall travel in a straight line at a constant speed of 5 km/h +0/-0.4 km/h, starting not before the functional part of the test has started.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 69,
+   "paragraph": "Annex 4 4.2.5.2.11.1.4"
+  }
+ },
+ {
+  "id": "R-0558",
+  "text": "The pedestrian target’s positioning shall be coordinated with the VUT in such a way that the impact point of the pedestrian target on the front of the VUT is on the longitudinal centreline of the VUT with a tolerance of not more than 0.2 m, if the VUT would remain at the prescribed test speed throughout the functional part of the test and does not brake.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 69,
+   "paragraph": "Annex 4 4.2.5.2.11.1.4"
+  }
+ },
+ {
+  "id": "R-0559",
+  "text": "The test run shall be executed with the pedestrian target moving parallel to the near side from the VUT according to the diagram below.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 69,
+   "paragraph": "Annex 4 4.2.5.2.11.1.5"
+  }
+ },
+ {
+  "id": "R-0560",
+  "text": "The test shall demonstrate that the system is not unreasonably changing the control strategy for a crossing pedestrian target in an intersection.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 69,
+   "paragraph": "Annex 4 4.2.5.2.11.2"
+  }
+ },
+ {
+  "id": "R-0561",
+  "text": "Up to four different scenarios shall be executed far and near side with the pedestrian target moving at both sides of the road.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 69,
+   "paragraph": "Annex 4 4.2.5.2.11.2"
+  }
+ },
+ {
+  "id": "R-0562",
+  "text": "The test shall be executed at least with:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 69,
+   "paragraph": "Annex 4 4.2.5.2.11.2.1"
+  }
+ },
+ {
+  "id": "R-0563",
+  "text": "The test shall confirm the declared response capability of the system for a crossing bicycle target in an intersection.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 70,
+   "paragraph": "Annex 4 4.2.5.2.12.1"
+  }
+ },
+ {
+  "id": "R-0564",
+  "text": "The bicycle target shall travel in a straight line perpendicular to the VUT’s direction of travel at a constant speed of 15 km/h +0/-1 km/h, starting not before the functional part of the test has started.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 70,
+   "paragraph": "Annex 4 4.2.5.2.12.1.1"
+  }
+ },
+ {
+  "id": "R-0565",
+  "text": "During the acceleration phase of the bicycle target prior to the functional part of the test the bicycle target shall be obstructed.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 70,
+   "paragraph": "Annex 4 4.2.5.2.12.1.1"
+  }
+ },
+ {
+  "id": "R-0566",
+  "text": "The bicycle target’s positioning shall be coordinated with the VUT in such a way that the impact point of the bicycle target on the front of the VUT is on the longitudinal centreline offset of not more than 0.2 m, if the VUT would remain at the prescribed test speed throughout the functional part of the test and does not brake.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 70,
+   "paragraph": "Annex 4 4.2.5.2.12.1.1"
+  }
+ },
+ {
+  "id": "R-0567",
+  "text": "The test shall demonstrate that the system is not unreasonably changing the control strategy for a crossing bicycle target in an intersection.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 70,
+   "paragraph": "Annex 4 4.2.5.2.12.2"
+  }
+ },
+ {
+  "id": "R-0568",
+  "text": "The test shall be executed at least with:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 70,
+   "paragraph": "Annex 4 4.2.5.2.12.2.1"
+  }
+ },
+ {
+  "id": "R-0569",
+  "text": "The test shall confirm the declared response capability of the system for an oncoming vehicle target while the VUT is turning in an intersection.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 70,
+   "paragraph": "Annex 4 4.2.5.2.13.1"
+  }
+ },
+ {
+  "id": "R-0570",
+  "text": "The VUT shall approach the impact point with another vehicle (passenger car or motorcycle) target in an initial straight line followed by a turn in an intersection to cross front edges of a target vehicle with a lateral position that gives a 50 per cent overlap of the width of the VUT. 4.2.5.2.14.1.2.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 70,
+   "paragraph": "Annex 4 4.2.5.2.13.1.1"
+  }
+ },
+ {
+  "id": "R-0571",
+  "text": "The target shall approach at a speed of up to 60 km/h, depending on the declared system boundaries.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 70,
+   "paragraph": "Annex 4 4.2.5.2.13.1.1"
+  }
+ },
+ {
+  "id": "R-0572",
+  "text": "The test shall demonstrate that the system is not unreasonably changing the control strategy for an oncoming vehicle target while the VUT is turning in an intersection.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 71,
+   "paragraph": "Annex 4 4.2.5.2.13.2"
+  }
+ },
+ {
+  "id": "R-0573",
+  "text": "The test shall be executed at least with:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 71,
+   "paragraph": "Annex 4 4.2.5.2.13.2.1"
+  }
+ },
+ {
+  "id": "R-0574",
+  "text": "The test shall confirm the declared response capability of the system to recognize and offer right of way for a crossing vehicle target driving straight in an intersection.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 71,
+   "paragraph": "Annex 4 4.2.5.2.14.1"
+  }
+ },
+ {
+  "id": "R-0575",
+  "text": "The VUT shall approach the impact point with another vehicle (passenger car or motorcycle) target in an initial straight line in an intersection from either the near side or far side direction to collide the side of the target vehicle at 25 per cent along the length of the target with the centre front of the VUT.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 71,
+   "paragraph": "Annex 4 4.2.5.2.14.1.1"
+  }
+ },
+ {
+  "id": "R-0576",
+  "text": "The target shall approach at a speed of up to 60 km/h, depending on the declared system boundaries.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 71,
+   "paragraph": "Annex 4 4.2.5.2.14.1.2"
+  }
+ },
+ {
+  "id": "R-0577",
+  "text": "The test shall demonstrate that the system is not unreasonably changing the control strategy for a crossing vehicle target driving straight in an intersection.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 73,
+   "paragraph": "Annex 4 4.2.5.2.14.2"
+  }
+ },
+ {
+  "id": "R-0578",
+  "text": "The test shall be executed at least with:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 73,
+   "paragraph": "Annex 4 4.2.5.2.14.2.1"
+  }
+ },
+ {
+  "id": "R-0579",
+  "text": "The test shall confirm the declared response capability of the system for a vehicle approaching from the opposite direction in the adjacent lane during a system-initiated manoeuvre around an obstruction in the lane.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 73,
+   "paragraph": "Annex 4 4.2.5.2.15.1"
+  }
+ },
+ {
+  "id": "R-0580",
+  "text": "The VUT shall travel in a straight line in the lane at constant speed before it performs a driving around manoeuvre into the adjacent lane by driving around a static target, while another vehicle is approaching from the opposite direction at a constant speed in the adjacent lane.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 73,
+   "paragraph": "Annex 4 4.2.5.2.15.1.1"
+  }
+ },
+ {
+  "id": "R-0581",
+  "text": "The moving target shall travel toward the VUT at least 30 km/h in the adjacent lane.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 73,
+   "paragraph": "Annex 4 4.2.5.2.15.1.2"
+  }
+ },
+ {
+  "id": "R-0582",
+  "text": "A static target shall be placed in front of the VUT with 50% overlap towards the edge of the road.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 73,
+   "paragraph": "Annex 4 4.2.5.2.15.1.2"
+  }
+ },
+ {
+  "id": "R-0583",
+  "text": "The VUT shall travel at least 30 km/h in a straight line and the VUT and the moving vehicle target shall be synchronized to reach the static target at the same time.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 73,
+   "paragraph": "Annex 4 4.2.5.2.15.1.2"
+  }
+ },
+ {
+  "id": "R-0584",
+  "text": "The VUT shall approach the static target with system-initiated manoeuvring activated.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 73,
+   "paragraph": "Annex 4 4.2.5.2.15.1.3"
+  }
+ },
+ {
+  "id": "R-0585",
+  "text": "The VUT shall avoid collision with the targets.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 73,
+   "paragraph": "Annex 4 4.2.5.2.15.1.3"
+  }
+ },
+ {
+  "id": "R-0586",
+  "text": "The test shall demonstrate that the system is not unreasonably changing the control strategy for a system-initiated manoeuvre around an obstruction in the lane.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 74,
+   "paragraph": "Annex 4 4.2.5.2.15.2"
+  }
+ },
+ {
+  "id": "R-0587",
+  "text": "The test shall be executed at least, with:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 74,
+   "paragraph": "Annex 4 4.2.5.2.15.2.1"
+  }
+ },
+ {
+  "id": "R-0588",
+  "text": "The location and selection of the test route, time-of-day and environmental conditions shall be determined by the Type Approval Authority.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 74,
+   "paragraph": "Annex 4 4.3.1"
+  }
+ },
+ {
+  "id": "R-0589",
+  "text": "Public road verification shall cover different time-of-day and light intensity according to the system boundaries.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 74,
+   "paragraph": "Annex 4 4.3.1"
+  }
+ },
+ {
+  "id": "R-0590",
+  "text": "They shall include scenarios in which the system is expected to experience challenging scenarios (e.g. tight curvatures, speed changes caused by variable infrastructural and traffic conditions, variable lead vehicle behaviour, variable road speed limits) and to approach the limits of its declared system boundaries (e.g. changes in visibility or road conditions, planned or sudden end of system boundaries).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 74,
+   "paragraph": "Annex 4 4.3.1"
+  }
+ },
+ {
+  "id": "R-0591",
+  "text": "The duration of public road tests shall be such that allows the recording and assessment of the system operation according to all relevant parts of the specification described in paragraphs 5. and 6., excluding safety critical and failure related scenarios.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 74,
+   "paragraph": "Annex 4 4.3.2"
+  }
+ },
+ {
+  "id": "R-0592",
+  "text": "Public road verification shall include the test scenarios in the table below to assess the behaviour of the system under normal real-world operating conditions.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 74,
+   "paragraph": "Annex 4 4.3.3.1"
+  }
+ },
+ {
+  "id": "R-0593",
+  "text": "The routing shall be planned such that it incorporates the test scenarios, which are relevant according to the declaration of the manufacturer in Annex 3 of this UN regulation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 74,
+   "paragraph": "Annex 4 4.3.3.1"
+  }
+ },
+ {
+  "id": "R-0594",
+  "text": "The test plan created by the Type Approval Authority shall cover the scenarios to assess the specific capability in a variety of circumstances.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 74,
+   "paragraph": "Annex 4 4.3.3.1"
+  }
+ },
+ {
+  "id": "R-0595",
+  "text": "Evidence of the system’s behaviour in any type of scenario which are relevant according to the declaration of the manufacturer in Annex 3 of this UN Regulation shall be additionally provided by the manufacturer (e.g., based on virtual testing).",
+  "source": {
+   "regulation": "UN R171",
+   "page": 74,
+   "paragraph": "Annex 4 4.3.3.2"
+  }
+ },
+ {
+  "id": "R-0596",
+  "text": "For any other relevant types of scenarios according to the system capability and system boundaries declared by the manufacturer according to Annex 3 that could not be encountered during the public road tests, the manufacturer shall provide appropriate evidence from the manufacturer’s internal system validation to the satisfaction of the Type Approval Authority.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 75,
+   "paragraph": "Annex 4 4.3.4"
+  }
+ },
+ {
+  "id": "R-0597",
+  "text": "The verification drive shall be recorded and, if necessary, the test vehicle instrumented with additional nonperturbing equipment.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 75,
+   "paragraph": "Annex 4 4.3.5"
+  }
+ },
+ {
+  "id": "R-0598",
+  "text": "Information obtained through DETA for the purpose of the information sharing scheme which is defined in this UN Regulation shall be protected in a secure manner.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 84,
+   "paragraph": "Annex 5 5"
+  }
+ },
+ {
+  "id": "R-0599",
+  "text": "This information shall not be used for purposes other than preventing negative consequences of DCAS operation.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 84,
+   "paragraph": "Annex 5 5"
+  }
+ },
+ {
+  "id": "R-0600",
+  "text": "The notifying authority shall proceed as follows:",
+  "source": {
+   "regulation": "UN R171",
+   "page": 84,
+   "paragraph": "Annex 5 6"
+  }
+ },
+ {
+  "id": "R-0601",
+  "text": "(b) All required information referred to in UN Regulation No. 171, paragraph 7.2.2.2. shall be put together as one or more pdf files.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 84,
+   "paragraph": "Annex 5 6"
+  }
+ },
+ {
+  "id": "R-0602",
+  "text": "These files shall be uploaded to the type-approval number concerned as document parts of the type \"OTHER\".",
+  "source": {
+   "regulation": "UN R171",
+   "page": 84,
+   "paragraph": "Annex 5 6"
+  }
+ },
+ {
+  "id": "R-0603",
+  "text": "The notifying authority shall complete the actions of paragraph 6(b) and (c) as soon as possible but at least within 14 days on receiving the information on the remedial action from the manufacturer.",
+  "source": {
+   "regulation": "UN R171",
+   "page": 85,
+   "paragraph": "Annex 5 7"
+  }
+ }
+]

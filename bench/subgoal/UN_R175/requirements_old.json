@@ -1,0 +1,1370 @@
+[
+ {
+  "id": "R-0001",
+  "text": "The application for approval of a vehicle type with regard to the ACPE shall be submitted by the vehicle manufacturer or by his authorized representative.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 3,
+   "paragraph": "3.1"
+  }
+ },
+ {
+  "id": "R-0002",
+  "text": "It shall be accompanied by the documents mentioned below in triplicate:",
+  "source": {
+   "regulation": "UN R175",
+   "page": 3,
+   "paragraph": "3.2"
+  }
+ },
+ {
+  "id": "R-0003",
+  "text": "The numbers and/or symbols identifying the vehicle type shall be specified.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 3,
+   "paragraph": "3.3"
+  }
+ },
+ {
+  "id": "R-0004",
+  "text": "A vehicle representative of the vehicle type to be approved shall be submitted to the Technical Service conducting the approval tests.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 3,
+   "paragraph": "3.4"
+  }
+ },
+ {
+  "id": "R-0005",
+  "text": "If the vehicle type submitted for approval pursuant to this Regulation meets the requirements of paragraph 5. below, approval of that vehicle type shall be granted.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 3,
+   "paragraph": "4.1"
+  }
+ },
+ {
+  "id": "R-0006",
+  "text": "An approval number shall be assigned to each vehicle type approved; its first two digits (00 for the Regulation in its initial form) shall indicate the series of amendments incorporating the most recent major technical amendments made to the Regulation at the time of issue of the approval.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 3,
+   "paragraph": "4.2"
+  }
+ },
+ {
+  "id": "R-0007",
+  "text": "The same Contracting Party shall not assign the same number to the same vehicle type equipped with another type of ACPE, or to another vehicle type.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 3,
+   "paragraph": "4.2"
+  }
+ },
+ {
+  "id": "R-0008",
+  "text": "Notice of approval or of refusal or withdrawal of approval pursuant to this Regulation shall be communicated to the Parties to the Agreement applying this Regulation by means of a form conforming to the model in Annex 1 and photographs and/or plans supplied by the applicant being in a format not exceeding A4 (210 x 297 mm), or folded to that format, and on an appropriate scale.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 3,
+   "paragraph": "4.3"
+  }
+ },
+ {
+  "id": "R-0009",
+  "text": "There shall be affixed, conspicuously and in a readily accessible place specified on the approval form, to every vehicle conforming to a vehicle type approved under this Regulation, an international approval mark conforming to the model described in Annex2, consisting of:",
+  "source": {
+   "regulation": "UN R175",
+   "page": 3,
+   "paragraph": "4.4"
+  }
+ },
+ {
+  "id": "R-0010",
+  "text": "If the vehicle conforms to a vehicle type approved under one or more other Regulations annexed to the Agreement, in the country which has granted approval under this Regulation, the symbol prescribed in paragraph 4.4.1. above need not be repeated; in such a case, the Regulation and approval numbers and the additional symbols shall be placed in vertical columns to the right of the symbol prescribed in paragraph 4.4.1. above.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 3,
+   "paragraph": "4.5"
+  }
+ },
+ {
+  "id": "R-0011",
+  "text": "The approval mark shall be clearly legible and be indelible.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 4,
+   "paragraph": "4.6"
+  }
+ },
+ {
+  "id": "R-0012",
+  "text": "The approval mark shall be placed close to or on the vehicle data plate.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 4,
+   "paragraph": "4.7"
+  }
+ },
+ {
+  "id": "R-0013",
+  "text": "Performance Requirements The following performance requirements shall apply to a vehicle with no trailer coupled, with a mass between maximum mass and mass in running order, and whose powertrain management system is properly operational.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 4,
+   "paragraph": "5.1"
+  }
+ },
+ {
+  "id": "R-0014",
+  "text": "The ACPE shall be able to limit unintended acceleration of the vehicle when an accelerator control misapplication by the driver has been detected at least:",
+  "source": {
+   "regulation": "UN R175",
+   "page": 4,
+   "paragraph": "5.1.1"
+  }
+ },
+ {
+  "id": "R-0015",
+  "text": "An accelerator control application having a velocity of at least 400 per cent per second over a travel distance of at least 70 per cent of the total travel distance of the accelerator control, and reaching a maximum position of the accelerator control of at least 90 per cent with that velocity shall be regarded as an accelerator control misapplication in the context of the paragraph 5.1.1.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 4,
+   "paragraph": "5.1.2"
+  }
+ },
+ {
+  "id": "R-0016",
+  "text": "Notwithstanding paragraph 5.1.2., in the case of systems that implement force-based triggering of the ACPE, an accelerator control force greater than the triggering threshold shall be considered as accelerator control misapplication.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 4,
+   "paragraph": "5.1.3"
+  }
+ },
+ {
+  "id": "R-0017",
+  "text": "The manufacturer shall justify the triggering threshold to the satisfaction of the Type Approval Authority.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 4,
+   "paragraph": "5.1.3"
+  }
+ },
+ {
+  "id": "R-0018",
+  "text": "The ACPE shall control acceleration when the vehicle is accelerated from standstill.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 4,
+   "paragraph": "5.1.4"
+  }
+ },
+ {
+  "id": "R-0019",
+  "text": "If ACPE is not ready to perform an intervention 6 seconds after the initiation of the vehicle powertrain, information of this status shall be indicated to the driver.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 4,
+   "paragraph": "5.1.4.1"
+  }
+ },
+ {
+  "id": "R-0020",
+  "text": "This information shall exist until the system has been successfully initialised.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 4,
+   "paragraph": "5.1.4.1"
+  }
+ },
+ {
+  "id": "R-0021",
+  "text": "The ACPE shall limit vehicle acceleration in order to prevent or mitigate a collision with an obstacle located between 1.0 m and 1.5 m in front of or behind the vehicle, in the vehicle path, at the time the accelerator control is applied, provided:",
+  "source": {
+   "regulation": "UN R175",
+   "page": 4,
+   "paragraph": "5.1.5"
+  }
+ },
+ {
+  "id": "R-0022",
+  "text": "When conditions deviate from those listed above, the system shall not deactivate or unreasonably switch the control strategy.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 4,
+   "paragraph": "5.1.5"
+  }
+ },
+ {
+  "id": "R-0023",
+  "text": "This shall be demonstrated by the manufacturer in accordance with Annex 3 of this Regulation and, if deemed justified, may be followed by testing by the Technical Service in conditions deviating from those listed above or those in paragraph 6.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 4,
+   "paragraph": "5.1.5"
+  }
+ },
+ {
+  "id": "R-0024",
+  "text": "The rationale for and the results of this verification testing shall be appended to the test report.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 4,
+   "paragraph": "5.1.5"
+  }
+ },
+ {
+  "id": "R-0025",
+  "text": "In the case that a collision is not prevented, the collision speed shall be no greater than 8 km/h higher than the vehicle speed at the point where the triggering conditions specified in paragraph 5.1.2. are met.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 5,
+   "paragraph": "5.1.6"
+  }
+ },
+ {
+  "id": "R-0026",
+  "text": "In addition, the collision speed shall not be greater than 70% of that speed the vehicle would have had in the same position and under the same circumstances but without any ACPE intervention.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 5,
+   "paragraph": "5.1.6"
+  }
+ },
+ {
+  "id": "R-0027",
+  "text": "In the case of vehicles that do not exceed 8 km/h without ACPE in the test scenarios but for which a speed reduction of 30 per cent cannot be achieved due to a low engine power to test mass ratio, the speed reduction shall be of at least 15 per cent.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 5,
+   "paragraph": "5.1.6.1"
+  }
+ },
+ {
+  "id": "R-0028",
+  "text": "During any intervention, the vehicle acceleration shall continue to be limited by the ACPE.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 5,
+   "paragraph": "5.1.7"
+  }
+ },
+ {
+  "id": "R-0029",
+  "text": "The Manufacturer shall declare the ACPE continuation conditions to the technical service.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 5,
+   "paragraph": "5.1.7"
+  }
+ },
+ {
+  "id": "R-0030",
+  "text": "The effectiveness of ACPE shall not be adversely affected by magnetic or electrical fields.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 5,
+   "paragraph": "5.1.8"
+  }
+ },
+ {
+  "id": "R-0031",
+  "text": "This shall be demonstrated by fulfilling the technical requirements and respecting the transitional provisions of the 06 or later series of amendments to UN Regulation No. 10.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 5,
+   "paragraph": "5.1.8"
+  }
+ },
+ {
+  "id": "R-0032",
+  "text": "Conformity with the safety aspects of electronic control systems shall be shown by meeting the requirements of Annex 3.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 5,
+   "paragraph": "5.1.9"
+  }
+ },
+ {
+  "id": "R-0033",
+  "text": "The ACPE shall inform the driver of its intervention in accordance with paragraph 5.4.2.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 5,
+   "paragraph": "5.1.10"
+  }
+ },
+ {
+  "id": "R-0034",
+  "text": "The ACPE shall provide a means for the driver to interrupt its intervention.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 5,
+   "paragraph": "5.1.11.1"
+  }
+ },
+ {
+  "id": "R-0035",
+  "text": "This interruption shall be started by any intentional action which indicates that the driver has recognised the situation.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 5,
+   "paragraph": "5.1.11.1"
+  }
+ },
+ {
+  "id": "R-0036",
+  "text": "In the case of interruption by maintaining the accelerator control application, there shall be no rapid increase of acceleration.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 5,
+   "paragraph": "5.1.11.2"
+  }
+ },
+ {
+  "id": "R-0037",
+  "text": "The fulfilment of these requirements shall be documented and demonstrated by the manufacturer to the Approval Authority during the inspection of the safety concept as part of the assessment to Annex 3.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 5,
+   "paragraph": "5.1.11.3"
+  }
+ },
+ {
+  "id": "R-0038",
+  "text": "The performance requirements shall be verified using the test procedure as described in section 6.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 5,
+   "paragraph": "5.1.12"
+  }
+ },
+ {
+  "id": "R-0039",
+  "text": "Short term deactivation When a vehicle is equipped with a means to manually deactivate the ACPE, the ACPE shall be automatically reinstated at the initiation of any new engine start (or run cycle, as relevant).",
+  "source": {
+   "regulation": "UN R175",
+   "page": 5,
+   "paragraph": "5.2.1"
+  }
+ },
+ {
+  "id": "R-0040",
+  "text": "A deactivation warning shall be given at least at the time of deactivation.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 5,
+   "paragraph": "5.2.1"
+  }
+ },
+ {
+  "id": "R-0041",
+  "text": "However, the system shall provide information to the driver by either (a), (b) or (c):",
+  "source": {
+   "regulation": "UN R175",
+   "page": 6,
+   "paragraph": "5.2.2"
+  }
+ },
+ {
+  "id": "R-0042",
+  "text": "(a) A constant optical warning signal shall inform the driver that the ACPE has been deactivated.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 6,
+   "paragraph": "5.2.2"
+  }
+ },
+ {
+  "id": "R-0043",
+  "text": "(b) The driver shall be periodically informed that the ACPE has been deactivated.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 6,
+   "paragraph": "5.2.2"
+  }
+ },
+ {
+  "id": "R-0044",
+  "text": "In this case this information shall be given for a minimum of 10 seconds or until driver confirmation.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 6,
+   "paragraph": "5.2.2"
+  }
+ },
+ {
+  "id": "R-0045",
+  "text": "This information shall be given at least either every 7 days or every 10 engine starts (or run cycles, as relevant), not counting when a new engine start (or run cycle, as relevant) is performed automatically, e.g. the operation of a stop/start system.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 6,
+   "paragraph": "5.2.2"
+  }
+ },
+ {
+  "id": "R-0046",
+  "text": "This information shall be distinct from the failure warning signal specified in paragraph 5.4.3.; or (c) If deactivation is only for one direction of operation (forward or rearwards), as an alternative to (a) or (b), a constant optical warning shall be given when the corresponding driving direction is selected for the first time following each initiation of the powertrain.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 6,
+   "paragraph": "5.2.2"
+  }
+ },
+ {
+  "id": "R-0047",
+  "text": "The warning shall remain at least until the driving direction is changed.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 6,
+   "paragraph": "5.2.2"
+  }
+ },
+ {
+  "id": "R-0048",
+  "text": "The long-term deactivation process shall be designed in such a way that deactivation shall not be possible with less than two deliberate actions.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 6,
+   "paragraph": "5.2.2"
+  }
+ },
+ {
+  "id": "R-0049",
+  "text": "When the vehicle is equipped with a means to automatically deactivate the ACPE, for instance in situations such as carrying a bicycle rack or towing a trailer, the following conditions shall apply as appropriate:",
+  "source": {
+   "regulation": "UN R175",
+   "page": 6,
+   "paragraph": "5.2.3.1"
+  }
+ },
+ {
+  "id": "R-0050",
+  "text": "The vehicle manufacturer shall provide a list of situations and corresponding criteria where the ACPE is automatically deactivated to the technical service at the time of type-approval and it shall be annexed to the test report.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 6,
+   "paragraph": "5.2.3.1.1"
+  }
+ },
+ {
+  "id": "R-0051",
+  "text": "The ACPE shall be automatically reactivated as soon as the conditions that led to the automatic deactivation are not present anymore.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 6,
+   "paragraph": "5.2.3.1.2"
+  }
+ },
+ {
+  "id": "R-0052",
+  "text": "A deactivation warning shall be given at least at the time of deactivation unless a failure warning is given as per paragraph 5.3.3.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 6,
+   "paragraph": "5.2.3.1.3"
+  }
+ },
+ {
+  "id": "R-0053",
+  "text": "The suspension of the ACPE or the adapted control strategies shall be documented and demonstrated by the manufacturer to the Approval Authority during the inspection of the safety concept as part of the assessment to Annex 3.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 6,
+   "paragraph": "5.2.3.1.3.1"
+  }
+ },
+ {
+  "id": "R-0054",
+  "text": "A failure warning shall be given to the driver when there is a failure in the ACPE that prevents the requirements of this Regulation being met.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 6,
+   "paragraph": "5.3.1"
+  }
+ },
+ {
+  "id": "R-0055",
+  "text": "The warning shall be as specified in paragraph 5.4.3.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 6,
+   "paragraph": "5.3.1"
+  }
+ },
+ {
+  "id": "R-0056",
+  "text": "There shall not be an appreciable time interval between each ACPE self-check, and subsequently there shall not be a delay in illuminating the warning signal, in the case of an electrically detectable failure.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 7,
+   "paragraph": "5.3.2"
+  }
+ },
+ {
+  "id": "R-0057",
+  "text": "A failure warning shall also be given to the driver in the case of a detected non-electrical failure condition (e.g. sensor blindness or sensor misalignment) unless a deactivation warning is given as per paragraph 5.2.3.1.3.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 7,
+   "paragraph": "5.3.3"
+  }
+ },
+ {
+  "id": "R-0058",
+  "text": "The optical warning signals shall be visible even by daylight; the satisfactory condition of the signals must be easily verifiable by the driver from the driver's seat.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 7,
+   "paragraph": "5.4.1.1"
+  }
+ },
+ {
+  "id": "R-0059",
+  "text": "Each ACPE optical warning signal shall be activated either when the engine start (or run, as relevant) switch is turned to the \"on\" (run) position or when the engine start (or run, as relevant) switch is in a position between the \"on\" (run) and \"start\" position that is designated by the manufacturer as a check position (initial system (power-on)).",
+  "source": {
+   "regulation": "UN R175",
+   "page": 7,
+   "paragraph": "5.4.1.2"
+  }
+ },
+ {
+  "id": "R-0060",
+  "text": "Intervention warning signal An intervention warning shall be given by an optical signal.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 7,
+   "paragraph": "5.4.2"
+  }
+ },
+ {
+  "id": "R-0061",
+  "text": "In addition, a haptic or acoustic signal shall be provided to the driver, unless such a signal is already being provided by another vehicle system comprising an object detection capability (e.g. parking distance warning).",
+  "source": {
+   "regulation": "UN R175",
+   "page": 7,
+   "paragraph": "5.4.2"
+  }
+ },
+ {
+  "id": "R-0062",
+  "text": "A description of the warning indication presented to the driver shall be provided by the vehicle manufacturer at the time of type-approval and recorded in the test report.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 7,
+   "paragraph": "5.4.2"
+  }
+ },
+ {
+  "id": "R-0063",
+  "text": "Failure warning signal The failure warning shall be given by a constant yellow optical signal.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 7,
+   "paragraph": "5.4.3"
+  }
+ },
+ {
+  "id": "R-0064",
+  "text": "At a Periodic Technical Inspection, it shall be possible to confirm the correct operational status of the ACPE by a visible observation of the failure warning signal status.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 7,
+   "paragraph": "5.5.1"
+  }
+ },
+ {
+  "id": "R-0065",
+  "text": "Following a “power-ON” and any bulb check, the failure warning signal shall remain illuminated if any failure was present at the end of the previous engine start (or run, as relevant) cycle, unless this failure is detected to be no longer present.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 7,
+   "paragraph": "5.5.1"
+  }
+ },
+ {
+  "id": "R-0066",
+  "text": "At the time of type approval, the means to protect against simple unauthorised modification of the operation of the failure warning signal chosen by the manufacturer shall be confidentially outlined.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 7,
+   "paragraph": "5.5.2"
+  }
+ },
+ {
+  "id": "R-0067",
+  "text": "The test shall be performed on a flat, dry, concrete or asphalt road affording good adhesion.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 7,
+   "paragraph": "6.1.1"
+  }
+ },
+ {
+  "id": "R-0068",
+  "text": "The ambient temperature shall be between 0°C and 45°C.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 7,
+   "paragraph": "6.1.3"
+  }
+ },
+ {
+  "id": "R-0069",
+  "text": "The horizontal visibility range shall allow the target to be observed throughout the test.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 8,
+   "paragraph": "6.1.4"
+  }
+ },
+ {
+  "id": "R-0070",
+  "text": "The tests shall be performed when there is no wind liable to affect the results.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 8,
+   "paragraph": "6.1.5"
+  }
+ },
+ {
+  "id": "R-0071",
+  "text": "The speed of the vehicle shall be measured with an accuracy of +/- 0.1 km/h.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 8,
+   "paragraph": "6.2.1"
+  }
+ },
+ {
+  "id": "R-0072",
+  "text": "The position of the vehicle shall be measured with an accuracy of +/- 0.03 m.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 8,
+   "paragraph": "6.2.2"
+  }
+ },
+ {
+  "id": "R-0073",
+  "text": "The accelerator control force (if applicable) shall be measured with an accuracy of +/- 1 N.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 8,
+   "paragraph": "6.2.3"
+  }
+ },
+ {
+  "id": "R-0074",
+  "text": "The accelerator control position shall be measured with an accuracy of +/- 1%.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 8,
+   "paragraph": "6.2.4"
+  }
+ },
+ {
+  "id": "R-0075",
+  "text": "Measurements shall be recorded at a frequency of at least 100 Hz.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 8,
+   "paragraph": "6.2.5"
+  }
+ },
+ {
+  "id": "R-0076",
+  "text": "Details of the pre-test condition strategy requested by the vehicle manufacturer shall be identified and recorded in the vehicle type approval documentation.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 8,
+   "paragraph": "6.3.1"
+  }
+ },
+ {
+  "id": "R-0077",
+  "text": "Prior to any testing, it shall be ensured that the ACPE is switched on and ready to function.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 8,
+   "paragraph": "6.3.2"
+  }
+ },
+ {
+  "id": "R-0078",
+  "text": "Test mass The vehicle shall be tested:",
+  "source": {
+   "regulation": "UN R175",
+   "page": 8,
+   "paragraph": "6.3.3"
+  }
+ },
+ {
+  "id": "R-0079",
+  "text": "No alteration shall be made once the test procedure has begun.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 8,
+   "paragraph": "6.3.3"
+  }
+ },
+ {
+  "id": "R-0080",
+  "text": "The target used for the vehicle detection tests shall be a regular high-volume series production passenger car of Category M1 or alternatively a \"soft target\" representative of a passenger vehicle in terms of its identification characteristics applicable to the sensor system of the ACPE under test according to either ISO 19206-1:2018 or ISO 19206-3:2021 at the choice of the manufacturer.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 8,
+   "paragraph": "6.4.1"
+  }
+ },
+ {
+  "id": "R-0081",
+  "text": "Accelerator control misapplication test The lateral offset between the centreline of the target and the centreline of the vehicle shall be between 0.0 m and 0.2 m.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 8,
+   "paragraph": "6.5"
+  }
+ },
+ {
+  "id": "R-0082",
+  "text": "The test procedure shall be as follows:",
+  "source": {
+   "regulation": "UN R175",
+   "page": 8,
+   "paragraph": "6.5"
+  }
+ },
+ {
+  "id": "R-0083",
+  "text": "The test procedure shall be performed with and without an expected ACPE intervention both in a forward and rearward direction and at least with the vehicle situated 1.0 m (+0.1 m tolerance) and 1.5 m (-0.1 m tolerance) from the target position at the start of the test (as detailed in Table 1).",
+  "source": {
+   "regulation": "UN R175",
+   "page": 8,
+   "paragraph": "6.5"
+  }
+ },
+ {
+  "id": "R-0084",
+  "text": "Yes : with ACPE intervention No : without ACPE intervention or with ACPE deactivation These tests may be combined These tests may be combined The procedure for each test shall be as follows:",
+  "source": {
+   "regulation": "UN R175",
+   "page": 8,
+   "paragraph": "6.5"
+  }
+ },
+ {
+  "id": "R-0085",
+  "text": "Every modification of the vehicle type as defined in paragraph 2.2. above shall be notified to the Type Approval Authority which approved the vehicle type.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 9,
+   "paragraph": "7.1"
+  }
+ },
+ {
+  "id": "R-0086",
+  "text": "Confirmation or refusal of approval. specifying the alterations. shall be communicated by the procedure specified in paragraph 4.3. above to the Contracting Parties to the Agreement which apply this Regulation.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 10,
+   "paragraph": "7.2"
+  }
+ },
+ {
+  "id": "R-0087",
+  "text": "The Type Approval Authority shall inform the other Contracting Parties of the extension by means of the communication form which appears in Annex 1 to this Regulation.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 10,
+   "paragraph": "7.3"
+  }
+ },
+ {
+  "id": "R-0088",
+  "text": "It shall assign a serial number to each extension to be known as the extension number.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 10,
+   "paragraph": "7.3"
+  }
+ },
+ {
+  "id": "R-0089",
+  "text": "Procedures concerning conformity of production shall comply with those set out in the 1958 Agreement, Schedule 1 (E/ECE/TRANS/505/Rev.3) and meet the following requirements:",
+  "source": {
+   "regulation": "UN R175",
+   "page": 10,
+   "paragraph": "8.1"
+  }
+ },
+ {
+  "id": "R-0090",
+  "text": "A vehicle approved pursuant to this Regulation shall be so manufactured as to conform to the type approved by meeting the requirements of paragraph 5. above;",
+  "source": {
+   "regulation": "UN R175",
+   "page": 10,
+   "paragraph": "8.2"
+  }
+ },
+ {
+  "id": "R-0091",
+  "text": "The normal frequency of such inspections shall be once every two years.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 10,
+   "paragraph": "8.3"
+  }
+ },
+ {
+  "id": "R-0092",
+  "text": "If a Contracting Party withdraws an approval it had previously granted, it shall forthwith so notify the other Contracting Parties applying this Regulation by sending them a communication form conforming to the model in Annex 1 to this Regulation.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 10,
+   "paragraph": "9.2"
+  }
+ },
+ {
+  "id": "R-0093",
+  "text": "Production definitively discontinued If the holder of the approval completely ceases to manufacture a type of vehicle approved in accordance with this Regulation, he shall so inform the Type Approval Authority which granted the approval, which in turn shall forthwith inform the other Contracting Parties to the Agreement applying this Regulation by means of a communication form conforming to the model in Annex 1 to this Regulation.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 10,
+   "paragraph": "10"
+  }
+ },
+ {
+  "id": "R-0094",
+  "text": "Names and addresses of the Technical Services responsible for conducting approval tests and of Type Approval Authorities The Contracting Parties to the Agreement applying this Regulation shall communicate to the United Nations Secretariat3 the names and addresses of the Technical Services responsible for conducting approval tests and of the Type Approval Authorities which grant approval and to which forms certifying approval or extension or refusal or withdrawal of approval are to be sent. 3 The UNECE secretariats provides the online platform (\"/343 Application\") for exchange of such information with the secretariat: https://www.unece.org/trans/main/wp29/datasharing.html",
+  "source": {
+   "regulation": "UN R175",
+   "page": 10,
+   "paragraph": "11"
+  }
+ },
+ {
+  "id": "R-0095",
+  "text": "This annex shall also apply to safety related functions identified in this Regulation which are controlled by electronic system(s) (paragraph 2.3.) as far as this Regulation is concerned.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 12,
+   "paragraph": "Annex 3 1"
+  }
+ },
+ {
+  "id": "R-0096",
+  "text": "This information shall show that \"The System\" respects, under non-fault and fault conditions, all the appropriate performance requirements specified elsewhere in this Regulation and that it is designed to operate in such a way that it does not induce safety critical risks.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 12,
+   "paragraph": "Annex 3 1"
+  }
+ },
+ {
+  "id": "R-0097",
+  "text": "The transmission links to and from overriding systems/function outside of the scope of this Regulation shall also be included.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 13,
+   "paragraph": "Annex 3 2.4"
+  }
+ },
+ {
+  "id": "R-0098",
+  "text": "Requirements The manufacturer shall provide a documentation package which gives access to the basic design of \"The System\" and the means by which it is linked to other vehicle systems or by which it directly controls output variables.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 13,
+   "paragraph": "Annex 3 3.1"
+  }
+ },
+ {
+  "id": "R-0099",
+  "text": "The function(s) of \"The System\" and the safety concept, as laid down by the manufacturer, shall be explained.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 13,
+   "paragraph": "Annex 3 3.1"
+  }
+ },
+ {
+  "id": "R-0100",
+  "text": "Documentation shall be brief, yet provide evidence that the design and development has had the benefit of expertise from all the system fields which are involved.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 13,
+   "paragraph": "Annex 3 3.1"
+  }
+ },
+ {
+  "id": "R-0101",
+  "text": "For periodic technical inspections, the documentation shall describe how the current operational status of \"The System\" can be checked.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 13,
+   "paragraph": "Annex 3 3.1"
+  }
+ },
+ {
+  "id": "R-0102",
+  "text": "The Technical Service shall assess the documentation package to show that \"The System\":",
+  "source": {
+   "regulation": "UN R175",
+   "page": 13,
+   "paragraph": "Annex 3 3.1"
+  }
+ },
+ {
+  "id": "R-0103",
+  "text": "Documentation shall be made available in two parts:",
+  "source": {
+   "regulation": "UN R175",
+   "page": 14,
+   "paragraph": "Annex 3 3.1.1"
+  }
+ },
+ {
+  "id": "R-0104",
+  "text": "(with the exception of that of paragraph 3.4.4.) which shall be supplied to the Technical Service at the time of submission of the type approval application.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 14,
+   "paragraph": "Annex 3 3.1.1"
+  }
+ },
+ {
+  "id": "R-0105",
+  "text": "This documentation package shall be used by the Technical Service as the basic reference for the verification process set out in paragraph 4. of this annex.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 14,
+   "paragraph": "Annex 3 3.1.1"
+  }
+ },
+ {
+  "id": "R-0106",
+  "text": "The Technical Service shall ensure that this documentation package remains available for a period determined in agreement with the Approval Authority.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 14,
+   "paragraph": "Annex 3 3.1.1"
+  }
+ },
+ {
+  "id": "R-0107",
+  "text": "This period shall be at least 10 years counted from the time when production of the vehicle is definitely discontinued.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 14,
+   "paragraph": "Annex 3 3.1.1"
+  }
+ },
+ {
+  "id": "R-0108",
+  "text": "(b) Additional material and analysis data of paragraph 3.4.4. which shall be retained by the manufacturer, but made open for inspection at the time of type approval.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 14,
+   "paragraph": "Annex 3 3.1.1"
+  }
+ },
+ {
+  "id": "R-0109",
+  "text": "The manufacturer shall ensure that this material and analysis data remains available for a period of 10 years counted from the time when production of the vehicle is definitely discontinued.\"",
+  "source": {
+   "regulation": "UN R175",
+   "page": 14,
+   "paragraph": "Annex 3 3.1.1"
+  }
+ },
+ {
+  "id": "R-0110",
+  "text": "Description of the functions of \"The System\" A description shall be provided which gives a simple explanation of all the control functions of \"The System\" and the methods employed to achieve the objectives, including a statement of the mechanism(s) by which control is exercised.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 14,
+   "paragraph": "Annex 3 3.2"
+  }
+ },
+ {
+  "id": "R-0111",
+  "text": "Any described function that can be over-ridden shall be identified and a further description of the changed rationale of the function’s operation provided.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 14,
+   "paragraph": "Annex 3 3.2"
+  }
+ },
+ {
+  "id": "R-0112",
+  "text": "A list of all input and sensed variables shall be provided and the working range of these defined.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 14,
+   "paragraph": "Annex 3 3.2.1"
+  }
+ },
+ {
+  "id": "R-0113",
+  "text": "A list of all output variables which are controlled by \"The System\" shall be provided and an indication given, in each case, of whether the control is direct or via another vehicle system.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 14,
+   "paragraph": "Annex 3 3.2.2"
+  }
+ },
+ {
+  "id": "R-0114",
+  "text": "The range of control (paragraph 2.8.) exercised on each such variable shall be defined.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 14,
+   "paragraph": "Annex 3 3.2.2"
+  }
+ },
+ {
+  "id": "R-0115",
+  "text": "Limits defining the boundaries of functional operation (paragraph 2.9.) shall be stated where appropriate to system performance.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 14,
+   "paragraph": "Annex 3 3.2.3"
+  }
+ },
+ {
+  "id": "R-0116",
+  "text": "A list shall be provided, collating all the units of \"The System\" and mentioning the other vehicle systems which are needed to achieve the control function in question.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 14,
+   "paragraph": "Annex 3 3.3.1"
+  }
+ },
+ {
+  "id": "R-0117",
+  "text": "An outline schematic showing these units in combination, shall be provided with both the equipment distribution and the interconnections made clear.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 14,
+   "paragraph": "Annex 3 3.3.1"
+  }
+ },
+ {
+  "id": "R-0118",
+  "text": "Functions of the units The function of each unit of \"The System\" shall be outlined and the signals linking it with other units or with other vehicle systems shall be shown.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 14,
+   "paragraph": "Annex 3 3.3.2"
+  }
+ },
+ {
+  "id": "R-0119",
+  "text": "Interconnections Interconnections within \"The System\" shall be shown by a circuit diagram for the electric transmission links, by a piping diagram for pneumatic or hydraulic transmission equipment and by a simplified diagrammatic layout for mechanical linkages.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 14,
+   "paragraph": "Annex 3 3.3.3"
+  }
+ },
+ {
+  "id": "R-0120",
+  "text": "The transmission links both to and from other systems shall also be shown",
+  "source": {
+   "regulation": "UN R175",
+   "page": 14,
+   "paragraph": "Annex 3 3.3.3"
+  }
+ },
+ {
+  "id": "R-0121",
+  "text": "Signal flow, operating data and priorities There shall be a clear correspondence between these transmission links and the signals and/or operating data carried between units.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 14,
+   "paragraph": "Annex 3 3.3.4"
+  }
+ },
+ {
+  "id": "R-0122",
+  "text": "Priorities of signals and/or operating data on multiplexed data paths shall be stated wherever priority may be an issue affecting performance or safety as far as this Regulation is concerned.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 14,
+   "paragraph": "Annex 3 3.3.4"
+  }
+ },
+ {
+  "id": "R-0123",
+  "text": "Identification of units Each unit shall be clearly and unambiguously identifiable (e.g. by marking for hardware and marking or software output for software content) to provide corresponding hardware and documentation association.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 15,
+   "paragraph": "Annex 3 3.3.5"
+  }
+ },
+ {
+  "id": "R-0124",
+  "text": "Where functions are combined within a single unit or indeed within a single computer, but shown in multiple blocks in the block diagram for clarity and ease of explanation, only a single hardware identification marking shall be used.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 15,
+   "paragraph": "Annex 3 3.3.5"
+  }
+ },
+ {
+  "id": "R-0125",
+  "text": "The manufacturer shall, by the use of this identification, affirm that the equipment supplied conforms to the corresponding document.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 15,
+   "paragraph": "Annex 3 3.3.5"
+  }
+ },
+ {
+  "id": "R-0126",
+  "text": "The identification defines the hardware and software version and, where the latter changes such as to alter the function of the unit as far as this Regulation is concerned, this identification shall also be changed.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 15,
+   "paragraph": "Annex 3 3.3.5.1"
+  }
+ },
+ {
+  "id": "R-0127",
+  "text": "The Manufacturer shall provide a statement which affirms that the strategy chosen to achieve \"The System\" objectives will not, under non-fault conditions, prejudice the safe operation of the vehicle.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 15,
+   "paragraph": "Annex 3 3.4.1"
+  }
+ },
+ {
+  "id": "R-0128",
+  "text": "In respect of software employed in \"The System\", the outline architecture shall be explained and the design methods and tools used shall be identified.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 15,
+   "paragraph": "Annex 3 3.4.2"
+  }
+ },
+ {
+  "id": "R-0129",
+  "text": "The manufacturer shall show evidence of the means by which they determined the realisation of the system logic, during the design and development process.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 15,
+   "paragraph": "Annex 3 3.4.2"
+  }
+ },
+ {
+  "id": "R-0130",
+  "text": "The Manufacturer shall provide the Technical Service with an explanation of the design provisions built into \"The System\" so as to generate safe operation under fault conditions.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 15,
+   "paragraph": "Annex 3 3.4.3"
+  }
+ },
+ {
+  "id": "R-0131",
+  "text": "In case of a failure, the driver shall be warned for example by warning signal or message display.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 15,
+   "paragraph": "Annex 3 3.4.3"
+  }
+ },
+ {
+  "id": "R-0132",
+  "text": "When the system is not deactivated by the driver, e.g. by turning the ignition (run) switch to \"off\", or by switching off that particular function if a special switch is provided for that purpose, the warning shall be present as long as the fault condition persists.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 15,
+   "paragraph": "Annex 3 3.4.3"
+  }
+ },
+ {
+  "id": "R-0133",
+  "text": "If the chosen provision selects a partial performance mode of operation under certain fault conditions, then these conditions shall be stated and the resulting limits of effectiveness defined.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 15,
+   "paragraph": "Annex 3 3.4.3.1"
+  }
+ },
+ {
+  "id": "R-0134",
+  "text": "If the chosen provision selects a second (back-up) means to realise the vehicle control system objective, the principles of the change-over mechanism, the logic and level of redundancy and any built in back-up checking features shall be explained and the resulting limits of back-up effectiveness defined.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 15,
+   "paragraph": "Annex 3 3.4.3.2"
+  }
+ },
+ {
+  "id": "R-0135",
+  "text": "If the chosen provision selects the removal of the Higher Level Function, all the corresponding output control signals associated with this function shall be inhibited, and in such a manner as to limit the transition disturbance.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 15,
+   "paragraph": "Annex 3 3.4.3.3"
+  }
+ },
+ {
+  "id": "R-0136",
+  "text": "The documentation shall be supported, by an analysis which shows, in overall terms, how the system will behave on the occurrence of any individual hazard or fault which will have a bearing on vehicle control performance or safety.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 15,
+   "paragraph": "Annex 3 3.4.4"
+  }
+ },
+ {
+  "id": "R-0137",
+  "text": "The chosen analytical approach(es) shall be established and maintained by the Manufacturer and shall be made open for inspection by the Technical Service at the time of the type approval.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 15,
+   "paragraph": "Annex 3 3.4.4"
+  }
+ },
+ {
+  "id": "R-0138",
+  "text": "The Technical Service shall perform an assessment of the application of the analytical approach(es).",
+  "source": {
+   "regulation": "UN R175",
+   "page": 15,
+   "paragraph": "Annex 3 3.4.4"
+  }
+ },
+ {
+  "id": "R-0139",
+  "text": "This approach shall be based on a Hazard / Risk analysis appropriate to system safety.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 15,
+   "paragraph": "Annex 3 3.4.4"
+  }
+ },
+ {
+  "id": "R-0140",
+  "text": "This approach shall be based on a Failure Mode and Effect Analysis (FMEA), a Fault Tree Analysis (FTA) or any similar process appropriate to system safety.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 15,
+   "paragraph": "Annex 3 3.4.4"
+  }
+ },
+ {
+  "id": "R-0141",
+  "text": "This validation shall use, for example, Hardware in the Loop (HIL) testing, vehicle on–road operational testing, or any means appropriate for validation.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 15,
+   "paragraph": "Annex 3 3.4.4"
+  }
+ },
+ {
+  "id": "R-0142",
+  "text": "The assessment shall consist of checks of hazards and faults chosen by the Technical Service to establish that the manufacturer’s explanation of the safety concept is understandable, logical and that the validation plans are suitable and have been completed.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 15,
+   "paragraph": "Annex 3 3.4.4"
+  }
+ },
+ {
+  "id": "R-0143",
+  "text": "This documentation shall itemize the parameters being monitored and shall set out, for each fault condition of the type defined in paragraph 3.4.4. of this annex, the warning signal to be given to the driver and/or to service/technical inspection personnel.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 16,
+   "paragraph": "Annex 3 3.4.4.1"
+  }
+ },
+ {
+  "id": "R-0144",
+  "text": "This documentation shall describe the measures in place to ensure the \"The System\" does not prejudice the safe operation of the vehicle when the performance of \"The System\" is affected by environmental conditions e.g. climatic, temperature, dust ingress, water ingress, ice packing.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 16,
+   "paragraph": "Annex 3 3.4.4.2"
+  }
+ },
+ {
+  "id": "R-0145",
+  "text": "The functional operation of \"The System\", as laid out in the documents required in paragraph 3., shall be tested as follows:",
+  "source": {
+   "regulation": "UN R175",
+   "page": 16,
+   "paragraph": "Annex 3 4.1"
+  }
+ },
+ {
+  "id": "R-0146",
+  "text": "Verification of the function of \"The System\" The Technical Service shall verify \"The System\" under non-fault conditions by testing a number of selected functions from those declared by the manufacturer in paragraph 3.2. above.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 16,
+   "paragraph": "Annex 3 4.1.1"
+  }
+ },
+ {
+  "id": "R-0147",
+  "text": "For complex electronic systems, these tests shall include scenarios whereby a declared function is overridden.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 16,
+   "paragraph": "Annex 3 4.1.1"
+  }
+ },
+ {
+  "id": "R-0148",
+  "text": "The reaction of \"The System\" shall be checked under the influence of a failure in any individual unit by applying corresponding output signals to electrical units or mechanical elements in order to simulate the effects of internal faults within the unit.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 16,
+   "paragraph": "Annex 3 4.1.2"
+  }
+ },
+ {
+  "id": "R-0149",
+  "text": "The Technical Service shall conduct this check for at least one individual unit, but shall not check the reaction of \"The System\" to multiple simultaneous failures of individual units.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 16,
+   "paragraph": "Annex 3 4.1.2"
+  }
+ },
+ {
+  "id": "R-0150",
+  "text": "The Technical Service shall verify that these tests include aspects that may have an impact on vehicle controllability and user information (HMI aspects).\"",
+  "source": {
+   "regulation": "UN R175",
+   "page": 16,
+   "paragraph": "Annex 3 4.1.2"
+  }
+ },
+ {
+  "id": "R-0151",
+  "text": "The verification results shall correspond with the documented summary of the failure analysis, to a level of overall effect such that the safety concept and execution are confirmed as being adequate.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 16,
+   "paragraph": "Annex 3 4.1.2.1"
+  }
+ },
+ {
+  "id": "R-0152",
+  "text": "Reporting by Technical Service Reporting of the assessment by the Technical Service shall be performed in such a manner that allows traceability, e.g. versions of documents inspected are coded and listed in the records of the Technical Service.",
+  "source": {
+   "regulation": "UN R175",
+   "page": 16,
+   "paragraph": "Annex 3 5"
+  }
+ }
+]

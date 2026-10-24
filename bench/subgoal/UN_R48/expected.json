@@ -1,0 +1,616 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R48",
+ "changes": [
+  {
+   "requirement_id": "R-0021",
+   "change": "modified",
+   "new_text": "\"In the case of headlamps fitted with measures to prevent discomfort to other road-users in a country where traffic operates on the side of the road opposite to that of the country for which the headlamp was designed, such measures shall be activated automatically or by the vehicle user with the vehicle in the park condition without the need for special tools (other than those provided with the vehicle1 ) or by an ADS.",
+   "reason": "Paragraph 5.2.1 of UN R48 was amended in version 9.4.0: 'In' became '\"In'; 'achieved' became 'activated'; 'vehicle6 ).' became 'vehicle1 ) or by an ADS.'.",
+   "source": {
+    "page": 19,
+    "paragraph": "5.2.1"
+   }
+  },
+  {
+   "requirement_id": "R-0022",
+   "change": "modified",
+   "new_text": "Detailed instructions shall be provided by the vehicle manufacturer with the vehicle. 1 This does not apply to dedicated objects that may be added to the exterior of the headlamp.",
+   "reason": "Paragraph 5.2.1 of UN R48 was amended in version 9.4.0: '6This' became '1 This'.",
+   "source": {
+    "page": 19,
+    "paragraph": "5.2.1"
+   }
+  },
+  {
+   "requirement_id": "R-0044",
+   "change": "modified",
+   "new_text": "Direction-indicator lamps, direction indicator projections, the vehicle-hazard warning signal, amber sidemarker lamps complying with paragraph 6.18.7. below, and the emergency stop signal shall be flashing lamps.",
+   "reason": "Paragraph 5.9.1 of UN R48 was amended in version 9.4.0: 'direction indicator projections,' was added; 'side-marker' became 'sidemarker'.",
+   "source": {
+    "page": 21,
+    "paragraph": "5.9.1"
+   }
+  },
+  {
+   "requirement_id": "R-0060",
+   "change": "modified",
+   "new_text": "It shall not be possible deliberately, from the inside of the vehicle or by the ADS, to stop the movement of switched ON lamps before they reach the position of use.",
+   "reason": "Paragraph 5.14.4 of UN R48 was amended in version 9.4.0: 'driver's seat,' became 'inside of the vehicle or by the ADS,'.",
+   "source": {
+    "page": 23,
+    "paragraph": "5.14.4"
+   }
+  },
+  {
+   "requirement_id": "R-0117",
+   "change": "modified",
+   "new_text": "It shall always be possible for a driver to switch the main-beam headlamps ON and OFF manually and to manually switch off the automatic control of the main-beam headlamps.",
+   "reason": "Paragraph 6.1.7.3 of UN R48 was amended in version 9.4.0: 'for a driver' was added; 'manuallydeactivate' became 'manually switch off'.",
+   "source": {
+    "page": 33,
+    "paragraph": "6.1.7.3"
+   }
+  },
+  {
+   "requirement_id": "R-0118",
+   "change": "modified",
+   "new_text": "Moreover, the switching OFF of the main-beam headlamps and of their automatic control shall be by means of a simple and immediate manual operation; the use of sub-menus is not allowed.",
+   "reason": "Paragraph 6.1.7.3 of UN R48 was amended in version 9.4.0: 'the deactivation' was removed.",
+   "source": {
+    "page": 33,
+    "paragraph": "6.1.7.3"
+   }
+  },
+  {
+   "requirement_id": "R-0122",
+   "change": "modified",
+   "new_text": "If the control of the main-beam headlamps is automatic as described in paragraph 6.1.7.2. above an indication shall be provided to a driver that the automatic control of the main-beam function is activated.",
+   "reason": "Paragraph 6.1.8.1 of UN R48 was amended in version 9.4.0: 'the' became 'a'.",
+   "source": {
+    "page": 33,
+    "paragraph": "6.1.8.1"
+   }
+  },
+  {
+   "requirement_id": "R-0141",
+   "change": "modified",
+   "new_text": "Initial downward inclination The initial downward inclination of the cut-off of the passing-beam shall be: set in the unladen vehicle state with one person in the front seat, nearest to the opposing traffic, and specified within an accuracy of 0.1 per cent by the manufacturer and within the range defined in paragraph 6.2.6.1.2.",
+   "reason": "Paragraph 6.2.6.1.1 of UN R48 was amended in version 9.4.0: 'driver's seat' became 'front seat, nearest to the opposing traffic,'.",
+   "source": {
+    "page": 35,
+    "paragraph": "6.2.6.1.1"
+   }
+  },
+  {
+   "requirement_id": "R-0145",
+   "change": "modified",
+   "new_text": "However, with the exception of an active ADS feature devices which are adjusted manually, shall only be permitted for vehicles of categories M2G, M3G, N2G, N3G, provided they have a stop position at which the lamps can be returned to the initial inclination defined in paragraph 6.2.6.1.1. by means of the usual adjusting screws or similar means.",
+   "reason": "Paragraph 6.2.6.2.2 of UN R48 was amended in version 9.4.0: 'with the exception of an active ADS feature' was added.",
+   "source": {
+    "page": 36,
+    "paragraph": "6.2.6.2.2"
+   }
+  },
+  {
+   "requirement_id": "R-0159",
+   "change": "modified",
+   "new_text": "Irrespective of the requirements of paragraph 6.2.7.5. and with the exception of an active ADS feature, it shall always be possible to switch the dipped beam headlamps ON manually.",
+   "reason": "Paragraph 6.2.7.6 of UN R48 was amended in version 9.4.0: '6.2.7.5.,' became '6.2.7.5. and with the exception of an active ADS feature,'.",
+   "source": {
+    "page": 38,
+    "paragraph": "6.2.7.6"
+   }
+  },
+  {
+   "requirement_id": "R-0160",
+   "change": "modified",
+   "new_text": "The driver or the ADS shall at all times be able to engage the automatic operation.",
+   "reason": "Paragraph 6.2.7.7 of UN R48 was amended in version 9.4.0: 'or the ADS' was added.",
+   "source": {
+    "page": 38,
+    "paragraph": "6.2.7.7"
+   }
+  },
+  {
+   "requirement_id": "R-0170",
+   "change": "modified",
+   "new_text": "The vertical inclination of the cut-off to be set in the unladen vehicle state with one person in the front seat, nearest to the opposing traffic, shall be – 1.0 per cent or lower.",
+   "reason": "Paragraph 6.3.6.1.1.1 of UN R48 was amended in version 9.4.0: 'driver´s seat' became 'front seat, nearest to the opposing traffic,'.",
+   "source": {
+    "page": 39,
+    "paragraph": "6.3.6.1.1.1"
+   }
+  },
+  {
+   "requirement_id": "R-0172",
+   "change": "modified",
+   "new_text": "The initial downward inclination of the cut-off to be set in the unladen vehicle state with one person in the front seat, nearest to the opposing traffic, shall be specified within an accuracy of one decimal place by the manufacturer and indicated in a clearly legible and indelible manner on each vehicle close to either the front fog lamp or the manufacturer's plate or in combination with the indication referred to in paragraph 6.2.6.1.1. by the symbol shown in Annex 7 to this Regulation.",
+   "reason": "Paragraph 6.3.6.1.2.2 (formerly 6.3.6.1.2.1) of UN R48 was amended in version 9.4.0: '6.3.6.1.2.2.The' became 'The'; 'driver's seat' became 'front seat, nearest to the opposing traffic,'.",
+   "source": {
+    "page": 40,
+    "paragraph": "6.3.6.1.2.2"
+   }
+  },
+  {
+   "requirement_id": "R-0179",
+   "change": "modified",
+   "new_text": "Any variations of the luminous intensities or alignment shall be performed automatically and in such a way that no discomfort, neither for a driver nor to other road users, is caused.",
+   "reason": "Paragraph 6.3.9 of UN R48 was amended in version 9.4.0: 'the' became 'a'.",
+   "source": {
+    "page": 40,
+    "paragraph": "6.3.9"
+   }
+  },
+  {
+   "requirement_id": "R-0185",
+   "change": "modified",
+   "new_text": "(a) The devices shall be switched ON and OFF manually by a separate control or may be switched ON and OFF by an ADS;",
+   "reason": "Paragraph 6.4.7.2 of UN R48 was amended in version 9.4.0: 'control;' became 'control or may be switched ON and OFF by an ADS;'.",
+   "source": {
+    "page": 42,
+    "paragraph": "6.4.7.2"
+   }
+  },
+  {
+   "requirement_id": "R-0203",
+   "change": "modified",
+   "new_text": "All direction-indicator lamps on one side of a vehicle shall be switched ON and OFF automatically as defined by applicable UN Regulations and/or by the ADS or by means of one control and shall flash in phase.",
+   "reason": "Paragraph 6.5.7 of UN R48 was amended in version 9.4.0: 'the ADS or by' was added.",
+   "source": {
+    "page": 46,
+    "paragraph": "6.5.7"
+   }
+  },
+  {
+   "requirement_id": "R-0219",
+   "change": "modified",
+   "new_text": "The signal shall be operated by means of a separate manual control or by the ADS, enabling all the direction-indicator lamps to flash in phase.",
+   "reason": "Paragraph 6.6.7.1 of UN R48 was amended in version 9.4.0: 'or by the ADS,' was added.",
+   "source": {
+    "page": 47,
+    "paragraph": "6.6.7.1"
+   }
+  },
+  {
+   "requirement_id": "R-0234",
+   "change": "modified",
+   "new_text": "The light emitted shall not cause discomfort to a driver through the devices for indirect vision and/or other surfaces of the vehicle (i.e. rear window).",
+   "reason": "Paragraph 6.7.9.2.1 of UN R48 was amended in version 9.4.0: 'the' became 'a'.",
+   "source": {
+    "page": 49,
+    "paragraph": "6.7.9.2.1"
+   }
+  },
+  {
+   "requirement_id": "R-0294",
+   "change": "modified",
+   "new_text": "This requirement shall be deemed to be satisfied if the light emitted does not cause discomfort to a driver either directly or indirectly through the devices for indirect vision and/or other reflecting surfaces of the vehicle.",
+   "reason": "Paragraph 6.19.4.3 of UN R48 was amended in version 9.4.0: 'the' became 'a'.",
+   "source": {
+    "page": 63,
+    "paragraph": "6.19.4.3"
+   }
+  },
+  {
+   "requirement_id": "R-0338",
+   "change": "modified",
+   "new_text": "The initial downward inclination of the cut-off of the basic passing-beam to be set in the unladen vehicle state with one person in the front seat, nearest to the opposing traffic, shall be specified within an accuracy of 0.1 per cent by the manufacturer and indicated in a clearly legible and indelible manner on each vehicle, close to either the front lighting system or the manufacturer's plate, by the symbol shown in Annex 7.",
+   "reason": "Paragraph 6.22.6.1.1 of UN R48 was amended in version 9.4.0: 'driver's seat' became 'front seat, nearest to the opposing traffic,'.",
+   "source": {
+    "page": 72,
+    "paragraph": "6.22.6.1.1"
+   }
+  },
+  {
+   "requirement_id": "R-0356",
+   "change": "modified",
+   "new_text": "Automatic operation of the AFS The changes within and between the provided classes and their modes of the AFS lighting functions as specified below, shall be performed automatically without causing discomfort, distraction or glare, neither for a driver nor for other road users.",
+   "reason": "Paragraph 6.22.7.4 of UN R48 was amended in version 9.4.0: 'the' became 'a'.",
+   "source": {
+    "page": 73,
+    "paragraph": "6.22.7.4"
+   }
+  },
+  {
+   "requirement_id": "R-0363",
+   "change": "modified",
+   "new_text": "It shall always be possible for the driver or ADS to set the AFS to the neutral state and to return it to its automatic operation.",
+   "reason": "Paragraph 6.22.7.5 of UN R48 was amended in version 9.4.0: 'or ADS' was added.",
+   "source": {
+    "page": 75,
+    "paragraph": "6.22.7.5"
+   }
+  },
+  {
+   "requirement_id": "R-0367",
+   "change": "modified",
+   "new_text": "If the main beam is adaptive, a visual tell-tale shall be provided to indicate to a driver that the adaptation of the main beam is activated.",
+   "reason": "Paragraph 6.22.8.3 of UN R48 was amended in version 9.4.0: 'main-beam' became 'main beam'; 'the' became 'a'.",
+   "source": {
+    "page": 75,
+    "paragraph": "6.22.8.3"
+   }
+  },
+  {
+   "requirement_id": "R-0501",
+   "change": "modified",
+   "new_text": "The angle of the light beam from the dipped-beam headlamps shall be determined under the following loading conditions: 1 As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3.), document ECE/TRANS/WP.29/78/Rev.8 - https://unece.org/transport/vehicle-regulations/wp29/resolutions",
+   "reason": "Paragraph Annex 5 2.2 of UN R48 was amended in version 9.4.0: '1As' became '1 As'; 'ECE/TRANS/WP.29/78/Rev.3, para. 2' became 'ECE/TRANS/WP.29/78/Rev.8'; 'www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29resolutions.html' became 'https://unece.org/transport/vehicle-regulations/wp29/resolutions'.",
+   "source": {
+    "page": 115,
+    "paragraph": "Annex 5 2.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Where direction indicator projections are provided, the list of patterns shall be provided by the manufacturer.",
+   "reason": "Paragraph 3.2.10 of UN R48 is new in version 9.4.0: 'Where direction indicator projections are provided, the list of patterns shall be provided by the ma…'.",
+   "source": {
+    "page": 18,
+    "paragraph": "3.2.10"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "If a driver’s seat is fitted but it is not the front seat nearest to the opposing traffic, the applicant shall specify this seating position.",
+   "reason": "Paragraph 3.2.11 of UN R48 is new in version 9.4.0: 'If a driver’s seat is fitted but it is not the front seat nearest to the opposing traffic, the appli…'.",
+   "source": {
+    "page": 18,
+    "paragraph": "3.2.11"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Driver Assistance Projections, which are intended to support the driver only, shall not be activated whilst an ADS feature is active.",
+   "reason": "Paragraph 5.35.14 of UN R48 is new in version 9.4.0: 'Driver Assistance Projections, which are intended to support the driver only, shall not be activated…'.",
+   "source": {
+    "page": 30,
+    "paragraph": "5.35.14"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The patterns shall be explained in the owner's handbook.",
+   "reason": "Paragraph 5.37.1 of UN R48 is new in version 9.4.0: 'The patterns shall be explained in the owner's handbook.'.",
+   "source": {
+    "page": 30,
+    "paragraph": "5.37.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Only the basic elements listed in Annex 18 shall be used;",
+   "reason": "Paragraph 5.37.2.1 of UN R48 is new in version 9.4.0: 'Only the basic elements listed in Annex 18 shall be used;'.",
+   "source": {
+    "page": 30,
+    "paragraph": "5.37.2.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The pattern of each projection shall be constituted by one or more basic element(s) in a straight line;",
+   "reason": "Paragraph 5.37.2.2 of UN R48 is new in version 9.4.0: 'The pattern of each projection shall be constituted by one or more basic element(s) in a straight li…'.",
+   "source": {
+    "page": 30,
+    "paragraph": "5.37.2.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "When the windshield wiper is switched ON and its continuous operation has occurred for a period of at least two minutes, the direction indicator projection(s) whose luminous intensity exceeds 7.00∙103 cd shall either be switched OFF, or have its luminous intensity reduced to a value less than or equal to 7.00∙103 cd.",
+   "reason": "Paragraph 5.37.4 of UN R48 is new in version 9.4.0: 'When the windshield wiper is switched ON and its continuous operation has occurred for a period of a…'.",
+   "source": {
+    "page": 31,
+    "paragraph": "5.37.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The conformity to this requirement shall be verified at the time of the direction indicator projector type approval and indicated in the related communication form.",
+   "reason": "Paragraph 5.37.4 of UN R48 is new in version 9.4.0: 'The conformity to this requirement shall be verified at the time of the direction indicator projecto…'.",
+   "source": {
+    "page": 31,
+    "paragraph": "5.37.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Whilst an ADS feature is active, any information, warning or tell-tale specified in paragraphs 5 and 6 of this UN Regulation shall be transmitted to the ADS.",
+   "reason": "Paragraph 5.38.3 of UN R48 is new in version 9.4.0: 'Whilst an ADS feature is active, any information, warning or tell-tale specified in paragraphs 5 and…'.",
+   "source": {
+    "page": 31,
+    "paragraph": "5.38.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "If an ADS feature is active, the vehicle shall enable the ADS to control all lighting and light signalling functions prescribed in this Regulation.",
+   "reason": "Paragraph 5.38.5 of UN R48 is new in version 9.4.0: 'If an ADS feature is active, the vehicle shall enable the ADS to control all lighting and light sign…'.",
+   "source": {
+    "page": 31,
+    "paragraph": "5.38.5"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "(c) any manual controls (e.g. switches, etc.) shall not apply.",
+   "reason": "Paragraph 5.38.6 of UN R48 is new in version 9.4.0: '(c) any manual controls (e.g. switches, etc.) shall not apply.'.",
+   "source": {
+    "page": 31,
+    "paragraph": "5.38.6"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles of categories X and Y, compliance with this Regulation shall be verified using a dedicated activation method enabling the operation of related lighting and light-signalling functions.",
+   "reason": "Paragraph 5.38.7 of UN R48 is new in version 9.4.0: 'For vehicles of categories X and Y, compliance with this Regulation shall be verified using a dedica…'.",
+   "source": {
+    "page": 31,
+    "paragraph": "5.38.7"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The manufacturer shall demonstrate that the activation method replicates the ADS control of the functions.",
+   "reason": "Paragraph 5.38.7 of UN R48 is new in version 9.4.0: 'The manufacturer shall demonstrate that the activation method replicates the ADS control of the func…'.",
+   "source": {
+    "page": 31,
+    "paragraph": "5.38.7"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "A description of the method shall be included in the test report, and the operation of the functions during testing shall be recorded.",
+   "reason": "Paragraph 5.38.7 of UN R48 is new in version 9.4.0: 'A description of the method shall be included in the test report, and the operation of the functions…'.",
+   "source": {
+    "page": 31,
+    "paragraph": "5.38.7"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles equipped with an ADS, other than those of categories X and Y, the tests specified in this Regulation shall be performed in manual driving mode.",
+   "reason": "Paragraph 5.38.7 of UN R48 is new in version 9.4.0: 'For vehicles equipped with an ADS, other than those of categories X and Y, the tests specified in th…'.",
+   "source": {
+    "page": 31,
+    "paragraph": "5.38.7"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Tests in ADS mode are not required if the manufacturer demonstrates to the Technical Service that equivalent performance is achieved under ADS control.",
+   "reason": "Paragraph 5.38.7 of UN R48 is new in version 9.4.0: 'Tests in ADS mode are not required if the manufacturer demonstrates to the Technical Service that eq…'.",
+   "source": {
+    "page": 31,
+    "paragraph": "5.38.7"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "However, verification in ADS mode shall be carried out upon request of the Technical Service.",
+   "reason": "Paragraph 5.38.7 of UN R48 is new in version 9.4.0: 'However, verification in ADS mode shall be carried out upon request of the Technical Service.'.",
+   "source": {
+    "page": 31,
+    "paragraph": "5.38.7"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Whilst an ADS feature is active, the main beam operation, if applicable, shall be controlled by the ADS.",
+   "reason": "Paragraph 6.1.7.2.1 of UN R48 is new in version 9.4.0: 'Whilst an ADS feature is active, the main beam operation, if applicable, shall be controlled by the …'.",
+   "source": {
+    "page": 33,
+    "paragraph": "6.1.7.2.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Whilst an ADS feature is active, the main-beam operation, if applicable, shall be controlled by the ADS.",
+   "reason": "Paragraph 6.22.7.1.2.1 of UN R48 is new in version 9.4.0: 'Whilst an ADS feature is active, the main-beam operation, if applicable, shall be controlled by the …'.",
+   "source": {
+    "page": 73,
+    "paragraph": "6.22.7.1.2.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The projector(s) shall be type approved according to the 01 or subsequent series of amendments to UN Regulation No. 148.",
+   "reason": "Paragraph 6.29.2 of UN R48 is new in version 9.4.0: 'The projector(s) shall be type approved according to the 01 or subsequent series of amendments to UN…'.",
+   "source": {
+    "page": 84,
+    "paragraph": "6.29.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Front direction indicator projection The lateral distance from the outer edge of the projection with respect to the extreme outer edge of the vehicle shall not be more than 1,500 mm.",
+   "reason": "Paragraph 6.29.5.1 of UN R48 is new in version 9.4.0: 'Front direction indicator projection The lateral distance from the outer edge of the projection with…'.",
+   "source": {
+    "page": 84,
+    "paragraph": "6.29.5.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The longitudinal distance from the farthest edge of the projection shall not be more than 5,000 mm from the forward extreme outer edge of the vehicle and the rearward edge of the projection shall be not more than 500 mm rearward of the forward extreme outer edge of the vehicle.",
+   "reason": "Paragraph 6.29.5.1 of UN R48 is new in version 9.4.0: 'The longitudinal distance from the farthest edge of the projection shall not be more than 5,000 mm f…'.",
+   "source": {
+    "page": 84,
+    "paragraph": "6.29.5.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Rear direction indicator projection The lateral distance from the outer edge of the projection with respect to the extreme outer edge of the vehicle shall not be more than 1,500 mm.",
+   "reason": "Paragraph 6.29.5.2 of UN R48 is new in version 9.4.0: 'Rear direction indicator projection The lateral distance from the outer edge of the projection with …'.",
+   "source": {
+    "page": 85,
+    "paragraph": "6.29.5.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The longitudinal distance from the rearmost edge of the projection shall not be more than 2,000 mm from the rearward extreme outer edge of the vehicle and the forward edge of the projection shall be not more than 500 mm forward of the rearward extreme outer edge of the vehicle.",
+   "reason": "Paragraph 6.29.5.2 of UN R48 is new in version 9.4.0: 'The longitudinal distance from the rearmost edge of the projection shall not be more than 2,000 mm f…'.",
+   "source": {
+    "page": 85,
+    "paragraph": "6.29.5.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The patterns of each front direction indicator projection shall start with their closest edge within a zone limited by: a transverse plane 700 mm forwards of the front outer edge of the vehicle, a transverse plane 500 mm rearwards of the front outer edge of the vehicle, a longitudinal plane 700 mm outwards from the extreme outer edge of the vehicle and a longitudinal plane 300 mm outwards from the longitudinal median plane of the vehicle (see figure below).",
+   "reason": "Paragraph 6.29.5.3 of UN R48 is new in version 9.4.0: 'The patterns of each front direction indicator projection shall start with their closest edge within…'.",
+   "source": {
+    "page": 86,
+    "paragraph": "6.29.5.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The patterns of each rear direction indicator projection shall start with their closest edge within a zone limited by: a transverse plane 700 mm rearwards of the rear outer edge of the vehicle, a transverse plane 500 mm forwards of the rear outer edge of the vehicle, a longitudinal plane 700 mm outwards from the extreme outer edge of the vehicle and a longitudinal plane 300 mm outwards from the longitudinal median plane of the vehicle (see figure below).",
+   "reason": "Paragraph 6.29.5.4 of UN R48 is new in version 9.4.0: 'The patterns of each rear direction indicator projection shall start with their closest edge within …'.",
+   "source": {
+    "page": 87,
+    "paragraph": "6.29.5.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "If provided, the direction indicator projection(s) shall be switched ON only when the direction indicator lamps on the same side are switched ON.",
+   "reason": "Paragraph 6.29.7.1 of UN R48 is new in version 9.4.0: 'If provided, the direction indicator projection(s) shall be switched ON only when the direction indi…'.",
+   "source": {
+    "page": 88,
+    "paragraph": "6.29.7.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "When the direction indicator projection is switched ON, it shall flash in phase and at the same frequency of the direction indicator lamp.",
+   "reason": "Paragraph 6.29.7.1 of UN R48 is new in version 9.4.0: 'When the direction indicator projection is switched ON, it shall flash in phase and at the same freq…'.",
+   "source": {
+    "page": 88,
+    "paragraph": "6.29.7.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "All the direction indicator projections shall not be switched ON at the same time when the hazard warning signal is switched ON.",
+   "reason": "Paragraph 6.29.7.3 of UN R48 is new in version 9.4.0: 'All the direction indicator projections shall not be switched ON at the same time when the hazard wa…'.",
+   "source": {
+    "page": 88,
+    "paragraph": "6.29.7.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "If provided, the direction indicator projection(s) shall only be switched ON when the vehicle speed is equal to or less than 15 km/h.",
+   "reason": "Paragraph 6.29.7.4 of UN R48 is new in version 9.4.0: 'If provided, the direction indicator projection(s) shall only be switched ON when the vehicle speed …'.",
+   "source": {
+    "page": 88,
+    "paragraph": "6.29.7.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The technical service shall, to the satisfaction of the Type Approval Authority, perform a visual test to verify that there is no direct visibility of the apparent surface of any direction indicator projector, if viewed by an observer moving on the boundary of a zone on a transverse plane 10 m from the front of the vehicle, a transverse plane 10 m from the rear of the vehicle, and two longitudinal planes 10 m from each side of the vehicle; these four planes to extend from 1 m to 3 m above and perpendicular to the ground as shown in Annex 14.",
+   "reason": "Paragraph 6.29.9.1 of UN R48 is new in version 9.4.0: 'The technical service shall, to the satisfaction of the Type Approval Authority, perform a visual te…'.",
+   "source": {
+    "page": 88,
+    "paragraph": "6.29.9.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "This requirement shall be deemed to be satisfied if the installation conditions comply with paragraph 5.13.1.2.",
+   "reason": "Paragraph 6.29.9.1 of UN R48 is new in version 9.4.0: 'This requirement shall be deemed to be satisfied if the installation conditions comply with paragrap…'.",
+   "source": {
+    "page": 88,
+    "paragraph": "6.29.9.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The related indication shall be made in the Communication Form in Annex 1.",
+   "reason": "Paragraph 6.29.9.2 of UN R48 is new in version 9.4.0: 'The related indication shall be made in the Communication Form in Annex 1.'.",
+   "source": {
+    "page": 89,
+    "paragraph": "6.29.9.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "If provided, the rear direction indicator projection shall not be switched ON when any forward gear is engaged and the front direction indicator projection shall not be switched ON when the reverse gear is engaged, unless the horizontal angle of the direction of the projections to the median longitudinal plane of the vehicle exceeds 45°.",
+   "reason": "Paragraph 6.29.9.4 of UN R48 is new in version 9.4.0: 'If provided, the rear direction indicator projection shall not be switched ON when any forward gear …'.",
+   "source": {
+    "page": 89,
+    "paragraph": "6.29.9.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "If the seating position 1 is not located on the front seat nearest to the opposing traffic, due to the design or the operational conditions of the vehicle, the manufacturer shall specify the seating position 1.",
+   "reason": "Paragraph Annex 5 2 of UN R48 is new in version 9.4.0: 'If the seating position 1 is not located on the front seat nearest to the opposing traffic, due to t…'.",
+   "source": {
+    "page": 114,
+    "paragraph": "Annex 5 2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The following loading conditions shall also apply: (a) For vehicles of category X with seating position 1 unoccupied and without other occupants.",
+   "reason": "Paragraph Annex 5 2 of UN R48 is new in version 9.4.0: '(a) For vehicles of category X with seating position 1 unoccupied and without other occupants.'.",
+   "source": {
+    "page": 114,
+    "paragraph": "Annex 5 2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The following loading conditions shall also apply: (b) For vehicles of category Y without occupants and the requirements to have “one person in seating position 1” in paragraphs 2.3 and 2.4 shall be disregarded.",
+   "reason": "Paragraph Annex 5 2 of UN R48 is new in version 9.4.0: '(b) For vehicles of category Y without occupants and the requirements to have “one person in seating…'.",
+   "source": {
+    "page": 114,
+    "paragraph": "Annex 5 2"
+   }
+  }
+ ]
+}

@@ -1,0 +1,156 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R64",
+ "changes": [
+  {
+   "requirement_id": "R-0036",
+   "change": "modified",
+   "new_text": "The optical warning indication shall be activated when the vehicle master control switch is in the \"on\" (run) position (bulb check).",
+   "reason": "Paragraph 5.1.6.2 of UN R64 was amended in version 3.2.0: 'optical' was added; 'signal' became 'indication'; 'ignition (start)' became 'vehicle master control'.",
+   "source": {
+    "page": 7,
+    "paragraph": "5.1.6.2"
+   }
+  },
+  {
+   "requirement_id": "R-0037",
+   "change": "modified",
+   "new_text": "A Run Flat System warning signal described in paragraph 5.1.6.1. shall be indicated at the latest when one tyre is detected to be in the flat tyre running mode .",
+   "reason": "Paragraph 5.1.6.3 of UN R64 was amended in version 3.2.0: 'Run Flat System' was added; 'signal described in paragraph 5.1.6.1.' was added; 'to the driver by the operation of the warning signal referred to in paragraph 5.1.6.1.' was removed; 'mode.' became 'mode .'.",
+   "source": {
+    "page": 7,
+    "paragraph": "5.1.6.3"
+   }
+  },
+  {
+   "requirement_id": "R-0039",
+   "change": "modified",
+   "new_text": "If the warning signal described in paragraph 5.1.6.1. is used to indicate both a tyre in the run-flat mode and a malfunction in the run-flat warning system, the following shall apply: with the vehicle master control switch in the \"on\" (run) position the warning signal shall flash to indicate a system failure.",
+   "reason": "Paragraph 5.1.6.4 of UN R64 was amended in version 3.2.0: 'Run-Flat Warning System,' became 'run-flat warning system,'; 'ignition (start)' became 'vehicle master control'.",
+   "source": {
+    "page": 7,
+    "paragraph": "5.1.6.4"
+   }
+  },
+  {
+   "requirement_id": "R-0040",
+   "change": "modified",
+   "new_text": "After a short period of time the warning signal shall remain continuously illuminated as long as the failure exists and the vehicle master control switch is in the \"on\" (run) position.",
+   "reason": "Paragraph 5.1.6.4 of UN R64 was amended in version 3.2.0: 'ignition (start)' became 'vehicle master control'.",
+   "source": {
+    "page": 7,
+    "paragraph": "5.1.6.4"
+   }
+  },
+  {
+   "requirement_id": "R-0041",
+   "change": "modified",
+   "new_text": "The flashing and illumination sequence shall be repeated each time the vehicle master control switch is in the \"on\" (run) position until the failure has been corrected.",
+   "reason": "Paragraph 5.1.6.4 of UN R64 was amended in version 3.2.0: 'ignition (start)' became 'vehicle master control'.",
+   "source": {
+    "page": 7,
+    "paragraph": "5.1.6.4"
+   }
+  },
+  {
+   "requirement_id": "R-0072",
+   "change": "modified",
+   "new_text": "The braking performance shall correspond to the test procedure given in UN Regulation No. 13 or 13-H for categories M1 and N1 vehicles for the Type O cold test with the engine disconnected, and is based on the stopping distance and the mean fully developed deceleration.",
+   "reason": "Paragraph Annex 3 2.3 of UN R64 was amended in version 3.2.0: 'UN' was added.",
+   "source": {
+    "page": 12,
+    "paragraph": "Annex 3 2.3"
+   }
+  },
+  {
+   "requirement_id": "R-0093",
+   "change": "modified",
+   "new_text": "The vehicle shall be brought to a halt and the vehicle master control switch switched off.",
+   "reason": "Paragraph Annex 4 2.1.1.5 of UN R64 was amended in version 3.2.0: 'ignition' became 'vehicle master control switch'.",
+   "source": {
+    "page": 14,
+    "paragraph": "Annex 4 2.1.1.5"
+   }
+  },
+  {
+   "requirement_id": "R-0095",
+   "change": "modified",
+   "new_text": "The vehicle shall be brought to a halt and the vehicle master control switch switched off.",
+   "reason": "Paragraph Annex 4 2.2.3 of UN R64 was amended in version 3.2.0: 'ignition' became 'vehicle master control switch'.",
+   "source": {
+    "page": 15,
+    "paragraph": "Annex 4 2.2.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In the case of a vehicle of category X or category Y, a logical signal shall be transmitted to the ADS.",
+   "reason": "Paragraph 5.1.6.1 of UN R64 is new in version 3.2.0: 'In the case of a vehicle of category X or category Y, a logical signal shall be transmitted to the A…'.",
+   "source": {
+    "page": 7,
+    "paragraph": "5.1.6.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In the case of a vehicle equipped with an ADS, other than those of category X and Y, the warning indication shall be by means of an optical signal when operated by a driver, and a logical signal while an ADS feature is active (an optical signal is optional).",
+   "reason": "Paragraph 5.1.6.1 of UN R64 is new in version 3.2.0: 'In the case of a vehicle equipped with an ADS, other than those of category X and Y, the warning ind…'.",
+   "source": {
+    "page": 7,
+    "paragraph": "5.1.6.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Whilst an ADS feature is active, electrical failure or sensor anomaly that affects the run-flat warning system, including failure of the electrical source, supply or transmission of the output signal, shall be indicated to the ADS by a logical signal.",
+   "reason": "Paragraph 5.1.6.4 of UN R64 is new in version 3.2.0: 'Whilst an ADS feature is active, electrical failure or sensor anomaly that affects the run-flat warn…'.",
+   "source": {
+    "page": 7,
+    "paragraph": "5.1.6.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In the case of vehicles equipped with an ADS, the special provisions of Annex 5 shall also be considered.",
+   "reason": "Paragraph Annex 3 2.2 of UN R64 is new in version 3.2.0: 'In the case of vehicles equipped with an ADS, the special provisions of Annex 5 shall also be consid…'.",
+   "source": {
+    "page": 12,
+    "paragraph": "Annex 3 2.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In the case of vehicles equipped with an ADS, the special provisions of Annex 5 shall also be considered.",
+   "reason": "Paragraph Annex 3 2.3 of UN R64 is new in version 3.2.0: 'In the case of vehicles equipped with an ADS, the special provisions of Annex 5 shall also be consid…'.",
+   "source": {
+    "page": 12,
+    "paragraph": "Annex 3 2.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In the case of vehicles equipped with an ADS, the special provisions of Annex 5 shall also be considered.",
+   "reason": "Paragraph Annex 4 2.1 of UN R64 is new in version 3.2.0: 'In the case of vehicles equipped with an ADS, the special provisions of Annex 5 shall also be consid…'.",
+   "source": {
+    "page": 14,
+    "paragraph": "Annex 4 2.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In the case of vehicles equipped with an ADS, the special provisions of Annex 5 shall also be considered.",
+   "reason": "Paragraph Annex 4 2.2 of UN R64 is new in version 3.2.0: 'In the case of vehicles equipped with an ADS, the special provisions of Annex 5 shall also be consid…'.",
+   "source": {
+    "page": 15,
+    "paragraph": "Annex 4 2.2"
+   }
+  }
+ ]
+}

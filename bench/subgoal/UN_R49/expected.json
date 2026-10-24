@@ -1,0 +1,1431 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R49",
+ "changes": [
+  {
+   "requirement_id": "R-0004",
+   "change": "modified",
+   "new_text": "At the request of the manufacturer, the type approval of a vehicle granted under this Regulation shall be extended to its variants and versions with a reference mass above 2,380 kg provided that it also meets the requirements relating to the measurement of greenhouse gas emissions and fuel consumption in accordance with paragraph 4.2. of this Regulation. 1 As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3), document ECE/TRANS/WP.29/78/Rev.8 – https://unece.org/transport/vehicle-regulations/wp29/resolutions",
+   "reason": "Paragraph 1.1 of UN R49 was amended in version 7.4.0: 'Annex 7 to' was removed; 'TRANS/WP.29/78/Rev.1/Amend.2, as last amended by Amend.4).' became 'ECE/TRANS/WP.29/78/Rev.8 – https://unece.org/transport/vehicle-regulations/wp29/resolutions'.",
+   "source": {
+    "page": 1,
+    "paragraph": "1.1"
+   }
+  },
+  {
+   "requirement_id": "R-0009",
+   "change": "modified",
+   "new_text": "Together with the application, the manufacturer shall provide a documentation package that fully explains any element of design which affects emissions, the emission control strategy of the engine system, the means by which the engine system controls the output variables which have a bearing upon emissions, whether that control is direct or indirect, anti-tampering measures and fully explains the vehicle userwarning and vehicle userinducement system required by paragraphs 4. and 5. of Annex 11.",
+   "reason": "Paragraph 3.1.3 of UN R49 was amended in version 7.4.0: 'warning' became 'vehicle userwarning'; 'inducement' became 'vehicle userinducement'.",
+   "source": {
+    "page": 4,
+    "paragraph": "3.1.3"
+   }
+  },
+  {
+   "requirement_id": "R-0023",
+   "change": "modified",
+   "new_text": "The manufacturer shall provide a documentation package that fully explains the elements of the vehicle user warning and vehicle userinducement system that is on board of the vehicle and required by Annex 11.",
+   "reason": "Paragraph 3.2.3 of UN R49 was amended in version 7.4.0: 'vehicle user' was added; 'inducement' became 'vehicle userinducement'.",
+   "source": {
+    "page": 5,
+    "paragraph": "3.2.3"
+   }
+  },
+  {
+   "requirement_id": "R-0030",
+   "change": "modified",
+   "new_text": "The manufacturer shall provide a documentation package that fully explains any element of design which affects emissions, the emission control strategy of the engine system, the means by which the engine system controls the output variables which have a bearing upon emissions, whether that control is direct or indirect, and fully explains the vehicle user warning and vehicle user inducement system required by Annex 11.",
+   "reason": "Paragraph 3.3.3 of UN R49 was amended in version 7.4.0: 'vehicle user' was added; 'vehicle user' was added.",
+   "source": {
+    "page": 6,
+    "paragraph": "3.3.3"
+   }
+  },
+  {
+   "requirement_id": "R-0068",
+   "change": "modified",
+   "new_text": "In the case of natural gas/biomethane engines, the ratio of the emission results \"r\" shall be determined for each pollutant as follows: or, and,",
+   "reason": "Paragraph 4.6.5 of UN R49 was amended in version 7.4.0: 'or, and,' was added.",
+   "source": {
+    "page": 8,
+    "paragraph": "4.6.5"
+   }
+  },
+  {
+   "requirement_id": "R-0072",
+   "change": "modified",
+   "new_text": "The ratio of emission results \"r\" shall be determined for each pollutant as follows:",
+   "reason": "Paragraph 4.6.6.1 of UN R49 was amended in version 7.4.0: '[figure not available]' was removed.",
+   "source": {
+    "page": 8,
+    "paragraph": "4.6.6.1"
+   }
+  },
+  {
+   "requirement_id": "R-0077",
+   "change": "modified",
+   "new_text": "The ratio of emission results \"r\" shall be determined for each pollutant as follows: or, [figure not available] and,",
+   "reason": "Paragraph 4.7.1.3 of UN R49 was amended in version 7.4.0: '[figure not available]' was added.",
+   "source": {
+    "page": 9,
+    "paragraph": "4.7.1.3"
+   }
+  },
+  {
+   "requirement_id": "R-0101",
+   "change": "removed",
+   "reason": "Paragraph 4.12.3.1 of UN R49 was amended in version 7.4.0; the provision 'Other numbers shall be assigned to other countries in the chronological order in which they ratify o…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0139",
+   "change": "modified",
+   "new_text": "The documentation shall describe the functional operation of the vehicle user inducement system required by Annex 11, including the parameters necessary for retrieving the information associated with that system.",
+   "reason": "Paragraph 5.1.4.2 of UN R49 was amended in version 7.4.0: 'vehicle user' was added.",
+   "source": {
+    "page": 13,
+    "paragraph": "5.1.4.2"
+   }
+  },
+  {
+   "requirement_id": "R-0140",
+   "change": "modified",
+   "new_text": "This material shall be retained by the Type Approval Authority.",
+   "reason": "Paragraph 5.1.4.2 of UN R49 was amended in version 7.4.0: 'Type' was added.",
+   "source": {
+    "page": 13,
+    "paragraph": "5.1.4.2"
+   }
+  },
+  {
+   "requirement_id": "R-0316",
+   "change": "modified",
+   "new_text": "The AES documentation package shall be limited to 100 pages and shall include all the main elements to allow the approval authority to assess the AES (according to the requirements of Appendix 2 to Annex 10, the effectiveness of the vehicle user inducement system and the anti-tampering measures.",
+   "reason": "Paragraph Annex 2D 3 of UN R49 was amended in version 7.4.0: 'vehicle user' was added; 'antitampering' became 'anti-tampering'.",
+   "source": {
+    "page": 57,
+    "paragraph": "Annex 2D 3"
+   }
+  },
+  {
+   "requirement_id": "R-0621",
+   "change": "modified",
+   "new_text": "M gas is the molar mass of the gas component, g/mol (see Appendix 5) M e,i is the instantaneous molar mass of the exhaust gas, g/mol ρ gas is the density of the gas component, kg/m 3 ρ e,i is the instantaneous density of the exhaust gas, kg/m 3 <!-- End of picture text --> The molar mass of the exhaust, Me, shall be derived for a general fuel composition CH _α_ O _ε_ N _δ_ S _γ_ under the assumption of complete combustion, as follows: <!-- Start of picture text --> (41) Where: q is the instantaneous intake air mass flow rate on wet basis, kg/s maw,i <!-- End of picture text --> <!-- Start of picture text --> q is the instantaneous fuel mass flow rate, kg/s mf,i H a is the intake air humidity, g water per kg dry air M a is the molar mass of the dry intake air = 28.965 g/mol <!-- End of picture text --> The exhaust density ρe shall be derived, as follows: <!-- Start of picture text --> (42) <!-- End of picture text --> Where: <!-- Start of picture text --> q is the instantaneous intake air mass flow rate on dry basis, kg/s mad,i q is the instantaneous fuel mass flow rate, kg/s mf,i H a is the intake air humidity, g water per kg dry air k fw is the fuel specific factor of wet exhaust (equation 16) in paragraph 8.1.1. <!-- End of picture text -->",
+   "reason": "Paragraph Annex 4 8.4.2.4 of UN R49 was amended in version 7.4.0: '<!-- End of picture text --> <!-- Start of picture text -->' was added; 'Where:' was added; 'Where:' was removed; '<!-- Start of picture text -->' was removed.",
+   "source": {
+    "page": 95,
+    "paragraph": "Annex 4 8.4.2.4"
+   }
+  },
+  {
+   "requirement_id": "R-0622",
+   "change": "modified",
+   "new_text": "Data evaluation <!-- End of picture text --> The particulate mass shall be calculated according to equation 27 of paragraph 8.3.",
+   "reason": "Paragraph Annex 4 8.4.3.1 of UN R49 was amended in version 7.4.0: '<!-- End of picture text -->' was added.",
+   "source": {
+    "page": 96,
+    "paragraph": "Annex 4 8.4.3.1"
+   }
+  },
+  {
+   "requirement_id": "R-0625",
+   "change": "removed",
+   "reason": "Paragraph Annex 4 8.4.3.2.2 of UN R49 was amended in version 7.4.0; the provision 'Calculation based on dilution ratio <!-- Start of picture text --> (45) <!-- End of picture text -->…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0820",
+   "change": "modified",
+   "new_text": "The efficiency shall be determined as follows: [figure not available] (76) Where:",
+   "reason": "Paragraph Annex 4 9.3.8.2 of UN R49 was amended in version 7.4.0: '[figure not available] (76) Where:' was added.",
+   "source": {
+    "page": 113,
+    "paragraph": "Annex 4 9.3.8.2"
+   }
+  },
+  {
+   "requirement_id": "R-0832",
+   "change": "modified",
+   "new_text": "The per cent quench shall be calculated as follows:",
+   "reason": "Paragraph Annex 4 9.3.9.2.1 of UN R49 was amended in version 7.4.0: '<!-- Start of picture text --> (77) <!-- End of picture text -->' was removed.",
+   "source": {
+    "page": 114,
+    "paragraph": "Annex 4 9.3.9.2.1"
+   }
+  },
+  {
+   "requirement_id": "R-0968",
+   "change": "modified",
+   "new_text": "To account for the interaction of pressure variations at the pump and the pump slip rate, the correlation function ( _X_ 0) between pump speed, pressure differential from pump inlet to pump outlet and absolute pump outlet pressure shall be calculated as follows:",
+   "reason": "Paragraph Annex 4 9.5.2.1 of UN R49 was amended in version 7.4.0: '<!-- Start of picture text --> (86) <!-- End of picture text --> Where:' was removed.",
+   "source": {
+    "page": 121,
+    "paragraph": "Annex 4 9.5.2.1"
+   }
+  },
+  {
+   "requirement_id": "R-0975",
+   "change": "removed",
+   "reason": "Paragraph Annex 4 9.5.3.1 of UN R49 was amended in version 7.4.0; the provision 'The calibration coefficient shall be calculated from the calibration data for each setting as follow…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0978",
+   "change": "modified",
+   "new_text": "The discharge coefficient shall be calculated from the calibration data for each setting as follows: <!-- Start of picture text --> (89) <!-- End of picture text --> Where:",
+   "reason": "Paragraph Annex 4 9.5.4.1 of UN R49 was amended in version 7.4.0: '<!-- End of picture text -->' was added.",
+   "source": {
+    "page": 122,
+    "paragraph": "Annex 4 9.5.4.1"
+   }
+  },
+  {
+   "requirement_id": "R-1011",
+   "change": "modified",
+   "new_text": "Where: shall be calculated from the following equation: <!-- Start of picture text --> (96) Where: cs,i = a discrete measurement of particle concentration in the diluted gas exhaust from the particle counter, corrected for coincidence and to standard conditions (273.2 K and 101.33 kPa), particles per cubic centimetre, n = number of particle concentration measurements taken over the duration of the test. <!-- End of picture text -->",
+   "reason": "Paragraph Annex 4 10.4.2 of UN R49 was amended in version 7.4.0: '<!-- End of picture text -->' was removed; '<!-- End of picture text -->' was added.",
+   "source": {
+    "page": 125,
+    "paragraph": "Annex 4 10.4.2"
+   }
+  },
+  {
+   "requirement_id": "R-1012",
+   "change": "modified",
+   "new_text": "Determination of particle numbers with a full flow dilution system Where particle numbers are sampled using a full flow dilution system according to the procedures set out in paragraph 8.5., the number of particles emitted over the test cycle shall be calculated by means of the following equation: <!-- Start of picture text --> (97) <!-- End of picture text --> Where:",
+   "reason": "Paragraph Annex 4 10.4.3 of UN R49 was amended in version 7.4.0: '<!-- Start of picture text --> (97) <!-- End of picture text --> Where:' was added.",
+   "source": {
+    "page": 125,
+    "paragraph": "Annex 4 10.4.3"
+   }
+  },
+  {
+   "requirement_id": "R-1076",
+   "change": "modified",
+   "new_text": "Mean value and standard deviation The arithmetic mean value shall be calculated as follows: <!-- Start of picture text --> [figure not available] (102) <!-- End of picture text --> The standard deviation shall be calculated as follows: <!-- Start of picture text --> (103) <!-- End of picture text --> A.3.2.",
+   "reason": "Paragraph Annex 4 Appendix 3 0 of UN R49 was amended in version 7.4.0: '[figure not available]' was added.",
+   "source": {
+    "page": 183,
+    "paragraph": "Annex 4 Appendix 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-1077",
+   "change": "modified",
+   "new_text": "Regression analysis The slope of the regression shall be calculated as follows: <!-- Start of picture text --> (104) <!-- End of picture text --> <!-- Start of picture text --> The y intercept of the regression shall be calculated as follows: <!-- End of picture text --> <!-- Start of picture text --> (105) <!-- End of picture text --> The standard error of estimate (SEE) shall be calculated as follows: <!-- Start of picture text --> (106) <!-- End of picture text --> The coefficient of determination shall be calculated as follows: <!-- Start of picture text --> (107) A.3.3.",
+   "reason": "Paragraph Annex 4 Appendix 3 0 of UN R49 was amended in version 7.4.0: '<!-- Start of picture text -->' was added; '<!-- End of picture text -->' was added; '<!-- End of picture text -->' was added; 'End of picture text --> <!--' was removed; '<!-- End of picture text -->' was removed.",
+   "source": {
+    "page": 183,
+    "paragraph": "Annex 4 Appendix 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-1078",
+   "change": "modified",
+   "new_text": "Determination of system equivalency <!-- End of picture text --> The determination of system equivalency according to paragraph 5.1.1. of this annex shall be based on a seven sample pair (or larger) correlation study between the candidate system and one of the accepted reference systems of this annex using the appropriate test cycle(s).",
+   "reason": "Paragraph Annex 4 Appendix 3 0 of UN R49 was amended in version 7.4.0: '<!-- End of picture text -->' was added.",
+   "source": {
+    "page": 183,
+    "paragraph": "Annex 4 Appendix 3 0"
+   }
+  },
+  {
+   "requirement_id": "R-1086",
+   "change": "removed",
+   "reason": "Paragraph Annex 4 Appendix 4 0 of UN R49 was amended in version 7.4.0; the provision 'The carbon flow rate shall be determined from the dilute CO2 concentration, the exhaust gas mass flo…' no longer appears."
+  },
+  {
+   "requirement_id": "R-1087",
+   "change": "removed",
+   "reason": "Paragraph Annex 4 Appendix 4 0 of UN R49 was amended in version 7.4.0; the provision 'If CO2 is measured on a dry basis, it shall be converted to wet basis according to paragraph 8.1. of…' no longer appears."
+  },
+  {
+   "requirement_id": "R-1089",
+   "change": "modified",
+   "new_text": "Speed and torque denormalization procedure As an example, the following test point shall be denormalized: <!-- Start of picture text --> per cent speed = 43 per cent per cent torque = 82 per cent <!-- End of picture text --> Given the following values: <!-- Start of picture text --> n lo = 1,015 min -1 n hi = 2,200 min -1 <!-- End of picture text -->",
+   "reason": "Paragraph Annex 4 Appendix 5 0 of UN R49 was amended in version 7.4.0: '<!-- Start of picture text --> n lo = 1,015 min -1 n hi = 2,200 min -1 <!-- End of picture text -->' was added.",
+   "source": {
+    "page": 186,
+    "paragraph": "Annex 4 Appendix 5 0"
+   }
+  },
+  {
+   "requirement_id": "R-1116",
+   "change": "removed",
+   "reason": "Paragraph Annex 4 Appendix 7 0 of UN R49 was amended in version 7.4.0; the provision 'The following equation shall be applied:' no longer appears."
+  },
+  {
+   "requirement_id": "R-1117",
+   "change": "modified",
+   "new_text": "The following equation shall be applied: <!-- Start of picture text --> (115) <!-- End of picture text --> Where: c NH3,i is the instantaneous NH3 concentration in the exhaust gas, ppm n is the number of measurements For the WHTC, the final test result shall be determined with the following equation: <!-- Start of picture text --> (116) <!-- End of picture text --> Where:",
+   "reason": "Paragraph Annex 4 Appendix 7 0 of UN R49 was amended in version 7.4.0: 'The following equation shall be applied: <!-- Start of picture text -->' was added; '<!-- End of picture text -->' was added; '<!-- Start of picture text --> (116) <!-- End of picture text --> Where:' was added.",
+   "source": {
+    "page": 193,
+    "paragraph": "Annex 4 Appendix 7 0"
+   }
+  },
+  {
+   "requirement_id": "R-1217",
+   "change": "modified",
+   "new_text": "The particle concentration reduction factor at each particle size (fr(di) ) shall be calculated as follows; <!-- Start of picture text --> (117) <!-- End of picture text --> <!-- Start of picture text --> Where:",
+   "reason": "Paragraph Annex 4 Appendix 8 0 of UN R49 was amended in version 7.4.0: '<!-- End of picture text --> <!-- Start of picture text -->' was added.",
+   "source": {
+    "page": 196,
+    "paragraph": "Annex 4 Appendix 8 0"
+   }
+  },
+  {
+   "requirement_id": "R-1218",
+   "change": "modified",
+   "new_text": "Nin(di)  and  Nout(di)  shall be corrected to the same conditions. <!-- End of picture text --> The mean particle concentration reduction ( _[figure not available]_ ) at a given dilution setting shall be calculated as follows; <!-- Start of picture text --> (118) <!-- End of picture text --> It is recommended that the VPR is calibrated and validated as a complete unit.",
+   "reason": "Paragraph Annex 4 Appendix 8 0 of UN R49 was amended in version 7.4.0: '_[figure not available]_' was added; '<!-- Start of picture text --> (118) <!-- End of picture text --> It is recommended that the VPR is calibrated and validated as a complete unit.' was added.",
+   "source": {
+    "page": 196,
+    "paragraph": "Annex 4 Appendix 8 0"
+   }
+  },
+  {
+   "requirement_id": "R-1362",
+   "change": "modified",
+   "new_text": "The in-service conformity test shall be representative for vehicles operated on their real driving routes, with their normal payload and with the usual professional driver or the ADS (as applicable) of the vehicle.",
+   "reason": "Paragraph Annex 8 1.2 of UN R49 was amended in version 7.4.0: 'or the ADS (as applicable)' was added.",
+   "source": {
+    "page": 216,
+    "paragraph": "Annex 8 1.2"
+   }
+  },
+  {
+   "requirement_id": "R-1548",
+   "change": "removed",
+   "reason": "Paragraph Annex 8 Appendix 1 3 of UN R49 was amended in version 7.4.0; the provision 'The following formula shall apply for the purposes of determining the instantaneous PM number emissi…' no longer appears."
+  },
+  {
+   "requirement_id": "R-1567",
+   "change": "modified",
+   "new_text": "Where: is the CO2 mass measured between the test start and time t _j,i_ , kg; is the CO2 mass determined for the WHTC, kg; t2,i shall be selected such as:",
+   "reason": "Paragraph Annex 8 Appendix 1 3 of UN R49 was amended in version 7.4.0: '[figure not available] Where is the data sampling period, equal to 1 second or less.' was removed.",
+   "source": {
+    "page": 230,
+    "paragraph": "Annex 8 Appendix 1 3"
+   }
+  },
+  {
+   "requirement_id": "R-1576",
+   "change": "removed",
+   "reason": "Paragraph Annex 8 Appendix 1 3 of UN R49 was amended in version 7.4.0; the provision 'Calculation of the conformity factors The conformity factors shall be calculated for each individual…' no longer appears."
+  },
+  {
+   "requirement_id": "R-1826",
+   "change": "modified",
+   "new_text": "The Type Approval Authority may approve upon request of the manufacturer an alternative location provided the installation position shall be easily accessible and protected from accidental damage during normal conditions of use, e.g. the location as described in ISO 15031 series of standards.",
+   "reason": "Paragraph Annex 9B 4.7.3.3 of UN R49 was amended in version 7.4.0: 'Type' was added.",
+   "source": {
+    "page": 260,
+    "paragraph": "Annex 9B 4.7.3.3"
+   }
+  },
+  {
+   "requirement_id": "R-1827",
+   "change": "modified",
+   "new_text": "If the additional connector conforms to one of the standard diagnostic connectors allowed in Appendix 6 to this annex, only the connector required by this annex shall be clearly labelled \"OBD\" to distinguish it from other similar connectors.",
+   "reason": "Paragraph Annex 9B 4.7.3.3 of UN R49 was amended in version 7.4.0: '6,' became '6 to this annex,'.",
+   "source": {
+    "page": 260,
+    "paragraph": "Annex 9B 4.7.3.3"
+   }
+  },
+  {
+   "requirement_id": "R-2067",
+   "change": "modified",
+   "new_text": "If requested by the manufacturer, for vehicles of categories M2 and N1, for vehicles of categories M1 and N2 with a technically permissible maximum laden mass not exceeding 7.5 tonnes, and for vehicles of category M3 Class I, Class II and Class A and Class B1 with a permissible mass not exceeding 7.5 tonnes, compliance with the requirements of Annex 6 to the 07 series of amendments to Regulation No. 83 shall be considered equivalent to the compliance with this annex. 1 As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3.), document ECE/TRANS/WP.29/78/Rev.8. -https://unece.org/transport/vehicleregulations/wp29/resolutions",
+   "reason": "Paragraph Annex 11 2.1.1 of UN R49 was amended in version 7.4.0: 'ECE/TRANS/WP.29/78/Rev.3, para. 2. - www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29resolutions.html' became 'ECE/TRANS/WP.29/78/Rev.8. -https://unece.org/transport/vehicleregulations/wp29/resolutions'.",
+   "source": {
+    "page": 296,
+    "paragraph": "Annex 11 2.1.1"
+   }
+  },
+  {
+   "requirement_id": "R-2071",
+   "change": "modified",
+   "new_text": "The vehicle user warning system referred to in paragraph 4., 7. and 8. of this Annex shall be understood as the vehicle user warning system in paragraph 3. of Appendix 6 to the 07 series of amendments to Regulation No. 83.",
+   "reason": "Paragraph Annex 11 2.1.2.2.3 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'; 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 296,
+    "paragraph": "Annex 11 2.1.2.2.3"
+   }
+  },
+  {
+   "requirement_id": "R-2077",
+   "change": "modified",
+   "new_text": "Detailed written information fully describing the functional operation characteristics of the vehicle user warning system as provided in accordance with paragraph 4. and of the vehicle user inducement system as provided in accordance with paragraph 5. shall be submitted to the Type Approval Authority at the time of application for the type approval.",
+   "reason": "Paragraph Annex 11 2.2.3 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'; 'driver' became 'vehicle user'; 'approval authority' became 'Type Approval Authority'; 'type-approval.' became 'type approval.'.",
+   "source": {
+    "page": 296,
+    "paragraph": "Annex 11 2.2.3"
+   }
+  },
+  {
+   "requirement_id": "R-2091",
+   "change": "modified",
+   "new_text": "The vehicle user warning system described in paragraph 4. shall be activated if no reagent dosing occurs at an ambient temperature ≤ 266 K (-7 °C).",
+   "reason": "Paragraph Annex 11 2.4.3.1 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'; '(- 7°C).' became '(-7 °C).'.",
+   "source": {
+    "page": 297,
+    "paragraph": "Annex 11 2.4.3.1"
+   }
+  },
+  {
+   "requirement_id": "R-2092",
+   "change": "modified",
+   "new_text": "The severe vehicle user inducement system described in paragraph 5.4. shall be activated if no reagent dosing occurs at an ambient temperature ≤ 266 K (-7 °C) within a maximum of 70 minutes after vehicle start.",
+   "reason": "Paragraph Annex 11 2.4.3.2 of UN R49 was amended in version 7.4.0: 'vehicle user' was added; '(- 7°C)' became '(-7 °C)'.",
+   "source": {
+    "page": 297,
+    "paragraph": "Annex 11 2.4.3.2"
+   }
+  },
+  {
+   "requirement_id": "R-2097",
+   "change": "modified",
+   "new_text": "Those instructions shall state that if the vehicle emission control system is not functioning correctly, the vehicle user will be informed of a problem by the vehicle user warning system, and that operation of the vehicle user inducement system as a consequence of ignoring this warning will result in the vehicle being unable to efficiently conduct its mission.",
+   "reason": "Paragraph Annex 11 3.1 of UN R49 was amended in version 7.4.0: 'correctly' became 'correctly,'; 'driver' became 'vehicle user'; 'driver' became 'vehicle user'; 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 297,
+    "paragraph": "Annex 11 3.1"
+   }
+  },
+  {
+   "requirement_id": "R-2106",
+   "change": "modified",
+   "new_text": "The instructions shall explain how the vehicle user warning system and vehicle user inducement systems work.",
+   "reason": "Paragraph Annex 11 3.7 of UN R49 was amended in version 7.4.0: 'vehicle user' was added; 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 298,
+    "paragraph": "Annex 11 3.7"
+   }
+  },
+  {
+   "requirement_id": "R-2108",
+   "change": "modified",
+   "new_text": "The vehicle shall include a vehicle user warning system using visual alarms that informs the vehicle user and/or sends a signal to the ADS (as applicable), when a low reagent level, incorrect reagent quality, too low a rate of reagent consumption, or a malfunction, has been detected that may be due to tampering and that will lead to operation of the vehicle user inducement system if not rectified in a timely manner.",
+   "reason": "Paragraph Annex 11 4.1 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'; 'driver' became 'vehicle user and/or sends a signal to the ADS (as applicable),'; 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 298,
+    "paragraph": "Annex 11 4.1"
+   }
+  },
+  {
+   "requirement_id": "R-2109",
+   "change": "modified",
+   "new_text": "The warning system shall also be active when the vehicle user inducement system described in paragraph 5. has been activated.",
+   "reason": "Paragraph Annex 11 4.1 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 298,
+    "paragraph": "Annex 11 4.1"
+   }
+  },
+  {
+   "requirement_id": "R-2113",
+   "change": "modified",
+   "new_text": "The vehicle user warning system shall be activated as specified in paragraphs 6.2., 7.2., 8.4., and 9.3.",
+   "reason": "Paragraph Annex 11 4.5 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 298,
+    "paragraph": "Annex 11 4.5"
+   }
+  },
+  {
+   "requirement_id": "R-2114",
+   "change": "modified",
+   "new_text": "The vehicle user warning system shall be deactivated when the conditions for its activation have ceased to exist.",
+   "reason": "Paragraph Annex 11 4.6 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 298,
+    "paragraph": "Annex 11 4.6"
+   }
+  },
+  {
+   "requirement_id": "R-2115",
+   "change": "modified",
+   "new_text": "The vehicle user warning system shall not be automatically deactivated without the reason for its activation having been remedied.",
+   "reason": "Paragraph Annex 11 4.6 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 298,
+    "paragraph": "Annex 11 4.6"
+   }
+  },
+  {
+   "requirement_id": "R-2116",
+   "change": "modified",
+   "new_text": "As part of the application for type approval under this Regulation, the manufacturer shall demonstrate the operation of the vehicle user warning system, as specified in Appendix 1 to this annex.",
+   "reason": "Paragraph Annex 11 4.10 of UN R49 was amended in version 7.4.0: 'type-approval' became 'type approval'; 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 298,
+    "paragraph": "Annex 11 4.10"
+   }
+  },
+  {
+   "requirement_id": "R-2117",
+   "change": "modified",
+   "new_text": "The vehicle shall incorporate a two-stage vehicle user inducement system starting with a low-level inducement (a performance restriction) followed by a severe inducement (effective disablement of vehicle operation).",
+   "reason": "Paragraph Annex 11 5.1 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 298,
+    "paragraph": "Annex 11 5.1"
+   }
+  },
+  {
+   "requirement_id": "R-2118",
+   "change": "modified",
+   "new_text": "The requirement for a vehicle user inducement system shall not apply to engines or vehicles for use by the rescue services or to engines or on vehicles designed and constructed for use by the armed services, civil defence, fire services and forces responsible for maintaining public order.",
+   "reason": "Paragraph Annex 11 5.2 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 298,
+    "paragraph": "Annex 11 5.2"
+   }
+  },
+  {
+   "requirement_id": "R-2119",
+   "change": "modified",
+   "new_text": "Permanent deactivation of the vehicle user inducement system shall only be done by the engine or vehicle manufacturer.",
+   "reason": "Paragraph Annex 11 5.2 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 298,
+    "paragraph": "Annex 11 5.2"
+   }
+  },
+  {
+   "requirement_id": "R-2120",
+   "change": "modified",
+   "new_text": "Low-level vehicle user inducement system The low-level vehicle user inducement system shall reduce the maximum available engine torque across the engine speed range by 25 per cent between the peak torque speed and the governor breakpoint as described in Appendix 3 to this annex.",
+   "reason": "Paragraph Annex 11 5.3 of UN R49 was amended in version 7.4.0: 'vehicle user' was added; 'vehicle user' was added.",
+   "source": {
+    "page": 298,
+    "paragraph": "Annex 11 5.3"
+   }
+  },
+  {
+   "requirement_id": "R-2122",
+   "change": "modified",
+   "new_text": "The low-level vehicle user inducement system shall be activated when the vehicle becomes stationary 2 for the first time after the conditions specified in paragraphs 6.3., 7.3., 8.5. and 9.4., have occurred. 2 A vehicle shall be considered as stationary at the latest 1 minute after the vehicle speed has been reduced to zero km/h.",
+   "reason": "Paragraph Annex 11 5.3 of UN R49 was amended in version 7.4.0: 'vehicle user' was added; 'stationary2' became 'stationary 2'.",
+   "source": {
+    "page": 298,
+    "paragraph": "Annex 11 5.3"
+   }
+  },
+  {
+   "requirement_id": "R-2124",
+   "change": "modified",
+   "new_text": "Severe vehicle user inducement system The vehicle or engine manufacturer shall incorporate at least one of the severe vehicle user inducement systems described in paragraphs 5.4.1. to 5.4.3. and the \"disable on time limit\" system described in paragraph 5.4.4.",
+   "reason": "Paragraph Annex 11 5.4 of UN R49 was amended in version 7.4.0: 'vehicle user' was added; 'vehicle user' was added.",
+   "source": {
+    "page": 298,
+    "paragraph": "Annex 11 5.4"
+   }
+  },
+  {
+   "requirement_id": "R-2125",
+   "change": "modified",
+   "new_text": "A \"disable after restart\" system shall limit the vehicle speed to 20 km/h (\"creep mode\") after the engine has been shut down at the request of the vehicle user (\"key-off\") or the ADS (as applicable).",
+   "reason": "Paragraph Annex 11 5.4.1 of UN R49 was amended in version 7.4.0: 'driver (\"key-off\").' became 'vehicle user (\"key-off\") or the ADS (as applicable).'.",
+   "source": {
+    "page": 298,
+    "paragraph": "Annex 11 5.4.1"
+   }
+  },
+  {
+   "requirement_id": "R-2130",
+   "change": "modified",
+   "new_text": "The vehicle user inducement system shall be enabled as specified in paragraphs 6.3., 7.3., 8.5., and 9.4.",
+   "reason": "Paragraph Annex 11 5.5 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 299,
+    "paragraph": "Annex 11 5.5"
+   }
+  },
+  {
+   "requirement_id": "R-2131",
+   "change": "modified",
+   "new_text": "When the vehicle user inducement system has determined that the severe inducement system shall be activated, the low-level vehicle user inducement system shall remain activated until the vehicle speed has been limited to 20 km/h (\"creep mode\").",
+   "reason": "Paragraph Annex 11 5.5.1 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'; 'vehicle user' was added.",
+   "source": {
+    "page": 299,
+    "paragraph": "Annex 11 5.5.1"
+   }
+  },
+  {
+   "requirement_id": "R-2132",
+   "change": "modified",
+   "new_text": "The vehicle user inducement system shall be deactivated when the conditions for its activation have ceased to exist.",
+   "reason": "Paragraph Annex 11 5.6 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 299,
+    "paragraph": "Annex 11 5.6"
+   }
+  },
+  {
+   "requirement_id": "R-2133",
+   "change": "modified",
+   "new_text": "The vehicle user inducement system shall not be automatically deactivated without the reason for its activation having been remedied.",
+   "reason": "Paragraph Annex 11 5.6 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 299,
+    "paragraph": "Annex 11 5.6"
+   }
+  },
+  {
+   "requirement_id": "R-2134",
+   "change": "modified",
+   "new_text": "As part of the application for type approval under this Regulation, the manufacturer shall demonstrate the operation of the vehicle user inducement system, as specified in Appendix 1 to this annex.",
+   "reason": "Paragraph Annex 11 5.8 of UN R49 was amended in version 7.4.0: 'type-approval' became 'type approval'; 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 299,
+    "paragraph": "Annex 11 5.8"
+   }
+  },
+  {
+   "requirement_id": "R-2135",
+   "change": "modified",
+   "new_text": "For vehicles other than those of categories X and Y, the vehicle shall include a specific indicator on the dashboard that clearly informs the driver of the level of reagent in the reagent storage tank.",
+   "reason": "Paragraph Annex 11 6.1 of UN R49 was amended in version 7.4.0: 'Reagent indicator The' became 'For vehicles other than those of categories X and Y, the'.",
+   "source": {
+    "page": 299,
+    "paragraph": "Annex 11 6.1"
+   }
+  },
+  {
+   "requirement_id": "R-2136",
+   "change": "modified",
+   "new_text": "The minimum acceptable performance level for the reagent indicator is that it shall continuously indicate the reagent level whilst the vehicle user warning system referred to in paragraph 4. is activated to indicate problems with reagent availability.",
+   "reason": "Paragraph Annex 11 6.1 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 299,
+    "paragraph": "Annex 11 6.1"
+   }
+  },
+  {
+   "requirement_id": "R-2137",
+   "change": "removed",
+   "reason": "Paragraph Annex 11 6.1 of UN R49 was amended in version 7.4.0; the provision 'The reagent indicator shall be placed in close proximity to the fuel level indicator.' no longer appears."
+  },
+  {
+   "requirement_id": "R-2138",
+   "change": "modified",
+   "new_text": "The vehicle user warning system specified in paragraph 4. shall be activated when the level of reagent is less than 10 per cent of the capacity of the reagent tank or a higher percentage at the choice of the manufacturer.",
+   "reason": "Paragraph Annex 11 6.2.1 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 299,
+    "paragraph": "Annex 11 6.2.1"
+   }
+  },
+  {
+   "requirement_id": "R-2141",
+   "change": "modified",
+   "new_text": "The vehicle user warning system does not initially need to be continuously activated, however activation shall escalate in intensity so that it becomes continuous when the level of the reagent is approaching a very low proportion of the capacity of the reagent tank and the point where the vehicle user inducement system will come into effect is approached.",
+   "reason": "Paragraph Annex 11 6.2.3 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'; 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 299,
+    "paragraph": "Annex 11 6.2.3"
+   }
+  },
+  {
+   "requirement_id": "R-2142",
+   "change": "modified",
+   "new_text": "It shall culminate in a vehicle user notification at a level that is at the choice of the manufacturer, but is sufficiently more noticeable than the point where the vehicle user inducement system in paragraph 6.3. comes into effect.",
+   "reason": "Paragraph Annex 11 6.2.3 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'; 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 299,
+    "paragraph": "Annex 11 6.2.3"
+   }
+  },
+  {
+   "requirement_id": "R-2145",
+   "change": "modified",
+   "new_text": "It shall not be possible to turn off the vehicle user warning system until the reagent has been replenished to a level not requiring its activation.",
+   "reason": "Paragraph Annex 11 6.2.5 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 299,
+    "paragraph": "Annex 11 6.2.5"
+   }
+  },
+  {
+   "requirement_id": "R-2146",
+   "change": "modified",
+   "new_text": "The low-level vehicle user inducement system described in paragraph 5.3. shall be enabled, and subsequently activated according to the requirements of that section, if the reagent tank level goes below 2.5 per cent of its nominally full capacity or a higher percentage at the choice of the manufacturer.",
+   "reason": "Paragraph Annex 11 6.3.1 of UN R49 was amended in version 7.4.0: 'vehicle user' was added; '%' became 'per cent'.",
+   "source": {
+    "page": 299,
+    "paragraph": "Annex 11 6.3.1"
+   }
+  },
+  {
+   "requirement_id": "R-2147",
+   "change": "modified",
+   "new_text": "The severe vehicle user inducement system described in paragraph 5.4. shall be enabled, and subsequently activated according to the requirements of that section, if the reagent tank is empty (that is, the dosing system is unable to draw further reagent from the tank) or at any level below 2.5 per cent of its nominally full capacity at the discretion of the manufacturer.",
+   "reason": "Paragraph Annex 11 6.3.2 of UN R49 was amended in version 7.4.0: 'vehicle user' was added; '%' became 'per cent'.",
+   "source": {
+    "page": 299,
+    "paragraph": "Annex 11 6.3.2"
+   }
+  },
+  {
+   "requirement_id": "R-2148",
+   "change": "modified",
+   "new_text": "It shall not be possible to turn off the low-level or severe vehicle user inducement system until the reagent has been replenished to a level not requiring their respective activation.",
+   "reason": "Paragraph Annex 11 6.3.3 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 299,
+    "paragraph": "Annex 11 6.3.3"
+   }
+  },
+  {
+   "requirement_id": "R-2157",
+   "change": "modified",
+   "new_text": "When the monitoring systems detects or, as appropriate, confirms that the reagent quality is incorrect, the vehicle user warning system described in paragraph 4. shall be activated.",
+   "reason": "Paragraph Annex 11 7.2 of UN R49 was amended in version 7.4.0: 'Activation of the driver warning system' was removed; 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 300,
+    "paragraph": "Annex 11 7.2"
+   }
+  },
+  {
+   "requirement_id": "R-2159",
+   "change": "modified",
+   "new_text": "The low-level vehicle user inducement system described in paragraph 5.3. shall be enabled, and subsequently activated according to the requirements of that section, if the reagent quality is not rectified within 10 engine operating hours after the activation of the vehicle user warning system described in paragraph 7.2.",
+   "reason": "Paragraph Annex 11 7.3.1 of UN R49 was amended in version 7.4.0: 'vehicle user' was added; 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 300,
+    "paragraph": "Annex 11 7.3.1"
+   }
+  },
+  {
+   "requirement_id": "R-2160",
+   "change": "modified",
+   "new_text": "The severe vehicle user inducement system described in paragraph 5.4. shall be enabled, and subsequently activated according to the requirements of that section, if the reagent quality is not rectified within 20 engine operating hours after the activation of the vehicle user warning system described in paragraph 7.2.",
+   "reason": "Paragraph Annex 11 7.3.2 of UN R49 was amended in version 7.4.0: 'vehicle user' was added; 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 300,
+    "paragraph": "Annex 11 7.3.2"
+   }
+  },
+  {
+   "requirement_id": "R-2161",
+   "change": "modified",
+   "new_text": "The number of hours prior to activation of the vehicle user inducement systems shall be reduced in case of a repetitive occurrence of the malfunction, in accordance with the mechanism described in Appendix 2 to this annex.",
+   "reason": "Paragraph Annex 11 7.3.3 of UN R49 was amended in version 7.4.0: 'vehicle user' was added.",
+   "source": {
+    "page": 300,
+    "paragraph": "Annex 11 7.3.3"
+   }
+  },
+  {
+   "requirement_id": "R-2166",
+   "change": "modified",
+   "new_text": "The vehicle user warning system described in paragraph 4. shall be activated if a deviation of more than fifty per cent between the average reagent consumption and the average demanded reagent consumption by the engine system over a period to be defined by the manufacturer, which shall not be longer than the maximum period defined in paragraph 8.3.1., or, when applicable, paragraph 8.3.1.1., is detected.",
+   "reason": "Paragraph Annex 11 8.4.1 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 300,
+    "paragraph": "Annex 11 8.4.1"
+   }
+  },
+  {
+   "requirement_id": "R-2168",
+   "change": "modified",
+   "new_text": "The vehicle user warning system described in paragraph 4. shall be activated in the case of interruption in reagent dosing.",
+   "reason": "Paragraph Annex 11 8.4.2 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 301,
+    "paragraph": "Annex 11 8.4.2"
+   }
+  },
+  {
+   "requirement_id": "R-2171",
+   "change": "modified",
+   "new_text": "The low-level vehicle user inducement system described in paragraph 5.3. shall be enabled, and subsequently activated according to the requirements of that section, if an error in the reagent consumption or an interruption in reagent dosing is not rectified within 10 engine operating hours after the activation of the vehicle user warning system specified in paragraphs 8.4.1. and 8.4.2.",
+   "reason": "Paragraph Annex 11 8.5.1 of UN R49 was amended in version 7.4.0: 'vehicle user' was added; 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 301,
+    "paragraph": "Annex 11 8.5.1"
+   }
+  },
+  {
+   "requirement_id": "R-2172",
+   "change": "modified",
+   "new_text": "The severe vehicle user inducement system described in paragraph 5.4. shall be enabled, and subsequently activated according to the requirements of that section, if an error in the reagent consumption or an interruption in reagent dosing is not rectified within 20 engine operating hours after the activation of the vehicle user warning system in paragraphs 8.4.1. and 8.4.2.",
+   "reason": "Paragraph Annex 11 8.5.2 of UN R49 was amended in version 7.4.0: 'vehicle user' was added; 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 301,
+    "paragraph": "Annex 11 8.5.2"
+   }
+  },
+  {
+   "requirement_id": "R-2173",
+   "change": "modified",
+   "new_text": "The number of hours prior to activation of the vehicle user inducement systems shall be reduced in case of a repetitive occurrence of the malfunction in accordance with the mechanism described in Appendix 2 to this annex.",
+   "reason": "Paragraph Annex 11 8.5.3 of UN R49 was amended in version 7.4.0: 'vehicle user' was added.",
+   "source": {
+    "page": 301,
+    "paragraph": "Annex 11 8.5.3"
+   }
+  },
+  {
+   "requirement_id": "R-2182",
+   "change": "modified",
+   "new_text": "Activation of the vehicle user warning system The vehicle user warning system described in paragraph 4. shall be activated in the case where any of the failures specified in paragraph 9.1. occurs, and shall indicate that an urgent repair is required.",
+   "reason": "Paragraph Annex 11 9.3 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'; 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 301,
+    "paragraph": "Annex 11 9.3"
+   }
+  },
+  {
+   "requirement_id": "R-2183",
+   "change": "modified",
+   "new_text": "When the vehicle user warning system includes a message display system, it shall display a message indicating either the reason for the warning (for example, \"reagent dosing valve disconnected\", or \"critical emission failure\").",
+   "reason": "Paragraph Annex 11 9.3 of UN R49 was amended in version 7.4.0: 'vehicle user' was added.",
+   "source": {
+    "page": 301,
+    "paragraph": "Annex 11 9.3"
+   }
+  },
+  {
+   "requirement_id": "R-2184",
+   "change": "modified",
+   "new_text": "The low-level vehicle user inducement system described in paragraph 5.3. shall be enabled, and subsequently activated according to the requirements of that section, if a failure specified in paragraph 9.1. is not rectified within 36 engine operating hours after the activation of the vehicle user warning system in paragraph 9.3.",
+   "reason": "Paragraph Annex 11 9.4.1 of UN R49 was amended in version 7.4.0: 'vehicle user' was added; 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 301,
+    "paragraph": "Annex 11 9.4.1"
+   }
+  },
+  {
+   "requirement_id": "R-2185",
+   "change": "modified",
+   "new_text": "The severe vehicle user inducement system described in paragraph 5.4. shall be enabled, and subsequently activated according to the requirements of that section, if a failure specified in paragraph 9.1. is not rectified within 100 engine operating hours after the activation of the vehicle user warning system in paragraph 9.3.",
+   "reason": "Paragraph Annex 11 9.4.2 of UN R49 was amended in version 7.4.0: 'vehicle user' was added; 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 301,
+    "paragraph": "Annex 11 9.4.2"
+   }
+  },
+  {
+   "requirement_id": "R-2186",
+   "change": "modified",
+   "new_text": "The number of hours prior to activation of the vehicle user inducement systems shall be reduced in case of a repetitive occurrence of the malfunction in accordance with the mechanism described in Appendix 2 to this annex.",
+   "reason": "Paragraph Annex 11 9.4.3 of UN R49 was amended in version 7.4.0: 'vehicle user' was added.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 9.4.3"
+   }
+  },
+  {
+   "requirement_id": "R-2187",
+   "change": "modified",
+   "new_text": "The manufacturer shall submit to the Type Approval Authority a complete documentation package justifying the compliance of the SCR system with the requirements of this annex as regards its capabilities for monitoring and activation of the vehicle user warning and vehicle user inducement system, which may include:",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 was amended in version 7.4.0: 'General A.1.1.1' was removed; 'Type' was added; 'driver' became 'vehicle user'; 'vehicle user' was added.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": "R-2189",
+   "change": "modified",
+   "new_text": "The compliance of the vehicle user warning system activation shall be demonstrated by performing one test for each of the failure categories considered in paragraphs 6. to 9. of this annex such as: lack of reagent, low reagent quality, low reagent consumption, failure of components of the monitoring system.",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 was amended in version 7.4.0: 'vehicle user' was added.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": "R-2190",
+   "change": "modified",
+   "new_text": "For the purpose of demonstrating the activation of the vehicle user warning system in case of a wrong reagent quality, a reagent shall be selected with a concentration of the active ingredient equal to or higher than the minimum acceptable reagent concentration CD min, communicated by the manufacturer in accordance with the requirements of paragraph 7.1.1. of this annex.",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 was amended in version 7.4.0: 'vehicle user' was added; 'CDmin,' became 'CD min,'.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": "R-2191",
+   "change": "modified",
+   "new_text": "For the purpose of demonstrating the activation of the vehicle user warning system in the case of an incorrect rate of reagent consumption, it shall be sufficient to arrange an interruption of the dosing activity.",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 was amended in version 7.4.0: 'vehicle user' was added.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": "R-2192",
+   "change": "modified",
+   "new_text": "Where activation of the vehicle user warning system has been demonstrated by interruption of the dosing activity, the manufacturer shall, in addition, present the Type Approval Authority with evidence such as algorithms, functional analyses, the results of previous tests, etc. to show that the warning system will activate correctly in the case of an incorrect rate of reagent consumption due to other causes.",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 was amended in version 7.4.0: 'vehicle user' was added; 'approval authority' became 'Type Approval Authority'.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": "R-2193",
+   "change": "modified",
+   "new_text": "For the purpose of demonstrating the activation of the vehicle user warning system in case of failures that may be attributed to tampering, as defined in paragraph 9.",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 was amended in version 7.4.0: 'vehicle user' was added; 'of this annex, the selection shall be performed in accordance with the following requirements:' was removed.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": "R-2196",
+   "change": "modified",
+   "new_text": "For the purposes of this demonstration of the activation of the vehicle user warning system a separate test shall be performed for each of the failures considered in paragraph A.1.3.1.",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 was amended in version 7.4.0: 'vehicle user' was added.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": "R-2201",
+   "change": "modified",
+   "new_text": "For the purpose of demonstrating the activation of the vehicle user warning system in case of lack of reagent availability, the engine system shall be operated over one or more operating sequences at the discretion of the manufacturer.",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 was amended in version 7.4.0: 'vehicle user' was added.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": "R-2203",
+   "change": "modified",
+   "new_text": "The demonstration of the vehicle user inducement system shall be done by tests performed on an engine test bench.",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 was amended in version 7.4.0: 'vehicle user' was added.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": "R-2204",
+   "change": "modified",
+   "new_text": "Any additional vehicle components or sub-systems, such as ambient temperature sensors, level sensors, and vehicle user warning and information systems, that are required in order to perform the demonstrations shall be connected to the engine system for that purpose, or shall be simulated, to the satisfaction of the Type Approval Authority.",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'; 'approval authority.' became 'Type Approval Authority.'.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": "R-2205",
+   "change": "modified",
+   "new_text": "The test sequence shall demonstrate the activation of the vehicle user inducement system in case of lack of reagent and in case of one of the failures defined in paragraphs 7., 8., or 9. of this annex.",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 was amended in version 7.4.0: 'vehicle user' was added.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": "R-2206",
+   "change": "removed",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 was amended in version 7.4.0; the provision 'For the purpose of this demonstration, (a) The approval authority shall select, in addition to the l…' no longer appears."
+  },
+  {
+   "requirement_id": "R-2208",
+   "change": "modified",
+   "new_text": "The manufacturer shall, in addition, demonstrate the operation of the vehicle user inducement system under those failure conditions defined in paragraphs 7., 8. or 9. of this annex which have not been chosen for use in demonstration tests described in paragraphs A.1.4.1., A.1.4.2. and A.1.4.3.",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 was amended in version 7.4.0: 'vehicle user' was added.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": "R-2210",
+   "change": "modified",
+   "new_text": "When the system is being checked for its reaction to the case of lack of reagent in the tank, the engine system shall be run until the reagent availability has reached a value of 2.5 per cent of the nominal full capacity of the tank or the value declared by the manufacturer in accordance with paragraph 6.3.1. of this annex at which the low-level vehicle user inducement system is intended to operate.",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 was amended in version 7.4.0: 'vehicle user' was added.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": "R-2211",
+   "change": "modified",
+   "new_text": "When the system is checked for its reaction in the case of a failure other than a lack of reagent in the tank, the engine system shall be run for the relevant number of operating hours indicated in Table 2 of Appendix 2 or, at the choice of the manufacturer, until the relevant counter has reached the value at which the low-level vehicle user inducement system is activated.",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 was amended in version 7.4.0: 'vehicle user' was added.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": "R-2212",
+   "change": "modified",
+   "new_text": "The demonstration of the low level vehicle user inducement system shall be deemed to be accomplished if, at the end of each demonstration test performed in accordance with paragraphs A.1.4.5.2. and A.1.4.5.3., the manufacturer has demonstrated to the Type Approval Authority that the engine ECU has activated the torque reduction mechanism.",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 was amended in version 7.4.0: 'vehicle user' was added; 'approval authority' became 'Type Approval Authority'.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": "R-2213",
+   "change": "modified",
+   "new_text": "This demonstration shall start from a condition where the low-level vehicle user inducement system has been previously activated, and may be performed as a continuation of the tests undertaken to demonstrate the low-level vehicle user inducement system.",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 was amended in version 7.4.0: 'vehicle user' was added; 'vehicle user' was added.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": "R-2214",
+   "change": "modified",
+   "new_text": "When the system is checked for its reaction in the case of lack of reagent in the tank, the engine system shall be run until the reagent tank is empty (that is, until the dosing system cannot draw further reagent from the tank), or has reached the level below 2.5 per cent of nominal full capacity of the tank at which the manufacturer has declared that the severe vehicle user inducement system will be activated.",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 was amended in version 7.4.0: 'vehicle user' was added.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": "R-2215",
+   "change": "modified",
+   "new_text": "When the system is checked for its reaction in the case of a failure that is not a lack of reagent in the tank, the engine system shall then be run for the relevant number of operating hours indicated in Table 2 of Appendix 2 or, at the choice of the manufacturer, until the relevant counter has reached the value at which the severe vehicle user inducement system is activated.",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 was amended in version 7.4.0: 'vehicle user' was added.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": "R-2216",
+   "change": "modified",
+   "new_text": "The demonstration of the severe vehicle user inducement system shall be deemed to be accomplished if, at the end of each demonstration test performed in accordance with paragraphs A.1.4.6.2. and A.1.4.6.3. the manufacturer has demonstrated to the Type Approval Authority that the required vehicle speed limitation mechanism has been activated.",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 was amended in version 7.4.0: 'vehicle user' was added; 'type-approval authority' became 'Type Approval Authority'.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": "R-2217",
+   "change": "modified",
+   "new_text": "The demonstration of the vehicle speed limitation following activation of the severe vehicle user inducement system shall be performed by the presentation to the Type Approval Authority of a technical case using evidence such as algorithms, functional analyses, and the result of previous tests.",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 was amended in version 7.4.0: 'vehicle user' was added; 'approval authority' became 'Type Approval Authority'.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": "R-2220",
+   "change": "modified",
+   "new_text": "This demonstration shall be performed at the request of the Type Approval Authority when it is not satisfied with the evidence of proper operation of the severe vehicle user inducement system provided by the manufacturer.",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 was amended in version 7.4.0: 'approval authority' became 'Type Approval Authority'; 'vehicle user' was added.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": "R-2221",
+   "change": "modified",
+   "new_text": "This demonstration shall be performed at the earliest opportunity in agreement with the Type Approval Authority.",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 was amended in version 7.4.0: 'approval authority.' became 'Type Approval Authority.'.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": "R-2223",
+   "change": "modified",
+   "new_text": "The vehicle user inducement system shall be brought by the manufacturer to a state where the low-level vehicle user inducement system has been activated and the severe vehicle user inducement system has not yet been activated.",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 was amended in version 7.4.0: 'vehicle user' was added; 'vehicle user' was added; 'vehicle user' was added.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": "R-2224",
+   "change": "modified",
+   "new_text": "The vehicle shall be operated until the counter associated with the selected failure has reached the relevant number of operating hours indicated in Table 2 of Appendix 2 or, as appropriate, until either the reagent tank is empty or, has reached the level below 2.5 per cent of nominal full capacity of the tank at which the manufacturer has chosen to activate the severe vehicle user inducement system.",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 was amended in version 7.4.0: 'vehicle user' was added.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": "R-2232",
+   "change": "modified",
+   "new_text": "The vehicle user warning system shall be activated when the diagnostic trouble code (DTC) associated with a malfunction justifying its activation has the status defined in Table 1.",
+   "reason": "Paragraph Annex 11 Appendix 2 0 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 306,
+    "paragraph": "Annex 11 Appendix 2 0"
+   }
+  },
+  {
+   "requirement_id": "R-2233",
+   "change": "modified",
+   "new_text": "If the counter associated with the relevant failure is not at zero, and is consequently indicating that the monitor has detected a situation where the malfunction may have occurred for a second or subsequent time, the vehicle user warning system shall be activated when the DTC has the status \"potential\".",
+   "reason": "Paragraph Annex 11 Appendix 2 0 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 306,
+    "paragraph": "Annex 11 Appendix 2 0"
+   }
+  },
+  {
+   "requirement_id": "R-2234",
+   "change": "modified",
+   "new_text": "The vehicle user warning system shall be deactivated when the diagnostic system concludes that the malfunction relevant to that warning is no longer present or when the information, including DTCs relative to the failures, justifying its activation is erased by a scan tool.",
+   "reason": "Paragraph Annex 11 Appendix 2 0 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 306,
+    "paragraph": "Annex 11 Appendix 2 0"
+   }
+  },
+  {
+   "requirement_id": "R-2235",
+   "change": "modified",
+   "new_text": "Erasing of information, including DTCs relative to failures justifying the activation of a vehicle user warning signal and of their associated data, by means of a scan tool shall be performed in accordance with Annex 9B.",
+   "reason": "Paragraph Annex 11 Appendix 2 0 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 306,
+    "paragraph": "Annex 11 Appendix 2 0"
+   }
+  },
+  {
+   "requirement_id": "R-2238",
+   "change": "modified",
+   "new_text": "The vehicle user inducement system shall be activated when the warning system is active and the counter relevant to the type of malfunction justifying its activation has reached the value specified in Table 2.",
+   "reason": "Paragraph Annex 11 Appendix 2 0 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 306,
+    "paragraph": "Annex 11 Appendix 2 0"
+   }
+  },
+  {
+   "requirement_id": "R-2239",
+   "change": "modified",
+   "new_text": "The vehicle user inducement system shall be deactivated when the system no longer detects a malfunction justifying its activation, or if the information, including the DTCs, relative to the failures justifying its activation has been erased by a scan tool or maintenance tool.",
+   "reason": "Paragraph Annex 11 Appendix 2 0 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'.",
+   "source": {
+    "page": 306,
+    "paragraph": "Annex 11 Appendix 2 0"
+   }
+  },
+  {
+   "requirement_id": "R-2240",
+   "change": "modified",
+   "new_text": "The vehicle user warning and vehicle user inducement systems shall be immediately activated or deactivated as appropriate in accordance with the provisions of paragraph 6. of this annex after assessment of the reagent quantity in the reagent tank.",
+   "reason": "Paragraph Annex 11 Appendix 2 0 of UN R49 was amended in version 7.4.0: 'driver' became 'vehicle user'; 'vehicle user' was added.",
+   "source": {
+    "page": 306,
+    "paragraph": "Annex 11 Appendix 2 0"
+   }
+  },
+  {
+   "requirement_id": "R-2248",
+   "change": "modified",
+   "new_text": "If the counter stops counting when the severe vehicle user inducement system is active, the counter shall be kept frozen at the value defined in Table 2.",
+   "reason": "Paragraph Annex 11 Appendix 2 0 of UN R49 was amended in version 7.4.0: 'vehicle user' was added.",
+   "source": {
+    "page": 306,
+    "paragraph": "Annex 11 Appendix 2 0"
+   }
+  },
+  {
+   "requirement_id": "R-2277",
+   "change": "modified",
+   "new_text": "The following equation shall be applied:",
+   "reason": "Paragraph Annex 12 3.1.3 of UN R49 was amended in version 7.4.0: '[figure not available] Where:' was removed.",
+   "source": {
+    "page": 312,
+    "paragraph": "Annex 12 3.1.3"
+   }
+  },
+  {
+   "requirement_id": "R-2506",
+   "change": "modified",
+   "new_text": "Dual-fuel operating mode indicator Dual-fuel engines and vehicles shall provide a visual indication to the vehicle user and/or a signal to the ADS (as applicable) of the mode under which the engine operates (dual-fuel mode, diesel mode, or service mode).",
+   "reason": "Paragraph Annex 15 4.3.1 of UN R49 was amended in version 7.4.0: 'to the driver' was removed; 'to the vehicle user and/or a signal to the ADS (as applicable)' was added.",
+   "source": {
+    "page": 343,
+    "paragraph": "Annex 15 4.3.1"
+   }
+  },
+  {
+   "requirement_id": "R-2507",
+   "change": "removed",
+   "reason": "Paragraph Annex 15 4.3.1 of UN R49 was amended in version 7.4.0; the provision 'The visual element of the dual-fuel operating mode indicator shall not be the same as the one used f…' no longer appears."
+  },
+  {
+   "requirement_id": "R-2510",
+   "change": "modified",
+   "new_text": "The indication shall also be given upon a request by the vehicle user or the ADS (as applicable).",
+   "reason": "Paragraph Annex 15 4.3.1.2 of UN R49 was amended in version 7.4.0: 'a request by' was added; 'driver’s request.' became 'vehicle user or the ADS (as applicable).'.",
+   "source": {
+    "page": 343,
+    "paragraph": "Annex 15 4.3.1.2"
+   }
+  },
+  {
+   "requirement_id": "R-2511",
+   "change": "modified",
+   "new_text": "A dual-fuel vehicle shall be equipped with a dual-fuel warning system that alerts the vehicle user and/or the ADS (as applicable) that the gaseous fuel tank will soon become empty.",
+   "reason": "Paragraph Annex 15 4.3.2 of UN R49 was amended in version 7.4.0: 'Empty gaseous fuel tank warning system (dual-fuel warning system)' was removed; 'driver' became 'vehicle user and/or the ADS (as applicable)'.",
+   "source": {
+    "page": 344,
+    "paragraph": "Annex 15 4.3.2"
+   }
+  },
+  {
+   "requirement_id": "R-2514",
+   "change": "modified",
+   "new_text": "Characteristics of the dual-fuel warning system The dual-fuel warning system shall consist of a visual alert system to the vehicle user (icon, pictogram, etc.) left to the choice of the manufacturer, or a signal to the ADS (if applicable).",
+   "reason": "Paragraph Annex 15 4.3.2.1 of UN R49 was amended in version 7.4.0: 'to the vehicle user' was added; 'manufacturer.' became 'manufacturer, or a signal to the ADS (if applicable).'.",
+   "source": {
+    "page": 344,
+    "paragraph": "Annex 15 4.3.2.1"
+   }
+  },
+  {
+   "requirement_id": "R-2579",
+   "change": "modified",
+   "new_text": "(23) <!-- Start of picture text --> (24) <!-- End of picture text --> where: mfuel _,_ corr is the corrected fuel mass of both fuels, g/test mfuel total fuel mass of both fuels, g/test mTHC mass of total hydrocarbon emissions in the exhaust gas, g/test mCO mass of carbon monoxide emissions in the exhaust gas, g/test mCO2 _,_ fuel CO2 mass emission coming from the fuel, g/test wGAM sulphur content of the fuels, per cent mass wDEL nitrogen content of the fuels, per cent mass wEPS oxygen content of the fuels, per cent mass α molar hydrogen ratio of the fuels (H/C) AC is the Atomic mass of Carbon: 12,011 g/mol AH is the Atomic mass of Hydrogen: 1,0079 g/mol MCO is the Molecular mass of Carbon monoxide: 28,011 g/mol MCO2 is the Molecular mass of Carbon dioxide : 44,01 g/mol β is the molar carbon ratio of the fuel, with β=1 for fuels containing carbon and β=0 for fuels with a molar carbon to hydrogen ratio of 0 as defined in paragraph 8. of Annex 4 The CO2 emission resulting from urea shall be calculated with equation 25:",
+   "reason": "Paragraph Annex 15 10.3 of UN R49 was amended in version 7.4.0: '<!-- Start of picture text -->' was added; '<!-- End of picture text -->' was added.",
+   "source": {
+    "page": 350,
+    "paragraph": "Annex 15 10.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles of categories X and Y1 the mass of the driver shall not be subtracted and the additional mass shall be 25 kg; 1 As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3), document ECE/TRANS/WP.29/78/Rev.8 – https://unece.org/transport/vehicle-regulations/wp29/resolutions",
+   "reason": "Paragraph 2.55 of UN R49 is new in version 7.4.0: 'For vehicles of categories X and Y1 the mass of the driver shall not be subtracted and the additiona…'.",
+   "source": {
+    "page": 3,
+    "paragraph": "2.55"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles of category X and category Y the mass of the driver shall not be subtracted;",
+   "reason": "Paragraph 2.62 of UN R49 is new in version 7.4.0: 'For vehicles of category X and category Y the mass of the driver shall not be subtracted;'.",
+   "source": {
+    "page": 4,
+    "paragraph": "2.62"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The total mass of equivalent diluted exhaust gas mass over the cycle shall be determined as follows: <!-- Start of picture text --> (46) <!-- End of picture text -->",
+   "reason": "Paragraph Annex 4 8.4.3.2.2 of UN R49 is new in version 7.4.0: 'The total mass of equivalent diluted exhaust gas mass over the cycle shall be determined as follows:…'.",
+   "source": {
+    "page": 96,
+    "paragraph": "Annex 4 8.4.3.2.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The calibration coefficient shall be calculated from the calibration data for each setting as follows: <!-- Start of picture text --> (88) <!-- End of picture text --> Where:",
+   "reason": "Paragraph Annex 4 9.5.3.1 of UN R49 is new in version 7.4.0: 'The calibration coefficient shall be calculated from the calibration data for each setting as follow…'.",
+   "source": {
+    "page": 122,
+    "paragraph": "Annex 4 9.5.3.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The average KV and the standard deviation shall be calculated.",
+   "reason": "Paragraph Annex 4 9.5.3.1 of UN R49 is new in version 7.4.0: 'The average KV and the standard deviation shall be calculated.'.",
+   "source": {
+    "page": 122,
+    "paragraph": "Annex 4 9.5.3.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The carbon flow rate shall be determined from the dilute CO2 concentration, the exhaust gas mass flow rate and the sample flow rate: <!-- Start of picture text --> (114) <!-- End of picture text --> Where: <!-- Start of picture text --> c CO2,d is the wet CO2 concentration in the dilute exhaust gas at the outlet of the dilution tunnel, per cent c CO2,a is the wet CO2 concentration in the ambient air, per cent qmew is the exhaust gas mass flow rate on wet basis, kg/s qmp is the sample flow of exhaust gas into partial flow dilution system, kg/s M e is the molar mass of exhaust gas, g/mol <!-- End of picture text --> If CO2 is measured on a dry basis, it shall be converted to wet basis according to paragraph 8.1. of this annex.",
+   "reason": "Paragraph Annex 4 Appendix 4 0 of UN R49 is new in version 7.4.0: 'The carbon flow rate shall be determined from the dilute CO2 concentration, the exhaust gas mass flo…'.",
+   "source": {
+    "page": 185,
+    "paragraph": "Annex 4 Appendix 4 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Special provisions for vehicles equipped with an ADS For vehicles of categories X and Y, all tests in this annex shall be conducted, and all respective requirements shall be fulfilled.",
+   "reason": "Paragraph Annex 8 1.2 of UN R49 is new in version 7.4.0: 'Special provisions for vehicles equipped with an ADS For vehicles of categories X and Y, all tests i…'.",
+   "source": {
+    "page": 216,
+    "paragraph": "Annex 8 1.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The in-service conformity test shall be conducted using dedicated methods, which may include assigning way points to define the test route, selection of different modes or any other method subject to agreement between the vehicle manufacturer and the Type Approval Authority, ensuring that the test accurately reflects normal driving patterns.",
+   "reason": "Paragraph Annex 8 1.2 of UN R49 is new in version 7.4.0: 'The in-service conformity test shall be conducted using dedicated methods, which may include assigni…'.",
+   "source": {
+    "page": 216,
+    "paragraph": "Annex 8 1.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles equipped with an ADS, other than those of categories X and Y, the in-service conformity test shall be performed at least in the manual driving mode.",
+   "reason": "Paragraph Annex 8 1.2 of UN R49 is new in version 7.4.0: 'For vehicles equipped with an ADS, other than those of categories X and Y, the in-service conformity…'.",
+   "source": {
+    "page": 216,
+    "paragraph": "Annex 8 1.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "However, testing to verify this shall be performed at the request of the Type Approval Authority. 2.1.",
+   "reason": "Paragraph Annex 8 1.2 of UN R49 is new in version 7.4.0: 'However, testing to verify this shall be performed at the request of the Type Approval Authority. 2.…'.",
+   "source": {
+    "page": 216,
+    "paragraph": "Annex 8 1.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The following formula shall apply for the purposes of determining the instantaneous PM number emissions: where",
+   "reason": "Paragraph Annex 8 Appendix 1 3 of UN R49 is new in version 7.4.0: 'The following formula shall apply for the purposes of determining the instantaneous PM number emissi…'.",
+   "source": {
+    "page": 230,
+    "paragraph": "Annex 8 Appendix 1 3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Calculation of the conformity factors The conformity factors shall be calculated for each individual window and each individual pollutant in the following way:",
+   "reason": "Paragraph Annex 8 Appendix 1 3 of UN R49 is new in version 7.4.0: 'Calculation of the conformity factors The conformity factors shall be calculated for each individual…'.",
+   "source": {
+    "page": 230,
+    "paragraph": "Annex 8 Appendix 1 3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles of categories X and Y, all applicable provisions of this paragraph shall apply.",
+   "reason": "Paragraph Annex 9B 4.7.3.3 of UN R49 is new in version 7.4.0: 'For vehicles of categories X and Y, all applicable provisions of this paragraph shall apply.'.",
+   "source": {
+    "page": 260,
+    "paragraph": "Annex 9B 4.7.3.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In the case of vehicles not equipped with a steering wheel, the connector shall be positioned at a height such that it is outside the normal field of view of the occupant seated nearest to the connector.",
+   "reason": "Paragraph Annex 9B 4.7.3.3 of UN R49 is new in version 7.4.0: 'In the case of vehicles not equipped with a steering wheel, the connector shall be positioned at a h…'.",
+   "source": {
+    "page": 260,
+    "paragraph": "Annex 9B 4.7.3.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In the case of vehicles equipped with an ADS, the special provisions laid down in paragraph 1.2. to Annex 8 shall apply.",
+   "reason": "Paragraph Annex 10 Appendix 1 0 of UN R49 is new in version 7.4.0: 'In the case of vehicles equipped with an ADS, the special provisions laid down in paragraph 1.2. to …'.",
+   "source": {
+    "page": 294,
+    "paragraph": "Annex 10 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Whilst an ADS feature is active, whenever this annex mentions the vehicle user being informed of warnings, it shall be understood as warning signals sent to the ADS.",
+   "reason": "Paragraph Annex 11 1 of UN R49 is new in version 7.4.0: 'Whilst an ADS feature is active, whenever this annex mentions the vehicle user being informed of war…'.",
+   "source": {
+    "page": 295,
+    "paragraph": "Annex 11 1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Compliance with the requirements of this annex shall be demonstrated during type approval by performing, as illustrated in Table 1 and specified in this Appendix, the following demonstrations: (a) A demonstration of the vehicle user warning system activation;",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 is new in version 7.4.0: '(a) A demonstration of the vehicle user warning system activation;'.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Compliance with the requirements of this annex shall be demonstrated during type approval by performing, as illustrated in Table 1 and specified in this Appendix, the following demonstrations: (b) A demonstration of the low level vehicle user inducement system activation;",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 is new in version 7.4.0: '(b) A demonstration of the low level vehicle user inducement system activation;'.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Compliance with the requirements of this annex shall be demonstrated during type approval by performing, as illustrated in Table 1 and specified in this Appendix, the following demonstrations: (c) A demonstration of the severe vehicle user inducement system activation.",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 is new in version 7.4.0: '(c) A demonstration of the severe vehicle user inducement system activation.'.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Of this annex, the selection shall be performed in accordance with the following requirements:",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 is new in version 7.4.0: 'Of this annex, the selection shall be performed in accordance with the following requirements:'.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For the purpose of this demonstration, (a) The Type Approval Authority shall select, in addition to the lack of reagent, one of the failures defined in paragraphs 7., 8. or 9. of this annex that has been previously used in the demonstration of the warning system;",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 is new in version 7.4.0: 'For the purpose of this demonstration, (a) The Type Approval Authority shall select, in addition to …'.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "(b) The manufacturer shall be permitted to simulate, in agreement with the Type Approval Authority, the achievement of a certain number of operating hours;",
+   "reason": "Paragraph Annex 11 Appendix 1 0 of UN R49 is new in version 7.4.0: '(b) The manufacturer shall be permitted to simulate, in agreement with the Type Approval Authority, …'.",
+   "source": {
+    "page": 302,
+    "paragraph": "Annex 11 Appendix 1 0"
+   }
+  }
+ ]
+}

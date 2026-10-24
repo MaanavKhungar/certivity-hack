@@ -1,0 +1,191 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R10",
+ "changes": [
+  {
+   "requirement_id": "R-0166",
+   "change": "modified",
+   "new_text": "When the conformity of a vehicle, component or ESA taken from the series is being verified, production shall be deemed to conform to the requirements of this Regulation in relation to immunity to electromagnetic radiation if the vehicle ESA does not exhibit any degradation relating to the direct control of the vehicle by the ADS or which could be observed by the driver or other road user when the vehicle is in the state defined in Annex 6, paragraph 4., and is subjected to a field strength, expressed in V/m, up to 80% of the reference limits prescribed in paragraph 6.4.2.1., and, if applicable, paragraph 7.7.2.1. for vehicles and paragraph 6.8.2.1. and, if applicable, paragraph 7.18.2.1. for ESAs above.",
+   "reason": "Paragraph 9.3.2 of UN R10 was amended in version 7.3.0: 'by the ADS or' was added; 'Volts/m,' became 'V/m,'; '80 per cent' became '80%'.",
+   "source": {
+    "page": 26,
+    "paragraph": "9.3.2"
+   }
+  },
+  {
+   "requirement_id": "R-0330",
+   "change": "modified",
+   "new_text": "All other systems which affect the driver's or ADS feature’s control of the vehicle shall be (on) as in normal operation of the vehicle.",
+   "reason": "Paragraph Annex 6 2.1.1.4 of UN R10 was amended in version 7.3.0: 'or ADS feature’s' was added.",
+   "source": {
+    "page": 77,
+    "paragraph": "Annex 6 2.1.1.4"
+   }
+  },
+  {
+   "requirement_id": "R-0331",
+   "change": "removed",
+   "reason": "Paragraph Annex 6 2.1.1.5 of UN R10 was amended in version 7.3.0; the provision 'If the vehicle is equipped with an ADS, the immunity test shall demonstrate the vehicle stays in a f…' no longer appears."
+  },
+  {
+   "requirement_id": "R-0343",
+   "change": "modified",
+   "new_text": "\"REESS charging mode\" vehicle test conditions Failure criteria traction battery before starting the next sub-bands).",
+   "reason": "Paragraph Annex 6 2.2.1.2 of UN R10 was amended in version 7.3.0: 'In case of multiple batteries' became 'traction battery before starting'; 'average state of charge shall be considered.' became 'next sub-bands).'.",
+   "source": {
+    "page": 78,
+    "paragraph": "Annex 6 2.2.1.2"
+   }
+  },
+  {
+   "requirement_id": "R-0344",
+   "change": "modified",
+   "new_text": "All other equipment which can be switched ON by the driver, passenger or ADS shall be OFF.",
+   "reason": "Paragraph Annex 6 2.2.1.3 of UN R10 was amended in version 7.3.0: 'driver' became 'driver, passenger'; 'passengers' became 'ADS'.",
+   "source": {
+    "page": 79,
+    "paragraph": "Annex 6 2.2.1.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "\"Immunity related functions\" are the following functions; this list is not exhaustive and shall be adapted to the technical evolution of vehicle/technology: (g) Functions related to the ADS, which when disturbed, result in degradation or change of performance.",
+   "reason": "Paragraph 2.12 of UN R10 is new in version 7.3.0: '(g) Functions related to the ADS, which when disturbed, result in degradation or change of performan…'.",
+   "source": {
+    "page": 2,
+    "paragraph": "2.12"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "If a driver’s seat is fitted but it is not the front seat nearest to the opposing traffic, the applicant shall specify this seating position.",
+   "reason": "Paragraph 3.1.9 of UN R10 is new in version 7.3.0: 'If a driver’s seat is fitted but it is not the front seat nearest to the opposing traffic, the appli…'.",
+   "source": {
+    "page": 6,
+    "paragraph": "3.1.9"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles equipped with an ADS, in the case where the ADS cannot be fully activated or function normally within the EMC (laboratory) test environment, the manufacturer, in agreement with the Type Approval Authority, shall propose alternative methods and/or test configurations, to ensure the ADS is evaluated in a manner which is representative of its intended on-road operation and to demonstrate compliance with the provisions of this Regulation.",
+   "reason": "Paragraph 6.11.3 of UN R10 is new in version 7.3.0: 'For vehicles equipped with an ADS, in the case where the ADS cannot be fully activated or function n…'.",
+   "source": {
+    "page": 14,
+    "paragraph": "6.11.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The methods used shall be subject to agreement by the Type Approval Authority and shall be recorded and described in the test report.",
+   "reason": "Paragraph 6.11.3 of UN R10 is new in version 7.3.0: 'The methods used shall be subject to agreement by the Type Approval Authority and shall be recorded …'.",
+   "source": {
+    "page": 14,
+    "paragraph": "6.11.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The test report shall be prepared by a laboratory accredited to ISO 17025 and recognized by the Type Approval Authority responsible for carrying out the tests and provided along with the information document shown in Annex 2B.",
+   "reason": "Paragraph 6.11.3 of UN R10 is new in version 7.3.0: 'The test report shall be prepared by a laboratory accredited to ISO 17025 and recognized by the Type…'.",
+   "source": {
+    "page": 14,
+    "paragraph": "6.11.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The same test method (vehicle type approval in combination with ESA test report for Annex 9) shall be applied during Conformity of Production test or any applicable test method according to this Annex.",
+   "reason": "Paragraph 6.11.3 of UN R10 is new in version 7.3.0: 'The same test method (vehicle type approval in combination with ESA test report for Annex 9) shall b…'.",
+   "source": {
+    "page": 14,
+    "paragraph": "6.11.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles equipped with an ADS, the 'Active ADS Mode' described below shall be applied in addition to the other test conditions specified in this Annex.",
+   "reason": "Paragraph Annex 6 2.1.1.1 of UN R10 is new in version 7.3.0: 'For vehicles equipped with an ADS, the 'Active ADS Mode' described below shall be applied in additio…'.",
+   "source": {
+    "page": 73,
+    "paragraph": "Annex 6 2.1.1.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "(1) For vehicles equipped with an ADS, where the system cannot be fully activated or function normally within the EMC test environment, the alternative procedures and configurations described in paragraph 6.11.3. shall apply.",
+   "reason": "Paragraph Annex 6 2.1.1.1 of UN R10 is new in version 7.3.0: '(1) For vehicles equipped with an ADS, where the system cannot be fully activated or function normal…'.",
+   "source": {
+    "page": 73,
+    "paragraph": "Annex 6 2.1.1.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In such cases, the ADS braking control logic and command signals shall remain fully active and be monitored for any degradation of performance or unintended activation using an alternative monitoring system (e.g., hydraulic pressure sensors or electrical load simulators).",
+   "reason": "Paragraph Annex 6 2.1.1.1 of UN R10 is new in version 7.3.0: 'In such cases, the ADS braking control logic and command signals shall remain fully active and be mo…'.",
+   "source": {
+    "page": 73,
+    "paragraph": "Annex 6 2.1.1.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The specific alternative method used shall be subject to the agreement of the Type Approval Authority and shall be documented in the test report.",
+   "reason": "Paragraph Annex 6 2.1.1.1 of UN R10 is new in version 7.3.0: 'The specific alternative method used shall be subject to the agreement of the Type Approval Authorit…'.",
+   "source": {
+    "page": 73,
+    "paragraph": "Annex 6 2.1.1.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "For vehicles equipped with an ADS, for which the braking mode cannot be applied with ADS operational without ADS feature(s) activated, the test mode described below shall be applied in addition to the other test conditions specified in this Annex.",
+   "reason": "Paragraph Annex 6 2.1.1.1 of UN R10 is new in version 7.3.0: 'For vehicles equipped with an ADS, for which the braking mode cannot be applied with ADS operational…'.",
+   "source": {
+    "page": 73,
+    "paragraph": "Annex 6 2.1.1.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "(1) For vehicles equipped with an ADS, where the system cannot be fully activated or function normally within the EMC test environment, the alternative procedures and configurations described in paragraph 6.11.3. shall apply.",
+   "reason": "Paragraph Annex 6 2.1.1.1 of UN R10 is new in version 7.3.0: '(1) For vehicles equipped with an ADS, where the system cannot be fully activated or function normal…'.",
+   "source": {
+    "page": 73,
+    "paragraph": "Annex 6 2.1.1.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "If the current consumption can be adjusted, then Unexpected release the current shall be set to at least 20 per cent of its maximum rated charging/input current value for of the parking AC charging. brake.",
+   "reason": "Paragraph Annex 6 2.2.1.2 of UN R10 is new in version 7.3.0: 'If the current consumption can be adjusted, then Unexpected release the current shall be set to at l…'.",
+   "source": {
+    "page": 78,
+    "paragraph": "Annex 6 2.2.1.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "If the current consumption can be adjusted, then the current shall be set to at least 20 per cent of its Loss of Parking maximum value or to a minimum of 16 A (if the 20 per cent of its maximum value cannot be position for achieved in the test facility) for DC charging unless another value is agreed with the Type Approval automatic Authorities. transmission **.** In case of multiple batteries the average state of charge shall be considered.",
+   "reason": "Paragraph Annex 6 2.2.1.2 of UN R10 is new in version 7.3.0: 'If the current consumption can be adjusted, then the current shall be set to at least 20 per cent of…'.",
+   "source": {
+    "page": 78,
+    "paragraph": "Annex 6 2.2.1.2"
+   }
+  }
+ ]
+}

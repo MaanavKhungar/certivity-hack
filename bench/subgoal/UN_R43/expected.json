@@ -1,0 +1,76 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R43",
+ "changes": [
+  {
+   "requirement_id": "R-0036",
+   "change": "modified",
+   "new_text": "In the event of the windscreen's shattering, the driver (if applicable) shall still be able to see the road clearly enough to be able to brake and stop his vehicle safely.",
+   "reason": "Paragraph 6.2 of UN R43 was amended in version 1.13.0: '(if applicable)' was added.",
+   "source": {
+    "page": 7,
+    "paragraph": "6.2"
+   }
+  },
+  {
+   "requirement_id": "R-0296",
+   "change": "modified",
+   "new_text": "However, for agricultural and forestry tractors and for construction-site vehicles for which it is not possible to determine Zone I, the test shall be carried out in Zone I' as defined in Paragraph 9.2.5.3. of this annex. 18 As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3.), document ECE/TRANS/WP.29/78/Rev.8 - https://unece.org/transport/vehicle-regulations/wp29/resolutions",
+   "reason": "Paragraph Annex 3 9.1.2.2 of UN R43 was amended in version 1.13.0: '(R.E.3),' became '(R.E.3.),'; 'ECE/TRANS/WP.29/78/Rev.7, para. 2' became 'ECE/TRANS/WP.29/78/Rev.8'.",
+   "source": {
+    "page": 59,
+    "paragraph": "Annex 3 9.1.2.2"
+   }
+  },
+  {
+   "requirement_id": "R-1021",
+   "change": "modified",
+   "new_text": "The regular light transmittance shall not be less than 70 per cent **,** except while an ADS feature is active.",
+   "reason": "Paragraph Annex 24 4.1.1 of UN R43 was amended in version 1.13.0: 'cent.' became 'cent **,** except while an ADS feature is active.'.",
+   "source": {
+    "page": 139,
+    "paragraph": "Annex 24 4.1.1"
+   }
+  },
+  {
+   "requirement_id": "R-1025",
+   "change": "modified",
+   "new_text": "The safety glazing through which the driver's forward field of vision as defined in paragraph 2.25.1. of this UN Regulation is obtained, shall have a regular light transmittance of at least 70 per cent, except while an ADS feature is active.",
+   "reason": "Paragraph Annex 24 4.2.1.1 of UN R43 was amended in version 1.13.0: 'forwards' became 'forward'; 'UN' was added; 'cent.' became 'cent, except while an ADS feature is active.'.",
+   "source": {
+    "page": 140,
+    "paragraph": "Annex 24 4.2.1.1"
+   }
+  },
+  {
+   "requirement_id": "R-1027",
+   "change": "modified",
+   "new_text": "The safety glazing defined in paragraph 2.25.2. of this UN Regulation shall have a light transmittance of at least 70 per cent, but where two exterior rear view mirrors are fitted, the glazing is allowed to have a light transmittance below 70 per cent, provided that it shall bear the additional symbol V specified in paragraph 5.5.2. of this Regulation, except while an ADS feature is active.",
+   "reason": "Paragraph Annex 24 4.2.2.1 of UN R43 was amended in version 1.13.0: '2.25.2' became '2.25.2.'; 'UN' was added; 'Regulation.' became 'Regulation, except while an ADS feature is active.'.",
+   "source": {
+    "page": 140,
+    "paragraph": "Annex 24 4.2.2.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The alternative provisions that are applied and the vehicle’s performance must be duly described in the Test Report.",
+   "reason": "Paragraph Annex 24 4.2.4.1 of UN R43 is new in version 1.13.0: 'The alternative provisions that are applied and the vehicle’s performance must be duly described in …'.",
+   "source": {
+    "page": 140,
+    "paragraph": "Annex 24 4.2.4.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The front exterior forward-facing glazing of a category X vehicle without a driver’s seat shall be constituted either by laminated glass bearing the additional symbol /D, as defined in paragraph 5.5.8. of this Regulation, or a plastic pane bearing the additional symbol /A, as defined in paragraphs 5.5.5. and 5.5.7. of this Regulation.",
+   "reason": "Paragraph Annex 24 4.3.2 of UN R43 is new in version 1.13.0: 'The front exterior forward-facing glazing of a category X vehicle without a driver’s seat shall be c…'.",
+   "source": {
+    "page": 140,
+    "paragraph": "Annex 24 4.3.2"
+   }
+  }
+ ]
+}

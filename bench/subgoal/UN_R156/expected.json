@@ -1,0 +1,16 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R156",
+ "changes": [
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The vehicle manufacturer shall not execute software updates to vehicles approved to the 01 series of amendments of this Regulation already registered in the market, unless an RXSWIN has been assigned to every Regulation No.",
+   "reason": "Paragraph 7.1.4 of UN R156 is new in version 1.0.0: 'The vehicle manufacturer shall not execute software updates to vehicles approved to the 01 series of…'.",
+   "source": {
+    "page": 5,
+    "paragraph": "7.1.4"
+   }
+  }
+ ]
+}

@@ -1,0 +1,5717 @@
+[
+ {
+  "id": "R-0001",
+  "text": "However, such variations shall be notified.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 2,
+   "paragraph": "2.9.3"
+  }
+ },
+ {
+  "id": "R-0002",
+  "text": "\" _Immunity related functions_ \" are the following functions; this list is not exhaustive and shall be adapted to the technical evolution of vehicle/technology:",
+  "source": {
+   "regulation": "UN R10",
+   "page": 2,
+   "paragraph": "2.12"
+  }
+ },
+ {
+  "id": "R-0003",
+  "text": "The application for approval of a vehicle type, with regard to its electromagnetic compatibility, shall be submitted by the vehicle manufacturer.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 5,
+   "paragraph": "3.1.1"
+  }
+ },
+ {
+  "id": "R-0004",
+  "text": "The vehicle manufacturer shall draw up a schedule describing all relevant vehicle electrical/electronic systems or ESAs, body styles, variations in body material, general wiring arrangements, engine variations, lefthand/right-hand drive versions and wheelbase versions.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 5,
+   "paragraph": "3.1.3"
+  }
+ },
+ {
+  "id": "R-0005",
+  "text": "A vehicle representative of the type to be approved shall be selected from this schedule by mutual agreement between the manufacturer and the Type Approval Authority.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 5,
+   "paragraph": "3.1.4"
+  }
+ },
+ {
+  "id": "R-0006",
+  "text": "The choice of vehicle shall be based on the electrical/electronic systems offered by the manufacturer.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 5,
+   "paragraph": "3.1.4"
+  }
+ },
+ {
+  "id": "R-0007",
+  "text": "The choice of the vehicle(s) in conformity with paragraph 3.1.4. above shall be limited to vehicle/electrical/electronic system combinations intended for actual production.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 5,
+   "paragraph": "3.1.5"
+  }
+ },
+ {
+  "id": "R-0008",
+  "text": "If the Technical Service responsible for the type approval test carries out the test itself, then a vehicle representative of the type to be approved according to paragraph 3.1.4. above shall be provided.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 5,
+   "paragraph": "3.1.7"
+  }
+ },
+ {
+  "id": "R-0009",
+  "text": "For vehicles of categories L6, L7, M, N, O, T, R and S, the vehicle manufacturer shall provide a statement of frequency bands, power levels, antenna positions and installation provisions for the installation of radio frequency transmitters (RF-transmitters), even if the vehicle is not equipped with an RF transmitter at time of type approval, and this statement shall be noted in the information document (e.g. under item 63, Annex 2A).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 5,
+   "paragraph": "3.1.8"
+  }
+ },
+ {
+  "id": "R-0010",
+  "text": "This information shall be made publicly available following the type approval.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 5,
+   "paragraph": "3.1.8"
+  }
+ },
+ {
+  "id": "R-0011",
+  "text": "Vehicle manufacturers shall provide evidence that vehicle performance is not adversely affected by such transmitter installations.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 5,
+   "paragraph": "3.1.8"
+  }
+ },
+ {
+  "id": "R-0012",
+  "text": "The application for approval of a type of ESA with regard to its electromagnetic compatibility shall be submitted by the vehicle manufacturer or by the manufacturer of the ESA.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 6,
+   "paragraph": "3.2.2"
+  }
+ },
+ {
+  "id": "R-0013",
+  "text": "If the Technical Service responsible for the type approval test carries out the test itself, then a sample of the ESA system representative of the type to be approved shall be provided, if necessary, after discussion with the manufacturer on, e.g. possible variations in the layout, number of components, number of sensors.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 6,
+   "paragraph": "3.2.5"
+  }
+ },
+ {
+  "id": "R-0014",
+  "text": "The sample(s) shall be clearly and indelibly marked with the manufacturer's trade name or mark and the type designation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 6,
+   "paragraph": "3.2.6"
+  }
+ },
+ {
+  "id": "R-0015",
+  "text": "In this case a declaration shall be issued by the manufacturer that the ESA fulfils the requirements of this Regulation and in particular the limits defined in paragraphs 6.5., 6.6., 6.7., 6.8. and 6.9. of this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 7,
+   "paragraph": "3.2.9"
+  }
+ },
+ {
+  "id": "R-0016",
+  "text": "In case of an ESA is (part of) a light source, the applicant shall:",
+  "source": {
+   "regulation": "UN R10",
+   "page": 7,
+   "paragraph": "3.2.10"
+  }
+ },
+ {
+  "id": "R-0017",
+  "text": "ESAs, which are intentional RF transmitters, which have not received type approval in conjunction with a vehicle manufacturer, shall be supplied with suitable installation guidelines.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 7,
+   "paragraph": "4.1.3"
+  }
+ },
+ {
+  "id": "R-0018",
+  "text": "If the representative vehicle fulfils the requirements of paragraph 6. and, if applicable, paragraph 7. of this Regulation, type approval shall be granted.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 7,
+   "paragraph": "4.2.1.1"
+  }
+ },
+ {
+  "id": "R-0019",
+  "text": "If the representative ESA system(s) fulfil(s) the requirements of paragraph 6. and, if applicable, paragraph 7. of this Regulation, type approval shall be granted.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 7,
+   "paragraph": "4.2.2.1"
+  }
+ },
+ {
+  "id": "R-0020",
+  "text": "In case of an ESA is (part of) a light source and if the documentation as specified in paragraph 3.2.10. above is missing, approval of this ESA according to Regulation No. 10 shall not be granted.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 8,
+   "paragraph": "4.2.4"
+  }
+ },
+ {
+  "id": "R-0021",
+  "text": "Approval, or refusal of approval, of a type of vehicle or ESA in accordance with this Regulation shall be notified to the Parties to the Agreement applying this Regulation on a form conforming to the model in Annex 3A or 3B to this Regulation, accompanied by photographs and/or diagrams or drawings on an appropriate scale supplied by the applicant in a format not larger than A4 (210 x 297 mm) or folded to those dimensions.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 8,
+   "paragraph": "4.3"
+  }
+ },
+ {
+  "id": "R-0022",
+  "text": "An approval number shall be assigned to each vehicle or ESA type approved in accordance with Schedule 4 of the 1958 Agreement (E/ECE/TRANS/505/Rev.3).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 8,
+   "paragraph": "5.1"
+  }
+ },
+ {
+  "id": "R-0023",
+  "text": "Vehicle An approval mark described in paragraph 5.3. below shall be affixed to every vehicle conforming to a type approved under this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 8,
+   "paragraph": "5.2.1"
+  }
+ },
+ {
+  "id": "R-0024",
+  "text": "Electrical/electronic sub-assembly (ESA) An approval mark described in paragraph 5.3. below shall be affixed to every ESA conforming to a type approved under this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 8,
+   "paragraph": "5.2.2"
+  }
+ },
+ {
+  "id": "R-0025",
+  "text": "An international approval mark shall be affixed, in a conspicuous and easily accessible place specified on the approval communication form, on each vehicle conforming to the type approved under this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 8,
+   "paragraph": "5.3"
+  }
+ },
+ {
+  "id": "R-0026",
+  "text": "A vehicle and its electrical/electronic system(s) or ESA(s) shall be designed, constructed and fitted in such a way as to enable the vehicle, in normal conditions of use, to comply with the requirements of this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 8,
+   "paragraph": "6.1.1"
+  }
+ },
+ {
+  "id": "R-0027",
+  "text": "A vehicle shall be tested for radiated emissions and for immunity to radiated disturbances.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 8,
+   "paragraph": "6.1.1.1"
+  }
+ },
+ {
+  "id": "R-0028",
+  "text": "ESA(s) shall be tested for radiated and conducted emissions, for immunity to radiated and conducted disturbances.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 9,
+   "paragraph": "6.1.1.2"
+  }
+ },
+ {
+  "id": "R-0029",
+  "text": "Before testing, the Technical Service shall prepare a test plan in conjunction with the manufacturer, which contains at least mode of operation, stimulated function(s), monitored function(s), pass/fail criterion(criteria) and intended emissions.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 9,
+   "paragraph": "6.1.2"
+  }
+ },
+ {
+  "id": "R-0030",
+  "text": "Depending on the intended operating conditions of the propulsion system, the test plan shall define the minimum number of steady state operating conditions of the vehicle, selectable by the driver or by the control system.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 9,
+   "paragraph": "6.1.2"
+  }
+ },
+ {
+  "id": "R-0031",
+  "text": "The test conditions shall consider multiple propulsion system operating strategies which can be activated permanently by the driver or the vehicle control system and shall be based on documentation provided in Annexes 2A and 2B (e.g. risk analysis).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 9,
+   "paragraph": "6.1.2"
+  }
+ },
+ {
+  "id": "R-0032",
+  "text": "Method of measurement The electromagnetic radiation generated by the vehicle representative of its type shall be measured using the method described in Annex 4.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 9,
+   "paragraph": "6.2.1"
+  }
+ },
+ {
+  "id": "R-0033",
+  "text": "The method of measurement shall be defined by the vehicle manufacturer in accordance with the Technical Service.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 9,
+   "paragraph": "6.2.1"
+  }
+ },
+ {
+  "id": "R-0034",
+  "text": "If measurements are made using the method described in Annex 4 using a vehicle-to-antenna spacing of 10.0 ± 0.2 m, the limits shall be 32 dB microvolts/m in the 30 to 75 MHz frequency band and 32 to 43 dB microvolts/m in the 75 to 400 MHz frequency band, this limit increasing logarithmically with frequencies above 75 MHz as shown in Appendix 2 to this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 9,
+   "paragraph": "6.2.2.1"
+  }
+ },
+ {
+  "id": "R-0035",
+  "text": "If measurements are made using the method described in Annex 4 using a vehicle-to-antenna spacing of 3.0 ± 0.05 m, the limits shall be 42 dB microvolts/m in the 30 to 75 MHz frequency band and 42 to 53 dB microvolts/m in the 75 to 400 MHz frequency band, this limit increasing logarithmically with frequencies above 75 MHz as shown in Appendix 3 to this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 9,
+   "paragraph": "6.2.2.2"
+  }
+ },
+ {
+  "id": "R-0036",
+  "text": "On the vehicle representative of its type, the measured values, expressed in dB microvolts/m shall be below the type approval limits.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 9,
+   "paragraph": "6.2.2.3"
+  }
+ },
+ {
+  "id": "R-0037",
+  "text": "Method of measurement The electromagnetic radiation generated by the vehicle representative of its type shall be measured using the method described in Annex 5.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 9,
+   "paragraph": "6.3.1"
+  }
+ },
+ {
+  "id": "R-0038",
+  "text": "These shall be defined by the vehicle manufacturer in accordance with the Technical Service.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 9,
+   "paragraph": "6.3.1"
+  }
+ },
+ {
+  "id": "R-0039",
+  "text": "If measurements are made using the method described in Annex 5 using a vehicle-to-antenna spacing of 10.0 ± 0.2 m, the limits shall be 28 dB microvolts/m in the 30 to 230 MHz frequency band and 35 dB microvolts/m in the 230 to 1,000 MHz frequency band.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 9,
+   "paragraph": "6.3.2.1"
+  }
+ },
+ {
+  "id": "R-0040",
+  "text": "If measurements are made using the method described in Annex 5 using a vehicle-to-antenna spacing of 3.0 ± 0.05 m, the limits shall be 38 dB microvolts/m in the 30 to 230 MHz frequency band and 45 dB microvolts/m in the 230 to 1,000 MHz frequency band.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 9,
+   "paragraph": "6.3.2.2"
+  }
+ },
+ {
+  "id": "R-0041",
+  "text": "On the vehicle representative of its type, the measured values, expressed in dB microvolts/m, shall be below the type approval limit.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 9,
+   "paragraph": "6.3.2.3"
+  }
+ },
+ {
+  "id": "R-0042",
+  "text": "Method of testing The immunity to electromagnetic radiation of the vehicle representative of its type shall be tested by the method described in Annex 6.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 10,
+   "paragraph": "6.4.1"
+  }
+ },
+ {
+  "id": "R-0043",
+  "text": "If tests are made using the method described in Annex 6, in accordance with ISO 11451-2, the field strength shall be 30 volts/m in over 90 per cent of the 20 to 2,000 MHz frequency band and a minimum of 25 volts/m over the whole 20 to 2,000 MHz frequency band.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 10,
+   "paragraph": "6.4.2.1"
+  }
+ },
+ {
+  "id": "R-0044",
+  "text": "The field strength shall be 10 volts/m in over 90 per cent of the 2,000 to 6,000 MHz frequency band and a minimum of 8 volts/m over the whole 2,000 to 6,000 MHz frequency band.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 10,
+   "paragraph": "6.4.2.1"
+  }
+ },
+ {
+  "id": "R-0045",
+  "text": "If tests are made using the method described in Annex 6, in accordance with ISO 11451-4 BCI the current shall be 60 mA in over 90 per cent of the 20 to 2,000 MHz frequency band and a minimum of 50 mA over the whole 20 to 2,000 MHz frequency band.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 10,
+   "paragraph": "6.4.2.1"
+  }
+ },
+ {
+  "id": "R-0046",
+  "text": "The vehicle representative of its type shall be considered as complying with immunity requirements if, during the tests performed in accordance with Annex 6, there shall be no degradation of performance of \"immunity related functions\", according to paragraph 2.1. of Annex 6.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 10,
+   "paragraph": "6.4.2.2"
+  }
+ },
+ {
+  "id": "R-0047",
+  "text": "Method of measurement The electromagnetic radiation generated by the ESA representative of its type shall be measured by the method described in Annex 7.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 10,
+   "paragraph": "6.5.1"
+  }
+ },
+ {
+  "id": "R-0048",
+  "text": "If measurements are made using the method described in Annex 7, the limits shall be 62 to 52 dB microvolts/m in the 30 to 75 MHz frequency band, this limit decreasing logarithmically with frequencies above 30 MHz, and 52 to 63 dB microvolts/m in the 75 to 400 MHz band, this limit increasing logarithmically with frequencies above 75 MHz as shown in Appendix 6 to this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 10,
+   "paragraph": "6.5.2.1"
+  }
+ },
+ {
+  "id": "R-0049",
+  "text": "On the ESA representative of its type, the measured values, expressed in dB microvolts/m, shall be below the type approval limits.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 10,
+   "paragraph": "6.5.2.2"
+  }
+ },
+ {
+  "id": "R-0050",
+  "text": "Method of measurement The electromagnetic radiation generated by the ESA representative of its type shall be measured by the method described in Annex 8.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 10,
+   "paragraph": "6.6.1"
+  }
+ },
+ {
+  "id": "R-0051",
+  "text": "If measurements are made using the method described in Annex 8, the limits shall be 52 to 42 dB microvolts/m in the 30 to 75 MHz frequency band, this limit decreasing logarithmically with frequencies above 30 MHz, and 42 to 53 dB microvolts/m in the 75 to 400 MHz band, this limit increasing logarithmically with frequencies above 75 MHz as shown in Appendix 7.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 10,
+   "paragraph": "6.6.2.1"
+  }
+ },
+ {
+  "id": "R-0052",
+  "text": "On the ESA representative of its type, the measured value, expressed in dB microvolts/m shall be below the type approval limits.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 10,
+   "paragraph": "6.6.2.2"
+  }
+ },
+ {
+  "id": "R-0053",
+  "text": "Method of testing The emission of ESA representative of its type shall be tested by the method(s) according to ISO 7637-2 as described in Annex 10 for the levels given in Table 1.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 10,
+   "paragraph": "6.7.1"
+  }
+ },
+ {
+  "id": "R-0054",
+  "text": "Method(s) of testing The immunity to electromagnetic radiation of the ESA representative of its type shall be tested by the method(s) chosen from those described in Annex 9.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 11,
+   "paragraph": "6.8.1"
+  }
+ },
+ {
+  "id": "R-0055",
+  "text": "The immunity to electromagnetic radiation of ESA representative of its type shall be tested by the method(s) as described in Annex 9:",
+  "source": {
+   "regulation": "UN R10",
+   "page": 11,
+   "paragraph": "6.8.2.1"
+  }
+ },
+ {
+  "id": "R-0056",
+  "text": "The ESA representative of its type shall be considered as complying with immunity requirements if, during the tests performed in accordance with Annex 9, there shall be no degradation of performance of \"immunity related functions\".",
+  "source": {
+   "regulation": "UN R10",
+   "page": 12,
+   "paragraph": "6.8.2.2"
+  }
+ },
+ {
+  "id": "R-0057",
+  "text": "Method of testing The immunity of ESA representative of this type shall be tested by the method(s) according to ISO 16750-2 for starting profile and ISO 7637-2 for pulses 1, 2a, 2b, 3a and 3b, as described in Annex 10, with the test levels given in Tables 3a and 3b.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 12,
+   "paragraph": "6.9.1"
+  }
+ },
+ {
+  "id": "R-0058",
+  "text": "Starting profile shall be tested according to the functional status classification as defined in ISO 16750-1.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 12,
+   "paragraph": "6.9.1"
+  }
+ },
+ {
+  "id": "R-0059",
+  "text": "Functional Performance Status Classification (FPSC) as in ISO 7637-1 shall be applied for pulses 1, 2a, 2b, 3a and 3b.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 12,
+   "paragraph": "6.9.1"
+  }
+ },
+ {
+  "id": "R-0060",
+  "text": "Where a vehicle or electrical/electronic system or ESA does not include an electronic oscillator with an operating frequency greater than 9 kHz, it shall be deemed to comply with paragraph 6.3.2. or 6.6.2. and with Annexes 5 and 8.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 12,
+   "paragraph": "6.10.1"
+  }
+ },
+ {
+  "id": "R-0061",
+  "text": "Vehicles which do not have electrical/electronic systems with \"immunity related functions\" need not be tested for immunity to radiated disturbances and shall be deemed to comply with paragraph 6.4. and with Annex 6 to this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 13,
+   "paragraph": "6.10.2"
+  }
+ },
+ {
+  "id": "R-0062",
+  "text": "ESAs with no immunity related functions need not be tested for immunity to radiated disturbances and shall be deemed to comply with paragraph 6.8. and with Annex 9 to this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 13,
+   "paragraph": "6.10.3"
+  }
+ },
+ {
+  "id": "R-0063",
+  "text": "ESAs that are not switched, contain no switches or do not include inductive load need not be tested for transient conducted emission and shall be deemed to comply with paragraph 6.7.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 13,
+   "paragraph": "6.10.5"
+  }
+ },
+ {
+  "id": "R-0064",
+  "text": "RF transmitters shall be tested in the transmit mode.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 13,
+   "paragraph": "6.10.7"
+  }
+ },
+ {
+  "id": "R-0065",
+  "text": "AC/DC mains portion of the vehicle propulsion system shall be excluded from this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 13,
+   "paragraph": "6.10.8"
+  }
+ },
+ {
+  "id": "R-0066",
+  "text": "A vehicle and its electrical/electronic system(s) or ESA(s) shall be so designed, constructed and fitted as to enable the vehicle, in configuration \"REESS charging mode coupled to the power grid\", to comply with the requirements of this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 13,
+   "paragraph": "7.1.1"
+  }
+ },
+ {
+  "id": "R-0067",
+  "text": "A vehicle in configuration \"REESS charging mode coupled to the power grid\" shall be tested for radiated emissions, immunity to radiated disturbances, conducted emissions and immunity to conducted disturbances.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 13,
+   "paragraph": "7.1.1.1"
+  }
+ },
+ {
+  "id": "R-0068",
+  "text": "ESAs in configuration \"REESS charging mode coupled to the power grid\" shall be tested for radiated and conducted emissions, for immunity to radiated and conducted disturbances.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 14,
+   "paragraph": "7.1.1.2"
+  }
+ },
+ {
+  "id": "R-0069",
+  "text": "Before testing the Technical Service shall prepare a test plan in conjunction with the manufacturer, for the configuration \"REESS charging mode coupled to the power grid\" configuration which contains at least mode of operation, stimulated function(s), monitored function(s), pass/fail criterion (criteria) and intended emissions.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 14,
+   "paragraph": "7.1.2"
+  }
+ },
+ {
+  "id": "R-0070",
+  "text": "Depending on the available charging modes of the REESS, the test plan shall define the minimum number of test conditions of the vehicle, selectable by the driver or by the control system and shall be based on documentation provided in Annexes 2A and 2B (e.g. risk analysis).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 14,
+   "paragraph": "7.1.2"
+  }
+ },
+ {
+  "id": "R-0071",
+  "text": "Artificial networks AC Power mains shall be applied to the vehicle / ESA through 50 µH/50 Ω AMN(s) as defined in Appendix 8, paragraph 4.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 14,
+   "paragraph": "7.1.4"
+  }
+ },
+ {
+  "id": "R-0072",
+  "text": "DC Power mains shall be applied to the vehicle / ESA through 5 µH/50 Ω DC-charging-AN(s) as defined in Appendix 8, paragraph 3.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 14,
+   "paragraph": "7.1.4"
+  }
+ },
+ {
+  "id": "R-0073",
+  "text": "High voltage power line shall be applied to the ESA through a 5 µH/50 Ω HV-AN(s) as defined in Appendix 8, paragraph 2.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 14,
+   "paragraph": "7.1.4"
+  }
+ },
+ {
+  "id": "R-0074",
+  "text": "Method of measurement The electromagnetic radiation generated by the vehicle representative of its type shall be measured using the method described in Annex 4.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 14,
+   "paragraph": "7.2.1"
+  }
+ },
+ {
+  "id": "R-0075",
+  "text": "The method of measurement shall be defined by the vehicle manufacturer in accordance with the Technical Service.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 14,
+   "paragraph": "7.2.1"
+  }
+ },
+ {
+  "id": "R-0076",
+  "text": "If measurements are made using the method described in Annex 4 using a vehicle-to-antenna spacing of 10.0 ± 0.2 m, the limits shall be 32 dB microvolts/m in the 30 to 75 MHz frequency band and 32 to 43 dB microvolts/m in the 75 to 400 MHz frequency band, this limit increasing logarithmically with frequencies above 75 MHz as shown in Appendix 2.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 14,
+   "paragraph": "7.2.2.1"
+  }
+ },
+ {
+  "id": "R-0077",
+  "text": "If measurements are made using the method described in Annex 4 using a vehicle-to-antenna spacing of 3.0 ± 0.05 m, the limits shall be 42 dB microvolts/m in the 30 to 75 MHz frequency band and 42 to 53 dB microvolts/m in the 75 to 400 MHz frequency band, this limit increasing logarithmically with frequencies above 75 MHz as shown in Appendix 3.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 14,
+   "paragraph": "7.2.2.2"
+  }
+ },
+ {
+  "id": "R-0078",
+  "text": "On the vehicle representative of its type, the measured values, expressed in dB microvolts/m shall be below the type approval limits.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 14,
+   "paragraph": "7.2.2.2"
+  }
+ },
+ {
+  "id": "R-0079",
+  "text": "Method of measurement The harmonics emission on AC power lines generated by the vehicle representative of its type shall be measured using the method described in Annex 11.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 14,
+   "paragraph": "7.3.1"
+  }
+ },
+ {
+  "id": "R-0080",
+  "text": "The method of measurement shall be defined by the vehicle manufacturer in accordance with the Technical Service.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 14,
+   "paragraph": "7.3.1"
+  }
+ },
+ {
+  "id": "R-0081",
+  "text": "Relative values of even harmonics lower or equal to 12 shall be lower than 16/n %.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 15,
+   "paragraph": "7.3.2.2"
+  }
+ },
+ {
+  "id": "R-0082",
+  "text": "Relative values of even harmonics lower or equal to 12 shall be lower than 16/n %.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 15,
+   "paragraph": "7.3.2.2"
+  }
+ },
+ {
+  "id": "R-0083",
+  "text": "Relative values of even harmonics lower or equal to 12 shall be lower than 16/n %.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 15,
+   "paragraph": "7.3.2.2"
+  }
+ },
+ {
+  "id": "R-0084",
+  "text": "Method of measurement The emission of voltage changes, voltage fluctuations and flicker on AC power lines generated by the vehicle representative of its type shall be measured using the method described in Annex 12.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 16,
+   "paragraph": "7.4.1"
+  }
+ },
+ {
+  "id": "R-0085",
+  "text": "The method of measurement shall be defined by the vehicle manufacturer in accordance with the Technical Service.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 16,
+   "paragraph": "7.4.1"
+  }
+ },
+ {
+  "id": "R-0086",
+  "text": "The value of Pst shall not be greater than 1.0;",
+  "source": {
+   "regulation": "UN R10",
+   "page": 16,
+   "paragraph": "7.4.2.1"
+  }
+ },
+ {
+  "id": "R-0087",
+  "text": "The value of Plt shall not be greater than 0.65;",
+  "source": {
+   "regulation": "UN R10",
+   "page": 16,
+   "paragraph": "7.4.2.1"
+  }
+ },
+ {
+  "id": "R-0088",
+  "text": "The value of d(t) during a voltage change shall not exceed 3.3 per cent for more than 500 ms;",
+  "source": {
+   "regulation": "UN R10",
+   "page": 16,
+   "paragraph": "7.4.2.1"
+  }
+ },
+ {
+  "id": "R-0089",
+  "text": "The relative steady-state voltage change, dc, shall not exceed 3.3 per cent;",
+  "source": {
+   "regulation": "UN R10",
+   "page": 16,
+   "paragraph": "7.4.2.1"
+  }
+ },
+ {
+  "id": "R-0090",
+  "text": "The maximum relative voltage change dmax, shall not exceed 6 per cent.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 16,
+   "paragraph": "7.4.2.1"
+  }
+ },
+ {
+  "id": "R-0091",
+  "text": "The value of Pst shall not be greater than 1.0;",
+  "source": {
+   "regulation": "UN R10",
+   "page": 17,
+   "paragraph": "7.4.2.2"
+  }
+ },
+ {
+  "id": "R-0092",
+  "text": "The value of Plt shall not be greater than 0.65;",
+  "source": {
+   "regulation": "UN R10",
+   "page": 17,
+   "paragraph": "7.4.2.2"
+  }
+ },
+ {
+  "id": "R-0093",
+  "text": "The value of d(t) during a voltage change shall not exceed 3.3 per cent for more than 500 ms;",
+  "source": {
+   "regulation": "UN R10",
+   "page": 17,
+   "paragraph": "7.4.2.2"
+  }
+ },
+ {
+  "id": "R-0094",
+  "text": "The relative steady-state voltage change, dc, shall not exceed 3.3 per cent;",
+  "source": {
+   "regulation": "UN R10",
+   "page": 17,
+   "paragraph": "7.4.2.2"
+  }
+ },
+ {
+  "id": "R-0095",
+  "text": "The maximum relative voltage change dmax, shall not exceed 6 per cent.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 17,
+   "paragraph": "7.4.2.2"
+  }
+ },
+ {
+  "id": "R-0096",
+  "text": "Method of measurement The emission of radiofrequency conducted disturbances on AC or DC power lines generated by the vehicle representative of its type shall be measured using the method described in Annex 13.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 17,
+   "paragraph": "7.5.1"
+  }
+ },
+ {
+  "id": "R-0097",
+  "text": "The method of measurement shall be defined by the vehicle manufacturer in accordance with the Technical Service.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 17,
+   "paragraph": "7.5.1"
+  }
+ },
+ {
+  "id": "R-0098",
+  "text": "For specific vehicles which are charged only with charging stations located in area characterized by a separate power network, supplied from a high or medium voltage transformer, dedicated for the supply of the installation (buses, heavy duty trucks, etc..), limits from IEC 61000-6-4 shall be applied.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 17,
+   "paragraph": "7.5.3.1"
+  }
+ },
+ {
+  "id": "R-0099",
+  "text": "In this case, the manufacturer shall provide a statement that the vehicle can be used in \"REESS charging mode coupled to the power grid\" only in area characterized by a separate power network, supplied from a high or medium voltage transformer, dedicated for the supply of the installation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 18,
+   "paragraph": "7.5.3.2"
+  }
+ },
+ {
+  "id": "R-0100",
+  "text": "The manufacturer shall provide a statement that the vehicle shall be charged in non-residential environment only.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 18,
+   "paragraph": "7.5.3.2"
+  }
+ },
+ {
+  "id": "R-0101",
+  "text": "This information shall be made publicly available following the type-approval.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 18,
+   "paragraph": "7.5.3.2"
+  }
+ },
+ {
+  "id": "R-0102",
+  "text": "Method of testing The immunity to electromagnetic radiation of the vehicle representative of its type shall be tested by the method described in Annex 6.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 18,
+   "paragraph": "7.7.1"
+  }
+ },
+ {
+  "id": "R-0103",
+  "text": "If tests are made using the method described in Annex 6, the field strength shall be 30 volts/m in over 90 per cent of the 20 to 2,000 MHz frequency band and a minimum of 25 volts/m over the whole 20 to 2,000 MHz frequency band.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 18,
+   "paragraph": "7.7.2.1"
+  }
+ },
+ {
+  "id": "R-0104",
+  "text": "The field strength shall be 10 volts/m in over 90 per cent of the 2,000 to 6,000 MHz frequency band and a minimum of 8 volts/m over the whole 2,000 to 6,000 MHz frequency band.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 18,
+   "paragraph": "7.7.2.1"
+  }
+ },
+ {
+  "id": "R-0105",
+  "text": "If tests are made using the method described in Annex 6, with ISO 11451-4 BCI method the current shall be 60 mA in over 90 per cent of the 20 to 2,000 MHz frequency band and a minimum of 50 mA over the whole 20 to 2,000 MHz frequency band.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 18,
+   "paragraph": "7.7.2.1"
+  }
+ },
+ {
+  "id": "R-0106",
+  "text": "The vehicle representative of its type shall be considered as complying with immunity requirements if, during the tests performed in accordance with Annex 6, there shall be no degradation of performance of \"immunity related functions\", according to paragraph 2.2. of Annex 6.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 18,
+   "paragraph": "7.7.2.2"
+  }
+ },
+ {
+  "id": "R-0107",
+  "text": "The immunity to Electrical Fast Transient/Burst disturbances conducted along AC and DC power lines of the vehicle representative of its type shall be tested by the method described in Annex 15.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 19,
+   "paragraph": "7.8.1.1"
+  }
+ },
+ {
+  "id": "R-0108",
+  "text": "If tests are made using the methods described in Annex 15, the immunity test levels, for AC or DC power lines, shall be: ±2 kV test voltage in open circuit, with a rise time (Tr) of 5 ns, and a hold time (Th) of 50 ns and a repetition rate of 5 kHz for at least 1 minute.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 19,
+   "paragraph": "7.8.2.1"
+  }
+ },
+ {
+  "id": "R-0109",
+  "text": "The vehicle representative of its type shall be considered as complying with immunity requirements if, during the tests performed in accordance with Annex 15, there shall be no degradation of performance of \"immunity related functions\", according to paragraph 2.1.2. of Annex 15.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 19,
+   "paragraph": "7.8.2.2"
+  }
+ },
+ {
+  "id": "R-0110",
+  "text": "The immunity to surge conducted along AC/DC power lines of the vehicle representative of its type shall be tested by the method described in Annex 16.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 19,
+   "paragraph": "7.9.1.1"
+  }
+ },
+ {
+  "id": "R-0111",
+  "text": "If tests are made using the methods described in Annex 16, the immunity test levels shall be:",
+  "source": {
+   "regulation": "UN R10",
+   "page": 19,
+   "paragraph": "7.9.2.1"
+  }
+ },
+ {
+  "id": "R-0112",
+  "text": "Each surge shall be applied five times with a maximum delay of 1 minute between each pulse.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 19,
+   "paragraph": "7.9.2.1"
+  }
+ },
+ {
+  "id": "R-0113",
+  "text": "This shall be applied for the following phases: 0, 90, 180 and 270°, (b) For DC power lines: ±0.5 kV test voltage in open circuit between line and earth and ±0.5 kV between lines with a rise time (Tr) of 1.2 µs, and a hold time (Th) of 50 µs.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 19,
+   "paragraph": "7.9.2.1"
+  }
+ },
+ {
+  "id": "R-0114",
+  "text": "Each surge shall be applied five times with a maximum delay of 1 minute.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 19,
+   "paragraph": "7.9.2.1"
+  }
+ },
+ {
+  "id": "R-0115",
+  "text": "The vehicle representative of its type shall be considered as complying with immunity requirements if, during the tests performed in accordance with Annex 16, there shall be no degradation of performance of \"immunity related functions\", according to paragraph 2.1.2. of Annex 16.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 19,
+   "paragraph": "7.9.2.2"
+  }
+ },
+ {
+  "id": "R-0116",
+  "text": "Method of measurement The electromagnetic radiation generated by the ESA representative of its type shall be measured by the method described in Annex 7.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 19,
+   "paragraph": "7.10.1"
+  }
+ },
+ {
+  "id": "R-0117",
+  "text": "If measurements are made using the method described in Annex 7, the limits shall be 62 to 52 dBµV/m in the 30 to 75 MHz frequency band, this limit decreasing logarithmically with frequencies above 30 MHz, and 52 to 63 dBµV/m in the 75 to 400 MHz band, this limit increasing logarithmically with frequencies above 75 MHz as shown in Appendix 6.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 19,
+   "paragraph": "7.10.2.1"
+  }
+ },
+ {
+  "id": "R-0118",
+  "text": "On the ESA representative of its type, the measured values, expressed in dBµV/m, shall be below the type approval limits.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 19,
+   "paragraph": "7.10.2.2"
+  }
+ },
+ {
+  "id": "R-0119",
+  "text": "Method of measurement The harmonics emission on AC power lines generated by the ESA representative of its type shall be measured using the method described in Annex 17.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 19,
+   "paragraph": "7.11.1"
+  }
+ },
+ {
+  "id": "R-0120",
+  "text": "The method of measurement shall be defined by the manufacturer in accordance with the Technical Service.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 19,
+   "paragraph": "7.11.1"
+  }
+ },
+ {
+  "id": "R-0121",
+  "text": "Relative values of even harmonics lower or equal to 12 shall be lower than 16/n %.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 20,
+   "paragraph": "7.11.2.2"
+  }
+ },
+ {
+  "id": "R-0122",
+  "text": "Relative values of even harmonics lower or equal to 12 shall be lower than 16/n %.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 20,
+   "paragraph": "7.11.2.2"
+  }
+ },
+ {
+  "id": "R-0123",
+  "text": "Relative values of even harmonics lower or equal to 12 shall be lower than 16/n %.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 20,
+   "paragraph": "7.11.2.2"
+  }
+ },
+ {
+  "id": "R-0124",
+  "text": "Method of measurement The emission of voltage changes, voltage fluctuations and flicker on AC power lines generated by the ESA representative of its type shall be measured using the method described in Annex 18.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 21,
+   "paragraph": "7.12.1"
+  }
+ },
+ {
+  "id": "R-0125",
+  "text": "The method of measurement shall be defined by the ESA manufacturer in accordance with the Technical Service.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 21,
+   "paragraph": "7.12.1"
+  }
+ },
+ {
+  "id": "R-0126",
+  "text": "The value of Pst shall not be greater than 1.0;",
+  "source": {
+   "regulation": "UN R10",
+   "page": 21,
+   "paragraph": "7.12.2.1"
+  }
+ },
+ {
+  "id": "R-0127",
+  "text": "The value of Plt shall not be greater than 0.65;",
+  "source": {
+   "regulation": "UN R10",
+   "page": 21,
+   "paragraph": "7.12.2.1"
+  }
+ },
+ {
+  "id": "R-0128",
+  "text": "The value of d(t) during a voltage change shall not exceed 3.3 per cent for more than 500 ms;",
+  "source": {
+   "regulation": "UN R10",
+   "page": 21,
+   "paragraph": "7.12.2.1"
+  }
+ },
+ {
+  "id": "R-0129",
+  "text": "The relative steady-state voltage change, dc, shall not exceed 3.3 per cent;",
+  "source": {
+   "regulation": "UN R10",
+   "page": 21,
+   "paragraph": "7.12.2.1"
+  }
+ },
+ {
+  "id": "R-0130",
+  "text": "The maximum relative voltage change dmax, shall not exceed 6 per cent.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 21,
+   "paragraph": "7.12.2.1"
+  }
+ },
+ {
+  "id": "R-0131",
+  "text": "The value of Pst shall not be greater than 1.0;",
+  "source": {
+   "regulation": "UN R10",
+   "page": 21,
+   "paragraph": "7.12.2.2"
+  }
+ },
+ {
+  "id": "R-0132",
+  "text": "The value of Plt shall not be greater than 0.65;",
+  "source": {
+   "regulation": "UN R10",
+   "page": 21,
+   "paragraph": "7.12.2.2"
+  }
+ },
+ {
+  "id": "R-0133",
+  "text": "The value of d(t) during a voltage change shall not exceed 3.3 per cent for more than 500 ms;",
+  "source": {
+   "regulation": "UN R10",
+   "page": 21,
+   "paragraph": "7.12.2.2"
+  }
+ },
+ {
+  "id": "R-0134",
+  "text": "The relative steady-state voltage change, dc, shall not exceed 3.3 per cent;",
+  "source": {
+   "regulation": "UN R10",
+   "page": 21,
+   "paragraph": "7.12.2.2"
+  }
+ },
+ {
+  "id": "R-0135",
+  "text": "The maximum relative voltage change dmax, shall not exceed 6 per cent.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 21,
+   "paragraph": "7.12.2.2"
+  }
+ },
+ {
+  "id": "R-0136",
+  "text": "Method of measurement The emission of radiofrequency conducted disturbances on AC or DC power lines generated by the ESA representative of its type shall be measured using the method described in Annex 19.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 22,
+   "paragraph": "7.13.1"
+  }
+ },
+ {
+  "id": "R-0137",
+  "text": "The method of measurement shall be defined by the ESA manufacturer in accordance with the Technical Service.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 22,
+   "paragraph": "7.13.1"
+  }
+ },
+ {
+  "id": "R-0138",
+  "text": "The immunity to Electrical Fast Transient/Burst disturbances conducted along AC and DC power lines of the ESA representative of its type shall be tested by the method described in Annex 21.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 22,
+   "paragraph": "7.15.1.1"
+  }
+ },
+ {
+  "id": "R-0139",
+  "text": "If tests are made using the methods described in Annex 21, the immunity test levels, for AC or DC power lines, shall be: ± 2 kV test voltage in open circuit, with a rise time (Tr) of 5 ns, and a hold time (Th) of 50 ns and a repetition rate of 5 kHz for at least 1 minute.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 22,
+   "paragraph": "7.15.2.1"
+  }
+ },
+ {
+  "id": "R-0140",
+  "text": "The ESA representative of its type shall be considered as complying with immunity requirements if, during the tests performed in accordance with Annex 21, there shall be no degradation of performance of the charging function as defined in paragraph 2.1. of Annex 21.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 23,
+   "paragraph": "7.15.2.2"
+  }
+ },
+ {
+  "id": "R-0141",
+  "text": "The immunity to surge conducted along AC / DC power lines of the ESA representative of its type shall be tested by the method described in Annex 22.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 23,
+   "paragraph": "7.16.1.1"
+  }
+ },
+ {
+  "id": "R-0142",
+  "text": "If tests are made using the methods described in Annex 22, the immunity test levels shall be:",
+  "source": {
+   "regulation": "UN R10",
+   "page": 23,
+   "paragraph": "7.16.2.1"
+  }
+ },
+ {
+  "id": "R-0143",
+  "text": "Each surge shall be applied five times with a maximum delay of 1 minute between each pulse.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 23,
+   "paragraph": "7.16.2.1"
+  }
+ },
+ {
+  "id": "R-0144",
+  "text": "This shall be applied for the following phases: 0, 90, 180 and 270°, (b) For DC power lines: ±0.5 kV test voltage in open circuit between line and earth and ±0.5 kV between lines with a rise time (Tr) of 1.2 µs, and a hold time (Th) of 50 µs.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 23,
+   "paragraph": "7.16.2.1"
+  }
+ },
+ {
+  "id": "R-0145",
+  "text": "Each surge shall be applied five times with a maximum delay of 1 minute.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 23,
+   "paragraph": "7.16.2.1"
+  }
+ },
+ {
+  "id": "R-0146",
+  "text": "The ESA representative of its type shall be considered as complying with immunity requirements if, during the tests performed in accordance with Annex 22, there shall be no degradation of performance of the charging function as defined in paragraph 2.1. of Annex 22.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 23,
+   "paragraph": "7.16.2.2"
+  }
+ },
+ {
+  "id": "R-0147",
+  "text": "Method of testing The emission of ESA representative of its type shall be tested by the method(s) according to ISO 7637-2:2011, as described in Annex 10 for the levels given in Table 18.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 23,
+   "paragraph": "7.17.1"
+  }
+ },
+ {
+  "id": "R-0148",
+  "text": "Method(s) of testing The immunity to electromagnetic radiation of the ESA representative of its type shall be tested by the method(s) chosen from those described in Annex 9.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 23,
+   "paragraph": "7.18.1"
+  }
+ },
+ {
+  "id": "R-0149",
+  "text": "The immunity to electromagnetic radiation of ESA representative of its type shall be tested by the method(s) as described in Annex 9: for the levels in over 90 per cent of the 20 to 6,000 MHz frequency band given in Table 19a. for the minimum test Level over the whole 20 to 6,000 MHz frequency band given in Table 19b.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 23,
+   "paragraph": "7.18.2.1"
+  }
+ },
+ {
+  "id": "R-0150",
+  "text": "The ESA representative of its type shall be considered as complying with immunity requirements if, during the tests performed in accordance with Annex 9, there shall be no degradation of performance of the charging function as defined in paragraph 2.3. of Annex 9.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 24,
+   "paragraph": "7.18.2.2"
+  }
+ },
+ {
+  "id": "R-0151",
+  "text": "Method of testing The immunity of ESA representative of its type shall be tested by the method(s) according to ISO 7637-2, as described in Annex 10 with the test levels given in Table 20.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 24,
+   "paragraph": "7.19.1"
+  }
+ },
+ {
+  "id": "R-0152",
+  "text": "In this case, the manufacturer shall provide a statement that the vehicle and/or ESA can be used in \"REESS charging mode coupled to the power grid\" only with cables shorter than 30 m.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 24,
+   "paragraph": "7.20.1"
+  }
+ },
+ {
+  "id": "R-0153",
+  "text": "This information shall be made publicly available following the type approval.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 24,
+   "paragraph": "7.20.1"
+  }
+ },
+ {
+  "id": "R-0154",
+  "text": "In this case, the manufacturer shall provide a statement that the vehicle and / or ESA can be used in \"REESS charging mode coupled to the power grid\" only with a local/private DC charging station without additional participants.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 25,
+   "paragraph": "7.20.2"
+  }
+ },
+ {
+  "id": "R-0155",
+  "text": "This information shall be made publicly available following the type approval.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 25,
+   "paragraph": "7.20.2"
+  }
+ },
+ {
+  "id": "R-0156",
+  "text": "The additional or substitutional electrical/electronic system or ESA shall be considered as part of the vehicle for conformity of production purposes.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 25,
+   "paragraph": "8.1"
+  }
+ },
+ {
+  "id": "R-0157",
+  "text": "Where the additional or substitution part(s) has (have) not received approval pursuant to this Regulation, and if testing is considered necessary, the whole vehicle shall be deemed to conform if the new or revised part(s) can be shown to conform to the relevant requirements of paragraph 6. and, if applicable, of paragraph 7. or if, in a comparative test, the new part can be shown not to be likely to adversely affect the conformity of the vehicle type.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 25,
+   "paragraph": "8.2"
+  }
+ },
+ {
+  "id": "R-0158",
+  "text": "The addition by a vehicle manufacturer to an approved vehicle of standard domestic or business equipment, other than mobile communication equipment, which conforms to other Regulations, and the installation, substitution or removal of which is according to the recommendations of the equipment and vehicle manufacturers, shall not invalidate the vehicle approval.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 25,
+   "paragraph": "8.3"
+  }
+ },
+ {
+  "id": "R-0159",
+  "text": "This shall not preclude vehicle manufacturers fitting communication equipment in accordance with suitable installation guidelines developed by the vehicle manufacturer and/or manufacturer(s) of such communication equipment.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 25,
+   "paragraph": "8.3"
+  }
+ },
+ {
+  "id": "R-0160",
+  "text": "The vehicle manufacturer shall provide evidence (if requested by the test authority) that vehicle performance is not adversely affected by such transmitters.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 25,
+   "paragraph": "8.3"
+  }
+ },
+ {
+  "id": "R-0161",
+  "text": "Conformity of production The conformity of production procedures shall comply with those set out in Schedule 1 of the 1958 Agreement (E/ECE/TRANS/505/Rev.3), with the following requirements:",
+  "source": {
+   "regulation": "UN R10",
+   "page": 25,
+   "paragraph": "9"
+  }
+ },
+ {
+  "id": "R-0162",
+  "text": "Vehicles or components or ESAs approved under this Regulation shall be so manufactured as to conform to the type approved by meeting the requirements set forth in paragraph 6. and, if applicable, in paragraph 7. above.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 25,
+   "paragraph": "9.1"
+  }
+ },
+ {
+  "id": "R-0163",
+  "text": "Conformity of production of the vehicle or component or separate technical unit shall be checked on the basis of the data contained in the communication form(s) for type approval set out in Annex 3A and/or 3B to this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 25,
+   "paragraph": "9.2"
+  }
+ },
+ {
+  "id": "R-0164",
+  "text": "If the Type Approval Authority is not satisfied with the checking procedure of the manufacturer, then paragraphs 9.3.1., 9.3.2. and 9.3.3. below shall apply.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 25,
+   "paragraph": "9.3"
+  }
+ },
+ {
+  "id": "R-0165",
+  "text": "When the conformity of a vehicle, component or ESA taken from the series is being verified, production shall be deemed to conform to the requirements of this Regulation in relation to broadband electromagnetic disturbances and narrowband electromagnetic disturbances if the levels measured do not exceed by more than 4 dB (60 per cent) the reference limits prescribed in paragraphs 6.2.2.1., 6.2.2.2., 6.3.2.1., 6.3.2.2. and, if applicable, paragraphs 7.2.2.1. and 7.2.2.2. for vehicles and paragraphs 6.5.2.1., 6.6.2.1., and, if applicable, paragraph 7.10.2.1. above for ESAs (as appropriate).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 26,
+   "paragraph": "9.3.1"
+  }
+ },
+ {
+  "id": "R-0166",
+  "text": "When the conformity of a vehicle, component or ESA taken from the series is being verified, production shall be deemed to conform to the requirements of this Regulation in relation to immunity to electromagnetic radiation if the vehicle ESA does not exhibit any degradation relating to the direct control of the vehicle which could be observed by the driver or other road user when the vehicle is in the state defined in Annex 6, paragraph 4., and is subjected to a field strength, expressed in Volts/m, up to 80 per cent of the reference limits prescribed in paragraph 6.4.2.1., and, if applicable, paragraph 7.7.2.1. for vehicles and paragraph 6.8.2.1. and, if applicable, paragraph 7.18.2.1. for ESAs above.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 26,
+   "paragraph": "9.3.2"
+  }
+ },
+ {
+  "id": "R-0167",
+  "text": "If the conformity of a component, or Separate Technical Unit (STU) taken from the series is being verified, production shall be deemed to conform to the requirements of this Regulation in relation to immunity to conducted disturbances and emission if the component or STU shows no degradation of performance of \"immunity related functions\" up to levels given in paragraph 6.9.1. and, if applicable, paragraph 7.19.1., and does not exceed the levels given in paragraph 6.7.1. and, if applicable, paragraph 7.17.1. above.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 26,
+   "paragraph": "9.3.3"
+  }
+ },
+ {
+  "id": "R-0168",
+  "text": "If a Party to the Agreement which applies this Regulation withdraws an approval it has previously granted, it shall forthwith notify the other Contracting Parties applying this Regulation thereof by means of a communication form conforming to the model in Annexes 3A and 3B to this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 26,
+   "paragraph": "10.2"
+  }
+ },
+ {
+  "id": "R-0169",
+  "text": "Production definitively discontinued If the holder of an approval permanently ceases to manufacture a type of vehicle or ESA approved in accordance with this Regulation, he shall so inform the Type Approval Authority which granted the approval, which shall in turn notify the other Parties to the 1958 Agreement which apply this Regulation, by means of a communication form conforming to the model in Annexes 3A and 3B to this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 26,
+   "paragraph": "11"
+  }
+ },
+ {
+  "id": "R-0170",
+  "text": "Every modification of the vehicle or ESA type shall be notified to the Type Approval Authority which granted approval of the vehicle type.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 26,
+   "paragraph": "12.1"
+  }
+ },
+ {
+  "id": "R-0171",
+  "text": "Notice of conformation of approval or of refusal of approval, accompanied by particulars of the modifications, shall be communicated by the procedure indicated in paragraph 4. of this Regulation above to the Parties to the Agreement applying this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 26,
+   "paragraph": "12.2"
+  }
+ },
+ {
+  "id": "R-0172",
+  "text": "The Type Approval Authority granting the approval extension shall assign a serial number to the extension and so notify the other Parties to the 1958 Agreement applying this Regulation by means of a communication form conforming to the models in Annexes 3A and 3B to this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 26,
+   "paragraph": "12.3"
+  }
+ },
+ {
+  "id": "R-0173",
+  "text": "As from 9 October 2014, no Contracting Party applying this UN Regulation shall refuse to grant or refuse to accept UN type-approvals under this UN Regulation as amended by the 05 series of amendments.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 27,
+   "paragraph": "13.1.1"
+  }
+ },
+ {
+  "id": "R-0174",
+  "text": "As from 9 October 2017, Contracting Parties applying this UN Regulation shall not be obliged to accept UN type-approvals to the preceding series of amendments, first issued after 9 October 2017 or extensions thereof.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 27,
+   "paragraph": "13.1.2"
+  }
+ },
+ {
+  "id": "R-0175",
+  "text": "Notwithstanding paragraph 13.1.2., Contracting Parties applying the UN Regulation shall continue to accept UN type-approvals issued according to the preceding series of amendments to the UN Regulation, for the vehicle type which are not equipped with a coupling system to charge the REESS, or for component or separate technical unit which doesn’t include a coupling part to charge the REESS which are not affected by the changes introduced by the 05 series of amendments",
+  "source": {
+   "regulation": "UN R10",
+   "page": 27,
+   "paragraph": "13.1.3"
+  }
+ },
+ {
+  "id": "R-0176",
+  "text": "Contracting Parties applying this UN Regulation shall not refuse to grant UN type-approvals according to any preceding series of amendments to this UN Regulation or extensions thereof. 13.2 **Transitional provisions applicable to the 06 series of amendments**",
+  "source": {
+   "regulation": "UN R10",
+   "page": 27,
+   "paragraph": "13.1.4"
+  }
+ },
+ {
+  "id": "R-0177",
+  "text": "As from the official date of entry into force of the 06 series of amendments, no Contracting Party applying this UN Regulation shall refuse to grant or refuse to accept UN type-approvals under this UN Regulation as amended by the 06 series of amendments.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 27,
+   "paragraph": "13.2.1"
+  }
+ },
+ {
+  "id": "R-0178",
+  "text": "As from 1 September 2022, Contracting Parties applying this UN Regulation shall not be obliged to accept UN type-approvals to the preceding series of amendments, first issued after 1 September 2022 or extensions thereof.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 27,
+   "paragraph": "13.2.2"
+  }
+ },
+ {
+  "id": "R-0179",
+  "text": "Notwithstanding paragraph 13.2.2., Contracting Parties applying the UN Regulation shall continue to accept UN type-approvals issued according to the preceding series of amendments to the UN Regulation, for the vehicle type which are not equipped with a coupling system to charge the REESS, or for component or separate technical unit which doesn’t include a coupling part to charge the REESS which are not affected by the changes introduced by the 05 or 06 series of amendments",
+  "source": {
+   "regulation": "UN R10",
+   "page": 27,
+   "paragraph": "13.2.3"
+  }
+ },
+ {
+  "id": "R-0180",
+  "text": "Contracting Parties applying this UN Regulation shall not refuse to grant UN type-approvals according to any preceding series of amendments to this UN Regulation or extensions thereof.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 27,
+   "paragraph": "13.2.4"
+  }
+ },
+ {
+  "id": "R-0181",
+  "text": "As from the official date of entry into force of the 07 series of amendments, no Contracting Party applying this Regulation shall refuse to grant or refuse to accept type approvals under this Regulation as amended by the 07 series of amendments.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 27,
+   "paragraph": "13.3.1"
+  }
+ },
+ {
+  "id": "R-0182",
+  "text": "As from 1 September 2029, Contracting Parties applying this Regulation shall not be obliged to accept type approvals to any of the preceding series of amendments, first issued after 1 September 2029.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 27,
+   "paragraph": "13.3.2"
+  }
+ },
+ {
+  "id": "R-0183",
+  "text": "Contracting Parties applying this Regulation shall continue to accept type approvals issued according to the 06 series of amendments to this Regulation first issued before 1 September 2029.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 27,
+   "paragraph": "13.3.3"
+  }
+ },
+ {
+  "id": "R-0184",
+  "text": "Notwithstanding paragraph 13.3.3., Contracting Parties applying this Regulation shall continue to accept type approvals issued according to the 06 series of amendments to this Regulation, for vehicles, vehicle systems, equipment and parts which are not affected by the changes introduced by the 07 series of amendments.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 27,
+   "paragraph": "13.3.4"
+  }
+ },
+ {
+  "id": "R-0185",
+  "text": "Contracting Parties applying this Regulation shall continue to grant extensions of existing approvals to any of the preceding series of amendments to this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 28,
+   "paragraph": "13.3.7"
+  }
+ },
+ {
+  "id": "R-0186",
+  "text": "Names and addresses of Technical Services conducting approval tests and of Type Approval Authorities The Parties to the 1958 Agreement applying this Regulation shall communicate to the United Nations Secretariat the names and addresses of the Technical Services conducting approval tests and of the Type Approval Authorities which grant approvals and to which forms certifying approval or extension, refusal or withdrawal of approval, issued in other countries, are to be sent.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 28,
+   "paragraph": "14"
+  }
+ },
+ {
+  "id": "R-0187",
+  "text": "Artificial networks (AN) For an ESA powered by LV, a 5 µH / 50 Ω AN as defined in Figure 1 shall be used.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 29,
+   "paragraph": "23"
+  }
+ },
+ {
+  "id": "R-0188",
+  "text": "The AN(s) shall be mounted directly on the ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 29,
+   "paragraph": "23"
+  }
+ },
+ {
+  "id": "R-0189",
+  "text": "The grounding connection of the AN(s) shall be bonded to the ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 29,
+   "paragraph": "23"
+  }
+ },
+ {
+  "id": "R-0190",
+  "text": "Measurement ports of AN(s) shall be terminated with a 50 Ω load.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 29,
+   "paragraph": "23"
+  }
+ },
+ {
+  "id": "R-0191",
+  "text": "High Voltage Artificial networks (HV-AN) For an ESA powered by HV, a 5 µH / 50 Ω HV-AN as defined in Figure 3 shall be used.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 29,
+   "paragraph": "23"
+  }
+ },
+ {
+  "id": "R-0192",
+  "text": "The HV-AN(s) shall be mounted directly on the ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 29,
+   "paragraph": "23"
+  }
+ },
+ {
+  "id": "R-0193",
+  "text": "The grounding connection of the HV-AN(s) shall be bonded to the ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 29,
+   "paragraph": "23"
+  }
+ },
+ {
+  "id": "R-0194",
+  "text": "Measurement ports of HV-AN(s) shall be terminated with a 50 Ω load.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 29,
+   "paragraph": "23"
+  }
+ },
+ {
+  "id": "R-0195",
+  "text": "If unshielded HV **-** ANs are used in a single shielded box, then there shall be an inner shield between the HV-ANs as described in Figure 4.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 29,
+   "paragraph": "23"
+  }
+ },
+ {
+  "id": "R-0196",
+  "text": "Direct Current charging Artificial Networks (DC-charging-AN) For a vehicle/ESA in charging mode connected to a DC power supply, a 5 µH / 50 Ω DC-charging-AN as defined in Figure 6 shall be used.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 29,
+   "paragraph": "23"
+  }
+ },
+ {
+  "id": "R-0197",
+  "text": "Measurement ports of DC-charging-AN(s) shall be terminated with 50 Ω loads.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 29,
+   "paragraph": "23"
+  }
+ },
+ {
+  "id": "R-0198",
+  "text": "Artificial Mains networks (AMN) For a vehicle/ESA in charging mode connected to an AC power mains, a 50 µH / 50 Ω-AMN as defined in CISPR 16-1-2 Clause 4.4 shall be used.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 29,
+   "paragraph": "23"
+  }
+ },
+ {
+  "id": "R-0199",
+  "text": "Measurement ports of AMN(s) shall be terminated with 50 Ω loads. 5.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 29,
+   "paragraph": "23"
+  }
+ },
+ {
+  "id": "R-0200",
+  "text": "Measurement ports of AAN(s) shall be terminated with 50 Ω loads.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 29,
+   "paragraph": "23"
+  }
+ },
+ {
+  "id": "R-0201",
+  "text": "The selected value for LCL and its origin shall be stated in the test report.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 29,
+   "paragraph": "23"
+  }
+ },
+ {
+  "id": "R-0202",
+  "text": "Therefore, a special AAN shall be used as defined in Figure 10.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 29,
+   "paragraph": "23"
+  }
+ },
+ {
+  "id": "R-0203",
+  "text": "The values of inductance and capacitance in the networks added for PLC on control pilot shown in Figure 10 shall not induce any malfunction of communication between vehicle and AE or charging station.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 29,
+   "paragraph": "23"
+  }
+ },
+ {
+  "id": "R-0204",
+  "text": "Therefore, a special AAN shall be used as defined in Figure 11.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 29,
+   "paragraph": "23"
+  }
+ },
+ {
+  "id": "R-0205",
+  "text": "The values of inductance and capacitance in the networks on control pilot shown in Figure 11 shall not induce any malfunction of communication between vehicle and charging station.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 29,
+   "paragraph": "23"
+  }
+ },
+ {
+  "id": "R-0206",
+  "text": "The following information shall be supplied in triplicate and shall include a list of contents.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 45,
+   "paragraph": "Annex 2A 0"
+  }
+ },
+ {
+  "id": "R-0207",
+  "text": "Any drawings shall be supplied in appropriate scale and in sufficient detail.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 45,
+   "paragraph": "Annex 2A 0"
+  }
+ },
+ {
+  "id": "R-0208",
+  "text": "If submission is paper based, documents shall be on size A4 or in a folder of A4 format.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 45,
+   "paragraph": "Annex 2A 0"
+  }
+ },
+ {
+  "id": "R-0209",
+  "text": "Photographs, if any, shall show sufficient detail.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 45,
+   "paragraph": "Annex 2A 0"
+  }
+ },
+ {
+  "id": "R-0210",
+  "text": "If the systems, components or separate technical units have electronic controls, information concerning their performance shall be supplied.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 45,
+   "paragraph": "Annex 2A 0"
+  }
+ },
+ {
+  "id": "R-0211",
+  "text": "Environment of charging (residential, non-residential) The applicant for type approval shall also supply, where appropriate:",
+  "source": {
+   "regulation": "UN R10",
+   "page": 46,
+   "paragraph": "Annex 2A 11"
+  }
+ },
+ {
+  "id": "R-0212",
+  "text": "The following information, if applicable, shall be supplied in triplicate and shall include a list of contents.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 48,
+   "paragraph": "Annex 2B 0"
+  }
+ },
+ {
+  "id": "R-0213",
+  "text": "Any drawings shall be supplied in appropriate scale and in sufficient detail.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 48,
+   "paragraph": "Annex 2B 0"
+  }
+ },
+ {
+  "id": "R-0214",
+  "text": "If submission is paper based, documents shall be on size A4 or in a folder of A4 format.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 48,
+   "paragraph": "Annex 2B 0"
+  }
+ },
+ {
+  "id": "R-0215",
+  "text": "Photographs, if any, shall show sufficient detail.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 48,
+   "paragraph": "Annex 2B 0"
+  }
+ },
+ {
+  "id": "R-0216",
+  "text": "If the systems, components or separate technical units have electronic controls, information concerning their performance shall be supplied.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 48,
+   "paragraph": "Annex 2B 0"
+  }
+ },
+ {
+  "id": "R-0217",
+  "text": "Means of identification of type, if marked on the component/separate technical unit:1 1 If the means of identification of type contains characters not relevant to describe the component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol \"?\" (e.g.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 49,
+   "paragraph": "Annex 2B 3"
+  }
+ },
+ {
+  "id": "R-0218",
+  "text": "This ESA shall be approved as a component/STU2 2 Delete where not applicable.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 49,
+   "paragraph": "Annex 2B 7"
+  }
+ },
+ {
+  "id": "R-0219",
+  "text": "The test method described in this annex shall only be applied to vehicles.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 52,
+   "paragraph": "Annex 4 1.1"
+  }
+ },
+ {
+  "id": "R-0220",
+  "text": "If not otherwise stated in this annex the test shall be performed according to CISPR 12.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 53,
+   "paragraph": "Annex 4 1.2"
+  }
+ },
+ {
+  "id": "R-0221",
+  "text": "Vehicle state during tests For two-wheeled vehicles, a non-conductive insulating support with a thickness of 5 – 20 mm shall be used between stand and ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 53,
+   "paragraph": "Annex 4 2"
+  }
+ },
+ {
+  "id": "R-0222",
+  "text": "Engine The engine shall be in operation according to CISPR 12.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 53,
+   "paragraph": "Annex 4 2.1.1"
+  }
+ },
+ {
+  "id": "R-0223",
+  "text": "If operating mode defined in CISPR 12 (i.e. 40 km/h) does not activate all traction motors or auxiliary battery charging engines, an alternative, steady state operating mode shall be agreed between the Technical Service and vehicle manufacturer.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 53,
+   "paragraph": "Annex 4 2.1.1"
+  }
+ },
+ {
+  "id": "R-0224",
+  "text": "The vehicle shall be tested in the charging mode configuration (if available on vehicle) as defined in the flowchart of Figure 1.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 53,
+   "paragraph": "Annex 4 2.2"
+  }
+ },
+ {
+  "id": "R-0225",
+  "text": "Figure 1 **Charging mode configuration for Annex 4** In case of multiple batteries the average state of charge shall be considered.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 53,
+   "paragraph": "Annex 4 2.2"
+  }
+ },
+ {
+  "id": "R-0226",
+  "text": "The vehicle shall be immobilized, the engine(s) (ICE and / or electrical engine) shall be OFF and in charging mode.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 53,
+   "paragraph": "Annex 4 2.2"
+  }
+ },
+ {
+  "id": "R-0227",
+  "text": "All other equipment which can be switched ON by the driver or passengers shall be OFF.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 53,
+   "paragraph": "Annex 4 2.2"
+  }
+ },
+ {
+  "id": "R-0228",
+  "text": "The socket(s) shall be placed on the ground plane (ALSE) or floor (OTS);",
+  "source": {
+   "regulation": "UN R10",
+   "page": 55,
+   "paragraph": "Annex 4 2.2.1.1"
+  }
+ },
+ {
+  "id": "R-0229",
+  "text": "The length of the harness between the power mains socket and the AMN(s) shall be kept as short as possible, but not necessarily aligned with the charging harness;",
+  "source": {
+   "regulation": "UN R10",
+   "page": 55,
+   "paragraph": "Annex 4 2.2.1.1"
+  }
+ },
+ {
+  "id": "R-0230",
+  "text": "The harness shall be placed as close as possible to the ground plane (ALSE) or floor (OTS).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 55,
+   "paragraph": "Annex 4 2.2.1.1"
+  }
+ },
+ {
+  "id": "R-0231",
+  "text": "Artificial network Power mains shall be applied to the vehicle through 50 µH/50 Ω artificial networks (AMN(s)) (see Appendix 8, paragraph 4.).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 55,
+   "paragraph": "Annex 4 2.2.1.2"
+  }
+ },
+ {
+  "id": "R-0232",
+  "text": "The AMN(s) shall be mounted directly on the ground plane (ALSE) or floor (OTS).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 55,
+   "paragraph": "Annex 4 2.2.1.2"
+  }
+ },
+ {
+  "id": "R-0233",
+  "text": "The case of the AMN(s) shall be bonded to the ground plane (ALSE) or connected to the protective earth (OTS, e.g. an earth rod).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 55,
+   "paragraph": "Annex 4 2.2.1.2"
+  }
+ },
+ {
+  "id": "R-0234",
+  "text": "The measuring port of each AMN shall be terminated with a 50 Ω load.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 55,
+   "paragraph": "Annex 4 2.2.1.2"
+  }
+ },
+ {
+  "id": "R-0235",
+  "text": "Power charging harness The power charging harness shall be placed in a straight line between the AMN(s) and the vehicle charging plug and shall be routed perpendicularly to the vehicle longitudinal axis (see Figure 3a and Figure 3c).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 55,
+   "paragraph": "Annex 4 2.2.1.3"
+  }
+ },
+ {
+  "id": "R-0236",
+  "text": "The projected harness length from the side of the AMN(s) to the side of the vehicle shall be 0,8 (+0,2 / -0) m as shown in Figure 3b and Figure 3d.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 55,
+   "paragraph": "Annex 4 2.2.1.3"
+  }
+ },
+ {
+  "id": "R-0237",
+  "text": "For a longer cable, the extraneous length shall be “Z-folded” symmetrically.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 55,
+   "paragraph": "Annex 4 2.2.1.3"
+  }
+ },
+ {
+  "id": "R-0238",
+  "text": "The width of the Z-folded cable shall be between 500 mm and 1 000 mm.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 55,
+   "paragraph": "Annex 4 2.2.1.3"
+  }
+ },
+ {
+  "id": "R-0239",
+  "text": "If it is impractical to do so because of cable bulk or stiffness, or because the testing is being done at a user's installation, the disposition of the excess cable length shall be precisely noted in the test report.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 55,
+   "paragraph": "Annex 4 2.2.1.3"
+  }
+ },
+ {
+  "id": "R-0240",
+  "text": "The charging harness at the vehicle side shall hang vertically at a distance of 100 (+200 / -0) mm from the vehicle body.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 55,
+   "paragraph": "Annex 4 2.2.1.3"
+  }
+ },
+ {
+  "id": "R-0241",
+  "text": "The whole harness shall be placed on a non-conductive, low relative permittivity (dielectric-constant) material (εr ≤ 1,4), at (100 ± 25) mm above the ground plane (ALSE) or floor (OTS).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 55,
+   "paragraph": "Annex 4 2.2.1.3"
+  }
+ },
+ {
+  "id": "R-0242",
+  "text": "In both cases power mains and communication or signal lines socket(s) shall be placed in the test site with the following conditions:",
+  "source": {
+   "regulation": "UN R10",
+   "page": 55,
+   "paragraph": "Annex 4 2.2.2.1"
+  }
+ },
+ {
+  "id": "R-0243",
+  "text": "The socket(s) shall be placed on the ground plane (ALSE) or floor (OTS);The length of the harness between the power mains / local/private communication socket and the AMN(s) / DC-charging-AN(s) / AAN(s) shall be kept as short as possible, but not necessarily aligned with the charging harness;",
+  "source": {
+   "regulation": "UN R10",
+   "page": 55,
+   "paragraph": "Annex 4 2.2.2.1"
+  }
+ },
+ {
+  "id": "R-0244",
+  "text": "The harness between the power mains / local/private communication socket and the AMN(s) / DC-charging-AN(s) / AAN(s) shall be placed as close as possible of the ground plane (ALSE) or floor (OTS).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 55,
+   "paragraph": "Annex 4 2.2.2.1"
+  }
+ },
+ {
+  "id": "R-0245",
+  "text": "If the charging station is placed inside the test site, then the harness between the charging station and the power mains / local/private communication socket shall satisfy the following conditions:",
+  "source": {
+   "regulation": "UN R10",
+   "page": 55,
+   "paragraph": "Annex 4 2.2.2.1"
+  }
+ },
+ {
+  "id": "R-0246",
+  "text": "The harness at charging station side shall hang vertically down to the ground plane (ALSE) or floor (OTS);The extraneous length shall be placed as close as possible to the ground plane (ALSE) or floor (OTS) and “Z-folded” if necessary.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 55,
+   "paragraph": "Annex 4 2.2.2.1"
+  }
+ },
+ {
+  "id": "R-0247",
+  "text": "If it is impractical to do so because of cable bulk or stiffness, or because the testing is being done at a user installation, the disposition of the excess cable shall be precisely noted in the test report.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 55,
+   "paragraph": "Annex 4 2.2.2.1"
+  }
+ },
+ {
+  "id": "R-0248",
+  "text": "Artificial network AC power mains shall be applied to the vehicle through 50 µH/50 Ω AMN(s) (see Appendix 8, paragraph 4.).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 56,
+   "paragraph": "Annex 4 2.2.2.2"
+  }
+ },
+ {
+  "id": "R-0249",
+  "text": "DC power mains shall be applied to the vehicle through 5 µH/50 Ω High Voltage Artificial Networks (DCcharging-AN(s)) (see Appendix 8, paragraph 3.).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 56,
+   "paragraph": "Annex 4 2.2.2.2"
+  }
+ },
+ {
+  "id": "R-0250",
+  "text": "The AMN(s) / DC-charging-AN(s) shall be mounted directly on the ground plane (ALSE) or floor (OTS).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 56,
+   "paragraph": "Annex 4 2.2.2.2"
+  }
+ },
+ {
+  "id": "R-0251",
+  "text": "The cases of the AMN(s) / DC-charging-AN(s) shall be bonded to the ground plane (ALSE) or connected to the protective earth (OTS, e.g. an earth rod).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 56,
+   "paragraph": "Annex 4 2.2.2.2"
+  }
+ },
+ {
+  "id": "R-0252",
+  "text": "The measuring port of each AMN / DC-charging-AN shall be terminated with a 50 Ω load.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 56,
+   "paragraph": "Annex 4 2.2.2.2"
+  }
+ },
+ {
+  "id": "R-0253",
+  "text": "Asymmetric artificial network Local/private communication lines connected to signal/control ports and lines connected to wired network ports shall be applied to the vehicle through AAN(s).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 56,
+   "paragraph": "Annex 4 2.2.2.3"
+  }
+ },
+ {
+  "id": "R-0254",
+  "text": "The AAN(s) shall be mounted directly on the ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 56,
+   "paragraph": "Annex 4 2.2.2.3"
+  }
+ },
+ {
+  "id": "R-0255",
+  "text": "The case of the AAN(s) shall be bonded to the ground plane (ALSE) or connected to the protective earth (OTS, e.g. an earth rod).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 56,
+   "paragraph": "Annex 4 2.2.2.3"
+  }
+ },
+ {
+  "id": "R-0256",
+  "text": "The measuring port of each AAN shall be terminated with a 50 Ω load.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 56,
+   "paragraph": "Annex 4 2.2.2.3"
+  }
+ },
+ {
+  "id": "R-0257",
+  "text": "The local/private communication lines between the vehicle and the charging station shall be connected to the auxiliary equipment on the charging station side to work as designed.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 56,
+   "paragraph": "Annex 4 2.2.2.3"
+  }
+ },
+ {
+  "id": "R-0258",
+  "text": "Power charging / local/private communication harness The power charging local/private communication harness shall be laid out in a straight line between the AMN(s) / DC-charging-AN(s) / AAN(s) and the vehicle charging socket and shall be routed perpendicularly to the vehicle’s longitudinal axis (see Figure 3e and Figure 3g).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 56,
+   "paragraph": "Annex 4 2.2.2.4"
+  }
+ },
+ {
+  "id": "R-0259",
+  "text": "The projected harness length from the side of the AMN(s) to the side of the vehicle shall be 0,8 (+0,2 / -0) m as shown in Figure 3f and Figure 3h.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 56,
+   "paragraph": "Annex 4 2.2.2.4"
+  }
+ },
+ {
+  "id": "R-0260",
+  "text": "For a longer cable, the extraneous length shall be “Z-folded” symmetrically.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 56,
+   "paragraph": "Annex 4 2.2.2.4"
+  }
+ },
+ {
+  "id": "R-0261",
+  "text": "The width of the Z-folded cable shall be between 500 mm and 1 000 mm.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 56,
+   "paragraph": "Annex 4 2.2.2.4"
+  }
+ },
+ {
+  "id": "R-0262",
+  "text": "If it is impractical to do so because of cable bulk or stiffness, or because the testing is being done at a user's installation, the disposition of the excess cable length shall be precisely noted in the test report.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 56,
+   "paragraph": "Annex 4 2.2.2.4"
+  }
+ },
+ {
+  "id": "R-0263",
+  "text": "The power charging local/private communication harness at vehicle side shall hang vertically at a distance of 100 (+200 / -0) mm from the vehicle body.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 56,
+   "paragraph": "Annex 4 2.2.2.4"
+  }
+ },
+ {
+  "id": "R-0264",
+  "text": "The whole harness shall be placed on a non-conductive, low relative permittivity (dielectric-constant) material (εr ≤ 1,4), at (100 ± 25) mm above the ground plane (ALSE) or floor (OTS).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 56,
+   "paragraph": "Annex 4 2.2.2.4"
+  }
+ },
+ {
+  "id": "R-0265",
+  "text": "In this case the measuring equipment shall lie outside the part shown in Figure 1 of Appendix 1 to this Annex.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 57,
+   "paragraph": "Annex 4 3.1"
+  }
+ },
+ {
+  "id": "R-0266",
+  "text": "If peak detectors are used **,** a correction factor of 20 dB as defined in CISPR 12 shall be applied.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 57,
+   "paragraph": "Annex 4 4.2"
+  }
+ },
+ {
+  "id": "R-0267",
+  "text": "The measurements shall be performed with a spectrum analyser or a scanning receiver.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 57,
+   "paragraph": "Annex 4 4.3"
+  }
+ },
+ {
+  "id": "R-0268",
+  "text": "FFT-based measuring instruments shall continuously record and evaluate the signal during the measurement time.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 57,
+   "paragraph": "Annex 4 4.3"
+  }
+ },
+ {
+  "id": "R-0269",
+  "text": "If using FFT-based instruments, the minimum measurement time shall be 1 s per analysis frequency band (in real-time mode) of the FFT instrument.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 57,
+   "paragraph": "Annex 4 4.3"
+  }
+ },
+ {
+  "id": "R-0270",
+  "text": "If a spectrum analyser is used for peak measurements, the video bandwidth shall be at least three times the resolution bandwidth (RBW).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 57,
+   "paragraph": "Annex 4 4.3"
+  }
+ },
+ {
+  "id": "R-0271",
+  "text": "Measurements The Technical Service shall perform the test at the intervals specified in the CISPR 12 standard throughout the frequency range 30 to 1,000 MHz.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 57,
+   "paragraph": "Annex 4 4.4"
+  }
+ },
+ {
+  "id": "R-0272",
+  "text": "In the event that the limit is exceeded during the test, investigations shall be made to ensure that this is due to the vehicle and not to background radiation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 57,
+   "paragraph": "Annex 4 4.4"
+  }
+ },
+ {
+  "id": "R-0273",
+  "text": "Readings The maximum of the readings relative to the limit (horizontal and vertical polarization and antenna location on the left and right-hand sides of the vehicle) in each of the 14 frequency bands shall be taken as the characteristic reading at the frequency at which the measurements were made.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 58,
+   "paragraph": "Annex 4 4.5"
+  }
+ },
+ {
+  "id": "R-0274",
+  "text": "Antenna position Measurements shall be made on the left and right sides of the vehicle.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 58,
+   "paragraph": "Annex 4 4.6"
+  }
+ },
+ {
+  "id": "R-0275",
+  "text": "The same positions shall be used for both horizontal and vertical polarization measurements.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 58,
+   "paragraph": "Annex 4 4.6"
+  }
+ },
+ {
+  "id": "R-0276",
+  "text": "The number of antenna positions and the position of the antenna with respect to the vehicle shall be documented in the test report.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 58,
+   "paragraph": "Annex 4 4.6"
+  }
+ },
+ {
+  "id": "R-0277",
+  "text": "The antenna shall be aligned with the middle of the total vehicle (see Figure 4);",
+  "source": {
+   "regulation": "UN R10",
+   "page": 58,
+   "paragraph": "Annex 4 4.6"
+  }
+ },
+ {
+  "id": "R-0278",
+  "text": "The number of antenna positions shall allow to meet the following condition:",
+  "source": {
+   "regulation": "UN R10",
+   "page": 58,
+   "paragraph": "Annex 4 4.6"
+  }
+ },
+ {
+  "id": "R-0279",
+  "text": "Depending of the chosen values of N (number of antenna positions) different set-up shall be used: if N=1 (only one antenna position is necessary), the antenna shall be aligned with the middle of the total vehicle length (see Figure 4). if N>1 (more than one antenna position is necessary), multiple antenna positions are necessary in order to cover the total length of the vehicle (see Figure 5).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 58,
+   "paragraph": "Annex 4 4.6"
+  }
+ },
+ {
+  "id": "R-0280",
+  "text": "The antenna positions shall be symmetric in regard to the vehicle perpendicular axis.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 58,
+   "paragraph": "Annex 4 4.6"
+  }
+ },
+ {
+  "id": "R-0281",
+  "text": "The test method described in this Annex shall only be applied to vehicles.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 67,
+   "paragraph": "Annex 5 1.1"
+  }
+ },
+ {
+  "id": "R-0282",
+  "text": "If not otherwise stated in this Annex the test shall be performed according to CISPR 12.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 67,
+   "paragraph": "Annex 5 1.2"
+  }
+ },
+ {
+  "id": "R-0283",
+  "text": "The ignition switch shall be switched on.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 67,
+   "paragraph": "Annex 5 2.1"
+  }
+ },
+ {
+  "id": "R-0284",
+  "text": "The engine shall not be operating.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 67,
+   "paragraph": "Annex 5 2.1"
+  }
+ },
+ {
+  "id": "R-0285",
+  "text": "For two-wheeled vehicles, a non-conductive insulating support with a thickness of 5 – 20 mm shall be used between stand and ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 67,
+   "paragraph": "Annex 5 2.1"
+  }
+ },
+ {
+  "id": "R-0286",
+  "text": "The vehicle's electronic systems shall all be in normal operating mode with the vehicle stationary.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 67,
+   "paragraph": "Annex 5 2.2"
+  }
+ },
+ {
+  "id": "R-0287",
+  "text": "Measurements shall be performed with an average detector. 4.3.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 67,
+   "paragraph": "Annex 5 3.1"
+  }
+ },
+ {
+  "id": "R-0288",
+  "text": "The measurements shall be performed with a spectrum analyser or a scanning receiver.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 67,
+   "paragraph": "Annex 5 3.1"
+  }
+ },
+ {
+  "id": "R-0289",
+  "text": "FFT-based measuring instruments shall continuously record and evaluate the signal during the measurement time.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 67,
+   "paragraph": "Annex 5 3.1"
+  }
+ },
+ {
+  "id": "R-0290",
+  "text": "If using FFT-based instruments, the minimum measurement time shall be 1 s per analysis frequency band (in real-time mode) of the FFT instrument.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 67,
+   "paragraph": "Annex 5 3.1"
+  }
+ },
+ {
+  "id": "R-0291",
+  "text": "If a spectrum analyser is used for peak measurements, the video bandwidth shall be at least three times the resolution bandwidth (RBW).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 67,
+   "paragraph": "Annex 5 3.1"
+  }
+ },
+ {
+  "id": "R-0292",
+  "text": "Measurements The Technical Service shall perform the test at the intervals specified in the CISPR 12 standard throughout the frequency range 30 to 1,000 MHz.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 67,
+   "paragraph": "Annex 5 3.1"
+  }
+ },
+ {
+  "id": "R-0293",
+  "text": "In the event that the limit is exceeded during the test, investigations shall be made to ensure that this is due to the vehicle and not to background radiation including broadband radiation from any ESA. 4.5.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 67,
+   "paragraph": "Annex 5 3.1"
+  }
+ },
+ {
+  "id": "R-0294",
+  "text": "Readings The maximum of the readings relative to the limit (horizontal and vertical polarization and antenna location on the left and right-hand sides of the vehicle) in each of the 14 frequency bands shall be taken as the characteristic reading at the frequency at which the measurements were made. 4.6.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 67,
+   "paragraph": "Annex 5 3.1"
+  }
+ },
+ {
+  "id": "R-0295",
+  "text": "Antenna position Measurements shall be made on the left and right sides of the vehicle.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 67,
+   "paragraph": "Annex 5 3.1"
+  }
+ },
+ {
+  "id": "R-0296",
+  "text": "The same positions shall be used for both horizontal and vertical polarization measurements.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 67,
+   "paragraph": "Annex 5 3.1"
+  }
+ },
+ {
+  "id": "R-0297",
+  "text": "The number of antenna positions and the position of the antenna with respect to the vehicle shall be documented in the test report. if the length of the vehicle is smaller than the 3 dB beamwidth of the antenna, only one antenna position is necessary.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 67,
+   "paragraph": "Annex 5 3.1"
+  }
+ },
+ {
+  "id": "R-0298",
+  "text": "The antenna shall be aligned with the middle of the total vehicle (see Figure 1) If the length of the vehicle is greater than the 3 dB beamwidth of the antenna, multiple antenna positions are necessary in order to cover the total length of the vehicle (see Figure 2).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 67,
+   "paragraph": "Annex 5 3.1"
+  }
+ },
+ {
+  "id": "R-0299",
+  "text": "The number of antenna positions shall allow to meet the following condition:",
+  "source": {
+   "regulation": "UN R10",
+   "page": 67,
+   "paragraph": "Annex 5 3.1"
+  }
+ },
+ {
+  "id": "R-0300",
+  "text": "Depending of the chosen values of N (number of antenna positions) different set-up shall be used: if N=1 (only one antenna position is necessary), the antenna shall be aligned with the middle of the total vehicle length (see Figure 1). if N>1 (more than one antenna position is necessary), multiple antenna positions are necessary in order to cover the total length of the vehicle (see Figure 2).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 67,
+   "paragraph": "Annex 5 3.1"
+  }
+ },
+ {
+  "id": "R-0301",
+  "text": "The antenna positions shall be symmetric in regard to the vehicle perpendicular axis.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 67,
+   "paragraph": "Annex 5 3.1"
+  }
+ },
+ {
+  "id": "R-0302",
+  "text": "The test method described in this Annex shall only be applied to vehicles.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 71,
+   "paragraph": "Annex 6 1.1"
+  }
+ },
+ {
+  "id": "R-0303",
+  "text": "The vehicle shall be subject to electromagnetic fields as described in this Annex.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 71,
+   "paragraph": "Annex 6 1.2"
+  }
+ },
+ {
+  "id": "R-0304",
+  "text": "The vehicle shall be monitored during the tests.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 71,
+   "paragraph": "Annex 6 1.2"
+  }
+ },
+ {
+  "id": "R-0305",
+  "text": "If not otherwise stated in this Annex the test shall be performed according to ISO 11451-2 in an ALSE: • with front irradiation for vehicle not considered as “large vehicles”.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 71,
+   "paragraph": "Annex 6 1.2"
+  }
+ },
+ {
+  "id": "R-0306",
+  "text": "Additional antenna position(s) shall be chosen by the manufacturer in conjunction with the Type-Approval Authority after considering the distribution of electronic systems with immunity related functions and the layout of any wiring harness.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 71,
+   "paragraph": "Annex 6 1.2"
+  }
+ },
+ {
+  "id": "R-0307",
+  "text": "Tests shall be performed with levels defined in paragraph 6.4.2.1. of this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 71,
+   "paragraph": "Annex 6 1.2"
+  }
+ },
+ {
+  "id": "R-0308",
+  "text": "For REESS charging mode, only the electronic systems and wiring harnesses required for charging mode shall be considered for antenna positions.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 71,
+   "paragraph": "Annex 6 1.2"
+  }
+ },
+ {
+  "id": "R-0309",
+  "text": "The test facility shall comply with (national) legal requirements regarding the emission of electromagnetic fields.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 71,
+   "paragraph": "Annex 6 1.3"
+  }
+ },
+ {
+  "id": "R-0310",
+  "text": "The test shall be performed according to ISO 11451-2 in an OTS: with front irradiation for vehicle not considered as “large vehicles”.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 71,
+   "paragraph": "Annex 6 1.3"
+  }
+ },
+ {
+  "id": "R-0311",
+  "text": "Additional antenna position(s) shall be chosen by the manufacturer in conjunction with the Type Approval Authority after considering the distribution of electronic systems with immunity related functions and the layout of any wiring harness.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 71,
+   "paragraph": "Annex 6 1.3"
+  }
+ },
+ {
+  "id": "R-0312",
+  "text": "Tests shall be performed with levels defined in paragraph 6.4.2.1. of this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 71,
+   "paragraph": "Annex 6 1.3"
+  }
+ },
+ {
+  "id": "R-0313",
+  "text": "For REESS charging mode, only the electronic systems and wiring harnesses required for charging mode shall be considered for antenna positions.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 71,
+   "paragraph": "Annex 6 1.3"
+  }
+ },
+ {
+  "id": "R-0314",
+  "text": "Additional antenna positions shall be chosen by the manufacturer in conjunction with the Type Approval Authority after considering the distribution of electronic systems with immunity related functions and the layout of any wiring harness.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 71,
+   "paragraph": "Annex 6 1.3"
+  }
+ },
+ {
+  "id": "R-0315",
+  "text": "Tests shall be performed with levels defined in paragraph 6.4.2.1. of this Regulation. • Harness excitation methods (BCI) according to ISO 11451-4 in the frequency range 20 to 2,000 MHz and ESA immunity to external sources according to Annex 9 in the frequency range 2,000 to 6,000 MHz for all ESA involved in immunity related functions.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 71,
+   "paragraph": "Annex 6 1.3"
+  }
+ },
+ {
+  "id": "R-0316",
+  "text": "ESA involved in immunity related functions shall be chosen by the manufacturer in conjunction with the Type Approval Authority.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 71,
+   "paragraph": "Annex 6 1.3"
+  }
+ },
+ {
+  "id": "R-0317",
+  "text": "Vehicle test shall be performed with levels defined in paragraph 6.4.2.1. of this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 71,
+   "paragraph": "Annex 6 1.3"
+  }
+ },
+ {
+  "id": "R-0318",
+  "text": "ESA shall be performed with levels defined in paragraph 6.8.2.1. of this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 71,
+   "paragraph": "Annex 6 1.3"
+  }
+ },
+ {
+  "id": "R-0319",
+  "text": "Concerned ESA shall be chosen by the manufacturer in conjunction with the Type-Approval Authority Vehicle test shall be performed with levels defined in paragraph 6.4.2.1. of this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 71,
+   "paragraph": "Annex 6 1.3"
+  }
+ },
+ {
+  "id": "R-0320",
+  "text": "ESA tests shall be performed with levels defined in paragraph 6.8.2.1. of this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 71,
+   "paragraph": "Annex 6 1.3"
+  }
+ },
+ {
+  "id": "R-0321",
+  "text": "The test report shall be prepared or approved by a laboratory accredited to ISO 17025 and recognized by the Type Approval Authority responsible for carrying out the tests and provided along with the information document shown in Annex 2B.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 71,
+   "paragraph": "Annex 6 1.3"
+  }
+ },
+ {
+  "id": "R-0322",
+  "text": "The same test method (vehicle type approval in combination with ESA test report for Annex9) shall be applied during Conformity of Production test or any applicable test method according to this Annex.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 71,
+   "paragraph": "Annex 6 1.3"
+  }
+ },
+ {
+  "id": "R-0323",
+  "text": "Vehicle state during tests For two-wheeled vehicles, a non-conductive insulating support with a thickness of 5 – 20 mm shall be used between stand and ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 72,
+   "paragraph": "Annex 6 2"
+  }
+ },
+ {
+  "id": "R-0324",
+  "text": "The vehicle shall be in an unladen condition except for necessary test equipment.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 72,
+   "paragraph": "Annex 6 2.1.1"
+  }
+ },
+ {
+  "id": "R-0325",
+  "text": "The engine shall normally turn the driving wheels at a steady speed of 50 km/h if there is no technical reason due to the vehicle to define a different condition.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 72,
+   "paragraph": "Annex 6 2.1.1.1"
+  }
+ },
+ {
+  "id": "R-0326",
+  "text": "For vehicles of categories L1 and L2 the steady speed shall normally be turned at 25 km/h.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 72,
+   "paragraph": "Annex 6 2.1.1.1"
+  }
+ },
+ {
+  "id": "R-0327",
+  "text": "The vehicle shall be on an appropriately loaded dynamometer or alternatively supported on insulated axle stands with minimum ground clearance if no dynamometer is available.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 72,
+   "paragraph": "Annex 6 2.1.1.1"
+  }
+ },
+ {
+  "id": "R-0328",
+  "text": "Other vehicle systems, which can affect immunity related functions, shall be tested in a way to be agreed between manufacturer and Technical Service.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 72,
+   "paragraph": "Annex 6 2.1.1.1"
+  }
+ },
+ {
+  "id": "R-0329",
+  "text": "If AVAS system is not operational during these two modes, the operating conditions (e.g. vehicle speed) shall be agreed between the Technical Service and the Vehicle Manufacturer.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 72,
+   "paragraph": "Annex 6 2.1.1.1"
+  }
+ },
+ {
+  "id": "R-0330",
+  "text": "All other systems which affect the driver's control of the vehicle shall be (on) as in normal operation of the vehicle.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 75,
+   "paragraph": "Annex 6 2.1.1.4"
+  }
+ },
+ {
+  "id": "R-0331",
+  "text": "If the vehicle is equipped with an ADS, the immunity test shall demonstrate the vehicle stays in a failure safe mode or expected failure operational mode during the test in 50km/h mode or Brake mode.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 75,
+   "paragraph": "Annex 6 2.1.1.5"
+  }
+ },
+ {
+  "id": "R-0332",
+  "text": "If the vehicle is equipped with an AECS according to UN Regulation No. 144, it shall be tested over the air for the transmission of Minimum Set of Data (MSD) and voice call via a real Public Land Mobile Network (PLMN) or via a network simulator before and after 50 km/h or brake mode and using a private safety answering point (PSAP).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 75,
+   "paragraph": "Annex 6 2.1.1.6"
+  }
+ },
+ {
+  "id": "R-0333",
+  "text": "Only one specific cellular configuration, including one frequency band and one channel, within a single cellular technology (e.g. 2G, 3G, 4G, 5G.) shall be tested.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 75,
+   "paragraph": "Annex 6 2.1.1.6"
+  }
+ },
+ {
+  "id": "R-0334",
+  "text": "Vehicle manufacturer and Technical Service shall review the AECS warning signal strategy if it will detect AECS system faults even when there is no network coverage.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 75,
+   "paragraph": "Annex 6 2.1.1.6"
+  }
+ },
+ {
+  "id": "R-0335",
+  "text": "If it is not possible to distinguish between lack of network coverage and a system fault, alternative arrangements shall be made to enable this.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 75,
+   "paragraph": "Annex 6 2.1.1.6"
+  }
+ },
+ {
+  "id": "R-0336",
+  "text": "Such evidence shall be retained in the type approval documentation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 75,
+   "paragraph": "Annex 6 2.1.2"
+  }
+ },
+ {
+  "id": "R-0337",
+  "text": "Only non-perturbing equipment shall be used while monitoring the vehicle.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 75,
+   "paragraph": "Annex 6 2.1.3"
+  }
+ },
+ {
+  "id": "R-0338",
+  "text": "The vehicle exterior and the passenger compartment shall be monitored to determine whether the requirements of this Annex are met (e.g. by using (a) video camera(s), a microphone, etc.).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 75,
+   "paragraph": "Annex 6 2.1.3"
+  }
+ },
+ {
+  "id": "R-0339",
+  "text": "The vehicle shall be in an unladen condition except for necessary test equipment.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 75,
+   "paragraph": "Annex 6 2.2.1"
+  }
+ },
+ {
+  "id": "R-0340",
+  "text": "The vehicle shall be immobilized, the engine(s) (ICE and / or electrical engine) shall be OFF and in charging mode.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 75,
+   "paragraph": "Annex 6 2.2.1.1"
+  }
+ },
+ {
+  "id": "R-0341",
+  "text": "The vehicle shall be tested in the charging mode configuration (if available on vehicle) as defined in flowchart of Figure 2.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 75,
+   "paragraph": "Annex 6 2.2.1.1"
+  }
+ },
+ {
+  "id": "R-0342",
+  "text": "Other vehicle systems, which can affect immunity related functions, shall be tested in a way to be agreed between manufacturer and Technical Service.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 76,
+   "paragraph": "Annex 6 2.2.1.2"
+  }
+ },
+ {
+  "id": "R-0343",
+  "text": "\"REESS charging mode\" vehicle test conditions Failure criteria In case of multiple batteries the average state of charge shall be considered.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 76,
+   "paragraph": "Annex 6 2.2.1.2"
+  }
+ },
+ {
+  "id": "R-0344",
+  "text": "All other equipment which can be switched ON by the driver or passengers shall be OFF.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 77,
+   "paragraph": "Annex 6 2.2.1.3"
+  }
+ },
+ {
+  "id": "R-0345",
+  "text": "Only non-perturbing equipment shall be used while monitoring the vehicle.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 77,
+   "paragraph": "Annex 6 2.2.2"
+  }
+ },
+ {
+  "id": "R-0346",
+  "text": "The vehicle exterior and the passenger compartment shall be monitored to determine whether the requirements of this Annex are met (e.g. by using (a) video camera(s), a microphone, etc.).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 77,
+   "paragraph": "Annex 6 2.2.2"
+  }
+ },
+ {
+  "id": "R-0347",
+  "text": "The socket(s) shall be placed on the ground plane (ALSE) or floor (OTS);The length of the harness between the power mains socket and the AMN(s) shall be kept as short as possible, but not necessarily aligned with the charging harness;The harness shall be placed as close as possible to the ground plane (ALSE) or floor (OTS).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 77,
+   "paragraph": "Annex 6 2.3.1"
+  }
+ },
+ {
+  "id": "R-0348",
+  "text": "Artificial network Power mains shall be applied to the vehicle through 50 µH/50 Ω artificial networks (AMN(s)) (see Appendix 8, paragraph 4.).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 77,
+   "paragraph": "Annex 6 2.3.2"
+  }
+ },
+ {
+  "id": "R-0349",
+  "text": "The AMN(s) shall be mounted directly on the ground plane (ALSE) or floor (OTS).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 77,
+   "paragraph": "Annex 6 2.3.2"
+  }
+ },
+ {
+  "id": "R-0350",
+  "text": "The case of the AMN(s) shall be bonded to the ground plane (ALSE) or connected to the protective earth (OTS, e.g. an earth rod).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 77,
+   "paragraph": "Annex 6 2.3.2"
+  }
+ },
+ {
+  "id": "R-0351",
+  "text": "The measuring port of each AMN shall be terminated with a 50 Ω load.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 77,
+   "paragraph": "Annex 6 2.3.2"
+  }
+ },
+ {
+  "id": "R-0352",
+  "text": "Power charging harness The power charging harness shall be placed in a straight line between the AMN(s) and the vehicle charging plug and shall be routed perpendicularly to the vehicle longitudinal axis (see Figure 5a and Figure 5c).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 77,
+   "paragraph": "Annex 6 2.3.3"
+  }
+ },
+ {
+  "id": "R-0353",
+  "text": "The projected harness length from the side of the AMN(s) to the side of the vehicle shall be 0,8 (+0,2 / -0) m as shown in Figure 5b and Figure 5d.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 77,
+   "paragraph": "Annex 6 2.3.3"
+  }
+ },
+ {
+  "id": "R-0354",
+  "text": "For a longer cable, the extraneous length shall be “Z-folded” symmetrically.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 77,
+   "paragraph": "Annex 6 2.3.3"
+  }
+ },
+ {
+  "id": "R-0355",
+  "text": "The width of the Z-folded cable shall be between 500 mm and 1 000 mm.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 77,
+   "paragraph": "Annex 6 2.3.3"
+  }
+ },
+ {
+  "id": "R-0356",
+  "text": "If it is impractical to do so because of cable bulk or stiffness, or because the testing is being done at a user's installation, the disposition of the excess cable length shall be precisely noted in the test report.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 77,
+   "paragraph": "Annex 6 2.3.3"
+  }
+ },
+ {
+  "id": "R-0357",
+  "text": "The charging harness at the vehicle side shall hang vertically at a distance of 100 (+200 / -0) mm from the vehicle body.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 77,
+   "paragraph": "Annex 6 2.3.3"
+  }
+ },
+ {
+  "id": "R-0358",
+  "text": "The whole harness shall be placed on a non-conductive, low relative permittivity (dielectric-constant) material (εr ≤ 1,4), at (100 ± 25) mm above the ground plane (ALSE) or floor (OTS).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 77,
+   "paragraph": "Annex 6 2.3.3"
+  }
+ },
+ {
+  "id": "R-0359",
+  "text": "In both cases power mains and communication or signal lines socket(s) shall be placed in the test site with the following conditions:",
+  "source": {
+   "regulation": "UN R10",
+   "page": 77,
+   "paragraph": "Annex 6 2.4.1"
+  }
+ },
+ {
+  "id": "R-0360",
+  "text": "The socket(s) shall be placed on the ground plane (ALSE) or floor (OTS);The length of the harness between the power mains / local/private communication socket and the AMN(s) / DC-charging-AN(s) / AAN(s) shall be kept as short as possible, but not necessarily aligned with the charging harness;The harness between the power mains / local/private communication socket and the AMN(s) / DC-charging-AN(s) / AAN(s) shall be placed as close as possible of the ground plane (ALSE) or floor (OTS).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 77,
+   "paragraph": "Annex 6 2.4.1"
+  }
+ },
+ {
+  "id": "R-0361",
+  "text": "If the charging station is placed inside the test site then the harness between the charging station and the power mains / local/private communication socket shall satisfy the following conditions:",
+  "source": {
+   "regulation": "UN R10",
+   "page": 77,
+   "paragraph": "Annex 6 2.4.1"
+  }
+ },
+ {
+  "id": "R-0362",
+  "text": "The harness at charging station side shall hang vertically down to the ground plane (ALSE) or floor (OTS);The extraneous length shall be placed as close as possible to the ground plane (ALSE) or floor (OTS) and “Z-folded” if necessary.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 77,
+   "paragraph": "Annex 6 2.4.1"
+  }
+ },
+ {
+  "id": "R-0363",
+  "text": "If it is impractical to do so because of cable bulk or stiffness, or because the testing is being done at a user installation, the disposition of the excess cable shall be precisely noted in the test report;",
+  "source": {
+   "regulation": "UN R10",
+   "page": 77,
+   "paragraph": "Annex 6 2.4.1"
+  }
+ },
+ {
+  "id": "R-0364",
+  "text": "Artificial network AC power mains shall be applied to the vehicle through 50 µH/50 Ω AMN(s) (see Appendix 8, paragraph 4.).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 78,
+   "paragraph": "Annex 6 2.4.2"
+  }
+ },
+ {
+  "id": "R-0365",
+  "text": "DC power mains shall be applied to the vehicle through 5 µH/50 Ω High Voltage Artificial Networks (DCcharging-AN(s)) (see Appendix 8, paragraph 3.).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 78,
+   "paragraph": "Annex 6 2.4.2"
+  }
+ },
+ {
+  "id": "R-0366",
+  "text": "The AMN(s) / DC-charging-AN(s) shall be mounted directly on the ground plane (ALSE) or floor (OTS).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 78,
+   "paragraph": "Annex 6 2.4.2"
+  }
+ },
+ {
+  "id": "R-0367",
+  "text": "The cases of the AMN(s) / DC-charging-AN(s) shall be bonded to the ground plane (ALSE) or connected to the protective earth (OTS, e.g. an earth rod).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 78,
+   "paragraph": "Annex 6 2.4.2"
+  }
+ },
+ {
+  "id": "R-0368",
+  "text": "The measuring port of each AMN / DC-charging-AN shall be terminated with a 50 Ω load.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 78,
+   "paragraph": "Annex 6 2.4.2"
+  }
+ },
+ {
+  "id": "R-0369",
+  "text": "Asymmetric artificial network Local/private communication lines connected to signal/control ports and lines connected to wired network ports shall be applied to the vehicle through AAN(s).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 78,
+   "paragraph": "Annex 6 2.4.3"
+  }
+ },
+ {
+  "id": "R-0370",
+  "text": "The AAN(s) shall be mounted directly on the ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 78,
+   "paragraph": "Annex 6 2.4.3"
+  }
+ },
+ {
+  "id": "R-0371",
+  "text": "The case of the AAN(s) shall be bonded to the ground plane (ALSE) or connected to the protective earth (OTS, e.g. an earth rod).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 78,
+   "paragraph": "Annex 6 2.4.3"
+  }
+ },
+ {
+  "id": "R-0372",
+  "text": "The measuring port of each AAN shall be terminated with a 50 Ω load.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 78,
+   "paragraph": "Annex 6 2.4.3"
+  }
+ },
+ {
+  "id": "R-0373",
+  "text": "The local/private communication lines between the vehicle and the charging station shall be connected to the auxiliary equipment on the charging station side to work as designed.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 78,
+   "paragraph": "Annex 6 2.4.3"
+  }
+ },
+ {
+  "id": "R-0374",
+  "text": "Power charging / local/private communication harness The power charging local/private communication harness shall be laid out in a straight line between the AMN(s) / DC-charging-AN(s) / AAN(s) and the vehicle charging socket and shall be routed perpendicularly to the vehicle’s longitudinal axis (see Figure 5e and Figure 5g).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 78,
+   "paragraph": "Annex 6 2.4.4"
+  }
+ },
+ {
+  "id": "R-0375",
+  "text": "The projected harness length from the side of the AMN(s) to the side of the vehicle shall be 0,8 (+0,2 / - 0) m as shown in Figure 5f and Figure 5h.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 78,
+   "paragraph": "Annex 6 2.4.4"
+  }
+ },
+ {
+  "id": "R-0376",
+  "text": "For a longer cable, the extraneous length shall be “Z-folded” symmetrically.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 78,
+   "paragraph": "Annex 6 2.4.4"
+  }
+ },
+ {
+  "id": "R-0377",
+  "text": "The width of the Z-folded cable shall be between 500 mm and 1 000 mm.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 78,
+   "paragraph": "Annex 6 2.4.4"
+  }
+ },
+ {
+  "id": "R-0378",
+  "text": "If it is impractical to do so because of cable bulk or stiffness, or because the testing is being done at a user's installation, the disposition of the excess cable length shall be precisely noted in the test report.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 78,
+   "paragraph": "Annex 6 2.4.4"
+  }
+ },
+ {
+  "id": "R-0379",
+  "text": "The power charging local/private communication harness at vehicle side shall hang vertically at a distance of 100 (+200 / -0) mm from the vehicle body.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 78,
+   "paragraph": "Annex 6 2.4.4"
+  }
+ },
+ {
+  "id": "R-0380",
+  "text": "The whole harness shall be placed on a non-conductive, low relative permittivity (dielectric-constant) material (εr ≤ 1,4), at (100 ± 25) mm above the ground plane (ALSE) or floor (OTS).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 78,
+   "paragraph": "Annex 6 2.4.4"
+  }
+ },
+ {
+  "id": "R-0381",
+  "text": "For the purposes of this Annex, the reference point is the point at which the field strength shall be established and shall be defined as follows:",
+  "source": {
+   "regulation": "UN R10",
+   "page": 79,
+   "paragraph": "Annex 6 3.1"
+  }
+ },
+ {
+  "id": "R-0382",
+  "text": "If it is decided to radiate the rear of the vehicle, the reference point shall be established as in paragraphs 3.3.1. to 3.3.4. above.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 79,
+   "paragraph": "Annex 6 3.3.5"
+  }
+ },
+ {
+  "id": "R-0383",
+  "text": "The vehicle shall then be installed facing away from the antenna and positioned as if it had been horizontally rotated 180° around its centre point, i.e. such that the distance from the antenna to the nearest part of the outer body of the vehicle remains the same.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 79,
+   "paragraph": "Annex 6 3.3.5"
+  }
+ },
+ {
+  "id": "R-0384",
+  "text": "If a vehicle is longer than 12 m and/or wider than 2.60 m and/or higher than 4.00 m, and tested according to ISO 11451-2, then additional reference point(s) shall be chosen by the manufacturer in conjunction with the Type Approval Authority after considering the distribution of electronic systems with immunity related functions and the layout of any wiring harness (see Appendix 1, Figure 5).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 79,
+   "paragraph": "Annex 6 3.4"
+  }
+ },
+ {
+  "id": "R-0385",
+  "text": "The vehicle shall be exposed to electromagnetic radiation in the 20 to 6,000 MHz frequency ranges in vertical polarization.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 79,
+   "paragraph": "Annex 6 4.1"
+  }
+ },
+ {
+  "id": "R-0386",
+  "text": "The test signal modulation shall be:",
+  "source": {
+   "regulation": "UN R10",
+   "page": 79,
+   "paragraph": "Annex 6 4.1"
+  }
+ },
+ {
+  "id": "R-0387",
+  "text": "Frequency step size and dwell time shall be chosen according to ISO 11451-1.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 79,
+   "paragraph": "Annex 6 4.1"
+  }
+ },
+ {
+  "id": "R-0388",
+  "text": "The Technical Service shall perform the test at the intervals specified in ISO 11451-1 throughout the frequency range 20 to 6,000 MHz.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 80,
+   "paragraph": "Annex 6 4.1.1"
+  }
+ },
+ {
+  "id": "R-0389",
+  "text": "If a vehicle fails the test defined in this Annex, it shall be verified as having failed under the relevant test conditions and not as a result of the generation of uncontrolled fields.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 80,
+   "paragraph": "Annex 6 4.1.1"
+  }
+ },
+ {
+  "id": "R-0390",
+  "text": "The substitution method according to ISO 11451-1, shall be used to establish the test field conditions.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 80,
+   "paragraph": "Annex 6 5.1.1"
+  }
+ },
+ {
+  "id": "R-0391",
+  "text": "Calibration For TLS four horizontal field probes shall be used.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 80,
+   "paragraph": "Annex 6 5.1.2"
+  }
+ },
+ {
+  "id": "R-0392",
+  "text": "For antennas four field probes at the vehicle reference line shall be used.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 80,
+   "paragraph": "Annex 6 5.1.2"
+  }
+ },
+ {
+  "id": "R-0393",
+  "text": "Test phase The vehicle shall be positioned with the centre line of the vehicle on the vehicle reference point or line.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 80,
+   "paragraph": "Annex 6 5.1.3"
+  }
+ },
+ {
+  "id": "R-0394",
+  "text": "The vehicle shall normally face a fixed antenna.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 80,
+   "paragraph": "Annex 6 5.1.3"
+  }
+ },
+ {
+  "id": "R-0395",
+  "text": "The additional point(s) shall be chosen by the manufacturer in conjunction with the Type Approval Authority after considering the distribution of electronic systems and the layout of any wiring harness.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 80,
+   "paragraph": "Annex 6 5.1.3"
+  }
+ },
+ {
+  "id": "R-0396",
+  "text": "The antenna location shall be noted in the test report.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 80,
+   "paragraph": "Annex 6 5.1.3"
+  }
+ },
+ {
+  "id": "R-0397",
+  "text": "If not otherwise stated in this Annex the test shall be performed according CISPR 25.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 91,
+   "paragraph": "Annex 7 1.2"
+  }
+ },
+ {
+  "id": "R-0398",
+  "text": "The ESA under test shall be in normal operation mode, preferably in maximum load.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 91,
+   "paragraph": "Annex 7 2.1"
+  }
+ },
+ {
+  "id": "R-0399",
+  "text": "ESAs involved in \"REESS charging mode coupled to the power grid\" shall be in charging mode.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 91,
+   "paragraph": "Annex 7 2.1"
+  }
+ },
+ {
+  "id": "R-0400",
+  "text": "The state of charge (SOC) of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole frequency range measurement (this may lead to split the measurement in different sub-bands with the need to discharge the vehicle's traction battery before starting the next sub-bands).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 91,
+   "paragraph": "Annex 7 2.1"
+  }
+ },
+ {
+  "id": "R-0401",
+  "text": "If the current consumption can be adjusted, then the current shall be set to at least 80 per cent of its maximum rated charging/input current value for AC charging.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 91,
+   "paragraph": "Annex 7 2.1"
+  }
+ },
+ {
+  "id": "R-0402",
+  "text": "If the current consumption can be adjusted, then the current shall be set to at least 20 per cent of its nominal value or to a minimum of 16 A (if the 20 per cent of its nominal value cannot be achieved in the test facility) for DC charging unless another value is agreed with the type approval authorities.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 91,
+   "paragraph": "Annex 7 2.1"
+  }
+ },
+ {
+  "id": "R-0403",
+  "text": "For ESA other than involved in \"REESS charging mode coupled to the power grid\" the test shall be performed according to the ALSE method described in Clause 6.4 of CISPR 25.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 91,
+   "paragraph": "Annex 7 3.1"
+  }
+ },
+ {
+  "id": "R-0404",
+  "text": "For ESAs in configuration \"REESS charging mode coupled to the power grid\" the test arrangement shall be according to Figure 2 of the appendix to this Annex.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 91,
+   "paragraph": "Annex 7 3.2"
+  }
+ },
+ {
+  "id": "R-0405",
+  "text": "The shielding configuration shall be according to the vehicle series configuration.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 91,
+   "paragraph": "Annex 7 3.2.1"
+  }
+ },
+ {
+  "id": "R-0406",
+  "text": "Generally all shielded High Voltage (HV) parts shall be properly connected with low impedance to ground (e.g.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 91,
+   "paragraph": "Annex 7 3.2.1"
+  }
+ },
+ {
+  "id": "R-0407",
+  "text": "ESAs and loads shall be connected to ground.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 91,
+   "paragraph": "Annex 7 3.2.1"
+  }
+ },
+ {
+  "id": "R-0408",
+  "text": "The external HV power supply shall be connected via feedthrough-filtering.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 91,
+   "paragraph": "Annex 7 3.2.1"
+  }
+ },
+ {
+  "id": "R-0409",
+  "text": "The ESA power supply lead shall be connected to the power supply through an HV-AN (for ESA with DC HV supply) and/or AMN (for ESA with AC supply).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 91,
+   "paragraph": "Annex 7 3.2.2"
+  }
+ },
+ {
+  "id": "R-0410",
+  "text": "DC HV supply shall be applied to the ESA via a 5 μH/50 Ω HV-AN (see Appendix 8, paragraph 2.).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 91,
+   "paragraph": "Annex 7 3.2.2"
+  }
+ },
+ {
+  "id": "R-0411",
+  "text": "AC supply shall be applied to the ESA via a 50 μH/50 Ω AMN (see Appendix 8, paragraph 4.).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 91,
+   "paragraph": "Annex 7 3.2.2"
+  }
+ },
+ {
+  "id": "R-0412",
+  "text": "Unless otherwise specified the length of the Low Voltage (LV) harness and the HV harness parallel to the front edge of the ground plane shall be 1,500 mm (±75 mm).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 92,
+   "paragraph": "Annex 7 3.2.3"
+  }
+ },
+ {
+  "id": "R-0413",
+  "text": "The total length of the test harness including the connector shall be 1,700 mm (+300/-0 mm).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 92,
+   "paragraph": "Annex 7 3.2.3"
+  }
+ },
+ {
+  "id": "R-0414",
+  "text": "The distance between the LV harness and the HV harness shall be 100 mm (+100/-0 mm).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 92,
+   "paragraph": "Annex 7 3.2.3"
+  }
+ },
+ {
+  "id": "R-0415",
+  "text": "All of the harnesses shall be placed on a non-conductive, low relative permittivity material (εr ≤ 1.4), at 50 mm (±5 mm) above the ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 92,
+   "paragraph": "Annex 7 3.2.4"
+  }
+ },
+ {
+  "id": "R-0416",
+  "text": "Unless otherwise specified, the ESA case shall be connected to the ground plane either directly or via defined impedance.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 92,
+   "paragraph": "Annex 7 3.2.6"
+  }
+ },
+ {
+  "id": "R-0417",
+  "text": "For onboard chargers, the AC/DC power lines shall be placed the furthest from the antenna (behind LV and HV harness).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 92,
+   "paragraph": "Annex 7 3.2.7"
+  }
+ },
+ {
+  "id": "R-0418",
+  "text": "The distance between the AC/DC power lines and the closest harness (LV or HV) shall be 100 mm (+100/-0 mm).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 92,
+   "paragraph": "Annex 7 3.2.7"
+  }
+ },
+ {
+  "id": "R-0419",
+  "text": "Ambient To ensure that there is no extraneous noise or signal of a magnitude sufficient to affect materially the measurement, measurements shall be taken before or after the main test.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 92,
+   "paragraph": "Annex 7 3.4"
+  }
+ },
+ {
+  "id": "R-0420",
+  "text": "In this measurement, the extraneous noise or signal shall be at least 6 dB below the limits of interference given in paragraph 6.5.2.1. of this Regulation, except for intentional narrowband ambient transmissions.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 92,
+   "paragraph": "Annex 7 3.4"
+  }
+ },
+ {
+  "id": "R-0421",
+  "text": "If peak detectors are used a correction factor of 20 dB as defined in CISPR 12 shall be applied.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 92,
+   "paragraph": "Annex 7 4.2"
+  }
+ },
+ {
+  "id": "R-0422",
+  "text": "The measurements shall be performed with a spectrum analyser or a scanning receiver.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 92,
+   "paragraph": "Annex 7 4.3"
+  }
+ },
+ {
+  "id": "R-0423",
+  "text": "FFT-based measuring instruments shall continuously record and evaluate the signal during the measurement time.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 92,
+   "paragraph": "Annex 7 4.3"
+  }
+ },
+ {
+  "id": "R-0424",
+  "text": "If using FFT-based instruments, the minimum measurement time shall be 1 s per analysis frequency band (in real-time mode) of the FFT instrument.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 92,
+   "paragraph": "Annex 7 4.3"
+  }
+ },
+ {
+  "id": "R-0425",
+  "text": "If a spectrum analyser is used for peak measurements, the video bandwidth shall be at least three times the resolution bandwidth (RBW).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 92,
+   "paragraph": "Annex 7 4.3"
+  }
+ },
+ {
+  "id": "R-0426",
+  "text": "Measurements Unless otherwise specified the configuration with the LV harness closer to the antenna shall be tested.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 93,
+   "paragraph": "Annex 7 4.4"
+  }
+ },
+ {
+  "id": "R-0427",
+  "text": "The phase centre of the antenna shall be in line with the centre of the longitudinal part of the wiring harnesses for frequencies up to 1,000 MHz.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 93,
+   "paragraph": "Annex 7 4.4"
+  }
+ },
+ {
+  "id": "R-0428",
+  "text": "The Technical Service shall perform the test at the intervals specified in the CISPR 12 standard throughout the frequency range 30 to 1,000 MHz.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 93,
+   "paragraph": "Annex 7 4.4"
+  }
+ },
+ {
+  "id": "R-0429",
+  "text": "In the event that the limit is exceeded during the test, investigations shall be made to ensure that this is due to the ESA and not to background radiation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 93,
+   "paragraph": "Annex 7 4.4"
+  }
+ },
+ {
+  "id": "R-0430",
+  "text": "Readings The maximum of the readings relative to the limit (horizontal/vertical polarization) in each of the 14 frequency bands shall be taken as the characteristic reading at the frequency at which the measurements were made.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 93,
+   "paragraph": "Annex 7 4.5"
+  }
+ },
+ {
+  "id": "R-0431",
+  "text": "If not otherwise stated in this Annex the test shall be performed according to CISPR 25.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 96,
+   "paragraph": "Annex 8 1.2"
+  }
+ },
+ {
+  "id": "R-0432",
+  "text": "ESA state during tests The ESA under test shall be in normal operation mode, preferably in maximum load.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 96,
+   "paragraph": "Annex 8 2"
+  }
+ },
+ {
+  "id": "R-0433",
+  "text": "The test shall be performed according to ALSE method described in paragraph 6.4. of CISPR 25.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 96,
+   "paragraph": "Annex 8 3.1"
+  }
+ },
+ {
+  "id": "R-0434",
+  "text": "Ambient To ensure that there is no extraneous noise or signal of a magnitude sufficient to affect materially the measurement; measurements shall be taken before or after the main test.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 96,
+   "paragraph": "Annex 8 3.3"
+  }
+ },
+ {
+  "id": "R-0435",
+  "text": "In this measurement, the extraneous noise or signal shall be at least 6 dB below the limits of interference given in paragraph 6.6.2.1. of this Regulation, except for intentional narrowband ambient transmissions.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 96,
+   "paragraph": "Annex 8 3.3"
+  }
+ },
+ {
+  "id": "R-0436",
+  "text": "Measurements shall be performed with an average detector.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 96,
+   "paragraph": "Annex 8 4.2"
+  }
+ },
+ {
+  "id": "R-0437",
+  "text": "The measurements shall be performed with a spectrum analyser or a scanning receiver.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 96,
+   "paragraph": "Annex 8 4.3"
+  }
+ },
+ {
+  "id": "R-0438",
+  "text": "FFT-based measuring instruments shall continuously record and evaluate the signal during the measurement time.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 96,
+   "paragraph": "Annex 8 4.3"
+  }
+ },
+ {
+  "id": "R-0439",
+  "text": "If using FFT-based instruments, the minimum measurement time shall be 1 s per analysis frequency band (in real-time mode) of the FFT instrument.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 96,
+   "paragraph": "Annex 8 4.3"
+  }
+ },
+ {
+  "id": "R-0440",
+  "text": "If a spectrum analyser is used for peak measurements, the video band width shall be at least three times the resolution band width (RBW) Table 2 **Scanning receiver parameters**",
+  "source": {
+   "regulation": "UN R10",
+   "page": 96,
+   "paragraph": "Annex 8 4.3"
+  }
+ },
+ {
+  "id": "R-0441",
+  "text": "Measurements The Technical Service shall perform the test at the intervals specified in the CISPR 12 standard throughout the frequency range 30 to 1,000 MHz.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 97,
+   "paragraph": "Annex 8 4.4"
+  }
+ },
+ {
+  "id": "R-0442",
+  "text": "In the event that the limit is exceeded during the test, investigations shall be made to ensure that this is due to the ESA and not to background radiation including broadband radiation from the ESA.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 97,
+   "paragraph": "Annex 8 4.4"
+  }
+ },
+ {
+  "id": "R-0443",
+  "text": "Readings The maximum of the readings relative to the limit (horizontal/vertical polarisation) in each of the 14 frequency bands shall be taken as the characteristic reading at the frequency at which the measurements were made.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 97,
+   "paragraph": "Annex 8 4.5"
+  }
+ },
+ {
+  "id": "R-0444",
+  "text": "ESAs in configuration \"REESS charging mode coupled to the power grid\" shall comply with the requirements of the combination of the Absorber chamber test according to ISO 11452-2 and Bulk current injection testing according to ISO 11452-4 at the manufacturer's discretion provided that these results in the full frequency range specified in paragraph 3.1. of this Annex being covered.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 97,
+   "paragraph": "Annex 9 1.2.1"
+  }
+ },
+ {
+  "id": "R-0445",
+  "text": "(Frequency range and general test conditions shall be based on ISO 11452-1).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 97,
+   "paragraph": "Annex 9 1.2.1"
+  }
+ },
+ {
+  "id": "R-0446",
+  "text": "The test conditions shall be according to ISO 11452-1.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 98,
+   "paragraph": "Annex 9 2.1"
+  }
+ },
+ {
+  "id": "R-0447",
+  "text": "The ESA under test shall be switched on and shall be stimulated to be in normal operation condition.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 98,
+   "paragraph": "Annex 9 2.2"
+  }
+ },
+ {
+  "id": "R-0448",
+  "text": "It shall be arranged as defined in this Annex unless individual test methods dictate otherwise.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 98,
+   "paragraph": "Annex 9 2.2"
+  }
+ },
+ {
+  "id": "R-0449",
+  "text": "Any extraneous equipment required to operate the ESA under test shall not be in place during the calibration phase.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 98,
+   "paragraph": "Annex 9 2.4"
+  }
+ },
+ {
+  "id": "R-0450",
+  "text": "No extraneous equipment shall be closer than 1 m from the reference point during calibration.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 98,
+   "paragraph": "Annex 9 2.4"
+  }
+ },
+ {
+  "id": "R-0451",
+  "text": "To ensure reproducible measurement results are obtained when tests and measurements are repeated, the test signal generating equipment and its layout shall be to the same specification as that used during each appropriate calibration phase.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 98,
+   "paragraph": "Annex 9 2.5"
+  }
+ },
+ {
+  "id": "R-0452",
+  "text": "If these are not available, the length between the electronic control unit and the AN shall be as defined in the standard.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 98,
+   "paragraph": "Annex 9 2.6"
+  }
+ },
+ {
+  "id": "R-0453",
+  "text": "Frequency range, dwell times Measurements shall be made in the 20 to 6,000 MHz frequency range with frequency steps according to ISO 11452-1.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 98,
+   "paragraph": "Annex 9 3.1"
+  }
+ },
+ {
+  "id": "R-0454",
+  "text": "The test signal modulation shall be:",
+  "source": {
+   "regulation": "UN R10",
+   "page": 98,
+   "paragraph": "Annex 9 3.1"
+  }
+ },
+ {
+  "id": "R-0455",
+  "text": "Frequency step size and dwell time shall be chosen according to ISO 11452-1.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 98,
+   "paragraph": "Annex 9 3.1"
+  }
+ },
+ {
+  "id": "R-0456",
+  "text": "The Technical Service shall perform the test at the intervals specified in ISO 11452-1, throughout the frequency range 20 to 6,000 MHz.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 99,
+   "paragraph": "Annex 9 3.2"
+  }
+ },
+ {
+  "id": "R-0457",
+  "text": "If an ESA fails the tests defined in this Annex, it shall be verified as having failed under the relevant test conditions and not as a result of the generation of uncontrolled fields.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 99,
+   "paragraph": "Annex 9 3.3"
+  }
+ },
+ {
+  "id": "R-0458",
+  "text": "Test methodology The \"substitution method\" shall be used to establish the test field conditions according to ISO 11452-2 _._ The test shall be performed with vertical polarization.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 99,
+   "paragraph": "Annex 9 4.1.2"
+  }
+ },
+ {
+  "id": "R-0459",
+  "text": "For ESAs in configuration \"REESS charging mode coupled to the power grid\" the test arrangement shall be according to Appendix 3 to this Annex.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 99,
+   "paragraph": "Annex 9 4.1.2.1"
+  }
+ },
+ {
+  "id": "R-0460",
+  "text": "The shielding configuration shall be according to the vehicle series configuration.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 99,
+   "paragraph": "Annex 9 4.1.2.1.1"
+  }
+ },
+ {
+  "id": "R-0461",
+  "text": "Generally all shielded HV parts shall be properly connected with low impedance to ground (e. g.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 99,
+   "paragraph": "Annex 9 4.1.2.1.1"
+  }
+ },
+ {
+  "id": "R-0462",
+  "text": "ESAs and loads shall be connected to ground.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 99,
+   "paragraph": "Annex 9 4.1.2.1.1"
+  }
+ },
+ {
+  "id": "R-0463",
+  "text": "The external HV power supply shall be connected via feed-through-filtering.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 99,
+   "paragraph": "Annex 9 4.1.2.1.1"
+  }
+ },
+ {
+  "id": "R-0464",
+  "text": "Unless otherwise specified the length of the LV harness and the HV harness parallel to the front edge of the ground plane shall be 1,500 mm (±75 mm).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 99,
+   "paragraph": "Annex 9 4.1.2.1.2"
+  }
+ },
+ {
+  "id": "R-0465",
+  "text": "The total length of the test harness including the connector shall be 1,700 mm (+300/-0 mm).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 99,
+   "paragraph": "Annex 9 4.1.2.1.2"
+  }
+ },
+ {
+  "id": "R-0466",
+  "text": "The distance between the LV harness and the HV harness shall be 100 mm (+100/-0 mm).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 99,
+   "paragraph": "Annex 9 4.1.2.1.2"
+  }
+ },
+ {
+  "id": "R-0467",
+  "text": "All of the harnesses shall be placed on a non-conductive, low relative permittivity material (εr ≤ 1,4), at 50 mm (±5 mm) above the ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 99,
+   "paragraph": "Annex 9 4.1.2.1.3"
+  }
+ },
+ {
+  "id": "R-0468",
+  "text": "Unless otherwise specified, the ESA case shall be connected to the ground plane either directly or via defined impedance.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 99,
+   "paragraph": "Annex 9 4.1.2.1.5"
+  }
+ },
+ {
+  "id": "R-0469",
+  "text": "For onboard chargers, the AC/DC power lines shall be placed the furthest from the antenna (behind LV and HV harness).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 99,
+   "paragraph": "Annex 9 4.1.2.1.6"
+  }
+ },
+ {
+  "id": "R-0470",
+  "text": "The distance between the AC/DC power lines and the closest harness (LV or HV) shall be 100 mm (+100/-0 mm).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 99,
+   "paragraph": "Annex 9 4.1.2.1.6"
+  }
+ },
+ {
+  "id": "R-0471",
+  "text": "Unless otherwise specified, the configuration with the LV harness closer to the antenna shall be tested.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 99,
+   "paragraph": "Annex 9 4.1.2.1.7"
+  }
+ },
+ {
+  "id": "R-0472",
+  "text": "Test methodology The test shall be performed according to ISO 11452-3.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 100,
+   "paragraph": "Annex 9 4.2.2"
+  }
+ },
+ {
+  "id": "R-0473",
+  "text": "Depending on the ESA to be tested the Technical Service shall chose the method of maximum field coupling to the ESA or to the wiring harness inside the TEM-cell.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 100,
+   "paragraph": "Annex 9 4.2.2"
+  }
+ },
+ {
+  "id": "R-0474",
+  "text": "Test methodology The test shall be performed according to ISO 11452-4 on a test bench with the following characteristics:",
+  "source": {
+   "regulation": "UN R10",
+   "page": 100,
+   "paragraph": "Annex 9 4.3.2"
+  }
+ },
+ {
+  "id": "R-0475",
+  "text": "The shielding configuration shall be according to the vehicle series configuration.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 100,
+   "paragraph": "Annex 9 4.3.2.1.1"
+  }
+ },
+ {
+  "id": "R-0476",
+  "text": "Generally all shielded HV parts shall be properly connected with low impedance to ground (e. g.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 100,
+   "paragraph": "Annex 9 4.3.2.1.1"
+  }
+ },
+ {
+  "id": "R-0477",
+  "text": "ESAs and loads shall be connected to ground.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 100,
+   "paragraph": "Annex 9 4.3.2.1.1"
+  }
+ },
+ {
+  "id": "R-0478",
+  "text": "The external HV power supply shall be connected via feed-through-filtering.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 100,
+   "paragraph": "Annex 9 4.3.2.1.1"
+  }
+ },
+ {
+  "id": "R-0479",
+  "text": "When using substitution method, unless otherwise specified the length of the LV harness and the HV harness shall be 1,700 mm (+300/-0 mm).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 100,
+   "paragraph": "Annex 9 4.3.2.1.2"
+  }
+ },
+ {
+  "id": "R-0480",
+  "text": "The distance between the LV harness and the HV harness shall be 100 mm (+100/-0 mm).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 100,
+   "paragraph": "Annex 9 4.3.2.1.2"
+  }
+ },
+ {
+  "id": "R-0481",
+  "text": "The HV/LV wiring harness shall be straight over at least 1,400 mm starting at the ESA for all test methods defined in part 4 of ISO 11452 except for the BCI test method using the closed-loop method with power limitation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 100,
+   "paragraph": "Annex 9 4.3.2.1.2"
+  }
+ },
+ {
+  "id": "R-0482",
+  "text": "When using closed loop method, unless otherwise specified the length of the LV harness and the HV harness shall be 1,000 mm (+200/-0 mm).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 100,
+   "paragraph": "Annex 9 4.3.2.1.2"
+  }
+ },
+ {
+  "id": "R-0483",
+  "text": "The distance between the LV harness and the HV harness shall be 100 mm (+100/-0 mm).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 100,
+   "paragraph": "Annex 9 4.3.2.1.2"
+  }
+ },
+ {
+  "id": "R-0484",
+  "text": "The HV/LV wiring harness shall be straight over its entire length for the BCI test method using the closedloop method with power limitation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 100,
+   "paragraph": "Annex 9 4.3.2.1.2"
+  }
+ },
+ {
+  "id": "R-0485",
+  "text": "All of the harnesses shall be placed on a non-conductive, low relative permittivity material (εr≤1.4), at (50 ± 5) mm above the ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 100,
+   "paragraph": "Annex 9 4.3.2.1.3"
+  }
+ },
+ {
+  "id": "R-0486",
+  "text": "Unless otherwise specified, the ESA case shall be connected to the ground plane either directly or via defined impedance.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 100,
+   "paragraph": "Annex 9 4.3.2.1.5"
+  }
+ },
+ {
+  "id": "R-0487",
+  "text": "Unless otherwise specified the test shall be performed with the injection probe placed around each of the following harnesses:",
+  "source": {
+   "regulation": "UN R10",
+   "page": 100,
+   "paragraph": "Annex 9 4.3.2.1.6"
+  }
+ },
+ {
+  "id": "R-0488",
+  "text": "Test methodology The test shall be performed according to ISO 11452-5.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 101,
+   "paragraph": "Annex 9 4.4.2"
+  }
+ },
+ {
+  "id": "R-0489",
+  "text": "Test methodology The test shall be performed according to ISO 11452-11.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 101,
+   "paragraph": "Annex 9 4.5.2"
+  }
+ },
+ {
+  "id": "R-0490",
+  "text": "Unless otherwise specified, the reverberation chamber testing method shall be carried out using a test setup with ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 101,
+   "paragraph": "Annex 9 4.5.2"
+  }
+ },
+ {
+  "id": "R-0491",
+  "text": "The test shall be performed according to ISO 11452-2.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 101,
+   "paragraph": "Annex 9 Appendix 2 0"
+  }
+ },
+ {
+  "id": "R-0492",
+  "text": "The test shall be performed according to ISO 11452-4.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 105,
+   "paragraph": "Annex 9 Appendix 3 0"
+  }
+ },
+ {
+  "id": "R-0493",
+  "text": "General This test method shall ensure the immunity of ESAs to conducted transients on the vehicle power supply and limit conducted transients from ESAs to the vehicle power supply.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 108,
+   "paragraph": "Annex 10 1"
+  }
+ },
+ {
+  "id": "R-0494",
+  "text": "The test method described in this Annex shall be applied to vehicles in configuration \"REESS charging mode coupled to the power grid\"",
+  "source": {
+   "regulation": "UN R10",
+   "page": 108,
+   "paragraph": "Annex 11 1.1"
+  }
+ },
+ {
+  "id": "R-0495",
+  "text": "If not otherwise stated in this Annex the test shall be performed according to:",
+  "source": {
+   "regulation": "UN R10",
+   "page": 109,
+   "paragraph": "Annex 11 1.2"
+  }
+ },
+ {
+  "id": "R-0496",
+  "text": "The vehicle shall be in configuration \"REESS charging mode coupled to the power grid\".",
+  "source": {
+   "regulation": "UN R10",
+   "page": 109,
+   "paragraph": "Annex 11 2.1"
+  }
+ },
+ {
+  "id": "R-0497",
+  "text": "For two-wheeled vehicles, a non-conductive insulating support with a thickness of 5 – 20mm shall be used between stand and ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 109,
+   "paragraph": "Annex 11 2.1"
+  }
+ },
+ {
+  "id": "R-0498",
+  "text": "The vehicle shall be tested in the charging mode configuration (if available on vehicle) as defined in flowchart of Figure 1 **.** Figure 1 **Charging mode configuration for Annex 11** The state of charge (SOC) of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole time duration of the measurement (this may lead to the measurement being splitting into different time slots with the need to discharge the vehicle’s traction battery before starting the next time slot).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 109,
+   "paragraph": "Annex 11 2.1"
+  }
+ },
+ {
+  "id": "R-0499",
+  "text": "If the current consumption can be adjusted, then the current shall be set to at least 80 per cent of its maximum rated charging/input current value for AC charging.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 109,
+   "paragraph": "Annex 11 2.1"
+  }
+ },
+ {
+  "id": "R-0500",
+  "text": "In case of multiple batteries the average state of charge shall be considered.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 109,
+   "paragraph": "Annex 11 2.1"
+  }
+ },
+ {
+  "id": "R-0501",
+  "text": "The vehicle shall be immobilized, the engine(s) (ICE and / or electrical engine) shall be OFF and in charging mode.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 109,
+   "paragraph": "Annex 11 2.1"
+  }
+ },
+ {
+  "id": "R-0502",
+  "text": "All other equipment which can be switched ON by the driver or passengers shall be OFF.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 109,
+   "paragraph": "Annex 11 2.1"
+  }
+ },
+ {
+  "id": "R-0503",
+  "text": "The observation time to be used for the measurements shall be as for quasi-stationary equipment as defined in IEC 61000-3-2, Table 4.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 111,
+   "paragraph": "Annex 11 3.1"
+  }
+ },
+ {
+  "id": "R-0504",
+  "text": "The measurements of even and odd current harmonics shall be performed up to the 40th harmonic.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 111,
+   "paragraph": "Annex 11 4.1"
+  }
+ },
+ {
+  "id": "R-0505",
+  "text": "The test method described in this Annex shall be applied to vehicles in configuration \"REESS charging mode coupled to the power grid\".",
+  "source": {
+   "regulation": "UN R10",
+   "page": 113,
+   "paragraph": "Annex 12 1.1"
+  }
+ },
+ {
+  "id": "R-0506",
+  "text": "If not otherwise stated in this Annex the test shall be performed according to:",
+  "source": {
+   "regulation": "UN R10",
+   "page": 113,
+   "paragraph": "Annex 12 1.2"
+  }
+ },
+ {
+  "id": "R-0507",
+  "text": "The vehicle shall be in configuration \"REESS charging mode coupled to the power grid\".",
+  "source": {
+   "regulation": "UN R10",
+   "page": 114,
+   "paragraph": "Annex 12 2.1"
+  }
+ },
+ {
+  "id": "R-0508",
+  "text": "For two-wheeled vehicles, a non-conductive insulating support with a thickness of 5 – 20 mm shall be used between stand and ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 114,
+   "paragraph": "Annex 12 2.1"
+  }
+ },
+ {
+  "id": "R-0509",
+  "text": "The vehicle shall be tested in the charging mode configuration (if available on vehicle) as defined in flowchart of Figure 1 **.** Figure 1 **Charging mode configuration for Annex 12** The state of charge (SOC) of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole time duration of the measurement (this may lead to the measurement being splitting into different time slots with the need to discharge the vehicle’s traction battery before starting the next time slot).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 114,
+   "paragraph": "Annex 12 2.1"
+  }
+ },
+ {
+  "id": "R-0510",
+  "text": "If the current consumption can be adjusted, then the current shall be set to at least 80 per cent of its maximum rated charging/input current value for AC charging.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 114,
+   "paragraph": "Annex 12 2.1"
+  }
+ },
+ {
+  "id": "R-0511",
+  "text": "In case of multiple batteries the average state of charge shall be considered.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 114,
+   "paragraph": "Annex 12 2.1"
+  }
+ },
+ {
+  "id": "R-0512",
+  "text": "The vehicle shall be immobilized, the engine(s) (ICE and / or electrical engine) shall be OFF and in charging mode.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 114,
+   "paragraph": "Annex 12 2.1"
+  }
+ },
+ {
+  "id": "R-0513",
+  "text": "All other equipment which can be switched ON by the driver or passengers shall be OFF.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 114,
+   "paragraph": "Annex 12 2.1"
+  }
+ },
+ {
+  "id": "R-0514",
+  "text": "The tests for vehicle in configuration \"REESS charging mode coupled to the power grid\" with rated current ≤ 16 A per phase and not subjected to conditional connection shall be performed according to Clause 6 of IEC 61000-3-3.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 116,
+   "paragraph": "Annex 12 3.1"
+  }
+ },
+ {
+  "id": "R-0515",
+  "text": "The tests for vehicle in configuration \"REESS charging mode coupled to the power grid\" with rated current > 16 A and ≤ 75 A per phase and subjected to conditional connection shall be performed according to Clause 6 of IEC 61000-3-11.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 116,
+   "paragraph": "Annex 12 3.2"
+  }
+ },
+ {
+  "id": "R-0516",
+  "text": "The test method described in this Annex shall be applied to vehicles in configuration \"REESS charging mode coupled to the power grid\".",
+  "source": {
+   "regulation": "UN R10",
+   "page": 118,
+   "paragraph": "Annex 13 1.1"
+  }
+ },
+ {
+  "id": "R-0517",
+  "text": "If not otherwise stated in this Annex the test shall be performed according to CISPR 16-2-1.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 118,
+   "paragraph": "Annex 13 1.2"
+  }
+ },
+ {
+  "id": "R-0518",
+  "text": "The vehicle shall be in configuration \"REESS charging mode coupled to the power grid\".",
+  "source": {
+   "regulation": "UN R10",
+   "page": 118,
+   "paragraph": "Annex 13 2.1"
+  }
+ },
+ {
+  "id": "R-0519",
+  "text": "For two-wheeled vehicles, a non-conductive insulating support with a thickness of 5 – 20 mm shall be used between stand and ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 118,
+   "paragraph": "Annex 13 2.1"
+  }
+ },
+ {
+  "id": "R-0520",
+  "text": "The vehicle shall be tested in the charging mode configuration (if available on vehicle) as defined in flowchart of Figure 1 **.** Figure 1 **Charging mode configuration for Annex 13** The state of charge (SOC) of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole frequency range measurement (this may lead to splitting the measurement in different sub-bands with the need to discharge the vehicle's traction battery before starting the next sub-bands).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 118,
+   "paragraph": "Annex 13 2.1"
+  }
+ },
+ {
+  "id": "R-0521",
+  "text": "If the current consumption can be adjusted, then the current shall be set to at least 80 per cent of its maximum rated charging/input current value for AC charging.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 118,
+   "paragraph": "Annex 13 2.1"
+  }
+ },
+ {
+  "id": "R-0522",
+  "text": "If the current consumption can be adjusted, then the current shall be set to at least 20 per cent of its nominal value or to a minimum of 16 A (if the 20 per cent of its nominal value cannot be achieved in the test facility) for DC charging unless another value is agreed with the Type-Approval Authorities.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 118,
+   "paragraph": "Annex 13 2.1"
+  }
+ },
+ {
+  "id": "R-0523",
+  "text": "In case of multiple batteries the average state of charge shall be considered.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 118,
+   "paragraph": "Annex 13 2.1"
+  }
+ },
+ {
+  "id": "R-0524",
+  "text": "The vehicle shall be immobilized, the engine(s) (ICE and / or electrical engine) shall be OFF and in charging mode.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 118,
+   "paragraph": "Annex 13 2.1"
+  }
+ },
+ {
+  "id": "R-0525",
+  "text": "All other equipment which can be switched ON by the driver or passengers shall be OFF.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 118,
+   "paragraph": "Annex 13 2.1"
+  }
+ },
+ {
+  "id": "R-0526",
+  "text": "The test shall be performed according to Clause 7.4.1 of CISPR 16-2-1 as floor-standing equipment.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 121,
+   "paragraph": "Annex 13 3.1"
+  }
+ },
+ {
+  "id": "R-0527",
+  "text": "Artificial networks The AMN(s)/DC-charging-AN(s) shall be mounted directly on the ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 121,
+   "paragraph": "Annex 13 3.3"
+  }
+ },
+ {
+  "id": "R-0528",
+  "text": "The cases of the AMN(s)/DCcharging-AN(s) shall be bonded to the ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 121,
+   "paragraph": "Annex 13 3.3"
+  }
+ },
+ {
+  "id": "R-0529",
+  "text": "The measuring port of the AMN/DC-charging-AN inserted in the other power line shall be terminated with a 50 Ω load.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 121,
+   "paragraph": "Annex 13 3.3"
+  }
+ },
+ {
+  "id": "R-0530",
+  "text": "The AMN(s)/DC-charging-AN(s) shall be placed as defined in Figures 1a to 1d. of Appendix 1 to this Annex.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 121,
+   "paragraph": "Annex 13 3.3"
+  }
+ },
+ {
+  "id": "R-0531",
+  "text": "The measurements shall be performed with a spectrum analyser or a scanning receiver.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 121,
+   "paragraph": "Annex 13 3.5"
+  }
+ },
+ {
+  "id": "R-0532",
+  "text": "FFT-based measuring instruments shall continuously record and evaluate the signal during the measurement time.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 121,
+   "paragraph": "Annex 13 3.5"
+  }
+ },
+ {
+  "id": "R-0533",
+  "text": "If using FFT-based instruments, the minimum measurement time shall be 1 s per analysis frequency band (in real-time mode) of the FFT instrument.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 121,
+   "paragraph": "Annex 13 3.5"
+  }
+ },
+ {
+  "id": "R-0534",
+  "text": "If a spectrum analyser is used for peak measurements, the video bandwidth shall be at least three times the resolution bandwidth (RBW) Table 2 **Scanning receiver parameters**",
+  "source": {
+   "regulation": "UN R10",
+   "page": 121,
+   "paragraph": "Annex 13 3.5"
+  }
+ },
+ {
+  "id": "R-0535",
+  "text": "Measurements shall be performed with average and either quasi-peak or peak detectors.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 122,
+   "paragraph": "Annex 13 4.2"
+  }
+ },
+ {
+  "id": "R-0536",
+  "text": "If peak detectors are used a correction factor of 20 dB as defined in CISPR 12 shall be applied.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 122,
+   "paragraph": "Annex 13 4.2"
+  }
+ },
+ {
+  "id": "R-0537",
+  "text": "The test method described in this Annex shall only be applied to vehicles.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 125,
+   "paragraph": "Annex 15 1.1"
+  }
+ },
+ {
+  "id": "R-0538",
+  "text": "The vehicle shall be subject to electrical fast transient/burst disturbances conducted along AC and DC power lines of the vehicle as described in this Annex.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 125,
+   "paragraph": "Annex 15 1.2"
+  }
+ },
+ {
+  "id": "R-0539",
+  "text": "The vehicle shall be monitored during the tests.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 125,
+   "paragraph": "Annex 15 1.2"
+  }
+ },
+ {
+  "id": "R-0540",
+  "text": "If not otherwise stated in this Annex the test shall be performed according to IEC 61000-4-4.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 125,
+   "paragraph": "Annex 15 1.2"
+  }
+ },
+ {
+  "id": "R-0541",
+  "text": "Vehicle state during tests in configuration \"REESS in charging mode coupled to the power grid The vehicle shall be tested in the charging mode configuration (if available on vehicle) as defined in flowchart of Figure 1.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 125,
+   "paragraph": "Annex 15 2"
+  }
+ },
+ {
+  "id": "R-0542",
+  "text": "The vehicle shall be in an unladen condition except for necessary test equipment.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 127,
+   "paragraph": "Annex 15 2.1"
+  }
+ },
+ {
+  "id": "R-0543",
+  "text": "The vehicle shall be immobilized, the engine(s) (ICE and / or electrical engine) shall be OFF and in charging mode.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 127,
+   "paragraph": "Annex 15 2.1.1"
+  }
+ },
+ {
+  "id": "R-0544",
+  "text": "Other vehicle systems, which can affect immunity related functions, shall be tested in a way to be agreed between manufacturer and Technical Service.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 127,
+   "paragraph": "Annex 15 2.1.2"
+  }
+ },
+ {
+  "id": "R-0545",
+  "text": "All other equipment which can be switched ON by the driver or passengers shall be OFF.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 127,
+   "paragraph": "Annex 15 2.1.3"
+  }
+ },
+ {
+  "id": "R-0546",
+  "text": "Only non-perturbing equipment shall be used while monitoring the vehicle.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 127,
+   "paragraph": "Annex 15 2.2"
+  }
+ },
+ {
+  "id": "R-0547",
+  "text": "The vehicle exterior and the passenger compartment shall be monitored to determine whether the requirements of this Annex are met (e.g. by using (a) video camera(s), a microphone, etc.).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 127,
+   "paragraph": "Annex 15 2.2"
+  }
+ },
+ {
+  "id": "R-0548",
+  "text": "The transient/burst generator shall meet the condition defined in Clause 6.1 of IEC 61000-4-4.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 127,
+   "paragraph": "Annex 15 3.2"
+  }
+ },
+ {
+  "id": "R-0549",
+  "text": "The Coupling/Decoupling Network shall meet the condition defined in Clause 6.2 of IEC 61000-4-4.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 127,
+   "paragraph": "Annex 15 3.3"
+  }
+ },
+ {
+  "id": "R-0550",
+  "text": "The vehicle shall be placed directly on the ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 127,
+   "paragraph": "Annex 15 4.2"
+  }
+ },
+ {
+  "id": "R-0551",
+  "text": "For two-wheeled vehicles, a non-conductive insulating support with a thickness of 5 – 20 mm shall be used between stand and ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 127,
+   "paragraph": "Annex 15 4.2"
+  }
+ },
+ {
+  "id": "R-0552",
+  "text": "The Technical Service shall perform the test as specified in paragraph 7.8.2.1. of this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 127,
+   "paragraph": "Annex 15 4.3"
+  }
+ },
+ {
+  "id": "R-0553",
+  "text": "Test shall be conducted in accordance with IEC 61000-4-4.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 128,
+   "paragraph": "Annex 15 5.1.1"
+  }
+ },
+ {
+  "id": "R-0554",
+  "text": "Test shall be performed only at the severity levels given in paragraph 7.8.2.1.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 128,
+   "paragraph": "Annex 15 5.1.1"
+  }
+ },
+ {
+  "id": "R-0555",
+  "text": "Test phase The vehicle shall be positioned on the ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 128,
+   "paragraph": "Annex 15 5.1.2"
+  }
+ },
+ {
+  "id": "R-0556",
+  "text": "The electrical fast transient/burst (EFT/B) shall be applied on the vehicle on the AC/DC power lines in common modes by using CDN as described in Figure 1a to 1d of Appendix 1 to this Annex.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 128,
+   "paragraph": "Annex 15 5.1.2"
+  }
+ },
+ {
+  "id": "R-0557",
+  "text": "The test set-up shall be noted in the test report.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 128,
+   "paragraph": "Annex 15 5.1.2"
+  }
+ },
+ {
+  "id": "R-0558",
+  "text": "The test method described in this Annex shall only be applied to vehicles.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 131,
+   "paragraph": "Annex 16 1.1"
+  }
+ },
+ {
+  "id": "R-0559",
+  "text": "The vehicle shall be subject to surges conducted along AC and DC power lines of the vehicle as described in this Annex.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 131,
+   "paragraph": "Annex 16 1.2"
+  }
+ },
+ {
+  "id": "R-0560",
+  "text": "The vehicle shall be monitored during the tests.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 131,
+   "paragraph": "Annex 16 1.2"
+  }
+ },
+ {
+  "id": "R-0561",
+  "text": "If not otherwise stated in this Annex, the test shall be performed according to IEC 61000-4-5, Clause 4.2 for lightning transients **.**",
+  "source": {
+   "regulation": "UN R10",
+   "page": 131,
+   "paragraph": "Annex 16 1.2"
+  }
+ },
+ {
+  "id": "R-0562",
+  "text": "Vehicle state during tests in configuration \"REESS in charging mode coupled to the power grid The vehicle shall be tested in the charging mode configuration (if available on vehicle) as defined in flowchart of Figure 1.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 131,
+   "paragraph": "Annex 16 2"
+  }
+ },
+ {
+  "id": "R-0563",
+  "text": "The vehicle shall be in an unladen condition except for necessary test equipment.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 133,
+   "paragraph": "Annex 16 2.1"
+  }
+ },
+ {
+  "id": "R-0564",
+  "text": "The vehicle shall be immobilized, the engine(s) (ICE and / or electrical engine) shall be OFF and in charging mode.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 133,
+   "paragraph": "Annex 16 2.1.1"
+  }
+ },
+ {
+  "id": "R-0565",
+  "text": "Other vehicle systems, which can affect immunity related functions, shall be tested in a way to be agreed between manufacturer and Technical Service.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 133,
+   "paragraph": "Annex 16 2.1.2"
+  }
+ },
+ {
+  "id": "R-0566",
+  "text": "All other equipment which can be switched ON by the driver or passengers shall be OFF.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 133,
+   "paragraph": "Annex 16 2.1.3"
+  }
+ },
+ {
+  "id": "R-0567",
+  "text": "Only non-perturbing equipment shall be used while monitoring the vehicle.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 133,
+   "paragraph": "Annex 16 2.2"
+  }
+ },
+ {
+  "id": "R-0568",
+  "text": "The vehicle exterior and the passenger compartment shall be monitored to determine whether the requirements of this Annex are met (e.g. by using (a) video camera(s), a microphone, etc.).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 133,
+   "paragraph": "Annex 16 2.2"
+  }
+ },
+ {
+  "id": "R-0569",
+  "text": "The surge generator shall meet the condition defined in Clause 6.1 of IEC 61000-4-5.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 133,
+   "paragraph": "Annex 16 3.2"
+  }
+ },
+ {
+  "id": "R-0570",
+  "text": "The Coupling/Decoupling Network shall meet the condition defined in Clause 6.3 of IEC 61000-4-5.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 133,
+   "paragraph": "Annex 16 3.3"
+  }
+ },
+ {
+  "id": "R-0571",
+  "text": "The vehicle shall be placed directly on the ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 133,
+   "paragraph": "Annex 16 4.2"
+  }
+ },
+ {
+  "id": "R-0572",
+  "text": "For two-wheeled vehicles, a non-conductive insulating support with a thickness of 5 – 20 mm shall be used between stand and ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 133,
+   "paragraph": "Annex 16 4.2"
+  }
+ },
+ {
+  "id": "R-0573",
+  "text": "The Technical Service shall perform the test as specified in paragraph 7.9.2.1. of this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 133,
+   "paragraph": "Annex 16 4.3"
+  }
+ },
+ {
+  "id": "R-0574",
+  "text": "Test shall be performed in accordance with method according to IEC 61000-4-5 only at the severity levels specified in paragraph 7.9.2.1.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 133,
+   "paragraph": "Annex 16 5.1.1"
+  }
+ },
+ {
+  "id": "R-0575",
+  "text": "Test phase The vehicle shall be positioned on the ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 133,
+   "paragraph": "Annex 16 5.1.2"
+  }
+ },
+ {
+  "id": "R-0576",
+  "text": "The electrical surge shall be applied on the vehicle on the AC/DC power lines between each line and earth and between lines by using CDN as described in Figures 1a to 1d of Appendix 1 to this Annex, The test setup shall be noted in the test report.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 133,
+   "paragraph": "Annex 16 5.1.2"
+  }
+ },
+ {
+  "id": "R-0577",
+  "text": "The test method described in this Annex shall be applied to ESAs in configuration \"REESS charging mode coupled to the power grid\"",
+  "source": {
+   "regulation": "UN R10",
+   "page": 136,
+   "paragraph": "Annex 17 1.1"
+  }
+ },
+ {
+  "id": "R-0578",
+  "text": "If not otherwise stated in this Annex the test shall be performed according to:",
+  "source": {
+   "regulation": "UN R10",
+   "page": 136,
+   "paragraph": "Annex 17 1.2"
+  }
+ },
+ {
+  "id": "R-0579",
+  "text": "The ESA shall be in configuration \"REESS charging mode coupled to the power grid\".",
+  "source": {
+   "regulation": "UN R10",
+   "page": 137,
+   "paragraph": "Annex 17 2.1"
+  }
+ },
+ {
+  "id": "R-0580",
+  "text": "The state of charge (SOC) of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole time duration of the measurement (this may lead to the measurement being split into different time slots with the need to discharge the vehicle’s traction battery before starting the next time slot).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 137,
+   "paragraph": "Annex 17 2.1"
+  }
+ },
+ {
+  "id": "R-0581",
+  "text": "If the current consumption can be adjusted, then the current shall be set to at least 80 per cent of its maximum rated charging/input current value for AC charging.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 137,
+   "paragraph": "Annex 17 2.1"
+  }
+ },
+ {
+  "id": "R-0582",
+  "text": "The observation time to be used for the measurements shall be as for quasi-stationary equipment as defined in Table 4 of IEC 61000-3-2.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 137,
+   "paragraph": "Annex 17 3.1"
+  }
+ },
+ {
+  "id": "R-0583",
+  "text": "The measurements of even and odd current harmonics shall be performed up to the 40th harmonic.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 137,
+   "paragraph": "Annex 17 4.1"
+  }
+ },
+ {
+  "id": "R-0584",
+  "text": "The test method described in this Annex shall be applied to ESAs in configuration \"REESS charging mode coupled to the power grid\"",
+  "source": {
+   "regulation": "UN R10",
+   "page": 138,
+   "paragraph": "Annex 18 1.1"
+  }
+ },
+ {
+  "id": "R-0585",
+  "text": "If not otherwise stated in this Annex the test shall be performed according to:",
+  "source": {
+   "regulation": "UN R10",
+   "page": 138,
+   "paragraph": "Annex 18 1.2"
+  }
+ },
+ {
+  "id": "R-0586",
+  "text": "The ESA shall be in configuration \"REESS charging mode coupled to the power grid\" The state of charge (SOC) of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole time duration of the measurement (this may lead to the measurement being split into different time slots with the need to discharge the vehicle’s traction battery before starting the next time slot).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 139,
+   "paragraph": "Annex 18 2.1"
+  }
+ },
+ {
+  "id": "R-0587",
+  "text": "If the current consumption can be adjusted, then the current shall be set to at least 80 per cent of its maximum rated charging/input current value for AC charging.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 139,
+   "paragraph": "Annex 18 2.1"
+  }
+ },
+ {
+  "id": "R-0588",
+  "text": "The tests for ESA in configuration \"REESS charging mode coupled to the power grid\" with rated current ≤ 16 A per phase and not subjected to conditional connection shall be performed according to Clause 4 of IEC 610003-3.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 139,
+   "paragraph": "Annex 18 3.1"
+  }
+ },
+ {
+  "id": "R-0589",
+  "text": "The tests for ESA in configuration \"REESS charging mode coupled to the power grid\" with rated current > 16 A and ≤ 75 A per phase and subjected to conditional connection shall be performed according to Clause 6 of IEC 61000-3-11.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 139,
+   "paragraph": "Annex 18 3.2"
+  }
+ },
+ {
+  "id": "R-0590",
+  "text": "The test method described in this Annex shall be applied to ESAs in configuration \"REESS charging mode coupled to the power grid\".",
+  "source": {
+   "regulation": "UN R10",
+   "page": 140,
+   "paragraph": "Annex 19 1.1"
+  }
+ },
+ {
+  "id": "R-0591",
+  "text": "If not otherwise stated in this Annex the test shall be performed according to CISPR 16-2-1.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 140,
+   "paragraph": "Annex 19 1.2"
+  }
+ },
+ {
+  "id": "R-0592",
+  "text": "The ESA shall be in configuration \"REESS charging mode coupled to the power grid\".",
+  "source": {
+   "regulation": "UN R10",
+   "page": 141,
+   "paragraph": "Annex 19 2.1"
+  }
+ },
+ {
+  "id": "R-0593",
+  "text": "The state of charge (SOC) of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole frequency range measurement (this may lead to split the measurement in different sub-bands with the need to discharge the vehicle's traction battery before starting the next sub-bands).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 141,
+   "paragraph": "Annex 19 2.1"
+  }
+ },
+ {
+  "id": "R-0594",
+  "text": "If the current consumption can be adjusted, then the current shall be set to at least 80 per cent of its maximum rated charging/input current value for AC charging.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 141,
+   "paragraph": "Annex 19 2.1"
+  }
+ },
+ {
+  "id": "R-0595",
+  "text": "If the current consumption can be adjusted, then the current shall be set to at least 20 per cent of its nominal value or to a minimum of 16 A (if the 20 per cent of its nominal value cannot be achieved in the test facility) for DC charging unless another value is agreed with the Type Approval Authorities.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 141,
+   "paragraph": "Annex 19 2.1"
+  }
+ },
+ {
+  "id": "R-0596",
+  "text": "Artificial networks The AMN(s)/DC-charging-AN(s) shall be mounted directly on the ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 141,
+   "paragraph": "Annex 19 3.1"
+  }
+ },
+ {
+  "id": "R-0597",
+  "text": "The cases of the AMN(s)/DCcharging-AN(s) shall be bonded to the ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 141,
+   "paragraph": "Annex 19 3.1"
+  }
+ },
+ {
+  "id": "R-0598",
+  "text": "The measuring port of the AMN/DC-charging-AN inserted in the other power lines shall be terminated with a 50 Ω load.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 141,
+   "paragraph": "Annex 19 3.1"
+  }
+ },
+ {
+  "id": "R-0599",
+  "text": "The AMN(s)/DC-charging-AN(s) shall be placed in front, aligned and on the same side of the vehicle power charging plug.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 141,
+   "paragraph": "Annex 19 3.1"
+  }
+ },
+ {
+  "id": "R-0600",
+  "text": "The measurements shall be performed with a spectrum analyser or a scanning receiver.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 141,
+   "paragraph": "Annex 19 3.4"
+  }
+ },
+ {
+  "id": "R-0601",
+  "text": "FFT-based measuring instruments shall continuously record and evaluate the signal during the measurement time.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 141,
+   "paragraph": "Annex 19 3.4"
+  }
+ },
+ {
+  "id": "R-0602",
+  "text": "If using FFT-based instruments, the minimum measurement time shall be 1 s per analysis frequency band (in real-time mode) of the FFT instrument.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 141,
+   "paragraph": "Annex 19 3.4"
+  }
+ },
+ {
+  "id": "R-0603",
+  "text": "If a spectrum analyser is used for peak measurements, the video bandwidth shall be at least three times the resolution bandwidth (RBW) Table 2 **Scanning receiver parameters**",
+  "source": {
+   "regulation": "UN R10",
+   "page": 141,
+   "paragraph": "Annex 19 3.4"
+  }
+ },
+ {
+  "id": "R-0604",
+  "text": "Measurements shall be performed with average and either quasi-peak or peak detectors.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 142,
+   "paragraph": "Annex 19 4.2"
+  }
+ },
+ {
+  "id": "R-0605",
+  "text": "If peak detectors are used a correction factor of 20 dB as defined in CISPR 12 shall be applied.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 142,
+   "paragraph": "Annex 19 4.2"
+  }
+ },
+ {
+  "id": "R-0606",
+  "text": "The test method described in this Annex shall only be applied to ESAs.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 144,
+   "paragraph": "Annex 19 Appendix 1 1.1"
+  }
+ },
+ {
+  "id": "R-0607",
+  "text": "The ESA shall be subject to Electrical Fast Transient/Burst disturbances conducted along AC and DC power lines of the ESA as described in this Annex.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 144,
+   "paragraph": "Annex 19 Appendix 1 1.2"
+  }
+ },
+ {
+  "id": "R-0608",
+  "text": "The ESA shall be monitored during the tests.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 144,
+   "paragraph": "Annex 19 Appendix 1 1.2"
+  }
+ },
+ {
+  "id": "R-0609",
+  "text": "If not otherwise stated in this annex the test shall be performed according to IEC 61000-4-4.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 144,
+   "paragraph": "Annex 19 Appendix 1 1.2"
+  }
+ },
+ {
+  "id": "R-0610",
+  "text": "Only non-perturbing equipment shall be used while monitoring the ESA.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 144,
+   "paragraph": "Annex 19 Appendix 1 2.2"
+  }
+ },
+ {
+  "id": "R-0611",
+  "text": "The ESA shall be monitored to determine whether the requirements of this Annex are met (e.g. by using (a) video camera(s), a microphone, etc.).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 144,
+   "paragraph": "Annex 19 Appendix 1 2.2"
+  }
+ },
+ {
+  "id": "R-0612",
+  "text": "The transient/burst generator shall meet the condition defined in Clause 6.1 of IEC 61000-4-4.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 144,
+   "paragraph": "Annex 19 Appendix 1 3.2"
+  }
+ },
+ {
+  "id": "R-0613",
+  "text": "The Coupling/Decoupling Network shall meet the condition defined in Clause 6.2 of IEC 61000-4-4.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 144,
+   "paragraph": "Annex 19 Appendix 1 3.3"
+  }
+ },
+ {
+  "id": "R-0614",
+  "text": "The ESA shall be placed directly on the ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 144,
+   "paragraph": "Annex 19 Appendix 1 4.2"
+  }
+ },
+ {
+  "id": "R-0615",
+  "text": "The Technical Service shall perform the test as specified in paragraph 7.15.2.1. of this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 144,
+   "paragraph": "Annex 19 Appendix 1 4.3"
+  }
+ },
+ {
+  "id": "R-0616",
+  "text": "Test shall be conducted in accordance with IEC 61000-4-4.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 145,
+   "paragraph": "Annex 19 Appendix 1 5.1.1"
+  }
+ },
+ {
+  "id": "R-0617",
+  "text": "Test shall be performed only at the severity levels given in paragraph 7.15.2.1.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 145,
+   "paragraph": "Annex 19 Appendix 1 5.1.1"
+  }
+ },
+ {
+  "id": "R-0618",
+  "text": "Test phase The ESA shall be positioned on the ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 145,
+   "paragraph": "Annex 19 Appendix 1 5.1.2"
+  }
+ },
+ {
+  "id": "R-0619",
+  "text": "The Electrical Fast Transient/Burst (EFT/B) shall be applied on the ESA on the AC/DC power lines in common modes by using CDN as described in Figure 1 of Appendix 1 to this Annex.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 145,
+   "paragraph": "Annex 19 Appendix 1 5.1.2"
+  }
+ },
+ {
+  "id": "R-0620",
+  "text": "The test setup shall be noted in the test report.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 145,
+   "paragraph": "Annex 19 Appendix 1 5.1.2"
+  }
+ },
+ {
+  "id": "R-0621",
+  "text": "The test method described in this Annex shall only be applied to ESAs.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 145,
+   "paragraph": "Annex 22 1.1"
+  }
+ },
+ {
+  "id": "R-0622",
+  "text": "The ESA shall be subject to surges conducted along AC and DC power lines of the ESA as described in this Annex.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 145,
+   "paragraph": "Annex 22 1.2"
+  }
+ },
+ {
+  "id": "R-0623",
+  "text": "The ESA shall be monitored during the tests.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 145,
+   "paragraph": "Annex 22 1.2"
+  }
+ },
+ {
+  "id": "R-0624",
+  "text": "If not otherwise stated in this Annex the test shall be performed according to IEC 61000-4-5.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 145,
+   "paragraph": "Annex 22 1.2"
+  }
+ },
+ {
+  "id": "R-0625",
+  "text": "Only non-perturbing equipment shall be used while monitoring the ESA.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 146,
+   "paragraph": "Annex 22 2.2"
+  }
+ },
+ {
+  "id": "R-0626",
+  "text": "The ESA shall be monitored to determine whether the requirements of this Annex are met (e.g. by using (a) video camera(s), a microphone, etc.).",
+  "source": {
+   "regulation": "UN R10",
+   "page": 146,
+   "paragraph": "Annex 22 2.2"
+  }
+ },
+ {
+  "id": "R-0627",
+  "text": "The surge generator shall meet the condition defined in Clause 6.1 of IEC 61000-4-5.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 146,
+   "paragraph": "Annex 22 3.2"
+  }
+ },
+ {
+  "id": "R-0628",
+  "text": "The Coupling/Decoupling Network shall meet the condition defined in Clause 6.3 of IEC 61000-4-5.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 146,
+   "paragraph": "Annex 22 3.3"
+  }
+ },
+ {
+  "id": "R-0629",
+  "text": "The ESA shall be placed directly on the ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 146,
+   "paragraph": "Annex 22 4.2"
+  }
+ },
+ {
+  "id": "R-0630",
+  "text": "The Technical Service shall perform the test as specified in paragraph 7.16.2.1. of this Regulation.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 146,
+   "paragraph": "Annex 22 4.3"
+  }
+ },
+ {
+  "id": "R-0631",
+  "text": "Test shall be conducted in accordance with IEC 461000-4-5.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 146,
+   "paragraph": "Annex 22 5.1.1"
+  }
+ },
+ {
+  "id": "R-0632",
+  "text": "Test shall be performed only at the severity levels given in 7.16.2.1.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 146,
+   "paragraph": "Annex 22 5.1.1"
+  }
+ },
+ {
+  "id": "R-0633",
+  "text": "Test phase The ESA shall be positioned on the ground plane.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 146,
+   "paragraph": "Annex 22 5.1.2"
+  }
+ },
+ {
+  "id": "R-0634",
+  "text": "The electrical surge shall be applied on the ESA on the AC/DC power lines between each line and earth and between lines by using CDN as described in Figures 1 to 4 of Appendix 1 to this Annex.",
+  "source": {
+   "regulation": "UN R10",
+   "page": 146,
+   "paragraph": "Annex 22 5.1.2"
+  }
+ },
+ {
+  "id": "R-0635",
+  "text": "The test set-up shall be noted in the test report",
+  "source": {
+   "regulation": "UN R10",
+   "page": 146,
+   "paragraph": "Annex 22 5.1.2"
+  }
+ }
+]

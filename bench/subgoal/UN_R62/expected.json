@@ -1,0 +1,16 @@
+{
+ "team_id": "silver",
+ "case_id": "subgoal-bench-UN_R62",
+ "changes": [
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In addition, digital keys shall comply with the provisions of Annex 4.",
+   "reason": "Paragraph 5.13 of UN R62 is new in version 1.1.0: 'In addition, digital keys shall comply with the provisions of Annex 4.'.",
+   "source": {
+    "page": 4,
+    "paragraph": "5.13"
+   }
+  }
+ ]
+}
