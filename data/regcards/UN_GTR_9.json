@@ -1,0 +1,329 @@
+{
+ "regulation": "UN GTR No. 9",
+ "title": "Pedestrian Safety (Global Technical Regulation No. 9, version 0.3.0, incorporating Amendments 1–3)",
+ "subject_kind": "vehicle_system",
+ "scope_summary": "GTR 9 sets performance requirements and test procedures for the frontal surfaces of power-driven vehicles: bumper tests with legform impactors and bonnet top/wing tests with child and adult headform impactors, plus provisions for vehicles fitted with a Deployable Pedestrian Protection System (DPPS). It applies to category 1-1 vehicles above 500 kg gross vehicle mass and to category 1-2 and category 2 vehicles above 500 kg and up to 4,500 kg, with optional exemptions that Contracting Parties may grant to certain forward-control vehicles.",
+ "scope_quote": "The scope text (Part II, para. 2) is not included in the supplied extract. As recalled from GTR 9, it applies to the frontal surfaces of power-driven vehicles of category 1-1 with a gross vehicle mass exceeding 500 kg, and of categories 1-2 and 2 with a gross vehicle mass exceeding 500 kg but not exceeding 4,500 kg. The extract does state that the GTR was amended by \"Corrigendum 2 and Amendment 1, affecting only the scope of the UN GTR, on 10 November 2010\" (Foreword).",
+ "vehicle_categories": [
+  "1-1 (passenger vehicles, GVM > 500 kg)",
+  "1-2 (GVM > 500 kg and ≤ 4,500 kg)",
+  "2 (goods vehicles, GVM > 500 kg and ≤ 4,500 kg)",
+  "Special Resolution No. 1 categories; roughly M1 and N1 under the 1958 Agreement"
+ ],
+ "applies_to_components": [
+  "Front bumper / bumper beam / front structure (legform tests)",
+  "Bonnet top and wings (headform tests)",
+  "Child headform test area and adult headform test area, including relaxation zones",
+  "Deployable Pedestrian Protection System (DPPS): sensing system, actuators, deployable bonnet",
+  "Pop-up headlamps and other components that change shape or position",
+  "Flexible pedestrian legform impactor (FlexPLI), upper legform impactor, and child (3.5 kg) and adult (4.5 kg) headform impactors (certification)",
+  "Human Body Model (HBM) simulation used to determine head impact time"
+ ],
+ "relation_to_other_regulations": [
+  "Global Technical Regulation under the 1998 Agreement; its counterpart under the 1958 Agreement is UN Regulation No. 127 (pedestrian safety). This link is not stated in the extract.",
+  "Amendment 2 (14 November 2018) replaced the EEVC lower legform impactor with the FlexPLI for the bumper test.",
+  "Amendment 3 added requirements for DPPS-equipped vehicles; para. 122 of the Phase 1 rationale is superseded for DPPS vehicles.",
+  "Uses vehicle categories from Special Resolution No. 1; test tool drawings are held under Mutual Resolution No. 1 (M.R.1, adopted 14 November 2012).",
+  "Rationale cites EU Directive 2003/102/EC, Japanese pedestrian regulation, Canadian bumper regulation, ISO 11096 and other ISO standards, EEVC WG17 and IHRA/PS work.",
+  "Rationale also references UN GTR No. 7 regarding test tool documentation."
+ ],
+ "defined_terms": [
+  {
+   "term": "Bonnet top",
+   "label": "bonnet top",
+   "definition": "Outer structure of the vehicle front upper surface (bonnet/wings) bounded by the bonnet leading edge reference line, the rear reference lines and the side reference lines, used as the headform test surface."
+  },
+  {
+   "term": "Bumper",
+   "label": "bumper",
+   "definition": "Front, lower, outer structure of the vehicle, including all structures intended to protect it in low-speed frontal collisions, together with attachments."
+  },
+  {
+   "term": "Bumper beam",
+   "label": "bumper beam",
+   "definition": "Structural cross member behind the bumper fascia that protects the vehicle front, used to define the bumper test area."
+  },
+  {
+   "term": "Bumper test area",
+   "label": "BTA",
+   "definition": "Lateral area of the bumper (bounded by the corners of bumper or bumper beam ends) within which legform impacts are carried out."
+  },
+  {
+   "term": "Lower bumper height",
+   "label": "lower bumper height",
+   "definition": "Height above ground of the lower bumper reference line, which determines whether the lower or the upper legform test applies."
+  },
+  {
+   "term": "Wrap Around Distance",
+   "label": "WAD",
+   "definition": "Distance measured over the vehicle front from the ground reference plane, used to bound the child (WAD1000–1700) and adult (WAD1700–2100) headform test areas."
+  },
+  {
+   "term": "Child headform test area",
+   "label": "child headform test area",
+   "definition": "Area of the bonnet top between WAD1000 and WAD1700 tested with the 3.5 kg child headform."
+  },
+  {
+   "term": "Adult headform test area",
+   "label": "adult headform test area",
+   "definition": "Area of the bonnet top between WAD1700 and WAD2100 tested with the 4.5 kg adult headform."
+  },
+  {
+   "term": "Relaxation zone",
+   "label": "relaxation zone",
+   "definition": "Portion of the headform test areas where HIC may reach up to 1,700 instead of 1,000."
+  },
+  {
+   "term": "Bonnet leading edge reference line",
+   "label": "BLE reference line",
+   "definition": "Geometric trace of contact points of a straight edge with the vehicle front, defining the forward boundary of the bonnet top."
+  },
+  {
+   "term": "Bonnet rear reference line",
+   "label": "bonnet rear reference line",
+   "definition": "Rearmost boundary of the bonnet top, determined by headform sphere contact with the windscreen or bonnet rear edge."
+  },
+  {
+   "term": "Side reference line",
+   "label": "side reference line",
+   "definition": "Geometric trace of the highest contact points of a 45° straight edge along the vehicle sides, bounding the bonnet top laterally."
+  },
+  {
+   "term": "Corner of bumper",
+   "label": "corner of bumper",
+   "definition": "Point of contact of a 60° plane with the bumper outer surface, defining the lateral ends of the bumper test area."
+  },
+  {
+   "term": "Normal ride attitude / primary reference marks",
+   "label": "ride height",
+   "definition": "Vehicle attitude in running order with defined loading, checked with primary reference marks against the design position within ±25 mm."
+  },
+  {
+   "term": "Flexible pedestrian legform impactor",
+   "label": "FlexPLI",
+   "definition": "Flexible lower legform impactor measuring tibia bending moments and knee ligament elongations, which replaced the EEVC lower legform."
+  },
+  {
+   "term": "Upper legform impactor",
+   "label": "upper legform",
+   "definition": "Impactor used for bumpers with high lower bumper height, measuring impact force sum and bending moments."
+  },
+  {
+   "term": "Headform impactor",
+   "label": "child/adult headform",
+   "definition": "165 mm diameter spherical impactors (child 3.5 kg, adult 4.5 kg) used to assess HIC on bonnet top impacts."
+  },
+  {
+   "term": "Head Injury Criterion",
+   "label": "HIC",
+   "definition": "Head injury measure calculated over a 15 ms interval from headform acceleration."
+  },
+  {
+   "term": "Deployable Pedestrian Protection System",
+   "label": "DPPS",
+   "definition": "System that changes the vehicle front geometry or properties (e.g. pop-up bonnet) upon detecting a pedestrian impact to improve protection."
+  },
+  {
+   "term": "Head Impact Time",
+   "label": "HIT",
+   "definition": "Elapsed time from first vehicle–pedestrian contact until head contact with the vehicle, determined by HBM simulation."
+  },
+  {
+   "term": "Total Response Time",
+   "label": "TRT",
+   "definition": "Time from first contact until the DPPS reaches its deployed protective position (sensing time plus actuation time)."
+  },
+  {
+   "term": "Sensing time",
+   "label": "sensing time",
+   "definition": "Time from first contact until the DPPS sensing system triggers deployment."
+  },
+  {
+   "term": "Detection test area",
+   "label": "detection test area",
+   "definition": "Lateral area of the vehicle front in which the DPPS must detect a pedestrian; its minimum width is related to vehicle width."
+  },
+  {
+   "term": "Human Body Model",
+   "label": "HBM",
+   "definition": "Qualified numerical pedestrian model used to determine HIT for relevant statures."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Lower legform (FlexPLI) test",
+   "distinguished_by": "Vehicles with lower bumper height below 425 mm (manufacturer may choose between 425 and 500 mm)"
+  },
+  {
+   "name": "Upper legform to bumper test",
+   "distinguished_by": "Vehicles with lower bumper height of 500 mm or more, or 425–500 mm by manufacturer choice"
+  },
+  {
+   "name": "Child headform test",
+   "distinguished_by": "3.5 kg, 165 mm, 35 km/h at 50°, child headform test area (WAD1000–1700)"
+  },
+  {
+   "name": "Adult headform test",
+   "distinguished_by": "4.5 kg, 165 mm, 35 km/h at 65°, adult headform test area (WAD1700–2100)"
+  },
+  {
+   "name": "HIC 1000 / HIC 1700 zones",
+   "distinguished_by": "HIC ≤ 1,000 over at least half of the child area and two-thirds of the combined area; HIC ≤ 1,700 elsewhere (relaxation zones)"
+  },
+  {
+   "name": "Vehicles with DPPS",
+   "distinguished_by": "Tested deployed or undeployed depending on Annex 1 prerequisites (detection, HIT vs TRT), with static or dynamic headform test options"
+  },
+  {
+   "name": "Exempted forward-control category 1-2/2 vehicles",
+   "distinguished_by": "Contracting Party option based on driver H-point position relative to the front axle"
+  }
+ ],
+ "sections": [
+  {
+   "label": "Part I",
+   "title": "Statement of technical rationale and justification (Phases 1–3)",
+   "about": [
+    "Rationale for headform, legform, FlexPLI (Phase 2) and DPPS (Phase 3) requirements",
+    "WAD",
+    "HIC",
+    "bumper beam",
+    "DPPS",
+    "HIT"
+   ]
+  },
+  {
+   "label": "1",
+   "title": "Purpose",
+   "about": [
+    "pedestrian protection in frontal impacts"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Scope / Application",
+   "about": [
+    "category 1-1, 1-2, 2",
+    "gross vehicle mass limits",
+    "exemptions"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Definitions",
+   "about": [
+    "bonnet top",
+    "bumper",
+    "bumper beam",
+    "WAD",
+    "test areas",
+    "reference lines",
+    "DPPS",
+    "HIT",
+    "TRT"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "General requirements",
+   "about": [
+    "test area marking",
+    "ride height",
+    "active/deployable devices"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Performance requirements",
+   "about": [
+    "legform test limits (FlexPLI tibia bending, MCL elongation; upper legform force/moment)",
+    "headform HIC limits",
+    "bonnet top",
+    "bumper"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Test conditions",
+   "about": [
+    "6.1 General test conditions",
+    "6.2 Preparation of the vehicle",
+    "normal ride attitude",
+    "primary reference marks"
+   ]
+  },
+  {
+   "label": "7.1",
+   "title": "Legform to bumper test procedures",
+   "about": [
+    "FlexPLI",
+    "upper legform",
+    "bumper test area"
+   ]
+  },
+  {
+   "label": "7.2",
+   "title": "Headform test procedures",
+   "about": [
+    "child headform",
+    "adult headform",
+    "bonnet top",
+    "impact angle and speed"
+   ]
+  },
+  {
+   "label": "8.1",
+   "title": "Flexible lower legform impactor certification",
+   "about": [
+    "FlexPLI"
+   ]
+  },
+  {
+   "label": "8.2",
+   "title": "Upper legform impactor certification",
+   "about": [
+    "upper legform"
+   ]
+  },
+  {
+   "label": "8.3",
+   "title": "Child and adult headform impactors certification",
+   "about": [
+    "headform impactors"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Deployable Pedestrian Protection System (DPPS) assessment",
+   "about": [
+    "prerequisites",
+    "sensing system verification",
+    "TRT/sensing time verification at nominal velocity",
+    "FlexPLI tolerances",
+    "headform test at 9.7 m/s",
+    "dynamic test option",
+    "flowchart"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "HIT-Determination simulation",
+   "about": [
+    "HBM qualification",
+    "HIT",
+    "simulation procedure",
+    "documentation",
+    "evaluation"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Any part forming the vehicle front surface between the bumper and the windscreen base (grille, headlamp bezels, bonnet, wings, wiper area, bonnet hinges and latches under the bonnet top) can lie in a test area and be impacted.",
+  "Bumper fascias, energy absorbers, bumper beams and lower stiffeners/spoilers are assessed by the legform tests.",
+  "Pop-up headlamps and other parts that change shape or position, and active bonnets, actuators and contact sensors in the bumper (DPPS), fall under the DPPS provisions of Annex 1.",
+  "Under-bonnet components (engine, strut towers, battery) affect headform HIC through clearance to the bonnet even though they are not external.",
+  "Applies via whole-vehicle certification, not component approval; suppliers are affected through the vehicle front structure.",
+  "Impactor manufacturers and test labs are concerned via section 8 certification requirements."
+ ],
+ "version": "0.3.0"
+}

@@ -1,0 +1,330 @@
+{
+ "regulation": "UN R175",
+ "title": "Uniform provisions concerning the approval of vehicles with regard to their Acceleration Control for Pedal Error systems (ACPE)",
+ "subject_kind": "vehicle_system",
+ "scope_summary": "Approves vehicle types with regard to their Acceleration Control for Pedal Error (ACPE) system, which detects misapplication of the accelerator control by the driver and controls unintended acceleration (initial phase: stationary vehicle with an obstacle ahead or behind). It applies to Category M1 vehicles with automatic transmission, while other categories may be approved at the manufacturer's request and vehicles incompatible with forward/rear detection may be exempted.",
+ "scope_quote": "1.1 This UN Regulation applies to the type approval of vehicles of Category M1 equipped with automatic transmission with regard to their Acceleration Control for Pedal Error systems (ACPE). 1.2 At the request of the manufacturer, vehicles of other categories may be approved under this Regulation. 1.3 Vehicles where installation of means of forward and/or rear detection is incompatible with their on-road use may be exempted from the relevant requirements (forward and/or rear direction) of this Regulation, subject to the decision of the Type Approval Authority.",
+ "vehicle_categories": [
+  "M1 (with automatic transmission, mandatory scope)",
+  "Other categories at manufacturer's request (e.g. N1 foreseen for later phase)"
+ ],
+ "applies_to_components": [
+  "Acceleration Control for Pedal Error system (ACPE)",
+  "Forward and rear detection means (sensors) for obstacles",
+  "Accelerator control misapplication detection and acceleration limitation function",
+  "ACPE deactivation means",
+  "ACPE self-check / failure detection",
+  "ACPE warning signals (optical/audible, incl. common space displays)",
+  "Electronic control system of the ACPE (complex electronic vehicle control system, Annex 3)",
+  "Periodic Technical Inspection provisions for ACPE status"
+ ],
+ "relation_to_other_regulations": [
+  "Refers to UN Regulation No. 152 (AEBS): ACPE must be designed to accommodate potential conflicts with AEBS, e.g. accelerator kick-down to override AEBS could be misinterpreted as pedal error; avoided in this phase by considering only stationary subject vehicles",
+  "Refers to UN Regulation No. 13-H (Appendix 2 to Annex 6, k-test method) for determining the peak braking coefficient of the test surface",
+  "Refers to UN Regulation No. 13 (Appendix 2 to Annex 13, k-test method) for determining the required PBC for the design maximum deceleration",
+  "Vehicle categories as defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3), ECE/TRANS/WP.29/78/Rev.6",
+  "Aligned with the Japan New Car Assessment Program (JNCAP) protocol for pedal-error systems",
+  "Annex 3 sets special requirements for complex electronic vehicle control systems (documentation, fault strategy, safety concept), similar to the CEL annexes of other UN Regulations"
+ ],
+ "defined_terms": [
+  {
+   "term": "ACPE",
+   "label": "Acceleration Control for Pedal Error (ACPE)",
+   "definition": "A system to detect misapplication of the accelerator control by the driver and to control unintended acceleration."
+  },
+  {
+   "term": "Vehicle type with regard to its ACPE",
+   "label": "Vehicle Type with Regard to its ACPE",
+   "definition": "A category of vehicles which do not differ in essential aspects such as vehicle features significantly influencing ACPE performance and the type and design of ACPE."
+  },
+  {
+   "term": "Common space",
+   "label": "Common space",
+   "definition": "An area on which two or more information functions (e.g. symbol) may be displayed but not simultaneously."
+  },
+  {
+   "term": "Dry road affording good adhesion",
+   "label": "Dry road affording good adhesion",
+   "definition": "A road with a sufficient nominal PBC permitting a mean fully developed deceleration of at least 9 m/s2 or the design maximum deceleration of the vehicle, whichever is lower."
+  },
+  {
+   "term": "PBC",
+   "label": "Sufficient nominal Peak Braking Coefficient (PBC)",
+   "definition": "A road surface friction coefficient of 0.9 (ASTM E1136-19 tyre), 1.017 (ASTM F2493-20 tyre or R13-H k-test), or the value permitting the vehicle's design maximum deceleration (R13 k-test)."
+  },
+  {
+   "term": "Self-check",
+   "label": "Self-check",
+   "definition": "An integrated function that checks for a system failure on a continuous basis at least while the system is active."
+  },
+  {
+   "term": "Obstacle",
+   "label": "Obstacle",
+   "definition": "Either a vehicle, or a wall-like structure."
+  },
+  {
+   "term": "Automatic transmission",
+   "label": "Automatic Transmission",
+   "definition": "Any transmission which does not require the use of a clutch control by the driver to shift gears, including single gear, continuously-variable and automated-clutch transmissions."
+  },
+  {
+   "term": "Mass in running order",
+   "label": "Mass of a vehicle in running order",
+   "definition": "The mass of an unladen vehicle with bodywork, coolant, oils, at least 90 per cent of fuel, 100 per cent of other liquids and driver (75 kg), excluding used waters, tools and spare wheel."
+  },
+  {
+   "term": "The System",
+   "label": "The System (Annex 3)",
+   "definition": "An electronic control system or complex electronic control system that provides or forms part of the control transmission of a function to which this Regulation applies, including transmission links."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Forward direction ACPE",
+   "distinguished_by": "Detection of obstacles and control of acceleration in the forward driving direction; may be exempted where forward detection is incompatible with on-road use"
+  },
+  {
+   "name": "Rearward direction ACPE",
+   "distinguished_by": "Detection of obstacles and control of acceleration in the reverse driving direction; may be exempted (e.g. vehicles adapted at rear for wheelchair access)"
+  },
+  {
+   "name": "M1 vs. other categories",
+   "distinguished_by": "M1 with automatic transmission is mandatory scope; other categories approved only on manufacturer's request"
+  },
+  {
+   "name": "Obstacle type: vehicle target vs. wall-like structure",
+   "distinguished_by": "Type of test target / obstacle used in the test scenarios"
+  }
+ ],
+ "sections": [
+  {
+   "label": "Introduction",
+   "title": "Introduction",
+   "about": [
+    "Background of pedal error collisions",
+    "ACPE",
+    "Relation to AEBS (R152)",
+    "Exemptions for special vehicles",
+    "Deactivation concept",
+    "Future phases (moving-off, pedestrians, N1)"
+   ]
+  },
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "ACPE",
+    "Automatic Transmission",
+    "M1 vehicles",
+    "Exemption of forward/rear detection"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "ACPE",
+    "Vehicle Type with Regard to its ACPE",
+    "Common space",
+    "Dry road affording good adhesion",
+    "Sufficient nominal Peak Braking Coefficient (PBC)",
+    "Self-check",
+    "Obstacle",
+    "Automatic Transmission",
+    "Mass of a vehicle in running order"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "Documentation of ACPE design and links to other vehicle systems",
+    "Vehicle Type with Regard to its ACPE"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "Approval number",
+    "Approval mark placed near vehicle data plate"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Specifications",
+   "about": [
+    "ACPE performance requirements",
+    "Obstacle",
+    "Automatic Transmission"
+   ]
+  },
+  {
+   "label": "5.2",
+   "title": "Deactivation",
+   "about": [
+    "ACPE deactivation means",
+    "Long-term deactivation with periodic information to user"
+   ]
+  },
+  {
+   "label": "5.3",
+   "title": "Failure detection / self-check",
+   "about": [
+    "Self-check",
+    "Failure warning"
+   ]
+  },
+  {
+   "label": "5.4",
+   "title": "Warning signals",
+   "about": [
+    "ACPE warning signals",
+    "Common space"
+   ]
+  },
+  {
+   "label": "5.5",
+   "title": "Provisions for the Periodic Technical Inspection",
+   "about": [
+    "PTI verification of ACPE status"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Test procedure",
+   "about": [
+    "ACPE test scenarios with stationary subject vehicle"
+   ]
+  },
+  {
+   "label": "6.1",
+   "title": "Test surface and environment conditions",
+   "about": [
+    "Dry road affording good adhesion",
+    "Sufficient nominal Peak Braking Coefficient (PBC)"
+   ]
+  },
+  {
+   "label": "6.2",
+   "title": "Instrumentation",
+   "about": [
+    "Measurement equipment"
+   ]
+  },
+  {
+   "label": "6.3",
+   "title": "Test Vehicle",
+   "about": [
+    "Mass of a vehicle in running order",
+    "Test vehicle conditions"
+   ]
+  },
+  {
+   "label": "6.4",
+   "title": "Test Targets",
+   "about": [
+    "Obstacle",
+    "Vehicle target",
+    "Wall-like structure"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Modification of vehicle type and extension of approval",
+   "about": [
+    "Vehicle Type with Regard to its ACPE"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Conformity of production",
+   "about": [
+    "Conformity of production procedures"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Penalties for non-conformity of production",
+   "about": [
+    "Withdrawal of approval"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Production definitively discontinued",
+   "about": [
+    "Notification of discontinued production"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Names and addresses of the Technical Services responsible for conducting approval tests and of Type Approval Authorities",
+   "about": [
+    "Administrative communication"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication",
+   "about": [
+    "Approval communication form",
+    "Exemption of ACPE forward/rear requirements"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Arrangements of approval marks",
+   "about": [
+    "Approval mark layout"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Special requirements to be applied to the safety aspects of complex electronic vehicle control systems",
+   "about": [
+    "The System",
+    "Documentation",
+    "Fault strategy",
+    "Safety concept of the manufacturer",
+    "Verification and test"
+   ]
+  },
+  {
+   "label": "Annex 3 3.3",
+   "title": "System layout and schematics",
+   "about": [
+    "The System",
+    "Functional units and interconnections"
+   ]
+  },
+  {
+   "label": "Annex 3 3.4",
+   "title": "Safety concept of the manufacturer",
+   "about": [
+    "The System",
+    "Fault strategy"
+   ]
+  },
+  {
+   "label": "Annex 3 Appendix 1",
+   "title": "Model assessment form for electronic systems (test report)",
+   "about": [
+    "The System",
+    "Manufacturer's safety concept"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Applies to the whole vehicle, not to a separately approved component; sensors (cameras, radar, ultrasonic), ECUs and powertrain/accelerator control software contributing to ACPE are assessed as part of the vehicle type",
+  "Any electronic control unit or software that limits drive torque in response to accelerator misapplication falls within 'The System' under Annex 3 (documentation, fault strategy, safety concept)",
+  "Electric and hybrid vehicles with single-gear transmissions count as 'automatic transmission' and are therefore in scope for M1",
+  "Forward and rear parking/obstacle sensors may be relevant because ACPE requires forward and/or rear detection means",
+  "Driver HMI elements (telltales, displays, deactivation switches/menus) are relevant via deactivation and warning signal requirements",
+  "Changes to accelerator pedal, drive-torque control, or sensor placement can affect ACPE performance and may require extension of approval",
+  "Interaction with AEBS (R152) accelerator kick-down override must be considered in ACPE design",
+  "Vehicles with rear wheelchair access or equipment preventing sensor fitment may be exempted in one direction by the Type Approval Authority",
+  "N1 and other categories are only in scope if the manufacturer requests approval"
+ ],
+ "version": "0.1.0"
+}

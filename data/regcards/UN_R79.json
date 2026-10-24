@@ -1,0 +1,701 @@
+{
+ "regulation": "UN R79",
+ "title": "Uniform provisions concerning the approval of vehicles with regard to steering equipment (version 4.11.0)",
+ "subject_kind": "vehicle_system",
+ "scope_summary": "R79 approves vehicle types with regard to their steering equipment: the steering control, steering transmission, steered wheels and any energy supply, including electronic steering functions such as ACSF, CSF, ESF, RCM and RMF. It applies to vehicles of categories M, N and O, but not to purely pneumatic steering transmissions, Autonomous Steering Systems, or M/N vehicles without manual steering controls intended for normal operation.",
+ "scope_quote": "1.1 This Regulation applies to the steering equipment of vehicles of Categories M, N and O. 1.2 This Regulation does not apply to: 1.2.1 Steering equipment with a purely pneumatic transmission; 1.2.2 Autonomous Steering Systems as defined in paragraph 2.3.3; 1.2.4 Vehicles of Categories M and N which are not equipped with manual steering controls intended for use during normal operation.",
+ "vehicle_categories": [
+  "M",
+  "N",
+  "O"
+ ],
+ "applies_to_components": [
+  "Steering equipment (as a whole)",
+  "Steering control (e.g. steering wheel, including parts up to where effort is transformed)",
+  "Steering transmission (control transmission and energy transmission; mechanical, hydraulic, electric, hybrid)",
+  "Steered wheels",
+  "Energy supply (energy source, energy reservoir, storage reservoir, return lines)",
+  "Electrical Storage Device (ESD) and Energy Management System of full-power steering",
+  "Electrical supply to steering ESD (battery, REESS, generator, fuel cell)",
+  "Advanced Driver Assistance Steering Systems: ACSF (Categories A, B1, B2, C, D, E), CSF, ESF, RCM, RMF",
+  "Remote Controlled Parking (RCP) and its remote control device",
+  "Auxiliary Steering Equipment (ASE)",
+  "Trailer steering equipment (self-tracking, articulated, self-steering, additional, full-power)",
+  "Electric control line between towing vehicle and trailer (wiring, connector, data communication, energy supply)",
+  "Complex electronic vehicle control systems acting on steering (Annex 6)",
+  "Steering-related warning signals",
+  "Steering control interface with an Automated Driving System (ADS) on vehicles with manual controls"
+ ],
+ "relation_to_other_regulations": [
+  "Vehicle categories as defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3), ECE/TRANS/WP.29/78/Rev.7.",
+  "Approval mark may be combined with marks of other UN Regulations granted by the same country (para. 4.5); mark placed near vehicle data plate.",
+  "Annex 9 refers to parameters defined in ISO 11992-3:2021 transmitted via the electric control line; introduction notes ISO 11992 does not yet cover trailer steering control messages, so positive electrical steering control of trailers from the towing vehicle is not approvable.",
+  "Annex 3 sets service braking performance requirements where steering and braking share an energy source (interface with braking requirements).",
+  "An ADS may only control the steering equipment if it complies with applicable regulatory requirements where it operates; Annex 6 applies to transmission links between ADS and steering.",
+  "Autonomous Steering Systems (off-board signal control, not ADS) are excluded from scope.",
+  "Definition of DCAS (Driver Control Assistance System) is included/reserved (para. 2.10).",
+  "Current series of amendments: 03 (approval number prefix)."
+ ],
+ "defined_terms": [
+  {
+   "term": "2.3",
+   "label": "Steering equipment",
+   "definition": "All the equipment whose purpose is to determine the direction of movement of the vehicle, consisting of the steering control, steering transmission, steered wheels and energy supply, if any."
+  },
+  {
+   "term": "2.3.1",
+   "label": "Steering control",
+   "definition": "The part of the steering equipment directly actuated by a driver which controls its operation, but which may also operate without direct driver intervention (e.g. by an ADSS or ADS)."
+  },
+  {
+   "term": "2.3.2",
+   "label": "Steering transmission",
+   "definition": "All components forming a functional link between the steering control and the road wheels, divided into control transmission and energy transmission."
+  },
+  {
+   "term": "2.3.2.1",
+   "label": "Control transmission",
+   "definition": "All components by means of which signals are transmitted for control of the steering equipment."
+  },
+  {
+   "term": "2.3.2.2",
+   "label": "Energy transmission",
+   "definition": "All components by means of which the energy required for control/regulation of the steering function of the wheels is transmitted."
+  },
+  {
+   "term": "2.3.3",
+   "label": "Autonomous Steering System",
+   "definition": "A system, other than an ADS, with a function in a complex electronic control system causing the vehicle to follow or alter a path in response to signals initiated and transmitted from off-board the vehicle."
+  },
+  {
+   "term": "2.3.4",
+   "label": "Advanced Driver Assistance Steering System",
+   "definition": "A system additional to the main steering system that assists the driver in steering while the driver remains at all times in primary control."
+  },
+  {
+   "term": "2.3.4.1",
+   "label": "Automatically commanded steering function (ACSF)",
+   "definition": "A function within an electronic control system where steering actuation can result from automatic evaluation of on-board signals, possibly with passive infrastructure features, to assist the driver."
+  },
+  {
+   "term": "2.3.4.1.1",
+   "label": "ACSF of Category A",
+   "definition": "A function operating at no more than 10 km/h to assist the driver, on demand, in low speed or parking manoeuvring."
+  },
+  {
+   "term": "2.3.4.1.2",
+   "label": "ACSF of Category B1",
+   "definition": "A function which assists the driver in keeping the vehicle within the chosen lane by influencing its lateral movement."
+  },
+  {
+   "term": "2.3.4.1.3",
+   "label": "ACSF of Category B2",
+   "definition": "A driver-activated function which keeps the vehicle within its lane for extended periods without further driver command/confirmation."
+  },
+  {
+   "term": "2.3.4.1.4",
+   "label": "ACSF of Category C",
+   "definition": "A driver-activated function which can perform a single lateral manoeuvre (e.g. lane change) when commanded by the driver."
+  },
+  {
+   "term": "2.3.4.1.5",
+   "label": "ACSF of Category D",
+   "definition": "A driver-activated function which can indicate the possibility of a single lateral manoeuvre but performs it only following driver confirmation."
+  },
+  {
+   "term": "2.3.4.1.6",
+   "label": "ACSF of Category E",
+   "definition": "A driver-activated function which can continuously determine the possibility of a manoeuvre and complete such manoeuvres for extended periods without further driver command/confirmation."
+  },
+  {
+   "term": "2.3.4.2",
+   "label": "Corrective Steering Function (CSF)",
+   "definition": "A control function whereby, for a limited duration, steering angle changes may result from automatic evaluation of on-board signals to compensate sudden side-force changes, improve stability or correct lane departure."
+  },
+  {
+   "term": "2.3.4.3",
+   "label": "Emergency Steering Function (ESF)",
+   "definition": "A control function which automatically detects a potential collision and activates the steering for a limited duration to avoid or mitigate a collision with a vehicle in an adjacent lane or an obstacle."
+  },
+  {
+   "term": "2.3.4.4",
+   "label": "Remote Control Manoeuvring (RCM)",
+   "definition": "A driver-actuated function providing direct control of steering angle, acceleration and deceleration for low speed manoeuvring via a remote control device in close proximity to the vehicle."
+  },
+  {
+   "term": "2.3.4.5",
+   "label": "Risk Mitigation Function (RMF)",
+   "definition": "An emergency function which, if the driver becomes unresponsive, automatically steers the vehicle for a limited duration to bring it to a safe stop within a target stop area."
+  },
+  {
+   "term": "2.3.5",
+   "label": "Steered wheels",
+   "definition": "The wheels whose alignment may be altered directly or indirectly relative to the vehicle longitudinal axis to determine the direction of movement, including their steering axis."
+  },
+  {
+   "term": "2.3.6",
+   "label": "Energy supply",
+   "definition": "Parts of the steering equipment which provide, regulate and where appropriate process and store energy, including storage reservoirs and return lines but not the engine or its drive to the energy source."
+  },
+  {
+   "term": "2.3.6.1",
+   "label": "Energy source",
+   "definition": "The part of the energy supply which provides the energy in the required form."
+  },
+  {
+   "term": "2.3.6.2",
+   "label": "Energy reservoir",
+   "definition": "The part of the energy supply in which energy from the energy source is stored, e.g. a pressurised fluid reservoir or vehicle battery."
+  },
+  {
+   "term": "2.3.6.3",
+   "label": "Storage reservoir",
+   "definition": "The part of the energy supply in which the operating medium is stored at or near atmospheric pressure, e.g. a fluid reservoir."
+  },
+  {
+   "term": "2.4.8",
+   "label": "Remote Controlled Parking (RCP)",
+   "definition": "An ACSF of Category A, actuated by the driver in close proximity to the vehicle or combination, providing parking or low speed manoeuvring."
+  },
+  {
+   "term": "2.4.16",
+   "label": "Lane Change Procedure",
+   "definition": "The sequence from activation to deactivation of the direction indicator lamps, including lateral movement, lane change manoeuvre and resumption of lane keeping."
+  },
+  {
+   "term": "2.4.19",
+   "label": "Target stop area",
+   "definition": "A potential stopping area such as an emergency lane, hard shoulder, beside the road, slowest lane or own lane of travel."
+  },
+  {
+   "term": "2.5.1.1",
+   "label": "Main steering system",
+   "definition": "The steering equipment of a vehicle mainly responsible for determining the direction of travel."
+  },
+  {
+   "term": "2.5.1.1.1",
+   "label": "Manual steering equipment",
+   "definition": "Steering equipment in which the steering forces result solely from the muscular effort of the driver."
+  },
+  {
+   "term": "2.5.1.1.2",
+   "label": "Power assisted steering equipment",
+   "definition": "Steering equipment in which steering forces result from both driver muscular effort and the energy supply, including integrated power systems that fall back to muscular effort on fault."
+  },
+  {
+   "term": "2.5.1.1.3",
+   "label": "Full-power steering equipment",
+   "definition": "Steering equipment in which the steering forces are provided solely by one or more energy supplies."
+  },
+  {
+   "term": "2.5.1.2",
+   "label": "Self-tracking steering equipment",
+   "definition": "A system creating a steering angle change on one or more wheels only when acted upon by forces/moments through the tyre-to-road contact (motor vehicles and trailers, 2.5.2.1)."
+  },
+  {
+   "term": "2.5.1.3",
+   "label": "Auxiliary Steering Equipment (ASE)",
+   "definition": "A system in M/N vehicles steering additional axle wheels in the same or opposite direction to the main steering and/or adjusting front/rear steering angle relative to vehicle behaviour."
+  },
+  {
+   "term": "2.5.2.2",
+   "label": "Articulated steering",
+   "definition": "Trailer equipment where steering forces arise from the towing vehicle's change of direction and steered wheel movement is linked to the towing vehicle/trailer articulation angle."
+  },
+  {
+   "term": "2.5.2.3",
+   "label": "Self-steering",
+   "definition": "Trailer equipment where steered wheel movement is firmly linked to the angle between the trailer frame (or load) and the sub-frame carrying the axle(s)."
+  },
+  {
+   "term": "2.5.2.4",
+   "label": "Additional steering equipment",
+   "definition": "A trailer system, independent of the main steering system, by which the steering angle of one or more axles can be influenced selectively for manoeuvring."
+  },
+  {
+   "term": "2.5.2.5",
+   "label": "Full-power steering equipment (trailers)",
+   "definition": "Trailer equipment in which the steering forces are provided solely by one or more energy supplies."
+  },
+  {
+   "term": "2.5.3.1",
+   "label": "Front-wheel steering equipment",
+   "definition": "Equipment in which only the wheels of the front axle(s) are steered."
+  },
+  {
+   "term": "2.5.3.2",
+   "label": "Rear-wheel steering equipment",
+   "definition": "Equipment in which only the wheels of the rear axle(s) are steered."
+  },
+  {
+   "term": "2.5.3.3",
+   "label": "Multi-wheel steering equipment",
+   "definition": "Equipment in which wheels of one or more front and rear axles are steered, including all-wheel steering."
+  },
+  {
+   "term": "2.5.3.3.1",
+   "label": "All-wheel steering equipment",
+   "definition": "Equipment in which all the wheels are steered."
+  },
+  {
+   "term": "2.5.3.3.2",
+   "label": "Buckle steering equipment",
+   "definition": "Equipment in which movement of chassis parts relative to each other is directly produced by the steering forces."
+  },
+  {
+   "term": "2.6.1",
+   "label": "Purely mechanical steering transmission",
+   "definition": "A transmission in which steering forces are transmitted entirely by mechanical means."
+  },
+  {
+   "term": "2.6.2",
+   "label": "Purely hydraulic steering transmission",
+   "definition": "A transmission in which steering forces, somewhere in the transmission, are transmitted only by hydraulic means."
+  },
+  {
+   "term": "2.6.3",
+   "label": "Purely electric steering transmission",
+   "definition": "A transmission in which steering forces, somewhere in the transmission, are transmitted only through electric means."
+  },
+  {
+   "term": "2.6.4",
+   "label": "Hybrid steering transmission",
+   "definition": "A transmission in which steering forces are partly transmitted by one means and partly by another, unless the mechanical part only gives position feedback."
+  },
+  {
+   "term": "2.7",
+   "label": "Electric control line",
+   "definition": "The electrical connection between two vehicles providing the steering control function to a towed vehicle, including wiring, connector, data communication and electrical energy supply for the trailer control transmission."
+  },
+  {
+   "term": "2.10",
+   "label": "Driver Control Assistance System (DCAS)",
+   "definition": "Hardware and software collectively capable of assisting a driver in controlling longitudinal and lateral motion on a sustained basis (marked reserved)."
+  },
+  {
+   "term": "2.11",
+   "label": "Automated Driving System (ADS)",
+   "definition": "Vehicle hardware and software collectively capable of performing the entire Dynamic Driving Task on a sustained basis."
+  },
+  {
+   "term": "2.12",
+   "label": "Electrical Storage Device (ESD)",
+   "definition": "A device or combination of devices storing electrical charge and providing power to the transmission of a full-power steering system, considered an energy reservoir."
+  },
+  {
+   "term": "2.16",
+   "label": "Energy Management System",
+   "definition": "Electrical device(s) of or used by a full-power steering system that monitor critical variables of the ESD and deduce its actual capability to meet the Regulation's performance requirements."
+  },
+  {
+   "term": "2.17",
+   "label": "Electrical supply",
+   "definition": "A device (e.g. battery, REESS, generator, fuel cell) supplying electrical power to the steering system's ESD(s)."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "ACSF Category A",
+   "distinguished_by": "Low speed/parking manoeuvring at ≤10 km/h on demand (includes RCP)"
+  },
+  {
+   "name": "ACSF Category B1",
+   "distinguished_by": "Lane keeping assistance influencing lateral movement"
+  },
+  {
+   "name": "ACSF Category B2",
+   "distinguished_by": "Driver-activated lane keeping for extended periods without further driver confirmation (X marking)"
+  },
+  {
+   "name": "ACSF Category C",
+   "distinguished_by": "Single lateral manoeuvre (lane change) commanded by driver"
+  },
+  {
+   "name": "ACSF Category D",
+   "distinguished_by": "Indicates lateral manoeuvre possibility, performs only after driver confirmation (X marking)"
+  },
+  {
+   "name": "ACSF Category E",
+   "distinguished_by": "Continuously determines and completes manoeuvres for extended periods without driver confirmation (X marking)"
+  },
+  {
+   "name": "CSF / ESF / RCM / RMF",
+   "distinguished_by": "Type of ADSS function: corrective, emergency collision avoidance, remote control manoeuvring, risk mitigation for unresponsive driver"
+  },
+  {
+   "name": "Manual / power assisted / full-power steering",
+   "distinguished_by": "Source of steering forces (driver muscle, combined, energy supply only)"
+  },
+  {
+   "name": "Self-tracking / ASE (motor vehicles)",
+   "distinguished_by": "Steering from tyre-road forces only vs. auxiliary steering of additional axles"
+  },
+  {
+   "name": "Trailer: self-tracking / articulated / self-steering / additional / full-power",
+   "distinguished_by": "How trailer steering forces are produced"
+  },
+  {
+   "name": "Front-wheel / rear-wheel / multi-wheel / all-wheel / buckle steering",
+   "distinguished_by": "Arrangement of steered wheels"
+  },
+  {
+   "name": "Mechanical / hydraulic / electric / hybrid transmission",
+   "distinguished_by": "Means by which steering forces are transmitted"
+  },
+  {
+   "name": "X-marked approval",
+   "distinguished_by": "ACSF A, B1 or C exempted per 5.6.1/5.6.2/5.6.4, or presence of ACSF B2, D or E functionality"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "Steering equipment",
+    "Autonomous Steering System",
+    "M, N, O categories",
+    "exclusions"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Steering equipment",
+    "Steering control",
+    "Steering transmission",
+    "ACSF",
+    "CSF",
+    "ESF",
+    "RCM",
+    "RMF",
+    "ADS",
+    "ESD",
+    "Electric control line"
+   ]
+  },
+  {
+   "label": "2.4",
+   "title": "Steering parameters",
+   "about": [
+    "Steering control effort",
+    "Steering angle",
+    "Turning circle",
+    "RCP",
+    "Vsmax/Vsmin",
+    "ACSF modes",
+    "Lane Change Procedure",
+    "Target stop area"
+   ]
+  },
+  {
+   "label": "2.5",
+   "title": "Types of steering equipment",
+   "about": [
+    "Main steering system",
+    "Manual steering equipment",
+    "Power assisted steering equipment",
+    "Full-power steering equipment",
+    "Self-tracking steering equipment",
+    "Auxiliary Steering Equipment (ASE)",
+    "Articulated steering",
+    "Self-steering",
+    "Additional steering equipment",
+    "Front-/rear-/multi-/all-wheel/buckle steering"
+   ]
+  },
+  {
+   "label": "2.6",
+   "title": "Types of steering transmission",
+   "about": [
+    "Purely mechanical",
+    "Purely hydraulic",
+    "Purely electric",
+    "Hybrid steering transmission"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "documentation",
+    "full-power steering system overview",
+    "Annex 6 systems"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "approval number (03 series)",
+    "approval mark",
+    "X marking for ACSF"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Construction provisions",
+   "about": [
+    "Steering equipment"
+   ]
+  },
+  {
+   "label": "5.1",
+   "title": "General provisions",
+   "about": [
+    "Steering control",
+    "Steering transmission",
+    "Steered wheels",
+    "ADSS",
+    "ADS"
+   ]
+  },
+  {
+   "label": "5.2",
+   "title": "Special provisions for trailers",
+   "about": [
+    "Trailer steering equipment",
+    "Self-tracking",
+    "Articulated steering",
+    "Self-steering",
+    "Additional steering equipment"
+   ]
+  },
+  {
+   "label": "5.3",
+   "title": "Failure provisions and performance",
+   "about": [
+    "Energy supply",
+    "Full-power steering equipment",
+    "Power assisted steering equipment",
+    "ESD",
+    "Energy Management System"
+   ]
+  },
+  {
+   "label": "5.4",
+   "title": "Warning signals",
+   "about": [
+    "steering failure warnings",
+    "Energy supply"
+   ]
+  },
+  {
+   "label": "5.5",
+   "title": "Provisions for the periodic technical inspection of steering equipment",
+   "about": [
+    "PTI verification of steering equipment and electronic systems"
+   ]
+  },
+  {
+   "label": "5.6",
+   "title": "Provisions for ACSF (referenced in 4.4.3)",
+   "about": [
+    "ACSF Category A",
+    "ACSF Category B1",
+    "ACSF Category C",
+    "RCP",
+    "exemptions 5.6.1/5.6.2/5.6.4"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Test provisions",
+   "about": [
+    "Steering control effort",
+    "Turning circle"
+   ]
+  },
+  {
+   "label": "6.1",
+   "title": "General provisions",
+   "about": [
+    "test conditions"
+   ]
+  },
+  {
+   "label": "6.2",
+   "title": "Provisions for motor vehicles",
+   "about": [
+    "Main steering system",
+    "steering effort tests"
+   ]
+  },
+  {
+   "label": "6.3",
+   "title": "Provisions for trailers",
+   "about": [
+    "Trailer steering equipment"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Conformity of production",
+   "about": [
+    "COP"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Penalties for non-conformity of production",
+   "about": [
+    "procedural"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Modification and extension of approval of the vehicle type",
+   "about": [
+    "procedural"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Production definitively discontinued",
+   "about": [
+    "procedural"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Names and addresses of Technical Services and Type Approval Authorities",
+   "about": [
+    "procedural"
+   ]
+  },
+  {
+   "label": "12",
+   "title": "Transitional provisions",
+   "about": [
+    "series of amendments validity"
+   ]
+  },
+  {
+   "label": "12.4",
+   "title": "General transitional provisions",
+   "about": [
+    "acceptance of earlier approvals"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication form",
+   "about": [
+    "Brief description of steering equipment",
+    "ADS fitted yes/no",
+    "towing vehicle/trailer data"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Arrangements of approval marks",
+   "about": [
+    "approval mark"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Braking performance for vehicles using the same energy source to supply steering equipment and braking device",
+   "about": [
+    "Energy source",
+    "Energy supply",
+    "failure"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Additional provisions for vehicles fitted with Auxiliary Steering Equipment (ASE)",
+   "about": [
+    "Auxiliary Steering Equipment (ASE)",
+    "transmission",
+    "failure tests"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Additional provisions for vehicles (trailers) with hydraulic steering transmission",
+   "about": [
+    "Purely hydraulic steering transmission",
+    "Energy transmission"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Special requirements for safety aspects of complex electronic vehicle control systems",
+   "about": [
+    "The System",
+    "safety concept",
+    "fault strategy",
+    "ACSF",
+    "CSF",
+    "ESF",
+    "RMF",
+    "ADS interface",
+    "Full-power steering equipment"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Provisions for energy supply of trailer steering systems from the towing vehicle",
+   "about": [
+    "Electric control line",
+    "Energy supply",
+    "wiring and connectors",
+    "marking",
+    "towing vehicles and trailers"
+   ]
+  },
+  {
+   "label": "Annex 8",
+   "title": "Test requirements for Corrective and Automatically Commanded Steering Functions",
+   "about": [
+    "CSF",
+    "ACSF Category A",
+    "ACSF Category B1",
+    "ACSF Category C",
+    "ESF",
+    "RCP",
+    "Lane Change Procedure"
+   ]
+  },
+  {
+   "label": "Annex 9",
+   "title": "ISO 11992-3:2021 parameters transmitted via the electric control line",
+   "about": [
+    "Electric control line",
+    "Data communication",
+    "Point-to-point"
+   ]
+  },
+  {
+   "label": "Annex 10",
+   "title": "Information document and checking procedures for towing vehicles and trailers",
+   "about": [
+    "Electric control line",
+    "Data communication",
+    "towing vehicles",
+    "trailers"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "R79 is a whole-vehicle approval: steering components (racks, columns, EPS motors, pumps, ECUs) are not separately approved but must be assessed as part of the vehicle's steering equipment.",
+  "Electric power steering ECUs and any electronic system that commands steering fall under Annex 6 (complex electronic control systems) including safety concept and fault strategy documentation.",
+  "ADAS cameras/radars/ECUs that generate steering actions (lane keeping, lane centring, lane change assist, park assist, emergency steering, μ-split/side-wind compensation) are covered as ACSF, CSF or ESF.",
+  "Smartphone apps, key fobs or other remote control devices for remote parking/manoeuvring bring the vehicle under RCP (ACSF Cat. A) or RCM provisions.",
+  "Driver monitoring/unresponsiveness detection that triggers steering to a safe stop is covered as RMF.",
+  "Batteries, REESS, generators, fuel cells and capacitors supplying a full-power steering system are within scope as electrical supply / Electrical Storage Device, including Energy Management System monitoring.",
+  "Hydraulic reservoirs, return lines and pumps are part of the steering energy supply; the engine itself is not (except para 5.3.2.1).",
+  "If steering and braking share an energy source, Annex 3 imposes braking performance requirements on the steering energy supply.",
+  "Rear-axle/auxiliary steering actuators (rear-wheel steering, active front steering ratio adjustment) are Auxiliary Steering Equipment (Annex 4).",
+  "Trailers (category O) with steered axles, self-steering or additional manoeuvring steering, and their electric control line/connectors to the towing vehicle are in scope (Annexes 7, 9, 10).",
+  "Steering wheels and other driver controls are the 'steering control' and are relevant for steering effort and nominal radius requirements.",
+  "Direction indicator activation forms part of the ACSF Lane Change Procedure, linking indicator control logic to R79.",
+  "Steering-related tell-tales/warning signals are covered by 5.4.",
+  "Vehicles with an ADS are in scope only if they also have manual steering controls; ADS-to-steering transmission links fall under Annex 6.",
+  "Excluded: purely pneumatic steering transmissions, Autonomous Steering Systems controlled by off-board signals (not ADS), and M/N vehicles without manual steering controls for normal operation.",
+  "Brake-based lane keeping without changing steering angle does not meet the CSF definition (which refers to changes in steering angle)."
+ ],
+ "version": "4.11.0"
+}

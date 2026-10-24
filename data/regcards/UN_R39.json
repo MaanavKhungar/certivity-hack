@@ -1,0 +1,278 @@
+{
+ "regulation": "UN R39",
+ "title": "Uniform provisions concerning the approval of vehicles with regard to the speedometer and odometer equipment including its installation",
+ "subject_kind": "vehicle_system",
+ "scope_summary": "Approves vehicle types with regard to their speedometer and odometer equipment, including its installation, covering speed indication and distance (mileage) recording and display. It applies to vehicles of categories L, M and N.",
+ "scope_quote": "This Regulation applies to the approval of vehicles of categories L, M and N.",
+ "vehicle_categories": [
+  "L",
+  "M",
+  "N"
+ ],
+ "applies_to_components": [
+  "speedometer equipment",
+  "speedometer",
+  "odometer equipment",
+  "odometer",
+  "tachograph or recording equipment (vehicle unit and motion sensor)",
+  "Tachograph Replacement Unit (TRU)",
+  "purely mechanical odometer",
+  "transmission/reduction drives to the speedometer and odometer",
+  "tyres normally fitted (size designation)",
+  "total distance value storage (mileage values)"
+ ],
+ "relation_to_other_regulations": [
+  "Vehicle categories as defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3), ECE/TRANS/WP.29/78/Rev.7, para. 2",
+  "Application per Schedule 3 and approval numbering per Schedule 4 of the 1958 Agreement (E/ECE/TRANS/505/Rev.3)",
+  "Approval mark may be combined with marks of other UN Regulations under which the vehicle is approved (para. 4.5)",
+  "Tachograph/recording equipment and TRU referenced in relation to national legislation on tachographs"
+ ],
+ "defined_terms": [
+  {
+   "term": "2.1",
+   "label": "Approval of a vehicle",
+   "definition": "The approval of a vehicle type with regard to the speedometer and odometer equipment including its installation."
+  },
+  {
+   "term": "2.2",
+   "label": "Type of vehicle in respect of its speedometer and odometer",
+   "definition": "Vehicles not differing essentially in tyre size designation, overall transmission ratio to the speedometer and odometer, type of speedometer (tolerances, technical constant, speed range) and type of odometer (technical constant, number of numerals)."
+  },
+  {
+   "term": "2.3",
+   "label": "Tyres normally fitted",
+   "definition": "The type or types of tyre provided by the manufacturer on the vehicle type, excluding snow tyres."
+  },
+  {
+   "term": "2.4",
+   "label": "Normal running pressure",
+   "definition": "The cold inflation pressure specified by the vehicle manufacturer increased by 200 hPa."
+  },
+  {
+   "term": "2.5",
+   "label": "Speedometer",
+   "definition": "That part of the speedometer equipment which indicates the speed of the vehicle to the driver at any given moment."
+  },
+  {
+   "term": "2.5.1",
+   "label": "Tolerances of the speedometer's measuring mechanism",
+   "definition": "The accuracy of the speedometer instrument itself, expressed as upper and lower speed indication limits for a range of speed inputs."
+  },
+  {
+   "term": "2.5.2",
+   "label": "Technical constant of the speedometer",
+   "definition": "The relationship between the input revolutions or pulses per minute and a specified displayed speed."
+  },
+  {
+   "term": "2.6",
+   "label": "Odometer",
+   "definition": "That part of the odometer equipment which indicates to the driver the total distance driven by the vehicle."
+  },
+  {
+   "term": "2.6.1",
+   "label": "Technical constant of the odometer",
+   "definition": "The relationship between the input revolutions or pulses and the distance driven by the vehicle."
+  },
+  {
+   "term": "2.6.2",
+   "label": "Total distance indicated",
+   "definition": "The distance as displayed by the odometer."
+  },
+  {
+   "term": "2.6.3",
+   "label": "True distance travelled",
+   "definition": "The true distance driven by the vehicle for the purpose of the test under Annex 4."
+  },
+  {
+   "term": "2.6.4",
+   "label": "Total distance value",
+   "definition": "Mileage values for the purpose of being made available and related to the total distance driven by the vehicle."
+  },
+  {
+   "term": "2.6.5",
+   "label": "Tachograph or Recording equipment",
+   "definition": "Equipment for installation in road vehicles to display, record, print, store and output vehicle movement data, consisting of a vehicle unit and a motion sensor communicating securely."
+  },
+  {
+   "term": "2.6.5.1",
+   "label": "Vehicle unit",
+   "definition": "The recording equipment excluding the motion sensor and the cables connecting the motion sensor."
+  },
+  {
+   "term": "2.6.5.2",
+   "label": "Motion sensor",
+   "definition": "A part of the recording equipment providing a signal representative of vehicle speed and/or distance travelled."
+  },
+  {
+   "term": "2.6.6",
+   "label": "Tachograph Replacement Unit (TRU)",
+   "definition": "A device simulating the necessary tachograph functions for vehicles not required by national legislation to be equipped with a tachograph."
+  },
+  {
+   "term": "2.6.7",
+   "label": "Purely mechanical odometer",
+   "definition": "Odometer equipment whose technical constant is decided mechanically by input and output gear combinations with no electrical correction applied."
+  },
+  {
+   "term": "2.7",
+   "label": "Unladen vehicle",
+   "definition": "The vehicle in running order with fuel, coolant, lubricant, tools and standard spare wheel, carrying a 75 kg driver but no mate, optional accessories or load."
+  },
+  {
+   "term": "2.8",
+   "label": "Tampering",
+   "definition": "Any activity aiming at inaccurate recording or misrepresenting of mileage values being stored and/or displayed."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Purely mechanical odometer",
+   "distinguished_by": "Technical constant set by mechanical gear combinations without electrical correction (vs. electronic/electrically corrected odometers)"
+  },
+  {
+   "name": "Vehicles equipped with tachograph/recording equipment or TRU",
+   "distinguished_by": "Speed/distance signal provided by a motion sensor and vehicle unit or a Tachograph Replacement Unit"
+  },
+  {
+   "name": "Vehicle type variants",
+   "distinguished_by": "Tyre size designation, overall transmission ratio, speedometer type (tolerances, technical constant, speed range) and odometer type (technical constant, number of numerals)"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "vehicle categories L, M, N"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Speedometer",
+    "Odometer",
+    "Tachograph or Recording equipment",
+    "Tachograph Replacement Unit (TRU)",
+    "Purely mechanical odometer",
+    "Tampering",
+    "Total distance value"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for Approval",
+   "about": [
+    "Type of vehicle in respect of its speedometer and odometer",
+    "Unladen vehicle"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "Approval of a vehicle",
+    "approval mark near vehicle data plate"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Specifications",
+   "about": [
+    "Speedometer",
+    "Tolerances of the speedometer's measuring mechanism",
+    "speedometer accuracy test conditions (5.3.1-5.3.6)",
+    "Tyres normally fitted",
+    "Normal running pressure",
+    "Odometer",
+    "odometer accuracy (5.7)",
+    "Total distance value",
+    "Tampering",
+    "Tachograph or Recording equipment",
+    "Tachograph Replacement Unit (TRU)",
+    "Purely mechanical odometer"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Modifications of the Vehicle Type",
+   "about": [
+    "Type of vehicle in respect of its speedometer and odometer"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Conformity of Production",
+   "about": [
+    "Speedometer"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Penalties for Non-Conformity of Production",
+   "about": []
+  },
+  {
+   "label": "9",
+   "title": "Names and Addresses of Technical Services Responsible for Conducting Approval Tests and of Type Approval Authorities",
+   "about": []
+  },
+  {
+   "label": "10",
+   "title": "Transitional Provisions",
+   "about": []
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication (approval form)",
+   "about": [
+    "Approval of a vehicle",
+    "variants"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Arrangements of approval marks",
+   "about": [
+    "approval mark"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Conformity of production checks (speedometer)",
+   "about": [
+    "Speedometer",
+    "test conditions per 5.3.1-5.3.6"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Odometer accuracy test procedure",
+   "about": [
+    "Odometer",
+    "Total distance indicated",
+    "True distance travelled"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Information document",
+   "about": [
+    "Tyres normally fitted",
+    "transmission/gearbox",
+    "Speedometer",
+    "Odometer"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Any instrument cluster, display or HMI that shows vehicle speed or total distance to the driver is speedometer/odometer equipment within this regulation's vehicle approval.",
+  "Changes to tyre size designation or wheels can create a new vehicle type and affect speedometer accuracy.",
+  "Changes to final drive, gearbox or reduction drives feeding the speedometer/odometer alter the overall transmission ratio and the vehicle type.",
+  "Tachographs (vehicle unit and motion sensor) and Tachograph Replacement Units that supply speed/distance signals fall within the speedometer/odometer equipment.",
+  "ECUs that store or make available mileage values (total distance value) are relevant to anti-tampering requirements.",
+  "Speed/pulse sensors (e.g. wheel speed or gearbox output sensors) providing input to the speedometer/odometer influence the technical constant.",
+  "It is a vehicle approval; standalone components are not approved separately but must enable the vehicle to comply."
+ ],
+ "version": "2.1.0"
+}

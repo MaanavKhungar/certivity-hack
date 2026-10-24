@@ -1,0 +1,321 @@
+{
+ "regulation": "UN R64",
+ "title": "Uniform provisions concerning the approval of vehicles with regard to their equipment which may include: a temporary use spare unit, run flat tyres and/or a run flat system, and/or extended mobility tyres (version 3.1.0, 03 series of amendments)",
+ "subject_kind": "vehicle_installation",
+ "scope_summary": "Approves M1 and N1 vehicle types with regard to their equipment with a temporary-use spare unit, run-flat tyres or a run-flat system, and/or extended mobility tyres, including where applicable a run-flat warning system. Run-flat tyres, run-flat systems and extended mobility tyres used totally deflated are treated as temporary-use spare units (Type 5).",
+ "scope_quote": "This Regulation applies to the approval of vehicles of category M1 and N1 when equipped with: (a) A temporary use spare unit; and/or (b) Run-flat tyres and/or a run-flat system; and/or (c) Extended mobility tyres. For the purposes of this Regulation, spare wheel and tyre substitute units in the form of run-flat tyres or a run-flat system or extended mobility tyres in a totally deflated condition, are to be treated as being temporary-use spare units as defined in paragraph 2.10. of this Regulation.",
+ "vehicle_categories": [
+  "M1",
+  "N1"
+ ],
+ "applies_to_components": [
+  "Temporary-use spare unit (wheel and tyre assembly differing from the standard spare unit)",
+  "Temporary-use spare tyre",
+  "Spare wheel with different offset or size designation",
+  "Run-flat tyre / self supporting tyre",
+  "Run-flat system / extended mobility system",
+  "Extended mobility tyre",
+  "Run-flat warning system"
+ ],
+ "relation_to_other_regulations": [
+  "Refers to UN Regulation No. 30 for precise definitions of tyre size designation features and tyre structure (bias ply, bias-belted, radial ply, run-flat).",
+  "Refers to the Consolidated Resolution R.E.3 (ECE/TRANS/WP.29/78/Rev.4) for the definition of vehicle categories M1 and N1 and for distinguishing numbers of Contracting Parties.",
+  "Approval numbers currently begin with 03 (03 series of amendments); paragraph 12 contains transitional provisions relative to earlier series."
+ ],
+ "defined_terms": [
+  {
+   "term": "2.1",
+   "label": "Approval of a vehicle",
+   "definition": "The approval of a vehicle type with regard to its temporary-use spare wheel and tyre unit."
+  },
+  {
+   "term": "2.2.1",
+   "label": "Vehicle type with regard to its temporary-use spare unit",
+   "definition": "Vehicles not differing in maximum axle loads, spare unit characteristics, method of drive, suspension, braking system, wheel/tyre size and wheel offset."
+  },
+  {
+   "term": "2.3",
+   "label": "Wheel",
+   "definition": "A complete wheel consisting of a rim and a wheel disc."
+  },
+  {
+   "term": "2.3.1",
+   "label": "Wheel size designation",
+   "definition": "A designation comprising at least the nominal rim diameter, the nominal rim width and the rim profile."
+  },
+  {
+   "term": "2.3.2",
+   "label": "Wheel offset",
+   "definition": "The distance from the hub abutment face to the centre line of the rim."
+  },
+  {
+   "term": "2.4",
+   "label": "Tyre",
+   "definition": "A pneumatic tyre forming, with its wheel, a continuous essentially toroidal closed chamber containing gas (or gas and liquid) normally used above atmospheric pressure."
+  },
+  {
+   "term": "2.4.1",
+   "label": "Normal tyre",
+   "definition": "A tyre suitable for all normal, on-road, conditions of use."
+  },
+  {
+   "term": "2.4.2",
+   "label": "Temporary-use spare tyre",
+   "definition": "A tyre specifically designed to differ from a normal tyre and intended only for temporary use under restricted driving conditions."
+  },
+  {
+   "term": "2.4.3",
+   "label": "Run-flat tyre / Self supporting tyre",
+   "definition": "A pneumatic tyre structure (e.g. reinforced sidewalls) that, on the appropriate wheel and without supplementary components, provides basic tyre functions at least at 80 km/h for 80 km in flat tyre running mode."
+  },
+  {
+   "term": "2.4.4",
+   "label": "Run-flat system / Extended mobility system",
+   "definition": "An assembly of functionally dependent components including a tyre that together provide basic tyre functions at least at 80 km/h for 80 km in flat tyre running mode."
+  },
+  {
+   "term": "2.4.5",
+   "label": "Extended Mobility Tyre",
+   "definition": "A pneumatic radial tyre designed to operate inflated and, without supplementary components, to provide basic tyre functions at 80 km/h for 80 km in flat tyre running mode."
+  },
+  {
+   "term": "2.5",
+   "label": "Flat tyre running mode",
+   "definition": "The state of a tyre essentially maintaining structural integrity while operating at an inflation pressure between 0 and 70 kPa."
+  },
+  {
+   "term": "2.6",
+   "label": "Basic tyre function",
+   "definition": "The normal capability of an inflated tyre to support a given load up to a given speed and transmit driving, steering and braking forces to the ground."
+  },
+  {
+   "term": "2.7",
+   "label": "Tyre size designation",
+   "definition": "A combination of figures uniquely identifying tyre geometric size: nominal section width, nominal aspect ratio and nominal diameter."
+  },
+  {
+   "term": "2.8",
+   "label": "Tyre structure",
+   "definition": "The technical characteristics of the tyre carcass: bias ply, bias-belted, radial ply or run-flat."
+  },
+  {
+   "term": "2.9",
+   "label": "Standard spare unit",
+   "definition": "A wheel and tyre assembly identical in size designations, wheel offset and tyre structure to that fitted in the same axle position for normal operation (wheel material and fixings may differ)."
+  },
+  {
+   "term": "2.10",
+   "label": "Temporary-use spare unit",
+   "definition": "Any wheel and tyre assembly that is not a standard spare unit, of Types 1 to 5."
+  },
+  {
+   "term": "2.11",
+   "label": "Maximum mass",
+   "definition": "The maximum vehicle mass stated by the manufacturer to be technically permissible."
+  },
+  {
+   "term": "2.12",
+   "label": "Maximum axle load",
+   "definition": "The manufacturer-indicated maximum total vertical force between the tyres of one axle and the ground."
+  },
+  {
+   "term": "2.13",
+   "label": "Run-Flat Warning System",
+   "definition": "A system which delivers information to the driver that a tyre is operating in the flat tyre running mode."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Temporary-use spare unit Type 1",
+   "distinguished_by": "The tyre is a temporary-use spare tyre (para 2.4.2)."
+  },
+  {
+   "name": "Temporary-use spare unit Type 2",
+   "distinguished_by": "The wheel has a different offset from the wheel fitted in the same axle position for normal operation."
+  },
+  {
+   "name": "Temporary-use spare unit Type 3",
+   "distinguished_by": "The tyre is of a different structure from that fitted in the same axle position for normal operation."
+  },
+  {
+   "name": "Temporary-use spare unit Type 4",
+   "distinguished_by": "A normal tyre, but the wheel and/or tyre size designation differs from that fitted in the same axle position for normal operation."
+  },
+  {
+   "name": "Temporary-use spare unit Type 5",
+   "distinguished_by": "A run-flat tyre, run-flat system or extended mobility tyre fitted for normal long-term use but used in an emergency totally deflated."
+  },
+  {
+   "name": "Standard spare unit (outside scope of temporary-use requirements)",
+   "distinguished_by": "Identical wheel/tyre size designations, offset and tyre structure to the normal-operation unit."
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "M1/N1 vehicles",
+    "Temporary-use spare unit",
+    "Run-flat tyre",
+    "Run-flat system",
+    "Extended Mobility Tyre"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Wheel",
+    "Tyre",
+    "Normal tyre",
+    "Temporary-use spare tyre",
+    "Run-flat tyre",
+    "Run-flat system",
+    "Extended Mobility Tyre",
+    "Flat tyre running mode",
+    "Standard spare unit",
+    "Temporary-use spare unit",
+    "Run-Flat Warning System"
+   ]
+  },
+  {
+   "label": "2.10",
+   "title": "Temporary-use spare unit types",
+   "about": [
+    "Temporary-use spare unit Type 1",
+    "Type 2",
+    "Type 3",
+    "Type 4",
+    "Type 5"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "Vehicle type with regard to its temporary-use spare unit",
+    "Run-Flat Warning System"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "Approval number (03 series)",
+    "Approval mark on/near vehicle data plate"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Specifications and tests",
+   "about": [
+    "Temporary-use spare unit",
+    "Run-flat tyre",
+    "Run-flat system",
+    "Run-Flat Warning System"
+   ]
+  },
+  {
+   "label": "5.1",
+   "title": "General",
+   "about": [
+    "Temporary-use spare unit",
+    "Temporary-use spare tyre",
+    "Run-flat tyre",
+    "Run-flat system",
+    "Extended Mobility Tyre",
+    "Run-Flat Warning System"
+   ]
+  },
+  {
+   "label": "5.2",
+   "title": "Braking test",
+   "about": [
+    "Temporary-use spare unit",
+    "Braking and deviation performance"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Supplementary information",
+   "about": [
+    "Information on use of temporary-use spare unit"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Modifications and extension of approval of the vehicle type",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Conformity of production",
+   "about": []
+  },
+  {
+   "label": "9",
+   "title": "Penalties for non-conformity of production",
+   "about": []
+  },
+  {
+   "label": "10",
+   "title": "Production definitively discontinued",
+   "about": []
+  },
+  {
+   "label": "11",
+   "title": "Names and addresses of Technical Services and Type Approval Authorities",
+   "about": []
+  },
+  {
+   "label": "12",
+   "title": "Transitional provisions",
+   "about": []
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication form (approval granted/refused/extended/withdrawn)",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Arrangements of approval marks",
+   "about": [
+    "Approval mark"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Braking and deviation test (general conditions; test)",
+   "about": [
+    "Temporary-use spare unit",
+    "Braking test"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Test conditions and test method (run-flat related testing)",
+   "about": [
+    "Run-Flat Warning System",
+    "Flat tyre running mode",
+    "Run-flat tyre",
+    "Run-flat system"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Any spare wheel/tyre assembly on an M1/N1 vehicle that differs from the normal-use wheel/tyre in tyre type, wheel offset, tyre structure or wheel/tyre size designation is a temporary-use spare unit (Types 1-4) and brings the vehicle under R64.",
+  "A space-saver/compact spare, or a full-size spare with a different offset or size, triggers R64; a spare identical except for wheel material (steel vs alloy) and fixing nuts/bolts is a standard spare unit and does not.",
+  "Fitting run-flat (self-supporting) tyres, extended mobility tyres or a run-flat system (e.g. tyre plus support insert) as original equipment brings the vehicle under R64 as Type 5 temporary-use spare unit.",
+  "Vehicles with run-flat tyres/systems require a run-flat warning system informing the driver of flat tyre running mode; telltales/ECUs providing this function are relevant to R64 approval.",
+  "R64 approves the vehicle, not the tyre itself; tyre component approval (including run-flat and temporary-use spare tyres) is under UN R30, which R64 references for size and structure definitions.",
+  "Changes to suspension, braking system, drive configuration, axle loads, wheel offset or wheel/tyre size may create a new vehicle type under R64 and require re-testing of braking/deviation.",
+  "General tyre pressure monitoring (TPMS) is not part of this 03-series version; it is addressed under UN R141."
+ ],
+ "version": "3.1.0"
+}

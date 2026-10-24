@@ -1,0 +1,259 @@
+{
+ "regulation": "UN R32",
+ "title": "Uniform provisions concerning the approval of vehicles with regard to the behaviour of the structure of the impacted vehicle in a rear-end collision",
+ "subject_kind": "vehicle_system",
+ "scope_summary": "Approves a vehicle type with regard to the behaviour of the structure of the passenger compartment in a rear-end collision, verified by a rear impact test with a moving barrier or pendulum impactor. It applies to vehicles of category M1.",
+ "scope_quote": "This Regulation applies to vehicles of category M1 with regard to their behaviour in a rear-end collision.",
+ "vehicle_categories": [
+  "M1"
+ ],
+ "applies_to_components": [
+  "structure of the passenger compartment",
+  "part of the vehicle rearward of the transverse plane through the \"R\" point of the rearmost seat (structure, dimensions, lines, material)",
+  "lines and inside dimensions of the passenger compartment",
+  "engine siting (front, rear, centre) as a type-defining characteristic"
+ ],
+ "relation_to_other_regulations": [
+  "Vehicle category M1 as defined in Annex 7 to the Consolidated Resolution on the Construction of Vehicles (R.E.3), TRANS/WP.29/78/Rev.1/Amend.2",
+  "Annex 3 ('H' point and torso angle determination) refers to the SAE J826 3-D H machine for construction details",
+  "Approval mark may be combined with marks of other Regulations under which the vehicle is approved in the same country (para. 4.5)",
+  "Annex 4 para. 4 allows equivalent test methods as alternatives to the prescribed impact test",
+  "Original series 00; no replacement of other Regulations stated in the provided text"
+ ],
+ "defined_terms": [
+  {
+   "term": "transverse plane",
+   "label": "Transverse plane",
+   "definition": "A vertical plane perpendicular to the median longitudinal plane of the vehicle."
+  },
+  {
+   "term": "longitudinal plane",
+   "label": "Longitudinal plane",
+   "definition": "A plane parallel to the median longitudinal plane of the vehicle."
+  },
+  {
+   "term": "reference plane",
+   "label": "Vehicle reference plane",
+   "definition": "A plane related to the vehicle and horizontal when the vehicle at unladen kerb weight rests on a horizontal plane."
+  },
+  {
+   "term": "approval of a vehicle",
+   "label": "Approval of a vehicle",
+   "definition": "The approval of a vehicle type with regard to the behaviour of the structure of the passenger compartment in a rear-end collision."
+  },
+  {
+   "term": "vehicle type",
+   "label": "Vehicle type",
+   "definition": "Power-driven vehicles not differing in length and width, structure/dimensions/lines/material rearward of the transverse plane through the 'R' point of the rearmost seat, passenger-compartment lines and inside dimensions (as far as affecting the impact test), and engine siting."
+  },
+  {
+   "term": "passenger compartment",
+   "label": "Passenger compartment",
+   "definition": "The space for occupant accommodation bounded by the roof, floor, side walls, doors, outside glazing, front bulkhead and the plane of the rear compartment bulkhead or rear seat back support."
+  },
+  {
+   "term": "unladen kerb weight",
+   "label": "Unladen kerb weight",
+   "definition": "The weight of the vehicle in running order, unoccupied and unladen but complete with fuel, coolant, lubricant, tools and a spare wheel if provided as standard."
+  },
+  {
+   "term": "capacity of the fuel tank",
+   "label": "Capacity of the fuel tank",
+   "definition": "The fuel-tank capacity as specified by the manufacturer."
+  },
+  {
+   "term": "\"H\" point / \"R\" point",
+   "label": "H point and R point (Annex 3)",
+   "definition": "Seating reference points of the occupant/seat used to locate the rearmost seat position, determined with the 3-D H machine per Annex 3."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Moving barrier impactor test",
+   "distinguished_by": "Rear impact applied by a moving barrier carrying the impactor (Annex 4, 2.4)"
+  },
+  {
+   "name": "Pendulum impactor test",
+   "distinguished_by": "Rear impact applied by a pendulum carrying the impactor (Annex 4, 2.5)"
+  },
+  {
+   "name": "Equivalent test methods",
+   "distinguished_by": "Alternative methods accepted if equivalence is demonstrated (Annex 4, 4)"
+  },
+  {
+   "name": "Engine siting variants",
+   "distinguished_by": "Front, rear or centre engine position constitutes a different vehicle type"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "M1 vehicles",
+    "rear-end collision behaviour"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "transverse plane",
+    "longitudinal plane",
+    "reference plane",
+    "approval of a vehicle",
+    "vehicle type",
+    "passenger compartment",
+    "unladen kerb weight",
+    "capacity of the fuel tank"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "vehicle type",
+    "unladen kerb weight",
+    "drawings of rear part of the structure"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "approval number",
+    "approval mark",
+    "vehicle data plate"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Requirements",
+   "about": [
+    "passenger compartment",
+    "behaviour of the structure in rear impact"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Test",
+   "about": [
+    "rear impact test per Annex 4"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Modifications and extension of approval of the vehicle type",
+   "about": [
+    "vehicle type"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Conformity of production",
+   "about": [
+    "vehicle type"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Penalties for non-conformity of production",
+   "about": [
+    "approval withdrawal"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Production definitely discontinued",
+   "about": [
+    "approval"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Names and addresses of technical services and administrative departments",
+   "about": [
+    "administration"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication (approval form)",
+   "about": [
+    "vehicle type",
+    "approval"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Arrangements of approval marks",
+   "about": [
+    "approval mark"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Procedure for determining the 'H' point and actual torso angle for seating positions",
+   "about": [
+    "H point",
+    "R point",
+    "3-D H machine",
+    "vehicle measuring attitude",
+    "three-dimensional reference system"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Collision test procedure",
+   "about": [
+    "testing ground",
+    "impactor (striker)",
+    "moving barrier",
+    "pendulum",
+    "state of vehicle under test",
+    "unladen kerb weight",
+    "capacity of the fuel tank",
+    "results",
+    "equivalent test methods"
+   ]
+  },
+  {
+   "label": "Annex 4 2.2",
+   "title": "Impactor (striker)",
+   "about": [
+    "impactor"
+   ]
+  },
+  {
+   "label": "Annex 4 2.4",
+   "title": "Special provisions applicable where a moving barrier is used",
+   "about": [
+    "moving barrier"
+   ]
+  },
+  {
+   "label": "Annex 4 2.5",
+   "title": "Special provisions applicable where a pendulum is used",
+   "about": [
+    "pendulum"
+   ]
+  },
+  {
+   "label": "Annex 4 2.7",
+   "title": "State of vehicle under test",
+   "about": [
+    "unladen kerb weight",
+    "capacity of the fuel tank"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Approval is of the whole M1 vehicle type, not of a separate component; components are relevant only insofar as they affect rear-impact behaviour of the passenger compartment structure",
+  "Any change to structure, dimensions, lines or material rearward of the transverse plane through the 'R' point of the rearmost seat (e.g. rear body panels, rear cross-members, bumper beams, rear floor, tailgate, rear seat mounting position) can create a new vehicle type or require extension",
+  "Changes to passenger compartment inside dimensions, vehicle length/width, or engine position (front/rear/centre) also define the vehicle type",
+  "Rear seat position/back support matters because the 'R' point of the rearmost seat and the rear seat back plane bound the evaluated zone",
+  "Fuel tank fill state is part of the test vehicle condition, so rear-mounted fuel tanks and their surroundings are relevant to the test setup",
+  "Applies only to M1; other categories (N1, M2, etc.) are not covered"
+ ],
+ "version": "0.1.0"
+}

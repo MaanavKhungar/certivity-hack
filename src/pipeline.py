@@ -18,7 +18,7 @@ from regparse import Corpus, Node, paragraph_key
 MODEL = "claude-opus-5-5"
 WORK = Path(__file__).resolve().parent
 ROOT = WORK.parent
-PKG = ROOT / "package"
+PKG = ROOT / "package" if (ROOT / "package").exists() else ROOT.parent / "industrial-ai-hackathon"   # repo-local or sibling clone
 CACHE = WORK / "cache"
 RUNS = ROOT / "runs"
 
@@ -40,10 +40,11 @@ def call_json(system: str, user_content, schema: dict, *, max_tokens: int = 1600
         return json.loads(cp.read_text())["result"]
     client = _client()
     t = time.time()
-    with client.messages.stream(
+    with client.beta.messages.stream(
         model=MODEL, max_tokens=max_tokens,
         system=[{"type": "text", "text": system, "cache_control": {"type": "ephemeral"}}],
         output_config={"effort": effort, "format": {"type": "json_schema", "schema": schema}},
+        betas=["server-side-fallback-2026-07-01"], fallbacks="default",   # re-run on a fallback model if declined
         messages=[{"role": "user", "content": user_content}],
     ) as stream:
         msg = stream.get_final_message()

@@ -1,0 +1,430 @@
+{
+ "regulation": "UN R101",
+ "title": "Uniform provisions concerning the approval of passenger cars powered by an internal combustion engine only, or powered by a hybrid electric power train with regard to the measurement of the emission of carbon dioxide and fuel consumption and/or the measurement of electric energy consumption and electric range, and of categories M1 and N1 vehicles powered by an electric power train only with regard to the measurement of electric energy consumption and electric range (CO2 emission/fuel consumption)",
+ "subject_kind": "vehicle_system",
+ "scope_summary": "Approves vehicle types with regard to the measurement of CO2 emissions and fuel consumption and/or electric energy consumption and electric range, covering ICE-only, hybrid electric and pure electric power trains. It applies to M1 and N1 vehicles, except N1 vehicles whose engine type is approved under R49 when the manufacturer's worldwide annual N1 production is below 2,000 units.",
+ "scope_quote": "This Regulation applies to vehicles of categories M1 and N1 with regard to: (a) the measurement of the emission of carbon dioxide (CO2) and fuel consumption and/or to the measurement of electric energy consumption and electric range of vehicles powered by an internal combustion engine only or by a hybrid electric power train, (b) and to the measurement of electric energy consumption and electric range of vehicles powered by an electric power train only. It does not apply to a category N1 vehicle if both: (a) the engine type fitted to that type of vehicle has received type-approval pursuant to Regulation No. 49, and (b) the total annual worldwide production of N1 vehicles of the manufacturer is less than 2,000 units.",
+ "vehicle_categories": [
+  "M1",
+  "N1"
+ ],
+ "applies_to_components": [
+  "power train",
+  "internal combustion engine",
+  "electric power train",
+  "hybrid electric power train",
+  "traction battery / energy storage device (REESS)",
+  "electric machines",
+  "power controller",
+  "power train control unit",
+  "transmission",
+  "charger (on-board/portable)",
+  "tyres and wheels",
+  "periodically regenerating system (anti-pollution device, e.g. catalytic converter, particulate trap)",
+  "cold start device",
+  "starting aid",
+  "operating mode switch (HEV)"
+ ],
+ "relation_to_other_regulations": [
+  "N1 vehicles whose engine type is type-approved under UN Regulation No. 49 are excluded if the manufacturer's worldwide annual N1 production is below 2,000 units.",
+  "For M1 and N1 vehicles type-approved for emissions under UN Regulation No. 83, the technical service checks during the test that ICE or hybrid vehicles conform to the R83 limit values.",
+  "Vehicle categories as defined in Annex 7 to the Consolidated Resolution on the Construction of Vehicles (R.E.3).",
+  "Approval numbers currently indicate the 01 series of amendments."
+ ],
+ "defined_terms": [
+  {
+   "term": "Approval of a vehicle",
+   "label": "2.1",
+   "definition": "The approval of a vehicle type with regard to the measurement of energy consumption (fuel or electric energy)."
+  },
+  {
+   "term": "Vehicle type",
+   "label": "2.2",
+   "definition": "A category of power driven vehicles which do not differ in essential respects such as body, power train, transmission, traction battery (if applicable), tyres and unladen mass."
+  },
+  {
+   "term": "Unladen mass",
+   "label": "2.3",
+   "definition": "Mass of the vehicle in running order without crew, passengers or load, but with full fuel tank, cooling liquid, service and traction batteries, oils, onboard/portable charger, tools and spare wheel as applicable."
+  },
+  {
+   "term": "Reference mass",
+   "label": "2.4",
+   "definition": "The unladen mass of the vehicle increased by a uniform figure of 100 kg."
+  },
+  {
+   "term": "Maximum mass",
+   "label": "2.5",
+   "definition": "The technically permissible maximum mass declared by the manufacturer."
+  },
+  {
+   "term": "Test mass",
+   "label": "2.6",
+   "definition": "For pure electric vehicles, the reference mass for M1 vehicles and the unladen mass plus half the full load for N1 vehicles."
+  },
+  {
+   "term": "Lorry",
+   "label": "2.7",
+   "definition": "A motor vehicle of category N1 designed and constructed exclusively or principally for conveying goods."
+  },
+  {
+   "term": "Van",
+   "label": "2.8",
+   "definition": "A lorry with the cab integrated into the body."
+  },
+  {
+   "term": "Cold start device",
+   "label": "2.9",
+   "definition": "A device which enriches the air/fuel mixture of the engine temporarily, to assist starting."
+  },
+  {
+   "term": "Starting aid",
+   "label": "2.10",
+   "definition": "A device which assists engine starting without enrichment of the air/fuel mixture, e.g. glow plug, changed injection timing."
+  },
+  {
+   "term": "Power train",
+   "label": "2.11",
+   "definition": "The system of energy storage device(s), energy converter(s) and transmission(s) that converts stored energy to mechanical energy delivered at the wheels for propulsion."
+  },
+  {
+   "term": "Internal combustion engine vehicle",
+   "label": "2.12",
+   "definition": "Vehicle powered by an internal combustion engine only."
+  },
+  {
+   "term": "Electric power train",
+   "label": "2.13",
+   "definition": "A system of one or more electric energy storage devices, electric power conditioning devices and electric machines converting stored electric energy to mechanical energy at the wheels for propulsion."
+  },
+  {
+   "term": "Pure electric vehicle",
+   "label": "2.14",
+   "definition": "Vehicle powered by an electric power train only."
+  },
+  {
+   "term": "Hybrid power train",
+   "label": "2.15",
+   "definition": "A power train with at least two different energy converters and two different on-board energy storage systems for vehicle propulsion."
+  },
+  {
+   "term": "Hybrid electric power train",
+   "label": "2.15.1",
+   "definition": "A power train that draws propulsion energy from both a consumable fuel and an on-vehicle electrical energy/power storage device (e.g. battery, capacitor, flywheel/generator)."
+  },
+  {
+   "term": "OVC range",
+   "label": "2.16",
+   "definition": "Total distance covered during complete combined cycles until the energy from external charging of the battery (or other electric energy storage device) is depleted, measured per Annex 9."
+  },
+  {
+   "term": "Hybrid vehicle (HV)",
+   "label": "2.17",
+   "definition": "A vehicle powered by a hybrid power train."
+  },
+  {
+   "term": "Hybrid electric vehicle (HEV)",
+   "label": "2.17.1",
+   "definition": "A vehicle, including those using fuel only to recharge the electrical storage device, that draws propulsion energy from both a consumable fuel and an electrical energy/power storage device."
+  },
+  {
+   "term": "Electric range",
+   "label": "2.18",
+   "definition": "For pure electric vehicles or OVC hybrids, the distance that can be driven electrically on one fully charged battery (or other storage device), measured per Annexes 7 and 9."
+  },
+  {
+   "term": "Periodically regenerating system",
+   "label": "2.19",
+   "definition": "An anti-pollution device (e.g. catalytic converter, particulate trap) requiring a periodical regeneration process in less than 4,000 km of normal operation."
+  },
+  {
+   "term": "Flex fuel H2NG vehicle",
+   "label": "2.20",
+   "definition": "A flex fuel vehicle that can run on different mixtures of hydrogen and NG/biomethane."
+  },
+  {
+   "term": "Hydrogen fuel cell vehicle",
+   "label": "2.21",
+   "definition": "A vehicle powered by a fuel cell converting chemical energy from hydrogen into electric energy for propulsion."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Internal combustion engine vehicle",
+   "distinguished_by": "Powered by ICE only; CO2 and fuel consumption measured per 5.2 / Annex 6; info doc Annex 1"
+  },
+  {
+   "name": "Pure electric vehicle",
+   "distinguished_by": "Powered by electric power train only; electric energy consumption and range per 5.3 / Annex 7; info doc Annex 2"
+  },
+  {
+   "name": "Hybrid electric vehicle",
+   "distinguished_by": "Hybrid electric power train; tested per 5.4 / Annex 8; info doc Annex 3"
+  },
+  {
+   "name": "OVC HEV without operating mode switch",
+   "distinguished_by": "Externally chargeable, no mode switch (Annex 8 section 3)"
+  },
+  {
+   "name": "OVC HEV with operating mode switch",
+   "distinguished_by": "Externally chargeable, with mode switch (Annex 8 section 4)"
+  },
+  {
+   "name": "NOVC HEV without operating mode switch",
+   "distinguished_by": "Not externally chargeable, no mode switch (Annex 8 section 5)"
+  },
+  {
+   "name": "NOVC HEV with operating mode switch",
+   "distinguished_by": "Not externally chargeable, with mode switch (Annex 8 section 6)"
+  },
+  {
+   "name": "Vehicles with periodically regenerating systems",
+   "distinguished_by": "Anti-pollution device regenerating in less than 4,000 km; special procedure per Annex 10"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "M1",
+    "N1",
+    "Internal combustion engine vehicle",
+    "Pure electric vehicle",
+    "Hybrid electric vehicle"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Vehicle type",
+    "Power train",
+    "Electric power train",
+    "Hybrid electric power train",
+    "Electric range",
+    "Periodically regenerating system"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "Vehicle type",
+    "R83 limit check"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "Approval mark",
+    "Approval number"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Specifications and tests",
+   "about": [
+    "Power train"
+   ]
+  },
+  {
+   "label": "5.2",
+   "title": "Description of tests for vehicles powered by an internal combustion engine only",
+   "about": [
+    "Internal combustion engine vehicle"
+   ]
+  },
+  {
+   "label": "5.3",
+   "title": "Description of tests for vehicles powered by an electric power train only",
+   "about": [
+    "Pure electric vehicle",
+    "Electric power train"
+   ]
+  },
+  {
+   "label": "5.4",
+   "title": "Description of tests for vehicles powered by a hybrid electric power train",
+   "about": [
+    "Hybrid electric vehicle",
+    "Hybrid electric power train"
+   ]
+  },
+  {
+   "label": "5.5",
+   "title": "Interpretation of results",
+   "about": [
+    "CO2 and energy consumption results"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Modification and extension of approval of the approved type",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Conditions of extension of the type approval for vehicle type",
+   "about": [
+    "Internal combustion engine vehicle",
+    "Pure electric vehicle",
+    "Hybrid electric vehicle",
+    "Vehicle families"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Special provisions",
+   "about": [
+    "Energy efficient technologies"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Conformity of production",
+   "about": [
+    "CoP"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Penalties for nonconformity of production",
+   "about": [
+    "CoP"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Production definitely discontinued",
+   "about": [
+    "Procedural"
+   ]
+  },
+  {
+   "label": "12",
+   "title": "Names and addresses of technical services and administrative departments",
+   "about": [
+    "Procedural"
+   ]
+  },
+  {
+   "label": "13",
+   "title": "Transitional provisions",
+   "about": [
+    "Procedural"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Essential characteristics of vehicles powered by an internal combustion engine only",
+   "about": [
+    "Internal combustion engine vehicle",
+    "Power train control unit",
+    "Transmission",
+    "Tyres and wheels"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Essential characteristics of vehicles powered by an electric power train",
+   "about": [
+    "Pure electric vehicle",
+    "Electric power train",
+    "Power controller",
+    "Charger",
+    "Tyres and wheels"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Essential characteristics of vehicles powered by a hybrid electric power train",
+   "about": [
+    "Hybrid electric vehicle",
+    "Internal combustion engine",
+    "Traction battery / energy storage device",
+    "Electric machines",
+    "Power controller",
+    "Transmission"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Communication (approval form)",
+   "about": [
+    "Vehicle type",
+    "Pure electric vehicle",
+    "Hybrid electric vehicle",
+    "Traction battery"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Arrangements of approval marks",
+   "about": [
+    "Approval mark"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Method of measuring CO2 emissions and fuel consumption of vehicles powered by an internal combustion engine only",
+   "about": [
+    "Internal combustion engine vehicle",
+    "CO2",
+    "Fuel consumption"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Method of measuring electric energy consumption and range of vehicles powered by an electric power train only",
+   "about": [
+    "Pure electric vehicle",
+    "Electric range",
+    "NEDC test cycle",
+    "Road load",
+    "REESS current and voltage"
+   ]
+  },
+  {
+   "label": "Annex 8",
+   "title": "Method of measuring CO2 emissions, fuel consumption and electric energy consumption of vehicles powered by a hybrid electric power train",
+   "about": [
+    "Hybrid electric vehicle",
+    "OVC HEV",
+    "NOVC HEV",
+    "Operating mode switch",
+    "REESS state of charge"
+   ]
+  },
+  {
+   "label": "Annex 9",
+   "title": "Method of measuring the electric range of vehicles powered by an electric power train or a hybrid electric power train and the OVC range",
+   "about": [
+    "Electric range",
+    "OVC range",
+    "Pure electric vehicle",
+    "Hybrid electric vehicle"
+   ]
+  },
+  {
+   "label": "Annex 10",
+   "title": "Emissions test procedure for a vehicle equipped with a periodically regenerating system",
+   "about": [
+    "Periodically regenerating system"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "This is a whole-vehicle approval (M1/N1); individual components are not approved under R101, but any power train component (engine, transmission, battery, electric machine, power controller, charger, tyres) is part of the vehicle type and a change may require extension (sections 6-7).",
+  "Tyres, body, transmission, traction battery and unladen mass are criteria defining the vehicle type, so changes to these may require a new approval or extension.",
+  "Anti-pollution devices like catalytic converters or particulate filters that regenerate within 4,000 km trigger the Annex 10 periodically regenerating system procedure.",
+  "Onboard and portable chargers are counted in unladen mass, affecting reference/test mass and thus inertia class.",
+  "Pure electric N1 and M1 vehicles fall under R101 for electric energy consumption and range even without fuel consumption.",
+  "Small-volume N1 manufacturers (<2,000/year worldwide) using R49-approved engines are excluded.",
+  "Hybrids are categorised by off-vehicle charging capability and presence of an operating mode switch, which determines the Annex 8 test procedure."
+ ],
+ "version": "1.12.0"
+}

@@ -1,0 +1,260 @@
+{
+ "regulation": "UN R40",
+ "title": "Uniform provisions concerning the approval of motor cycles equipped with a positive-ignition engine with regard to the emission of gaseous pollutants by the engine (version 1.1.0, 01 series of amendments)",
+ "subject_kind": "vehicle_system",
+ "scope_summary": "Approves vehicle types with regard to the limitation of gaseous pollutants (CO, HC, NOx) emitted from their positive-ignition engines, verified by a type-I urban driving cycle test and a type-II idle CO test. It applies to vehicles of categories L3, L4 and L5 (motorcycles, motorcycles with sidecar and motor tricycles) with positive-ignition engines.",
+ "scope_quote": "This Regulation applies to the emission of gaseous pollutants from positive-ignition engines of vehicles of categories L3, L4 and L5.",
+ "vehicle_categories": [
+  "L3",
+  "L4",
+  "L5"
+ ],
+ "applies_to_components": [
+  "positive-ignition engine (four-stroke or two-stroke) of the vehicle",
+  "engine crank-case",
+  "additional anti-pollution devices",
+  "exhaust gas emissions of carbon monoxide, hydrocarbons and nitrogen oxides",
+  "gearbox (as vehicle characteristic used in test)",
+  "vehicle reference weight / equivalent inertia"
+ ],
+ "relation_to_other_regulations": [
+  "Vehicle categories L3, L4 and L5 as defined in Annex 7 to the Consolidated Resolution on the Construction of Vehicles (R.E.3), TRANS/WP.29/78/Rev.1/Amend.2 as amended by Amend.4",
+  "Approval mark may be combined with marks of other Regulations annexed to the 1958 Agreement under which the vehicle is approved (para. 4.5)",
+  "Approval numbers begin with 01, corresponding to the 01 series of amendments in force since 31 May 1988"
+ ],
+ "defined_terms": [
+  {
+   "term": "approval_of_a_vehicle",
+   "label": "Approval of a vehicle",
+   "definition": "The approval of a vehicle type with regard to the limitation of the emission of gaseous pollutants from the engine."
+  },
+  {
+   "term": "vehicle_type",
+   "label": "Vehicle type",
+   "definition": "A category of power-driven vehicles which do not differ in essential respects such as the equivalent inertia determined from the reference weight and the engine and vehicle characteristics defined in Annex 1 items 1-6 and 8 and Annex 2."
+  },
+  {
+   "term": "reference_weight",
+   "label": "Reference weight",
+   "definition": "The weight of the vehicle in running order (total unladen weight with all tanks full) increased by a uniform figure of 75 kg."
+  },
+  {
+   "term": "engine_crank_case",
+   "label": "Engine crank-case",
+   "definition": "The spaces in or external to an engine which are connected to the oil sump by internal or external ducts through which gases and vapours can escape."
+  },
+  {
+   "term": "gaseous_pollutants",
+   "label": "Gaseous pollutants",
+   "definition": "Carbon monoxide, hydrocarbons and nitrogen oxides, the last expressed in nitrogen dioxide (NO2) equivalent."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Type I test",
+   "distinguished_by": "Verification of average emission of gaseous pollutants in a congested urban area over a dynamometer operating cycle (Annex 4)"
+  },
+  {
+   "name": "Type II test",
+   "distinguished_by": "Verification of carbon monoxide emission at idling speed (Annex 5)"
+  },
+  {
+   "name": "Four-stroke / two-stroke engines",
+   "distinguished_by": "Engine cycle declared in Annex 1 item 1.3"
+  },
+  {
+   "name": "Reference weight / equivalent inertia classes",
+   "distinguished_by": "Vehicle reference weight determines equivalent inertia setting on the dynamometer (Annex 4 para. 5.2) and limit values; basis for extension to vehicle types of different reference weights (para. 7.1)"
+  },
+  {
+   "name": "Vehicle categories L3, L4, L5",
+   "distinguished_by": "Two-wheeled motorcycle, motorcycle with sidecar, motor tricycle per R.E.3"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "gaseous_pollutants",
+    "vehicle_type"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "approval_of_a_vehicle",
+    "vehicle_type",
+    "reference_weight",
+    "engine_crank_case",
+    "gaseous_pollutants"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "vehicle_type",
+    "approval_of_a_vehicle"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "approval_of_a_vehicle",
+    "approval mark",
+    "vehicle_type"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Specifications and tests",
+   "about": [
+    "gaseous_pollutants",
+    "engine_crank_case"
+   ]
+  },
+  {
+   "label": "5.2",
+   "title": "Description of tests",
+   "about": [
+    "Type I test",
+    "Type II test",
+    "gaseous_pollutants",
+    "reference_weight"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Modifications of the vehicle type",
+   "about": [
+    "vehicle_type"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Extension of approval",
+   "about": [
+    "vehicle_type",
+    "reference_weight"
+   ]
+  },
+  {
+   "label": "7.1",
+   "title": "Vehicle types of different reference weights",
+   "about": [
+    "reference_weight",
+    "vehicle_type"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Conformity of production",
+   "about": [
+    "gaseous_pollutants",
+    "vehicle_type"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Penalties for non-conformity of production",
+   "about": [
+    "approval_of_a_vehicle"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Production definitely discontinued",
+   "about": [
+    "approval_of_a_vehicle"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Names and addresses of technical services and administrative departments",
+   "about": [
+    "approval_of_a_vehicle"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Essential characteristics of the engine and information concerning the conduct of tests",
+   "about": [
+    "vehicle_type",
+    "engine cycle four-stroke/two-stroke",
+    "bore, stroke, cylinder capacity",
+    "additional anti-pollution devices",
+    "engine_crank_case"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Communication concerning approval/refusal of a vehicle type",
+   "about": [
+    "vehicle_type",
+    "unladen and maximum weight",
+    "gearbox",
+    "reference fuel"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Arrangements of the approval mark",
+   "about": [
+    "approval mark"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Type I test (average emission of gaseous pollutants in a congested urban area)",
+   "about": [
+    "Type I test",
+    "gaseous_pollutants",
+    "reference_weight",
+    "operating cycle",
+    "use of gearbox",
+    "gas sampling and volume measuring",
+    "dynamometer brake setting",
+    "vehicle conditioning"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Type II test (carbon monoxide emission at idling speed)",
+   "about": [
+    "Type II test",
+    "gaseous_pollutants",
+    "idling",
+    "exhaust gas sampling"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Specifications of the reference fuel",
+   "about": [
+    "reference fuel for positive-ignition engines"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Method of calibrating the power absorbed by the dynamometer",
+   "about": [
+    "chassis dynamometer calibration",
+    "inertia simulation",
+    "reference_weight"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "This is a whole-vehicle emissions approval: engines, exhaust systems, catalysts, carburettors/fuel injection, ignition or 'additional anti-pollution devices' are not approved separately but fall under it as part of the vehicle type; changing them may constitute a modification of the vehicle type (para. 6) requiring retest or extension.",
+  "Only positive-ignition (spark-ignition, petrol/gasoline) engines are covered; compression-ignition engined L-category vehicles are outside scope.",
+  "Only categories L3, L4 and L5 are covered; mopeds (L1, L2) and quadricycles (L6/L7) are not within this scope.",
+  "A change of engine characteristics listed in Annex 1 items 1-6 and 8 (e.g. cycle, bore, stroke, cylinder capacity, anti-pollution devices) or of the reference weight/equivalent inertia class creates a different vehicle type.",
+  "Crank-case ventilation design is relevant since the engine crank-case is defined and its gases count as potential pollutant sources.",
+  "Two-stroke as well as four-stroke engines are covered.",
+  "Approval mark is affixed on the vehicle, close to or on the manufacturer's vertical data plate."
+ ],
+ "version": "1.1.0"
+}

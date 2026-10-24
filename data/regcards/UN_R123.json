@@ -1,0 +1,493 @@
+{
+ "regulation": "UN R123",
+ "title": "Uniform provisions concerning the approval of adaptive front-lighting systems (AFS) for motor vehicles",
+ "subject_kind": "component",
+ "scope_summary": "The regulation approves adaptive front-lighting systems (AFS) as lighting devices. An AFS is the system control, any supply and operating devices, and the left and right installation units, which automatically adapt the passing beam (classes C, V, E, W), and optionally the main/driving beam, including adaptive driving beam and bending modes. It covers AFS intended for motor vehicles of categories M and N1.",
+ "scope_quote": "This Regulation applies to adaptive front-lighting systems (AFS) for motor vehicles of categories M and N1.",
+ "vehicle_categories": [
+  "M",
+  "N1"
+ ],
+ "applies_to_components": [
+  "adaptive front-lighting system (AFS)",
+  "system control",
+  "supply and operating device(s) (e.g. electronic light source control gear)",
+  "installation units (lamp bodies) of right and left side",
+  "lighting units",
+  "passing beam (dipped beam) classes C, V, E, W",
+  "main beam (driving beam), including adaptive driving beam",
+  "bending modes (category 1 and category 2)",
+  "traffic-change function",
+  "substitute function",
+  "lenses and coatings (incl. plastic material lenses)",
+  "LED modules and electronic light source control gear",
+  "replaceable/non-replaceable filament and gas-discharge light sources used in the system",
+  "signal generators for system tests"
+ ],
+ "relation_to_other_regulations": [
+  "Definitions of UN Regulation No. 48 (series in force at the time of application) apply (para 1.1); classes and AFS control signals are defined jointly with R48.",
+  "Installation of AFS on vehicles is governed by R48, in particular para 6.22; a system not approved as part of a vehicle type under R48 must document capability to comply with R48 para 6.22 (para 4.1.7.1).",
+  "A system not intended to be included in a vehicle type approval under R48 shall also be approved according to UN Regulation No. 10 (EMC) (para 4.1.7.2).",
+  "Standard (étalon) filament lamps and gas-discharge light sources refer to UN Regulations No. 37 and No. 99; light source categories used must be listed in R37 or R99 (paras 1.21, 2.1.4).",
+  "Lamps grouped, combined or reciprocally incorporated with the AFS lighting units (other front-lighting or front light-signalling functions) are approved separately under their own Regulations; a single approval mark may be used (paras 2.1.1.1, 4.1.2, 4.3.2).",
+  "Vehicle categories M and N1 as defined in R.E.3 (Consolidated Resolution on the Construction of Vehicles)."
+ ],
+ "defined_terms": [
+  {
+   "term": "Adaptive front-lighting system",
+   "label": "1.2",
+   "definition": "A lighting device providing beams with differing characteristics for automatic adaptation of the passing beam and, if applicable, the main beam to varying conditions of use, consisting of the system control, any supply and operating device(s) and the right- and left-side installation units."
+  },
+  {
+   "term": "Class",
+   "label": "1.3",
+   "definition": "Designation of a passing beam (C, V, E or W), identified by particular provisions of this Regulation and R48: C basic, V lit areas/towns, E motorways, W adverse conditions such as wet road."
+  },
+  {
+   "term": "Mode",
+   "label": "1.4",
+   "definition": "A beam within the provisions of paras 6.2/6.3 for one passing beam class or the main beam, designed by the manufacturer for adaptation to dedicated vehicle and ambient conditions."
+  },
+  {
+   "term": "Bending mode",
+   "label": "1.4.1",
+   "definition": "A mode of a front-lighting function whose illumination is laterally moved or modified for bends, curves or intersections, identified by particular photometric provisions."
+  },
+  {
+   "term": "Category 1 bending mode",
+   "label": "1.4.2",
+   "definition": "A bending mode with horizontal movement of the kink of the cut-off."
+  },
+  {
+   "term": "Category 2 bending mode",
+   "label": "1.4.3",
+   "definition": "A bending mode without horizontal movement of the kink of the cut-off."
+  },
+  {
+   "term": "Lighting unit",
+   "label": "1.5",
+   "definition": "A light-emitting part of the system, possibly of optical, mechanical and electrical components, designed to provide or contribute to the beam of one or more front-lighting functions."
+  },
+  {
+   "term": "Installation unit",
+   "label": "1.6",
+   "definition": "An indivisible housing (lamp body) containing one or more lighting units."
+  },
+  {
+   "term": "Right side / left side",
+   "label": "1.7",
+   "definition": "The combined total of the lighting units intended to be installed on that side of the vehicle's longitudinal median plane, relative to forward motion."
+  },
+  {
+   "term": "System control",
+   "label": "1.8",
+   "definition": "The part(s) of the system receiving signals from the vehicle and automatically controlling the operation of the lighting units."
+  },
+  {
+   "term": "Neutral state",
+   "label": "1.9",
+   "definition": "The state in which a defined mode of the class C passing beam or of the main beam, if any, at maximum activation is produced and no AFS control signal applies."
+  },
+  {
+   "term": "Signal",
+   "label": "1.10",
+   "definition": "Any AFS control signal as defined in R48, any additional control input to the system, or a control output from the system to the vehicle."
+  },
+  {
+   "term": "Signal generator",
+   "label": "1.11",
+   "definition": "A device reproducing one or more of the signals for system tests."
+  },
+  {
+   "term": "Supply and operating device",
+   "label": "1.12",
+   "definition": "One or more system components providing power to parts of the system, including power/voltage controls for light sources such as electronic light source control gears."
+  },
+  {
+   "term": "System reference axis",
+   "label": "1.13",
+   "definition": "The intersection of the vehicle's longitudinal median plane with the horizontal plane through the centre of reference of one specified lighting unit."
+  },
+  {
+   "term": "Lens",
+   "label": "1.14",
+   "definition": "The outermost component of an installation unit, which transmits light through the illuminating surface."
+  },
+  {
+   "term": "Coating",
+   "label": "1.15",
+   "definition": "Any product(s) applied in one or more layers to the outer face of a lens."
+  },
+  {
+   "term": "Systems of different types",
+   "label": "1.16",
+   "definition": "Systems differing in trade name/mark (by manufacturer), components altering optical/photometric properties, traffic side suitability, functions/modes/classes produced, or signal characteristics."
+  },
+  {
+   "term": "Traffic-change function",
+   "label": "1.19",
+   "definition": "Any front-lighting function, mode or part thereof intended to avoid glare and give sufficient illumination when a vehicle with a system for one traffic direction is temporarily used in a country with opposite traffic."
+  },
+  {
+   "term": "Substitute function",
+   "label": "1.20",
+   "definition": "Any specified front-lighting and/or front light-signalling function, mode or part thereof intended to replace a front-lighting function/mode in case of failure."
+  },
+  {
+   "term": "LED module specific identification code",
+   "label": "3.5.2",
+   "definition": "Marking on LED modules beginning with 'MD' followed by the approval marking without circle and, where several non-identical modules are used, additional symbols."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Class C passing beam (basic passing beam)",
+   "distinguished_by": "Mandatory basic passing beam; symbol 'C'"
+  },
+  {
+   "name": "Class V passing beam",
+   "distinguished_by": "For lit areas such as towns; symbol 'V'"
+  },
+  {
+   "name": "Class E passing beam",
+   "distinguished_by": "For motorway-type roads; symbol 'E'; additional data sets per Table 6 of Annex 3"
+  },
+  {
+   "name": "Class W passing beam",
+   "distinguished_by": "For adverse conditions such as wet road; symbol 'W'; sets of provisions in Annex 3"
+  },
+  {
+   "name": "Main beam / driving beam",
+   "distinguished_by": "Optional function; symbol 'R'; reference mark for maximum luminous intensity"
+  },
+  {
+   "name": "Adaptive driving beam",
+   "distinguished_by": "Gradual adaptation of the driving beam with a sensor system (para 2.1.7, 2.2.2(l))"
+  },
+  {
+   "name": "Category 1 bending mode",
+   "distinguished_by": "Horizontal movement of the cut-off kink; symbol 'T' for bend lighting"
+  },
+  {
+   "name": "Category 2 bending mode",
+   "distinguished_by": "No horizontal movement of the cut-off kink; symbol 'T'"
+  },
+  {
+   "name": "Traffic direction variants",
+   "distinguished_by": "Right-hand traffic, left-hand traffic only (arrow), or both (double arrow, R/D and L/G markings)"
+  },
+  {
+   "name": "Plastic lens installation unit",
+   "distinguished_by": "Lens of plastic material, marked 'PL', subject to Annex 6"
+  },
+  {
+   "name": "Light source technology",
+   "distinguished_by": "Filament lamps (R37), gas-discharge light sources (R99) or LED modules (Annex 11), replaceable or non-replaceable"
+  },
+  {
+   "name": "6/12 V only installation unit",
+   "distinguished_by": "Meets Annex 4 only at 6 V or 12 V; crossed-out '24' symbol"
+  }
+ ],
+ "sections": [
+  {
+   "label": "Scope",
+   "title": "Scope",
+   "about": [
+    "Adaptive front-lighting system",
+    "M and N1 vehicles"
+   ]
+  },
+  {
+   "label": "1",
+   "title": "Definitions",
+   "about": [
+    "Adaptive front-lighting system",
+    "Class",
+    "Mode",
+    "Bending mode",
+    "Lighting unit",
+    "Installation unit",
+    "System control",
+    "Supply and operating device",
+    "Lens",
+    "Coating",
+    "Traffic-change function",
+    "Substitute function",
+    "Systems of different types"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Application for approval of a system",
+   "about": [
+    "front-lighting functions and modes",
+    "grouped/combined lamps",
+    "adjustable lighting units",
+    "light sources and LED modules",
+    "adaptive driving beam",
+    "safety concept (FMEA/FTA)",
+    "supply and operating device",
+    "plastic lens samples",
+    "UV-emitting light sources"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Markings",
+   "about": [
+    "Installation unit",
+    "Lens",
+    "R/D and L/G markings",
+    "LED module specific identification code",
+    "electronic light source control gear marking"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "approval number",
+    "approval mark symbols X, C, V, E, W, R, T, PL",
+    "Installation unit",
+    "standalone system needing R10 and R48 6.22 documentation"
+   ]
+  },
+  {
+   "label": "4.1",
+   "title": "General",
+   "about": [
+    "grant of approval",
+    "grouped/combined/reciprocally incorporated lamps",
+    "vehicles for which system is intended",
+    "systems not part of R48 vehicle approval"
+   ]
+  },
+  {
+   "label": "4.3",
+   "title": "Arrangement of the approval mark",
+   "about": [
+    "independent lamps",
+    "grouped, combined or reciprocally incorporated lamps",
+    "complete system marks"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "General specifications",
+   "about": [
+    "system safety",
+    "failure / Substitute function",
+    "Traffic-change function",
+    "adjustment and aiming",
+    "Neutral state"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Illumination",
+   "about": [
+    "photometric requirements",
+    "passing beam classes",
+    "main beam",
+    "Bending mode"
+   ]
+  },
+  {
+   "label": "6.1",
+   "title": "General provisions",
+   "about": [
+    "minimum functional content of the system",
+    "Class C passing beam"
+   ]
+  },
+  {
+   "label": "6.2",
+   "title": "Passing beam provisions (referenced in para 1.4)",
+   "about": [
+    "Class",
+    "Mode",
+    "Bending mode",
+    "minimum passing beam illumination",
+    "cut-off"
+   ]
+  },
+  {
+   "label": "6.3",
+   "title": "Main beam provisions (referenced in para 1.4)",
+   "about": [
+    "main beam / driving beam",
+    "reference mark for maximum intensity",
+    "adaptive driving beam"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Colour",
+   "about": [
+    "colour of emitted light"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Modification of the system type and extension of approval",
+   "about": [
+    "Systems of different types"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Conformity of production",
+   "about": [
+    "COP procedures"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Penalties for non-conformity of production",
+   "about": []
+  },
+  {
+   "label": "11",
+   "title": "Production definitely discontinued",
+   "about": []
+  },
+  {
+   "label": "12",
+   "title": "Names and addresses of Technical Services and Type Approval Authorities",
+   "about": []
+  },
+  {
+   "label": "13",
+   "title": "Transitional provisions",
+   "about": []
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication form",
+   "about": [
+    "approval communication",
+    "vehicles for which the system is intended as original equipment"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Examples of arrangements of approval marks",
+   "about": [
+    "approval mark",
+    "Installation unit",
+    "grouped/combined lamps",
+    "complete system"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Photometric requirements for passing beam and driving beam",
+   "about": [
+    "Class C, V, E, W passing beam",
+    "Table 6 class E data sets",
+    "class W provisions",
+    "main beam",
+    "Bending mode"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Tests on complete systems",
+   "about": [
+    "stability of photometric performance",
+    "vertical cut-off shift under heat"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Minimum requirements for conformity of production control procedures",
+   "about": [
+    "manufacturer COP verification",
+    "test methods"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Requirements for systems incorporating lenses of plastic material",
+   "about": [
+    "Lens",
+    "Coating",
+    "temperature change",
+    "atmospheric/chemical agents",
+    "detergents and hydrocarbons",
+    "mechanical deterioration",
+    "coating adherence",
+    "UV resistance"
+   ]
+  },
+  {
+   "label": "Annex 6 Appendix 1-4",
+   "title": "Chronological order of approval tests, diffusion/transmission measurement, spray testing, adhesive tape adherence test",
+   "about": [
+    "plastic material lenses",
+    "Coating"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Minimum requirements for sampling by an inspector",
+   "about": [
+    "first and repeated sampling",
+    "change of vertical cut-off position for passing beam"
+   ]
+  },
+  {
+   "label": "Annex 8",
+   "title": "Definition and sharpness of the cut-off line and aiming procedure",
+   "about": [
+    "cut-off",
+    "visual aiming",
+    "vertical and horizontal adjustment"
+   ]
+  },
+  {
+   "label": "Annex 9",
+   "title": "Photometric measurement conditions",
+   "about": [
+    "light source measurement conditions",
+    "Bending mode measurement conditions",
+    "input voltages"
+   ]
+  },
+  {
+   "label": "Annex 10",
+   "title": "AFS description form",
+   "about": [
+    "Lighting unit",
+    "Signal",
+    "functions and modes per lighting unit"
+   ]
+  },
+  {
+   "label": "Annex 11",
+   "title": "Requirements for LED modules and AFS including LED modules",
+   "about": [
+    "LED module",
+    "electronic light source control gear",
+    "colour rendering",
+    "UV radiation",
+    "temperature stability",
+    "objective luminous flux for class C passing beam"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Any front lamp providing an automatically adapting passing beam (e.g. bending/cornering by swivel or additional lighting units, town/motorway/wet modes) is an AFS under R123 rather than a conventional headlamp regulation.",
+  "The system control (ECU receiving vehicle signals and controlling lighting units) is part of the approved system, so headlamp control modules for AFS fall under R123 approval.",
+  "Supply and operating devices, including electronic light source control gears and LED drivers outside the installation unit, are part of the system and must be identified and marked (paras 1.12, 2.2.2.2, 3.6).",
+  "LED modules used in an AFS are approved together with it and must carry an 'MD' specific identification code unless non-replaceable; Annex 11 applies.",
+  "Adaptive driving beam (glare-free high beam) with sensor system can be approved as part of an AFS (paras 2.1.7, 2.2.2(l)).",
+  "Installation units with plastic lenses or coatings trigger Annex 6 material tests, including UV resistance when gas-discharge or LED sources are used.",
+  "Other lamps grouped, combined or reciprocally incorporated in AFS installation units (e.g. position lamps, DRL, direction indicators, front fog lamps) need approval under their own Regulations but may share a single approval mark.",
+  "An AFS sold separately from vehicle type approval (e.g. aftermarket/replacement) additionally requires R10 EMC approval and documentation of compliance with R48 para 6.22.",
+  "Traffic-change and substitute (failure fallback) functions are within the scope and must be covered by the safety concept (FMEA/FTA).",
+  "Only for M and N1 vehicles; AFS for heavier N2/N3 or L-category vehicles are not covered by this scope."
+ ],
+ "version": "2.1.0"
+}

@@ -1,0 +1,775 @@
+{
+ "regulation": "UN R49 (version 7.3.1, 07 series of amendments)",
+ "title": "Uniform provisions concerning the measures to be taken against the emission of gaseous and particulate pollutants from compression-ignition engines and positive-ignition engines (fuelled with petrol, LPG, natural gas/biomethane, ethanol, hydrogen, including dual-fuel) for use in vehicles, and vehicles with regard to emissions",
+ "subject_kind": "mixed",
+ "scope_summary": "Approves heavy-duty engine systems and engine families as separate technical units, vehicles with an approved engine system, and vehicles as a whole with regard to gaseous and particulate pollutant emissions, smoke, OBD, NOx control measures and engine installation. It also approves replacement pollution control devices as separate technical units, for motor vehicles of categories M1, M2, N1 and N2 with a reference mass above 2,610 kg and all M3 and N3 vehicles, with optional extensions down to 2,380 kg.",
+ "scope_quote": "This Regulation shall apply to motor vehicles of categories M1, M2, N1 and N2 with a reference mass exceeding 2,610 kg and to all motor vehicles of categories M3 and N3. At the request of the manufacturer, the type approval of a completed vehicle given under this Regulation shall be extended to its incomplete vehicle with a reference mass below 2,610 kg. [...] The following do not need to be approved according to this Regulation: engines mounted in vehicles of up to 2,840 kg reference mass to which an approval to UN Regulation No. 83 or UN Regulation No. 154 has been granted.",
+ "vehicle_categories": [
+  "M1 (reference mass > 2,610 kg; extension possible > 2,380 kg)",
+  "M2 (reference mass > 2,610 kg; extension possible > 2,380 kg)",
+  "N1 (reference mass > 2,610 kg; extension possible > 2,380 kg)",
+  "N2 (reference mass > 2,610 kg; extension possible > 2,380 kg)",
+  "M3",
+  "N3"
+ ],
+ "applies_to_components": [
+  "Compression-ignition engines (diesel, ED95 ethanol, hydrogen)",
+  "Positive-ignition engines (petrol, E85, LPG, CNG/LNG natural gas/biomethane, hydrogen)",
+  "Dual-fuel engines and dual-fuel vehicles",
+  "Engine system (engine, emission control system, ECU communication interface)",
+  "Emission control system and emission strategies (BES, AES)",
+  "Exhaust aftertreatment systems (oxidation catalyst/DOC, three-way catalyst, particulate filter/DPF, deNOx systems incl. SCR, lean-NOx trap/NOx adsorber)",
+  "Exhaust gas recirculation (EGR) system incl. filters, coolers, control valves, tubing",
+  "Electronic control unit (ECU) and associated sensors and actuators",
+  "On-board diagnostic (OBD) system, malfunction indicator, scan-tool interface",
+  "Reagent (e.g. urea) storage, dosing, quality and consumption monitoring",
+  "Driver warning system and driver inducement system for NOx control",
+  "Replacement pollution control devices (catalytic converters, deNOx devices, particulate filters)",
+  "Original pollution control devices (identification marking)",
+  "Fuel tank inlet for petrol or E85 fuelled engines",
+  "Fuel system, air handling/turbocharger/boost pressure control, VVT, engine cooling system, exhaust gas and oxygen sensors, idle speed control (OBD-monitored)",
+  "Crankcase ventilation",
+  "Power take-off unit",
+  "Dual-fuel indicators and service mode",
+  "Approval mark and fuel range labels on engine and near fuel filling aperture",
+  "CO2 emissions and fuel consumption determination"
+ ],
+ "relation_to_other_regulations": [
+  "Equivalent approvals: engines in vehicles up to 2,840 kg reference mass approved to UN R83 or UN R154 need not be approved under R49",
+  "Net power determined with auxiliaries according to UN Regulation No. 85",
+  "Vehicle categories as defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3)",
+  "Annex 4 based on and numbered consistently with UN GTR No. 4 (WHDC test procedure, WHTC/WHSC)",
+  "Annex 9B numbered consistently with UN GTR No. 5 (WWH-OBD)",
+  "Annex 10 numbered consistently with UN GTR No. 10 (off-cycle emissions, WNTE)",
+  "Approval mark may be combined with marks of other Regulations annexed to the 1958 Agreement",
+  "Refers to fuel standards EN 228, EN 590, EN 14214, EN 16709, EN 15940, ISO 14687"
+ ],
+ "defined_terms": [
+  {
+   "term": "approval of an engine (engine family)",
+   "label": "Engine approval",
+   "definition": "Approval of an engine type (engine family) with regard to gaseous and particulate pollutant emissions, smoke and the OBD system."
+  },
+  {
+   "term": "approval of a vehicle",
+   "label": "Vehicle approval",
+   "definition": "Approval of a vehicle type with regard to engine emissions, smoke, OBD system and engine installation on the vehicle."
+  },
+  {
+   "term": "AES",
+   "label": "Auxiliary Emission Strategy",
+   "definition": "An emission strategy that replaces or modifies the base emission strategy in response to specific ambient/operating conditions and only while those conditions exist."
+  },
+  {
+   "term": "BES",
+   "label": "Base Emission Strategy",
+   "definition": "An emission strategy active throughout the engine speed and load range unless an AES is activated."
+  },
+  {
+   "term": "crankcase",
+   "label": "Crankcase",
+   "definition": "Spaces in or external to an engine connected to the oil sump through which gases and vapours can be emitted."
+  },
+  {
+   "term": "critical emission-related components",
+   "label": "Critical emission-related components",
+   "definition": "Components designed primarily for emission control: any exhaust aftertreatment system, the ECU and its associated sensors and actuators, and the EGR system including filters, coolers, control valves and tubing."
+  },
+  {
+   "term": "defeat strategy",
+   "label": "Defeat strategy",
+   "definition": "An emission strategy that does not meet the performance requirements for a base and/or auxiliary emission strategy."
+  },
+  {
+   "term": "deNOx system",
+   "label": "deNOx system",
+   "definition": "An exhaust aftertreatment system designed to reduce NOx emissions (e.g. lean NOx catalysts, NOx adsorbers, SCR systems)."
+  },
+  {
+   "term": "DTC",
+   "label": "Diagnostic trouble code",
+   "definition": "A numeric or alphanumeric identifier which identifies or labels a malfunction."
+  },
+  {
+   "term": "diesel mode",
+   "label": "Diesel mode",
+   "definition": "Normal operating mode of a dual-fuel engine in which no gaseous fuel is used under any operating condition."
+  },
+  {
+   "term": "dual-fuel engine",
+   "label": "Dual-fuel engine",
+   "definition": "An engine system designed to operate simultaneously on diesel fuel and a gaseous fuel, both metered separately, with variable relative consumption."
+  },
+  {
+   "term": "dual-fuel mode",
+   "label": "Dual-fuel mode",
+   "definition": "Normal operating mode of a dual-fuel engine in which it simultaneously uses diesel and gaseous fuel at some operating conditions."
+  },
+  {
+   "term": "dual-fuel vehicle",
+   "label": "Dual-fuel vehicle",
+   "definition": "A vehicle powered by a dual-fuel engine supplying the fuels from separate on-board storage systems."
+  },
+  {
+   "term": "element of design",
+   "label": "Element of design",
+   "definition": "Any element of the engine system, any control system (software, electronic control systems, computer logic), any control calibration, or results of system interactions."
+  },
+  {
+   "term": "emission control monitoring system",
+   "label": "Emission control monitoring system",
+   "definition": "The system ensuring correct operation of the NOx control measures implemented in the engine system per paragraph 5.5."
+  },
+  {
+   "term": "emission control system",
+   "label": "Emission control system",
+   "definition": "The elements of design and emission strategies developed or calibrated for the purpose of controlling emissions."
+  },
+  {
+   "term": "emission strategy",
+   "label": "Emission strategy",
+   "definition": "An element or set of elements of design incorporated into an engine system or vehicle and used in controlling emissions."
+  },
+  {
+   "term": "engine aftertreatment system family",
+   "label": "Engine aftertreatment system family",
+   "definition": "Engines of an engine family further grouped by similar exhaust aftertreatment system."
+  },
+  {
+   "term": "engine family",
+   "label": "Engine family",
+   "definition": "A manufacturer's grouping of engines with similar exhaust emission characteristics by design as defined in paragraph 7."
+  },
+  {
+   "term": "engine system",
+   "label": "Engine system",
+   "definition": "The engine, the emission control system and the communication interface between the engine ECU(s) and any other powertrain or vehicle control unit."
+  },
+  {
+   "term": "engine type",
+   "label": "Engine type",
+   "definition": "A category of engines not differing in essential engine characteristics as set out in Annex 1."
+  },
+  {
+   "term": "exhaust aftertreatment system",
+   "label": "Exhaust aftertreatment system",
+   "definition": "A catalyst, particulate filter, deNOx system, combined deNOx particulate filter or any other emission reducing device installed downstream of the engine."
+  },
+  {
+   "term": "gaseous pollutants",
+   "label": "Gaseous pollutants",
+   "definition": "Exhaust emissions of CO, NOx (as NO2) and hydrocarbons (THC, NMHC, methane)."
+  },
+  {
+   "term": "IUPR",
+   "label": "In-use performance ratio",
+   "definition": "Ratio of the number of times monitor conditions existed to detect a malfunction relative to the number of relevant driving cycles."
+  },
+  {
+   "term": "malfunction",
+   "label": "Malfunction",
+   "definition": "A failure or deterioration of an engine system, including OBD, expected to increase regulated pollutants or reduce OBD effectiveness."
+  },
+  {
+   "term": "MI",
+   "label": "Malfunction indicator",
+   "definition": "An indicator, part of the alert system, that clearly informs the driver of a malfunction."
+  },
+  {
+   "term": "net power",
+   "label": "Net power",
+   "definition": "Power at the crankshaft end on a test bench with auxiliaries per UN R85 under reference atmospheric conditions."
+  },
+  {
+   "term": "OBD system",
+   "label": "On-board diagnostic system",
+   "definition": "An on-board system able to detect emission-relevant malfunctions, indicate them via an alert system and identify and communicate the likely malfunction area off-board."
+  },
+  {
+   "term": "OBD engine family",
+   "label": "OBD engine family",
+   "definition": "A grouping of engine systems with common methods of monitoring and diagnosing emission-related malfunctions."
+  },
+  {
+   "term": "original pollution control device",
+   "label": "Original pollution control device",
+   "definition": "A pollution control device or assembly covered by the type-approval granted for the vehicle concerned."
+  },
+  {
+   "term": "parent engine",
+   "label": "Parent engine",
+   "definition": "An engine selected from an engine family as representative of its emission characteristics."
+  },
+  {
+   "term": "particulate aftertreatment device",
+   "label": "Particulate aftertreatment device",
+   "definition": "An exhaust aftertreatment system reducing particulate pollutants by mechanical, aerodynamic, diffusional or inertial separation."
+  },
+  {
+   "term": "PM",
+   "label": "Particulate matter",
+   "definition": "Material collected on a specified filter medium after diluting exhaust to 315–325 K."
+  },
+  {
+   "term": "PM number",
+   "label": "Particulate Matter number",
+   "definition": "Total number of solid particles emitted from the exhaust, quantified per Annex 4."
+  },
+  {
+   "term": "PEMS",
+   "label": "Portable emissions measurement system",
+   "definition": "A portable emissions measurement system meeting Appendix 2 to Annex 8."
+  },
+  {
+   "term": "power take-off unit",
+   "label": "Power take-off unit",
+   "definition": "An engine driven output device for powering auxiliary vehicle-mounted equipment."
+  },
+  {
+   "term": "QDC",
+   "label": "Qualified deteriorated component or system",
+   "definition": "A component or system intentionally deteriorated and accepted by the authority for demonstrating OBD performance per Annex 9B."
+  },
+  {
+   "term": "reagent",
+   "label": "Reagent",
+   "definition": "Any medium stored on-board in a tank and provided to the exhaust aftertreatment system upon request of the emission control system."
+  },
+  {
+   "term": "recalibration",
+   "label": "Recalibration",
+   "definition": "Fine tuning of a natural gas engine to provide the same performance in a different range of natural gas."
+  },
+  {
+   "term": "reference mass",
+   "label": "Reference mass",
+   "definition": "Mass in running order less 75 kg driver mass plus a uniform 100 kg."
+  },
+  {
+   "term": "replacement pollution control device",
+   "label": "Replacement pollution control device",
+   "definition": "A pollution control device or assembly intended to replace an original one, approvable as a separate technical unit."
+  },
+  {
+   "term": "scan-tool",
+   "label": "Scan-tool",
+   "definition": "External test equipment for standardised off-board communication with the OBD system."
+  },
+  {
+   "term": "service mode",
+   "label": "Service mode",
+   "definition": "A special mode of a dual-fuel engine activated for repair or moving the vehicle when dual-fuel mode operation is not possible."
+  },
+  {
+   "term": "tampering",
+   "label": "Tampering",
+   "definition": "Inactivation, adjustment or modification of the emissions control or propulsion system, including software, that worsens emissions performance."
+  },
+  {
+   "term": "useful life",
+   "label": "Useful life",
+   "definition": "Period of distance and/or time over which compliance with emission limits must be assured."
+  },
+  {
+   "term": "vehicle type with regard to emissions",
+   "label": "Vehicle type with regard to emissions",
+   "definition": "Vehicles not differing in essential engine and vehicle characteristics as set out in Annex 1."
+  },
+  {
+   "term": "wall flow DPF",
+   "label": "Wall flow Diesel Particulate Filter",
+   "definition": "A DPF in which all exhaust gas is forced through a wall that filters out solid matter."
+  },
+  {
+   "term": "Wobbe index",
+   "label": "Wobbe index",
+   "definition": "Ratio of the calorific value of a gas per unit volume to the square root of its relative density."
+  },
+  {
+   "term": "Sλ",
+   "label": "λ-shift factor",
+   "definition": "Expression of required engine management flexibility regarding excess-air ratio when fuelled with gas differing from pure methane."
+  },
+  {
+   "term": "periodic regeneration",
+   "label": "Periodic regeneration",
+   "definition": "Regeneration of an emission control device occurring periodically in less than 100 hours of normal operation."
+  },
+  {
+   "term": "continuous regeneration",
+   "label": "Continuous regeneration",
+   "definition": "Regeneration of an aftertreatment system occurring permanently or at least once per WHTC hot start test."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Engine system / engine family as separate technical unit",
+   "distinguished_by": "Approval type per paragraph 3.1"
+  },
+  {
+   "name": "Vehicle with an approved engine system",
+   "distinguished_by": "Approval type per paragraph 3.2"
+  },
+  {
+   "name": "Vehicle with regard to emissions",
+   "distinguished_by": "Approval type per paragraph 3.3"
+  },
+  {
+   "name": "Replacement pollution control device (separate technical unit)",
+   "distinguished_by": "Approval type per paragraph 3.4 and Annex 13"
+  },
+  {
+   "name": "Universal fuel range approval",
+   "distinguished_by": "Engine self-adapts to all market fuel compositions (paragraph 4.6)"
+  },
+  {
+   "name": "Restricted fuel range approval",
+   "distinguished_by": "NG/LPG engine approved for H- or L-gas range or one specific fuel composition (paragraph 4.7); requires label"
+  },
+  {
+   "name": "Fuel-specific LNG approval (LNG20)",
+   "distinguished_by": "Calibrated for LNG composition within 3% Sλ of G20 and ethane ≤1.5% (paragraph 4.8)"
+  },
+  {
+   "name": "Mark D / ED / E85 / P / Q",
+   "distinguished_by": "Diesel CI / ED95 ethanol CI / E85 PI / petrol PI / LPG PI engine"
+  },
+  {
+   "name": "Mark H / L / HL / Ht / Lt / HLt / CNGfr / LNGfr / LPGfr / LNG20 / LNG",
+   "distinguished_by": "Natural gas/LPG range for which the engine is approved and calibrated"
+  },
+  {
+   "name": "Dual-fuel Type 1A / 1B / 2A / 2B / 3B",
+   "distinguished_by": "Dual-fuel engine type per Annex 15 (gas energy ratio and diesel-mode capability)"
+  },
+  {
+   "name": "Hydrogen mark T / TD / U / UD",
+   "distinguished_by": "PI or CI engine on gaseous or liquefied hydrogen"
+  },
+  {
+   "name": "Stage letter in approval mark",
+   "distinguished_by": "Implementation stage per paragraph 13.2 / Annex 3 Table 1"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "vehicle categories",
+    "reference mass",
+    "equivalent approvals R83/R154"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "engine system",
+    "emission control system",
+    "exhaust aftertreatment system",
+    "OBD system",
+    "replacement pollution control device",
+    "dual-fuel engine",
+    "reagent"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "engine system",
+    "engine family",
+    "vehicle type with regard to emissions",
+    "AES",
+    "OBD system"
+   ]
+  },
+  {
+   "label": "3.4",
+   "title": "Application for type-approval of a replacement pollution control device as a separate technical unit",
+   "about": [
+    "replacement pollution control device",
+    "QDC"
+   ]
+  },
+  {
+   "label": "3.5",
+   "title": "Application for type approval of engines fuelled with hydrogen",
+   "about": [
+    "hydrogen engine",
+    "dual-fuel engine Type 1A"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "universal fuel range",
+    "restricted fuel range",
+    "fuel-specific LNG",
+    "approval mark"
+   ]
+  },
+  {
+   "label": "4.9",
+   "title": "Exhaust emissions type-approval of a member of a family",
+   "about": [
+    "engine family",
+    "parent engine"
+   ]
+  },
+  {
+   "label": "4.10",
+   "title": "Requirements for approval regarding the on-board diagnostic systems",
+   "about": [
+    "OBD system",
+    "malfunction indicator",
+    "QDC",
+    "IUPR",
+    "DPF monitoring"
+   ]
+  },
+  {
+   "label": "4.11",
+   "title": "Requirements for approval regarding replacement pollution control devices",
+   "about": [
+    "replacement pollution control device",
+    "original pollution control device",
+    "catalytic converters",
+    "deNOx devices",
+    "particulate filters"
+   ]
+  },
+  {
+   "label": "4.12",
+   "title": "Approval marks and labeling for engine systems and vehicles",
+   "about": [
+    "approval mark",
+    "fuel type letters",
+    "dual-fuel type digits",
+    "hydrogen letters"
+   ]
+  },
+  {
+   "label": "4.12.8",
+   "title": "Labels for natural gas/biomethane and LPG fuelled engines",
+   "about": [
+    "restricted fuel range",
+    "fuel filling aperture label"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Requirements and tests",
+   "about": [
+    "gaseous pollutants",
+    "particulate matter",
+    "PM number",
+    "emission limits"
+   ]
+  },
+  {
+   "label": "5.5",
+   "title": "Requirements to ensure correct operation of NOx control measures",
+   "about": [
+    "emission control monitoring system",
+    "reagent",
+    "deNOx system"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Installation on the vehicle",
+   "about": [
+    "installation of type-approved engine",
+    "inlet to fuel tanks for petrol/E85"
+   ]
+  },
+  {
+   "label": "6.3",
+   "title": "Inlet to fuel tanks in the case of a petrol or E85 fuelled engine",
+   "about": [
+    "fuel tank inlet"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Engine family",
+   "about": [
+    "engine family",
+    "parent engine",
+    "extension"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Conformity of production",
+   "about": [
+    "emissions",
+    "OBD",
+    "ECU information for in-service testing"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Conformity of in service vehicles/engines",
+   "about": [
+    "in-service conformity",
+    "remedial measures",
+    "PEMS"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Penalties for non-conformity of production",
+   "about": []
+  },
+  {
+   "label": "11",
+   "title": "Modification and extension of approval of the approved type",
+   "about": []
+  },
+  {
+   "label": "12",
+   "title": "Production definitively discontinued",
+   "about": []
+  },
+  {
+   "label": "13",
+   "title": "Transitional provisions",
+   "about": [
+    "stages",
+    "type approvals",
+    "special provisions"
+   ]
+  },
+  {
+   "label": "14",
+   "title": "Names and addresses of technical services and type approval authorities",
+   "about": []
+  },
+  {
+   "label": "Annex 1",
+   "title": "Information document (engine and vehicle essential characteristics)",
+   "about": [
+    "engine type",
+    "engine family",
+    "vehicle type with regard to emissions",
+    "spark plugs",
+    "ignition coil",
+    "engine-driven equipment"
+   ]
+  },
+  {
+   "label": "Annex 2C",
+   "title": "Communication form (vehicle approval)",
+   "about": [
+    "vehicle approval"
+   ]
+  },
+  {
+   "label": "Annex 2D",
+   "title": "AES documentation package",
+   "about": [
+    "AES"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Arrangements of approval marks",
+   "about": [
+    "approval mark",
+    "stage letters"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Test procedure (WHDC/WHTC/WHSC, based on GTR No. 4)",
+   "about": [
+    "gaseous pollutants",
+    "PM",
+    "PM number",
+    "engine family",
+    "auxiliaries",
+    "NH3 measurement"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Technical data on reference fuels",
+   "about": [
+    "diesel",
+    "petrol",
+    "ethanol",
+    "LPG",
+    "natural gas",
+    "hydrogen reference fuels"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Measuring carbon monoxide emissions at idling speeds",
+   "about": [
+    "PI engines CO at idle"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Procedure for verifying durability / deterioration factors",
+   "about": [
+    "useful life",
+    "engine aftertreatment system family",
+    "emission-related maintenance"
+   ]
+  },
+  {
+   "label": "Annex 8",
+   "title": "In-service conformity",
+   "about": [
+    "PEMS",
+    "ECU data stream",
+    "remedial measures"
+   ]
+  },
+  {
+   "label": "Annex 9A",
+   "title": "On-board diagnostic systems (OBD) – general and threshold requirements",
+   "about": [
+    "OBD system",
+    "OBD threshold limits",
+    "IUPR",
+    "alternative approval"
+   ]
+  },
+  {
+   "label": "Annex 9B",
+   "title": "Technical requirements for OBD systems (WWH-OBD, GTR No. 5)",
+   "about": [
+    "OBD system",
+    "malfunction indicator",
+    "DTC",
+    "QDC",
+    "monitored components"
+   ]
+  },
+  {
+   "label": "Annex 9B Appendix 3",
+   "title": "Monitoring requirements",
+   "about": [
+    "electric/electronic components",
+    "DPF",
+    "SCR",
+    "lean-NOx trap",
+    "oxidation catalyst/DOC",
+    "EGR",
+    "fuel system",
+    "turbocharger/boost pressure",
+    "VVT",
+    "misfire",
+    "crankcase ventilation",
+    "engine cooling system",
+    "exhaust gas and oxygen sensors",
+    "idle speed control",
+    "three-way catalyst"
+   ]
+  },
+  {
+   "label": "Annex 9C",
+   "title": "Technical requirements for assessing in-use performance of OBD (IUPR)",
+   "about": [
+    "IUPR",
+    "group of monitors",
+    "general denominator",
+    "ignition cycle counter"
+   ]
+  },
+  {
+   "label": "Annex 10",
+   "title": "Off-cycle emissions and prohibition of defeat strategies (GTR No. 10)",
+   "about": [
+    "defeat strategy",
+    "AES",
+    "WNTE limits"
+   ]
+  },
+  {
+   "label": "Annex 11",
+   "title": "Requirements to ensure correct operation of NOx control measures",
+   "about": [
+    "reagent",
+    "reagent freeze protection",
+    "driver warning system",
+    "driver inducement system",
+    "reagent quality monitoring",
+    "dosing activity monitoring",
+    "tampering"
+   ]
+  },
+  {
+   "label": "Annex 12",
+   "title": "CO2 emissions and fuel consumption",
+   "about": [
+    "CO2",
+    "fuel consumption",
+    "extension for 2,380–2,610 kg vehicles"
+   ]
+  },
+  {
+   "label": "Annex 13",
+   "title": "Type-approval of replacement pollution control devices as separate technical units",
+   "about": [
+    "replacement pollution control device",
+    "marking",
+    "durability procedure",
+    "oil consumption"
+   ]
+  },
+  {
+   "label": "Annex 14",
+   "title": "Access to OBD information",
+   "about": [
+    "OBD data",
+    "scan-tool"
+   ]
+  },
+  {
+   "label": "Annex 15",
+   "title": "Dual-fuel engines and vehicles",
+   "about": [
+    "dual-fuel engine",
+    "dual-fuel vehicle",
+    "diesel mode",
+    "dual-fuel mode",
+    "service mode",
+    "dual-fuel indicators",
+    "HDDF Type 1A/1B/2A/2B/3B"
+   ]
+  },
+  {
+   "label": "Annex 15 4.3",
+   "title": "Dual-fuel indicators",
+   "about": [
+    "dual-fuel mode indicator",
+    "diesel mode indicator",
+    "service mode indicator"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "The engine ECU and all its associated sensors and actuators are 'critical emission-related components', so any engine control sensor/actuator falls under R49 OBD, durability and anti-tampering requirements",
+  "Aftermarket catalytic converters, deNOx devices (SCR) and particulate filters for heavy-duty engines/vehicles must be type-approved as replacement pollution control devices under Annex 13; original replacement parts need only Annex 13 paragraphs 2.1–2.3",
+  "EGR filters, coolers, control valves and tubing count as critical emission-related components",
+  "AdBlue/urea reagent tanks, dosing systems, reagent quality and level sensors, heaters for freeze protection, and driver warning/inducement functions (incl. instrument cluster displays and torque/speed limitation) are covered by Annex 11",
+  "Engine control software and calibrations are 'elements of design'; reprogramming facilities and anti-tampering measures must be documented",
+  "Turbochargers/boost pressure control, VVT, fuel injection system, engine cooling (thermostat), oxygen/NOx/exhaust gas sensors and idle speed control are OBD-monitored components per Annex 9B Appendix 3",
+  "Gas fuel system components and labels near the fuel filling aperture are relevant for CNG/LNG/LPG engines with restricted fuel range approval",
+  "Petrol/E85 fuel tank filler inlet design is regulated (paragraph 6.3)",
+  "Dual-fuel conversion systems and hydrogen engines are covered (Annex 15, paragraph 3.5)",
+  "ECU must provide data stream for in-service PEMS testing (paragraph 8.5, Annex 8)",
+  "Approval mark may be retrievable via the instrument cluster",
+  "Heavy N1/M1 vehicles (above 2,380/2,610 kg reference mass) and incomplete vehicles may fall under R49 instead of R83/R154; vehicles up to 2,840 kg approved to R83/R154 are exempt",
+  "Power take-off units and engine-driven auxiliaries affect emission testing configuration (Annex 4 Appendix 6)"
+ ],
+ "version": "7.3.1"
+}

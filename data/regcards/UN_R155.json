@@ -1,0 +1,329 @@
+{
+ "regulation": "UN R155",
+ "title": "Cyber security and cyber security management system",
+ "subject_kind": "vehicle_system",
+ "scope_summary": "Approves vehicle types with regard to cyber security, which requires a valid Certificate of Compliance for the manufacturer's Cyber Security Management System (CSMS). It applies to vehicles of Categories M and N, Category O if fitted with at least one electronic control unit, and Categories L6 and L7 if equipped with automated driving functionalities from level 3 onwards.",
+ "scope_quote": "1.1 This Regulation applies to vehicles, with regard to cyber security, of the Categories M and N. This Regulation also applies to vehicles of Category O if fitted with at least one electronic control unit. 1.2 This Regulation also applies to vehicles of the Categories L6 and L7 if equipped with automated driving functionalities from level 3 onwards, as defined in the reference document with definitions of Automated Driving under WP.29 and the General Principles for developing a UN Regulation on automated vehicles (ECE/TRANS/WP.29/1140).",
+ "vehicle_categories": [
+  "M",
+  "N",
+  "O (if fitted with at least one electronic control unit)",
+  "L6 (if equipped with automated driving functionalities from level 3 onwards)",
+  "L7 (if equipped with automated driving functionalities from level 3 onwards)"
+ ],
+ "applies_to_components": [
+  "Vehicle electric/electronic architecture",
+  "External interfaces of the vehicle with respect to cyber security",
+  "Electrical or electronic components and their functions (protection from cyber threats)",
+  "Electronic control units",
+  "Systems (sets of components and/or sub-systems implementing functions)",
+  "Manufacturer's Cyber Security Management System (organisational processes, responsibilities, governance)"
+ ],
+ "relation_to_other_regulations": [
+  "Without prejudice to other UN Regulations, regional or national legislation governing access by authorized parties to the vehicle, its data, functions and resources (para 1.3)",
+  "Without prejudice to national and regional legislation on privacy and protection of personal data (para 1.3)",
+  "Without prejudice to other UN Regulations, national or regional legislation governing development and installation/system integration of replacement parts and components, physical and digital, with regard to cybersecurity (para 1.4)",
+  "Refers to ECE/TRANS/WP.29/1140 for the definition of automated driving levels (para 1.2)",
+  "Approval mark may be combined with marks of other Regulations under which the vehicle type is approved (para 4.2)"
+ ],
+ "defined_terms": [
+  {
+   "term": "2.1",
+   "label": "Vehicle type",
+   "definition": "Vehicles which do not differ in the manufacturer's designation of the vehicle type and in essential aspects of the electric/electronic architecture and external interfaces with respect to cyber security."
+  },
+  {
+   "term": "2.2",
+   "label": "Cyber security",
+   "definition": "The condition in which road vehicles and their functions are protected from cyber threats to electrical or electronic components."
+  },
+  {
+   "term": "2.3",
+   "label": "Cyber Security Management System (CSMS)",
+   "definition": "A systematic risk-based approach defining organisational processes, responsibilities and governance to treat risk associated with cyber threats to vehicles and protect them from cyber-attacks."
+  },
+  {
+   "term": "2.4",
+   "label": "System",
+   "definition": "A set of components and/or sub-systems that implements a function or functions."
+  },
+  {
+   "term": "2.5",
+   "label": "Development phase",
+   "definition": "The period before a vehicle type is type approved."
+  },
+  {
+   "term": "2.6",
+   "label": "Production phase",
+   "definition": "The duration of production of a vehicle type."
+  },
+  {
+   "term": "2.7",
+   "label": "Post-production phase",
+   "definition": "The period from when a vehicle type is no longer produced until the end-of-life of all vehicles under the vehicle type."
+  },
+  {
+   "term": "2.8",
+   "label": "Mitigation",
+   "definition": "A measure that is reducing risk."
+  },
+  {
+   "term": "2.9",
+   "label": "Risk",
+   "definition": "The potential that a given threat will exploit vulnerabilities of a vehicle and thereby cause harm to the organization or to an individual."
+  },
+  {
+   "term": "2.10",
+   "label": "Risk Assessment",
+   "definition": "The overall process of risk identification, risk analysis and risk evaluation to determine whether a risk is acceptable or tolerable."
+  },
+  {
+   "term": "2.11",
+   "label": "Risk Management",
+   "definition": "Coordinated activities to direct and control an organization with regard to risk."
+  },
+  {
+   "term": "2.12",
+   "label": "Threat",
+   "definition": "A potential cause of an unwanted incident, which may result in harm to a system, organization or individual."
+  },
+  {
+   "term": "2.13",
+   "label": "Vulnerability",
+   "definition": "A weakness of an asset or mitigation that can be exploited by one or more threats."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Category M and N vehicles",
+   "distinguished_by": "Always in scope"
+  },
+  {
+   "name": "Category O vehicles (trailers)",
+   "distinguished_by": "In scope only if fitted with at least one electronic control unit"
+  },
+  {
+   "name": "Category L6 and L7 vehicles",
+   "distinguished_by": "In scope only if equipped with automated driving functionalities from level 3 onwards"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "Vehicle type",
+    "Cyber security"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Vehicle type",
+    "Cyber security",
+    "Cyber Security Management System (CSMS)",
+    "System",
+    "Development phase",
+    "Production phase",
+    "Post-production phase",
+    "Mitigation",
+    "Risk",
+    "Risk Assessment",
+    "Risk Management",
+    "Threat",
+    "Vulnerability"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "Vehicle type",
+    "Cyber Security Management System (CSMS)"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Marking",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Approval",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Certificate of Compliance for Cyber Security Management System",
+   "about": [
+    "Cyber Security Management System (CSMS)"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Specifications",
+   "about": [
+    "Cyber security",
+    "Cyber Security Management System (CSMS)",
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "7.1",
+   "title": "General specifications",
+   "about": [
+    "Cyber security"
+   ]
+  },
+  {
+   "label": "7.2",
+   "title": "Requirements for the Cyber Security Management System",
+   "about": [
+    "Cyber Security Management System (CSMS)",
+    "Risk Assessment",
+    "Risk Management",
+    "Development phase",
+    "Production phase",
+    "Post-production phase"
+   ]
+  },
+  {
+   "label": "7.3",
+   "title": "Requirements for vehicle types",
+   "about": [
+    "Vehicle type",
+    "Risk Assessment",
+    "Mitigation",
+    "Threat",
+    "Vulnerability",
+    "System"
+   ]
+  },
+  {
+   "label": "7.4",
+   "title": "Reporting provisions",
+   "about": [
+    "Cyber Security Management System (CSMS)"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Modification and extension of the vehicle type",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Conformity of production",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Penalties for non-conformity of production",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Production definitively discontinued",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "12",
+   "title": "Names and addresses of Technical Services and Type Approval Authorities",
+   "about": []
+  },
+  {
+   "label": "Annex 1",
+   "title": "Information document (incl. cyber security and schematic representation of the vehicle type)",
+   "about": [
+    "Vehicle type",
+    "Cyber security"
+   ]
+  },
+  {
+   "label": "Annex 1 Appendix 1",
+   "title": "Manufacturer's declaration of compliance with the requirements for the Cyber Security Management System",
+   "about": [
+    "Cyber Security Management System (CSMS)"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Communication (approval form)",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Arrangement of the approval mark",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Model of Certificate of Compliance for CSMS",
+   "about": [
+    "Cyber Security Management System (CSMS)"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "List of threats and corresponding mitigations",
+   "about": [
+    "Threat",
+    "Vulnerability",
+    "Mitigation",
+    "Risk Assessment"
+   ]
+  },
+  {
+   "label": "Annex 5 Part A",
+   "title": "Vulnerability or attack method related to the threats",
+   "about": [
+    "Threat",
+    "Vulnerability"
+   ]
+  },
+  {
+   "label": "Annex 5 Part B",
+   "title": "Mitigations to the threats intended for vehicle types",
+   "about": [
+    "Mitigation",
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "Annex 5 Part C",
+   "title": "Mitigations to the threats outside of vehicles (e.g. back-end servers)",
+   "about": [
+    "Mitigation",
+    "Threat"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "The regulation approves vehicle types, not components; a component falls under it indirectly when it is part of the vehicle's electric/electronic architecture or external interfaces relevant to cyber security.",
+  "A trailer (Category O) is pulled into scope by having even a single electronic control unit (e.g. EBS/ABS modulator, telematics unit).",
+  "Any ECU or electronic component with an external interface (e.g. diagnostic port, wireless/cellular, Bluetooth, Wi-Fi, USB, charging communication, V2X) is likely relevant to the vehicle risk assessment and the Annex 5 threat catalogue.",
+  "Suppliers are affected via the manufacturer's CSMS and documentation duties: para 3.2.2 requires the manufacturer or its suppliers to make sufficient information available for the checks, even if covered by IP rights.",
+  "Back-end servers and off-board systems communicating with the vehicle are addressed via Annex 5 (mitigations outside the vehicle), so connected services can be relevant.",
+  "Changes to the E/E architecture or external interfaces may create a new vehicle type or require extension under para 8.",
+  "Aftermarket/replacement parts are not directly regulated: para 1.4 leaves them to other legislation.",
+  "L6/L7 quadricycles are only in scope if they have level 3+ automated driving functions."
+ ],
+ "version": "0.2.0"
+}

@@ -1,0 +1,339 @@
+{
+ "regulation": "UN R7",
+ "title": "Position, stop and end-outline lamps (version 3.0.0)",
+ "subject_kind": "component",
+ "scope_summary": "Approves device types of front and rear position lamps, stop-lamps (categories S1–S4) and front and rear end-outline marker lamps, including variable-intensity versions, light source modules and interdependent lamp systems. Position and stop lamps are for vehicles of categories L, M, N, O and T; end-outline marker lamps are for categories M, N, O and T only.",
+ "scope_quote": "This Regulation applies to: Front and rear position lamps and stop lamps for vehicles of categories L, M, N, O and T; and, End-outline marker lamps for vehicles of categories M, N, O and T.",
+ "vehicle_categories": [
+  "L",
+  "M",
+  "N",
+  "O",
+  "T"
+ ],
+ "applies_to_components": [
+  "Front position lamp (A)",
+  "Rear position lamp (R, R1, R2)",
+  "Stop-lamp (S1, S2, S3, S4)",
+  "Category S3/S4 stop lamp mounted outside or inside (behind the rear window) the vehicle",
+  "Front end-outline marker lamp (AM)",
+  "Rear end-outline marker lamp (RM1, RM2)",
+  "Device comprising both a rear position lamp and a stop-lamp",
+  "Lamps for use in an assembly of two lamps (D)",
+  "Interdependent lamps / interdependent lamp systems (Y)",
+  "Light source modules (MD identification code)",
+  "Variable intensity control",
+  "Electronic light source control gear",
+  "Lamps with non-replaceable filament or LED light sources",
+  "Grouped, combined or reciprocally incorporated lamps, including lamps reciprocally incorporated with a headlamp"
+ ],
+ "relation_to_other_regulations": [
+  "Definitions of UN Regulation No. 48 (installation of lighting and light-signalling devices), in its series of amendments in force at the time of application, apply to this Regulation.",
+  "Filament light source categories must be those of UN Regulation No. 37; standard (étalon) filament light sources refer to UN R37.",
+  "LED light source categories must be those of UN Regulation No. 128; standard (étalon) LED light sources refer to UN R128.",
+  "Grouped, combined or reciprocally incorporated units may combine lamps approved under this Regulation or another Regulation, with a single approval mark covering several Regulations (e.g. headlamp regulations).",
+  "Approval number series currently 02; the 03 series of amendments does not require changes in the approval number."
+ ],
+ "defined_terms": [
+  {
+   "term": "Front position lamp",
+   "label": "1.1",
+   "definition": "The lamp used to indicate the presence and the width of the vehicle when viewed from the front."
+  },
+  {
+   "term": "Rear position lamp",
+   "label": "1.2",
+   "definition": "The lamp used to indicate the presence and the width of the vehicle when viewed from the rear."
+  },
+  {
+   "term": "Stop-lamp",
+   "label": "1.3",
+   "definition": "The lamp used to indicate to other road-users to the rear of the vehicle that its driver is applying the service brake, which may also be activated by a retarder or similar device."
+  },
+  {
+   "term": "End-outline marker lamp",
+   "label": "1.4",
+   "definition": "A lamp fitted near the extreme outer edges and as close as possible to the top of the vehicle to indicate clearly the vehicle's overall width, complementing the position lamps on certain power-driven vehicles and trailers."
+  },
+  {
+   "term": "Lamps of different type",
+   "label": "1.6",
+   "definition": "Front and rear position lamps, stop-lamps and end-outline marker lamps differing in trade name or mark, optical system characteristics (intensity, distribution angles, light source category, light source module) or variable intensity control, but not merely in colour of light source or filter."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "A (front position lamp)",
+   "distinguished_by": "Function: front position lamp marking"
+  },
+  {
+   "name": "R / R1 (rear position lamp, steady)",
+   "distinguished_by": "Rear position lamp producing steady luminous intensity"
+  },
+  {
+   "name": "R2 (rear position lamp, variable)",
+   "distinguished_by": "Rear position lamp producing variable luminous intensity"
+  },
+  {
+   "name": "AM (front end-outline marker lamp)",
+   "distinguished_by": "Function: front end-outline marker; white or red light to be declared"
+  },
+  {
+   "name": "RM1 (rear end-outline marker lamp, steady)",
+   "distinguished_by": "Steady luminous intensity"
+  },
+  {
+   "name": "RM2 (rear end-outline marker lamp, variable)",
+   "distinguished_by": "Variable luminous intensity"
+  },
+  {
+   "name": "S1 (stop-lamp)",
+   "distinguished_by": "Steady luminous intensity"
+  },
+  {
+   "name": "S2 (stop-lamp)",
+   "distinguished_by": "Variable luminous intensity"
+  },
+  {
+   "name": "S3 (stop-lamp)",
+   "distinguished_by": "Meets specific S3 requirements (own light distribution table), steady intensity, may be mounted outside or inside behind the rear window"
+  },
+  {
+   "name": "S4 (stop-lamp)",
+   "distinguished_by": "Meets specific S4 requirements, variable intensity, may be mounted outside or inside behind the rear window"
+  },
+  {
+   "name": "D (assembly of two lamps)",
+   "distinguished_by": "Device usable as part of an assembly of two lamps of the same kind/type"
+  },
+  {
+   "name": "Y (interdependent lamp)",
+   "distinguished_by": "Lamp usable as part of an interdependent lamp system"
+  },
+  {
+   "name": "Reduced light distribution (vertical downward arrow)",
+   "distinguished_by": "Reduced light distribution in conformity with Annex 4 paragraph 2.3"
+  },
+  {
+   "name": "Asymmetrical horizontal visibility (horizontal arrow)",
+   "distinguished_by": "Position lamps with asymmetrical horizontal visibility angles and end-outline marker lamps; arrow points to side meeting photometry up to 80° H"
+  }
+ ],
+ "sections": [
+  {
+   "label": "0",
+   "title": "Scope",
+   "about": [
+    "Front position lamp",
+    "Rear position lamp",
+    "Stop-lamp",
+    "End-outline marker lamp"
+   ]
+  },
+  {
+   "label": "1",
+   "title": "Definitions",
+   "about": [
+    "Front position lamp",
+    "Rear position lamp",
+    "Stop-lamp",
+    "End-outline marker lamp",
+    "Lamps of different type",
+    "References to UN R48, R37, R128"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Application for approval",
+   "about": [
+    "End-outline marker lamp colour (white/red)",
+    "S3/S4 stop lamp mounted inside behind rear window",
+    "Steady vs variable luminous intensity categories",
+    "Interdependent lamp system",
+    "Light source module",
+    "Variable intensity control",
+    "Non-replaceable light sources"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Markings",
+   "about": [
+    "Light source category marking",
+    "Light source module MD identification code",
+    "Rated voltage marking for electronic light source control gear / variable intensity control",
+    "Electronic light source control gear",
+    "Variable intensity control"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "Approval mark composition",
+    "Additional symbols A, R/R1/R2, AM, RM1/RM2, S1–S4, D, Y, arrows",
+    "Grouped, combined or reciprocally incorporated lamps"
+   ]
+  },
+  {
+   "label": "4.3",
+   "title": "Arrangement of the approval mark",
+   "about": [
+    "Independent lamps",
+    "Grouped, combined or reciprocally incorporated lamps",
+    "Lamps reciprocally incorporated with a headlamp"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "General specifications",
+   "about": [
+    "Interdependent lamp system (5.10)",
+    "Non-replaceable filament light sources / light source modules (5.11)"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Intensity of light emitted",
+   "about": [
+    "Front position lamp",
+    "Rear position lamp",
+    "Stop-lamp",
+    "End-outline marker lamp",
+    "Variable luminous intensity",
+    "Interdependent lamp system"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Test procedure",
+   "about": [
+    "Photometric test conditions"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Colour of light emitted",
+   "about": [
+    "Colour of light within light distribution field"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Conformity of production",
+   "about": [
+    "Conformity of production procedures"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Penalties for non-conformity of production",
+   "about": [
+    "Withdrawal of approval"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Production definitively discontinued",
+   "about": [
+    "Notification of discontinuation"
+   ]
+  },
+  {
+   "label": "12",
+   "title": "Remarks concerning colours and particular devices",
+   "about": [
+    "Contracting Parties' acceptance of colours/devices"
+   ]
+  },
+  {
+   "label": "13",
+   "title": "Names and addresses of Technical Services and Type Approval Authorities",
+   "about": [
+    "Administrative"
+   ]
+  },
+  {
+   "label": "14",
+   "title": "Transitional provisions",
+   "about": [
+    "03 series of amendments"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Minimum angles required for light distribution in space",
+   "about": [
+    "Front position lamp",
+    "Rear position lamp",
+    "Stop-lamp",
+    "End-outline marker lamp",
+    "Right-side mounting angles"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Communication form",
+   "about": [
+    "Approval/extension/refusal/withdrawal notification"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Examples of arrangements of approval marks",
+   "about": [
+    "Front position lamp",
+    "Rear position lamp",
+    "Front end-outline marker lamp",
+    "Rear end-outline marker lamp",
+    "Stop-lamp",
+    "Device comprising both rear position lamp and stop-lamp",
+    "Independent lamps",
+    "Grouped, combined or reciprocally incorporated lamps",
+    "Lamp reciprocally incorporated with a headlamp",
+    "Light source modules",
+    "Interdependent lamps"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Photometric measurements",
+   "about": [
+    "Measurement methods",
+    "Standard light distribution table",
+    "Category S3 stop-lamp light distribution",
+    "Reduced light distribution"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Minimum requirements for conformity of production control procedures",
+   "about": [
+    "Manufacturer verification tests"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Minimum requirements for sampling by an inspector",
+   "about": [
+    "First sampling",
+    "Repeated sampling",
+    "Approval withdrawal"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "A rear combination lamp containing tail/position and stop functions is covered (combined R-S marking), even when grouped with lamps approved under other Regulations such as direction indicators or fog lamps.",
+  "Front position lamps integrated (reciprocally incorporated) into a headlamp fall under this Regulation for the position-lamp function.",
+  "A centre high-mounted/additional stop lamp (category S3/S4) is covered, including when mounted inside the vehicle behind the rear window; the rear window glazing optical properties then form part of the application.",
+  "Lamps using LED or other non-replaceable light sources and light source modules are covered; modules themselves must bear an 'MD' identification code.",
+  "An external electronic light source control gear or variable intensity control that is part of the lamp but not inside its body must carry manufacturer name and identification number.",
+  "Lamps with variable luminous intensity (R2, RM2, S2, S4) require the variable intensity control or a signal generator to be submitted.",
+  "Interdependent lamp systems (multiple units together performing one function) are covered and all units must be submitted by the same applicant.",
+  "Applies to motorcycles/mopeds (L) and agricultural tractors (T) and trailers (O) for position and stop lamps, but end-outline marker lamps are not in scope for L-category.",
+  "Changing only the light source colour or filter colour does not create a new type; extension for different light colour may keep the same approval number.",
+  "A stop-lamp may also be activated by a retarder or similar device, still under this Regulation.",
+  "Installation on the vehicle is governed by UN R48, not by this Regulation."
+ ],
+ "version": "3.0.0"
+}

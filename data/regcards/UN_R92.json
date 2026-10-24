@@ -1,0 +1,243 @@
+{
+ "regulation": "UN R92",
+ "title": "Replacement exhaust silencing systems for motorcycles (non-original replacement exhaust silencing systems, NORESS), version 2.0.0",
+ "subject_kind": "component",
+ "scope_summary": "Approves non-original replacement exhaust silencing systems (NORESS), complete or as individual components, with regard to the limitation of their sound level when fitted to one or several specified vehicle types. It applies to replacements for vehicles of categories L1, L2, L3, L4 and L5, i.e. mopeds, motorcycles and motor tricycles.",
+ "scope_quote": "This UN Regulation applies to non-original replacement exhaust silencing systems for vehicles of categories L1, L2, L3, L4 and L5.",
+ "vehicle_categories": [
+  "L1",
+  "L2",
+  "L3",
+  "L4",
+  "L5"
+ ],
+ "applies_to_components": [
+  "Non-original replacement exhaust silencing system (NORESS)",
+  "NORESS components: exhaust manifold",
+  "NORESS components: silencer proper",
+  "NORESS components: expansion chamber",
+  "NORESS components: resonator",
+  "Fibrous absorbent material used in silencers"
+ ],
+ "relation_to_other_regulations": [
+  "Refers to UN Regulation No. 9 (sound emission of L2, L4, L5 vehicles); a NORESS is a part different from the type fitted when the vehicle was type-approved under it",
+  "Refers to UN Regulation No. 41 (sound emission of motorcycles L3); Annex 1 Part A covers NORESS for vehicle types approved according to the 04 series of amendments to UN R41",
+  "Refers to UN Regulation No. 63 (sound emission of mopeds L1)",
+  "Sound measurement methods are those of Annex 3 to UN R9, R41 or R63; the test vehicle must meet the limits of the appropriate Regulation (+1 dB(A) in motion, +3 dB(A) stationary)",
+  "Vehicle categories as defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3)"
+ ],
+ "defined_terms": [
+  {
+   "term": "NORESS",
+   "label": "Non-original replacement exhaust silencing system or components of this system",
+   "definition": "A system of a type different from that fitted to the vehicle on approval or extension of approval, usable only as a replacement exhaust or silencing system."
+  },
+  {
+   "term": "NORESS component",
+   "label": "Non-original replacement exhaust silencing system component",
+   "definition": "One of the various components, in particular the exhaust manifold, silencer proper, expansion chamber and resonator, which together form the exhaust silencing system."
+  },
+  {
+   "term": "NORESS of different types",
+   "label": "Non-original replacement exhaust silencing systems of different types",
+   "definition": "Silencing systems differing significantly in trade names or marks, material characteristics, shape or size, operating principles of a component, or combination of components; a change in coating is not a change of type."
+  },
+  {
+   "term": "NORESS or component thereof",
+   "label": "Non-original replacement exhaust silencing system (NORESS) or component thereof",
+   "definition": "Any part of the exhaust silencing system intended for use on a vehicle other than a part of the type fitted when the vehicle was type-approved under UN R9, R41 or R63."
+  },
+  {
+   "term": "Approval of a NORESS",
+   "label": "Approval of a NORESS or component(s) thereof",
+   "definition": "Approval of the whole or a part of a silencing system adaptable to one or several specified vehicle types, as regards the limitation of their sound level."
+  },
+  {
+   "term": "Vehicle type",
+   "label": "Vehicle type",
+   "definition": "Vehicles not differing in engine type, drive train, or number, type and arrangement of exhaust silencing systems."
+  },
+  {
+   "term": "n_rated",
+   "label": "Rated engine speed",
+   "definition": "The (highest) engine speed at which the engine develops its rated maximum net power as stated by the manufacturer."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Complete NORESS vs. NORESS component(s)",
+   "distinguished_by": "Approval of the whole silencing system or of a part (e.g. manifold, silencer, expansion chamber, resonator)"
+  },
+  {
+   "name": "NORESS types",
+   "distinguished_by": "Trade name/mark, materials, shape or size, operating principle, combination of components (coating changes excluded)"
+  },
+  {
+   "name": "NORESS for vehicles approved to UN R41 04 series (Annex 1 Part A) vs. other vehicle types",
+   "distinguished_by": "Series of amendments of the sound regulation under which the target vehicle type was approved"
+  },
+  {
+   "name": "Silencers with or without fibrous absorbent material",
+   "distinguished_by": "Use of fibrous absorbent material subject to Annex 3 requirements"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "NORESS",
+    "L1-L5 vehicle categories"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "NORESS",
+    "NORESS component",
+    "NORESS of different types",
+    "Vehicle type",
+    "n_rated"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "NORESS",
+    "Vehicle type",
+    "documentation, samples, test vehicle sound conditions"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Markings",
+   "about": [
+    "NORESS component",
+    "trade name, commercial designation, vehicle type labelling, packaging, mounting instructions"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Approval",
+   "about": [
+    "Approval of a NORESS",
+    "approval mark"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Specifications",
+   "about": [
+    "NORESS",
+    "sound level"
+   ]
+  },
+  {
+   "label": "6.3",
+   "title": "Additional requirements",
+   "about": [
+    "NORESS",
+    "additional sound emission requirements"
+   ]
+  },
+  {
+   "label": "6.4",
+   "title": "Measurement of vehicle performance",
+   "about": [
+    "NORESS",
+    "Vehicle type",
+    "n_rated",
+    "comparison of performance with original system"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Modification and extension of the approval of NORESS and extension of approval",
+   "about": [
+    "Approval of a NORESS"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Conformity of production",
+   "about": [
+    "NORESS"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Penalties for non-conformity of production",
+   "about": [
+    "NORESS"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Production definitively discontinued",
+   "about": [
+    "NORESS"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Names and addresses of Technical Services responsible for conducting approval tests, and of Type Approval Authorities",
+   "about": [
+    "administrative"
+   ]
+  },
+  {
+   "label": "12",
+   "title": "Transitional provisions",
+   "about": [
+    "NORESS",
+    "series of amendments"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication (Part A: NORESS for vehicle types approved according to the 04 series of amendments to UN R41; other parts)",
+   "about": [
+    "Approval of a NORESS",
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Arrangements of the approval mark",
+   "about": [
+    "approval mark"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Fibrous absorbent materials",
+   "about": [
+    "NORESS component",
+    "fibrous absorbent material",
+    "asbestos-free",
+    "conditioning",
+    "sound level after removal of fibrous material"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Statement of compliance (maximum format A4)",
+   "about": [
+    "NORESS",
+    "additional sound emission provisions statement"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Applies only to non-original (aftermarket) exhaust/silencing parts of a type different from the OE system fitted at vehicle approval; OE-type replacement parts are not NORESS",
+  "Individual parts can be approved on their own: exhaust manifolds (headers), silencers/mufflers/end cans, expansion chambers and resonators all fall under it",
+  "Covers mopeds (L1, L2) and three-wheelers/quadricycle-like L4/L5 as well as motorcycles (L3), linked to R63, R9 and R41 respectively",
+  "Silencers containing fibrous absorbent (packing) material must also meet Annex 3 (asbestos-free, sound level after removal, conditioning)",
+  "A change only of coating (zinc, aluminium, etc.) does not create a new NORESS type",
+  "Approval is vehicle-type specific: the NORESS must be labelled with the vehicle types for which it is approved, and a component may carry several approval numbers",
+  "Pipes and fitting accessories are excluded from the marking requirement but are part of the system description"
+ ],
+ "version": "2.0.0"
+}

@@ -1,0 +1,525 @@
+{
+ "regulation": "UN R83 (version 9.0.0)",
+ "title": "Emissions of M1 and N1 vehicles",
+ "subject_kind": "vehicle_system",
+ "scope_summary": "Type approval of motor vehicles with regard to crankcase emissions (Type 3 test) and exhaust emissions at low ambient temperature (Type 6 test). It also sets in-service conformity rules (tailpipe and evaporative emissions, battery durability, low-temperature electric range ratio of PEVs, brake emissions, OBM), plus anti-tampering, security, cybersecurity and manipulation device/strategy rules, for M1 and N1 vehicles (optionally N2 3.5-5 t derived from N1).",
+ "scope_quote": "This Regulation establishes technical requirements for the type approval of motor vehicles with regard to crankcase emissions (Type 3 test) and exhaust emissions at low ambient temperature (Type 6 test) for emissions of gaseous compounds. In addition, this Regulation lays down rules for in-service conformity for tailpipe and evaporative emissions, battery durability, electric range ratio of pure electric vehicles at low temperatures, brake emissions and on-board monitoring; as well as rules for anti-tampering, security and cybersecurity; and manipulation devices and manipulation strategies. This Regulation shall apply to vehicles of categories M1 and N1.",
+ "vehicle_categories": [
+  "M1",
+  "N1",
+  "N2 (between 3.5 and 5 tonnes maximum mass, originating from an N1 type, at manufacturer's request)"
+ ],
+ "applies_to_components": [
+  "Crankcase and crankcase ventilation system",
+  "Pollution control devices (exhaust and evaporative emission control)",
+  "Exhaust after-treatment system and reagent",
+  "Positive ignition engines (low-temperature Type 6 test)",
+  "Traction battery (REESS) of OVC-HEVs and PEVs – durability",
+  "SOCR monitor",
+  "SOCE monitor",
+  "OBD / OBM systems",
+  "OBFCM device",
+  "Odometer",
+  "Engine / electric motor / propulsion system software and control logic (anti-tampering, cybersecurity)",
+  "Base Emission Strategy and Auxiliary Emission Strategies",
+  "Manipulation devices and manipulation strategies",
+  "Friction brakes (brake emissions ISC / friction braking share)",
+  "Reference fuels (liquid and gaseous)"
+ ],
+ "relation_to_other_regulations": [
+  "Definitions of UN Regulation No. 154 (WLTP) apply unless specified otherwise; vehicle type per para 3.0.1 of R154",
+  "Requires demonstration of compliance with UN R85 or UN R177 (if applicable)",
+  "Requires Level 1A or Level 2 of UN R154",
+  "Requires Level 1A or Level 2 of UN R168 on real driving emissions (RDE) if applicable; PEMS defined per Annex 4 of R168",
+  "Requires compliance with UN Regulation No. [179] on brake particle emissions",
+  "Requires compliance with UN Regulation No. [180] on On-Board Monitoring (OBM) and Environmental Vehicle Passport (EVP)",
+  "Annex 9 uses definitions of UN Regulation No. 155 (cybersecurity)",
+  "Flex-fuel vehicle applications follow para 5.8 of UN R154",
+  "Certified/measured range per Appendix 3 to Annex C1 of R154.04; Type 4 ISC tests per Annex C3 of R154",
+  "Utility factor per Table A8.App5/1 of Appendix 5 to Annex B8 of R154"
+ ],
+ "defined_terms": [
+  {
+   "term": "Vehicle type",
+   "label": "2.1",
+   "definition": "A group of vehicles that fulfil the requirements for a vehicle type with regard to emissions per para 3.0.1 of UN R154."
+  },
+  {
+   "term": "Maximum mass",
+   "label": "2.3",
+   "definition": "The technically permissible maximum mass declared by the vehicle manufacturer."
+  },
+  {
+   "term": "Crankcase",
+   "label": "2.8",
+   "definition": "The spaces in or external to an engine connected to the oil sump by internal or external ducts through which gases and vapour can escape."
+  },
+  {
+   "term": "Pollution control devices",
+   "label": "2.12",
+   "definition": "Those components of a vehicle that control and/or limit exhaust and evaporative emissions."
+  },
+  {
+   "term": "In-service conformity (ISC)",
+   "label": "2.13",
+   "definition": "Activities carried out on vehicles in circulation, systems, separate technical units or components to verify compliance with the durability requirements of this Regulation."
+  },
+  {
+   "term": "Cold start",
+   "label": "2.26",
+   "definition": "In the context of OBD in-use performance ratio, an engine coolant or equivalent temperature at start ≤ 35 °C and ≤ 7 °C above ambient."
+  },
+  {
+   "term": "Reagent",
+   "label": "2.35",
+   "definition": "Any product other than fuel stored on-board and provided to the exhaust after-treatment system upon request of the emission control system."
+  },
+  {
+   "term": "Portable emissions measurement system (PEMS)",
+   "label": "2.37",
+   "definition": "A portable emissions measurement system meeting the requirements of Annex 4 of UN R168."
+  },
+  {
+   "term": "Base Emission Strategy (BES)",
+   "label": "2.38",
+   "definition": "An emission strategy active throughout the speed and load operating range unless an AES is activated."
+  },
+  {
+   "term": "Auxiliary Emission Strategy (AES)",
+   "label": "2.39",
+   "definition": "An emission strategy that replaces or modifies a BES for a specific purpose in response to specific ambient or operating conditions, only while they exist."
+  },
+  {
+   "term": "Manipulation device",
+   "label": "2.41",
+   "definition": "Any element of design that makes a vehicle non-compliant when driven outside a regulatory test while appearing compliant when tested, or that manipulates sensor, consumption, range or battery durability data."
+  },
+  {
+   "term": "Manipulation strategy",
+   "label": "2.42",
+   "definition": "A strategy that makes a vehicle non-compliant when driven outside a regulatory test while appearing compliant when tested, or that manipulates sensor, consumption, range or battery durability data."
+  },
+  {
+   "term": "Tampering",
+   "label": "2.43",
+   "definition": "Inactivation or modification of the engine/motor, pollution control devices, propulsion system, traction battery, odometer, OBFCM, OBD or OBM, including software and data, resulting in non-compliance."
+  },
+  {
+   "term": "Battery",
+   "label": "2.44",
+   "definition": "A rechargeable electrical energy storage system (REESS) installed in an electrified vehicle and used mainly for traction."
+  },
+  {
+   "term": "Usable battery energy (UBE)",
+   "label": "2.45",
+   "definition": "Energy supplied by the battery from the start of the certification test procedure until its break-off criterion is reached."
+  },
+  {
+   "term": "Electric Range",
+   "label": "2.46",
+   "definition": "The range the certification range test would give at the present point in the vehicle lifetime with the originally installed battery."
+  },
+  {
+   "term": "Certified range",
+   "label": "2.47",
+   "definition": "The electric driving range determined during certification per Appendix 3 to Annex C1 of R154.04."
+  },
+  {
+   "term": "Measured range",
+   "label": "2.48",
+   "definition": "The electric range determined at the present point in the vehicle lifetime by the certification test procedure."
+  },
+  {
+   "term": "State of certified energy (SOCE)",
+   "label": "2.49",
+   "definition": "Measured or on-board UBE at a point in lifetime as a percentage of certified UBE."
+  },
+  {
+   "term": "State of certified range (SOCR)",
+   "label": "2.50",
+   "definition": "Measured or on-board electric range at a point in lifetime as a percentage of certified range."
+  },
+  {
+   "term": "Minimum Performance Requirement (MPR)",
+   "label": "2.51",
+   "definition": "The minimum SOCE or SOCR durability performance at a point in lifetime constituting compliance."
+  },
+  {
+   "term": "Declared Performance Requirement (DPR)",
+   "label": "2.52",
+   "definition": "A manufacturer-declared SOCE/SOCR value above the MPR that becomes the binding minimum durability performance."
+  },
+  {
+   "term": "SOCR monitor",
+   "label": "2.53",
+   "definition": "An apparatus installed in the vehicle that estimates the state of certified range by an algorithm on vehicle system data."
+  },
+  {
+   "term": "SOCE monitor",
+   "label": "2.54",
+   "definition": "An apparatus installed in the vehicle that estimates the state of certified energy by an algorithm on vehicle system data."
+  },
+  {
+   "term": "On-board SOCR / On-board SOCE",
+   "label": "2.55-2.56",
+   "definition": "Estimates of SOCR / SOCE produced by the respective on-board monitor."
+  },
+  {
+   "term": "Measured SOCR / Measured SOCE",
+   "label": "2.57-2.58",
+   "definition": "SOCR as measured range over certified range, and SOCE as measured UBE over certified UBE."
+  },
+  {
+   "term": "V2X",
+   "label": "2.59",
+   "definition": "Use of traction batteries to cover external power demand, such as V2G, V2H and V2L."
+  },
+  {
+   "term": "Total discharge energy for non-traction purposes",
+   "label": "2.60",
+   "definition": "Total kWh discharged from the battery for non-traction purposes supporting a Category N vehicle use case, excluding cabin HVAC and uses already present in category M."
+  },
+  {
+   "term": "SOCX",
+   "label": "2.61",
+   "definition": "State of Certified Energy or State of Certified Range, as applicable."
+  },
+  {
+   "term": "Main lifetime",
+   "label": "2.62",
+   "definition": "Up to 160,000 km or 8 years, whichever comes first."
+  },
+  {
+   "term": "Additional lifetime",
+   "label": "2.63",
+   "definition": "The period after main lifetime up to 200,000 km or 10 years, whichever comes first."
+  },
+  {
+   "term": "Small-volume manufacturer (SVM)",
+   "label": "2.64",
+   "definition": "A manufacturer with fewer than 10,000 M1 or 22,000 N1 new EU registrations per year meeting group-related conditions, or as defined regionally by other contracting parties."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Vehicle categories M1, N1 (and N2 derived from N1)",
+   "distinguished_by": "Vehicle category per R.E.3; N2 3.5-5 t optional at manufacturer request"
+  },
+  {
+   "name": "Emission standards / emission characters (e.g. FL = Euro 7A)",
+   "distinguished_by": "Table A3/1 of Annex 3, letter in approval number and mark, taking utility factor into account"
+  },
+  {
+   "name": "Positive ignition vs compression ignition vehicles",
+   "distinguished_by": "Type 6 low-temperature test (Annex 8) applies only to positive ignition engines"
+  },
+  {
+   "name": "OVC-HEVs and PEVs",
+   "distinguished_by": "Subject to battery durability ISC (SOCE/SOCR) and range checks"
+  },
+  {
+   "name": "Hybrid electric vehicles",
+   "distinguished_by": "Additional requirements in Type 3 and Type 6 tests"
+  },
+  {
+   "name": "Flex-fuel vehicles",
+   "distinguished_by": "Additional application requirements per para 5.8 of R154"
+  },
+  {
+   "name": "Small volume manufacturers",
+   "distinguished_by": "Specific declaration appendices (Annex 2 Appendices 3-7)"
+  },
+  {
+   "name": "Special purpose vehicles",
+   "distinguished_by": "Special provisions in para 12.3"
+  },
+  {
+   "name": "ISC family / OBM family / interpolation family",
+   "distinguished_by": "Grouping of vehicles for in-service conformity testing"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "Type 3 crankcase emissions",
+    "Type 6 low-temperature exhaust emissions",
+    "ISC",
+    "anti-tampering",
+    "manipulation devices",
+    "M1, N1"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Crankcase",
+    "Pollution control devices",
+    "Battery",
+    "SOCE",
+    "SOCR",
+    "SOCR monitor",
+    "SOCE monitor",
+    "AES",
+    "BES",
+    "Manipulation device",
+    "Tampering"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "information document",
+    "manipulation devices documentation",
+    "anti-tampering declaration",
+    "compliance with R85/R177, R154, R168, R179, R180",
+    "flex-fuel vehicles"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "approval number",
+    "approval mark",
+    "emission standard character"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Specifications and tests",
+   "about": [
+    "Type 3 test",
+    "Type 6 test",
+    "Pollution control devices"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Reserved",
+   "about": []
+  },
+  {
+   "label": "7",
+   "title": "Extensions to type approvals",
+   "about": [
+    "extensions"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Conformity of production (COP)",
+   "about": [
+    "COP"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "In-service conformity",
+   "about": [
+    "In-service conformity (ISC)"
+   ]
+  },
+  {
+   "label": "9.2",
+   "title": "In-service conformity checks of exhaust emissions and evaporative emissions",
+   "about": [
+    "Pollution control devices",
+    "PEMS",
+    "tailpipe emissions",
+    "evaporative emissions"
+   ]
+  },
+  {
+   "label": "9.3",
+   "title": "In-service conformity checks of In-vehicle battery durability for OVC-HEVs and PEVs",
+   "about": [
+    "Battery",
+    "SOCE",
+    "SOCR",
+    "SOCR monitor",
+    "SOCE monitor",
+    "MPR",
+    "DPR"
+   ]
+  },
+  {
+   "label": "9.5",
+   "title": "In-service conformity checks of Brake emissions",
+   "about": [
+    "brake emissions",
+    "friction braking share"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Penalties for non-conformity of production",
+   "about": []
+  },
+  {
+   "label": "11",
+   "title": "Production definitively discontinued",
+   "about": []
+  },
+  {
+   "label": "12",
+   "title": "Transitional and special provisions",
+   "about": [
+    "type approvals",
+    "special purpose vehicles"
+   ]
+  },
+  {
+   "label": "12.3",
+   "title": "Provisions for special purpose vehicles",
+   "about": [
+    "special purpose vehicles"
+   ]
+  },
+  {
+   "label": "13",
+   "title": "Names and addresses of technical services and type approval authorities",
+   "about": []
+  },
+  {
+   "label": "Annex 1",
+   "title": "Information document (incl. Appendix 1 Test Reports)",
+   "about": [
+    "engines, energy converters, transmission, suspension",
+    "Type 3 test results"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Communication / type approval certificate and declarations (Appendices 1-7)",
+   "about": [
+    "crankcase gas declaration",
+    "anti-tampering, security and cybersecurity declaration",
+    "Small-volume manufacturer"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Arrangements of the approval mark",
+   "about": [
+    "emission standard characters Table A3/1"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "In-service conformity of tailpipe and evaporative emissions",
+   "about": [
+    "ISC family",
+    "PEMS",
+    "Properly maintained and used",
+    "Type 4 evaporative test",
+    "testing transparency list"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "In-service conformity of battery durability",
+   "about": [
+    "SOCR monitor",
+    "SOCE monitor",
+    "Battery",
+    "virtual distance",
+    "V2X"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Type 3 test – verifying emissions of crankcase gases",
+   "about": [
+    "Crankcase",
+    "crankcase ventilation system",
+    "Hybrid electric vehicles"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Absence of manipulation devices and manipulation strategies",
+   "about": [
+    "Manipulation device",
+    "Manipulation strategy",
+    "AES",
+    "BES",
+    "Third party"
+   ]
+  },
+  {
+   "label": "Annex 8",
+   "title": "Type 6 test – CO and HC exhaust emissions after cold start at low ambient temperature",
+   "about": [
+    "positive ignition engines",
+    "Cold start",
+    "chassis dynamometer",
+    "Hybrid electric vehicles"
+   ]
+  },
+  {
+   "label": "Annex 9",
+   "title": "Anti-tampering, security and cybersecurity",
+   "about": [
+    "Tampering",
+    "OBD/OBM",
+    "OBFCM",
+    "odometer",
+    "traction battery",
+    "R155 definitions"
+   ]
+  },
+  {
+   "label": "Annex 10",
+   "title": "Specifications of reference fuels",
+   "about": [
+    "reference fuels",
+    "positive ignition engines"
+   ]
+  },
+  {
+   "label": "Annex 10a",
+   "title": "Specifications of gaseous reference fuels",
+   "about": [
+    "LPG/NG reference fuels"
+   ]
+  },
+  {
+   "label": "Annex 11",
+   "title": "(Introduction only listed)",
+   "about": []
+  },
+  {
+   "label": "Annex 12",
+   "title": "In-service verification of friction braking share coefficient (brake emissions)",
+   "about": [
+    "brake emissions",
+    "interpolation family"
+   ]
+  },
+  {
+   "label": "Annex 13",
+   "title": "In-service conformity checks of OBM systems",
+   "about": [
+    "OBM",
+    "OBM family",
+    "market surveillance"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Although titled for M1/N1 emissions, this version focuses on Type 3 (crankcase) and Type 6 (low temperature, positive ignition only) tests; Type 1/RDE etc. are referred to R154/R168 but compliance must be demonstrated in the application",
+  "Any ECU software or calibration affecting emission strategies (BES/AES) falls under manipulation-device scrutiny (Annex 7)",
+  "Anti-tampering/cybersecurity (Annex 9) covers engine/motor control, pollution control devices, traction battery, odometer, OBFCM, OBD and OBM including software and data",
+  "Battery-electric and plug-in hybrid vehicles are in scope via battery durability ISC and SOCE/SOCR monitors even though they have no tailpipe emissions",
+  "Brake systems are relevant through brake emission ISC (para 9.5, Annex 12) and reference to R[179]",
+  "Reagent tanks/dosing (e.g. AdBlue/SCR) are pollution control/after-treatment components",
+  "Replacing make of a pollution control component does not automatically invalidate approval unless engine or pollution control functionality is affected (3.3.6)",
+  "N2 vehicles 3.5-5 t derived from N1 may be approved at manufacturer request",
+  "V2X/bidirectional charging use affects battery durability assessment (non-traction discharge energy for N vehicles)"
+ ],
+ "version": "9.0.0"
+}

@@ -1,0 +1,325 @@
+{
+ "regulation": "UN R162",
+ "title": "Approval of immobilizers and approval of a vehicle with regard to its immobilizer",
+ "subject_kind": "mixed",
+ "scope_summary": "Approves immobilizers, as devices intended to be permanently fitted to vehicles of any category, and approves vehicles with regard to their immobilizer(s). Vehicle approval covers category M1 and N1 with a maximum mass of not more than 2 tonnes, extendable to other categories at the manufacturer's request; only 12 V electrical systems are considered.",
+ "scope_quote": "1.1 Approval of immobilizers which are intended to be permanently fitted to vehicles of any category. 1.2 Approval of vehicles of category M1 and those of category N1 with a maximum mass of not more than 2 tonnes, with regard to their immobilizer(s). 1.3 At the request of the manufacturer, Contracting Parties may grant approvals to vehicles of other categories with regard to their immobilizer(s). 1.4 This UN Regulation does not apply to radio transmission frequencies, whether or not related to the protection of vehicles against unauthorized use.",
+ "vehicle_categories": [
+  "Any category (immobilizer as component/separate technical unit)",
+  "M1",
+  "N1 (maximum mass not more than 2 tonnes)",
+  "Other categories at manufacturer's request (vehicle approval)",
+  "Only vehicles with 12 V electrical systems"
+ ],
+ "applies_to_components": [
+  "Immobilizer",
+  "Control equipment (setting/unsetting of the immobilizer)",
+  "Status display",
+  "Key (mechanical and/or electronic)",
+  "Digital key",
+  "Override",
+  "Rolling code transmitting unit"
+ ],
+ "relation_to_other_regulations": [
+  "Combined approval as immobilizer under R162 and alarm system under UN Regulation No. [ZZZ], UN R116 (Supplement 7 to the original version) or UN R97 (Supplement 8 to the 01 series): both approval marks affixed to the major element(s) of the device (para. 4.8).",
+  "An immobilizer approved as a separate technical unit to R162, UN R116 (Supplement 7 to original version) or UN R97 (Supplement 8 to 01 series) installed in a vehicle submitted for R162 approval need not repeat immobilizer tests (para. 4.11).",
+  "Vehicle categories as defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3), ECE/TRANS/WP.29/78/Rev.6.",
+  "Does not cover radio transmission frequencies (para. 1.4)."
+ ],
+ "defined_terms": [
+  {
+   "term": "Component",
+   "label": "2.1",
+   "definition": "A device subject to the requirements of this regulation, intended to be part of a vehicle, which may be type-approved independently of a vehicle where the regulation expressly provides."
+  },
+  {
+   "term": "Separate technical unit",
+   "label": "2.2",
+   "definition": "A device subject to this regulation, intended to be part of a vehicle, which may be type-approved separately but only in relation to one or more specified vehicle types."
+  },
+  {
+   "term": "Immobilizer",
+   "label": "2.4",
+   "definition": "A device which is intended to prevent normal driving away of a vehicle under its own power (prevention of unauthorized use)."
+  },
+  {
+   "term": "Control equipment",
+   "label": "2.5",
+   "definition": "Equipment necessary for the setting and/or unsetting of an immobilizer."
+  },
+  {
+   "term": "Status display",
+   "label": "2.6",
+   "definition": "Any device intended to indicate the status of the immobilizer (set/unset, change of set to unset and vice versa)."
+  },
+  {
+   "term": "Set state",
+   "label": "2.7",
+   "definition": "The state in which the vehicle cannot be driven normally under its own power."
+  },
+  {
+   "term": "Unset state",
+   "label": "2.8",
+   "definition": "The state in which the vehicle can be driven normally."
+  },
+  {
+   "term": "Key",
+   "label": "2.9",
+   "definition": "Any mechanical and/or electronic solution designed and constructed to provide a method of operating a locking system designed to be operated by that solution."
+  },
+  {
+   "term": "Override",
+   "label": "2.10",
+   "definition": "A design feature which locks the immobilizer in the unset condition."
+  },
+  {
+   "term": "Rolling code",
+   "label": "2.11",
+   "definition": "An electronic code of several elements whose combination changes at random after each operation of the transmitting unit."
+  },
+  {
+   "term": "Type of immobilizer",
+   "label": "2.12",
+   "definition": "Systems not differing significantly in trade name or mark, kind of control equipment, and design of their operation on the relevant vehicle system(s)."
+  },
+  {
+   "term": "Vehicle type with regard to its immobilizer",
+   "label": "2.13",
+   "definition": "Vehicles not differing significantly in trade name or mark, vehicle features significantly influencing immobilizer performance, and type and design of the immobilizer."
+  },
+  {
+   "term": "Primary user",
+   "label": "2.14",
+   "definition": "A user who is able to authorize digital keys; there can be more than one."
+  },
+  {
+   "term": "Digital key",
+   "label": "2.15",
+   "definition": "A key designed to be transferred to multiple devices by the primary user(s) through dedicated processes."
+  },
+  {
+   "term": "Close proximity",
+   "label": "2.16",
+   "definition": "A distance of less than 6 m."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Immobilizer approved as component / separate technical unit",
+   "distinguished_by": "Approval of the device itself (para. 1.1), marked on major element(s) of the device or supplied with certificate of conformity"
+  },
+  {
+   "name": "Vehicle approval with regard to its immobilizer",
+   "distinguished_by": "Approval of M1/N1 ≤2 t (or other categories on request) vehicle with installed immobilizer (para. 1.2/1.3), mark near vehicle data plate"
+  },
+  {
+   "name": "Combined immobilizer and alarm system",
+   "distinguished_by": "Device approved under R162 and also as alarm system under R[ZZZ], R116 or R97; both marks affixed"
+  },
+  {
+   "name": "Digital key systems",
+   "distinguished_by": "Keys transferable to multiple devices by primary user(s); additional documentation, safe operation, cyber security and verification requirements in Annex 9"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "Immobilizer",
+    "Vehicle type with regard to its immobilizer"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Component",
+    "Separate technical unit",
+    "Immobilizer",
+    "Control equipment",
+    "Status display",
+    "Key",
+    "Digital key",
+    "Override",
+    "Rolling code",
+    "Primary user",
+    "Close proximity"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "Type of immobilizer",
+    "Vehicle type with regard to its immobilizer"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "Approval mark",
+    "Certificate of conformity",
+    "Separate technical unit",
+    "Combined immobilizer/alarm approval"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Specifications",
+   "about": [
+    "Immobilizer"
+   ]
+  },
+  {
+   "label": "5.1",
+   "title": "General Specifications",
+   "about": [
+    "Immobilizer",
+    "Control equipment",
+    "Status display"
+   ]
+  },
+  {
+   "label": "5.2",
+   "title": "Particular Specifications",
+   "about": [
+    "Immobilizer",
+    "Set state",
+    "Unset state",
+    "Override",
+    "Key",
+    "Rolling code",
+    "Digital key"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Modification of the type and extension of approval",
+   "about": [
+    "Type of immobilizer",
+    "Vehicle type with regard to its immobilizer"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Conformity of production",
+   "about": []
+  },
+  {
+   "label": "8",
+   "title": "Penalties for non-conformity of production",
+   "about": []
+  },
+  {
+   "label": "9",
+   "title": "Production definitively discontinued",
+   "about": []
+  },
+  {
+   "label": "10",
+   "title": "Names and addresses of Technical Services responsible for conducting approval tests, and of Type Approval Authorities",
+   "about": []
+  },
+  {
+   "label": "Annex 1a",
+   "title": "Information document (vehicle type with regard to its immobilizer)",
+   "about": [
+    "Vehicle type with regard to its immobilizer"
+   ]
+  },
+  {
+   "label": "Annex 1b",
+   "title": "Information document (immobilizer device type)",
+   "about": [
+    "Type of immobilizer",
+    "Control equipment"
+   ]
+  },
+  {
+   "label": "Annex 2a",
+   "title": "Communication concerning approval of a vehicle type with regard to its immobilizer",
+   "about": [
+    "Vehicle type with regard to its immobilizer"
+   ]
+  },
+  {
+   "label": "Annex 2b",
+   "title": "Communication concerning approval of an immobilizer type",
+   "about": [
+    "Type of immobilizer"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Arrangements of approval marks",
+   "about": [
+    "Approval mark"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Model certificate of conformity",
+   "about": [
+    "Immobilizer",
+    "Certificate of conformity"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Installation certificate / declaration by installation professional",
+   "about": [
+    "Immobilizer"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Operation parameters and test conditions",
+   "about": [
+    "Immobilizer",
+    "Control equipment",
+    "Status display",
+    "Normal test conditions (12 V, 23 °C)",
+    "Operation tests",
+    "Vibration test"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Electromagnetic compatibility",
+   "about": [
+    "Immobilizer",
+    "Immunity against conducted supply-line disturbances",
+    "Immunity against radiated HF disturbances",
+    "Electrostatic discharge",
+    "Radiated emissions"
+   ]
+  },
+  {
+   "label": "Annex 9",
+   "title": "Requirements for digital keys",
+   "about": [
+    "Digital key",
+    "Primary user",
+    "Close proximity",
+    "Documentation",
+    "Safe operation",
+    "Cyber security",
+    "Verification",
+    "Competence of auditors"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Aftermarket immobilizers intended to be permanently fitted fall under the component approval regardless of vehicle category.",
+  "Smartphone/phone-as-key or shareable keys count as 'digital keys' and trigger Annex 9 (documentation, cyber-attack resistance, verification).",
+  "Key fobs, transponder keys, keypads or cards used to set/unset the immobilizer are 'control equipment' and/or 'keys' within this regulation.",
+  "Indicator LEDs or displays showing immobilizer status are 'status displays'.",
+  "Integrated vehicle alarm/immobilizer units may need dual approval with R116, R97 or the alarm regulation; a prior STU approval under R116/R97 avoids retesting.",
+  "Immobilizer components must meet EMC immunity/emission tests in Annex 7 and environmental/vibration tests in Annex 6.",
+  "Radio transmission frequencies of remote controls are outside scope.",
+  "Only 12 V electrical systems are considered."
+ ],
+ "version": "0.6.0"
+}

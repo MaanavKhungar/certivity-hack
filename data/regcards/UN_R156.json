@@ -1,0 +1,267 @@
+{
+ "regulation": "UN R156",
+ "title": "Software update and software updates management system",
+ "subject_kind": "vehicle_system",
+ "scope_summary": "This Regulation approves vehicle types with regard to their software update processes, and requires the vehicle manufacturer to hold a Certificate of Compliance for its Software Update Management System (SUMS). It applies to vehicles of categories M, N, O, R, S and T that permit software updates.",
+ "scope_quote": "This Regulation applies to vehicles of Categories M, N, O, R, S and T that permit software updates.",
+ "vehicle_categories": [
+  "M",
+  "N",
+  "O",
+  "R",
+  "S",
+  "T"
+ ],
+ "applies_to_components": [
+  "Software update processes of the vehicle type",
+  "Software Update Management System (SUMS) of the vehicle manufacturer",
+  "Software of Electronic Control Systems",
+  "Software updates (including changes of configuration parameters)",
+  "Over-the-Air (OTA) updates",
+  "RX Software Identification Number (RXSWIN)",
+  "Integrity validation data"
+ ],
+ "relation_to_other_regulations": [
+  "RXSWIN definition refers to the type approval relevant software contributing to the type approval relevant characteristics of the vehicle under any other UN Regulation N° X, so software updates may affect approvals granted under other Regulations.",
+  "Vehicle categories as defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3), ECE/TRANS/WP.29/78/Rev.6.",
+  "Approval mark may be combined with marks of other Regulations under which the vehicle type is approved (paragraph 4.2)."
+ ],
+ "defined_terms": [
+  {
+   "term": "Vehicle type",
+   "label": "2.1",
+   "definition": "Vehicles which do not differ in the manufacturer's designation of the vehicle type and in essential aspects of the design with respect to software update processes."
+  },
+  {
+   "term": "RX Software Identification Number (RXSWIN)",
+   "label": "2.2",
+   "definition": "A dedicated manufacturer-defined identifier representing information about the type approval relevant software of the Electronic Control System contributing to the Regulation N° X type approval relevant characteristics of the vehicle."
+  },
+  {
+   "term": "Software update",
+   "label": "2.3",
+   "definition": "A package used to upgrade software to a new version including a change of the configuration parameters."
+  },
+  {
+   "term": "Execution",
+   "label": "2.4",
+   "definition": "The process of installing and activating an update that has been downloaded."
+  },
+  {
+   "term": "Software Update Management System (SUMS)",
+   "label": "2.5",
+   "definition": "A systematic approach defining organizational processes and procedures to comply with the requirements for delivery of software updates according to this Regulation."
+  },
+  {
+   "term": "Vehicle user",
+   "label": "2.6",
+   "definition": "A person operating or driving the vehicle, a vehicle owner, an authorised representative or employee of a fleet manager or of the vehicle manufacturer, or an authorized technician."
+  },
+  {
+   "term": "Safe state",
+   "label": "2.7",
+   "definition": "An operating mode in case of a failure of an item without an unreasonable level of risk."
+  },
+  {
+   "term": "Software",
+   "label": "2.8",
+   "definition": "The part of an Electronic Control System that consists of digital data and instruction."
+  },
+  {
+   "term": "Over-the-Air (OTA) update",
+   "label": "2.9",
+   "definition": "Any method of making data transfers wirelessly instead of using a cable or other local connection."
+  },
+  {
+   "term": "System",
+   "label": "2.10",
+   "definition": "A set of components and/or sub-systems that implement a function or functions."
+  },
+  {
+   "term": "Integrity validation data",
+   "label": "2.11",
+   "definition": "A representation of digital data against which comparisons can be made to detect errors or changes in the data, such as checksums and hash values."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Vehicle types with software updates over the air",
+   "distinguished_by": "Whether OTA software updates are included (Annex 1 item 9.4, Annex 2 item 8); additional OTA-specific requirements apply."
+  },
+  {
+   "name": "Vehicle types with software updates by local/cable connection only",
+   "distinguished_by": "Software updates are performed without wireless transfer; OTA-specific requirements do not apply."
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "Vehicle type",
+    "Software update"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Vehicle type",
+    "RX Software Identification Number (RXSWIN)",
+    "Software update",
+    "Execution",
+    "Software Update Management System (SUMS)",
+    "Vehicle user",
+    "Safe state",
+    "Software",
+    "Over-the-Air (OTA) update",
+    "System",
+    "Integrity validation data"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "Vehicle type",
+    "Software Update Management System (SUMS)"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Marking",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Approval",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Certificate of Compliance for Software Update Management System",
+   "about": [
+    "Software Update Management System (SUMS)"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "General specifications",
+   "about": [
+    "Software Update Management System (SUMS)",
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "7.1",
+   "title": "Requirements for the Software Update Management System of the vehicle manufacturer",
+   "about": [
+    "Software Update Management System (SUMS)",
+    "RX Software Identification Number (RXSWIN)",
+    "Software update",
+    "Software",
+    "System",
+    "Over-the-Air (OTA) update"
+   ]
+  },
+  {
+   "label": "7.2",
+   "title": "Requirements for the Vehicle Type",
+   "about": [
+    "Software update",
+    "Execution",
+    "Safe state",
+    "Vehicle user",
+    "Over-the-Air (OTA) update",
+    "Integrity validation data",
+    "RX Software Identification Number (RXSWIN)"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Modification and extension of the vehicle type",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Conformity of production",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Penalties for non-conformity of production",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Production definitively discontinued",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "12",
+   "title": "Names and addresses of Technical Services responsible for conducting approval test, and of Type Approval Authorities",
+   "about": []
+  },
+  {
+   "label": "Annex 1",
+   "title": "Information document",
+   "about": [
+    "Vehicle type",
+    "Software update",
+    "Over-the-Air (OTA) update"
+   ]
+  },
+  {
+   "label": "Annex 1 9.4",
+   "title": "Software updates over the air",
+   "about": [
+    "Over-the-Air (OTA) update"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Communication (approval form)",
+   "about": [
+    "Vehicle type",
+    "Software Update Management System (SUMS)",
+    "Over-the-Air (OTA) update"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Arrangement of the approval mark",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Model of Certificate of Compliance for Software Update Management System",
+   "about": [
+    "Software Update Management System (SUMS)"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Applies to any vehicle of categories M, N, O, R, S, T that permits software updates — including trailers (O) and agricultural/forestry vehicles and equipment (R, S, T), not just cars.",
+  "Approval is of the vehicle type plus the manufacturer's organisational SUMS; individual components/ECUs are not approved separately, but any ECU whose software can be updated is in scope via the vehicle manufacturer's SUMS and vehicle requirements.",
+  "A change of configuration parameters counts as a software update, so calibration/parameter changes are covered, not only new code.",
+  "ECUs whose software contributes to type-approval relevant characteristics under other UN Regulations must be tracked via an RXSWIN; updating them can affect those other approvals.",
+  "Wireless (OTA) update capability, e.g. telematics/connectivity units, triggers additional OTA-specific requirements (safe state, user information, preconditions, integrity validation).",
+  "Suppliers of software-updatable ECUs may need to provide information under intellectual property confidentiality provisions (3.4) to support the manufacturer's approval.",
+  "Update methods by workshop/diagnostic tools (cable/local connection) are also covered, not only OTA."
+ ],
+ "version": "0.1.0"
+}

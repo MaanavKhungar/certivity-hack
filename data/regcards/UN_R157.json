@@ -1,0 +1,644 @@
+{
+ "regulation": "UN R157",
+ "title": "Uniform provisions concerning the approval of vehicles with regard to Automated Lane Keeping Systems (ALKS)",
+ "subject_kind": "vehicle_system",
+ "scope_summary": "Approves vehicle types with regard to their Automated Lane Keeping System. The ALKS is a driver-activated automated driving system that controls lateral and longitudinal movement for extended periods up to 130 km/h. It applies to vehicles of categories M and N1.",
+ "scope_quote": "This Regulation applies to the type approval of vehicles of Category M and N1 with regards to their Automated Lane Keeping System.",
+ "vehicle_categories": [
+  "M1",
+  "M2",
+  "M3",
+  "N1"
+ ],
+ "applies_to_components": [
+  "Automated Lane Keeping System (ALKS) as a whole",
+  "ALKS electronic control system (sensors, electronic control units, actuators, transmission links, mechanical/electro-pneumatic/electro-hydraulic elements)",
+  "ALKS software (R157SWIN)",
+  "Sensing system and its detection range / self-check",
+  "Lateral and longitudinal control (steering and braking/acceleration actuation) performing the Dynamic Driving Task",
+  "Lane Change Procedure function including system-controlled direction indicator lamps",
+  "Emergency Manoeuvre and Evasive Lane Crossing function",
+  "Minimum Risk Manoeuvre function",
+  "Transition demand function",
+  "Driver Availability Recognition System",
+  "Activation/deactivation controls and driver input / system override",
+  "Human Machine Interface and information to the driver, including on-board displays used for non-driving activities",
+  "Object and Event Detection and Response (OEDR)",
+  "Data Storage System for Automated Driving (DSSAD)",
+  "Cyber security and software update provisions for the ALKS"
+ ],
+ "relation_to_other_regulations": [
+  "Described as the first regulatory step for an automated driving system as defined in ECE/TRANS/WP.29/1140.",
+  "Vehicle categories are as defined in the Consolidated Resolution R.E.3 (ECE/TRANS/WP.29/78/Rev.6).",
+  "Paragraph 9 (Cyber Security and Software-Updates) relates to cyber security and software update requirements; the information document allows a cross-reference to the cyber regulation (UN R155), and software updates are linked to UN R156 provisions.",
+  "Annex 4 sets special requirements for the safety aspects of electronic control systems, a complex-electronic-systems audit similar to those used in other UN Regulations, e.g. UN R79 and UN R13-H.",
+  "The Lane Change Procedure uses direction indicator lamps, whose installation is governed by UN R48.",
+  "Approval numbers currently correspond to the 01 series of amendments.",
+  "Paragraph 4.5 allows combined approval marks with other UN Regulations."
+ ],
+ "defined_terms": [
+  {
+   "term": "ALKS",
+   "label": "Automated Lane Keeping System",
+   "definition": "A driver-activated system that keeps the vehicle within its lane at travelling speeds of 130 km/h or less by controlling lateral and longitudinal movements for extended periods without further driver input."
+  },
+  {
+   "term": "Vehicle Type with regard to ALKS",
+   "label": "Vehicle type",
+   "definition": "Vehicles not differing in vehicle features significantly influencing ALKS performance or in ALKS system characteristics and design."
+  },
+  {
+   "term": "Transition demand",
+   "label": "Transition demand",
+   "definition": "A logical and intuitive procedure by which the system requests transfer of the Dynamic Driving Task from automated control to the human driver."
+  },
+  {
+   "term": "Transition phase",
+   "label": "Transition phase",
+   "definition": "The duration of the transition demand."
+  },
+  {
+   "term": "Planned event",
+   "label": "Planned event",
+   "definition": "A situation known in advance, such as a highway exit, that requires a transition demand."
+  },
+  {
+   "term": "Unplanned event",
+   "label": "Unplanned event",
+   "definition": "A situation unknown in advance but very likely to happen that requires a transition demand, such as road construction, bad weather or missing lane markings."
+  },
+  {
+   "term": "Imminent collision risk",
+   "label": "Imminent collision risk",
+   "definition": "A situation leading to a collision that cannot be avoided by a braking demand lower than 5 m/s2."
+  },
+  {
+   "term": "MRM",
+   "label": "Minimum Risk Manoeuvre",
+   "definition": "A risk-minimising procedure performed automatically by the system after an unanswered transition demand or a severe ALKS or vehicle failure."
+  },
+  {
+   "term": "EM",
+   "label": "Emergency Manoeuvre",
+   "definition": "A manoeuvre performed by the system at imminent collision risk to avoid or mitigate a collision."
+  },
+  {
+   "term": "Specified maximum speed",
+   "label": "Specified maximum speed",
+   "definition": "The manufacturer-declared speed up to which the system operates under optimum conditions."
+  },
+  {
+   "term": "Maximum operational speed",
+   "label": "Maximum operational speed",
+   "definition": "The speed selected by the system, based on sensing capability and environmental conditions, up to which the system may be active."
+  },
+  {
+   "term": "Present speed",
+   "label": "Present speed",
+   "definition": "The current speed selected by the system due to traffic."
+  },
+  {
+   "term": "Detection range",
+   "label": "Detection range",
+   "definition": "The distance at which the sensing system can reliably recognise a target and generate a control signal, accounting for lifetime deterioration."
+  },
+  {
+   "term": "ALKS failure",
+   "label": "ALKS failure",
+   "definition": "Any single failure specific to ALKS operation, such as a single sensor failure or loss of necessary calculation data."
+  },
+  {
+   "term": "Failure mode",
+   "label": "Failure mode",
+   "definition": "The operation status in which the system operates with an ALKS failure."
+  },
+  {
+   "term": "Severe ALKS failure",
+   "label": "Severe ALKS failure",
+   "definition": "A very-low-probability ALKS-specific failure that affects safe operation in failure mode, for example of an electronic control unit."
+  },
+  {
+   "term": "Severe vehicle failure",
+   "label": "Severe vehicle failure",
+   "definition": "A vehicle failure, such as loss of power supply, braking failure or sudden tyre pressure loss, that affects both ALKS DDT performance and manual operation."
+  },
+  {
+   "term": "Self-check",
+   "label": "Self-check",
+   "definition": "An integrated function that continuously checks for system failures and for the sensing system's detection range."
+  },
+  {
+   "term": "System override",
+   "label": "System override",
+   "definition": "A driver input to a control that has priority over the system's longitudinal or lateral control while the system is active."
+  },
+  {
+   "term": "DDT",
+   "label": "Dynamic Driving Task",
+   "definition": "The control and execution of all longitudinal and lateral movements of the vehicle."
+  },
+  {
+   "term": "DSSAD",
+   "label": "Data Storage System for Automated Driving",
+   "definition": "A system that enables determination of interactions between the ALKS and the human driver."
+  },
+  {
+   "term": "Lifetime of the system",
+   "label": "Lifetime of the system",
+   "definition": "The period during which the ALKS is available as a function on the vehicle."
+  },
+  {
+   "term": "Occurrences",
+   "label": "Occurrences",
+   "definition": "Events or incidents that require storage within the DSSAD."
+  },
+  {
+   "term": "R157SWIN",
+   "label": "R157 Software Identification Number",
+   "definition": "A manufacturer-defined identifier representing the type-approval-relevant software of the ALKS electronic control system."
+  },
+  {
+   "term": "Electronic control system",
+   "label": "Electronic control system",
+   "definition": "A combination of units, such as sensors, ECUs, actuators and transmission links, co-operating by electronic data processing to produce the automated lane keeping function."
+  },
+  {
+   "term": "Software",
+   "label": "Software",
+   "definition": "The part of an electronic control system consisting of digital data and instructions."
+  },
+  {
+   "term": "String instability",
+   "label": "String instability",
+   "definition": "Amplification by the following vehicle of a disturbance in the speed profile of the vehicle in front."
+  },
+  {
+   "term": "Starting lane",
+   "label": "Starting lane",
+   "definition": "The lane out of which the ALKS vehicle intends to manoeuvre."
+  },
+  {
+   "term": "Target lane",
+   "label": "Target lane",
+   "definition": "The lane, hard shoulder, refuge area or area beside the road into which the ALKS vehicle intends to manoeuvre."
+  },
+  {
+   "term": "Evading lane",
+   "label": "Evading lane",
+   "definition": "The lane into which the ALKS vehicle crosses during an evasive lane crossing."
+  },
+  {
+   "term": "LCP",
+   "label": "Lane Change Procedure",
+   "definition": "A sequence of operations from system activation to system deactivation of the direction indicator lamps, including suspension of lane keeping, lateral movement and the lane change manoeuvre."
+  },
+  {
+   "term": "LCM",
+   "label": "Lane Change Manoeuvre",
+   "definition": "The part of the LCP from the front wheel tyre edge crossing the lane marking until the rear wheels have fully crossed it."
+  },
+  {
+   "term": "Aborted lane change manoeuvre",
+   "label": "Aborted lane change manoeuvre",
+   "definition": "An LCM that is not completed and returns the vehicle to its original lane."
+  },
+  {
+   "term": "Target stop area",
+   "label": "Target stop area",
+   "definition": "A potential stopping area, such as an emergency lane, hard shoulder, area beside the road, slowest lane or own lane."
+  },
+  {
+   "term": "Beside the road",
+   "label": "Beside the road",
+   "definition": "Road surface beyond the carriageway boundaries that is not a hard shoulder or refuge area."
+  },
+  {
+   "term": "MRM lane change",
+   "label": "MRM lane change",
+   "definition": "A lane change procedure performed by the ALKS during a minimum risk manoeuvre."
+  },
+  {
+   "term": "Regular lane change",
+   "label": "Regular lane change",
+   "definition": "Any ALKS lane change procedure that is not an MRM lane change."
+  },
+  {
+   "term": "Evasive Lane Crossing",
+   "label": "Evasive Lane Crossing",
+   "definition": "An emergency manoeuvre resulting in the ALKS vehicle crossing a lane marking."
+  },
+  {
+   "term": "PVPA",
+   "label": "Potential Vehicle Presence Area",
+   "definition": "The speed-dependent area around the vehicle and target lane in which another vehicle could be relevant to an ALKS lane change."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "ALKS capable of an LCP (approval mark symbol \"LC\")",
+   "distinguished_by": "The system is able to perform a Lane Change Procedure (para 4.4.3.1)."
+  },
+  {
+   "name": "ALKS without lane change capability",
+   "distinguished_by": "Lane keeping only; no additional symbol in the approval mark."
+  },
+  {
+   "name": "Regular lane change vs MRM lane change",
+   "distinguished_by": "Whether the lane change is performed during a minimum risk manoeuvre."
+  },
+  {
+   "name": "Performance model 1 / Performance model 2 (Annex 3)",
+   "distinguished_by": "The alternative models used to derive the conditions under which collisions are deemed avoidable in traffic-critical scenarios."
+  },
+  {
+   "name": "ALKS failure vs severe ALKS failure vs severe vehicle failure",
+   "distinguished_by": "Severity of the failure and whether manual operation is also affected; this determines the response (failure mode, transition demand or MRM)."
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope and purpose",
+   "about": [
+    "ALKS",
+    "Vehicle Type with regard to ALKS"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "ALKS",
+    "Transition demand",
+    "MRM",
+    "EM",
+    "DDT",
+    "DSSAD",
+    "LCP",
+    "LCM",
+    "PVPA",
+    "Electronic control system",
+    "R157SWIN"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "Vehicle Type with regard to ALKS"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "approval mark",
+    "LCP (\"LC\" symbol)"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "System Safety and Fail-safe Response",
+   "about": [
+    "ALKS",
+    "ALKS failure",
+    "Severe ALKS failure",
+    "Severe vehicle failure",
+    "Self-check"
+   ]
+  },
+  {
+   "label": "5.1",
+   "title": "General Requirements",
+   "about": [
+    "ALKS",
+    "DDT",
+    "Lifetime of the system",
+    "Failure mode"
+   ]
+  },
+  {
+   "label": "5.2",
+   "title": "Dynamic Driving Task",
+   "about": [
+    "DDT",
+    "Lane keeping",
+    "following distance",
+    "LCP",
+    "LCM",
+    "Regular lane change",
+    "PVPA",
+    "Starting lane",
+    "Target lane",
+    "String instability",
+    "Specified maximum speed",
+    "Maximum operational speed",
+    "Detection range"
+   ]
+  },
+  {
+   "label": "5.3",
+   "title": "Emergency manoeuvre",
+   "about": [
+    "EM",
+    "Imminent collision risk",
+    "Evasive Lane Crossing",
+    "Evading lane"
+   ]
+  },
+  {
+   "label": "5.4",
+   "title": "Transition demand and system operation during transition phase",
+   "about": [
+    "Transition demand",
+    "Transition phase",
+    "Planned event",
+    "Unplanned event"
+   ]
+  },
+  {
+   "label": "5.5",
+   "title": "Minimum Risk Manoeuvre",
+   "about": [
+    "MRM",
+    "MRM lane change",
+    "Target stop area",
+    "Beside the road"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Human Machine Interface/operator information",
+   "about": [
+    "HMI",
+    "driver information"
+   ]
+  },
+  {
+   "label": "6.1",
+   "title": "Driver Availability Recognition System",
+   "about": [
+    "driver availability/attentiveness monitoring"
+   ]
+  },
+  {
+   "label": "6.2",
+   "title": "Activation, Deactivation and Driver Input",
+   "about": [
+    "activation/deactivation controls",
+    "driver input"
+   ]
+  },
+  {
+   "label": "6.3",
+   "title": "System override",
+   "about": [
+    "System override"
+   ]
+  },
+  {
+   "label": "6.4",
+   "title": "Information to the driver",
+   "about": [
+    "HMI signals",
+    "on-board displays",
+    "Transition demand"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Object and Event Detection and Response (OEDR)",
+   "about": [
+    "sensing system",
+    "Detection range",
+    "Self-check"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Data Storage System for Automated Driving",
+   "about": [
+    "DSSAD",
+    "Occurrences"
+   ]
+  },
+  {
+   "label": "8.2",
+   "title": "Recorded occurrences",
+   "about": [
+    "DSSAD",
+    "Occurrences"
+   ]
+  },
+  {
+   "label": "8.3",
+   "title": "Data elements",
+   "about": [
+    "DSSAD"
+   ]
+  },
+  {
+   "label": "8.4",
+   "title": "Data availability",
+   "about": [
+    "DSSAD"
+   ]
+  },
+  {
+   "label": "8.6",
+   "title": "Availability of DSSAD operation",
+   "about": [
+    "DSSAD"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Cyber Security and Software-Updates",
+   "about": [
+    "Software",
+    "R157SWIN",
+    "Electronic control system"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Modification of vehicle type and extension of approval",
+   "about": [
+    "Vehicle Type with regard to ALKS",
+    "R157SWIN"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Conformity of production",
+   "about": []
+  },
+  {
+   "label": "12",
+   "title": "Penalties for non-conformity of production",
+   "about": []
+  },
+  {
+   "label": "13",
+   "title": "Production definitively discontinued",
+   "about": []
+  },
+  {
+   "label": "14",
+   "title": "Names and addresses of Technical Services and Type Approval Authorities",
+   "about": []
+  },
+  {
+   "label": "15",
+   "title": "Transitional provisions",
+   "about": []
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication form and information document (Appendix 1: information document for ALKS; Appendix 2: additional information)",
+   "about": [
+    "ALKS",
+    "HMI",
+    "DSSAD",
+    "R157SWIN",
+    "Electronic control system"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Arrangements of approval marks",
+   "about": [
+    "approval mark",
+    "LC symbol"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Guidance on traffic disturbance critical scenarios for ALKS",
+   "about": [
+    "Imminent collision risk",
+    "EM"
+   ]
+  },
+  {
+   "label": "Annex 3 3.3",
+   "title": "Performance model 1",
+   "about": [
+    "collision avoidance conditions"
+   ]
+  },
+  {
+   "label": "Annex 3 3.4",
+   "title": "Performance model 2",
+   "about": [
+    "collision avoidance conditions"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Special requirements to be applied to the safety aspects of electronic control systems (audit)",
+   "about": [
+    "Electronic control system",
+    "Software",
+    "safety concept",
+    "safety management system"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Test specifications for ALKS (track tests)",
+   "about": [
+    "DDT",
+    "EM",
+    "LCP",
+    "Detection range"
+   ]
+  },
+  {
+   "label": "Annex 5 4.1",
+   "title": "Lane Keeping",
+   "about": [
+    "DDT"
+   ]
+  },
+  {
+   "label": "Annex 5 4.2",
+   "title": "Avoid a collision with a road user or object blocking the lane",
+   "about": [
+    "EM",
+    "Imminent collision risk"
+   ]
+  },
+  {
+   "label": "Annex 5 4.3",
+   "title": "Following a lead vehicle",
+   "about": [
+    "DDT",
+    "String instability"
+   ]
+  },
+  {
+   "label": "Annex 5 4.4",
+   "title": "Lane change of another vehicle into lane",
+   "about": [
+    "EM",
+    "cut-in"
+   ]
+  },
+  {
+   "label": "Annex 5 4.5",
+   "title": "Stationary obstacle after lane change of the lead vehicle",
+   "about": [
+    "EM",
+    "cut-out"
+   ]
+  },
+  {
+   "label": "Annex 5 4.6",
+   "title": "Field of View test",
+   "about": [
+    "Detection range",
+    "sensing system"
+   ]
+  },
+  {
+   "label": "Annex 5 4.7",
+   "title": "Lane changing",
+   "about": [
+    "LCP",
+    "LCM",
+    "PVPA"
+   ]
+  },
+  {
+   "label": "Annex 5 4.8",
+   "title": "Avoid emergency manoeuvre before a passable object in the lane",
+   "about": [
+    "EM"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Public road tests on ALKS",
+   "about": [
+    "Operational Design Domain (ODD)",
+    "DDT",
+    "LCP",
+    "data collection"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Any sensor (camera, radar, lidar, ultrasonic), ECU, actuator or transmission link that contributes to the automated lane keeping function is part of the ALKS 'electronic control system' and falls under paras 5, 7, 9 and Annex 4.",
+  "Steering, braking and powertrain actuators commanded by the ALKS are in scope through the DDT, EM and MRM requirements.",
+  "Direction indicator lamps controlled by the system are relevant when the ALKS performs a Lane Change Procedure (LC variant).",
+  "Driver monitoring cameras and sensors, such as eye or head tracking and hands-on detection, fall under the Driver Availability Recognition System (6.1).",
+  "Infotainment and on-board displays used for non-driving activities are affected, because they must be automatically suspended when a transition demand is issued (para 6.4 / introduction).",
+  "HMI elements such as telltales, displays, acoustic or haptic warning devices and ALKS activation/deactivation switches fall under para 6.",
+  "Event or data recorders storing ALKS–driver interaction data fall under the DSSAD requirements (para 8).",
+  "ALKS software and its update mechanism, including OTA, are covered by para 9 and the R157SWIN.",
+  "Only vehicle categories M and N1 are in scope in this version; N2/N3 are not covered by this text's scope.",
+  "Power supply, braking and tyre pressure systems can be relevant indirectly, because their failures count as 'severe vehicle failures' to which the ALKS must respond."
+ ],
+ "version": "1.4.0"
+}

@@ -1,0 +1,263 @@
+{
+ "regulation": "UN R23",
+ "title": "Reversing lamps (and manoeuvring lamps) for power-driven vehicles and their trailers",
+ "subject_kind": "component",
+ "scope_summary": "Approves device types of reversing lamps and manoeuvring lamps, including their photometric performance, colour, markings and approval marks. Reversing lamps are covered for vehicles of categories M, N, O and T, and manoeuvring lamps for vehicles of categories M and N.",
+ "scope_quote": "This Regulation applies to: (a) Reversing lamps for vehicles of categories M, N, O, and T; (b) Manoeuvring lamps for vehicles of categories M and N.",
+ "vehicle_categories": [
+  "M",
+  "N",
+  "O",
+  "T"
+ ],
+ "applies_to_components": [
+  "reversing lamp",
+  "manoeuvring lamp",
+  "light source module used in reversing/manoeuvring lamps",
+  "reversing/manoeuvring lamps with non-replaceable light sources (filament or LED)",
+  "reversing/manoeuvring lamp functions within grouped, combined or reciprocally incorporated lamps"
+ ],
+ "relation_to_other_regulations": [
+  "Vehicle categories as defined in Annex 7 to the Consolidated Resolution on the Construction of Vehicles (R.E.3), TRANS/WP.29/78/Rev.1/Amend.2 as amended by Amend.4.",
+  "The definitions of UN Regulation No. 48 (installation of lighting and light-signalling devices) apply (para. 1.3); installation on vehicles is governed by R48 (Annex 1 item 11 restricts installation of reversing lamps).",
+  "Filament lamp categories and standard (étalon) filament lamps refer to UN Regulation No. 37.",
+  "LED light source categories and standard (étalon) LED light sources refer to 'Regulation No. XXX' (the LED light source regulation, i.e. UN R128).",
+  "Grouped, combined or reciprocally incorporated lamps and independent lamps sharing an outer lens may carry a single approval mark covering several Regulations, provided each lamp complies with this or another Regulation (paras. 4.4, 4.5).",
+  "Conformity of production procedures follow the 1958 Agreement Appendix 2 (E/ECE/324-E/ECE/TRANS/505/Rev.2) per para. 9."
+ ],
+ "defined_terms": [
+  {
+   "term": "reversing lamp",
+   "label": "Reversing lamp",
+   "definition": "The lamp of the vehicle designed to illuminate the road to the rear of the vehicle and to warn other road users that the vehicle is reversing or about to reverse."
+  },
+  {
+   "term": "manoeuvring lamp",
+   "label": "Manoeuvring lamp",
+   "definition": "A lamp used to provide supplementary illumination to the side of the vehicle to assist during slow manoeuvres."
+  },
+  {
+   "term": "reversing/manoeuvring lamps of different types",
+   "label": "Lamps of different types",
+   "definition": "Lamps differing in essential respects such as trade name or mark (different manufacturers) or characteristics of the optical system (intensity levels, light distribution angles, light source category, light source module), a change of light source or filter colour not constituting a change of type."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Reversing lamp (symbol AR)",
+   "distinguished_by": "Function of illuminating the road to the rear and warning of reversing; additional approval symbol letters A and R; photometry per para. 6.1; white light."
+  },
+  {
+   "name": "Manoeuvring lamp (symbol ML)",
+   "distinguished_by": "Function of supplementary side illumination during slow manoeuvres, M and N only; additional symbol letters M and L; photometry per para. 6.2; mounting height and reference axis orientation declared."
+  },
+  {
+   "name": "Reversing lamp with asymmetrical horizontal visibility angles",
+   "distinguished_by": "Marked with an arrow pointing to the side on which photometric specifications are met up to 45° H (para. 4.3.4)."
+  },
+  {
+   "name": "Lamp with replaceable light source(s)",
+   "distinguished_by": "Uses R37 filament lamp categories and/or LED light source categories; light source category marked on the lamp."
+  },
+  {
+   "name": "Lamp with non-replaceable light source(s)",
+   "distinguished_by": "Non-replaceable filament or LED sources; marked with rated voltage or voltage range; documents per para. 5.5 required."
+  },
+  {
+   "name": "Lamp with light source module(s)",
+   "distinguished_by": "Module bears trade name and specific identification code starting with 'MD' plus rated voltage marking."
+  },
+  {
+   "name": "Independent lamps / grouped, combined or reciprocally incorporated lamps",
+   "distinguished_by": "Multiple lamp functions sharing a lens or assembly; single approval mark possible with identification symbols for each Regulation."
+  }
+ ],
+ "sections": [
+  {
+   "label": "Scope",
+   "title": "Scope",
+   "about": [
+    "reversing lamp",
+    "manoeuvring lamp"
+   ]
+  },
+  {
+   "label": "1",
+   "title": "Definitions",
+   "about": [
+    "reversing lamp",
+    "manoeuvring lamp",
+    "reversing/manoeuvring lamps of different types"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Application for approval",
+   "about": [
+    "reversing lamp",
+    "manoeuvring lamp",
+    "light source module",
+    "installation inclinations",
+    "drawings, technical description, samples"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Markings",
+   "about": [
+    "trade name",
+    "light source category",
+    "light source module identification code",
+    "TOP marking",
+    "rated voltage for non-replaceable light sources"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "approval mark",
+    "AR symbol for reversing lamp",
+    "ML symbol for manoeuvring lamp",
+    "arrow for asymmetrical reversing lamps",
+    "independent lamps",
+    "grouped, combined or reciprocally incorporated lamps"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "General specifications",
+   "about": [
+    "reversing lamp",
+    "manoeuvring lamp",
+    "non-replaceable light sources",
+    "light source module"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Intensity of light emitted",
+   "about": [
+    "reversing lamp",
+    "manoeuvring lamp",
+    "photometric requirements"
+   ]
+  },
+  {
+   "label": "6.1",
+   "title": "Intensity of the light specifications for reversing lamps",
+   "about": [
+    "reversing lamp"
+   ]
+  },
+  {
+   "label": "6.2",
+   "title": "Intensity of the light specifications for manoeuvring lamps",
+   "about": [
+    "manoeuvring lamp"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Test procedures",
+   "about": [
+    "photometric testing",
+    "étalon filament lamp",
+    "étalon LED light source"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Colour of light emitted",
+   "about": [
+    "reversing lamp",
+    "manoeuvring lamp",
+    "white colour"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Conformity of production",
+   "about": [
+    "production conformity"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Penalties for non-conformity of production",
+   "about": [
+    "withdrawal of approval"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Production definitively discontinued",
+   "about": [
+    "discontinuation notice"
+   ]
+  },
+  {
+   "label": "12",
+   "title": "Names and addresses of the Technical Services and Type Approval Authorities",
+   "about": [
+    "administrative"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication form",
+   "about": [
+    "approval communication",
+    "reversing lamp installation restriction",
+    "light source description"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Arrangements of approval marks",
+   "about": [
+    "single lamp marking",
+    "grouped, combined or reciprocally incorporated lamps marking",
+    "AR and ML symbols",
+    "Model E independent lamps"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Photometric measurements",
+   "about": [
+    "measurement methods",
+    "reversing lamp measuring points",
+    "lamps equipped with several light sources"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Minimum requirements for conformity of production control procedures",
+   "about": [
+    "manufacturer verification",
+    "test methods"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Minimum requirements for sampling by an inspector",
+   "about": [
+    "first sampling",
+    "repeated sampling",
+    "approval withdrawal"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "A reversing lamp function integrated into a rear combination lamp (grouped/combined/reciprocally incorporated with tail, stop, indicator or fog lamps) still requires R23 approval for that function, marked 'AR' alongside the other symbols.",
+  "Side-mounted supplementary illumination lamps for slow manoeuvres (e.g. lamps in mirror housings, side skirts or under-body for M and N vehicles) fall under R23 as manoeuvring lamps (symbol 'ML').",
+  "Reversing lamps for trailers (O) and agricultural/forestry tractors (T) are covered, not only cars and trucks.",
+  "LED-based lamps are covered: with replaceable LED light sources (LED source regulation categories), non-replaceable LEDs, or light source modules, which must carry their own 'MD' identification code.",
+  "Replacement/aftermarket reversing lamps differing only in trade name from an approved type can be approved with a manufacturer declaration (para. 2.2.4).",
+  "For manoeuvring lamps with limited space the approval mark may be placed on a permanently connected vehicle part or the vehicle data plate.",
+  "Changing only light source colour or filter colour does not create a new lamp type.",
+  "Installation requirements (number, position, switching) are not in R23 but in R48 (or R86 for tractors)."
+ ],
+ "version": "0.22.0"
+}

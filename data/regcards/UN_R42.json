@@ -1,0 +1,255 @@
+{
+ "regulation": "UN R42",
+ "title": "Uniform provisions concerning the approval of vehicles with regard to their front and rear protective devices (bumpers, etc.)",
+ "subject_kind": "vehicle_system",
+ "scope_summary": "Approval of a vehicle type with regard to the behaviour of its front and rear protective devices (bumpers etc.) when involved in a low-speed collision, verified by longitudinal and corner impact tests with a pendulum or moving barrier. Applies to vehicles of category M1.",
+ "scope_quote": "This Regulation applies to vehicles of category M1 with regard to the behaviour of their front and rear protective devices when involved in a collision at low speed.",
+ "vehicle_categories": [
+  "M1"
+ ],
+ "applies_to_components": [
+  "front protective devices (bumpers)",
+  "rear protective devices (bumpers)",
+  "front and rear parts of the vehicle structure affecting low-speed impact results",
+  "suspension characteristics insofar as they affect the impact test",
+  "safety-related vehicle parts that must remain functional after low-speed impact (lighting, signalling, bonnet/boot/door closing, fuel and cooling systems, exhaust, propulsion, suspension, tyres, steering, braking)"
+ ],
+ "relation_to_other_regulations": [
+  "Vehicle category M1 as defined in Annex 7 to the Consolidated Resolution on the Construction of Vehicles (R.E.3), TRANS/WP.29/78/Rev.1/Amend.2 as amended by Amendment 4",
+  "No replacement or alternative relationship to other UN Regulations stated in the provided text"
+ ],
+ "defined_terms": [
+  {
+   "term": "approval_of_a_vehicle",
+   "label": "Approval of a vehicle",
+   "definition": "The approval of a vehicle type with regard to the behaviour of certain parts of its front and rear structure in the event of a collision at low speed."
+  },
+  {
+   "term": "vehicle_type",
+   "label": "Vehicle type",
+   "definition": "A category of power-driven vehicles not differing in length/width and front/rear structure, dimensions, lines and materials, engine siting and weight, or suspension characteristics insofar as they affect the impact test results."
+  },
+  {
+   "term": "protective_devices",
+   "label": "Protective devices",
+   "definition": "Elements located at the front and rear ends of vehicles designed to allow contacts and small shocks to occur without causing serious damage (paragraph 2.1)."
+  },
+  {
+   "term": "unladen_weight",
+   "label": "Unladen weight",
+   "definition": "Weight of the vehicle in running order, unoccupied and unladen but complete with fuel, coolant, lubricant, tools and a spare wheel if provided as standard."
+  },
+  {
+   "term": "laden_test_weight",
+   "label": "Laden test weight",
+   "definition": "Unladen weight plus 75 kg per passenger, with the number and distribution of passengers set by the number of seating positions."
+  },
+  {
+   "term": "vehicle_corner",
+   "label": "Vehicle corner",
+   "definition": "The vehicle's point of contact with a tangent vertical plane making an angle of 60° with the longitudinal median plane of the vehicle."
+  },
+  {
+   "term": "reference_height",
+   "label": "Reference height",
+   "definition": "Height above the ground, at unladen kerb weight and at laden test weight, at which the vehicle should embody sufficient protective devices, defined by the horizontal plane through the impactor reference line."
+  },
+  {
+   "term": "reference_line",
+   "label": "Reference line",
+   "definition": "Line outside the impactor at the intersection of the horizontal plane of symmetry of the impact contour with the impact contour itself, with plane A of the impactor vertical."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Front protective device",
+   "distinguished_by": "Location at the front end of the vehicle; tested by frontal longitudinal and corner impacts"
+  },
+  {
+   "name": "Rear protective device",
+   "distinguished_by": "Location at the rear end of the vehicle; tested by rearward longitudinal and corner impacts"
+  },
+  {
+   "name": "Moving barrier test",
+   "distinguished_by": "Impactor mounted on a moving barrier (Annex 3, 2.5)"
+  },
+  {
+   "name": "Pendulum test",
+   "distinguished_by": "Impactor mounted on a pendulum (Annex 3, 2.6)"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "vehicle_type",
+    "protective_devices"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Purpose",
+   "about": [
+    "protective_devices"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Definitions",
+   "about": [
+    "approval_of_a_vehicle",
+    "vehicle_type",
+    "unladen_weight",
+    "laden_test_weight",
+    "vehicle_corner",
+    "reference_height",
+    "reference_line"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Application for approval",
+   "about": [
+    "vehicle_type",
+    "protective_devices",
+    "unladen_weight"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Approval",
+   "about": [
+    "approval_of_a_vehicle"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Requirements",
+   "about": [
+    "protective_devices",
+    "reference_height",
+    "vehicle_corner",
+    "laden_test_weight",
+    "unladen_weight"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Modifications of vehicle type",
+   "about": [
+    "vehicle_type"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Conformity of production",
+   "about": [
+    "vehicle_type"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Penalties for non-conformity of production",
+   "about": []
+  },
+  {
+   "label": "10",
+   "title": "Production definitely discontinued",
+   "about": []
+  },
+  {
+   "label": "11",
+   "title": "Names and addresses of technical services responsible for conducting approval tests, and of administrative departments",
+   "about": []
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication concerning approval (or refusal, extension, withdrawal, production discontinued) of a vehicle type with regard to front and rear protective devices",
+   "about": [
+    "vehicle_type",
+    "protective_devices",
+    "unladen_weight",
+    "laden_test_weight"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Arrangements of the approval mark",
+   "about": [
+    "approval_of_a_vehicle"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Test procedure for the protection of the front and rear of vehicles (low-speed impact)",
+   "about": [
+    "protective_devices",
+    "reference_height",
+    "reference_line",
+    "vehicle_corner",
+    "unladen_weight",
+    "laden_test_weight"
+   ]
+  },
+  {
+   "label": "Annex 3 2.3",
+   "title": "Impactor (striker)",
+   "about": [
+    "reference_line",
+    "reference_height"
+   ]
+  },
+  {
+   "label": "Annex 3 2.5",
+   "title": "Special provisions applicable where a moving barrier is used",
+   "about": [
+    "protective_devices"
+   ]
+  },
+  {
+   "label": "Annex 3 2.6",
+   "title": "Special provisions applicable where a pendulum is used",
+   "about": [
+    "protective_devices"
+   ]
+  },
+  {
+   "label": "Annex 3 2.7",
+   "title": "Longitudinal impact test",
+   "about": [
+    "protective_devices",
+    "reference_height"
+   ]
+  },
+  {
+   "label": "Annex 3 2.8",
+   "title": "Corner impact test",
+   "about": [
+    "vehicle_corner",
+    "protective_devices"
+   ]
+  },
+  {
+   "label": "Annex 3 3",
+   "title": "Conditions governing repair, replacement and measurement",
+   "about": [
+    "protective_devices"
+   ]
+  },
+  {
+   "label": "Annex 3 4",
+   "title": "Equivalent test methods",
+   "about": []
+  }
+ ],
+ "applicability_hints": [
+  "The regulation approves the M1 vehicle type, not the bumper as a separate component; a bumper, bumper beam, energy absorber or fascia is relevant only as part of a vehicle type approval.",
+  "Changes to front/rear structure, lines, materials, vehicle length/width, engine siting or weight, or suspension characteristics that affect impact results can create a new vehicle type or require extension (section 7).",
+  "Components located in the front or rear end (lamps, bonnet/boot latches, radiator/cooling system, fuel system, exhaust) may be affected because the vehicle must still function properly after the low-speed impact tests.",
+  "Protective devices must be present at the reference height at both unladen and laden test weight, so ride height and suspension changes can be relevant.",
+  "Corner zones defined at 60° to the median plane are tested, so lateral-end features of bumpers are covered.",
+  "Only category M1 vehicles are in scope; N, L and other categories are not covered."
+ ],
+ "version": "0.2.0"
+}

@@ -1,0 +1,290 @@
+{
+ "regulation": "UN R102",
+ "title": "Close-coupling device (CCD)",
+ "subject_kind": "mixed",
+ "scope_summary": "The regulation approves close-coupling devices (CCDs), which automatically give extra clearance between towing vehicle and trailer bodies during articulation (Section I). It also approves vehicles of categories N2, N3, O3 and O4 with regard to the fitting of an approved CCD (Section II).",
+ "scope_quote": "1.1 This Regulation applies to vehicles of categories N2, N3, O3 and O4. ... 2.1.1 \"Close-coupling device (CCD)\" means a device which automatically provides sufficient space between the bodies of towing vehicles and trailers if additional clearance is needed during angular movement between them. Coupling devices having no adjusting effect on lengths and/or angles within the device are not covered by this Regulation;",
+ "vehicle_categories": [
+  "N2",
+  "N3",
+  "O3",
+  "O4"
+ ],
+ "applies_to_components": [
+  "Close-coupling device (CCD)",
+  "Parts required for installation and safe operation of a CCD (e.g. parts subject to towing and/or steering forces fixed to the chassis of the towing vehicle or trailer)",
+  "CCD control systems",
+  "Fitting of an approved CCD on towing vehicles and trailers (trucks, tractors, trailers, semi-trailers, centre-axle trailers)"
+ ],
+ "relation_to_other_regulations": [
+  "The provided text does not state that R102 replaces, supersedes or is an alternative to any other UN Regulation.",
+  "Approval under Section II (vehicle) requires a CCD already approved under Section I of this same Regulation.",
+  "Approvals are granted under the 1958 Agreement concerning the Recognition of Approval for Motor Vehicle Equipment and Parts; approval number prefix 00 denotes the original series."
+ ],
+ "defined_terms": [
+  {
+   "term": "Close-coupling device (CCD)",
+   "label": "CCD",
+   "definition": "A device which automatically provides sufficient space between the bodies of towing vehicles and trailers when additional clearance is needed during angular movement, excluding coupling devices with no adjusting effect on lengths and/or angles."
+  },
+  {
+   "term": "Approval of a device",
+   "label": "device approval",
+   "definition": "Approval of a type of close-coupling device conforming to the requirements of Section I."
+  },
+  {
+   "term": "Approval of a vehicle",
+   "label": "vehicle approval",
+   "definition": "Approval of a vehicle with regard to the fitting of an approved close-coupling device."
+  },
+  {
+   "term": "Vehicle type",
+   "label": "vehicle type",
+   "definition": "Vehicles not differing in CCD make/type, length and width, mass, CCD attachment points, vehicle description (truck, tractor, trailer, semi-trailer, centre-axle trailer) and steering equipment."
+  },
+  {
+   "term": "Type of close-coupling device",
+   "label": "CCD type",
+   "definition": "CCDs not differing in make and type, operating principle, means of attachment, overall dimensions at minimum and maximum extension, operating angle limits and kinematic characteristics relative to articulation angles."
+  },
+  {
+   "term": "Automatic coupling procedure",
+   "label": "automatic coupling",
+   "definition": "A coupling procedure where reversing the towing vehicle against the trailer suffices to engage, secure and indicate proper engagement of the coupling without external intervention."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Section I – Approval of a close-coupling device",
+   "distinguished_by": "Component approval of a CCD type (paragraphs 3–10, Annex 1 communication form)"
+  },
+  {
+   "name": "Section II – Approval of a vehicle with regard to fitting of an approved CCD",
+   "distinguished_by": "Vehicle approval for N2, N3, O3, O4 vehicles fitted with an approved CCD (paragraphs 11–18, Annex 2 communication form)"
+  },
+  {
+   "name": "Vehicle description variants",
+   "distinguished_by": "Truck, tractor, trailer, semi-trailer, centre-axle trailer; and steering equipment (auxiliary steering, trailer steering)"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "vehicle categories N2, N3, O3, O4"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Close-coupling device (CCD)",
+    "Approval of a device",
+    "Approval of a vehicle",
+    "Vehicle type",
+    "Type of close-coupling device",
+    "Automatic coupling procedure"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval (Section I – CCD)",
+   "about": [
+    "Type of close-coupling device",
+    "worst-case vehicle combination for testing"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval (Section I – CCD)",
+   "about": [
+    "Close-coupling device (CCD)",
+    "parts for installation and safe operation incl. control systems",
+    "approval mark"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Specifications",
+   "about": [
+    "Close-coupling device (CCD)",
+    "Automatic coupling procedure"
+   ]
+  },
+  {
+   "label": "5.1",
+   "title": "General",
+   "about": [
+    "Close-coupling device (CCD) general requirements"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Modification of CCD type and extension of approval",
+   "about": [
+    "Type of close-coupling device"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Conformity of production",
+   "about": [
+    "Close-coupling device (CCD)"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Penalties for non-conformity of production",
+   "about": [
+    "Close-coupling device (CCD)"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Production definitely discontinued",
+   "about": [
+    "Close-coupling device (CCD)"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Names and addresses of technical services and administrative departments",
+   "about": [
+    "procedural"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Application for approval (Section II – vehicle)",
+   "about": [
+    "Approval of a vehicle",
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "12",
+   "title": "Approval (Section II – vehicle)",
+   "about": [
+    "Approval of a vehicle",
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "13",
+   "title": "Requirements concerning the fitting of an approved CCD",
+   "about": [
+    "Approval of a vehicle",
+    "Close-coupling device (CCD) installation",
+    "minimum space between towing and towed vehicle"
+   ]
+  },
+  {
+   "label": "14",
+   "title": "Modifications of the vehicle type and extension of approval",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "15",
+   "title": "Conformity of production",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "16",
+   "title": "Penalties for non-conformity of production",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "17",
+   "title": "Production definitely discontinued",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "18",
+   "title": "Names and addresses of technical services and administrative departments",
+   "about": [
+    "procedural"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication concerning approval of a CCD type",
+   "about": [
+    "Type of close-coupling device",
+    "minimum space",
+    "maximum extension",
+    "restrictions of use"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Communication concerning approval of a vehicle type with regard to fitting of a CCD",
+   "about": [
+    "Vehicle type",
+    "N2, N3, O3, O4",
+    "maximum length with CCD in running position"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Arrangements of approval marks",
+   "about": [
+    "Close-coupling device (CCD) approval mark"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Tests (recovery distance, stability, circular movement, slopes)",
+   "about": [
+    "Close-coupling device (CCD)",
+    "vehicle combination performance"
+   ]
+  },
+  {
+   "label": "Annex 4 1",
+   "title": "CCD recovery distance",
+   "about": [
+    "Close-coupling device (CCD)"
+   ]
+  },
+  {
+   "label": "Annex 4 2",
+   "title": "Stability of the combination (straight line, lane change)",
+   "about": [
+    "Close-coupling device (CCD)",
+    "Approval of a vehicle"
+   ]
+  },
+  {
+   "label": "Annex 4 3",
+   "title": "Circular movement",
+   "about": [
+    "Close-coupling device (CCD)",
+    "angular movement clearance"
+   ]
+  },
+  {
+   "label": "Annex 4 4",
+   "title": "Slopes",
+   "about": [
+    "Close-coupling device (CCD)"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Any coupling-related device that automatically varies length and/or angle (e.g. sliding/extending drawbar or kingpin/fifth-wheel shifting systems) to give body clearance during articulation is a CCD; fixed couplings with no adjusting effect are excluded.",
+  "Not only the CCD itself: all parts needed for its installation and safe operation, including chassis-fixed parts carrying towing and/or steering forces and the control systems, are subject to type approval.",
+  "Applies to both towing vehicles (N2, N3 trucks/tractors) and trailers (O3, O4 incl. semi-trailers and centre-axle trailers) – a trailer-mounted CCD or trailer steering equipment can trigger vehicle approval.",
+  "Changes to vehicle length/width, mass, CCD attachment points, or steering equipment (incl. auxiliary or trailer steering) define a new vehicle type under Section II.",
+  "Short-coupled combinations (e.g. car transporters, volume road trains) using extendable coupling systems are typical users."
+ ],
+ "version": "0.0.0"
+}

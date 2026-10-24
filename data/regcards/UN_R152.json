@@ -1,0 +1,421 @@
+{
+ "regulation": "UN R152",
+ "title": "Advanced Emergency Braking System (AEBS) for light vehicles (version 2.5.0)",
+ "subject_kind": "vehicle_system",
+ "scope_summary": "Approves vehicle types with regard to an on-board Advanced Emergency Braking System that avoids or mitigates rear-end in-lane collisions with a passenger car, impacts with a pedestrian and impacts with a bicycle. It applies to M1 and N1 vehicles, and offers an alternative to UN R131 for M2 vehicles and for M3/N2 vehicles of 8 t or less maximum weight with hydraulic braking.",
+ "scope_quote": "This Regulation applies to the approval of vehicles of Category M1 and N1 with regard to an on-board system to (a) Avoid or mitigate the severity of a rear-end in lane collision with a passenger car, (b) Avoid or mitigate the severity of an impact with a pedestrian. (c) Avoid or mitigate the severity of an impact with a bicycle. ... This Regulation also offers an alternative set of requirements for vehicles of Category M2, and for those of Categories M3/N2 with a maximum weight below or equal to 8 tons, equipped with hydraulic braking, to those contained in UN Regulation No. 131.",
+ "vehicle_categories": [
+  "M1",
+  "N1",
+  "M2 (alternative to UN R131)",
+  "M3 with maximum weight <= 8 t and hydraulic braking (alternative to UN R131)",
+  "N2 with maximum weight <= 8 t and hydraulic braking (alternative to UN R131)"
+ ],
+ "applies_to_components": [
+  "Advanced Emergency Braking System (AEBS)",
+  "Collision warning to the driver",
+  "Emergency braking demand to the service braking system",
+  "AEBS deactivation means",
+  "AEBS warning indication / failure warning signal",
+  "AEBS self-check / failure detection",
+  "Electronic control system of the AEBS (Annex 3 complex electronic systems)",
+  "Driver interruption / override of the system"
+ ],
+ "relation_to_other_regulations": [
+  "Alternative to UN Regulation No. 131 for M2, and for M3/N2 with maximum weight <= 8 t and hydraulic braking; Contracting Parties applying both recognise approvals to either regulation as equally valid",
+  "Refers to UN Regulation No. 13-H (Annex 6, Appendix 2 k-test method) for determining the sufficient nominal Peak Braking Coefficient",
+  "Refers to UN Regulation No. 13 (Annex 13, Appendix 2 k-test method) for determining the Peak Braking Coefficient permitting the design maximum deceleration",
+  "Vehicle categories as defined in the Consolidated Resolution R.E.3 (ECE/TRANS/WP.29/78/Rev.6)",
+  "'If-fitted' regulation: it does not prevent Contracting Parties from mandating the fitting of AEBS approved to it"
+ ],
+ "defined_terms": [
+  {
+   "term": "2.1",
+   "label": "Advanced Emergency Braking System (AEBS)",
+   "definition": "A system which can automatically detect an imminent forward collision and activate the vehicle braking system to decelerate the vehicle with the purpose of avoiding or mitigating a collision."
+  },
+  {
+   "term": "2.2",
+   "label": "Emergency Braking",
+   "definition": "A braking demand emitted by the AEBS to the service braking system of the vehicle."
+  },
+  {
+   "term": "2.3",
+   "label": "Collision Warning",
+   "definition": "A warning emitted by the AEBS to the driver when the AEBS has detected an imminent forward collision."
+  },
+  {
+   "term": "2.4",
+   "label": "Vehicle Type with Regard to its Advanced Emergency Braking System",
+   "definition": "A category of vehicles which do not differ in vehicle features significantly influencing AEBS performance or in the type and design of the AEBS."
+  },
+  {
+   "term": "2.6",
+   "label": "Soft Target",
+   "definition": "A target that will suffer minimum damage and cause minimum damage to the subject vehicle in the event of a collision."
+  },
+  {
+   "term": "2.7",
+   "label": "Vehicle Target",
+   "definition": "A target that represents a vehicle."
+  },
+  {
+   "term": "2.8",
+   "label": "Pedestrian Target",
+   "definition": "A soft target that represents a pedestrian."
+  },
+  {
+   "term": "2.9",
+   "label": "Bicycle Target",
+   "definition": "A soft target that represents a bicycle with cyclist."
+  },
+  {
+   "term": "2.10",
+   "label": "Common Space",
+   "definition": "An area on which two or more information functions (e.g. symbol) may be displayed, but not simultaneously."
+  },
+  {
+   "term": "2.11",
+   "label": "Self-Check",
+   "definition": "An integrated function that checks for a system failure on a continuous basis at least while the system is active."
+  },
+  {
+   "term": "2.12",
+   "label": "Time To Collision (TTC)",
+   "definition": "The longitudinal distance between the subject vehicle and the target divided by their longitudinal relative speed, at any instant in time."
+  },
+  {
+   "term": "2.13",
+   "label": "Dry road affording good adhesion",
+   "definition": "A road with a sufficient nominal Peak Braking Coefficient permitting a mean fully developed deceleration of at least 9 m/s2 or the vehicle's design maximum deceleration, whichever is lower."
+  },
+  {
+   "term": "2.15",
+   "label": "Initialisation",
+   "definition": "The process of setting-up the operation of the system after switching ON the vehicle until it is fully functioning."
+  },
+  {
+   "term": "Annex 3 2.1",
+   "label": "The System",
+   "definition": "An electronic control system (or complex electronic control system) providing or forming part of the AEBS function, subject to Annex 3 documentation and safety-concept requirements."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Car-to-car scenario approval",
+   "distinguished_by": "AEBS designed to avoid/mitigate rear-end in-lane collision with a passenger car (vehicle target); approval granted separately (Annex 1 item 10.1)"
+  },
+  {
+   "name": "Pedestrian scenario approval",
+   "distinguished_by": "AEBS designed to avoid/mitigate impact with a pedestrian (pedestrian target)"
+  },
+  {
+   "name": "Bicycle scenario approval",
+   "distinguished_by": "AEBS designed to avoid/mitigate impact with a bicycle with cyclist (bicycle target)"
+  },
+  {
+   "name": "Alternative to UN R131",
+   "distinguished_by": "Applied to M2, and M3/N2 <= 8 t with hydraulic braking, in lieu of UN R131 requirements"
+  },
+  {
+   "name": "Series of amendments 00/01/02",
+   "distinguished_by": "Approval number first digits and transitional provisions in section 12"
+  }
+ ],
+ "sections": [
+  {
+   "label": "Introduction",
+   "title": "Introduction",
+   "about": [
+    "AEBS",
+    "Collision Warning",
+    "Emergency Braking",
+    "driver override",
+    "if-fitted regulation"
+   ]
+  },
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "AEBS",
+    "M1",
+    "N1",
+    "M2/M3/N2 alternative to UN R131"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "AEBS",
+    "Emergency Braking",
+    "Collision Warning",
+    "Soft Target",
+    "Vehicle Target",
+    "Pedestrian Target",
+    "Bicycle Target",
+    "Self-Check",
+    "TTC",
+    "Common Space"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "Vehicle Type with Regard to its Advanced Emergency Braking System",
+    "AEBS documentation package"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "approval number",
+    "approval mark near vehicle data plate"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Specifications",
+   "about": [
+    "AEBS"
+   ]
+  },
+  {
+   "label": "5.1",
+   "title": "General requirements",
+   "about": [
+    "AEBS",
+    "Self-Check",
+    "Initialisation",
+    "Annex 3 electronic system requirements"
+   ]
+  },
+  {
+   "label": "5.2",
+   "title": "Specific Requirements",
+   "about": [
+    "Collision Warning",
+    "Emergency Braking",
+    "Vehicle Target",
+    "Pedestrian Target",
+    "Bicycle Target",
+    "speed reduction performance"
+   ]
+  },
+  {
+   "label": "5.3",
+   "title": "Interruption by the Driver",
+   "about": [
+    "driver override of Collision Warning and Emergency Braking"
+   ]
+  },
+  {
+   "label": "5.4",
+   "title": "Deactivation",
+   "about": [
+    "AEBS deactivation means"
+   ]
+  },
+  {
+   "label": "5.5",
+   "title": "Warning Indication",
+   "about": [
+    "failure warning signal",
+    "deactivation indication",
+    "Common Space"
+   ]
+  },
+  {
+   "label": "5.6",
+   "title": "Provisions for the Periodic Technical Inspection",
+   "about": [
+    "AEBS operational status verification at PTI"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Test procedure",
+   "about": [
+    "Subject Vehicle",
+    "test targets"
+   ]
+  },
+  {
+   "label": "6.1",
+   "title": "Test Conditions",
+   "about": [
+    "Dry road affording good adhesion",
+    "Sufficient nominal Peak Braking Coefficient"
+   ]
+  },
+  {
+   "label": "6.2",
+   "title": "Vehicle Conditions",
+   "about": [
+    "Mass of a vehicle in running order",
+    "Maximum mass"
+   ]
+  },
+  {
+   "label": "6.3",
+   "title": "Test Targets",
+   "about": [
+    "Vehicle Target",
+    "Pedestrian Target",
+    "Bicycle Target",
+    "Soft Target"
+   ]
+  },
+  {
+   "label": "6.6",
+   "title": "Warning and Activation Test with a Pedestrian Target",
+   "about": [
+    "Pedestrian Target",
+    "Collision Warning",
+    "Emergency Braking"
+   ]
+  },
+  {
+   "label": "6.7",
+   "title": "Warning and Activation Test with a Bicycle Target",
+   "about": [
+    "Bicycle Target",
+    "Collision Warning",
+    "Emergency Braking"
+   ]
+  },
+  {
+   "label": "6.8",
+   "title": "Failure Detection Test",
+   "about": [
+    "Self-Check",
+    "failure warning signal"
+   ]
+  },
+  {
+   "label": "6.9",
+   "title": "Deactivation Test",
+   "about": [
+    "AEBS deactivation"
+   ]
+  },
+  {
+   "label": "6.10",
+   "title": "Robustness of the system",
+   "about": [
+    "AEBS robustness"
+   ]
+  },
+  {
+   "label": "6.11",
+   "title": "Virtual testing of dynamic tests",
+   "about": [
+    "virtual testing",
+    "Annex 4"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Modification of vehicle type and extension of approval",
+   "about": [
+    "Vehicle Type with Regard to its Advanced Emergency Braking System"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Conformity of production",
+   "about": []
+  },
+  {
+   "label": "9",
+   "title": "Penalties for non-conformity of production",
+   "about": []
+  },
+  {
+   "label": "10",
+   "title": "Production definitively discontinued",
+   "about": []
+  },
+  {
+   "label": "11",
+   "title": "Names and addresses of the Technical Services responsible for conducting approval tests and of Type Approval Authorities",
+   "about": []
+  },
+  {
+   "label": "12",
+   "title": "Transitional provisions",
+   "about": [
+    "01 series of amendments",
+    "02 series of amendments"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication form",
+   "about": [
+    "car to car scenario approval",
+    "pedestrian scenario approval",
+    "bicycle scenario approval"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Arrangements of approval marks",
+   "about": [
+    "approval mark"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Special requirements to be applied to the safety aspects of complex electronic vehicle control systems",
+   "about": [
+    "The System",
+    "documentation",
+    "safety concept",
+    "fault strategy",
+    "verification and test"
+   ]
+  },
+  {
+   "label": "Annex 3 Appendix 1",
+   "title": "Model assessment form for electronic systems",
+   "about": [
+    "The System",
+    "manufacturer's safety concept"
+   ]
+  },
+  {
+   "label": "Annex 3 Appendix 2",
+   "title": "Scenarios for assessing system strategies",
+   "about": [
+    "AEBS strategies",
+    "false reaction avoidance"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Virtual testing method",
+   "about": [
+    "toolchain development",
+    "verification",
+    "validation",
+    "use of virtual testing results for approval"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Vehicle-level approval: AEBS components (forward-looking radar, camera, lidar, ECU, brake actuation interface) are not approved separately but are assessed as part of the vehicle's AEBS type",
+  "Any change to sensors, AEBS software or vehicle features that significantly influence AEBS performance may change the vehicle type and require extension (section 7)",
+  "The AEBS electronic control system falls under Annex 3 complex electronic systems requirements (documentation, safety concept, fault strategy)",
+  "Driver HMI elements (collision warning, failure/deactivation telltales, deactivation switch) are covered by 5.4/5.5",
+  "Heavier hydraulic-braked M2, M3 and N2 vehicles (<= 8 t) can be approved to R152 instead of R131",
+  "'If-fitted' regulation: applies when the vehicle is equipped with an AEBS for which approval is sought, though Contracting Parties may mandate it",
+  "Separate approval scopes exist for car-to-car, pedestrian and bicycle scenarios; a system addressing vulnerable road users is tested with pedestrian/bicycle soft targets",
+  "PTI provisions (5.6) require the AEBS operational status to be verifiable, affecting diagnostic interfaces",
+  "Virtual testing (6.11/Annex 4) can be used for dynamic tests, bringing simulation toolchains into scope of assessment"
+ ],
+ "version": "2.5.0"
+}

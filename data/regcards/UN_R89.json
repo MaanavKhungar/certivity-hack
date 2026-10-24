@@ -1,0 +1,417 @@
+{
+ "regulation": "UN R89",
+ "title": "Uniform provisions concerning the approval of: I. vehicles with regard to the limitation of their maximum speed or their adjustable speed limitation function; II. vehicles with regard to the installation of a speed limitation device (SLD) or adjustable speed limitation device (ASLD) of an approved type; III. speed limitation devices (SLD) and adjustable speed limitation devices (ASLD)",
+ "subject_kind": "mixed",
+ "scope_summary": "UN R89 covers three approvals. Part I approves vehicles with regard to speed limitation (SLD/SLF or ASLD/ASLF). Part II approves the installation of separately approved SLDs/ASLDs. Part III approves SLDs and ASLDs as separate devices. The mandatory-type speed limitation (SLD/SLF) concerns vehicles of categories M2, M3, N2 and N3, while the driver-adjustable limitation (ASLD/ASLF) concerns all M and N vehicles when fitted.",
+ "scope_quote": "1.1.1 Part I: Vehicles of categories M2, M3, N2 and N3 equipped with an SLD and to vehicles of categories M and N equipped with an adjustable speed limitation device ASLD which have not been separately approved according to Part III of this Regulation, or to vehicles so designed and/or equipped that their component parts can be regarded as totally or partially fulfilling the function of an SLD or ASLD, as appropriate. 1.1.2 Part II: The installation on vehicles of categories M2, M3, N2 and N3 of SLDs and installation on vehicles of categories M and N of ASLD which have been type approved to Part III of this Regulation. 1.1.3 Part III: SLDs which are intended to be fitted to vehicles of categories M2, M3, N2 and N3 and ASLD which are intended to be fitted to vehicles of categories M and N. 1.2 Purpose The purpose of this Regulation is to limit the road speed of vehicles by means of a vehicle system which has the primary function of controlling the fuel feed to the engine or via the engine management.",
+ "vehicle_categories": [
+  "M1",
+  "M2",
+  "M3",
+  "N1",
+  "N2",
+  "N3"
+ ],
+ "applies_to_components": [
+  "speed limitation device (SLD)",
+  "speed limitation function (SLF)",
+  "adjustable speed limitation device (ASLD)",
+  "adjustable speed limitation function (ASLF)",
+  "vehicle parts related to speed limitation (fuel feed control / engine management)",
+  "speed limiter plate in driving compartment (\"SPEED LIMITER FITTED\")"
+ ],
+ "relation_to_other_regulations": [
+  "Vehicle categories as defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3) (TRANS/SC1/WP29/78 and Amend.1)",
+  "Part II covers installation on vehicles of SLDs/ASLDs type-approved to Part III of this same Regulation; Part I covers vehicles whose SLD/ASLD has not been separately approved under Part III",
+  "Approval mark may be combined with marks of other UN Regulations annexed to the 1958 Agreement (para. 4.5)",
+  "Recommended to apply the SLD provisions to vehicles over 10 tonnes for which the limitation speed is less than the general speed limitation (footnote 2)"
+ ],
+ "defined_terms": [
+  {
+   "term": "Limitation speed",
+   "label": "V",
+   "definition": "The maximum speed of the vehicle such that its design or equipment does not permit a response after a positive action on the accelerator control."
+  },
+  {
+   "term": "Set speed",
+   "label": "Vset",
+   "definition": "The intended mean vehicle speed when operating in a stabilized condition."
+  },
+  {
+   "term": "Stabilized speed",
+   "label": "Vstab",
+   "definition": "The mean vehicle speed specified in para. 1.1.4.2.3.3 of Annex 5 and para. 1.5.4.1.2.3 of Annex 6."
+  },
+  {
+   "term": "Maximum speed",
+   "label": "Vmax",
+   "definition": "The maximum speed reached by the vehicle in the first half period of the response curve as defined in Annex 5 (para. 1.1.4.2.4)."
+  },
+  {
+   "term": "Adjustable limit speed",
+   "label": "Vadj",
+   "definition": "The speed voluntarily set by the driver."
+  },
+  {
+   "term": "Adjustable speed limitation function",
+   "label": "ASLF",
+   "definition": "A function which allows the driver to set a vehicle speed Vadj and, when activated, limits the vehicle automatically to that speed."
+  },
+  {
+   "term": "Speed limitation function",
+   "label": "SLF",
+   "definition": "A function to control the fuel feed of the vehicle or engine management in order to limit the vehicle speed to a fixed maximum value."
+  },
+  {
+   "term": "Vehicle type",
+   "label": "Vehicle type",
+   "definition": "Vehicles which do not differ in essential respects such as make and type of SLD, range of settable limitation speeds, ratio of maximum engine power/unladen mass and highest ratio of engine speed/vehicle speed in top gear."
+  },
+  {
+   "term": "Unladen mass",
+   "label": "Unladen mass",
+   "definition": "The mass of the vehicle in running order without crew, passengers or load, but with full fuel tank, usual tools and spare wheel where applicable."
+  },
+  {
+   "term": "Speed limitation device",
+   "label": "SLD",
+   "definition": "A device whose primary function is to control the fuel feed to the engine in order to limit the vehicle speed to the specified value."
+  },
+  {
+   "term": "Adjustable speed limitation device",
+   "label": "ASLD",
+   "definition": "A device (not separately defined in para. 2) that, when fitted, limits the speed of M and N vehicles to a speed voluntarily set by the driver when activated."
+  },
+  {
+   "term": "Type of an SLD",
+   "label": "SLD type",
+   "definition": "SLDs which do not differ in essential characteristics such as make and type, the range of settable speed values and the method used to control the engine fuel feed."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Part I – vehicle approval with regard to speed limitation",
+   "distinguished_by": "Vehicle approved as a whole, with SLF/ASLF or SLD/ASLD not separately approved"
+  },
+  {
+   "name": "Part II – vehicle approval for installation of an approved SLD/ASLD",
+   "distinguished_by": "Vehicle fitted with SLD/ASLD already type-approved to Part III"
+  },
+  {
+   "name": "Part III – SLD/ASLD component approval",
+   "distinguished_by": "Device approved separately for fitting to vehicle types"
+  },
+  {
+   "name": "SLD / SLF (fixed maximum speed)",
+   "distinguished_by": "Limits vehicle to fixed maximum speed; for M2, M3, N2, N3"
+  },
+  {
+   "name": "ASLD / ASLF (driver-adjustable)",
+   "distinguished_by": "Limits vehicle to driver-set speed Vadj when activated; optional, for any M and N vehicle"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "SLD",
+    "ASLD",
+    "SLF",
+    "ASLF"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Limitation speed V",
+    "Vset",
+    "Vstab",
+    "Vmax",
+    "Vadj",
+    "ASLF",
+    "SLF",
+    "Vehicle type",
+    "Unladen mass",
+    "SLD",
+    "Type of an SLD"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval (Part I)",
+   "about": [
+    "Vehicle type",
+    "SLF",
+    "ASLF"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval (Part I)",
+   "about": [
+    "approval mark with set speed symbol",
+    "SPEED LIMITER FITTED plate",
+    "SLD calibrator"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Requirements (Part I)",
+   "about": [
+    "SLF",
+    "ASLF"
+   ]
+  },
+  {
+   "label": "5.1",
+   "title": "Requirements for vehicles of categories M2, M3, N2 and N3 equipped with SLF",
+   "about": [
+    "SLF",
+    "Limitation speed V",
+    "Vset"
+   ]
+  },
+  {
+   "label": "5.2",
+   "title": "Requirements for vehicles equipped with ASLF",
+   "about": [
+    "ASLF",
+    "Vadj"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Modifications of vehicle type and extension of approval (Part I)",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Conformity of production (Part I)",
+   "about": []
+  },
+  {
+   "label": "8",
+   "title": "Penalties for non-conformity of production (Part I)",
+   "about": []
+  },
+  {
+   "label": "9",
+   "title": "Production definitely discontinued (Part I)",
+   "about": []
+  },
+  {
+   "label": "10",
+   "title": "Names and addresses of technical services and administrative departments (Part I)",
+   "about": []
+  },
+  {
+   "label": "11",
+   "title": "Application for approval (Part II)",
+   "about": [
+    "installation of SLD/ASLD"
+   ]
+  },
+  {
+   "label": "12",
+   "title": "Approval (Part II)",
+   "about": [
+    "installation of SLD/ASLD"
+   ]
+  },
+  {
+   "label": "13",
+   "title": "Requirements (Part II)",
+   "about": [
+    "installation of approved SLD/ASLD"
+   ]
+  },
+  {
+   "label": "14",
+   "title": "Modifications of vehicle type and extension of approval (Part II)",
+   "about": []
+  },
+  {
+   "label": "15",
+   "title": "Conformity of production (Part II)",
+   "about": []
+  },
+  {
+   "label": "16",
+   "title": "Penalties for non-conformity of production (Part II)",
+   "about": []
+  },
+  {
+   "label": "17",
+   "title": "Production definitely discontinued (Part II)",
+   "about": []
+  },
+  {
+   "label": "18",
+   "title": "Names and addresses of technical services and administrative departments (Part II)",
+   "about": []
+  },
+  {
+   "label": "19",
+   "title": "Application for approval of an SLD (Part III)",
+   "about": [
+    "SLD",
+    "ASLD",
+    "Type of an SLD"
+   ]
+  },
+  {
+   "label": "20",
+   "title": "Approval (Part III)",
+   "about": [
+    "SLD",
+    "ASLD"
+   ]
+  },
+  {
+   "label": "21",
+   "title": "Requirements (Part III)",
+   "about": [
+    "SLD",
+    "ASLD"
+   ]
+  },
+  {
+   "label": "21.1",
+   "title": "General",
+   "about": [
+    "SLD"
+   ]
+  },
+  {
+   "label": "21.2",
+   "title": "Requirements for ASLDs",
+   "about": [
+    "ASLD",
+    "Vadj"
+   ]
+  },
+  {
+   "label": "22",
+   "title": "Modification of the SLD type and extension of approval",
+   "about": [
+    "Type of an SLD"
+   ]
+  },
+  {
+   "label": "23",
+   "title": "Conformity of production (Part III)",
+   "about": []
+  },
+  {
+   "label": "24",
+   "title": "Penalties for non-conformity of production (Part III)",
+   "about": []
+  },
+  {
+   "label": "25",
+   "title": "Production definitely discontinued (Part III)",
+   "about": []
+  },
+  {
+   "label": "26",
+   "title": "Names and addresses of technical services and administrative departments (Part III)",
+   "about": []
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication form – vehicle approval with regard to SLF/ASLF (Part I)",
+   "about": [
+    "SLF",
+    "ASLF",
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Communication form – vehicle approval for installation of SLD/ASLD (Part II)",
+   "about": [
+    "SLD",
+    "ASLD",
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Communication form – SLD/ASLD approval (Part III)",
+   "about": [
+    "SLD",
+    "ASLD"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Arrangements of approval marks",
+   "about": [
+    "SLD approval mark",
+    "vehicle approval mark"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Tests of speed limitation and endurance",
+   "about": [
+    "SLF",
+    "SLD",
+    "Vset",
+    "Vstab",
+    "Vmax"
+   ]
+  },
+  {
+   "label": "Annex 5 1.1",
+   "title": "Measurement on test track",
+   "about": [
+    "SLF",
+    "SLD",
+    "Vstab",
+    "Vmax"
+   ]
+  },
+  {
+   "label": "Annex 5 1.2",
+   "title": "Tests on chassis dynamometer",
+   "about": [
+    "SLF",
+    "SLD"
+   ]
+  },
+  {
+   "label": "Annex 5 2",
+   "title": "Test of endurance",
+   "about": [
+    "SLF",
+    "SLD"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Tests of adjustable speed limitation system",
+   "about": [
+    "ASLF",
+    "ASLD",
+    "Vadj",
+    "Vstab"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Any vehicle whose component parts (e.g. engine control unit, fuel injection/engine management software, electronic throttle) totally or partially fulfil the function of an SLD or ASLD falls under Part I, even without a discrete limiter device",
+  "Speed limiting implemented purely as an engine-management software function (SLF/ASLF) is covered, not only standalone hardware devices",
+  "A driver-settable speed limiter on any M or N vehicle, including M1 passenger cars and N1 vans, falls under the ASLD/ASLF provisions when fitted",
+  "Aftermarket or retrofit speed limiters can be approved as components under Part III and then installed under Part II",
+  "SLD approval relates to the fuel-feed control method; a change of control method creates a different SLD type",
+  "Vehicle type approval under Part I is bounded by the power/unladen mass ratio and the top-gear engine speed/vehicle speed ratio of the tested vehicle",
+  "Contracting Parties may require a plate in the driving compartment showing \"SPEED LIMITER FITTED\", the SLD calibrator and the set speed",
+  "Recommended for vehicles over 10 tonnes whose limitation speed is below the general speed limit"
+ ],
+ "version": "0.3.0"
+}

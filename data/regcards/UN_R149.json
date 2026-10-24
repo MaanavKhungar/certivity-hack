@@ -1,0 +1,512 @@
+{
+ "regulation": "UN R149",
+ "title": "Uniform provisions concerning the approval of road illumination devices (lamps) and systems for power-driven vehicles (version 1.6.0)",
+ "subject_kind": "component",
+ "scope_summary": "R149 type-approves road illumination devices (lamps): driving-beam and passing-beam headlamps (asymmetrical and symmetrical), adaptive front-lighting systems (AFS), adaptive driving-beam (ADB), front fog lamps of Class F3 and cornering lamps of Class K. The vehicle categories depend on the device: L, M, N and T for asymmetrical headlamps; M, N and L3 for AFS; L3 for ADB; L and T for symmetrical headlamps; L3, L4, L5, L7, M, N and T for front fog lamps; and M, N and T for cornering lamps.",
+ "scope_quote": "This Regulation applies to the following road illumination devices (lamps): Headlamps emitting a driving-beam and/or an asymmetrical passing-beam for vehicles of categories L, M, N and T Adaptive front-lighting systems (AFS) for vehicles of categories M, N and L3 Adaptive Driving-Beam (ADB) for vehicles of category L3 Headlamps emitting a driving-beam and/or a symmetrical passing-beam for vehicles of categories L and T Front fog lamps for vehicles of categories L3, L4, L5, L7, M, N and T Cornering lamps for vehicles of categories M, N and T.",
+ "vehicle_categories": [
+  "L",
+  "L3",
+  "L4",
+  "L5",
+  "L7",
+  "M",
+  "N",
+  "T"
+ ],
+ "applies_to_components": [
+  "Headlamps emitting a driving-beam and/or an asymmetrical passing-beam (Classes A, B, C, V, RA)",
+  "Headlamps emitting a driving-beam and/or a symmetrical passing-beam (Classes AS, BS, CS, DS)",
+  "Adaptive front-lighting systems (AFS) and their installation units / lighting units",
+  "Adaptive driving-beam (ADB), incl. ADB for category L3",
+  "Front fog lamps of Class F3 (white or selective yellow)",
+  "Cornering lamps of Class K",
+  "Light source modules used in road illumination devices (Annex 9)",
+  "Electronic light source control gear forming part of the lamp",
+  "Additional lighting units for bend lighting on headlamps for L and T vehicles",
+  "Plastic outer lenses and plastic light-transmitting components of road illumination devices (Annex 8)",
+  "Mechanical/electromechanical beam-switching and bend-lighting devices incorporated in headlamps/AFS"
+ ],
+ "relation_to_other_regulations": [
+  "Combines the provisions of UN Regulations Nos. 19 (front fog lamps), 98 (gas-discharge headlamps), 112 (asymmetrical headlamps), 113 (symmetrical headlamps), 119 (cornering lamps) and 123 (AFS) into a single regulation.",
+  "Definitions of UN R48 apply unless otherwise specified here or in the installation Regulations Nos. 53, 74 and 86.",
+  "Sections 5 and 6 of installation Regulations R48, R53, R74 and R86 apply where they can be verified at lamp approval.",
+  "Replaceable light sources must be approved to UN R37, R99 and/or R128; LED substitute light sources fall under R128.",
+  "An AFS (or an ADB/AFS for L3) approved separately from the vehicle type under R48/R53 must also be approved to UN R10 (EMC).",
+  "Refers to R48 para 6.22 and R53 paras 6.16/6.18 for AFS/ADB installation, and to R48 for Driver Assistance Projection and rearward white-light visibility.",
+  "Grouped, combined or reciprocally incorporated lamps may each be approved to this or another Regulation.",
+  "Refers to R.E.5 (standard light sources), R.E.3, IEC 60061 (holders) and IEC 60809 (non-replaceable filament light sources)."
+ ],
+ "defined_terms": [
+  {
+   "term": "Road illumination devices (lamps) of different types",
+   "label": "type",
+   "definition": "Road illumination devices that differ in essentials such as trade name or mark, optical system characteristics, optical-altering components, traffic side suitability, kind of beam, AFS functions, or light source category / light source module code."
+  },
+  {
+   "term": "Main mode",
+   "label": "main mode",
+   "definition": "For a headlamp, the principal passing-beam if present, otherwise the front fog lamp, otherwise the driving-beam; for an AFS, the passing-beam mode drawing the highest total wattage."
+  },
+  {
+   "term": "Headlamp",
+   "label": "headlamp",
+   "definition": "A road illumination device emitting a driving-beam and/or a passing-beam (asymmetrical or symmetrical) (definition per UN R48)."
+  },
+  {
+   "term": "Adaptive front-lighting system (AFS)",
+   "label": "AFS",
+   "definition": "A system providing front-lighting functions (passing-beam classes C, E, V, W and driving-beam R) with modes adapted to conditions, built from installation units and lighting units (per UN R48)."
+  },
+  {
+   "term": "Adaptive driving-beam (ADB)",
+   "label": "ADB",
+   "definition": "A driving-beam that adapts gradually according to a sensor system, approved here incl. for category L3 vehicles (per UN R48/R53)."
+  },
+  {
+   "term": "Front fog lamp",
+   "label": "front fog lamp",
+   "definition": "A lamp improving road illumination in fog, approved as Class F3, emitting white or selective yellow light."
+  },
+  {
+   "term": "Cornering lamp",
+   "label": "cornering lamp",
+   "definition": "A lamp of Class K providing supplementary illumination of the road area to the side the vehicle is about to turn."
+  },
+  {
+   "term": "Matched pair",
+   "label": "matched pair",
+   "definition": "Left and right lamps operating together as a pair, allowed for passing-beams C, V, AS, BS, CS, DS, driving-beams A, B, BS, CS, DS, ADB and front fog lamps (symbol prefix 'Y')."
+  },
+  {
+   "term": "Light source module",
+   "label": "light source module",
+   "definition": "A replaceable or non-replaceable optical module containing light source(s), identified by a specific code starting with 'MD'."
+  },
+  {
+   "term": "Additional lighting unit",
+   "label": "ALU",
+   "definition": "A lighting unit used with an L or T category headlamp to produce bend lighting, marked with a code starting with 'ALU'."
+  },
+  {
+   "term": "Electronic light source control gear",
+   "label": "control gear",
+   "definition": "Electronic device operating a light source or light source module; when outside the lamp body it is marked with its identification code and rated voltage."
+  },
+  {
+   "term": "LED substitute light source",
+   "label": "LED substitute",
+   "definition": "An LED light source approved under UN R128 to replace a filament light source category; its use does not change the lamp type, but photometric tests must be repeated with it."
+  },
+  {
+   "term": "Principal passing-beam",
+   "label": "principal passing-beam",
+   "definition": "The passing-beam produced without contribution from bend-lighting additional sources, used for the minimum and maximum luminous flux requirements (Tables 3a/3b/4)."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Driving-beam Class A (R)",
+   "distinguished_by": "asymmetrical-headlamp driving-beam photometry"
+  },
+  {
+   "name": "Driving-beam Class B (HR)",
+   "distinguished_by": "higher-performance driving-beam photometry"
+  },
+  {
+   "name": "Passing-beam Class V (V)",
+   "distinguished_by": "asymmetrical passing-beam (01 series)"
+  },
+  {
+   "name": "Passing-beam Class C (C)",
+   "distinguished_by": "asymmetrical passing-beam (01 series); 'HCR' allowed with Class B driving-beam"
+  },
+  {
+   "name": "Auxiliary driving-beam Class RA",
+   "distinguished_by": "auxiliary driving-beam (01 series only)"
+  },
+  {
+   "name": "AFS-C (XC)",
+   "distinguished_by": "basic passing-beam of an AFS"
+  },
+  {
+   "name": "AFS-E (XCE)",
+   "distinguished_by": "motorway passing-beam of an AFS"
+  },
+  {
+   "name": "AFS-V (XCV)",
+   "distinguished_by": "town passing-beam of an AFS"
+  },
+  {
+   "name": "AFS-W (XCW)",
+   "distinguished_by": "adverse weather passing-beam of an AFS"
+  },
+  {
+   "name": "AFS-R (XR)",
+   "distinguished_by": "driving-beam of an AFS, incl. adaptive main-beam"
+  },
+  {
+   "name": "AFS for L3 (MXC, MXCE, MXCV, MXCW)",
+   "distinguished_by": "AFS for vehicles of category L3"
+  },
+  {
+   "name": "ADB for L3 (ADB)",
+   "distinguished_by": "adaptive driving-beam for category L3 vehicles"
+  },
+  {
+   "name": "Passing-beam Class AS (C-AS)",
+   "distinguished_by": "symmetrical passing-beam; luminous flux 150–900 lm"
+  },
+  {
+   "name": "Passing-beam Class BS (C-BS)",
+   "distinguished_by": "symmetrical passing-beam; luminous flux 350–1000 lm"
+  },
+  {
+   "name": "Passing-beam Class CS (WC-CS)",
+   "distinguished_by": "symmetrical passing-beam; luminous flux 500–2000 lm"
+  },
+  {
+   "name": "Passing-beam Class DS (WC-DS)",
+   "distinguished_by": "symmetrical passing-beam; luminous flux at least 1000 lm"
+  },
+  {
+   "name": "Driving-beam Class BS (R-BS)",
+   "distinguished_by": "symmetrical-headlamp driving-beam"
+  },
+  {
+   "name": "Secondary driving-beam Class CS/DS (WR-CS, WR-DS)",
+   "distinguished_by": "secondary driving-beam for symmetrical headlamps"
+  },
+  {
+   "name": "Front fog lamp Class F3 (F3)",
+   "distinguished_by": "front fog beam; white or selective yellow; arrow marking if asymmetric"
+  },
+  {
+   "name": "Cornering lamp Class K (K)",
+   "distinguished_by": "cornering illumination"
+  },
+  {
+   "name": "Legacy 00-series classes",
+   "distinguished_by": "passing-beam Class A/B, Class D (GDL) and Class ES are available only under the 00 series"
+  },
+  {
+   "name": "Traffic-side variants",
+   "distinguished_by": "RHT, LHT or both traffic systems (arrow markings, R/D and L/G settings)"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "Headlamp",
+    "AFS",
+    "ADB",
+    "Front fog lamp",
+    "Cornering lamp"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Road illumination devices (lamps) of different types",
+    "Main mode"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Administrative provisions",
+   "about": [
+    "application documents",
+    "approval and symbols (Table 1)",
+    "change indexes (Table 2)",
+    "markings",
+    "Unique Identifier",
+    "Light source module",
+    "Additional lighting unit",
+    "Electronic light source control gear",
+    "Matched pair",
+    "grouped/combined lamps",
+    "AFS separate approval with R10"
+   ]
+  },
+  {
+   "label": "3.3",
+   "title": "Approval marking and other markings",
+   "about": [
+    "E-mark",
+    "UI",
+    "PL marking",
+    "traffic arrows",
+    "I'M reference mark",
+    "MD and ALU codes",
+    "24V crossed marking"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "General Technical Requirements",
+   "about": [
+    "application of R48/R53/R74/R86",
+    "adjustment devices",
+    "plastic lens testing",
+    "cut-off",
+    "stability",
+    "traffic-side adaptation",
+    "Matched pair",
+    "colour of light",
+    "rearward white-light test"
+   ]
+  },
+  {
+   "label": "4.5",
+   "title": "Provisions with regard to light sources",
+   "about": [
+    "Light source module",
+    "LED substitute light source",
+    "non-replaceable light sources",
+    "Principal passing-beam",
+    "luminous flux limits",
+    "EMC non-disturbance"
+   ]
+  },
+  {
+   "label": "4.6",
+   "title": "Testing conditions and measurement methods",
+   "about": [
+    "test voltages",
+    "Electronic light source control gear",
+    "standard light sources"
+   ]
+  },
+  {
+   "label": "4.11",
+   "title": "Testing of mechanical or electromechanical structures",
+   "about": [
+    "Headlamp classes C, V, AS, BS, CS, DS",
+    "AFS",
+    "failure modes",
+    "50,000 operations"
+   ]
+  },
+  {
+   "label": "4.13",
+   "title": "Failure signal",
+   "about": [
+    "light source failure",
+    "multi-element LED function failure signalling"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Specific Technical Requirements",
+   "about": [
+    "photometric requirements per class"
+   ]
+  },
+  {
+   "label": "5.1",
+   "title": "Driving-beam requirements (referenced)",
+   "about": [
+    "Driving-beam Class A",
+    "Class B",
+    "maximum luminous intensity I'M"
+   ]
+  },
+  {
+   "label": "5.2",
+   "title": "Passing-beam requirements (referenced)",
+   "about": [
+    "Passing-beam Class C",
+    "Class V"
+   ]
+  },
+  {
+   "label": "5.3",
+   "title": "AFS requirements (referenced)",
+   "about": [
+    "AFS",
+    "AFS-C/E/V/W/R",
+    "bend lighting",
+    "ADB adaptation"
+   ]
+  },
+  {
+   "label": "5.4",
+   "title": "Symmetrical headlamp requirements (inferred from references, not in TOC)",
+   "about": [
+    "Passing-beam Class AS",
+    "Class BS",
+    "Class CS",
+    "Class DS"
+   ]
+  },
+  {
+   "label": "5.5",
+   "title": "Technical requirements concerning front fog lamps of the Class F3",
+   "about": [
+    "Front fog lamp"
+   ]
+  },
+  {
+   "label": "5.6",
+   "title": "Technical requirements concerning cornering lamps (symbol K)",
+   "about": [
+    "Cornering lamp"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Conformity of Production",
+   "about": [
+    "general CoP provisions",
+    "photometric CoP"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Transitional provisions",
+   "about": [
+    "general",
+    "01 series of amendments"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication form",
+   "about": [
+    "AFS and ADB",
+    "Class AS/BS/CS/DS",
+    "F3",
+    "Cornering lamp"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Minimum requirements for conformity of production control procedures",
+   "about": [
+    "manufacturer verification"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Minimum requirements for sampling by an inspector",
+   "about": [
+    "sampling",
+    "cut-off vertical position"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Photometric measurement provisions / test points / aiming",
+   "about": [
+    "measuring system",
+    "Cornering lamp",
+    "visual aiming",
+    "aiming tolerances"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Aiming (referenced, not in TOC)",
+   "about": [
+    "aiming for luminous flux zones"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Instrumental verification of the cut-off line",
+   "about": [
+    "cut-off sharpness and linearity"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Tests for stability of photometric performance",
+   "about": [
+    "complete RID tests",
+    "cut-off shift under heat",
+    "grouped headlamps/fog lamps examples",
+    "pollution test"
+   ]
+  },
+  {
+   "label": "Annex 8",
+   "title": "Requirements for lamps incorporating lenses of plastic material",
+   "about": [
+    "plastic outer lens",
+    "temperature",
+    "chemical",
+    "UV",
+    "detergents",
+    "abrasion",
+    "coating adherence"
+   ]
+  },
+  {
+   "label": "Annex 9",
+   "title": "Requirements for LED modules",
+   "about": [
+    "Light source module",
+    "colour rendering",
+    "objective luminous flux"
+   ]
+  },
+  {
+   "label": "Annex 10",
+   "title": "Luminous intensity and colorimetric test requirements",
+   "about": [
+    "photometric and colorimetric compliance"
+   ]
+  },
+  {
+   "label": "Annex 11",
+   "title": "Centre of reference",
+   "about": [
+    "optional centre of reference marking"
+   ]
+  },
+  {
+   "label": "Annex 12",
+   "title": "Marking of 12V-only lamps",
+   "about": [
+    "crossed-out 24 marking"
+   ]
+  },
+  {
+   "label": "Annex 13",
+   "title": "Approval marking examples",
+   "about": [
+    "single device",
+    "grouped/combined lamps",
+    "Light source module codes",
+    "Additional lighting unit"
+   ]
+  },
+  {
+   "label": "Annex 14",
+   "title": "AFS description form",
+   "about": [
+    "AFS",
+    "lighting units",
+    "signals"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Any LED headlamp, AFS or fog/cornering lamp module with a non-replaceable LED light source module falls under R149 and Annex 9; replaceable modules need an 'MD' code and tamperproof design.",
+  "An electronic driver/ballast (light source control gear) outside the lamp body is part of the lamp approval and must carry an ID code and rated voltage.",
+  "Standalone AFS/ADB approval not tied to a vehicle approval additionally requires R10 EMC approval.",
+  "Former R19, R98, R112, R113, R119 and R123 products (fog lamps, HID headlamps, symmetrical motorcycle headlamps, cornering lamps, AFS) are now approved under R149.",
+  "ADB/adaptive main-beam for M/N vehicles is approved as part of an AFS (AFS-R); ADB for L3 is a separate class.",
+  "Plastic outer lenses (except cornering lamps and Class AS) require material samples and Annex 8 tests; plastic inner parts of fog lamps need UV testing unless low-UV sources are used.",
+  "Additional lighting units providing bend lighting on L/T headlamps must be marked with an 'ALU' code.",
+  "Lamps approved for use with R128 LED substitute light sources require repeated photometry with those sources.",
+  "Grouped or combined assemblies (e.g. headlamp with DRL/position lamp) need each function approved to R149 or another applicable Regulation, e.g. R148.",
+  "Headlamps with Driver Assistance Projection must declare the projection zone.",
+  "Replacement lamps using restricted light source categories are limited to vehicles in use originally fitted with them.",
+  "Beam-switching or bend-lighting actuators (mechanical/electromechanical) inside headlamps fall under the 4.11 durability and failure requirements."
+ ],
+ "version": "1.6.0"
+}

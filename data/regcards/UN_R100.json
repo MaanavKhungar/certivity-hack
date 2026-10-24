@@ -1,0 +1,781 @@
+{
+ "regulation": "UN R100 (version 5.0.0)",
+ "title": "Uniform provisions concerning the approval of vehicles with regard to specific requirements for the electric power train",
+ "subject_kind": "mixed",
+ "scope_summary": "Part I approves vehicle types of categories M, N and O (max design speed > 25 km/h) for the electrical safety of their electric power train and galvanically connected high voltage bus. Part II approves a Rechargeable Electrical Energy Storage System (REESS) type as a component/separate technical unit for M, N and O vehicles, and Part III approves the installation of an approved REESS on such vehicles; vehicles permanently connected to the grid are excluded throughout.",
+ "scope_quote": "1.1 Part I: Safety requirements with respect to the electric power train of road vehicles of categories M, N and O, with a maximum design speed exceeding 25 km/h, equipped with electric power train, excluding vehicles permanently connected to the grid. However, for vehicles of category O, with batteries which are charged by (one of) the vehicle's e-axle(s), the requirements in part I of this regulation shall apply, including those for the REESS (i.e. such batteries are considered as REESS even though they may not provide propulsion). ... 1.2 Part II: Safety requirements with respect to the Rechargeable Electrical Energy Storage System (REESS), of road vehicles of categories M, N and O equipped with electric power train, excluding vehicles permanently connected to the grid. Part II of this Regulation does not apply to a battery whose primary use is to supply power for starting the engine and/or lighting and/or other vehicle auxiliaries' systems. ... 1.3 Part III: Requirements with respect to the installation of an approved Rechargeable Electrical Energy Storage System (REESS) to the road vehicles of categories M, N and O equipped with electric power train, excluding vehicles permanently connected to the grid.",
+ "vehicle_categories": [
+  "M",
+  "N",
+  "O"
+ ],
+ "applies_to_components": [
+  "Electric power train (traction motor(s), REESS, electric energy conversion system, electronic converters, associated wiring harness and connectors, coupling system for charging the REESS)",
+  "High voltage bus and galvanically connected high voltage components",
+  "Rechargeable Electrical Energy Storage System (REESS) and REESS subsystems",
+  "Cells",
+  "Batteries charged by e-axle(s) of category O vehicles",
+  "Electric energy conversion system (e.g. fuel cell)",
+  "Electronic converter",
+  "Connector",
+  "Vehicle inlet / vehicle connector",
+  "Coupling system for charging the REESS",
+  "Electrical protection barrier",
+  "Enclosure",
+  "Solid insulator (insulation of wiring harnesses)",
+  "Exposed conductive parts / electrical chassis (potential equalization)",
+  "On-board isolation resistance monitoring system",
+  "Automatic disconnect",
+  "Service disconnect",
+  "Open type traction battery (hydrogen emissions)",
+  "REESS protection functions: short circuit, overcharge, over-discharge, over-temperature, overcurrent protection",
+  "REESS thermal propagation and gas management",
+  "Prevention of accidental or unintended vehicle movement (active driving possible mode indication)"
+ ],
+ "relation_to_other_regulations": [
+  "Vehicle categories as defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3), ECE/TRANS/WP.29/78/Rev.6, para. 2",
+  "Flammable electrolyte defined by reference to UN Recommendations on the Transport of Dangerous Goods - Model Regulations (Rev. 17), Class 3 flammable liquid",
+  "Distinguishing numbers of Contracting Parties per Annex 3 of R.E.3",
+  "Approval marks may be combined with marks of other UN Regulations under which the vehicle/REESS is approved (para. 4.5)",
+  "Part I explicitly does not cover post-crash safety requirements (addressed elsewhere), HV components not galvanically connected to the HV bus, or HV connection between towing vehicle and trailer",
+  "Conformity of production per the 1958 Agreement procedures (Schedule 1, E/ECE/TRANS/505/Rev.3)"
+ ],
+ "defined_terms": [
+  {
+   "term": "2.1",
+   "label": "Active driving possible mode",
+   "definition": "Vehicle mode in which pressing the accelerator (or equivalent) or releasing the brake causes the electric power train to move the vehicle, or for category O, when coupled with a towing vehicle in that mode."
+  },
+  {
+   "term": "2.2",
+   "label": "Aqueous electrolyte",
+   "definition": "An electrolyte based on water solvent for the compounds providing conducting ions after dissociation."
+  },
+  {
+   "term": "2.3",
+   "label": "Automatic disconnect",
+   "definition": "A device that when triggered conductively separates the electric energy sources from the rest of the high voltage circuit of the electric power train."
+  },
+  {
+   "term": "2.4",
+   "label": "Breakout harness",
+   "definition": "Connector wires connected for testing purposes to the REESS on the traction side of the automatic disconnect."
+  },
+  {
+   "term": "2.5",
+   "label": "Cell",
+   "definition": "A single encased electrochemical unit with one positive and one negative terminal used as rechargeable electrical energy storage device."
+  },
+  {
+   "term": "2.6",
+   "label": "Conductive connection",
+   "definition": "Connection using connectors to an external power supply when the REESS is charged."
+  },
+  {
+   "term": "2.7",
+   "label": "Connector",
+   "definition": "Device providing mechanical connection and disconnection of high voltage electrical conductors to a mating component, including its housing."
+  },
+  {
+   "term": "2.8",
+   "label": "Coupling system for charging the REESS",
+   "definition": "The electrical circuit used for charging the REESS from an external electric power supply, including the vehicle inlet."
+  },
+  {
+   "term": "2.11",
+   "label": "Electric energy conversion system",
+   "definition": "A system (e.g. fuel cell) that generates and provides electric energy for electric propulsion."
+  },
+  {
+   "term": "2.12",
+   "label": "Electric power train",
+   "definition": "The electrical circuit including the traction motor(s) and possibly the REESS, electric energy conversion system, electronic converters, associated wiring harness and connectors, and the coupling system for charging the REESS."
+  },
+  {
+   "term": "2.13",
+   "label": "Electrical chassis",
+   "definition": "A set of conductive parts electrically linked together whose potential is taken as reference."
+  },
+  {
+   "term": "2.14",
+   "label": "Electrical circuit",
+   "definition": "An assembly of connected live parts designed to be electrically energized in normal operation."
+  },
+  {
+   "term": "2.15",
+   "label": "Electrical protection barrier",
+   "definition": "The part that provides protection against direct contact with high voltage live parts."
+  },
+  {
+   "term": "2.17",
+   "label": "Electronic converter",
+   "definition": "A device capable of controlling and/or converting electric power for electric propulsion."
+  },
+  {
+   "term": "2.18",
+   "label": "Enclosure",
+   "definition": "The part enclosing internal units and providing protection against any direct contact."
+  },
+  {
+   "term": "2.20",
+   "label": "Exposed conductive part",
+   "definition": "A conductive part touchable under IPXXB, not normally energized but which can become energized under isolation failure, including parts under covers removable without tools."
+  },
+  {
+   "term": "2.21",
+   "label": "External electric power supply",
+   "definition": "An AC or DC electric power supply outside of the vehicle."
+  },
+  {
+   "term": "2.23",
+   "label": "Flammable electrolyte",
+   "definition": "An electrolyte containing substances classified as Class 3 flammable liquid under the UN Model Regulations on Transport of Dangerous Goods."
+  },
+  {
+   "term": "2.24",
+   "label": "High Voltage",
+   "definition": "Classification of an electric component or circuit whose working voltage is > 60 V and ≤ 1500 V DC or > 30 V and ≤ 1000 V AC rms."
+  },
+  {
+   "term": "2.25",
+   "label": "High voltage bus",
+   "definition": "The electrical circuit, including the coupling system for charging the REESS, that operates on high voltage (only HV-operating parts where the specific voltage condition applies)."
+  },
+  {
+   "term": "2.27",
+   "label": "Live parts",
+   "definition": "Conductive parts intended to be electrically energized under normal operating conditions."
+  },
+  {
+   "term": "2.28",
+   "label": "Luggage compartment",
+   "definition": "Space for luggage bounded by roof, hood, floor, side walls and HV protection barriers/enclosures, separated from the passenger compartment by a bulkhead."
+  },
+  {
+   "term": "2.32",
+   "label": "On-board isolation resistance monitoring system",
+   "definition": "Device which monitors the isolation resistance between the high voltage buses and the electrical chassis."
+  },
+  {
+   "term": "2.33",
+   "label": "Open type traction battery",
+   "definition": "A battery requiring filling with liquid and generating hydrogen gas released to the atmosphere."
+  },
+  {
+   "term": "2.34",
+   "label": "Passenger compartment",
+   "definition": "Space for occupant accommodation bounded by the body structure and by electrical protection barriers and enclosures protecting occupants from HV live parts."
+  },
+  {
+   "term": "2.35",
+   "label": "Protection degree IPXXB",
+   "definition": "Protection from contact with HV live parts by a barrier or enclosure, tested with the Jointed Test Finger per Annex 3."
+  },
+  {
+   "term": "2.36",
+   "label": "Protection degree IPXXD",
+   "definition": "Protection from contact with HV live parts by a barrier or enclosure, tested with the Test Wire per Annex 3."
+  },
+  {
+   "term": "2.37",
+   "label": "Rechargeable Electrical Energy Storage System (REESS)",
+   "definition": "Rechargeable energy storage system providing electric energy for propulsion, possibly including support, thermal management, electronic controls and casing, excluding batteries primarily for starting, lighting or auxiliaries."
+  },
+  {
+   "term": "2.38",
+   "label": "REESS subsystem",
+   "definition": "Any assembly of REESS components which stores energy, with or without the entire REESS management system."
+  },
+  {
+   "term": "2.40",
+   "label": "Service disconnect",
+   "definition": "Device for deactivation of the electrical circuit when conducting checks and services of the REESS, fuel cell stack, etc."
+  },
+  {
+   "term": "2.41",
+   "label": "Solid insulator",
+   "definition": "Insulating coating of wiring harnesses covering HV live parts to prevent direct contact."
+  },
+  {
+   "term": "2.42",
+   "label": "Specific voltage condition",
+   "definition": "Condition where the maximum voltage of a galvanically connected circuit between a DC live part and any other live part is ≤ 30 V AC rms and ≤ 60 V DC."
+  },
+  {
+   "term": "2.44",
+   "label": "Tested-Device",
+   "definition": "Either the complete REESS or a REESS subsystem subjected to the tests of this Regulation."
+  },
+  {
+   "term": "2.45",
+   "label": "Thermal event",
+   "definition": "Condition when the temperature within the REESS is significantly higher (as defined by the manufacturer) than the maximum operating temperature."
+  },
+  {
+   "term": "2.46",
+   "label": "Thermal runaway",
+   "definition": "Uncontrolled increase of cell temperature caused by exothermic reactions inside the cell."
+  },
+  {
+   "term": "2.47",
+   "label": "Thermal propagation",
+   "definition": "Sequential occurrence of thermal runaway within a REESS triggered by thermal runaway of a cell in that REESS."
+  },
+  {
+   "term": "2.48",
+   "label": "Type of REESS",
+   "definition": "Systems not differing significantly in trade name, cell chemistry/capacity/dimensions, number and connection/support of cells, casing construction/materials, and ancillary devices for support, thermal management and electronic control."
+  },
+  {
+   "term": "2.49",
+   "label": "Vehicle connector",
+   "definition": "Device inserted into the vehicle inlet to supply electric energy from an external electric power supply."
+  },
+  {
+   "term": "2.50",
+   "label": "Vehicle inlet",
+   "definition": "Device on the externally chargeable vehicle into which the vehicle connector is inserted to transfer electric energy."
+  },
+  {
+   "term": "2.51",
+   "label": "Vehicle type",
+   "definition": "Vehicles not differing in installation, nature and type of the electric power train and the galvanically connected high voltage bus/components."
+  },
+  {
+   "term": "2.52",
+   "label": "Venting",
+   "definition": "Release of excessive internal pressure from a cell, REESS subsystem or REESS in a manner intended by design to preclude rupture or explosion."
+  },
+  {
+   "term": "2.53",
+   "label": "Working voltage",
+   "definition": "Highest rms circuit voltage specified by the manufacturer that may occur between conductive parts in open circuit or normal operation, defined per galvanically isolated circuit."
+  },
+  {
+   "term": "2.54",
+   "label": "Trailer load compartment",
+   "definition": "Compartment of the trailer described by the bodywork, including the loading floor, inner bodywork surfaces and storage equipment."
+  },
+  {
+   "term": "2.55",
+   "label": "e-axle",
+   "definition": "An axle mounted to a category O vehicle generating electrical energy and/or providing electrical propulsion."
+  },
+  {
+   "term": "2.57",
+   "label": "Alkali metal anodes",
+   "definition": "Negative electrodes of battery cells based on lithium, sodium or potassium, e.g. alkali metal foils or alkali metals encapsulated in host structures."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Part I – vehicle type approval (electric power train)",
+   "distinguished_by": "Approval of a vehicle (M, N, O, >25 km/h) for electrical safety of the electric power train and galvanically connected HV bus; approval mark 100R"
+  },
+  {
+   "name": "Part II – REESS type approval (component/separate technical unit)",
+   "distinguished_by": "Approval of a REESS type applied for by the REESS manufacturer; approval mark followed by 'ES'"
+  },
+  {
+   "name": "Part III – installation of an approved REESS",
+   "distinguished_by": "Vehicle approval with regard to installing an already Part II-approved REESS"
+  },
+  {
+   "name": "High voltage vs specific voltage condition circuits",
+   "distinguished_by": "Working voltage > 60 V DC / > 30 V AC rms (HV) vs ≤ 60 V DC and ≤ 30 V AC rms"
+  },
+  {
+   "name": "Protection degree IPXXB vs IPXXD",
+   "distinguished_by": "Tested with jointed test finger vs test wire, depending on location (e.g. inside vs outside passenger/luggage compartments)"
+  },
+  {
+   "name": "Aqueous vs non-aqueous (flammable) electrolyte REESS",
+   "distinguished_by": "Electrolyte solvent; affects electrolyte leakage, hydrogen emission and isolation requirements"
+  },
+  {
+   "name": "Open type traction battery",
+   "distinguished_by": "Liquid-filled battery releasing hydrogen gas; subject to hydrogen emission determination (5.4, Annex 8)"
+  },
+  {
+   "name": "Batteries with alkali metal anodes",
+   "distinguished_by": "Lithium/sodium/potassium metal-based negative electrodes"
+  },
+  {
+   "name": "Category O e-axle batteries",
+   "distinguished_by": "Batteries charged by a trailer's e-axle, treated as REESS even if not providing propulsion"
+  },
+  {
+   "name": "Complete REESS vs REESS subsystem (Tested-Device)",
+   "distinguished_by": "Whether the full system or an energy-storing sub-assembly is tested"
+  },
+  {
+   "name": "Vehicle-based test vs component-based test",
+   "distinguished_by": "Tests performed on complete vehicle or on REESS/related components"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "Part I electric power train of M, N, O vehicles > 25 km/h",
+    "Part II REESS",
+    "Part III installation of approved REESS",
+    "e-axle batteries of category O",
+    "exclusions: grid-connected vehicles, SLI/auxiliary batteries, post-crash, non-galvanically connected HV components, towing vehicle–trailer HV connection"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Electric power train",
+    "High Voltage",
+    "High voltage bus",
+    "REESS",
+    "REESS subsystem",
+    "Cell",
+    "Type of REESS",
+    "Vehicle type",
+    "e-axle"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "Part I vehicle type application",
+    "Part II REESS type application",
+    "documentation package (Annex 1 Appendix 1/2)"
+   ]
+  },
+  {
+   "label": "3.1",
+   "title": "Part I: Approval of a vehicle type with regard to specific requirements for the electric power train",
+   "about": [
+    "Vehicle type",
+    "Electric power train",
+    "High voltage bus"
+   ]
+  },
+  {
+   "label": "3.2",
+   "title": "Part II: Approval of a Rechargeable Electrical Energy Storage System (REESS)",
+   "about": [
+    "Type of REESS",
+    "REESS"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "approval mark",
+    "'ES' symbol for REESS approval",
+    "mark location on vehicle data plate or major element of REESS"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Part I: Requirements of a vehicle with regard to specific requirements for the electric power train",
+   "about": [
+    "protection against electric shock",
+    "Direct contact",
+    "Indirect contact",
+    "Protection degree IPXXB",
+    "Protection degree IPXXD",
+    "Electrical protection barrier",
+    "Enclosure",
+    "Solid insulator",
+    "Exposed conductive part",
+    "Electrical chassis",
+    "isolation resistance",
+    "On-board isolation resistance monitoring system",
+    "Connector",
+    "Vehicle inlet",
+    "Service disconnect",
+    "Working voltage",
+    "Coupling system for charging the REESS"
+   ]
+  },
+  {
+   "label": "5.2",
+   "title": "Rechargeable Electrical Energy Storage System (REESS)",
+   "about": [
+    "REESS",
+    "REESS compliance within vehicle approval",
+    "warning in case of thermal event"
+   ]
+  },
+  {
+   "label": "5.3",
+   "title": "Preventing accidental or unintended vehicle movement",
+   "about": [
+    "Active driving possible mode",
+    "indication to driver",
+    "Conductive connection (driving prevention when connected)"
+   ]
+  },
+  {
+   "label": "5.4",
+   "title": "Determination of hydrogen emissions",
+   "about": [
+    "Open type traction battery",
+    "Aqueous electrolyte",
+    "hydrogen emission"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Part II: Requirements of a Rechargeable Electrical Energy Storage System (REESS) with regard to its safety",
+   "about": [
+    "REESS",
+    "REESS subsystem",
+    "Tested-Device",
+    "Electrolyte leakage",
+    "Rupture",
+    "Fire",
+    "Explosion",
+    "Venting"
+   ]
+  },
+  {
+   "label": "6.2",
+   "title": "Vibration",
+   "about": [
+    "REESS",
+    "Tested-Device"
+   ]
+  },
+  {
+   "label": "6.3",
+   "title": "Thermal shock and cycling",
+   "about": [
+    "REESS",
+    "Tested-Device"
+   ]
+  },
+  {
+   "label": "6.4",
+   "title": "Mechanical impact",
+   "about": [
+    "mechanical shock",
+    "mechanical integrity (crush)",
+    "installation restrictions"
+   ]
+  },
+  {
+   "label": "6.6",
+   "title": "External short circuit protection",
+   "about": [
+    "short circuit protection",
+    "REESS"
+   ]
+  },
+  {
+   "label": "6.7",
+   "title": "Overcharge protection",
+   "about": [
+    "overcharge protection",
+    "REESS"
+   ]
+  },
+  {
+   "label": "6.8",
+   "title": "Over-discharge protection",
+   "about": [
+    "over-discharge protection",
+    "REESS"
+   ]
+  },
+  {
+   "label": "6.9",
+   "title": "Over-temperature protection",
+   "about": [
+    "over-temperature protection",
+    "thermal management",
+    "REESS"
+   ]
+  },
+  {
+   "label": "6.12",
+   "title": "Management of gases emitted from REESS",
+   "about": [
+    "Venting",
+    "Passenger compartment",
+    "Thermal propagation",
+    "Thermal runaway"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Part III: Requirements for the installation of an approved Rechargeable Electrical Energy Storage System (REESS)",
+   "about": [
+    "installation of approved REESS",
+    "installation restrictions",
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Modifications and extension of the type approval",
+   "about": [
+    "Vehicle type",
+    "Type of REESS"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Conformity of production",
+   "about": [
+    "conformity of production"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Penalties for non-conformity of production",
+   "about": [
+    "withdrawal of approval"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Production definitively discontinued",
+   "about": [
+    "notification"
+   ]
+  },
+  {
+   "label": "12",
+   "title": "Names and addresses of Technical Services responsible for conducting approval tests and of Type Approval Authorities",
+   "about": [
+    "administrative"
+   ]
+  },
+  {
+   "label": "13",
+   "title": "Transitional Provisions",
+   "about": [
+    "series of amendments dates",
+    "validity of existing approvals"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication forms (vehicle type Part 1; REESS type as component/separate technical unit Part 2) and information documents",
+   "about": [
+    "Appendix 1: vehicle essential characteristics – traction motor, REESS, fuel cell, fuse/circuit breaker, power wiring harness, protection against electric shock",
+    "Appendix 2: REESS essential characteristics and electrical specification",
+    "installation restrictions and intended vehicle category for REESS"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Arrangements of the approval marks",
+   "about": [
+    "approval mark models",
+    "'ES' REESS mark"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Protection against direct contacts of parts under voltage",
+   "about": [
+    "Protection degree IPXXB",
+    "Protection degree IPXXD",
+    "access probes",
+    "Live parts",
+    "Enclosure",
+    "Electrical protection barrier"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Verification method for potential equalization",
+   "about": [
+    "Exposed conductive part",
+    "Electrical chassis",
+    "resistance tester method",
+    "DC power supply method"
+   ]
+  },
+  {
+   "label": "Annex 5A",
+   "title": "Isolation resistance measurement method for vehicle based tests",
+   "about": [
+    "High voltage bus",
+    "isolation resistance",
+    "external DC source method",
+    "vehicle's own REESS as source"
+   ]
+  },
+  {
+   "label": "Annex 5B",
+   "title": "Isolation resistance measurement method for component based tests of a REESS",
+   "about": [
+    "Tested-Device",
+    "isolation resistance"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Confirmation method for function of on-board isolation resistance monitoring system",
+   "about": [
+    "On-board isolation resistance monitoring system"
+   ]
+  },
+  {
+   "label": "Annex 7A",
+   "title": "Verification of manufacturer's documentation on protection against water effects",
+   "about": [
+    "High voltage bus",
+    "isolation resistance after water exposure",
+    "documentation-based verification"
+   ]
+  },
+  {
+   "label": "Annex 7B",
+   "title": "Test procedures for protection against water effects",
+   "about": [
+    "washing",
+    "driving through standing water",
+    "isolation resistance"
+   ]
+  },
+  {
+   "label": "Annex 8",
+   "title": "Determination of hydrogen emissions during the charge procedures of the REESS",
+   "about": [
+    "Open type traction battery",
+    "vehicle based test",
+    "component based test",
+    "test equipment",
+    "calculation",
+    "calibration (appendix)"
+   ]
+  },
+  {
+   "label": "Annex 9 (Appendices 1 and 2)",
+   "title": "REESS test procedures – standard cycle and SOC adjustment",
+   "about": [
+    "State of Charge (SOC)",
+    "standard charge/discharge cycle",
+    "Tested-Device"
+   ]
+  },
+  {
+   "label": "Annex 9A",
+   "title": "Vibration test",
+   "about": [
+    "REESS",
+    "Tested-Device",
+    "vibration"
+   ]
+  },
+  {
+   "label": "Annex 9B",
+   "title": "Thermal shock and cycling test",
+   "about": [
+    "REESS",
+    "temperature changes"
+   ]
+  },
+  {
+   "label": "Annex 9C",
+   "title": "Mechanical shock",
+   "about": [
+    "inertial loads",
+    "vehicle crash-like loads on REESS"
+   ]
+  },
+  {
+   "label": "Annex 9D",
+   "title": "Mechanical integrity",
+   "about": [
+    "crush test",
+    "contact loads"
+   ]
+  },
+  {
+   "label": "Annex 9E",
+   "title": "Fire resistance",
+   "about": [
+    "exposure to fire from outside the vehicle",
+    "LPG burner / gasoline pool fire",
+    "refractory screen (Appendix 1)"
+   ]
+  },
+  {
+   "label": "Annex 9F",
+   "title": "External short circuit protection",
+   "about": [
+    "short circuit protection",
+    "complete vehicle or component test"
+   ]
+  },
+  {
+   "label": "Annex 9G",
+   "title": "Overcharge protection",
+   "about": [
+    "overcharge protection",
+    "Breakout harness"
+   ]
+  },
+  {
+   "label": "Annex 9H",
+   "title": "Over-discharge protection",
+   "about": [
+    "over-discharge protection"
+   ]
+  },
+  {
+   "label": "Annex 9I",
+   "title": "Over-temperature protection",
+   "about": [
+    "over-temperature protection",
+    "complete REESS test",
+    "complete vehicle test"
+   ]
+  },
+  {
+   "label": "Annex 9J",
+   "title": "Overcurrent protection",
+   "about": [
+    "overcurrent during charging",
+    "External electric power supply",
+    "Breakout harness"
+   ]
+  },
+  {
+   "label": "Annex 9K",
+   "title": "Thermal propagation test",
+   "about": [
+    "Thermal propagation",
+    "Thermal runaway",
+    "occupant safety",
+    "detection criteria",
+    "trigger methods: localised fast external heating (App. 1), internal heating (App. 2), nail penetration (App. 3), laser (App. 4)"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Any traction battery of a battery-electric, hybrid or fuel cell vehicle is a REESS and can be approved separately under Part II (mark '…R-ES') or assessed within the vehicle approval.",
+  "Batteries of trailers (category O) charged by an e-axle are treated as REESS even if they do not provide propulsion.",
+  "12 V/24 V starting, lighting or auxiliary batteries are excluded from the REESS definition and Part II.",
+  "Any HV component galvanically connected to the HV bus (e.g. on-board charger, DC/DC converter, inverter, electric A/C compressor, HV heater, HV cables and connectors, charging inlet) is covered by Part I electric shock protection requirements, whether or not it contributes to propulsion.",
+  "HV components/systems galvanically isolated from the traction HV bus are outside Part I.",
+  "Circuits meeting the specific voltage condition (≤ 60 V DC, ≤ 30 V AC rms) are not HV, e.g. 48 V mild-hybrid systems generally fall below the HV threshold for shock protection.",
+  "The vehicle inlet and charging coupling system are part of the high voltage bus, so charging inlets fall under Part I.",
+  "Fuel cell stacks are covered as an electric energy conversion system within the electric power train.",
+  "Part I applies only to vehicles with max design speed > 25 km/h; Part II and III have no speed limit stated.",
+  "Vehicles permanently connected to the grid (e.g. trolleybuses on catenary) are excluded.",
+  "HV connections between towing vehicle and trailer and post-crash safety are not covered by Part I.",
+  "Battery management, thermal management, casing and support structures are part of the REESS and therefore within the REESS type and its tests.",
+  "REESS subsystems (modules) may be used as Tested-Devices for many Part II tests.",
+  "Open type traction batteries (aqueous electrolyte releasing hydrogen) trigger hydrogen emission requirements (5.4, Annex 8).",
+  "Cells with alkali metal anodes (lithium-metal, sodium, potassium) are specifically defined and may attract specific requirements.",
+  "Enclosures, covers, protection barriers, insulation of HV wiring and potential-equalization bonding parts are relevant to Part I even if they are passive mechanical parts.",
+  "Vehicle control functions (ready/active driving possible mode indication, drive-away prevention while conductively connected to charger) are within Part I."
+ ],
+ "version": "5.0.0"
+}

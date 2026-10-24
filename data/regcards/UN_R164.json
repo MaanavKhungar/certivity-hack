@@ -1,0 +1,243 @@
+{
+ "regulation": "UN R164",
+ "title": "Approval of studded tyres with regard to their snow performance",
+ "subject_kind": "component",
+ "scope_summary": "The regulation approves types of new studded pneumatic tyres of Classes C1, C2 and C3 with regard to their snow performance, including snow grip marking and stud model lists. It covers tyres intended for vehicles of categories M, N and O, excluding temporary use, 'Normal' category, competition, studdable, very small/large rim and low speed-rated tyres.",
+ "scope_quote": "This Regulation applies to new studded pneumatic tyres of Classes C1, C2 and C3 with regard to their snow performance.",
+ "vehicle_categories": [
+  "M",
+  "N",
+  "O"
+ ],
+ "applies_to_components": [
+  "studded pneumatic tyres",
+  "Class C1 tyres",
+  "Class C2 tyres",
+  "Class C3 tyres",
+  "studs",
+  "stud models",
+  "tyres for use in severe snow conditions"
+ ],
+ "relation_to_other_regulations": [
+  "Uses definitions of UN Regulations Nos. 30 and 54, and for snow performance UN Regulation No. 117",
+  "Class C1 tyres are tyres approved according to UN Regulation No. 30; Class C2/C3 tyres are approved according to UN Regulation No. 54",
+  "Excludes temporary use tyres as declared under UN R30 and 'Normal' category of use tyres as declared under UN R30 or UN R54",
+  "Tyres shall be marked as prescribed by UN R30 or R54; approval marks may be combined with R30/R54 marks using '+' when granted by the same authority",
+  "Vehicle categories as defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3)",
+  "Contracting Parties may prohibit or impose additional requirements on studded tyres"
+ ],
+ "defined_terms": [
+  {
+   "term": "Type of studded tyre",
+   "label": "2.1",
+   "definition": "Tyres which do not differ in manufacturer's name, tyre class, tyre structure, category of use (snow or special), tread pattern and list of stud models."
+  },
+  {
+   "term": "Tyre class",
+   "label": "2.2",
+   "definition": "One of the groupings Class C1, C2 or C3."
+  },
+  {
+   "term": "Class C1 tyres",
+   "label": "2.2.1",
+   "definition": "Tyres approved according to UN Regulation No. 30."
+  },
+  {
+   "term": "Class C2 tyres",
+   "label": "2.2.2",
+   "definition": "Tyres approved according to UN Regulation No. 54 with load capacity index in single formation ≤ 121 and speed category symbol ≥ 'N'."
+  },
+  {
+   "term": "Class C3 tyres",
+   "label": "2.2.3",
+   "definition": "Tyres approved according to UN Regulation No. 54 with load capacity index in single formation ≥ 122, or ≤ 121 with speed category symbol ≤ 'M'."
+  },
+  {
+   "term": "Tyres designed for competition",
+   "label": "2.3",
+   "definition": "Tyres intended to be fitted to vehicles involved in motor sport competition and not intended for non-competitive on-road use."
+  },
+  {
+   "term": "Tyre for use in severe snow conditions",
+   "label": "2.4",
+   "definition": "A tyre whose tread pattern, tread compound or structure is specifically designed for severe snow conditions and that fulfils paragraph 6.1."
+  },
+  {
+   "term": "Studded tyre",
+   "label": "2.5",
+   "definition": "A tyre designed to be equipped and always used with studs to improve traction properties on ice surfaces."
+  },
+  {
+   "term": "Studdable tyre",
+   "label": "2.6",
+   "definition": "A tyre designed to be able to be equipped with studs and to be used with or without studs."
+  },
+  {
+   "term": "Stud",
+   "label": "2.7",
+   "definition": "An additional device(s) inserted into or onto the tyre tread to improve traction properties on ice surfaces."
+  },
+  {
+   "term": "Stud model",
+   "label": "2.8",
+   "definition": "Studs that do not differ in their shape, main dimensions and mass."
+  },
+  {
+   "term": "Main dimensions of stud",
+   "label": "2.9",
+   "definition": "The maximum height of the stud, maximum width of the stud body and maximum width of the stud bottom flange."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Class C1",
+   "distinguished_by": "Tyres approved under UN R30 (passenger car tyres)"
+  },
+  {
+   "name": "Class C2",
+   "distinguished_by": "UN R54 tyres with load index ≤ 121 and speed symbol ≥ N"
+  },
+  {
+   "name": "Class C3",
+   "distinguished_by": "UN R54 tyres with load index ≥ 122, or ≤ 121 with speed symbol ≤ M"
+  },
+  {
+   "name": "Category of use: snow",
+   "distinguished_by": "Declared category of use of the studded tyre"
+  },
+  {
+   "name": "Category of use: special",
+   "distinguished_by": "Declared category of use; requires mould drawing for void-to-fill ratio verification"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "Studded tyre",
+    "Class C1 tyres",
+    "Class C2 tyres",
+    "Class C3 tyres",
+    "Tyres designed for competition",
+    "Studdable tyre"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Type of studded tyre",
+    "Tyre class",
+    "Studded tyre",
+    "Studdable tyre",
+    "Stud",
+    "Stud model",
+    "Main dimensions of stud",
+    "Tyre for use in severe snow conditions"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "Type of studded tyre",
+    "Stud model",
+    "tread pattern",
+    "special use tyres void-to-fill ratio"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Markings",
+   "about": [
+    "Snow Grip Marking for Studded Tyres",
+    "'STUDDED' marking",
+    "approval mark location",
+    "combined approval mark with R30/R54"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Approval",
+   "about": [
+    "Type of studded tyre",
+    "approval mark"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Specifications",
+   "about": [
+    "snow performance of studded tyres",
+    "Tyre for use in severe snow conditions"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Modifications of the type of studded tyre and extension of approval",
+   "about": [
+    "Type of studded tyre",
+    "Stud model list changes"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Conformity of production",
+   "about": [
+    "production conformity"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Penalties for non-conformity of production",
+   "about": [
+    "withdrawal of approval"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Production definitively discontinued",
+   "about": [
+    "discontinuation notification"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Names and addresses of Technical Services responsible for conducting approval tests and of Type Approval Authorities",
+   "about": [
+    "administrative"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication form",
+   "about": [
+    "Tyre class",
+    "category of use",
+    "tyre structure",
+    "snow grip level",
+    "brand names"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Arrangement of approval marks",
+   "about": [
+    "approval mark",
+    "combined approval mark with UN R30/R54"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Only tyres designed to be always used with studs fall under R164; studdable tyres (usable with or without studs) are excluded",
+  "Applies only to tyres of snow or special category of use; 'Normal' category tyres under R30/R54 are excluded",
+  "Tyres must also hold or be marked per UN R30 (C1) or UN R54 (C2/C3); class is determined by those regulations",
+  "Changing the list of stud models changes the tyre type, handled as an extension of approval",
+  "Studs themselves are not separately approved but are part of the tyre type via the list of stud models (shape, main dimensions, mass)",
+  "Excludes tyres with rim diameter code ≤ 10 or ≥ 25, speed rating below 80 km/h (F), temporary use, competition tyres, and tyres only for vehicles first registered before 1 October 1990",
+  "Snow performance testing relies on UN R117 definitions/methods",
+  "National Contracting Parties may still prohibit or restrict studded tyre use despite approval"
+ ],
+ "version": "0.0.0"
+}

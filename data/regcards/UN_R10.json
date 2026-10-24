@@ -1,0 +1,733 @@
+{
+ "regulation": "UN R10",
+ "title": "Uniform provisions concerning the approval of vehicles with regard to electromagnetic compatibility (version 7.2.0, 07 series of amendments)",
+ "subject_kind": "mixed",
+ "scope_summary": "UN R10 approves vehicle types and electrical/electronic sub-assemblies (ESAs), as components or separate technical units, with regard to electromagnetic compatibility. It covers radiated and conducted emissions, immunity of safety- and statutory-relevant functions, and additional requirements for REESS charging coupled to the power grid, for vehicles of categories L, M, N, O, T, R and S and the ESAs intended for them.",
+ "scope_quote": "This Regulation applies to: 1.1 Vehicles of categories L, M, N O, T, R and S with regard to electromagnetic compatibility; 1.2 Components and separate technical units intended to be fitted in these vehicles with the limitation given in paragraph 3.2.1. with regard to electromagnetic compatibility.",
+ "vehicle_categories": [
+  "L",
+  "M",
+  "N",
+  "O",
+  "T",
+  "R",
+  "S"
+ ],
+ "applies_to_components": [
+  "Electrical/electronic sub-assemblies (ESA) approved as component or separate technical unit (STU)",
+  "Electrical/electronic systems forming part of a vehicle",
+  "Vehicle wiring harness (supply, bus e.g. CAN, signal, active antenna cables)",
+  "Coupling system for charging the REESS (on-board/external chargers, charging interfaces: L1/L2/L3/N/PE/control pilot)",
+  "ESAs involved in immunity related functions (engine, gear, brake, suspension, active steering, speed limitation, seat/steering wheel positioning, dipped beam, wipers, indirect vision, blind spot, airbags/restraints, emergency calling, direction indicators, stop lamps, end outline/rear position lamps, emergency light bars, warning indicators/displays, anti-theft alarm, horn, data bus, tachograph, odometer, charging control)",
+  "Intentional RF transmitters fitted to vehicles",
+  "ESAs that are (part of) a light source",
+  "Aftermarket electrical/electronic equipment for motor vehicles",
+  "Signal/control ports and wired network ports of vehicles/ESAs in charging mode",
+  "Automated Driving Systems (ADS)",
+  "AVAS (per UN R138) and AECS (per UN R144)"
+ ],
+ "relation_to_other_regulations": [
+  "Vehicle categories as defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3)",
+  "ESA that is (part of) a light source must cite an approval number under UN R37, R99 or R128, or provide a Technical Service report that it is not mechanically interchangeable with such light sources; otherwise R10 approval shall not be granted (paras 3.2.10, 4.2.4)",
+  "AVAS defined by reference to the latest series of amendments of UN R138",
+  "AECS defined by reference to the latest series of amendments of UN R144",
+  "ADS/DDT definitions based on ECE/TRANS/WP.29/2022/58 Annex 1; ADS driver responsibility may be specified in other UN Regulations",
+  "Note: immunity levels address one of the external environments for functional safety (e.g. ISO 26262)",
+  "Refers to standards CISPR 25, CISPR 16-1-1, 16-1-2, 16-2-1, CISPR 32, IEC 61000-6-3, IEC 61000-6-4, IEC 61851-1, IEC 61851-21-2, ISO 16750",
+  "Transitional provisions for 05 and 07 series of amendments (para 13)"
+ ],
+ "defined_terms": [
+  {
+   "term": "2.1",
+   "label": "Electromagnetic compatibility",
+   "definition": "Ability of a vehicle, component(s) or separate technical unit(s) to function satisfactorily in its electromagnetic environment without introducing intolerable electromagnetic disturbances to anything in that environment."
+  },
+  {
+   "term": "2.2",
+   "label": "Electromagnetic disturbance",
+   "definition": "Any electromagnetic phenomenon which may degrade the performance of a vehicle, component, STU or any other device or system operated in the vicinity of a vehicle."
+  },
+  {
+   "term": "2.3",
+   "label": "Electromagnetic immunity",
+   "definition": "Ability of a vehicle, component(s) or STU(s) to operate without degradation of performance in the presence of specified electromagnetic disturbances, including wanted RF signals from transmitters or ISM in-band emissions."
+  },
+  {
+   "term": "2.5",
+   "label": "Broadband emission",
+   "definition": "An emission with a bandwidth greater than that of a particular measuring apparatus or receiver (CISPR 25)."
+  },
+  {
+   "term": "2.6",
+   "label": "Narrowband emission",
+   "definition": "An emission with a bandwidth less than that of a particular measuring apparatus or receiver (CISPR 25)."
+  },
+  {
+   "term": "2.7",
+   "label": "Electrical/electronic system",
+   "definition": "Electrical and/or electronic device(s) or set(s) of devices with associated connections forming part of a vehicle but not intended to be type approved separately from the vehicle."
+  },
+  {
+   "term": "2.8",
+   "label": "Electrical/electronic sub-assembly (ESA)",
+   "definition": "An electrical and/or electronic device or set(s) of devices intended to be part of a vehicle, with associated connections and wiring, performing one or more specialized functions, approvable as a component or a separate technical unit (STU)."
+  },
+  {
+   "term": "2.9",
+   "label": "Vehicle type",
+   "definition": "Vehicles not differing essentially in engine compartment size/shape, general arrangement of electrical/electronic components and wiring, and primary body material."
+  },
+  {
+   "term": "2.10",
+   "label": "ESA type",
+   "definition": "ESAs not differing in the function performed and the general arrangement of electrical/electronic components."
+  },
+  {
+   "term": "2.11",
+   "label": "Vehicle wiring harness",
+   "definition": "Supply voltage, bus system (e.g. CAN), signal or active antenna cables installed by the vehicle manufacturer."
+  },
+  {
+   "term": "2.12",
+   "label": "Immunity related functions",
+   "definition": "Non-exhaustive list of functions related to direct vehicle control, occupant/road user protection, driver/road-user confusion (optical/acoustical), data bus functionality, statutory data, and charging mode when coupled to the grid."
+  },
+  {
+   "term": "2.13",
+   "label": "REESS",
+   "definition": "Rechargeable energy storage system that provides electric energy for electric propulsion of the vehicle."
+  },
+  {
+   "term": "2.14",
+   "label": "Coupling system for charging the REESS",
+   "definition": "The electrical circuit installed in the vehicle used for charging the REESS."
+  },
+  {
+   "term": "2.15",
+   "label": "REESS charging mode coupled to the power grid",
+   "definition": "The normal charging operation mode of the vehicle and/or charging system."
+  },
+  {
+   "term": "2.16",
+   "label": "Mode 1 charging mode",
+   "definition": "IEC 61851-1 charging with the vehicle connected directly to AC mains without communication or supplementary pilot/auxiliary contacts."
+  },
+  {
+   "term": "2.17",
+   "label": "Mode 2 charging mode",
+   "definition": "IEC 61851-1 AC charging via a charging harness with an EVSE box providing control pilot signalling and shock protection, without communication with the mains."
+  },
+  {
+   "term": "2.18",
+   "label": "Mode 3 charging mode",
+   "definition": "IEC 61851-1 AC charging from an EVSE (e.g. charging station, wallbox) with communication between vehicle and charging station."
+  },
+  {
+   "term": "2.19",
+   "label": "Mode 4 charging mode",
+   "definition": "IEC 61851-1 DC charging from an EVSE with off-board charger and communication between vehicle and charging station."
+  },
+  {
+   "term": "2.20",
+   "label": "Signal/control port",
+   "definition": "Port for interconnecting ESA components or an ESA with auxiliary equipment (e.g. RS-232, USB, HDMI), including Control Pilot, PLC on Control Pilot and CAN for vehicles in charging mode."
+  },
+  {
+   "term": "2.21",
+   "label": "Wired network port",
+   "definition": "Port for voice, data and signalling connection to single- or multi-user communication networks (e.g. CATV, PSTN, ISDN, xDSL, LAN)."
+  },
+  {
+   "term": "2.22",
+   "label": "Asymmetric artificial network (AAN)",
+   "definition": "Network used to measure or inject common-mode voltages on signal/communication lines of the vehicle in charging mode while rejecting the differential signal."
+  },
+  {
+   "term": "2.23",
+   "label": "DC-charging artificial network (DC-charging-AN)",
+   "definition": "Network inserted in the HV DC lead of a vehicle in charging mode providing a specified load impedance and isolation from the DC charging station."
+  },
+  {
+   "term": "2.24",
+   "label": "Artificial mains network (AMN)",
+   "definition": "Network (V-AMN/LISN or delta) inserted in the power mains providing defined RF impedance, coupling disturbance voltage to the receiver and isolating from the mains."
+  },
+  {
+   "term": "2.26",
+   "label": "Automated Driving System (ADS)",
+   "definition": "Vehicle hardware and software collectively capable of performing the entire Dynamic Driving Task on a sustained basis."
+  },
+  {
+   "term": "2.27",
+   "label": "Dynamic Driving Task (DDT)",
+   "definition": "The real-time operational and tactical functions required to operate the vehicle."
+  },
+  {
+   "term": "2.28",
+   "label": "Failure situations",
+   "definition": "Situations where the ADS or another vehicle system has a fault that removes or reduces the ADS's ability to perform the DDT."
+  },
+  {
+   "term": "2.29",
+   "label": "Residential environment",
+   "definition": "Per IEC 61000-6-3:2020, locations for domestic dwellings directly connected to the low-voltage public mains network."
+  },
+  {
+   "term": "2.30",
+   "label": "Non-residential environment",
+   "definition": "Per IEC 61000-6-4:2018, locations with a separate power network supplied from a high- or medium-voltage transformer (industrial locations)."
+  },
+  {
+   "term": "2.31",
+   "label": "Acoustic Vehicle Alerting System (AVAS)",
+   "definition": "As defined in the latest series of amendments to UN Regulation No. 138."
+  },
+  {
+   "term": "2.32",
+   "label": "Accident Emergency Call Systems (AECS)",
+   "definition": "As defined in the latest series of amendments to UN Regulation No. 144."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "ESA component approval",
+   "distinguished_by": "ESA approved for fitting to any vehicle type (para 4.1.2)"
+  },
+  {
+   "name": "ESA separate technical unit (STU) approval",
+   "distinguished_by": "ESA approved for a specific vehicle type or types requested by the ESA manufacturer (para 4.1.2)"
+  },
+  {
+   "name": "Vehicle approval of the vehicle installation",
+   "distinguished_by": "Whole vehicle tested per paras 6 and 7; no separate ESA testing (4.1.1.1)"
+  },
+  {
+   "name": "Vehicle approval by testing individual ESAs",
+   "distinguished_by": "All relevant systems/ESAs already approved and installed per their conditions (4.1.1.2)"
+  },
+  {
+   "name": "Vehicle approval without testing",
+   "distinguished_by": "Vehicle has no equipment subject to immunity or emission tests (4.1.1.3)"
+  },
+  {
+   "name": "Configuration other than REESS charging mode coupled to the power grid",
+   "distinguished_by": "Requirements of para 6 (driving/normal operation)"
+  },
+  {
+   "name": "Configuration REESS charging mode coupled to the power grid",
+   "distinguished_by": "Additional requirements of para 7 for vehicles/ESAs with coupling systems for charging the REESS"
+  },
+  {
+   "name": "Charging Modes 1, 2, 3, 4",
+   "distinguished_by": "AC without communication (1), AC with EVSE box/control pilot (2), AC from EVSE with communication (3), DC from off-board charger with communication (4)"
+  },
+  {
+   "name": "Residential vs non-residential environment",
+   "distinguished_by": "Intended charging location per IEC 61000-6-3 / IEC 61000-6-4, affecting emission limits"
+  },
+  {
+   "name": "Broadband vs narrowband emission",
+   "distinguished_by": "Emission bandwidth relative to measuring receiver"
+  },
+  {
+   "name": "ESA immunity test methods",
+   "distinguished_by": "Absorber chamber, TEM cell, bulk current injection, stripline, reverberation chamber (Annex 9)"
+  },
+  {
+   "name": "Supply voltage 12/24 V ESAs",
+   "distinguished_by": "Subject to conducted transient immunity/emission tests (Annex 10)"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "vehicle categories L, M, N, O, T, R, S",
+    "ESA",
+    "immunity related functions",
+    "coupling system for charging the REESS"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Electromagnetic compatibility",
+    "ESA",
+    "Electrical/electronic system",
+    "Immunity related functions",
+    "REESS",
+    "Charging modes",
+    "ADS"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "Vehicle type",
+    "ESA type"
+   ]
+  },
+  {
+   "label": "3.1",
+   "title": "Approval of a vehicle type",
+   "about": [
+    "Vehicle type",
+    "schedule of relevant electrical/electronic systems or ESAs",
+    "RF transmitter installation statement for L6, L7, M, N, O, T, R, S"
+   ]
+  },
+  {
+   "label": "3.2",
+   "title": "ESA type approval",
+   "about": [
+    "ESA type",
+    "applicability to ESA (3.2.1)",
+    "replacement parts exemption",
+    "aftermarket equipment exemption with declaration",
+    "ESA as (part of) a light source (R37/R99/R128)"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "vehicle approval routes",
+    "component approval",
+    "separate technical unit approval",
+    "intentional RF transmitters installation guidelines",
+    "communication forms Annex 3A/3B"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Markings",
+   "about": [
+    "approval mark on vehicle/ESA",
+    "presence of markings"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Specification in configurations other than REESS charging mode coupled to the power grid",
+   "about": [
+    "general specifications",
+    "vehicle and ESA emissions and immunity"
+   ]
+  },
+  {
+   "label": "6.2",
+   "title": "Specifications concerning broadband electromagnetic radiation from vehicles",
+   "about": [
+    "Broadband emission",
+    "Annex 4"
+   ]
+  },
+  {
+   "label": "6.3",
+   "title": "Specifications concerning narrowband electromagnetic radiation from vehicles",
+   "about": [
+    "Narrowband emission",
+    "Annex 5"
+   ]
+  },
+  {
+   "label": "6.4",
+   "title": "Specifications concerning immunity of vehicles to electromagnetic radiation",
+   "about": [
+    "Electromagnetic immunity",
+    "Immunity related functions",
+    "Annex 6"
+   ]
+  },
+  {
+   "label": "6.5",
+   "title": "Specification concerning broadband electromagnetic interference generated by ESAs",
+   "about": [
+    "ESA",
+    "Broadband emission",
+    "Annex 7"
+   ]
+  },
+  {
+   "label": "6.6",
+   "title": "Specifications concerning narrowband electromagnetic interference generated by ESAs",
+   "about": [
+    "ESA",
+    "Narrowband emission",
+    "Annex 8"
+   ]
+  },
+  {
+   "label": "6.7",
+   "title": "(Referenced in 3.2.9; not listed in TOC) ESA conducted transient emission on 12/24 V supply lines",
+   "about": [
+    "ESA",
+    "Annex 10"
+   ]
+  },
+  {
+   "label": "6.8",
+   "title": "Specifications concerning immunity of ESAs to electromagnetic radiation",
+   "about": [
+    "ESA",
+    "Electromagnetic immunity",
+    "Annex 9"
+   ]
+  },
+  {
+   "label": "6.9",
+   "title": "(Referenced in 3.2.9; not listed in TOC) ESA immunity to conducted transient disturbances",
+   "about": [
+    "ESA",
+    "Annex 10"
+   ]
+  },
+  {
+   "label": "6.10",
+   "title": "Exceptions",
+   "about": [
+    "conditions where tests are deemed fulfilled"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Additional specifications in the configuration REESS charging mode coupled to the power grid",
+   "about": [
+    "REESS charging mode coupled to the power grid",
+    "Coupling system for charging the REESS",
+    "Charging modes"
+   ]
+  },
+  {
+   "label": "7.2",
+   "title": "Specifications concerning broadband electromagnetic radiation from vehicles",
+   "about": [
+    "Broadband emission",
+    "vehicle in charging mode"
+   ]
+  },
+  {
+   "label": "7.3",
+   "title": "Specifications concerning emission of harmonics on AC power lines from vehicles",
+   "about": [
+    "vehicle in charging mode",
+    "Annex 11"
+   ]
+  },
+  {
+   "label": "7.7",
+   "title": "Specifications concerning immunity of vehicles to electromagnetic radiation",
+   "about": [
+    "Electromagnetic immunity",
+    "vehicle in charging mode"
+   ]
+  },
+  {
+   "label": "7.10",
+   "title": "Specifications concerning broadband electromagnetic interference caused by ESAs",
+   "about": [
+    "ESA",
+    "Coupling system for charging the REESS"
+   ]
+  },
+  {
+   "label": "7.11",
+   "title": "Specifications concerning emission of harmonics on AC power lines from ESAs",
+   "about": [
+    "ESA",
+    "Minimum Rsce",
+    "Annex 17"
+   ]
+  },
+  {
+   "label": "7.18",
+   "title": "Specifications concerning immunity of ESAs to electromagnetic radiation",
+   "about": [
+    "ESA in charging mode",
+    "Electromagnetic immunity"
+   ]
+  },
+  {
+   "label": "7.20",
+   "title": "Exceptions",
+   "about": [
+    "charging-mode exceptions"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Amendment or extension of a vehicle type approval following electrical/electronic sub-assembly addition or substitution",
+   "about": [
+    "ESA",
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Conformity of production",
+   "about": [
+    "production conformity procedures"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Penalties for non-conformity of production",
+   "about": [
+    "withdrawal of approval"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Production definitively discontinued",
+   "about": [
+    "notification"
+   ]
+  },
+  {
+   "label": "12",
+   "title": "Modification and extension of type approval of a vehicle or ESA",
+   "about": [
+    "Vehicle type",
+    "ESA type"
+   ]
+  },
+  {
+   "label": "13",
+   "title": "Transitional provisions",
+   "about": [
+    "05 series of amendments",
+    "07 series of amendments"
+   ]
+  },
+  {
+   "label": "14",
+   "title": "Names and addresses of Technical Services and Type Approval Authorities",
+   "about": [
+    "administrative"
+   ]
+  },
+  {
+   "label": "15-23",
+   "title": "Referenced standards (IEC 61000-6-3, IEC 61000-6-4, CISPR 16-2-1, CISPR 16-1-2, IEC 61851-1, IEC 61851-21-2, CISPR 32, CISPR 16-1-1, ISO 16750)",
+   "about": [
+    "Residential environment",
+    "Non-residential environment",
+    "Charging modes",
+    "measuring apparatus"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Arrangements of the approval mark",
+   "about": [
+    "approval mark"
+   ]
+  },
+  {
+   "label": "Annex 2A",
+   "title": "Information document for vehicle type approval",
+   "about": [
+    "Vehicle type",
+    "RF transmitter statement (item 63)"
+   ]
+  },
+  {
+   "label": "Annex 2B",
+   "title": "Information document for ESA type approval",
+   "about": [
+    "ESA type",
+    "component/STU",
+    "charger on board/external",
+    "charging current",
+    "Minimum Rsce"
+   ]
+  },
+  {
+   "label": "Annex 3A",
+   "title": "Communication form – vehicle type (referenced)",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "Annex 3B",
+   "title": "Communication form – ESA type (referenced)",
+   "about": [
+    "ESA type"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Method of measurement of broadband electromagnetic radiation from vehicles",
+   "about": [
+    "Broadband emission",
+    "two-wheeled vehicles",
+    "vehicle in charging mode"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Method of measurement of narrowband electromagnetic radiation from vehicles",
+   "about": [
+    "Narrowband emission"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Method of testing for immunity of vehicles to electromagnetic radiation",
+   "about": [
+    "Electromagnetic immunity",
+    "Immunity related functions",
+    "vehicle in charging mode 1 or 2"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Method of measurement of broadband electromagnetic radiation from ESAs",
+   "about": [
+    "ESA",
+    "Broadband emission"
+   ]
+  },
+  {
+   "label": "Annex 8",
+   "title": "Method of measurement of narrowband electromagnetic radiation from ESAs",
+   "about": [
+    "ESA",
+    "Narrowband emission"
+   ]
+  },
+  {
+   "label": "Annex 9",
+   "title": "Method(s) of testing for immunity of ESAs to electromagnetic radiation",
+   "about": [
+    "ESA",
+    "absorber chamber",
+    "TEM cell",
+    "bulk current injection",
+    "stripline",
+    "reverberation chamber",
+    "ESA in charging mode"
+   ]
+  },
+  {
+   "label": "Annex 10",
+   "title": "Method(s) of testing for immunity to and emission of transients of ESAs",
+   "about": [
+    "ESA",
+    "12/24 V supply lines",
+    "conducted transients"
+   ]
+  },
+  {
+   "label": "Annex 11",
+   "title": "Method of testing for emission of harmonics generated on AC power lines from vehicle",
+   "about": [
+    "REESS charging mode coupled to the power grid"
+   ]
+  },
+  {
+   "label": "Annex 12",
+   "title": "Method of testing for emission of voltage changes, voltage fluctuations and flicker on AC power lines from vehicle",
+   "about": [
+    "REESS charging mode coupled to the power grid"
+   ]
+  },
+  {
+   "label": "Annex 13",
+   "title": "Method of testing for emission of RF conducted disturbances on AC or DC power lines from vehicles",
+   "about": [
+    "AMN",
+    "DC-charging-AN",
+    "vehicle in charging mode"
+   ]
+  },
+  {
+   "label": "Annex 14",
+   "title": "(Not in TOC) Method of testing for emission of RF conducted disturbances on network and telecommunication access from vehicles",
+   "about": [
+    "Wired network port",
+    "Signal/control port",
+    "AAN"
+   ]
+  },
+  {
+   "label": "Annex 15",
+   "title": "Method of testing for immunity of vehicles to electrical fast transient/burst disturbances conducted along AC and DC power lines",
+   "about": [
+    "vehicle in charging mode"
+   ]
+  },
+  {
+   "label": "Annex 16",
+   "title": "Method of testing for immunity of vehicles to surges conducted along AC and DC power lines",
+   "about": [
+    "vehicle in charging mode"
+   ]
+  },
+  {
+   "label": "Annex 17",
+   "title": "Method of testing for emission of harmonics generated on AC power lines from an ESA",
+   "about": [
+    "ESA in charging mode"
+   ]
+  },
+  {
+   "label": "Annex 18",
+   "title": "Method of testing for emission of voltage changes, voltage fluctuations and flicker on AC power lines from an ESA",
+   "about": [
+    "ESA in charging mode"
+   ]
+  },
+  {
+   "label": "Annex 19",
+   "title": "Method of testing for emission of RF conducted disturbances on AC or DC power lines from an ESA",
+   "about": [
+    "ESA in charging mode",
+    "AMN"
+   ]
+  },
+  {
+   "label": "Annex 20",
+   "title": "(Not in TOC) Method of testing for emission of RF conducted disturbances on network and telecommunication access from an ESA",
+   "about": [
+    "ESA",
+    "Wired network port",
+    "AAN"
+   ]
+  },
+  {
+   "label": "Annex 21",
+   "title": "Method of testing for immunity of an ESA to electrical fast transient/burst disturbances conducted along AC and DC power lines",
+   "about": [
+    "ESA in charging mode"
+   ]
+  },
+  {
+   "label": "Annex 22",
+   "title": "Method of testing for immunity of ESAs to surges conducted along AC and DC power lines",
+   "about": [
+    "ESA in charging mode"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Any electrical and/or electronic device intended to be part of a vehicle that performs a specialized function is an ESA and can be approved under R10 (as component or STU).",
+  "Vehicles of all categories L, M, N, O, T, R, S including trailers (O) and agricultural/forestry (T, R, S) are covered; trailers with ABS/EBS or lighting electronics fall in scope.",
+  "Aftermarket components not related to immunity related functions need no type approval but require a manufacturer declaration of compliance with paras 6.5–6.9 limits.",
+  "Aftermarket or OE components related to immunity related functions (brakes, steering, lighting such as direction indicators/stop lamps/dipped beam, wipers, cameras/indirect vision, airbags, eCall/AECS, horn, alarm, tachograph, odometer, data bus) require approval.",
+  "Replacement ESAs identical to and from the same manufacturer as original equipment, marked with an identification number, need no type approval.",
+  "LED modules/electronic light sources: an ESA that is (part of) a light source needs an R37/R99/R128 approval number or a non-interchangeability report, otherwise R10 approval is refused.",
+  "On-board chargers, charging inlets/control electronics and any ESA in the REESS charging circuit are subject to the additional para 7 requirements (harmonics, flicker, conducted RF, burst, surge, immunity).",
+  "Products with signal/control ports (USB, CAN, Control Pilot/PLC) or wired network ports (LAN) used in charging mode may require conducted emission tests on those ports.",
+  "Intentional RF transmitters (e.g. radios, telematics units) not approved together with a vehicle manufacturer must be supplied with installation guidelines; vehicle manufacturers must state RF transmitter installation provisions.",
+  "ESAs on 12/24 V supply lines are subject to conducted transient immunity and emission tests (Annex 10).",
+  "ADS and functions affected in failure situations, AVAS (R138) and AECS (R144) are explicitly referenced and relevant to immunity assessment.",
+  "A vehicle with no equipment subject to immunity or emission tests (e.g. a purely mechanical trailer) can obtain R10 approval without testing.",
+  "Vehicle type changes in general electrical/electronic component arrangement, wiring arrangement or primary body material create a new vehicle type."
+ ],
+ "version": "7.2.0"
+}

@@ -1,0 +1,469 @@
+{
+ "regulation": "UN R127",
+ "title": "Uniform provisions concerning the approval of motor vehicles with regard to their pedestrian safety performance (version 4.3.0)",
+ "subject_kind": "vehicle_system",
+ "scope_summary": "Approves vehicle types with regard to pedestrian protection, meaning how the vehicle front structure and windscreen perform in impact tests with legform and headform impactors. It applies to M1 and N1 vehicles, except N1 vehicles (and M1 vehicles above 2,500 kg derived from N1) whose driver R-point is forward of the front axle or no more than 1,100 mm rearward of the front axle transverse centreline.",
+ "scope_quote": "This Regulation applies to motor vehicles of categories M1 and N1. However, vehicles of category N1 where the driver's position \"R-point\" is either forward of the front axle or longitudinally rearwards of the front axle transverse centreline by a maximum of 1,100 mm, are exempted from the requirements of this Regulation. This Regulation does not apply to vehicles of category M1 above 2,500 kg maximum mass and which are derived from N1 category vehicles, and where the driver's position \"R-point\" is either forward of the front axle or longitudinally rearwards of the front axle transverse centreline by a maximum of 1,100 mm; for these vehicle categories Contracting Parties may continue to apply the requirements already in force for that purpose at the time of acceding to this Regulation.",
+ "vehicle_categories": [
+  "M1",
+  "N1"
+ ],
+ "applies_to_components": [
+  "Front structure (all outer structures forward of the windscreen, windscreen header and A-pillars)",
+  "Bumper (including attachments and pedestrian protection devices)",
+  "Bumper beam",
+  "Bonnet / bonnet top",
+  "Bonnet leading edge (including wings, upper and side members of headlight surrounds and other attachments)",
+  "Wings",
+  "Scuttle / cowl area",
+  "Wiper spindles",
+  "Lower windscreen frame",
+  "Windscreen (windscreen test area)",
+  "Badges, mascots or other structures on the front",
+  "Active devices to protect pedestrians",
+  "Adjustable Ride Height Suspension System (ARHSS)"
+ ],
+ "relation_to_other_regulations": [
+  "Vehicle categories M1 and N1 as defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3), ECE/TRANS/WP.29/78/Rev.6",
+  "Approval numbering according to Schedule 4 of the 1958 Agreement (E/ECE/TRANS/505/Rev.3)",
+  "Approval mark may be combined with marks of other UN Regulations granted to the same vehicle (para. 4.5)",
+  "Driver/passenger luggage mass as per ISO 2416-1992",
+  "For exempted M1-derived-from-N1 vehicles, Contracting Parties may continue to apply the requirements already in force at accession",
+  "Transitional provisions (para. 11) allow a WAD 2,100 rear boundary (suffix T) and alternative BRRL provisions (suffix F); the third and fourth series of amendments are referenced"
+ ],
+ "defined_terms": [
+  {
+   "term": "Adult headform bonnet top test area",
+   "label": "2.1",
+   "definition": "Area of the front structure outer surface between WAD 1,700 (or 82.5 mm behind the BLE reference line) and WAD 2,500 (or 82.5 mm forward of the BRRL), and 82.5 mm inside the side reference lines."
+  },
+  {
+   "term": "A-pillar",
+   "label": "2.3",
+   "definition": "The foremost and outermost roof support extending from the chassis to the roof of the vehicle."
+  },
+  {
+   "term": "Bonnet leading edge",
+   "label": "2.5",
+   "definition": "Edge of the front upper outer structure, including the bonnet and wings, the upper and side members of the headlight surrounds and any other attachments."
+  },
+  {
+   "term": "Bonnet leading edge reference line",
+   "label": "2.7",
+   "definition": "Trace of the contact points of a 1,000 mm straight edge inclined 50° rearwards and traversed across the bonnet leading edge; the bumper top edge counts if contacted."
+  },
+  {
+   "term": "Bonnet rear reference line (BRRL)",
+   "label": "2.8",
+   "definition": "Trace of the most rearward contact points of a 165 mm sphere traversed across the front structure while touching the windscreen, with wipers removed."
+  },
+  {
+   "term": "Bonnet top",
+   "label": "2.9",
+   "definition": "Area bounded by the bonnet leading edge reference line, the bonnet rear reference line and the side reference lines."
+  },
+  {
+   "term": "Bonnet top test area",
+   "label": "2.10",
+   "definition": "The combination of the child headform and adult headform bonnet top test areas."
+  },
+  {
+   "term": "Bumper",
+   "label": "2.11",
+   "definition": "The front, lower, outer structure of a vehicle, including all structures intended to protect the vehicle in a low-speed frontal collision and any attachments to it."
+  },
+  {
+   "term": "Bumper beam",
+   "label": "2.12",
+   "definition": "The structural cross member rearward of any bumper fascia protecting the vehicle front, excluding foam, cover support or pedestrian protection devices."
+  },
+  {
+   "term": "Bumper lead",
+   "label": "2.13",
+   "definition": "Horizontal distance between the upper bumper reference line and the bonnet leading edge reference line in a vertical longitudinal plane."
+  },
+  {
+   "term": "Bumper test area",
+   "label": "2.14",
+   "definition": "The front fascia between the corners of bumper, or between the bumper beam ends, minus 42 mm inboard of each, whichever is wider."
+  },
+  {
+   "term": "Child headform bonnet top test area",
+   "label": "2.16",
+   "definition": "Area of the front structure outer surface between WAD 1,000 (or 82.5 mm behind the BLE reference line) and WAD 1,700 (or 82.5 mm forward of the BRRL), and 82.5 mm inside the side reference lines."
+  },
+  {
+   "term": "Corner of bumper",
+   "label": "2.17",
+   "definition": "Transversal position of the vehicle's contact with a corner gauge moved at 60° to the longitudinal centre plane, ignoring external indirect vision devices and tyres."
+  },
+  {
+   "term": "Corner reference point",
+   "label": "2.18",
+   "definition": "Intersection of the bonnet leading edge reference line and the bonnet side reference line."
+  },
+  {
+   "term": "Femur",
+   "label": "2.20",
+   "definition": "All lower legform impactor components above the level of the centre of the knee."
+  },
+  {
+   "term": "Front structure",
+   "label": "2.22",
+   "definition": "All outer vehicle structures except the windscreen, windscreen header, A-pillars and structures rearward of these, including bumper, bonnet, wings, scuttle, wiper spindles and lower windscreen frame."
+  },
+  {
+   "term": "Head Injury Criterion (HIC)",
+   "label": "2.24",
+   "definition": "Injury value calculated from resultant headform acceleration time histories over an interval of at most 15 ms."
+  },
+  {
+   "term": "Lower bumper reference line",
+   "label": "2.26",
+   "definition": "Lower limit of significant pedestrian contact with the bumper, found with a 700 mm straight edge inclined forwards by 25°."
+  },
+  {
+   "term": "Normal ride attitude",
+   "label": "2.29",
+   "definition": "Vehicle on a flat surface at mass in running order with a front passenger mass and recommended tyre pressures, with suspension set as for 40 km/h."
+  },
+  {
+   "term": "Adjustable Ride Height Suspension System (ARHSS)",
+   "label": "2.29.1",
+   "definition": "A system that could change the vehicle height while driving, e.g. an active suspension."
+  },
+  {
+   "term": "Side reference line",
+   "label": "2.32",
+   "definition": "Trace of the highest contact points of a 700 mm straight edge inclined inwards by 45° and traversed down the sides of the front structure."
+  },
+  {
+   "term": "Tibia",
+   "label": "2.36",
+   "definition": "All lower legform impactor components below the level of the centre of the knee, including allowance for the foot."
+  },
+  {
+   "term": "Upper bumper reference line",
+   "label": "2.38",
+   "definition": "Upper limit of significant pedestrian contact with the bumper, found with a 700 mm straight edge inclined rearwards by 20°."
+  },
+  {
+   "term": "Vehicle type with regard to the pedestrian protection requirements",
+   "label": "2.39",
+   "definition": "Vehicles that do not differ forward of the A-pillars in structure, main dimensions, outer surface materials or component arrangement in ways that may negatively affect impact test results."
+  },
+  {
+   "term": "Vehicles of category M1 derived from N1",
+   "label": "2.40",
+   "definition": "M1 vehicles with the same general structure and shape forward of the A-pillars as a pre-existing N1 vehicle."
+  },
+  {
+   "term": "Vehicles of category N1 derived from M1",
+   "label": "2.41",
+   "definition": "N1 vehicles with the same general structure and shape forward of the A-pillars as a pre-existing M1 vehicle."
+  },
+  {
+   "term": "Windscreen",
+   "label": "2.42",
+   "definition": "The frontal glazing of the vehicle situated between the A-pillars."
+  },
+  {
+   "term": "Wrap Around Distance (WAD)",
+   "label": "2.43",
+   "definition": "Trace on the front structure of the end of a taut flexible tape held in a vertical longitudinal plane from ground level below the bumper face (e.g. WAD1000, WAD1700, WAD2500)."
+  },
+  {
+   "term": "Windscreen test area",
+   "label": "2.44",
+   "definition": "Area of the windscreen outer surface inset 100 mm from the opaque obscuration at front and sides and bounded at the rear by WAD 2,500 or 130 mm forward of the rear visible edge."
+  },
+  {
+   "term": "Cowl monitoring area",
+   "label": "2.45",
+   "definition": "Area between the rear of the bonnet top test area and the front of the windscreen test area, laterally bounded by the T–P line, used for monitoring headform tests."
+  },
+  {
+   "term": "Opaque obscuration",
+   "label": "2.46",
+   "definition": "Any glazing area preventing light transmission, such as solid black print, excluding shade bands, dot-print, text or graphics."
+  },
+  {
+   "term": "Shade band",
+   "label": "2.47",
+   "definition": "Any glazing area with reduced light transmittance, excluding opaque obscuration."
+  },
+  {
+   "term": "Atypical windscreen fracture behaviour",
+   "label": "2.48",
+   "definition": "A headform-to-windscreen impact meeting the jerk or acceleration-timing criteria, or in which glass breakage across the whole windscreen is not visibly observed."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Approval suffix \"T\"",
+   "distinguished_by": "Vehicle approved using the specific provisions for the WAD 2,100 rear boundary (para. 11.19)."
+  },
+  {
+   "name": "Approval suffix \"E\"",
+   "distinguished_by": "Vehicle approved with the extended WAD 2,500 boundary."
+  },
+  {
+   "name": "Approval suffix \"F\"",
+   "distinguished_by": "Vehicle approved using the specific BRRL provisions (paras. 11.22–11.23)."
+  },
+  {
+   "name": "Exempted forward-control N1 / N1-derived M1 > 2,500 kg",
+   "distinguished_by": "Driver R-point forward of the front axle or no more than 1,100 mm rearward of the front axle transverse centreline."
+  },
+  {
+   "name": "Flexible lower legform impactor test",
+   "distinguished_by": "Bumper test area impact."
+  },
+  {
+   "name": "Upper legform to bumper test",
+   "distinguished_by": "Bumper impact with the upper legform impactor."
+  },
+  {
+   "name": "Child headform test",
+   "distinguished_by": "Measuring points forward of and including WAD 1,700 (bonnet top, windscreen, cowl)."
+  },
+  {
+   "name": "Adult headform test",
+   "distinguished_by": "Measuring points rearward of WAD 1,700 (bonnet top, windscreen, cowl)."
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "M1/N1 applicability",
+    "N1 forward-control exemption",
+    "Vehicles of category M1 derived from N1"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Front structure",
+    "Bumper",
+    "Bonnet top",
+    "Windscreen test area",
+    "Cowl monitoring area",
+    "Wrap Around Distance (WAD)",
+    "Head Injury Criterion (HIC)"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "Vehicle type with regard to the pedestrian protection requirements"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "Approval number suffixes T/E/F",
+    "Approval mark near vehicle data plate"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Specifications",
+   "about": [
+    "Bumper test area",
+    "Flexible lower legform impactor test",
+    "Upper legform to bumper test"
+   ]
+  },
+  {
+   "label": "5.2",
+   "title": "Headform tests",
+   "about": [
+    "Child headform bonnet top test area",
+    "Adult headform bonnet top test area",
+    "Windscreen test area",
+    "Cowl monitoring area",
+    "Head Injury Criterion (HIC)",
+    "Atypical windscreen fracture behaviour"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Modification of vehicle type and extension of approval",
+   "about": [
+    "Vehicle type with regard to the pedestrian protection requirements"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Conformity of production",
+   "about": []
+  },
+  {
+   "label": "8",
+   "title": "Penalties for non-conformity of production",
+   "about": []
+  },
+  {
+   "label": "9",
+   "title": "Production definitively discontinued",
+   "about": []
+  },
+  {
+   "label": "10",
+   "title": "Names and addresses of the Technical Services and Type Approval Authorities",
+   "about": []
+  },
+  {
+   "label": "11",
+   "title": "Transitional provisions",
+   "about": [
+    "WAD 2,100 boundary (suffix T)",
+    "Bonnet rear reference line (BRRL) provisions (suffix F)"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Information document and communication form",
+   "about": [
+    "Vehicle type with regard to the pedestrian protection requirements",
+    "Monitoring results"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Arrangements of the approval mark",
+   "about": []
+  },
+  {
+   "label": "Annex 3",
+   "title": "General test conditions",
+   "about": [
+    "Temperature and humidity",
+    "Impact test site",
+    "Preparation of the vehicle",
+    "Normal ride attitude"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Specifications of impactors",
+   "about": [
+    "Flexible lower legform impactor",
+    "Upper legform impactor",
+    "Femur",
+    "Tibia"
+   ]
+  },
+  {
+   "label": "Annex 4 5.1-5.2",
+   "title": "Child headform impactor and instrumentation",
+   "about": [
+    "Child headform"
+   ]
+  },
+  {
+   "label": "Annex 4 5.3-5.4",
+   "title": "Adult headform impactor and instrumentation",
+   "about": [
+    "Adult headform"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Test procedures",
+   "about": [
+    "Bumper test area",
+    "Bonnet top test area",
+    "Windscreen test area"
+   ]
+  },
+  {
+   "label": "Annex 5 1",
+   "title": "Flexible lower legform impactor test procedure",
+   "about": [
+    "Bumper test area",
+    "Assessment Interval (AI)"
+   ]
+  },
+  {
+   "label": "Annex 5 2",
+   "title": "Upper legform to bumper",
+   "about": [
+    "Bumper"
+   ]
+  },
+  {
+   "label": "Annex 5 3",
+   "title": "Child and adult headform test procedures - Common test specifications",
+   "about": [
+    "Measuring point",
+    "Splitting of headform test zones"
+   ]
+  },
+  {
+   "label": "Annex 5 4",
+   "title": "Child headform - Specific test procedure",
+   "about": [
+    "Child headform bonnet top test area",
+    "Windscreen test area"
+   ]
+  },
+  {
+   "label": "Annex 5 5",
+   "title": "Adult headform specific test procedure",
+   "about": [
+    "Adult headform bonnet top test area",
+    "Windscreen test area"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Certification of impactors",
+   "about": [
+    "Flexible lower legform impactor",
+    "Upper legform impactor",
+    "Child and adult headform"
+   ]
+  },
+  {
+   "label": "Annex 6 1",
+   "title": "Flexible lower legform impactor certification",
+   "about": [
+    "Static tests",
+    "Pendulum test",
+    "Inverse test"
+   ]
+  },
+  {
+   "label": "Annex 6 2",
+   "title": "Upper legform impactor certification",
+   "about": [
+    "Upper legform impactor"
+   ]
+  },
+  {
+   "label": "Annex 6 3",
+   "title": "Child and adult headform certification",
+   "about": [
+    "Drop test"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "This is a whole-vehicle approval; there is no separate component approval, but any part forming the outer front structure forward of the A-pillars (bumper fascia, bumper beam, bonnet, wings, headlamp surrounds, grille, scuttle/cowl, wiper spindles, lower windscreen frame) is assessed within the test areas.",
+  "Headlight surrounds and other attachments are explicitly part of the bonnet leading edge, so headlamp design or styling changes can affect R127 results.",
+  "The windscreen is tested (windscreen test area), so changes to windscreen glazing, opaque obscuration or fracture behaviour may be relevant.",
+  "Attachments to the bumper (e.g. accessories, trims, sensors mounted in the fascia) are part of the 'bumper' definition.",
+  "Badges, mascots or front emblems that do not fold back under 100 N remain in place for measurements and may be impact points.",
+  "Active pedestrian protection devices (e.g. pop-up bonnets) and active or adjustable ride-height suspension (ARHSS) are specifically addressed.",
+  "Changing outer surface materials, structure or internal component arrangement forward of the A-pillars (e.g. under-bonnet components that a headform may strike) can create a new vehicle type or require an extension.",
+  "External indirect vision devices (mirrors) and tyres are ignored when determining the corner of bumper.",
+  "Forward-control N1 vans and heavy M1 vehicles derived from such N1 vehicles are outside the scope."
+ ],
+ "version": "4.3.0"
+}

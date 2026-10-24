@@ -1,0 +1,418 @@
+{
+ "regulation": "UN R3",
+ "title": "Uniform provisions concerning the approval of retro-reflecting devices for power-driven vehicles and their trailers (version 2.17.0)",
+ "subject_kind": "component",
+ "scope_summary": "The regulation grants type approval to retro-reflecting devices (retro-reflectors) as components, divided into photometric classes IA/IB, IIIA/IIIB and IVA in clear, red or amber colours. It covers devices intended for vehicles of categories L, M, N, O and T.",
+ "scope_quote": "This Regulation applies to retro-reflecting devices 1/ for vehicles of categories L, M, N, O, and T 2/. 1/Also called \"retro-reflector(s)\".",
+ "vehicle_categories": [
+  "L",
+  "M",
+  "N",
+  "O",
+  "T"
+ ],
+ "applies_to_components": [
+  "retro-reflecting devices (retro-reflectors)",
+  "retro-reflecting optical units",
+  "Class IA retro-reflectors",
+  "Class IB retro-reflectors (combined with non-watertight signal lamps integrated into the vehicle body)",
+  "Class IIIA retro-reflectors",
+  "Class IIIB retro-reflectors (combined with non-watertight signal lamps integrated into the vehicle body)",
+  "Class IVA retro-reflectors",
+  "clear (white), red and amber retro-reflectors",
+  "mirror-backed retro-reflecting devices"
+ ],
+ "relation_to_other_regulations": [
+  "Paragraph 2.1: the definitions of Regulation No. 48 and its series of amendments in force at the time of application apply to this Regulation.",
+  "Paragraph 2.15: the colour of the reflected light is defined by paragraph 2.30 of Regulation No. 48.",
+  "Footnote 3: technical terms not defined in Regulation No. 48 follow the definitions of the International Commission on Illumination (CIE).",
+  "Vehicle categories are those defined in Annex 7 to the Consolidated Resolution on the Construction of Vehicles (R.E.3).",
+  "Paragraph 6 (General specifications) incorporates by reference section 5 'General specifications' of another document; the text shown is truncated.",
+  "Installation of retro-reflectors on vehicles is not covered here. It is governed by the installation regulations, e.g. R48 for M, N and O, R53 for L3, R74 for L1 and R86 for T.",
+  "Context not stated in this excerpt: in the UNECE lighting simplification, UN R150 (Retro-reflective devices and markings) took over the device requirements of R3. This version is the base version."
+ ],
+ "defined_terms": [
+  {
+   "term": "2.2",
+   "label": "Retro-reflection",
+   "definition": "Reflection in which light is reflected in directions close to the direction from which it came, maintained over wide variations of the illumination angle."
+  },
+  {
+   "term": "2.3",
+   "label": "Retro-reflecting optical unit",
+   "definition": "A combination of optical components producing retro-reflection."
+  },
+  {
+   "term": "2.4",
+   "label": "Retro-reflecting device (retro-reflector)",
+   "definition": "An assembly ready for use and comprising one or more retro-reflecting optical units."
+  },
+  {
+   "term": "2.5",
+   "label": "Angle of divergence",
+   "definition": "The angle between the straight lines connecting the centre of reference to the centre of the receiver and to the centre of the source of illumination."
+  },
+  {
+   "term": "2.6",
+   "label": "Illumination angle",
+   "definition": "The angle between the axis of reference and the straight line connecting the centre of reference to the centre of the source of illumination."
+  },
+  {
+   "term": "2.7",
+   "label": "Angle of rotation",
+   "definition": "The angle through which the retro-reflecting device is rotated about its axis of reference starting from one given position."
+  },
+  {
+   "term": "2.8",
+   "label": "Angular diameter of the retro-reflecting device",
+   "definition": "The angle subtended by the greatest dimension of the visible area of the illuminating surface at the centre of the source of illumination or of the receiver."
+  },
+  {
+   "term": "2.9",
+   "label": "Illumination of the retro-reflecting device",
+   "definition": "The illumination measured in a plane perpendicular to the incident rays and passing through the centre of reference."
+  },
+  {
+   "term": "2.10",
+   "label": "Coefficient of luminous intensity (CIL)",
+   "definition": "The quotient of the luminous intensity reflected in the direction considered divided by the illumination of the retro-reflecting device for given angles of illumination, divergence and rotation."
+  },
+  {
+   "term": "2.12",
+   "label": "Type of retro-reflecting device",
+   "definition": "Defined by the models and literature submitted; devices with identical optical units, or symmetrical left/right ones, whose other parts differ only in ways not affecting the regulated properties, belong to the same type."
+  },
+  {
+   "term": "2.13",
+   "label": "Classes of retro-reflecting devices",
+   "definition": "Retro-reflecting devices are divided into three classes by photometric characteristics: Class IA or IB, Class IIIA or IIIB, and Class IVA."
+  },
+  {
+   "term": "2.14",
+   "label": "Class IB and IIIB",
+   "definition": "Devices combined with other signal lamps that are not watertight according to Annex 8, paragraph 1.1, and that are integrated into the vehicle body."
+  },
+  {
+   "term": "2.15",
+   "label": "Colour of the reflected light of the device",
+   "definition": "Defined by paragraph 2.30 of Regulation No. 48."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Class IA",
+   "distinguished_by": "Photometric class; shape and dimensions per Annex 5 para 1 (non-triangular); watertight; CIL values per Annex 7 para 3.1."
+  },
+  {
+   "name": "Class IB",
+   "distinguished_by": "Same photometry as IA, but combined with other signal lamps that are not watertight per Annex 8 para 1.1 and integrated into the vehicle body; installation details required."
+  },
+  {
+   "name": "Class IIIA",
+   "distinguished_by": "Photometric class with triangular shape and dimensions per Annex 5 para 2; CIL values per Annex 7 para 3.1."
+  },
+  {
+   "name": "Class IIIB",
+   "distinguished_by": "Same as IIIA, but combined with non-watertight signal lamps integrated into the vehicle body."
+  },
+  {
+   "name": "Class IVA",
+   "distinguished_by": "Higher-performance photometric class; shape and dimensions per Annex 5 para 3; separate sample number (Annex 14) and test sequence, including an impact (steel ball) test."
+  },
+  {
+   "name": "Colour: clear / red / amber",
+   "distinguished_by": "Colour of the reflected light, with colorimetric specifications per Annex 6."
+  },
+  {
+   "name": "Reduced light distribution variant",
+   "distinguished_by": "Devices with reduced photometric field per Annex 7 para 3.2 or 3.4, marked with a downward vertical arrow from a horizontal segment."
+  },
+  {
+   "name": "Installation variants (inclination/rotation)",
+   "distinguished_by": "At the applicant's choice, different inclinations of the reference axis, or rotation about the reference axis for Class IA, IB and IVA, indicated in the communication form."
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "retro-reflecting device",
+    "vehicle categories L, M, N, O, T"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "retro-reflection",
+    "retro-reflecting optical unit",
+    "retro-reflecting device",
+    "CIL",
+    "classes IA/IB/IIIA/IIIB/IVA",
+    "colour of reflected light"
+   ]
+  },
+  {
+   "label": "2.13",
+   "title": "Classes by photometric characteristics",
+   "about": [
+    "Class IA/IB",
+    "Class IIIA/IIIB",
+    "Class IVA"
+   ]
+  },
+  {
+   "label": "2.14",
+   "title": "Class IB and IIIB devices",
+   "about": [
+    "Class IB",
+    "Class IIIB",
+    "combination with non-watertight signal lamps integrated into body"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "documentation",
+    "samples",
+    "installation inclinations/rotation",
+    "Class IVA samples (Annex 14)",
+    "Class IB/IIIB installation details"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Markings",
+   "about": [
+    "trade name",
+    "TOP marking",
+    "reduced light distribution arrow",
+    "space for approval mark"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Approval",
+   "about": [
+    "approval mark",
+    "class indicator"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "General specifications",
+   "about": [
+    "general requirements incorporated by reference"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Special specifications (tests)",
+   "about": [
+    "photometric",
+    "colorimetric",
+    "resistance to external agents",
+    "heat resistance",
+    "impact"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Conformity of production",
+   "about": [
+    "COP"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Penalties for non-conformity of production",
+   "about": [
+    "withdrawal of approval"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Production definitely discontinued",
+   "about": [
+    "discontinuation notification"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Names and addresses of Technical Services and Type Approval Authorities",
+   "about": [
+    "administrative"
+   ]
+  },
+  {
+   "label": "12",
+   "title": "Transitional provisions",
+   "about": [
+    "validity of approvals"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Symbols and units",
+   "about": [
+    "illuminating surface area",
+    "angles",
+    "CIL"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Communication form",
+   "about": [
+    "approval communication",
+    "installation conditions"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Arrangements of approval marks",
+   "about": [
+    "approval mark",
+    "class indicator",
+    "single and grouped/combined lamps"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Procedure of tests",
+   "about": [
+    "ten samples",
+    "chronological test order",
+    "Class IA/IB/IIIA/IIIB"
+   ]
+  },
+  {
+   "label": "Annex 5 para 1",
+   "title": "Shape and dimensions of Class IA or IB devices",
+   "about": [
+    "Class IA",
+    "Class IB"
+   ]
+  },
+  {
+   "label": "Annex 5 para 2",
+   "title": "Shape and dimensions of Class IIIA and IIIB devices",
+   "about": [
+    "Class IIIA",
+    "Class IIIB",
+    "triangular devices"
+   ]
+  },
+  {
+   "label": "Annex 5 para 3",
+   "title": "Shape and dimensions of Class IVA devices",
+   "about": [
+    "Class IVA"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Colorimetric specifications",
+   "about": [
+    "clear, red, amber retro-reflectors",
+    "CIE illuminant A",
+    "no selective reflection for clear devices"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Photometric specifications",
+   "about": [
+    "axis of reference",
+    "illuminating surface",
+    "CIL values",
+    "reduced light distribution"
+   ]
+  },
+  {
+   "label": "Annex 7 para 3.1",
+   "title": "CIL values for Class IA, IB, IIIA and IIIB",
+   "about": [
+    "Class IA",
+    "Class IB",
+    "Class IIIA",
+    "Class IIIB"
+   ]
+  },
+  {
+   "label": "Annex 8",
+   "title": "Resistance to external agents",
+   "about": [
+    "water and dirt penetration",
+    "water submersion test",
+    "corrosion",
+    "fuels",
+    "lubricating oils",
+    "mirror-backed rear face"
+   ]
+  },
+  {
+   "label": "Annex 8 para 1.1",
+   "title": "Water submersion test",
+   "about": [
+    "watertightness",
+    "distinction of Class IB/IIIB"
+   ]
+  },
+  {
+   "label": "Annex 8 para 5",
+   "title": "Resistance of accessible rear face of mirror-backed devices",
+   "about": [
+    "mirror-backed retro-reflecting devices"
+   ]
+  },
+  {
+   "label": "Annex 9",
+   "title": "Stability in time of optical properties",
+   "about": [
+    "in-service checks",
+    "systematic defect"
+   ]
+  },
+  {
+   "label": "Annex 10",
+   "title": "Resistance to heat",
+   "about": [
+    "48 h dry heat test",
+    "distortion"
+   ]
+  },
+  {
+   "label": "Annex 11",
+   "title": "Colour-fastness",
+   "about": [
+    "in-service colour checks",
+    "systematic defect"
+   ]
+  },
+  {
+   "label": "Annex 12",
+   "title": "Test sequence and tests for Class IVA (incl. impact test; content of further annexes merged in TOC)",
+   "about": [
+    "Class IVA",
+    "chronological order of tests",
+    "steel-ball impact test",
+    "methods used in tests",
+    "resistance to water penetration"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Any retro-reflector built into a rear, side or front lamp housing (e.g. a rear combination lamp with integral red reflector) is a retro-reflecting device under R3. If the lamp is not watertight and is integrated into the body, it is Class IB or IIIB.",
+  "Triangular red reflectors required on trailers (category O) are Class IIIA/IIIB devices under R3.",
+  "Covers reflectors for motorcycles and mopeds (L), agricultural tractors and their trailers (T), as well as M, N and O vehicles.",
+  "Side (amber), front (clear/white) and rear (red) reflectors all fall under R3. Colour is a variant within one approval, extendable with two extra samples per colour.",
+  "Retro-reflective marking tapes (conspicuity markings) are not covered; they fall under R104 (or R150). R3 covers discrete retro-reflecting devices only.",
+  "Mirror-backed reflectors whose rear face is accessible must pass an additional rear-face resistance test (Annex 8 para 5).",
+  "Whether the device may be installed at different inclinations or rotations depends on the approval. Installation conditions are recorded in the communication form and must match the vehicle installation regulation (e.g. R48).",
+  "For new approvals, check whether UN R150 applies instead of R3 under the relevant transitional provisions."
+ ],
+ "version": "2.17.0"
+}

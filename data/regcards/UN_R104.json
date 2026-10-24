@@ -1,0 +1,378 @@
+{
+ "regulation": "UN R104",
+ "title": "Uniform provisions concerning the approval of retro-reflective markings for vehicles of categories M, N and O",
+ "subject_kind": "component",
+ "scope_summary": "The regulation type-approves retro-reflective marking materials, such as strips, planes or graphics, that are used to mark vehicles. It covers materials intended for vehicles of categories M2, M3, N, O2, O3 and O4.",
+ "scope_quote": "This Regulation applies to retro-reflective markings for vehicles of category M2, M3, N, O2, O3 and O4.",
+ "vehicle_categories": [
+  "M2",
+  "M3",
+  "N1",
+  "N2",
+  "N3",
+  "O2",
+  "O3",
+  "O4"
+ ],
+ "applies_to_components": [
+  "retro-reflective marking material",
+  "retro-reflective strips (side, rear and/or front marking)",
+  "retro-reflective planes/areas",
+  "distinctive markings, graphics",
+  "sample unit of retro-reflective material",
+  "adhesive retro-reflective materials (Class C)"
+ ],
+ "relation_to_other_regulations": [
+  "Definitions in UN Regulation No. 48 and its series of amendments in force at the time of application apply to this Regulation (para 2.1.3).",
+  "The colour of reflected light is defined by reference to para 2.30 of UN Regulation No. 48.",
+  "Installation of contour/conspicuity markings on vehicles is governed by UN R48; R104 approves only the material.",
+  "Vehicle categories are as defined in Annex 7 to the Consolidated Resolution R.E.3 (TRANS/WP.29/78/Rev.1/Amend.2, as amended by Amend.4).",
+  "Para 6 (General specifications) applies, by reference, the 'General specifications' sections of another text; the reference is truncated in the excerpt."
+ ],
+ "defined_terms": [
+  {
+   "term": "sample_unit",
+   "label": "Sample unit",
+   "definition": "Part or all of the retro-reflective material intended to be used to achieve the markings."
+  },
+  {
+   "term": "distinctive_markings_graphics",
+   "label": "Distinctive markings, graphics",
+   "definition": "Coloured markings whose coefficient of retro-reflection is as defined in paragraphs 7.2.1 and 7.2.2."
+  },
+  {
+   "term": "retro_reflection",
+   "label": "Retro-reflection",
+   "definition": "Reflection in which luminous flux is returned in directions close to the direction from which it came, maintained even over wide variations of the direction of the luminous flux."
+  },
+  {
+   "term": "retro_reflective_marking_material",
+   "label": "Retro-reflective marking material",
+   "definition": "A surface or device from which, when directionally illuminated, a relatively large portion of the incident radiation is retro-reflected."
+  },
+  {
+   "term": "reference_centre",
+   "label": "Reference centre",
+   "definition": "A point on or near a retro-reflective area designated as the centre of the device for specifying its performance."
+  },
+  {
+   "term": "reference_axis",
+   "label": "Reference axis (R)",
+   "definition": "A designated line segment originating on the reference centre, used to describe the angular position of the retro-reflective device."
+  },
+  {
+   "term": "entrance_angle",
+   "label": "Entrance angle (β)",
+   "definition": "The angle from the illumination axis to the reference axis, characterised by two components β1 and β2."
+  },
+  {
+   "term": "observation_angle",
+   "label": "Observation angle (α)",
+   "definition": "The angle between the illumination axis and the observation axis, always positive and small for retro-reflection."
+  },
+  {
+   "term": "rotation_angle",
+   "label": "Rotation angle (ε)",
+   "definition": "The angle indicating the orientation of the retro-reflecting material with respect to rotation about the reference axis."
+  },
+  {
+   "term": "coefficient_of_retro_reflection",
+   "label": "Coefficient of retro-reflection (R')",
+   "definition": "The quotient of the coefficient of luminous intensity R of a plane retro-reflecting surface and its area A, expressed in cd·m-2·lx-1."
+  },
+  {
+   "term": "luminance_factor",
+   "label": "Luminance factor (β)",
+   "definition": "The ratio of the luminance of the body to that of a perfect diffuser under identical illumination and observation conditions."
+  },
+  {
+   "term": "colour_of_reflected_light",
+   "label": "Colour of the reflected light of the device",
+   "definition": "The colour of reflected light as defined in paragraph 2.30 of Regulation No. 48."
+  },
+  {
+   "term": "type",
+   "label": "Type (of marking material)",
+   "definition": "Marking materials differing in essential respects such as trade name or mark (with a different manufacturer), the characteristics of the retro-reflective material, or the parts affecting its properties."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Class C",
+   "distinguished_by": "Retro-reflective marking material for side and rear (contour/line) marking with strips; white, yellow or red; may be adhesive (bonding strength test)."
+  },
+  {
+   "name": "Class D",
+   "distinguished_by": "Distinctive markings/graphics material with the lower coefficient of retro-reflection specified in para 7.2."
+  },
+  {
+   "name": "Class E",
+   "distinguished_by": "Distinctive markings/graphics material with the higher coefficient of retro-reflection specified in para 7.2."
+  },
+  {
+   "name": "Class F",
+   "distinguished_by": "Strip material for side, rear and/or front marking with its own dimensions, spectrophotometric colour measurement and flexing test; it is likely intended for flexible substrates such as curtains."
+  },
+  {
+   "name": "Colours",
+   "distinguished_by": "White, yellow or red for Class C; other colour rules apply to the other classes, per Annex 6."
+  },
+  {
+   "name": "Omnirotational vs non-omnirotational",
+   "distinguished_by": "Non-omnirotational materials must bear a 'TOP' orientation mark at least every 0.5 m on strips, or within each 100 x 100 mm area."
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "retro_reflective_marking_material"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "sample_unit",
+    "distinctive_markings_graphics",
+    "retro_reflection",
+    "retro_reflective_marking_material",
+    "type"
+   ]
+  },
+  {
+   "label": "2.3",
+   "title": "Geometric definitions",
+   "about": [
+    "reference_centre",
+    "reference_axis",
+    "entrance_angle",
+    "observation_angle",
+    "rotation_angle"
+   ]
+  },
+  {
+   "label": "2.4",
+   "title": "Definition of photometric terms",
+   "about": [
+    "coefficient_of_retro_reflection",
+    "luminance_factor",
+    "colour_of_reflected_light"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "retro_reflective_marking_material",
+    "type"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Trade names and other marks",
+   "about": [
+    "retro_reflective_marking_material"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Approval",
+   "about": [
+    "retro_reflective_marking_material"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "General specifications",
+   "about": [
+    "retro_reflective_marking_material"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Special specifications",
+   "about": [
+    "coefficient_of_retro_reflection",
+    "distinctive_markings_graphics",
+    "colour_of_reflected_light"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Modifications and extension of approval for retro-reflective marking materials",
+   "about": [
+    "type"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Conformity of production",
+   "about": [
+    "retro_reflective_marking_material"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Penalties for non-conformity of production",
+   "about": []
+  },
+  {
+   "label": "11",
+   "title": "Production definitely discontinued",
+   "about": []
+  },
+  {
+   "label": "12",
+   "title": "Names and addresses of technical services and administrative departments",
+   "about": []
+  },
+  {
+   "label": "Annex 1",
+   "title": "Geometric figures (CIE coordinate system, goniometer)",
+   "about": [
+    "reference_axis",
+    "entrance_angle",
+    "observation_angle"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Communication concerning approval (class C/D/E/F)",
+   "about": [
+    "retro_reflective_marking_material"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Arrangement of the approval mark",
+   "about": [
+    "retro_reflective_marking_material"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Test samples",
+   "about": [
+    "sample_unit"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Marking dimensions",
+   "about": [
+    "retro_reflective_marking_material"
+   ]
+  },
+  {
+   "label": "Annex 5 1",
+   "title": "Side and rear marking with strips (Class C)",
+   "about": [
+    "retro_reflective_marking_material"
+   ]
+  },
+  {
+   "label": "Annex 5 2",
+   "title": "Side, rear and/or front marking with strips (Class F)",
+   "about": [
+    "retro_reflective_marking_material"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Colour specifications (daytime colour, luminance factor, colour of reflected light)",
+   "about": [
+    "colour_of_reflected_light",
+    "luminance_factor"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Photometric specifications (coefficient of retro-reflection)",
+   "about": [
+    "coefficient_of_retro_reflection"
+   ]
+  },
+  {
+   "label": "Annex 8",
+   "title": "Resistance tests",
+   "about": [
+    "sample_unit"
+   ]
+  },
+  {
+   "label": "Annex 8 1",
+   "title": "Resistance to weathering",
+   "about": [
+    "sample_unit"
+   ]
+  },
+  {
+   "label": "Annex 8 2",
+   "title": "Resistance to corrosion",
+   "about": [
+    "sample_unit"
+   ]
+  },
+  {
+   "label": "Annex 8 3",
+   "title": "Resistance to fuels",
+   "about": [
+    "sample_unit"
+   ]
+  },
+  {
+   "label": "Annex 8 4",
+   "title": "Resistance to heat",
+   "about": [
+    "sample_unit"
+   ]
+  },
+  {
+   "label": "Annex 8 5",
+   "title": "Resistance to cleaning (manual cleaning, power washing)",
+   "about": [
+    "sample_unit"
+   ]
+  },
+  {
+   "label": "Annex 8 6",
+   "title": "Stability of photometric properties",
+   "about": [
+    "coefficient_of_retro_reflection"
+   ]
+  },
+  {
+   "label": "Annex 8 7",
+   "title": "Resistance to penetration of water",
+   "about": [
+    "sample_unit"
+   ]
+  },
+  {
+   "label": "Annex 8 8",
+   "title": "Bonding strength (adhesive materials of Class C)",
+   "about": [
+    "retro_reflective_marking_material"
+   ]
+  },
+  {
+   "label": "Annex 8 9",
+   "title": "Flexing",
+   "about": [
+    "retro_reflective_marking_material"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Conspicuity/contour marking tape on trucks, trailers and buses (M2, M3, N, O2-O4) is approved as material under R104; its fitting on the vehicle is governed by R48.",
+  "Retro-reflective company logos, advertising graphics or decorative markings on such vehicles fall under R104 as 'distinctive markings, graphics' (Classes D/E).",
+  "Retro-reflective strips on flexible substrates such as curtain-sided trailers fall under R104; Class F with its flexing test is likely the relevant class.",
+  "Category O1 trailers and M1 cars are outside the scope.",
+  "Rigid retro-reflectors (reflex reflector devices) are approved under other regulations (e.g. R3, now R150), not R104; R104 covers sheet/strip marking materials.",
+  "Rebranding an approved material under a different trade name by the same manufacturer requires only a declaration and two samples (para 3.1.4).",
+  "The same material produced by a different manufacturer under the same trade name is a different type requiring separate approval."
+ ],
+ "version": "0.9.0"
+}

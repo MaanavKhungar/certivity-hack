@@ -1,0 +1,402 @@
+{
+ "regulation": "UN R19",
+ "title": "Uniform provisions concerning the approval of power-driven vehicle front fog lamps (version 4.10.0, 04 series)",
+ "subject_kind": "component",
+ "scope_summary": "Approves front fog lamp types of Class B and Class F3, including lamps with glass or plastic lenses, filament or gas-discharge light sources, LED modules, and adaptive variants. The lamps are for vehicles of categories L3, L4, L5, L7, M, N and T.",
+ "scope_quote": "This Regulation applies to front fog lamps for vehicles of categories L3, L4, L5, L7, M, N, and T.",
+ "vehicle_categories": [
+  "L3",
+  "L4",
+  "L5",
+  "L7",
+  "M",
+  "N",
+  "T"
+ ],
+ "applies_to_components": [
+  "front fog lamp (Class B)",
+  "front fog lamp (Class F3)",
+  "adaptive front fog lamp with variable intensity control",
+  "lens (glass or plastic material) of front fog lamp",
+  "coating on lens",
+  "LED module used in front fog lamp",
+  "light source control gear / ballast",
+  "grouped, combined or reciprocally incorporated lamps including a front fog lamp",
+  "inner optical parts of plastic material (UV resistance)"
+ ],
+ "relation_to_other_regulations": [
+  "Definitions of UN R48 (installation of lighting and light-signalling devices) apply; colour definitions are taken from R48.",
+  "Reciprocal incorporation of a passing beam lamp and a front fog lamp is possible if it complies with R48.",
+  "Class B lamps may use only filament light sources approved to R37.",
+  "Class F3 lamps may use light sources approved to R37 (filament) or R99 (gas-discharge), or LED modules.",
+  "References to standard (étalon) light sources follow R37 and R99.",
+  "Grouped, combined or reciprocally incorporated lamps may carry a single approval mark covering several Regulations.",
+  "Vehicle categories are as defined in the Consolidated Resolution R.E.3 (ECE/TRANS/WP.29/78/Rev.2).",
+  "Contracting Parties may prohibit combining a plastic-lens front fog lamp with a mechanical headlamp-cleaning device with wipers."
+ ],
+ "defined_terms": [
+  {
+   "term": "Lens",
+   "label": "1.2",
+   "definition": "The outermost component of the front fog lamp (unit), which transmits light through the illuminating surface."
+  },
+  {
+   "term": "Coating",
+   "label": "1.3",
+   "definition": "Any product or products applied in one or more layers to the outer face of a lens."
+  },
+  {
+   "term": "Front fog lamps of different types",
+   "label": "1.4",
+   "definition": "Front fog lamps differing in essential respects such as trade name or mark, class (B or F3), optical system characteristics, components altering optical effects or variable intensity control, or light source category / LED module code; left- and right-side versions count as the same type."
+  },
+  {
+   "term": "Colour of the light emitted from the device",
+   "label": "1.5",
+   "definition": "The colour of emitted light as defined in Regulation No. 48 and its series of amendments in force."
+  },
+  {
+   "term": "Class B front fog lamp",
+   "label": "Introduction / 1.4.2",
+   "definition": "The original front fog lamp class, using only R37 filament light sources, with photometry in angular coordinates."
+  },
+  {
+   "term": "Class F3 front fog lamp",
+   "label": "Introduction / 1.4.2",
+   "definition": "A front fog lamp class with increased photometric performance that may use R37, R99 or LED module light sources and may provide adaptive beam patterns."
+  },
+  {
+   "term": "Adaptive front fog lamp",
+   "label": "2.4.3.1",
+   "definition": "A Class F3 front fog lamp whose performance is varied according to visibility conditions by a variable intensity control."
+  },
+  {
+   "term": "LED module",
+   "label": "2.4.2 / 3.5",
+   "definition": "A light source module for Class F3 lamps identified by a specific identification code starting with \"MD\"."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Class B",
+   "distinguished_by": "Original photometric provisions; R37 filament light sources only; marked \"B\"."
+  },
+  {
+   "name": "Class F3",
+   "distinguished_by": "Higher photometric performance with wider beam, foreground and veiling-light controls; R37/R99/LED sources allowed; marked \"F3\"; may be adaptive or asymmetric (asymmetric lamps marked with an arrow)."
+  },
+  {
+   "name": "Plastic lens variant (PL)",
+   "distinguished_by": "Lens of plastic material; marked \"PL\"; subject to Annex 6 material tests."
+  },
+  {
+   "name": "Adaptive front fog lamp",
+   "distinguished_by": "Variable intensity control varying performance with visibility conditions (Class F3)."
+  },
+  {
+   "name": "Non-simultaneous reciprocally incorporated unit",
+   "distinguished_by": "Oblique stroke (/) after the symbol when functions are not lit simultaneously."
+  },
+  {
+   "name": "6 V/12 V only units",
+   "distinguished_by": "Symbol of \"24\" crossed out near the filament lamp holder."
+  }
+ ],
+ "sections": [
+  {
+   "label": "Introduction/Scope",
+   "title": "Introduction and Scope",
+   "about": [
+    "Class B front fog lamp",
+    "Class F3 front fog lamp",
+    "vehicle categories"
+   ]
+  },
+  {
+   "label": "1",
+   "title": "Definitions",
+   "about": [
+    "Lens",
+    "Coating",
+    "Front fog lamps of different types",
+    "Colour of the light emitted from the device"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Application for approval",
+   "about": [
+    "Lens",
+    "LED module",
+    "Adaptive front fog lamp",
+    "light source control gear"
+   ]
+  },
+  {
+   "label": "2.3",
+   "title": "In case of Class B front fog lamps",
+   "about": [
+    "Class B front fog lamp"
+   ]
+  },
+  {
+   "label": "2.4",
+   "title": "In case of Class F3 front fog lamps",
+   "about": [
+    "Class F3 front fog lamp",
+    "LED module",
+    "Adaptive front fog lamp",
+    "light source control gear"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Markings",
+   "about": [
+    "LED module",
+    "light source control gear",
+    "Class F3 front fog lamp"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "approval mark",
+    "Class B",
+    "Class F3",
+    "PL plastic lens",
+    "grouped, combined or reciprocally incorporated lamps"
+   ]
+  },
+  {
+   "label": "4.3",
+   "title": "Arrangement of the approval mark",
+   "about": [
+    "independent lamps",
+    "grouped, combined or reciprocally incorporated lamps"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "General specifications",
+   "about": [
+    "front fog lamp",
+    "LED module",
+    "plastic lens"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Illumination",
+   "about": [
+    "photometry",
+    "cut-off",
+    "Class B front fog lamp"
+   ]
+  },
+  {
+   "label": "6.4",
+   "title": "In the case of Class F3 front fog lamps",
+   "about": [
+    "Class F3 front fog lamp",
+    "Adaptive front fog lamp"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Colour",
+   "about": [
+    "Colour of the light emitted from the device (white or selective yellow)"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Determination of discomfort (dazzle)",
+   "about": [
+    "discomfort glare"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Modifications of the type of front fog lamp and extension of approval",
+   "about": [
+    "Front fog lamps of different types"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Conformity of production",
+   "about": [
+    "production control"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Penalties for non-conformity of production",
+   "about": [
+    "withdrawal of approval"
+   ]
+  },
+  {
+   "label": "12",
+   "title": "Production definitively discontinued",
+   "about": [
+    "notification"
+   ]
+  },
+  {
+   "label": "13",
+   "title": "Names and addresses of Technical Services and Type Approval Authorities",
+   "about": [
+    "administration"
+   ]
+  },
+  {
+   "label": "14",
+   "title": "Transitional provisions",
+   "about": [
+    "series of amendments"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication form",
+   "about": [
+    "approval communication"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Photometric requirements per class",
+   "about": [
+    "Class B front fog lamp",
+    "Class F3 front fog lamp"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Examples of arrangements of approval marks",
+   "about": [
+    "approval mark",
+    "grouped, combined or reciprocally incorporated lamps"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Measuring screen and measuring grid",
+   "about": [
+    "photometry",
+    "angular coordinates"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Tests for stability of photometric performance of operating lamps and cut-off position under heat",
+   "about": [
+    "photometric stability",
+    "cut-off line"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Requirements for lamps incorporating lenses of plastic material",
+   "about": [
+    "Lens",
+    "Coating",
+    "plastic lens",
+    "UV radiation resistance"
+   ]
+  },
+  {
+   "label": "Annex 6 Appendix 1",
+   "title": "Chronological order of approval tests on plastic materials",
+   "about": [
+    "plastic lens"
+   ]
+  },
+  {
+   "label": "Annex 6 Appendix 2",
+   "title": "Method of measurement of diffusion and transmission of light",
+   "about": [
+    "plastic lens"
+   ]
+  },
+  {
+   "label": "Annex 6 Appendix 3",
+   "title": "Spray testing method",
+   "about": [
+    "plastic lens"
+   ]
+  },
+  {
+   "label": "Annex 6 Appendix 4",
+   "title": "Adhesive tape adherence test",
+   "about": [
+    "Coating"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Minimum requirements for conformity of production control procedures",
+   "about": [
+    "production control"
+   ]
+  },
+  {
+   "label": "Annex 8",
+   "title": "Minimum requirements for sampling by an inspector",
+   "about": [
+    "production sampling",
+    "cut-off line"
+   ]
+  },
+  {
+   "label": "Annex 9",
+   "title": "Cut-off line definition, adjustment and quality measurement",
+   "about": [
+    "cut-off line",
+    "front fog beam adjustment"
+   ]
+  },
+  {
+   "label": "Annex 10",
+   "title": "Marking examples for combined lamps (P, D, F)",
+   "about": [
+    "grouped, combined or reciprocally incorporated lamps",
+    "passing beam",
+    "driving beam"
+   ]
+  },
+  {
+   "label": "Annex 11",
+   "title": "Centre of reference mark",
+   "about": [
+    "centre of reference"
+   ]
+  },
+  {
+   "label": "Annex 12",
+   "title": "Requirements for LED modules and lamps including LED modules",
+   "about": [
+    "LED module",
+    "UV radiation",
+    "colour rendering",
+    "temperature stability",
+    "run-up",
+    "hot re-strike"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Applies to the fog lamp function inside headlamp assemblies where a front fog lamp is grouped, combined or reciprocally incorporated with passing or driving beam lamps.",
+  "LED modules and separate light source control gears/ballasts are approved and marked as part of a Class F3 fog lamp approval rather than independently.",
+  "Plastic lenses and plastic inner optical parts trigger the Annex 6 material tests and UV-resistance requirements; coated lenses are also tested.",
+  "Covers motorcycle and tricycle categories L3, L4, L5 and L7 as well as M, N and agricultural T vehicles.",
+  "A lamp unit with an adaptive or variable intensity control falls under Class F3 provisions, and the control unit or a signal generator must be supplied.",
+  "Installation of fog lamps on vehicles is governed by R48 (or the L-category installation regulations), not by R19.",
+  "Non-replaceable light sources still require their R37/R99 category to be declared.",
+  "A Class B lamp may only use R37 filament lamps; LED or gas-discharge fog lamps must be Class F3."
+ ],
+ "version": "4.10.0"
+}

@@ -1,0 +1,578 @@
+{
+ "regulation": "UN R132",
+ "title": "Uniform provisions concerning the approval of Retrofit Emission Control devices (REC) for heavy duty vehicles, agricultural and forestry tractors and non-road mobile machinery equipped with compression ignition engines",
+ "subject_kind": "component",
+ "scope_summary": "Approves Retrofit Emission Control devices (REC) for particulate matter, NOx, or both. These devices are retrofitted to compression-ignition engines in M2, M3 and N vehicles (excluding vehicles approved to R83), in category T vehicles, and in variable- or constant-speed non-road mobile machinery with engines of more than 18 kW and up to 560 kW.",
+ "scope_quote": "This Regulation applies to Retrofit Emission Control devices (REC) to be installed: 2.1 On category M2, M3 and N vehicles and their CI engines, excluding those vehicles approved according to Regulation No. 83; 2.2 On CI engines having a net power higher than 18 kW but not more than 560 kW installed in non-road mobile machinery, operated under variable speed; 2.3 On CI engines having a net power higher than 18 kW but not more than 560 kW installed in non-road mobile machinery, operated under constant speed; 2.4 On CI engines having a net power higher than 18 kW but not more than 560 kW installed in category T vehicles.",
+ "vehicle_categories": [
+  "M2",
+  "M3",
+  "N1",
+  "N2",
+  "N3",
+  "T",
+  "Non-road mobile machinery (CI engines >18 kW to 560 kW, variable or constant speed)"
+ ],
+ "applies_to_components": [
+  "Retrofit Emission Control device (REC)",
+  "Particulate reduction REC (e.g. particulate filters, including regeneration system and strategy)",
+  "NOx reduction REC / DeNOx system (e.g. SCR, lean NOx catalysts, NOx absorbers)",
+  "Combined NOx and PM reduction REC",
+  "Sensors and software essential to REC operation",
+  "NOx Control Diagnostic system (NCD)",
+  "On-board operator warning system and operator inducement system",
+  "Reagent tank and dosing system (reagent-based REC)",
+  "Emission control monitoring system",
+  "Installation instructions and retrofit installation of REC"
+ ],
+ "relation_to_other_regulations": [
+  "Excludes vehicles approved according to UN Regulation No. 83 (light-duty emissions).",
+  "Refers to UN Regulation No. 49 for the engine family definition (para. 7), the ESC/ETC/WHSC/WHTC test cycles, PM and particle number definitions, and measurement procedures.",
+  "Refers to UN Regulation No. 96 for the engine family definition (para. 7), the NRSC/NRTC test cycles and the PM definition for non-road and tractor engines.",
+  "Refers to the Consolidated Resolution R.E.3 for vehicle category definitions.",
+  "Annex 9 relates REC classes and reduction efficiencies to achieving the limits of the next more stringent emission stage (R49/R96 limits)."
+ ],
+ "defined_terms": [
+  {
+   "term": "Retrofit Emission Control device (REC)",
+   "label": "3.35",
+   "definition": "Any particulate reduction system, NOx-reduction system or combination of both used for retrofit purposes, including essential sensors and software; systems that only modify existing engine controls are not REC."
+  },
+  {
+   "term": "Class I REC",
+   "label": "3.4",
+   "definition": "A REC intended to control particulate matter emissions only that does not increase direct NO2 emissions."
+  },
+  {
+   "term": "Class IIA or IIB REC",
+   "label": "3.5",
+   "definition": "A REC intended to control PM only that does not increase direct tailpipe NO2 emissions by more than the percentage specified in paragraph 8.4.2."
+  },
+  {
+   "term": "Class III REC",
+   "label": "3.6",
+   "definition": "A REC intended to control NOx emissions only."
+  },
+  {
+   "term": "Class IV REC",
+   "label": "3.7",
+   "definition": "A REC intended to control both particulate matter and NOx emissions."
+  },
+  {
+   "term": "Particulate reduction REC",
+   "label": "3.28",
+   "definition": "A REC whose particulate mass or particle number reduction efficiency qualifies it for a classification class, with the regeneration system and strategy forming part of it."
+  },
+  {
+   "term": "Particulate reduction REC family",
+   "label": "3.29",
+   "definition": "A family of particulate reduction systems that are technically identical in function according to paragraph 14."
+  },
+  {
+   "term": "NOx-reduction REC",
+   "label": "3.21",
+   "definition": "A REC whose NOx mass emission reduction efficiency qualifies it for a classification class."
+  },
+  {
+   "term": "NOx reduction REC family",
+   "label": "3.22",
+   "definition": "A family of NOx reduction systems that are technically identical in function according to paragraph 15."
+  },
+  {
+   "term": "DeNOx system",
+   "label": "3.9",
+   "definition": "An exhaust aftertreatment system designed to reduce NOx emissions, such as lean NOx catalysts, NOx absorbers and SCR systems."
+  },
+  {
+   "term": "NOx Control Diagnostic system (NCD)",
+   "label": "3.20",
+   "definition": "A system of the REC capable of detecting NOx control malfunctions and identifying them via stored information and/or off-board communication."
+  },
+  {
+   "term": "On-board operator warning system",
+   "label": "3.25",
+   "definition": "A device that detects incorrect operation or removal of the REC."
+  },
+  {
+   "term": "Emission control monitoring system",
+   "label": "3.10",
+   "definition": "The system that monitors the operation of emission control measures in the engine and/or REC system according to paragraph 18."
+  },
+  {
+   "term": "Reagent",
+   "label": "3.32",
+   "definition": "Any medium stored on-board in a tank and provided to the exhaust aftertreatment system on request of the emission control system."
+  },
+  {
+   "term": "Scan-tool",
+   "label": "3.36",
+   "definition": "External test equipment used for off-board communication with the NCD system."
+  },
+  {
+   "term": "Generic scan-tool",
+   "label": "3.36.1",
+   "definition": "A publicly available scan-tool capable of reading failure messages."
+  },
+  {
+   "term": "Proprietary scan-tool",
+   "label": "3.36.2",
+   "definition": "A scan-tool used only by the REC manufacturer and authorized dealers that reads failure messages and enables engine start after operator inducement."
+  },
+  {
+   "term": "Active regeneration",
+   "label": "3.1",
+   "definition": "Any additional measure to initiate regeneration on a periodic or continuously regenerating REC."
+  },
+  {
+   "term": "Continuous regeneration",
+   "label": "3.8",
+   "definition": "A regeneration process of an exhaust aftertreatment system occurring permanently or at least once per applicable test cycle."
+  },
+  {
+   "term": "Periodic regeneration",
+   "label": "3.30",
+   "definition": "A regeneration process occurring periodically, typically within less than 100 hours of normal engine operation, during which emission standards can be exceeded."
+  },
+  {
+   "term": "Application range",
+   "label": "3.3",
+   "definition": "The range of engines to which an approved REC can be applied."
+  },
+  {
+   "term": "Engine baseline emission",
+   "label": "3.11",
+   "definition": "The emissions of an engine or engine system without any REC, i.e. engine-out emissions or the tailpipe emissions downstream of existing aftertreatment."
+  },
+  {
+   "term": "Engine system",
+   "label": "3.13",
+   "definition": "The engine, the emission control system and the communication interface between engine ECU(s) and other powertrain or vehicle control units."
+  },
+  {
+   "term": "Engine family",
+   "label": "3.12",
+   "definition": "A manufacturer's grouping of engine systems with similar exhaust emission characteristics per paragraph 7 of R49 or R96."
+  },
+  {
+   "term": "Parent engine",
+   "label": "3.26",
+   "definition": "An engine selected from an engine family whose emission characteristics are representative of that family."
+  },
+  {
+   "term": "Reduction efficiency",
+   "label": "3.33",
+   "definition": "The ratio between emissions downstream of the REC and engine baseline emissions, calculated per paragraph 8.3.4."
+  },
+  {
+   "term": "Reduction level",
+   "label": "3.34",
+   "definition": "A reduction efficiency in per cent that the REC must meet to be certified to a level specified in paragraph 8.3."
+  },
+  {
+   "term": "Installer",
+   "label": "3.19",
+   "definition": "The person or body responsible for correct and safe installation of the approved REC."
+  },
+  {
+   "term": "Load condition",
+   "label": "3.17",
+   "definition": "The PM loading stored in a particulate reduction system, expressed as a proportion of its maximum loading before external regeneration."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Class I REC",
+   "distinguished_by": "PM control only, with no increase in direct NO2 emissions"
+  },
+  {
+   "name": "Class IIA REC",
+   "distinguished_by": "PM control only, with a limited NO2 increase per paragraph 8.4.2 (lower permitted percentage)"
+  },
+  {
+   "name": "Class IIB REC",
+   "distinguished_by": "PM control only, with a limited NO2 increase per paragraph 8.4.2 (higher permitted percentage)"
+  },
+  {
+   "name": "Class III REC",
+   "distinguished_by": "NOx control only"
+  },
+  {
+   "name": "Class IV REC",
+   "distinguished_by": "Combined PM and NOx control"
+  },
+  {
+   "name": "Particulate reduction REC family / NOx reduction REC family / NOx and PM reduction REC family",
+   "distinguished_by": "Technically identical functioning per paragraphs 14, 15 and 16"
+  },
+  {
+   "name": "Application: on-road (M2, M3, N), NRMM variable speed, NRMM constant speed, category T",
+   "distinguished_by": "Engine application, which determines test cycles (ESC/ETC/WHSC/WHTC vs NRSC/NRTC)"
+  },
+  {
+   "name": "Reagent-based REC vs non-reagent REC",
+   "distinguished_by": "Use of a reagent, which triggers NCD and operator warning/inducement requirements (7.7, Annex 10)"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Purpose",
+   "about": [
+    "Retrofit Emission Control device (REC)",
+    "Class I REC",
+    "Class III REC",
+    "Class IV REC"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Scope",
+   "about": [
+    "Retrofit Emission Control device (REC)",
+    "Application range"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Definitions",
+   "about": [
+    "Retrofit Emission Control device (REC)",
+    "Class I REC",
+    "Class IIA or IIB REC",
+    "Class III REC",
+    "Class IV REC",
+    "NOx Control Diagnostic system (NCD)",
+    "Reagent"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Application for approval",
+   "about": [
+    "Retrofit Emission Control device (REC)",
+    "Application range"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Markings and labels",
+   "about": [
+    "Retrofit Emission Control device (REC)"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Approval",
+   "about": [
+    "Retrofit Emission Control device (REC)"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "General requirements",
+   "about": [
+    "Retrofit Emission Control device (REC)",
+    "Emission control monitoring system"
+   ]
+  },
+  {
+   "label": "7.7",
+   "title": "Requirements on NOx control measures for REC requiring a reagent",
+   "about": [
+    "Reagent",
+    "NOx-reduction REC",
+    "NOx Control Diagnostic system (NCD)",
+    "DeNOx system"
+   ]
+  },
+  {
+   "label": "7.8",
+   "title": "Maintenance requirements",
+   "about": [
+    "Retrofit Emission Control device (REC)"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Performance requirements",
+   "about": [
+    "Reduction efficiency",
+    "Reduction level",
+    "Engine baseline emission"
+   ]
+  },
+  {
+   "label": "8.3",
+   "title": "Reduction levels and reduction efficiency",
+   "about": [
+    "Reduction level",
+    "Reduction efficiency"
+   ]
+  },
+  {
+   "label": "8.4",
+   "title": "NO2 emissions requirements",
+   "about": [
+    "Class I REC",
+    "Class IIA or IIB REC"
+   ]
+  },
+  {
+   "label": "8.5",
+   "title": "Particle number emissions requirements",
+   "about": [
+    "Particulate reduction REC"
+   ]
+  },
+  {
+   "label": "8.6",
+   "title": "Secondary emissions requirements",
+   "about": [
+    "Retrofit Emission Control device (REC)"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Durability requirements",
+   "about": [
+    "Retrofit Emission Control device (REC)"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Application range",
+   "about": [
+    "Application range",
+    "Engine family"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Modifications to engine baseline emissions",
+   "about": [
+    "Engine baseline emission"
+   ]
+  },
+  {
+   "label": "12",
+   "title": "Choice of the test engines and REC combination",
+   "about": [
+    "Parent engine",
+    "Engine family"
+   ]
+  },
+  {
+   "label": "13",
+   "title": "Specifications concerning emissions measurement",
+   "about": [
+    "Gaseous pollutants",
+    "Particulate matter (PM)",
+    "Particle number"
+   ]
+  },
+  {
+   "label": "14",
+   "title": "Particulate reduction REC family",
+   "about": [
+    "Particulate reduction REC family",
+    "Particulate reduction REC"
+   ]
+  },
+  {
+   "label": "15",
+   "title": "NOx reduction REC family",
+   "about": [
+    "NOx reduction REC family",
+    "NOx-reduction REC"
+   ]
+  },
+  {
+   "label": "16",
+   "title": "NOx and PM reduction REC family",
+   "about": [
+    "Class IV REC"
+   ]
+  },
+  {
+   "label": "17",
+   "title": "Fuel and specific fuel consumption",
+   "about": [
+    "Retrofit Emission Control device (REC)"
+   ]
+  },
+  {
+   "label": "18",
+   "title": "Operating behaviour and safety hazard",
+   "about": [
+    "Emission control monitoring system",
+    "On-board operator warning system"
+   ]
+  },
+  {
+   "label": "19",
+   "title": "Noise emissions",
+   "about": [
+    "Retrofit Emission Control device (REC)"
+   ]
+  },
+  {
+   "label": "20",
+   "title": "Installation of a REC",
+   "about": [
+    "Installer",
+    "Retrofit Emission Control device (REC)"
+   ]
+  },
+  {
+   "label": "21",
+   "title": "Modification and extension of approval of a REC",
+   "about": [
+    "Retrofit Emission Control device (REC)"
+   ]
+  },
+  {
+   "label": "22",
+   "title": "Conformity of production",
+   "about": [
+    "Retrofit Emission Control device (REC)"
+   ]
+  },
+  {
+   "label": "23",
+   "title": "Penalties for non-conformity of production",
+   "about": []
+  },
+  {
+   "label": "24",
+   "title": "Production definitively discontinued",
+   "about": []
+  },
+  {
+   "label": "25",
+   "title": "Names and addresses of Technical Services and Type Approval Authorities",
+   "about": []
+  },
+  {
+   "label": "26",
+   "title": "Transitional provisions",
+   "about": []
+  },
+  {
+   "label": "Annex 1",
+   "title": "Information document",
+   "about": [
+    "Particulate reduction REC family",
+    "NOx reduction REC family",
+    "Class IV REC"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Communication concerning approval",
+   "about": [
+    "Application range",
+    "Class I REC",
+    "Class IIA or IIB REC",
+    "Class III REC",
+    "Class IV REC"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Engines tested and application range (test results)",
+   "about": [
+    "Application range"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Arrangements of approval marks",
+   "about": [
+    "Retrofit Emission Control device (REC)"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Testing procedure for particulate reduction REC",
+   "about": [
+    "Particulate reduction REC",
+    "Active regeneration",
+    "Periodic regeneration",
+    "Continuous regeneration",
+    "Adjustment factors",
+    "Load condition"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Testing procedure for NOx reduction REC",
+   "about": [
+    "NOx-reduction REC",
+    "DeNOx system"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Testing procedure for NOx and PM reduction REC",
+   "about": [
+    "Class IV REC"
+   ]
+  },
+  {
+   "label": "Annex 8",
+   "title": "Test sequences",
+   "about": [
+    "Particulate reduction REC",
+    "NOx-reduction REC",
+    "Class IV REC"
+   ]
+  },
+  {
+   "label": "Annex 9",
+   "title": "Emission limits and efficiency requirements for the next more stringent emission stage",
+   "about": [
+    "Reduction efficiency",
+    "Reduction level"
+   ]
+  },
+  {
+   "label": "Annex 10",
+   "title": "NOx control diagnostic (NCD) system requirements",
+   "about": [
+    "NOx Control Diagnostic system (NCD)",
+    "Reagent",
+    "On-board operator warning system",
+    "Scan-tool",
+    "Generic scan-tool",
+    "Proprietary scan-tool"
+   ]
+  },
+  {
+   "label": "Annex 11",
+   "title": "Installation instructions and information for retrofitter, owner and operator",
+   "about": [
+    "Installer",
+    "Retrofit Emission Control device (REC)"
+   ]
+  },
+  {
+   "label": "Annex 12",
+   "title": "Specific requirements for the approval of a REC fitted to particular vehicles/engines (e.g. with OBD)",
+   "about": [
+    "Retrofit Emission Control device (REC)"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Applies only to retrofit (aftermarket) aftertreatment devices for CI (diesel) engines, not to original-equipment emission systems, which fall under R49/R96.",
+  "Software-only or calibration-only modifications of existing engine controls are explicitly not REC.",
+  "Sensors, software, regeneration systems and reagent dosing/tank hardware essential to REC operation are part of the REC approval.",
+  "Diesel particulate filters, oxidation catalyst + DPF combinations, and SCR/lean-NOx/NOx-absorber kits sold for retrofit fall under this regulation.",
+  "Light-duty vehicles approved to R83 are excluded; N1 vehicles are only covered if not approved under R83.",
+  "Non-road mobile machinery and tractor engines are covered only within the >18 kW to 560 kW net power range.",
+  "Reagent-based (e.g. urea SCR) retrofit systems trigger NCD, operator warning and inducement requirements (7.7, Annex 10).",
+  "Any REC affecting a vehicle with OBD needs marking/compatibility information (4.2(c)) and may fall under Annex 12.",
+  "Retrofit installers and owner/operator documentation are regulated through installation instructions (para. 20, Annex 11)."
+ ],
+ "version": "1.0.0"
+}

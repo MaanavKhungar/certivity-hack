@@ -1,0 +1,710 @@
+{
+ "regulation": "UN R43",
+ "title": "Uniform provisions concerning the approval of safety glazing materials and their installation on vehicles (Safety glazing), version 1.12.0",
+ "subject_kind": "mixed",
+ "scope_summary": "UN R43 approves types of safety glazing material (windscreens, other panes and partitioning made of toughened, laminated, glass-plastics, plastic or multiple-glazed constructions) intended for vehicles of category L with bodywork, M, N, O and T. It also approves vehicle types of categories M, N and O with regard to the installation of these glazing materials, excluding lighting/light-signalling glazing, instrument panels, bullet-proof glazing, double windows and small plastic glazing not needed for the driver's forward or rearward vision.",
+ "scope_quote": "This Regulation applies to: (a) Safety glazing materials intended for installation as windscreens or other panes, or as partitioning, on vehicles of category L with bodywork, M, N, O, and T; (b) Vehicles of category M, N and O with regard to the installation of these materials; In both cases to the exclusion of: (i) Glazing for lighting and light-signalling devices, instrument panels, special bullet-proof glazing and double windows; (ii) Small plastic glazing that is not required for either the driver's forward or rearward field of vision.",
+ "vehicle_categories": [
+  "L (with bodywork) - glazing component approval",
+  "M",
+  "N",
+  "O",
+  "T - glazing component approval"
+ ],
+ "applies_to_components": [
+  "Safety glazing materials",
+  "Windscreens",
+  "Panes (side, rear, roof and other glazing other than the windscreen)",
+  "Partitioning / interior glazing",
+  "Exterior forward-facing glazing",
+  "Toughened-glass windscreens",
+  "Uniformly-toughened glass panes",
+  "Ordinary laminated-glass windscreens",
+  "Treated laminated-glass windscreens",
+  "Laminated-glass panes",
+  "Safety-glass faced with plastics material (coated glazing)",
+  "Glass-plastics windscreens and panes",
+  "Rigid plastic glazing and rigid plastic windscreens",
+  "Flexible plastic panes",
+  "Laminated rigid plastic panes and windscreens",
+  "Multiple-glazed units (glass and rigid plastic)",
+  "Interlayers of laminated glass",
+  "Opaque obscuration and shade bands on glazing",
+  "Installation of safety glazing on vehicles of categories M, N and O"
+ ],
+ "relation_to_other_regulations": [
+  "Vehicle categories as defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3), ECE/TRANS/WP.29/78/Rev.7, paragraph 2.",
+  "Annex 22 refers to the procedure described in Addendum 6 of Mutual Resolution No. 1 (M.R.1) for determining the H point/R point and torso angle.",
+  "Annex 24 contains the vehicle installation requirements within R43 itself (no separate installation regulation).",
+  "Excludes glazing for lighting and light-signalling devices (covered by lamp regulations) and instrument panels.",
+  "Annex 5 notes uniformly-toughened glass panes may also be used as windscreens for slow-moving vehicles."
+ ],
+ "defined_terms": [
+  {
+   "term": "2.1",
+   "label": "Toughened-glass",
+   "definition": "Glazing consisting of a single layer of glass specially treated to increase its mechanical strength and to condition its fragmentation after shattering."
+  },
+  {
+   "term": "2.2",
+   "label": "Laminated-glass",
+   "definition": "Glazing consisting of two or more layers of glass held together by one or more interlayers of plastics material."
+  },
+  {
+   "term": "2.2.1",
+   "label": "Ordinary laminated glass",
+   "definition": "Laminated glass in which none of the glass layers has been treated."
+  },
+  {
+   "term": "2.2.2",
+   "label": "Treated laminated glass",
+   "definition": "Laminated glass in which at least one glass layer has been specially treated to increase mechanical strength and condition fragmentation."
+  },
+  {
+   "term": "2.3",
+   "label": "Interlayer",
+   "definition": "Any material designed to hold together the component layers of laminated-glass."
+  },
+  {
+   "term": "2.4",
+   "label": "Safety-glass faced with plastics material",
+   "definition": "Toughened or laminated glazing with a layer of plastics material on its inner face."
+  },
+  {
+   "term": "2.5",
+   "label": "Glass-plastics",
+   "definition": "Glazing comprising one layer of glass and one or more layers of plastic in which a plastic surface faces the inner side, other than safety-glass faced with plastics material."
+  },
+  {
+   "term": "2.6",
+   "label": "Plastic glazing",
+   "definition": "Glazing material containing as an essential ingredient one or more high-molecular-weight organic polymers, solid in its finished state and shapeable by flow during manufacture."
+  },
+  {
+   "term": "2.6.1",
+   "label": "Rigid plastic glazing",
+   "definition": "Plastic glazing that does not deflect vertically more than 50 mm in the flexibility test (Annex 3, para 12)."
+  },
+  {
+   "term": "2.6.2",
+   "label": "Flexible plastic glazing",
+   "definition": "Plastic glazing that deflects vertically more than 50 mm in the flexibility test (Annex 3, para 12)."
+  },
+  {
+   "term": "2.6.3",
+   "label": "Laminated rigid plastic pane",
+   "definition": "A plastic pane of two or more plastic layers held together by one or more plastic interlayers."
+  },
+  {
+   "term": "2.6.4",
+   "label": "Laminated rigid plastic windscreen",
+   "definition": "A plastic windscreen of two or more plastic layers held together by one or more plastic interlayers."
+  },
+  {
+   "term": "2.7",
+   "label": "Double window",
+   "definition": "An assembly of two panes separately installed within the same opening of the vehicle."
+  },
+  {
+   "term": "2.8",
+   "label": "Multiple-glazed unit",
+   "definition": "An assembly of at least two parallel panes permanently assembled in manufacture and separated by one or more gaps."
+  },
+  {
+   "term": "2.8.1",
+   "label": "Symmetrical multiple-glazed unit",
+   "definition": "A multiple-glazed unit in which all component panes are identical."
+  },
+  {
+   "term": "2.8.2",
+   "label": "Asymmetrical multiple-glazed unit",
+   "definition": "A multiple-glazed unit other than a symmetrical one."
+  },
+  {
+   "term": "2.9",
+   "label": "Bullet resistant / bullet-proof glazing",
+   "definition": "Glazing constructed so as to be resistant to firearms."
+  },
+  {
+   "term": "2.10",
+   "label": "Principal characteristic",
+   "definition": "A characteristic that appreciably modifies the optical and/or mechanical properties of the glazing, including trade names or marks."
+  },
+  {
+   "term": "2.11",
+   "label": "Secondary characteristic",
+   "definition": "A characteristic capable of modifying optical and/or mechanical properties, assessed via indices of difficulty."
+  },
+  {
+   "term": "2.12",
+   "label": "Indices of difficulty",
+   "definition": "A two-stage grading of variations in secondary characteristics where a change from index 1 to 2 requires additional tests."
+  },
+  {
+   "term": "2.13",
+   "label": "Windscreen",
+   "definition": "The glazing in front of the driver through which the driver views the road ahead."
+  },
+  {
+   "term": "2.14",
+   "label": "Exterior forward-facing glazing",
+   "definition": "Any glazing other than a windscreen installed in the front of the vehicle body forming part of the vehicle exterior."
+  },
+  {
+   "term": "2.15",
+   "label": "Interior glazing",
+   "definition": "Any glazing installed in a vehicle passenger compartment, e.g. partitions and separating windows."
+  },
+  {
+   "term": "2.16",
+   "label": "Developed area of windscreen",
+   "definition": "The minimum rectangular area of glass from which a windscreen can be manufactured."
+  },
+  {
+   "term": "2.17",
+   "label": "Inclination angle of a windscreen",
+   "definition": "The angle between a vertical line and a line through the top and bottom edges of the windscreen in the vehicle's longitudinal vertical plane."
+  },
+  {
+   "term": "2.18",
+   "label": "Group of windscreens",
+   "definition": "Windscreens of differing sizes and shapes examined together for mechanical properties, fragmentation and environmental resistance."
+  },
+  {
+   "term": "2.18.1",
+   "label": "Flat windscreen",
+   "definition": "A windscreen with no normal curvature giving a height of segment greater than 10 mm per linear metre."
+  },
+  {
+   "term": "2.18.2",
+   "label": "Curved windscreen",
+   "definition": "A windscreen with normal curvature giving a height of segment greater than 10 mm per linear metre."
+  },
+  {
+   "term": "2.19",
+   "label": "Pane",
+   "definition": "Any single piece of glazing other than a windscreen."
+  },
+  {
+   "term": "2.19.1",
+   "label": "Curved pane",
+   "definition": "A pane with a height of segment greater than 10 mm per linear metre."
+  },
+  {
+   "term": "2.19.2",
+   "label": "Flat pane",
+   "definition": "A pane with a height of segment equal to or less than 10 mm per linear metre."
+  },
+  {
+   "term": "2.20",
+   "label": "Height of segment 'h'",
+   "definition": "The maximum distance between the inner surface of the glazing and a plane through its ends."
+  },
+  {
+   "term": "2.21",
+   "label": "Type of safety glazing material",
+   "definition": "Glazing per paras 2.1-2.7 without essential differences in the principal and secondary characteristics defined in Annexes 4-12 and 14-19."
+  },
+  {
+   "term": "2.22",
+   "label": "Nominal thickness",
+   "definition": "The manufacturer's design thickness with tolerance ±(n x 0.2 mm), n being the number of glass layers."
+  },
+  {
+   "term": "2.23",
+   "label": "Curvature 'r'",
+   "definition": "The approximate smallest radius of arc of the windscreen in its most curved area."
+  },
+  {
+   "term": "2.24",
+   "label": "HIC (Head Injury Criteria)",
+   "definition": "A value characterising skull-brain injury from deceleration in a blunt perpendicular impact with the glazing."
+  },
+  {
+   "term": "2.25.1",
+   "label": "Safety glazing material requisite for the driver's forward field of vision",
+   "definition": "All glazing in front of the transverse plane through the driver's R point through which the driver can view the road when driving or manoeuvring."
+  },
+  {
+   "term": "2.25.2",
+   "label": "Safety glazing material requisite for the driver's rearward field of vision",
+   "definition": "All glazing behind the transverse plane through the driver's R point through which the driver can view the road when driving or manoeuvring."
+  },
+  {
+   "term": "2.26",
+   "label": "Opaque obscuration",
+   "definition": "Any glazing area preventing light transmission, including screen-printed areas, excluding shade bands."
+  },
+  {
+   "term": "2.27",
+   "label": "Shade band",
+   "definition": "Any glazing area with reduced light transmittance, excluding opaque obscuration."
+  },
+  {
+   "term": "2.28",
+   "label": "Transparent area of the windscreen",
+   "definition": "The glazing area within the design glass outline excluding allowed opaque obscuration but including any shade band."
+  },
+  {
+   "term": "2.29",
+   "label": "Design glass outline",
+   "definition": "The design maximum unobstructed vehicle aperture to be glazed, including trims but excluding obscuration bands."
+  },
+  {
+   "term": "2.30",
+   "label": "Optical distortion",
+   "definition": "An optical defect in a windscreen that changes the appearance of an object viewed through it."
+  },
+  {
+   "term": "2.31",
+   "label": "Secondary image",
+   "definition": "A spurious or ghost image in addition to the bright primary image, typically seen at night from bright sources."
+  },
+  {
+   "term": "2.32",
+   "label": "Secondary image separation",
+   "definition": "The angular distance between the primary and secondary images."
+  },
+  {
+   "term": "2.33",
+   "label": "Regular light transmittance",
+   "definition": "Light transmittance measured perpendicularly to the glazing."
+  },
+  {
+   "term": "2.37",
+   "label": "Type of vehicle (installation of safety glazing)",
+   "definition": "Vehicles of the same category not differing in manufacturer, type designation or essential aspects of construction and design."
+  },
+  {
+   "term": "2.38",
+   "label": "Central driving position",
+   "definition": "A driving position where the Y coordinate of the R point is at Y0 within ±60 mm."
+  },
+  {
+   "term": "2.39",
+   "label": "Small glazing",
+   "definition": "A pane with an area under 200 cm² within which a 150 mm diameter circle cannot be inscribed."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Toughened-glass windscreens (Annex 4)",
+   "distinguished_by": "single layer treated glass used as windscreen"
+  },
+  {
+   "name": "Uniformly-toughened glass panes (Annex 5)",
+   "distinguished_by": "single layer uniformly toughened glass used as pane (also slow-moving vehicle windscreens)"
+  },
+  {
+   "name": "Ordinary laminated-glass windscreens (Annex 6)",
+   "distinguished_by": "laminated glass with no treated layers, used as windscreen"
+  },
+  {
+   "name": "Laminated-glass panes (Annex 7)",
+   "distinguished_by": "laminated glass used as pane"
+  },
+  {
+   "name": "Treated laminated-glass windscreens (Annex 8)",
+   "distinguished_by": "laminated glass with at least one treated layer, used as windscreen"
+  },
+  {
+   "name": "Safety-glass faced with plastics material (Annex 9)",
+   "distinguished_by": "glazing of Annexes 4-8 coated with plastics on inner face"
+  },
+  {
+   "name": "Glass-plastics windscreens (Annex 10)",
+   "distinguished_by": "glass layer plus plastic layer(s) facing inward, used as windscreen"
+  },
+  {
+   "name": "Glass-plastics panes (Annex 11)",
+   "distinguished_by": "glass-plastics construction used as pane"
+  },
+  {
+   "name": "Multiple-glazed units (Annex 12)",
+   "distinguished_by": "permanently assembled parallel panes with gap; symmetrical or asymmetrical"
+  },
+  {
+   "name": "Rigid plastic glazing other than windscreens (Annex 14)",
+   "distinguished_by": "plastic deflecting ≤50 mm in flexibility test"
+  },
+  {
+   "name": "Flexible plastic panes (Annex 15)",
+   "distinguished_by": "plastic deflecting >50 mm in flexibility test"
+  },
+  {
+   "name": "Rigid plastic multiple-glazed units (Annex 16)",
+   "distinguished_by": "multiple-glazed unit of two rigid plastic panes"
+  },
+  {
+   "name": "Rigid plastic windscreens (Annex 17)",
+   "distinguished_by": "rigid plastic used as windscreen"
+  },
+  {
+   "name": "Laminated rigid plastic panes (Annex 18)",
+   "distinguished_by": "laminated plastic layers used as pane"
+  },
+  {
+   "name": "Laminated rigid plastic windscreens (Annex 19)",
+   "distinguished_by": "laminated plastic layers used as windscreen"
+  },
+  {
+   "name": "Flat vs curved windscreens/panes",
+   "distinguished_by": "height of segment ≤ or > 10 mm per linear metre"
+  },
+  {
+   "name": "Glazing requisite / not requisite for driver visibility",
+   "distinguished_by": "position relative to driver's R point and whether the driver views the road through it; drives optical and light transmission requirements"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "Safety glazing materials",
+    "Installation on vehicles M, N, O",
+    "Exclusions"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Toughened-glass",
+    "Laminated-glass",
+    "Plastic glazing",
+    "Multiple-glazed unit",
+    "Windscreen",
+    "Pane",
+    "Interior glazing",
+    "Opaque obscuration",
+    "Shade band"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "Type of safety glazing material",
+    "Type of vehicle (installation of safety glazing)"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Markings",
+   "about": [
+    "Trade name or mark",
+    "Regulation No. 43 number of prime manufacturer"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Approval",
+   "about": [
+    "Approval marks for glazing and vehicles",
+    "Additional symbols per glazing class"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "General requirements",
+   "about": [
+    "Safety glazing materials",
+    "Light transmittance",
+    "Driver visibility glazing"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Particular requirements",
+   "about": [
+    "Requirements by glazing category"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Tests",
+   "about": [
+    "Tests prescribed per glazing category"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Modification or extension of approval of a type of safety glazing material",
+   "about": [
+    "Type of safety glazing material"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Conformity of production",
+   "about": [
+    "Production checks (see Annex 23)"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Penalties for non-conformity of production",
+   "about": []
+  },
+  {
+   "label": "12",
+   "title": "Transitional provisions",
+   "about": []
+  },
+  {
+   "label": "13",
+   "title": "Production definitively discontinued",
+   "about": []
+  },
+  {
+   "label": "14",
+   "title": "Names and addresses of Technical Services and Type Approval Authorities",
+   "about": []
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication - approval of a type of safety glazing material (with Appendices 1-13 per glazing class)",
+   "about": [
+    "Principal and secondary characteristics",
+    "Windscreen model list"
+   ]
+  },
+  {
+   "label": "Annex 1A",
+   "title": "Communication - approval of a vehicle type with regard to installation of safety glazing",
+   "about": [
+    "Type of vehicle",
+    "Glazing used"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Arrangements of the glazing approval marks",
+   "about": [
+    "Marking per glazing class"
+   ]
+  },
+  {
+   "label": "Annex 2A",
+   "title": "Arrangements of the vehicle approval mark",
+   "about": [
+    "Vehicle installation approval mark"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "General test conditions",
+   "about": [
+    "Fragmentation test",
+    "227 g ball / headform tests",
+    "Abrasion (Taber, sand drop, car wash)",
+    "High temperature",
+    "Radiation and simulated weathering",
+    "Humidity",
+    "Temperature changes",
+    "Optical qualities (light transmission, optical distortion, secondary image)",
+    "Burning behaviour",
+    "Chemicals",
+    "Flexibility and fold test",
+    "Cross-cut test"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Toughened-glass windscreens",
+   "about": [
+    "Toughened-glass",
+    "Windscreen"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Uniformly-toughened glass panes",
+   "about": [
+    "Toughened-glass",
+    "Pane"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Ordinary laminated-glass windscreens",
+   "about": [
+    "Ordinary laminated glass",
+    "Windscreen",
+    "Interlayer"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Laminated-glass panes",
+   "about": [
+    "Laminated-glass",
+    "Pane"
+   ]
+  },
+  {
+   "label": "Annex 8",
+   "title": "Treated laminated-glass windscreens",
+   "about": [
+    "Treated laminated glass",
+    "Windscreen"
+   ]
+  },
+  {
+   "label": "Annex 9",
+   "title": "Safety-glass faced with plastics material",
+   "about": [
+    "Safety-glass faced with plastics material"
+   ]
+  },
+  {
+   "label": "Annex 10",
+   "title": "Glass-plastics windscreens",
+   "about": [
+    "Glass-plastics",
+    "Windscreen"
+   ]
+  },
+  {
+   "label": "Annex 11",
+   "title": "Glass-plastics panes",
+   "about": [
+    "Glass-plastics",
+    "Pane"
+   ]
+  },
+  {
+   "label": "Annex 12",
+   "title": "Multiple-glazed units",
+   "about": [
+    "Multiple-glazed unit",
+    "Symmetrical multiple-glazed unit",
+    "Asymmetrical multiple-glazed unit"
+   ]
+  },
+  {
+   "label": "Annex 13",
+   "title": "Grouping of windscreens for approval testing",
+   "about": [
+    "Group of windscreens",
+    "Developed area of windscreen",
+    "Height of segment 'h'",
+    "Curvature 'r'"
+   ]
+  },
+  {
+   "label": "Annex 14",
+   "title": "Rigid plastic glazings other than windscreens",
+   "about": [
+    "Rigid plastic glazing",
+    "Pane"
+   ]
+  },
+  {
+   "label": "Annex 15",
+   "title": "Flexible plastic panes",
+   "about": [
+    "Flexible plastic glazing"
+   ]
+  },
+  {
+   "label": "Annex 16",
+   "title": "Rigid plastic multiple-glazed units",
+   "about": [
+    "Multiple-glazed unit",
+    "Rigid plastic glazing"
+   ]
+  },
+  {
+   "label": "Annex 17",
+   "title": "Rigid plastic windscreens",
+   "about": [
+    "Rigid plastic glazing",
+    "Windscreen"
+   ]
+  },
+  {
+   "label": "Annex 18",
+   "title": "Laminated rigid plastic panes",
+   "about": [
+    "Laminated rigid plastic pane"
+   ]
+  },
+  {
+   "label": "Annex 19",
+   "title": "Laminated rigid plastic windscreens",
+   "about": [
+    "Laminated rigid plastic windscreen"
+   ]
+  },
+  {
+   "label": "Annex 20",
+   "title": "Height of segment and points of impact figures",
+   "about": [
+    "Height of segment 'h'",
+    "Points of impact"
+   ]
+  },
+  {
+   "label": "Annex 21",
+   "title": "Position of V points and test areas",
+   "about": [
+    "Transparent area of the windscreen",
+    "Opaque obscuration",
+    "Design seat-back angle"
+   ]
+  },
+  {
+   "label": "Annex 22",
+   "title": "Procedure for determining the H point and torso angle (per M.R.1 Addendum 6)",
+   "about": [
+    "R point",
+    "Design seat-back angle"
+   ]
+  },
+  {
+   "label": "Annex 23",
+   "title": "Checks on conformity of production",
+   "about": [
+    "Production test frequencies per glazing class"
+   ]
+  },
+  {
+   "label": "Annex 24",
+   "title": "Installation of safety glazing in vehicles",
+   "about": [
+    "Type of vehicle (installation of safety glazing)",
+    "Windscreen",
+    "Safety glazing material requisite for driver visibility",
+    "Upper deck of double-deck vehicle"
+   ]
+  },
+  {
+   "label": "Annex 24 4.1",
+   "title": "Windscreens (installation on M and N1)",
+   "about": [
+    "Windscreen",
+    "Regular light transmittance"
+   ]
+  },
+  {
+   "label": "Annex 24 4.3",
+   "title": "Particular requirements for upper deck of a double-deck vehicle",
+   "about": [
+    "Exterior forward-facing glazing"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Any glazing on L (with bodywork), M, N, O or T vehicles - side windows, rear windows, sunroofs/roof panels, partitions inside the passenger compartment - is a 'pane' or 'interior glazing' and needs R43 approval, not only windscreens.",
+  "Plastic (polycarbonate, acrylic) windows, including flexible plastic panes such as soft-top rear windows, fall under R43 (Annexes 14-19); only small plastic glazing not required for the driver's forward or rearward vision is excluded.",
+  "Glazing with coatings or applied plastic layers on the inner face (e.g. anti-lacerative/coated glass) is a separate class (Annex 9 / glass-plastics Annexes 10-11).",
+  "Multiple-glazed (double-glazed) units permanently assembled in manufacture are covered (Annex 12/16), whereas 'double windows' (two separately installed panes) are excluded.",
+  "Changes to interlayers, coatings, tint, obscuration printing or shade bands may change principal/secondary characteristics and require new or extended approval, and affect light transmittance requirements for driver-visibility glazing.",
+  "Glazing for lamps and light-signalling devices, instrument panel covers and bullet-proof glazing are excluded from R43.",
+  "Vehicle manufacturers of M, N and O need a separate vehicle installation approval (Annex 24) covering windscreen position, inclination and use of approved glazing.",
+  "Every glazing piece must carry the manufacturer trade mark and R43 approval marking, so replacement/aftermarket glazing also falls under R43."
+ ],
+ "version": "1.12.0"
+}

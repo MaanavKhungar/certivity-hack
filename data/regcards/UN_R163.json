@@ -1,0 +1,496 @@
+{
+ "regulation": "UN R163",
+ "title": "Uniform provisions concerning the approval of Vehicle Alarm Systems (VAS) and of vehicles with regard to their alarm systems (AS)",
+ "subject_kind": "mixed",
+ "scope_summary": "Part I approves Vehicle Alarm Systems (VAS) as components intended to be permanently fitted to vehicles of any category, and Part II approves vehicles of category M1 and N1 (max. mass not more than 2 t) with regard to their alarm system(s). Approval of other vehicle categories is optional at the manufacturer's request; only 12 V electrical systems are considered, and radio transmission frequencies are excluded.",
+ "scope_quote": "1.1 Approval of Vehicle Alarm Systems (VAS) which are intended to be permanently fitted to vehicles of any category. 1.2 Approval of vehicles of category M1 and those of category N1 with a maximum mass of not more than 2 tonnes, with regard to their alarm system(s). 1.3 At the request of the manufacturer, Contracting Parties may grant approvals to vehicles of other categories with regard to their alarm system(s). 1.4 This UN Regulation does not apply to radio transmission frequencies, whether or not related to the protection of vehicles against unauthorized use.",
+ "vehicle_categories": [
+  "M1",
+  "N1 (maximum mass not more than 2 tonnes)",
+  "any category for VAS component approval (Part I)",
+  "other categories on manufacturer's request (Part II)",
+  "only vehicles with 12 V electrical systems"
+ ],
+ "applies_to_components": [
+  "Vehicle alarm system (VAS)",
+  "Alarm system (AS) of a vehicle",
+  "Sensors (intrusion/interference detection)",
+  "Warning devices (audible alarm, optical alarm)",
+  "Control equipment (setting, unsetting, testing)",
+  "Alarm system setting lock",
+  "Status display",
+  "Key switches (external key switch, cylinder, key profile)",
+  "Keys, including digital keys",
+  "Panic alarm (optional function)",
+  "Immobilizer-related optional functions",
+  "Lamps used as part of the optical warning"
+ ],
+ "relation_to_other_regulations": [
+  "Vehicle categories as defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3), ECE/TRANS/WP.29/78/Rev.6.",
+  "Distinguishing country numbers for approval mark per Annex 3 to R.E.3.",
+  "Approval mark may be combined with marks under other UN Regulations (para 4.5).",
+  "Excludes radio transmission frequencies (para 1.4), which are regulated elsewhere.",
+  "Annex 7 EMC immunity/emission tests refer to external technical prescriptions (EMC test standards); Annex 9 addresses cyber-attack resilience of digital keys.",
+  "Content historically derives from the alarm-system provisions of UN R97/R116 (not stated in the excerpt)."
+ ],
+ "defined_terms": [
+  {
+   "term": "Component",
+   "label": "2.1",
+   "definition": "A device subject to the requirements of this Regulation, intended to be part of a vehicle, which may be type-approved independently of a vehicle where expressly provided."
+  },
+  {
+   "term": "Separate technical unit",
+   "label": "2.2",
+   "definition": "A device subject to this Regulation, intended to be part of a vehicle, which may be type-approved separately but only in relation to one or more specified vehicle types."
+  },
+  {
+   "term": "Vehicle alarm system (VAS)",
+   "label": "2.4",
+   "definition": "A system intended for installation on vehicle type(s), designed to indicate intrusion into or interference with the vehicle, possibly providing additional protection against unauthorized use."
+  },
+  {
+   "term": "Sensor",
+   "label": "2.5",
+   "definition": "A device which senses a change which could be caused by intrusion into or interference with a vehicle."
+  },
+  {
+   "term": "Warning device",
+   "label": "2.6",
+   "definition": "A device indicating that intrusion into or interference has occurred."
+  },
+  {
+   "term": "Control equipment",
+   "label": "2.7",
+   "definition": "Equipment necessary for the setting, unsetting and testing of a VAS and for sending an alarm condition to warning devices."
+  },
+  {
+   "term": "Set",
+   "label": "2.8",
+   "definition": "The state of a VAS in which an alarm condition can be transmitted to warning devices."
+  },
+  {
+   "term": "Unset",
+   "label": "2.9",
+   "definition": "The state of a VAS in which an alarm condition cannot be transmitted to warning devices."
+  },
+  {
+   "term": "Key",
+   "label": "2.10",
+   "definition": "Any mechanical and/or electronic solution designed and constructed to provide a method of operating a locking system designed to be operated by it."
+  },
+  {
+   "term": "Type of vehicle alarm system",
+   "label": "2.11",
+   "definition": "Systems not differing significantly in trade name or mark, kind of sensor, kind of warning device and kind of control equipment."
+  },
+  {
+   "term": "Immobilizer",
+   "label": "2.13",
+   "definition": "A device intended to prevent the vehicle being driven away powered by its own engine."
+  },
+  {
+   "term": "Panic alarm",
+   "label": "2.14",
+   "definition": "A device enabling a person to use an alarm installed on the vehicle to summon assistance in an emergency."
+  },
+  {
+   "term": "Primary user",
+   "label": "2.14 (second)",
+   "definition": "A user who is able to authorize digital keys; there can be more than one."
+  },
+  {
+   "term": "Digital key",
+   "label": "2.15",
+   "definition": "A key designed to be transferred to multiple devices by the primary user(s) through dedicated processes."
+  },
+  {
+   "term": "Alarm system (AS)",
+   "label": "9.1",
+   "definition": "For Part II, the alarm system fitted to a vehicle type as approved with the vehicle."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "VAS component approval (Part I)",
+   "distinguished_by": "Alarm system approved as a component/separate technical unit for fitment to vehicles of any category; marked or supplied with certificate of conformity (Annex 4)."
+  },
+  {
+   "name": "Vehicle approval with regard to its AS (Part II)",
+   "distinguished_by": "Vehicle type (M1, N1 ≤ 2 t, or others on request) approved with its alarm system installed."
+  },
+  {
+   "name": "VAS with optical alarm",
+   "distinguished_by": "Optional optical warning in addition to mandatory audible alarm (6.3/11.3)."
+  },
+  {
+   "name": "Optional functions",
+   "distinguished_by": "Additional functions such as panic alarm (6.11/11.11)."
+  },
+  {
+   "name": "Systems with external key switch",
+   "distinguished_by": "Key switch mechanical requirements of Annex 6."
+  },
+  {
+   "name": "Systems with digital key",
+   "distinguished_by": "Documentation, safe operation, cyber security and verification per Annex 9."
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "Vehicle alarm system (VAS)",
+    "Alarm system (AS)"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Component",
+    "Separate technical unit",
+    "Vehicle alarm system (VAS)",
+    "Sensor",
+    "Warning device",
+    "Control equipment",
+    "Key",
+    "Immobilizer",
+    "Panic alarm",
+    "Digital key",
+    "Primary user"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "Vehicle alarm system (VAS)"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "approval mark",
+    "certificate of conformity",
+    "Component"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "General Specifications",
+   "about": [
+    "Vehicle alarm system (VAS)"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Particular specifications",
+   "about": [
+    "Vehicle alarm system (VAS)"
+   ]
+  },
+  {
+   "label": "6.1",
+   "title": "Protection range",
+   "about": [
+    "Sensor"
+   ]
+  },
+  {
+   "label": "6.2",
+   "title": "Audible alarm",
+   "about": [
+    "Warning device"
+   ]
+  },
+  {
+   "label": "6.3",
+   "title": "Optical alarm - if fitted",
+   "about": [
+    "Warning device"
+   ]
+  },
+  {
+   "label": "6.5",
+   "title": "Alarm system setting lock",
+   "about": [
+    "Set",
+    "Control equipment"
+   ]
+  },
+  {
+   "label": "6.6",
+   "title": "Setting and unsetting of the VAS",
+   "about": [
+    "Set",
+    "Unset",
+    "Control equipment",
+    "Key"
+   ]
+  },
+  {
+   "label": "6.9",
+   "title": "Status display",
+   "about": [
+    "Set",
+    "Unset"
+   ]
+  },
+  {
+   "label": "6.11",
+   "title": "Specifications for optional functions",
+   "about": [
+    "Panic alarm"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Operation parameters and test conditions",
+   "about": [
+    "Vehicle alarm system (VAS)",
+    "lamps used in optical warning"
+   ]
+  },
+  {
+   "label": "7.2",
+   "title": "Test conditions",
+   "about": [
+    "Vehicle alarm system (VAS)"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Instructions",
+   "about": [
+    "Vehicle alarm system (VAS)"
+   ]
+  },
+  {
+   "label": "8.4",
+   "title": "Instruction for use",
+   "about": [
+    "Vehicle alarm system (VAS)"
+   ]
+  },
+  {
+   "label": "8.5",
+   "title": "Instruction for maintenance",
+   "about": [
+    "Vehicle alarm system (VAS)"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Definitions (Part II)",
+   "about": [
+    "Alarm system (AS)"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "General specifications (Part II)",
+   "about": [
+    "Alarm system (AS)"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Particular specifications (Part II)",
+   "about": [
+    "Alarm system (AS)"
+   ]
+  },
+  {
+   "label": "11.1",
+   "title": "Protection range",
+   "about": [
+    "Sensor"
+   ]
+  },
+  {
+   "label": "11.2",
+   "title": "Audible alarm",
+   "about": [
+    "Warning device"
+   ]
+  },
+  {
+   "label": "11.3",
+   "title": "Optical alarm - if fitted",
+   "about": [
+    "Warning device"
+   ]
+  },
+  {
+   "label": "11.5",
+   "title": "Alarm system setting lock",
+   "about": [
+    "Set"
+   ]
+  },
+  {
+   "label": "11.6",
+   "title": "Setting and unsetting of the AS",
+   "about": [
+    "Set",
+    "Unset",
+    "Key"
+   ]
+  },
+  {
+   "label": "11.9",
+   "title": "Status display",
+   "about": [
+    "Set",
+    "Unset"
+   ]
+  },
+  {
+   "label": "11.11",
+   "title": "Specifications for optional functions",
+   "about": [
+    "Panic alarm"
+   ]
+  },
+  {
+   "label": "12",
+   "title": "Test conditions",
+   "about": [
+    "Vehicle alarm system (VAS)",
+    "Alarm system (AS)"
+   ]
+  },
+  {
+   "label": "13",
+   "title": "Instructions",
+   "about": [
+    "Alarm system (AS)"
+   ]
+  },
+  {
+   "label": "14",
+   "title": "Modification of vehicle type and extension of approval",
+   "about": [
+    "procedural"
+   ]
+  },
+  {
+   "label": "15",
+   "title": "Conformity of production procedures",
+   "about": [
+    "procedural"
+   ]
+  },
+  {
+   "label": "16",
+   "title": "Penalties for non-conformity of production",
+   "about": [
+    "procedural"
+   ]
+  },
+  {
+   "label": "17",
+   "title": "Production definitively discontinued",
+   "about": [
+    "procedural"
+   ]
+  },
+  {
+   "label": "18",
+   "title": "Names and addresses of Technical Services and Type Approval Authorities",
+   "about": [
+    "procedural"
+   ]
+  },
+  {
+   "label": "Annex 1a",
+   "title": "Information document - vehicle type with regard to its alarm system",
+   "about": [
+    "Alarm system (AS)"
+   ]
+  },
+  {
+   "label": "Annex 1b",
+   "title": "Information document - vehicle alarm system type",
+   "about": [
+    "Vehicle alarm system (VAS)"
+   ]
+  },
+  {
+   "label": "Annex 2a",
+   "title": "Communication - approval of a vehicle type",
+   "about": [
+    "Alarm system (AS)"
+   ]
+  },
+  {
+   "label": "Annex 2b",
+   "title": "Communication - approval of an alarm system type",
+   "about": [
+    "Vehicle alarm system (VAS)"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Arrangements of approval marks",
+   "about": [
+    "approval mark"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Model certificate of conformity",
+   "about": [
+    "Vehicle alarm system (VAS)"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Model installation certificate",
+   "about": [
+    "Vehicle alarm system (VAS)"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Key switch requirements",
+   "about": [
+    "Key",
+    "Control equipment"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Electromagnetic compatibility (immunity and radiated emissions)",
+   "about": [
+    "Vehicle alarm system (VAS)",
+    "Alarm system (AS)"
+   ]
+  },
+  {
+   "label": "Annex 9",
+   "title": "Digital key: documentation, safe operation, cyber security and verification",
+   "about": [
+    "Digital key",
+    "Primary user",
+    "Key"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Aftermarket alarm kits permanently fitted to vehicles of any category fall under Part I as a VAS component.",
+  "Factory-fitted alarm systems on M1 and N1 (≤ 2 t) vehicles fall under Part II vehicle approval.",
+  "Sensors such as ultrasonic/volumetric intrusion, tilt, door/bonnet/boot contact sensors are VAS sensors.",
+  "Sirens, horns and hazard/direction-indicator lamps used to signal an alarm are warning devices; lamps used in the optical warning are addressed in section 7.",
+  "Remote key fobs, transponder keys, smartphone/digital keys used to set/unset the alarm are control equipment/keys; digital keys trigger Annex 9 (including cyber security), but radio frequencies themselves are out of scope.",
+  "External key switches must meet Annex 6 (cylinder protrusion, drill obstruction, ≥1000 key permutations).",
+  "Status-display LEDs/telltales indicating set/unset state are covered by 6.9/11.9.",
+  "Panic alarm buttons are optional functions under 6.11/11.11.",
+  "Electronic alarm control units must meet EMC immunity and emission tests of Annex 7.",
+  "Only 12 V electrical systems are considered."
+ ],
+ "version": "0.3.0"
+}

@@ -1,0 +1,475 @@
+{
+ "regulation": "UN R13H",
+ "title": "Uniform provisions concerning the approval of passenger cars and light vehicles (categories M1 and N1) with regard to braking (version 2.1.0)",
+ "subject_kind": "vehicle_system",
+ "scope_summary": "Approves vehicle types with regard to their braking, covering the service, secondary and parking braking systems and related electronic, regenerative and electrical-transmission braking functions. It applies to vehicles of categories M1 and N1, excluding vehicles with a design speed not exceeding 25 km/h, vehicles fitted for invalid drivers, vehicles without manual braking controls for normal operation, and the approval of ESC and BAS.",
+ "scope_quote": "1.1 This Regulation applies to the braking of vehicles of categories M1 and N1. [...] This Regulation offers an alternative set of requirements for category N1 vehicles to those contained in Regulation No. 13. [...] 1.2 This Regulation does not cover: 1.2.1 Vehicles with a design speed not exceeding 25 km/h; 1.2.2 Vehicles fitted for invalid drivers; 1.2.3 The approval of the ESC and BAS systems of the vehicle. 1.2.4 Vehicles which are not equipped with manual braking controls intended for use during normal operation.",
+ "vehicle_categories": [
+  "M1",
+  "N1"
+ ],
+ "applies_to_components": [
+  "braking equipment (control, transmission, brake)",
+  "service braking system",
+  "secondary braking system",
+  "parking braking system",
+  "brakes (friction, electrical, fluid, engine brake)",
+  "brake discs and brake drums (identified by identification code)",
+  "brake linings",
+  "hydraulic braking equipment with stored energy (accumulators, pressure pumps)",
+  "energy storage devices / energy sources and their warning devices",
+  "electric regenerative braking system (category A and B) and its control",
+  "traction battery (as used for regenerative braking)",
+  "electrical transmission braking system (ETBS), electrical storage devices, electrical supply, energy management system",
+  "anti-lock system",
+  "braking (force) distribution system",
+  "brake warning signals / tell-tales",
+  "braking signal (stop lamp activation) and emergency braking signal",
+  "automatically commanded braking and selective braking functions",
+  "complex electronic vehicle control systems acting on braking",
+  "electronic vehicle interface for braking parameters",
+  "trailer braking equipment (presence)"
+ ],
+ "relation_to_other_regulations": [
+  "Alternative to UN Regulation No. 13 for category N1 vehicles; approvals to either are recognized as equally valid by Contracting Parties applying both.",
+  "Does not cover approval of ESC and BAS systems (approved separately).",
+  "Annex 1 communication form contains information supplied at the request of applicants for UN Regulation No. 90 approval (replacement brake linings/discs/drums).",
+  "Vehicle categories M1 and N1 as defined in the Consolidated Resolution R.E.3 (ECE/TRANS/WP.29/78/Rev.3).",
+  "Approval mark may be combined with marks of other Regulations under which the vehicle is approved (para. 4.5)."
+ ],
+ "defined_terms": [
+  {
+   "term": "Vehicle type",
+   "label": "2.2",
+   "definition": "Vehicles not differing in maximum mass, axle mass distribution, maximum design speed, type of braking equipment (incl. trailer braking or electric braking), engine type, gears, final drive ratios and tyre dimensions."
+  },
+  {
+   "term": "Braking equipment",
+   "label": "2.3",
+   "definition": "Combination of parts (control, transmission, brake proper) whose function is to reduce speed, halt, or keep a vehicle stationary."
+  },
+  {
+   "term": "Control",
+   "label": "2.4",
+   "definition": "The part actuated directly by the driver to furnish the transmission with the energy required for braking or controlling it."
+  },
+  {
+   "term": "Transmission",
+   "label": "2.5",
+   "definition": "Combination of components between the control and the brake linking them functionally, mechanical, hydraulic, pneumatic, electric or mixed, including any energy reserve."
+  },
+  {
+   "term": "Control transmission",
+   "label": "2.5.1",
+   "definition": "Components of the transmission which control the operation of the brakes, including the control function and necessary energy reserves."
+  },
+  {
+   "term": "Energy transmission",
+   "label": "2.5.2",
+   "definition": "Components which supply the brakes with the necessary energy, including the necessary energy reserves."
+  },
+  {
+   "term": "Brake",
+   "label": "2.6",
+   "definition": "The part in which the forces opposing vehicle movement develop: friction brake, electrical brake, fluid brake or engine brake."
+  },
+  {
+   "term": "Different types of braking equipment",
+   "label": "2.7",
+   "definition": "Equipment differing in component characteristics, materials, shape or size, or assembly of components."
+  },
+  {
+   "term": "Component of the braking equipment",
+   "label": "2.8",
+   "definition": "One of the individual parts which, when assembled, constitutes the braking equipment."
+  },
+  {
+   "term": "Progressive and graduated braking",
+   "label": "2.9",
+   "definition": "Braking where the driver can increase or decrease braking force at any moment, force varies proportionally (monotonically) with control action and can be regulated precisely."
+  },
+  {
+   "term": "Maximum mass",
+   "label": "2.11",
+   "definition": "The maximum mass stated by the vehicle manufacturer to be technically permissible."
+  },
+  {
+   "term": "Hydraulic braking equipment with stored energy",
+   "label": "2.15",
+   "definition": "Braking equipment supplied with energy by pressurized hydraulic fluid stored in accumulators fed by pressure pumps with pressure limitation."
+  },
+  {
+   "term": "Electric regenerative braking",
+   "label": "2.17",
+   "definition": "A braking system which, during deceleration, converts vehicle kinetic energy into electrical energy."
+  },
+  {
+   "term": "Electric regenerative braking control",
+   "label": "2.17.1",
+   "definition": "A device which modulates the action of the electric regenerative braking system."
+  },
+  {
+   "term": "Electric regenerative braking system of category A",
+   "label": "2.17.2",
+   "definition": "An electric regenerative braking system which is not part of the service braking system."
+  },
+  {
+   "term": "Electric regenerative braking system of category B",
+   "label": "2.17.3",
+   "definition": "An electric regenerative braking system which is part of the service braking system."
+  },
+  {
+   "term": "Electric State of Charge (SOC)",
+   "label": "2.17.4",
+   "definition": "Instantaneous ratio of stored electric energy in an electrical storage device to its maximum storable energy."
+  },
+  {
+   "term": "Traction battery",
+   "label": "2.17.5",
+   "definition": "An assembly of accumulators storing the energy used for powering the vehicle's traction motor(s)."
+  },
+  {
+   "term": "Phased braking",
+   "label": "2.18",
+   "definition": "Means whereby, with several braking sources on a common control, one source is given priority by phasing back the others."
+  },
+  {
+   "term": "Nominal value",
+   "label": "2.19",
+   "definition": "Characteristic demonstrated at type approval relating the vehicle braking rate to the level of the braking input variable."
+  },
+  {
+   "term": "Automatically commanded braking",
+   "label": "2.20",
+   "definition": "Function within a complex electronic control system actuating brakes to generate vehicle retardation, with or without driver action, from automatic evaluation of on-board information."
+  },
+  {
+   "term": "Selective braking",
+   "label": "2.21",
+   "definition": "Function within a complex electronic control system automatically actuating individual brakes where retardation is secondary to vehicle behaviour modification."
+  },
+  {
+   "term": "Braking signal",
+   "label": "2.22",
+   "definition": "Logic signal indicating brake activation as specified in paragraph 5.2.22."
+  },
+  {
+   "term": "Emergency braking signal",
+   "label": "2.23",
+   "definition": "Logic signal indicating emergency braking as specified in paragraph 5.2.23."
+  },
+  {
+   "term": "Automated Driving System (ADS)",
+   "label": "2.25",
+   "definition": "Vehicle hardware and software collectively capable of performing the entire Dynamic Driving Task on a sustained basis."
+  },
+  {
+   "term": "Dynamic Driving Task (DDT)",
+   "label": "2.25.1",
+   "definition": "The real-time operational and tactical functions required to operate the vehicle."
+  },
+  {
+   "term": "Brake demand value",
+   "label": "2.26",
+   "definition": "Demand value for the braking force of a single electrically actuated wheel or axle."
+  },
+  {
+   "term": "Energy source",
+   "label": "2.29",
+   "definition": "A device that both generates and provides energy required for the braking system."
+  },
+  {
+   "term": "Electrical storage device",
+   "label": "2.30",
+   "definition": "Device(s) capable of storing electrical charge and providing electrical power to the braking system transmission, counted as one per braking circuit supplied."
+  },
+  {
+   "term": "Electrical supply",
+   "label": "2.32",
+   "definition": "Device (e.g. battery, REESS, generator, fuel cell) supplying electrical power to the braking system's electrical storage device(s)."
+  },
+  {
+   "term": "Energy Management System",
+   "label": "2.33",
+   "definition": "Electrical device(s) of an ETBS monitoring critical variables of electrical storage devices and deducing their capability to meet the Regulation's performance requirements."
+  },
+  {
+   "term": "Electrical Transmission Braking System (ETBS)",
+   "label": "2.34",
+   "definition": "Braking system where service braking force and transmission depend exclusively on driver-controlled use of energy from electrical storage devices."
+  },
+  {
+   "term": "Auxiliary equipment",
+   "label": "2.35",
+   "definition": "Systems, functions or components supplied with energy from the same energy reserves as the braking system."
+  },
+  {
+   "term": "Identification code",
+   "label": "2.35 (second)",
+   "definition": "Code identifying the brake discs or brake drums covered by the braking system approval, containing at least trade name/mark and an identification number."
+  },
+  {
+   "term": "Reference braking forces",
+   "label": "2.37",
+   "definition": "Axle braking forces at the tyre circumference on a roller brake tester relative to actuator pressure or brake demand value, declared at type approval."
+  },
+  {
+   "term": "Electronic vehicle interface",
+   "label": "2.38",
+   "definition": "Provides access to real-time parameters of the braking system specified in this Regulation."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Service / secondary / parking braking system",
+   "distinguished_by": "Braking function (para. 5.1.2, Annex 3 section 2)"
+  },
+  {
+   "name": "Friction, electrical, fluid and engine brake",
+   "distinguished_by": "Physical principle generating the braking forces (para. 2.6)"
+  },
+  {
+   "name": "Electric regenerative braking category A",
+   "distinguished_by": "Not part of the service braking system"
+  },
+  {
+   "name": "Electric regenerative braking category B",
+   "distinguished_by": "Part of the service braking system"
+  },
+  {
+   "name": "Electrical Transmission Braking System (ETBS)",
+   "distinguished_by": "Service braking force and transmission depend exclusively on electrical storage devices"
+  },
+  {
+   "name": "Hydraulic braking equipment with stored energy",
+   "distinguished_by": "Energy supplied from hydraulic accumulators fed by pumps (Annex 4)"
+  },
+  {
+   "name": "Vehicles with / without anti-lock system",
+   "distinguished_by": "Vehicles without ABS must meet braking distribution requirements of Annex 5; ABS-equipped vehicles meet Annex 6"
+  },
+  {
+   "name": "Type-0 and Type-I tests",
+   "distinguished_by": "Cold-brake ordinary performance test vs fade and recovery test"
+  },
+  {
+   "name": "Laden / unladen conditions",
+   "distinguished_by": "Vehicle load state during tests"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "M1 and N1 vehicles",
+    "exclusions: ≤25 km/h, invalid drivers, ESC/BAS, no manual braking controls",
+    "alternative to R13 for N1"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Braking equipment",
+    "Control",
+    "Transmission",
+    "Brake",
+    "Electric regenerative braking",
+    "ETBS",
+    "Automatically commanded braking",
+    "Selective braking",
+    "Identification code"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "documents: component list, braking equipment diagram, drawings"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "approval number",
+    "approval mark near vehicle data plate"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Specifications",
+   "about": [
+    "braking system requirements"
+   ]
+  },
+  {
+   "label": "5.1",
+   "title": "General",
+   "about": [
+    "Braking equipment",
+    "functions of braking equipment",
+    "Complex electronic vehicle control systems",
+    "Electronic vehicle interface"
+   ]
+  },
+  {
+   "label": "5.2",
+   "title": "Characteristics of braking systems",
+   "about": [
+    "Service braking system",
+    "Secondary braking system",
+    "Parking braking system",
+    "Electric regenerative braking system of category A",
+    "Electric regenerative braking system of category B",
+    "Braking signal",
+    "Emergency braking signal",
+    "Electrical Transmission Braking System (ETBS)",
+    "Electrical storage device",
+    "Energy Management System",
+    "warning signals",
+    "Brake demand value"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Tests",
+   "about": [
+    "braking tests per Annex 3"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Modification of vehicle type or braking system and extension of approval",
+   "about": [
+    "Vehicle type",
+    "Different types of braking equipment"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Conformity of production",
+   "about": [
+    "COP procedures"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Penalties for non-conformity of production",
+   "about": []
+  },
+  {
+   "label": "10",
+   "title": "Production definitively discontinued",
+   "about": []
+  },
+  {
+   "label": "11",
+   "title": "Names and addresses of Technical Services and Type Approval Authorities",
+   "about": []
+  },
+  {
+   "label": "12",
+   "title": "Transitional provisions",
+   "about": [
+    "01 series of amendments",
+    "02 series of amendments"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication (approval form)",
+   "about": [
+    "vehicle and braking equipment description",
+    "information for Regulation No. 90 applicants",
+    "Identification code"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Arrangements of approval marks",
+   "about": []
+  },
+  {
+   "label": "Annex 3",
+   "title": "Braking tests and performance of braking systems",
+   "about": [
+    "Type-0 test",
+    "Type-I test",
+    "Service braking system",
+    "Secondary braking system",
+    "Parking braking system",
+    "response time",
+    "Traction battery state of charge procedure for regenerative braking tests",
+    "Electric regenerative braking"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Provisions relating to energy sources and energy storage devices (energy accumulators)",
+   "about": [
+    "Hydraulic braking equipment with stored energy",
+    "Energy source",
+    "capacity of energy storage devices",
+    "warning devices"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Distribution of braking among the axles of vehicles",
+   "about": [
+    "vehicles without anti-lock system",
+    "adhesion utilization",
+    "failure of braking distribution system",
+    "wheel lock sequence test (Appendix 1)",
+    "brake factor test (Appendix 2)"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Test requirements for vehicles fitted with anti-lock systems",
+   "about": [
+    "anti-lock system",
+    "types of anti-lock systems",
+    "utilization of adhesion",
+    "coefficient of adhesion measurement"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Inertia dynamometer test method for brake linings",
+   "about": [
+    "brake linings",
+    "Type-0 cold performance test",
+    "Type-I fade test"
+   ]
+  },
+  {
+   "label": "Annex 8",
+   "title": "Special requirements for safety aspects of complex electronic vehicle control systems",
+   "about": [
+    "Automatically commanded braking",
+    "Selective braking",
+    "documentation",
+    "system layout",
+    "manufacturer's safety concept",
+    "fault strategy",
+    "verification and test"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "This is a whole-vehicle approval: individual brake components (calipers, master cylinders, boosters, lines, ABS units, discs, drums, pads, pedals, parking brake actuators) are not approved separately but are covered as parts of the vehicle's braking equipment and listed in the application.",
+  "Brake discs and drums are tied to the vehicle approval via the identification code; changing them may require an extension of approval (section 7).",
+  "Brake linings may be assessed on an inertia dynamometer (Annex 7); replacement linings/discs/drums relate to UN R90 information in Annex 1.",
+  "Electric/hybrid powertrains fall under it via electric regenerative braking (category A or B), regenerative braking controls and traction battery state-of-charge test conditions.",
+  "Brake-by-wire systems are covered as Electrical Transmission Braking Systems including electrical storage devices, electrical supply (battery, REESS, generator, fuel cell) and energy management systems.",
+  "Any electronic function that actuates the brakes automatically (ACC, AEB, ADS, traction control, stability interventions) brings that electronic control system under Annex 8 as automatically commanded or selective braking, although ESC and BAS approval itself is excluded.",
+  "Stop-lamp activation logic and emergency braking (hazard flash) signal generation are governed by the braking signal and emergency braking signal requirements (5.2.22/5.2.23).",
+  "Auxiliary equipment sharing energy reserves with the braking system (e.g. hydraulic or electrical consumers) is subject to the braking energy requirements.",
+  "Changes in tyre dimensions, engine type, gear ratios, maximum mass or axle load distribution define a new vehicle type for braking.",
+  "For N1 vehicles a manufacturer may choose UN R13 instead of R13H; vehicles fitted with trailer braking equipment are within scope."
+ ],
+ "version": "2.1.0"
+}

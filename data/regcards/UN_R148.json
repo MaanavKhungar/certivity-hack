@@ -1,0 +1,489 @@
+{
+ "regulation": "UN R148",
+ "title": "Uniform provisions concerning the approval of light-signalling devices (lamps) for power-driven vehicles and their trailers (LSD), version 1.6.0",
+ "subject_kind": "component",
+ "scope_summary": "UN R148 type-approves light-signalling lamps: position, end-outline marker, parking, daytime running, stop, direction indicator, side marker, reversing, rear fog, manoeuvring and rear-registration plate lamps, plus reversing projectors. It covers lamps for motor vehicles and their trailers, including category L variants, intended for installation under UN R48 (M/N/O), R53 and R74 (L) and R86 (agricultural tractors).",
+ "scope_quote": "This Regulation applies to the following light-signalling devices (lamps): Rear-registration plate illuminating lamps Direction indicator lamps Position lamps Stop lamps End-outline marker lamps Reversing lamps Manoeuvring lamps Rear fog lamps Parking lamps Daytime running lamps Side marker lamps Reversing projectors.",
+ "vehicle_categories": [
+  "M",
+  "N",
+  "O",
+  "L",
+  "T (agricultural/forestry tractors, via installation Regulation No. 86)"
+ ],
+ "applies_to_components": [
+  "Rear-registration plate illuminating lamps",
+  "Direction indicator lamps (front, rear, side)",
+  "Front and rear position lamps",
+  "Stop lamps (including central high-mounted stop lamps)",
+  "Front and rear end-outline marker lamps",
+  "Reversing lamps",
+  "Manoeuvring lamps",
+  "Rear fog lamps",
+  "Parking lamps",
+  "Daytime running lamps",
+  "Side marker lamps",
+  "Reversing projectors",
+  "Replaceable light source modules used in these lamps",
+  "Electronic light source control gear / variable intensity control being part of the lamp",
+  "Grouped, combined or reciprocally incorporated lamp units",
+  "Assemblies of two independent lamps (D) and interdependent lamp systems (Y)"
+ ],
+ "relation_to_other_regulations": [
+  "Combines the provisions of UN Regulations Nos. 4, 6, 7, 23, 38, 50, 77, 87 and 91 into a single Regulation (simplification of lighting regulations, IWG SLR).",
+  "The definitions of the latest series of amendments to UN Regulation No. 48 apply unless otherwise specified here or in installation Regulations Nos. 53, 74 and 86.",
+  "Sections 5 'General specifications' and 6 'Individual specifications' of installation Regulations Nos. 48, 53, 74 or 86 apply where verification at lamp approval is feasible; the 01 series is accompanied by amendments to R48, R53, R74 and R86.",
+  "Replaceable light sources must be approved to UN Regulations Nos. 37, 99 and/or 128; LED substitute light sources per R128; standard light sources per R.E.5.",
+  "Tell-tale signals refer to paragraphs of R48 (e.g. 6.5.8, 6.19.8) and R53 (6.3.8).",
+  "Lamps grouped/combined/reciprocally incorporated with lamps approved under other Regulations may carry a single approval mark.",
+  "Non-replaceable filament light sources: IEC 60809 Ed. 4 para 4.11; lamp holders: IEC 60061.",
+  "EMC: lamps shall not cause malfunction of other systems; compliance with EMC requirements is relevant to the vehicle type (i.e. UN R10 at vehicle level).",
+  "Conformity of production per 1958 Agreement Schedule 1 (E/ECE/TRANS/505/Rev.3)."
+ ],
+ "defined_terms": [
+  {
+   "term": "Lamps of different types",
+   "label": "2.2",
+   "definition": "Lamps differing in essential respects such as trade name/mark, optical system characteristics, light source category or module identification code, lamp category, variable intensity control, or sequential activation; colour change of light source/filter or use of LED substitute light sources does not constitute a change of type."
+  },
+  {
+   "term": "Being part of the lamp",
+   "label": "2.3",
+   "definition": "Physically included in the lamp body or external, separated or not, and declared by the applicant as part of the lamp system."
+  },
+  {
+   "term": "Direction indicators of different types",
+   "label": "2.2",
+   "definition": "Direction indicators activatable in different modes (sequential or not) without modification of optical characteristics do not constitute different types."
+  },
+  {
+   "term": "Assembly of two independent lamps (D)",
+   "label": "4.4.1 / 4.8.3.2",
+   "definition": "Two independent lamps of the same function approved as lamps marked 'D', deemed a single lamp, meeting maximum intensity with all lit and minimum intensity if either fails; applicable to position, end-outline marker, stop, daytime running and direction indicator lamps."
+  },
+  {
+   "term": "Interdependent lamp system (Y)",
+   "label": "4.4.2 / 4.8.3.3",
+   "definition": "A system of interdependent lamps approved as lamps marked 'Y' that meets the requirements when all its lamps operate together, applicable to position, end-outline marker, stop, daytime running and direction indicator lamps."
+  },
+  {
+   "term": "Light source module specific identification code",
+   "label": "3.3.3.5",
+   "definition": "Code starting with 'MD' followed by the approval mark without the circle, marked on replaceable light source modules and on the lamp."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "A",
+   "distinguished_by": "Front position lamp"
+  },
+  {
+   "name": "MA",
+   "distinguished_by": "Front position lamp for category L vehicles"
+  },
+  {
+   "name": "AM",
+   "distinguished_by": "Front end-outline marker lamp"
+  },
+  {
+   "name": "R1 / R2",
+   "distinguished_by": "Rear position lamp, steady (R1) or variable intensity (R2)"
+  },
+  {
+   "name": "MR",
+   "distinguished_by": "Rear position lamp for category L vehicles"
+  },
+  {
+   "name": "RM1 / RM2",
+   "distinguished_by": "Rear end-outline marker lamp, steady or variable"
+  },
+  {
+   "name": "77R",
+   "distinguished_by": "Parking lamp (forward and rearward facing)"
+  },
+  {
+   "name": "RL",
+   "distinguished_by": "Daytime running lamp"
+  },
+  {
+   "name": "S1 / S2",
+   "distinguished_by": "Stop lamp, steady or variable"
+  },
+  {
+   "name": "S3 / S4",
+   "distinguished_by": "Central high-mounted stop lamp, steady or variable"
+  },
+  {
+   "name": "MS",
+   "distinguished_by": "Stop lamp for category L vehicles"
+  },
+  {
+   "name": "1, 1a, 1b",
+   "distinguished_by": "Front direction indicator lamps (categories by intensity/mounting distance from dipped beam)"
+  },
+  {
+   "name": "11, 11a, 11b, 11c",
+   "distinguished_by": "Front direction indicator lamps for category L vehicles"
+  },
+  {
+   "name": "2a / 2b",
+   "distinguished_by": "Rear direction indicator lamp, steady or variable"
+  },
+  {
+   "name": "12",
+   "distinguished_by": "Rear direction indicator lamp for category L vehicles"
+  },
+  {
+   "name": "5, 6",
+   "distinguished_by": "Side direction indicator lamps (category 6 marked R/L for side)"
+  },
+  {
+   "name": "SM1 / SM2",
+   "distinguished_by": "Side marker lamp for all vehicle categories (SM1) or for M1 only (SM2)"
+  },
+  {
+   "name": "AR",
+   "distinguished_by": "Reversing lamp (incl. reduced light distribution for two-lamp fitments)"
+  },
+  {
+   "name": "F1 / F2",
+   "distinguished_by": "Rear fog lamp, steady or variable"
+  },
+  {
+   "name": "ML",
+   "distinguished_by": "Manoeuvring lamp"
+  },
+  {
+   "name": "L / LM1",
+   "distinguished_by": "Rear-registration plate illuminating lamp for general vehicles (L) or category L vehicles (LM1)"
+  },
+  {
+   "name": "RP",
+   "distinguished_by": "Reversing projector (only available from 01 series)"
+  },
+  {
+   "name": "D / Y suffix",
+   "distinguished_by": "Assembly of two independent lamps (D) or part of interdependent lamp system (Y)"
+  },
+  {
+   "name": "Reduced light distribution",
+   "distinguished_by": "Lamps with reduced geometric light distribution, marked with downward vertical arrow (Annex 3 para 1.1)"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "Light-signalling devices covered"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Lamps of different types",
+    "Being part of the lamp",
+    "R48 definitions"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Administrative provisions",
+   "about": [
+    "Application",
+    "Approval",
+    "Symbols Table 1",
+    "Change index Table 2",
+    "Approval marking",
+    "Light source module identification code",
+    "Modifications/extension",
+    "Production discontinued"
+   ]
+  },
+  {
+   "label": "3.3",
+   "title": "Approval marking and other markings",
+   "about": [
+    "Approval mark",
+    "D and Y symbols",
+    "Arrows for mounting side",
+    "Light source module identification code",
+    "Control gear marking",
+    "Grouped/combined/reciprocally incorporated lamps"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "General technical requirements",
+   "about": [
+    "Application of R48/53/74/86 sections 5 and 6",
+    "Vibration robustness"
+   ]
+  },
+  {
+   "label": "4.4",
+   "title": "Independent and interdependent lamps",
+   "about": [
+    "Assembly of two independent lamps (D)",
+    "Interdependent lamp system (Y)"
+   ]
+  },
+  {
+   "label": "4.5",
+   "title": "Lamps as such or grouped, combined, reciprocally incorporated",
+   "about": [
+    "Position lamps as end-outline marker lamps",
+    "Rear position lamp reciprocally incorporated with stop lamp",
+    "Infrared generators in front position lamps",
+    "Vehicle manufacturer logo in lamps"
+   ]
+  },
+  {
+   "label": "4.6",
+   "title": "Failure provisions",
+   "about": [
+    "Multiple light source failure",
+    "Tell-tale signal",
+    "Daytime running lamp failure",
+    "Direction indicator failure",
+    "Variable intensity control failure"
+   ]
+  },
+  {
+   "label": "4.7",
+   "title": "Provisions with regard to light sources",
+   "about": [
+    "Replaceable light sources R37/R99/R128",
+    "Light source modules",
+    "Non-replaceable light sources",
+    "LED substitute light sources",
+    "EMC disturbances"
+   ]
+  },
+  {
+   "label": "4.8",
+   "title": "Test conditions and measurement methods",
+   "about": [
+    "Test voltages",
+    "Electronic light source control gear",
+    "Variable intensity control",
+    "Luminous intensities",
+    "Lamps mounted inside vehicle behind rear window"
+   ]
+  },
+  {
+   "label": "4.9",
+   "title": "Colour of light emitted",
+   "about": [
+    "Colorimetric verification per light source technology"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Specific technical requirements",
+   "about": [
+    "Function-specific photometric and colour requirements"
+   ]
+  },
+  {
+   "label": "5.1",
+   "title": "Front position lamps (A, MA) and front end-outline marker lamps (AM)",
+   "about": [
+    "A",
+    "MA",
+    "AM"
+   ]
+  },
+  {
+   "label": "5.2",
+   "title": "Rear position lamps (R1, R2, MR) and rear end-outline marker lamps (RM1, RM2)",
+   "about": [
+    "R1",
+    "R2",
+    "MR",
+    "RM1",
+    "RM2"
+   ]
+  },
+  {
+   "label": "5.3",
+   "title": "Parking lamps (77R)",
+   "about": [
+    "77R"
+   ]
+  },
+  {
+   "label": "5.4",
+   "title": "Daytime running lamps (RL)",
+   "about": [
+    "RL"
+   ]
+  },
+  {
+   "label": "5.5",
+   "title": "Stop lamps (S1, S2, S3, S4, MS)",
+   "about": [
+    "S1",
+    "S2",
+    "S3",
+    "S4",
+    "MS"
+   ]
+  },
+  {
+   "label": "5.6",
+   "title": "Direction indicator lamps (1, 1a, 1b, 2a, 2b, 5, 6, 11, 11a, 11b, 11c, 12)",
+   "about": [
+    "Front, rear and side direction indicators",
+    "Category L direction indicators",
+    "Sequential activation"
+   ]
+  },
+  {
+   "label": "5.7",
+   "title": "Side marker lamps (SM1, SM2)",
+   "about": [
+    "SM1",
+    "SM2"
+   ]
+  },
+  {
+   "label": "5.8",
+   "title": "Reversing lamps (AR)",
+   "about": [
+    "AR"
+   ]
+  },
+  {
+   "label": "5.9",
+   "title": "Rear fog lamps (F1, F2)",
+   "about": [
+    "F1",
+    "F2"
+   ]
+  },
+  {
+   "label": "5.10",
+   "title": "Manoeuvring lamps (ML)",
+   "about": [
+    "ML"
+   ]
+  },
+  {
+   "label": "5.11",
+   "title": "Rear registration plate illuminating lamp (L, LM1)",
+   "about": [
+    "L",
+    "LM1"
+   ]
+  },
+  {
+   "label": "5.12",
+   "title": "Reversing projector (RP)",
+   "about": [
+    "RP",
+    "Testing together with reversing lamp"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Conformity of production",
+   "about": [
+    "COP requirements"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Transitional provisions",
+   "about": [
+    "General",
+    "01 series of amendments"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication form",
+   "about": [
+    "Approval/extension/refusal/withdrawal notice",
+    "Devices for vehicles in use only"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Angles of geometric visibility",
+   "about": [
+    "Minimum field-of-visibility angles per lamp",
+    "Rear-registration plate lamp visibility"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Photometric measurements / standard light distribution",
+   "about": [
+    "Reduced light distribution",
+    "Standard light distribution",
+    "Side marker lamps distribution",
+    "Rear-registration plate lamp measurement points"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Minimum requirements for conformity of production control procedures",
+   "about": [
+    "Manufacturer verification and test methods"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Minimum requirements for sampling by an inspector",
+   "about": [
+    "Sampling",
+    "Withdrawal of approval"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "One-hour continuous operation (heat/deformation) test",
+   "about": [
+    "No distortion or deformation after operation"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Examples of approval marking arrangements",
+   "about": [
+    "Single lamp marking",
+    "Grouped/combined/reciprocally incorporated lamps",
+    "Lens used in different lamp types",
+    "Light source module identification code"
+   ]
+  },
+  {
+   "label": "Annex 8",
+   "title": "Tests for compliance of luminous intensities",
+   "about": [
+    "General test requirements",
+    "Additional test requirements"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Any rear-registration plate lamp, indicator, position/stop/tail, DRL, side marker, reversing, rear fog, parking, manoeuvring lamp or reversing projector (ground projection behind vehicle) falls under R148, regardless of light source technology (filament, LED module, non-replaceable LED).",
+  "Headlamps, front fog lamps and cornering lamps are not in the R148 scope list (covered by separate road illumination regulation); retro-reflectors are not covered either.",
+  "Position lamps approved under R148 are automatically deemed approved as end-outline marker lamps.",
+  "A separate approval (symbol) is needed for each function; multifunction rear combination lamps get one approval per function but may carry a single approval mark.",
+  "Lamps mounted inside the vehicle behind a rear window (e.g. interior CHMSL) are approved with sample plates replicating the rear window optics.",
+  "Electronic light source control gear or variable intensity control outside the lamp body but declared part of the lamp must be marked with ID and manufacturer name.",
+  "Replaceable light source modules must carry 'MD' identification codes and be tool-removable, tamperproof and non-interchangeable.",
+  "Lamps incorporating a vehicle manufacturer logo (max 100 cm2) are allowed, except stop lamps, direction indicators and reversing lamps.",
+  "Front position lamps incorporating infrared generators (e.g. for night vision/driver monitoring sensors) must meet photometry with and without IR operation.",
+  "Lamps intended for category L vehicles (MA, MR, MS, 11x, 12, LM1) and agricultural tractors (via R86) are also approved under R148.",
+  "Sequential direction indicators and variable-intensity lamps (R2, RM2, S2, S4, 2b, F2) are covered, including the intensity control system.",
+  "Replacement lamps restricted to vehicles in use (due to light source restrictions) are approved with a note in the communication form.",
+  "Lamps using LED substitute light sources (R128) need repeated photometry/colorimetry but no new type.",
+  "Lamps relying on vehicle tell-tale for failure detection are restricted to vehicles fitted with such tell-tale.",
+  "Lamps must not cause EMC disturbances, but EMC compliance is assessed at vehicle level."
+ ],
+ "version": "1.6.0"
+}

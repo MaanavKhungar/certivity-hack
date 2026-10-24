@@ -1,0 +1,1042 @@
+{
+ "regulation": "UN R48",
+ "title": "Uniform provisions concerning the approval of vehicles with regard to the installation of lighting and light-signalling devices (version 9.3.0, 08 series of amendments)",
+ "subject_kind": "vehicle_installation",
+ "scope_summary": "UN R48 approves a vehicle type with regard to the number and mode of installation of its lighting and light-signalling devices: which lamps, retro-reflectors and markings are fitted, and their position, visibility, colour, switching and tell-tales. It applies to motor vehicles of categories M and N and their trailers (category O); the devices themselves are component-approved under other Regulations (LSD/RID/RRD).",
+ "scope_quote": "This Regulation applies to vehicles of categories M, N, and to their trailers (category O) with regard to the installation of lighting and light-signalling devices.",
+ "vehicle_categories": [
+  "M",
+  "N",
+  "O"
+ ],
+ "applies_to_components": [
+  "Main-beam (driving-beam) headlamp, incl. auxiliary main-beam lamp and adaptive main-beam",
+  "Dipped-beam (passing-beam) headlamp, incl. headlamp-levelling and automatic switching",
+  "Front fog lamp",
+  "Reversing lamp",
+  "Direction-indicator lamp",
+  "Hazard warning signal",
+  "Stop lamp",
+  "Rear registration plate lamp (rear-registration plate illuminating device)",
+  "Front position lamp",
+  "Rear position lamp",
+  "Rear fog lamp",
+  "Parking lamp",
+  "End-outline marker lamp",
+  "Rear retro-reflector, non-triangular",
+  "Rear retro-reflector, triangular",
+  "Front retro-reflector, non-triangular",
+  "Side retro-reflector, non-triangular",
+  "Side-marker lamp",
+  "Daytime running lamp",
+  "Cornering lamp",
+  "Conspicuity markings (contour and line marking)",
+  "Adaptive front lighting system (AFS)",
+  "Emergency stop signal",
+  "Exterior courtesy lamp",
+  "Rear-end collision alert signal (RECAS)",
+  "Manoeuvring lamp",
+  "Answer-back signal",
+  "Reversing projection / reversing projector",
+  "Driver assistance projection",
+  "External status indicator (excluded from lamp definition)",
+  "Tell-tales (operating and closed-circuit)",
+  "Variable intensity control",
+  "Light sources, LED modules, LED substitute light sources and electronic light source control gear (as installed)",
+  "Concealable lamps",
+  "Manufacturer logo on lamps"
+ ],
+ "relation_to_other_regulations": [
+  "Definitions apply to the Light-Signalling Devices (LSD, UN R148), Road Illumination Devices (RID, UN R149) and Retro-Reflective Devices (RRD, UN R150) Regulations, under which the devices are component-approved.",
+  "Standard (étalon) light sources refer to UN Regulations Nos. 37, 99 and 128.",
+  "Service-door-lighting system of M2/M3 vehicles per UN R107 is not considered a lamp.",
+  "Direction-indicator lamps may also be used according to UN R97, R116, R162 or R163; external status indicator relates to VAS/AS/immobilizer of UN R97, R116, R162 or R163.",
+  "Retro-reflecting materials approved as Class D, E or F under UN R104 or [RRD] used for other purposes are not retro-reflectors.",
+  "Retro-reflective tyres according to UN R88 excluded from night-time retro-reflected colour definitions.",
+  "AFS control signals characterised according to Annex 14 to UN R149.",
+  "Vehicle categories as defined in R.E.3 (ECE/TRANS/WP.29/78/Rev.3).",
+  "Approval numbers currently start with 08 (08 series of amendments); transitional provisions for 07 series in 12.6."
+ ],
+ "defined_terms": [
+  {
+   "term": "2.1.4",
+   "label": "Device",
+   "definition": "An element or an assembly of elements used to perform one or more functions."
+  },
+  {
+   "term": "2.1.4.1",
+   "label": "Lighting function",
+   "definition": "Light emitted by a device to illuminate the road and objects in the direction of vehicle movement."
+  },
+  {
+   "term": "2.1.4.2",
+   "label": "Light-signalling function",
+   "definition": "Light emitted or reflected by a device to give other road users visual information on the presence, identification and/or change of movement of the vehicle."
+  },
+  {
+   "term": "2.1.5",
+   "label": "Lamp",
+   "definition": "A device designed to illuminate the road or emit a light signal to other road users, including rear registration plate lamps and retro-reflectors, but excluding light-emitting rear registration plates, R107 service-door lighting and external status indicators."
+  },
+  {
+   "term": "2.1.6",
+   "label": "Change index",
+   "definition": "Sequential number per lamp function in LSD/RID/RRD indicating how many times higher stringency requirements were introduced."
+  },
+  {
+   "term": "2.1.7",
+   "label": "Manufacturer logo",
+   "definition": "A graphic mark, emblem, word or combination used to promote public recognition of a vehicle manufacturer's brand name."
+  },
+  {
+   "term": "2.2.1",
+   "label": "Vehicle type with regard to the installation of lighting and light-signalling devices",
+   "definition": "Vehicles not differing in dimensions/external shape, number and positioning of devices, headlamp-levelling system and suspension system."
+  },
+  {
+   "term": "2.3.5",
+   "label": "Operating tell-tale",
+   "definition": "A visual or auditory signal indicating that a device has been switched ON and is operating correctly or not."
+  },
+  {
+   "term": "2.3.6",
+   "label": "Closed-circuit tell-tale",
+   "definition": "A visual signal indicating that a device has been switched ON, without indicating whether it operates correctly."
+  },
+  {
+   "term": "2.3.8",
+   "label": "Movable components",
+   "definition": "Body panels or other vehicle parts whose position can be changed by tilting, rotating or sliding without tools, excluding tiltable truck cabs."
+  },
+  {
+   "term": "2.4.2",
+   "label": "Independent lamps",
+   "definition": "Devices with separate apparent surfaces, separate light sources and separate lamp bodies."
+  },
+  {
+   "term": "2.4.3",
+   "label": "Grouped lamps",
+   "definition": "Devices with separate apparent surfaces and separate light sources but a common lamp body."
+  },
+  {
+   "term": "2.4.4",
+   "label": "Combined lamps",
+   "definition": "Devices with separate apparent surfaces but a common light source and common lamp body."
+  },
+  {
+   "term": "2.4.5",
+   "label": "Reciprocally incorporated lamps",
+   "definition": "Devices with separate light sources (or one source under different conditions), totally or partially common apparent surfaces and a common lamp body."
+  },
+  {
+   "term": "2.4.6",
+   "label": "Single-function lamp",
+   "definition": "A part of a device which performs a single lighting or light-signalling function."
+  },
+  {
+   "term": "2.4.7",
+   "label": "Concealable lamp",
+   "definition": "A lamp capable of being partly or completely hidden when not in use, e.g. by movable cover or displacement (retractable)."
+  },
+  {
+   "term": "2.4.9",
+   "label": "Optional lamp",
+   "definition": "A lamp whose installation is left to the discretion of the manufacturer."
+  },
+  {
+   "term": "2.4.10.1",
+   "label": "Matched pair",
+   "definition": "Set of left and right lamps of the same function which, as a pair, complies with the photometric requirements."
+  },
+  {
+   "term": "2.4.11.1",
+   "label": "Single lamp",
+   "definition": "A device with one function and one apparent surface, or an assembly of two 'D' lamps, two separately approved retro-reflectors, or an interdependent 'Y' lamp system providing the same function."
+  },
+  {
+   "term": "2.4.12",
+   "label": "Interdependent lamp system",
+   "definition": "An assembly of two or three interdependent lamps (marked 'Y') providing the same function."
+  },
+  {
+   "term": "2.4.13",
+   "label": "Lamps marked 'D'",
+   "definition": "Independent lamps approved so they may be used independently or as an assembly of two considered a single lamp."
+  },
+  {
+   "term": "2.4.15.1",
+   "label": "Additional lighting unit",
+   "definition": "Part of a headlamp system providing bend lighting, independent from the principal passing-beam device."
+  },
+  {
+   "term": "2.4.16.2",
+   "label": "Retro-reflective device",
+   "definition": "An assembly ready for use comprising one or more retro-reflective optical units, divided into Classes IA/IB, IIIA/IIIB and IVA."
+  },
+  {
+   "term": "2.4.17.1",
+   "label": "Retro-reflective marking material",
+   "definition": "A surface or device from which a relatively large portion of incident radiation is retro-reflected."
+  },
+  {
+   "term": "2.4.17.2",
+   "label": "Rear marking plate",
+   "definition": "A plate faced with retro-reflective and fluorescent material to increase visibility of heavy and long vehicles."
+  },
+  {
+   "term": "2.4.17.3",
+   "label": "Slow moving vehicle (SMV) rear marking plate",
+   "definition": "A triangular plate with truncated corners faced with retro-reflective and fluorescent material in a characteristic pattern."
+  },
+  {
+   "term": "2.5.1",
+   "label": "Driving-beam (main-beam) headlamp",
+   "definition": "Lamp used to illuminate the road over a long distance ahead of the vehicle."
+  },
+  {
+   "term": "2.5.1.1",
+   "label": "Auxiliary driving-beam lamp",
+   "definition": "A driving-beam approved as a separate lamp supplementing a driving-beam of another class."
+  },
+  {
+   "term": "2.5.2",
+   "label": "Passing-beam (dipped-beam) headlamp",
+   "definition": "Lamp used to illuminate the road ahead without undue dazzle or discomfort to oncoming drivers and other road users."
+  },
+  {
+   "term": "2.5.2.1",
+   "label": "Principal passing-beam",
+   "definition": "The dipped-beam produced without contribution of IR emitter and/or additional bend-lighting light sources."
+  },
+  {
+   "term": "2.5.3",
+   "label": "Direction-indicator lamp",
+   "definition": "Lamp used to indicate that the driver intends to change direction to the right or left."
+  },
+  {
+   "term": "2.5.4",
+   "label": "Stop lamp",
+   "definition": "Lamp indicating to road users behind that the vehicle's longitudinal movement is intentionally retarded."
+  },
+  {
+   "term": "2.5.5",
+   "label": "Rear-registration plate illuminating device",
+   "definition": "Device used to illuminate the space reserved for the rear registration plate, possibly of several optical components."
+  },
+  {
+   "term": "2.5.6",
+   "label": "Front position lamp",
+   "definition": "Lamp indicating the presence and width of the vehicle viewed from the front."
+  },
+  {
+   "term": "2.5.7",
+   "label": "Rear position lamp",
+   "definition": "Lamp indicating the presence and width of the vehicle viewed from the rear."
+  },
+  {
+   "term": "2.5.8",
+   "label": "Retro-reflector",
+   "definition": "Device indicating vehicle presence by reflecting light from a source not connected to the vehicle, excluding number plates, ADR signals, national plates and Class D/E/F materials used for other purposes."
+  },
+  {
+   "term": "2.5.9",
+   "label": "Conspicuity marking",
+   "definition": "Retro-reflective device increasing vehicle conspicuity from the side or rear (trailers also front)."
+  },
+  {
+   "term": "2.5.9.1",
+   "label": "Contour marking",
+   "definition": "Conspicuity marking indicating length, width and height of the vehicle (full or partial)."
+  },
+  {
+   "term": "2.5.9.2",
+   "label": "Line marking",
+   "definition": "Conspicuity marking indicating the horizontal dimensions of a vehicle by a continuous line."
+  },
+  {
+   "term": "2.5.10",
+   "label": "Front fog lamp",
+   "definition": "Lamp improving road illumination ahead in fog or similar reduced visibility."
+  },
+  {
+   "term": "2.5.11",
+   "label": "Rear fog lamp",
+   "definition": "Lamp making the vehicle more easily visible from the rear in dense fog."
+  },
+  {
+   "term": "2.5.12",
+   "label": "Reversing lamp",
+   "definition": "Lamp illuminating the road to the rear and warning that the vehicle is reversing or about to reverse."
+  },
+  {
+   "term": "2.5.13",
+   "label": "Parking lamp",
+   "definition": "Lamp drawing attention to a stationary vehicle in a built-up area, replacing front and rear position lamps."
+  },
+  {
+   "term": "2.5.14",
+   "label": "End-outline marker lamp",
+   "definition": "Lamp near the extreme outer edge and top of the vehicle indicating overall width, complementing position lamps."
+  },
+  {
+   "term": "2.5.15",
+   "label": "Side marker lamp",
+   "definition": "Lamp indicating the presence of the vehicle viewed from the side."
+  },
+  {
+   "term": "2.5.16",
+   "label": "Daytime running lamp",
+   "definition": "Forward-facing lamp making the vehicle more easily visible when driving during daytime."
+  },
+  {
+   "term": "2.5.17",
+   "label": "Cornering lamp",
+   "definition": "Lamp providing supplementary illumination near the forward corner of the vehicle on the side towards which it turns."
+  },
+  {
+   "term": "2.5.18",
+   "label": "Exterior courtesy lamp",
+   "definition": "Lamp providing supplementary illumination to assist the user to approach/depart, enter/exit or load/unload the vehicle."
+  },
+  {
+   "term": "2.5.19",
+   "label": "Manoeuvring lamp",
+   "definition": "Lamp providing supplementary illumination to the side and/or rear to assist slow manoeuvres."
+  },
+  {
+   "term": "2.5.20",
+   "label": "External status indicator",
+   "definition": "Optical signal outside the vehicle indicating status of VAS, AS or immobilizer (R97/116/162/163) when parked."
+  },
+  {
+   "term": "2.5.21",
+   "label": "Reversing projector",
+   "definition": "A device used to provide reversing projection."
+  },
+  {
+   "term": "2.6.1",
+   "label": "Hazard warning signal",
+   "definition": "Simultaneous operation of all direction-indicator lamps to show the vehicle temporarily constitutes a special danger."
+  },
+  {
+   "term": "2.6.2",
+   "label": "Emergency stop signal",
+   "definition": "Signal to rear road users that a high retardation force has been applied relative to road conditions."
+  },
+  {
+   "term": "2.6.3",
+   "label": "Rear-end collision alert signal (RECAS)",
+   "definition": "Automatic signal from leading to following vehicle warning it must take emergency action to avoid a collision."
+  },
+  {
+   "term": "2.6.4",
+   "label": "Answer-back signal",
+   "definition": "Signal assisting the user to identify and find the car in park condition."
+  },
+  {
+   "term": "2.7.3",
+   "label": "Bend lighting",
+   "definition": "A lighting function providing enhanced illumination in bends."
+  },
+  {
+   "term": "2.7.4",
+   "label": "Adaptive front lighting system (AFS)",
+   "definition": "Lighting device providing beams with differing characteristics for automatic adaptation of the dipped beam and, if applicable, main beam."
+  },
+  {
+   "term": "2.7.4.1",
+   "label": "Lighting unit",
+   "definition": "Light-emitting component providing or contributing to one or more AFS front lighting functions."
+  },
+  {
+   "term": "2.7.4.2",
+   "label": "Installation unit",
+   "definition": "An indivisible housing (lamp body) containing one or more lighting units."
+  },
+  {
+   "term": "2.7.4.4",
+   "label": "System control",
+   "definition": "Part(s) of the AFS receiving control signals from the vehicle and automatically controlling the lighting units."
+  },
+  {
+   "term": "2.7.4.7",
+   "label": "Adaptive main-beam",
+   "definition": "AFS main-beam adapting its pattern to oncoming and preceding vehicles to avoid glare."
+  },
+  {
+   "term": "2.7.5.1",
+   "label": "Class of passing beam (C, V, E, W)",
+   "definition": "Designation of passing beam by particular provisions: C basic, V lit areas, E motorways, W adverse/wet conditions."
+  },
+  {
+   "term": "2.7.5.2",
+   "label": "Bending mode",
+   "definition": "Mode of a front-lighting function with laterally moved/modified illumination for bends, Category 1 (kink moves) or Category 2 (kink does not move)."
+  },
+  {
+   "term": "2.7.5.6",
+   "label": "Supply and operating device",
+   "definition": "Component(s) providing power to parts of the system, including voltage controls such as electronic light source control gears."
+  },
+  {
+   "term": "2.7.5.8",
+   "label": "Traffic-change function",
+   "definition": "Front-lighting function or mode to avoid glare when a vehicle designed for one traffic direction is used in opposite-traffic countries."
+  },
+  {
+   "term": "2.7.5.9",
+   "label": "Substitute function",
+   "definition": "Front-lighting/signalling function or mode intended to replace a front-lighting function in case of failure."
+  },
+  {
+   "term": "2.7.6.5",
+   "label": "Sequential activation",
+   "definition": "Wiring where individual light sources of a lamp switch ON in a predetermined sequence."
+  },
+  {
+   "term": "2.7.8",
+   "label": "Driver Assistance Projection",
+   "definition": "A modification of the light distribution for driver assistance purposes."
+  },
+  {
+   "term": "2.7.11",
+   "label": "Reversing projection",
+   "definition": "Light signal projected on the ground by reversing projectors to enhance recognition of reversing indication."
+  },
+  {
+   "term": "2.8.1",
+   "label": "Lens",
+   "definition": "Outermost component of the lamp transmitting light through the illuminating surface."
+  },
+  {
+   "term": "2.9.1",
+   "label": "Light source",
+   "definition": "One or more elements for visible radiation with a base for mechanical and electrical connection."
+  },
+  {
+   "term": "2.9.1.3",
+   "label": "Light source module",
+   "definition": "Device-specific optical part containing one or more non-replaceable light sources and optionally holders for replaceable ones."
+  },
+  {
+   "term": "2.9.1.6",
+   "label": "LED light source",
+   "definition": "Light source whose only visible radiation element is one or more solid state junctions producing electroluminescence."
+  },
+  {
+   "term": "2.9.1.6.1",
+   "label": "LED substitute light source",
+   "definition": "LED light source of a category having a counterpart category using another light generating technology."
+  },
+  {
+   "term": "2.9.1.7",
+   "label": "LED module",
+   "definition": "A light source module containing only LEDs as light sources."
+  },
+  {
+   "term": "2.9.2",
+   "label": "Electronic light source control gear",
+   "definition": "Components between supply and light source controlling voltage and/or current of the light source."
+  },
+  {
+   "term": "2.9.2.1",
+   "label": "Ballast",
+   "definition": "Components controlling the current of a gas-discharge light source."
+  },
+  {
+   "term": "2.9.3",
+   "label": "Variable intensity control",
+   "definition": "Device automatically controlling rear light-signalling devices with variable intensities, part of lamp, vehicle or split."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Retro-reflective device Class IA/IB, IIIA/IIIB, IVA",
+   "distinguished_by": "Photometric characteristics; IB and IIIB are combined with non-watertight signal lamps integrated in the body"
+  },
+  {
+   "name": "Passing-beam classes C, V, E, W",
+   "distinguished_by": "Particular photometric provisions for basic, town, motorway and adverse-weather use (AFS)"
+  },
+  {
+   "name": "Bending mode Category 1 / Category 2",
+   "distinguished_by": "Whether the kink of the cut-off moves horizontally"
+  },
+  {
+   "name": "Full contour / partial contour / line marking",
+   "distinguished_by": "Extent of vehicle outline indicated by the conspicuity marking"
+  },
+  {
+   "name": "Independent / grouped / combined / reciprocally incorporated lamps",
+   "distinguished_by": "Sharing of apparent surfaces, light sources and lamp body"
+  },
+  {
+   "name": "Lamps marked 'D' / interdependent lamps marked 'Y'",
+   "distinguished_by": "Assemblies treated as a single lamp"
+  },
+  {
+   "name": "Rear and front (non-triangular), triangular, side retro-reflectors",
+   "distinguished_by": "Position and shape (paras 6.14–6.17)"
+  },
+  {
+   "name": "Direction indicators of categories 5 and 6",
+   "distinguished_by": "Side indicators for which light-emitting surface is used instead of apparent surface"
+  },
+  {
+   "name": "Filament, gas-discharge, LED light sources; replaceable / non-replaceable; LED module",
+   "distinguished_by": "Light generating technology and replaceability"
+  },
+  {
+   "name": "Vehicle categories M, N, O",
+   "distinguished_by": "Vehicle type; many individual requirements differ by category"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "Vehicles of categories M, N, O",
+    "installation of lighting and light-signalling devices"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Device",
+    "Lamp",
+    "Lighting function",
+    "Light-signalling function",
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "2.4",
+   "title": "Lamps generalities",
+   "about": [
+    "Independent lamps",
+    "Grouped lamps",
+    "Combined lamps",
+    "Reciprocally incorporated lamps",
+    "Concealable lamp",
+    "Lamps marked 'D'",
+    "Interdependent lamp system",
+    "Retro-reflective device",
+    "Rear marking plate",
+    "SMV rear marking plate"
+   ]
+  },
+  {
+   "label": "2.5",
+   "title": "Lamps",
+   "about": [
+    "Definitions of each lamp function",
+    "Retro-reflector",
+    "Conspicuity marking",
+    "External status indicator",
+    "Reversing projector"
+   ]
+  },
+  {
+   "label": "2.6",
+   "title": "Signal",
+   "about": [
+    "Hazard warning signal",
+    "Emergency stop signal",
+    "RECAS",
+    "Answer-back signal"
+   ]
+  },
+  {
+   "label": "2.7",
+   "title": "System",
+   "about": [
+    "AFS",
+    "Adaptive main-beam",
+    "Bend lighting",
+    "Passing-beam classes",
+    "Driver Assistance Projection",
+    "Reversing projection",
+    "Sequential activation"
+   ]
+  },
+  {
+   "label": "2.9",
+   "title": "Light sources",
+   "about": [
+    "Light source",
+    "LED module",
+    "LED substitute light source",
+    "Electronic light source control gear",
+    "Variable intensity control"
+   ]
+  },
+  {
+   "label": "2.10",
+   "title": "Photometry",
+   "about": [
+    "Light emitting surface",
+    "Illuminating surface",
+    "Apparent surface",
+    "Angles of geometric visibility"
+   ]
+  },
+  {
+   "label": "2.11",
+   "title": "Colour",
+   "about": [
+    "White",
+    "Selective-yellow",
+    "Amber",
+    "Red",
+    "retro-reflected and fluorescent colours"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "Device list",
+    "Layout drawings",
+    "AFS documentation",
+    "LED substitute light source statement",
+    "Driver Assistance Projection patterns"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "Approval number (08 series)",
+    "Approval mark near vehicle data plate"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "General specifications",
+   "about": [
+    "General installation requirements",
+    "Colours",
+    "Tell-tales",
+    "Electrical connections"
+   ]
+  },
+  {
+   "label": "5.7",
+   "title": "Grouped, combined or reciprocally incorporated or single lamps",
+   "about": [
+    "Grouped lamps",
+    "Combined lamps",
+    "Reciprocally incorporated lamps",
+    "Single lamp",
+    "Lamps marked 'D'",
+    "Interdependent lamp system"
+   ]
+  },
+  {
+   "label": "5.14",
+   "title": "Concealable lamps",
+   "about": [
+    "Concealable lamp"
+   ]
+  },
+  {
+   "label": "5.16",
+   "title": "Number of lamps",
+   "about": [
+    "Single lamp",
+    "Optional lamp"
+   ]
+  },
+  {
+   "label": "5.28",
+   "title": "General provisions relating to geometric visibility",
+   "about": [
+    "Angles of geometric visibility",
+    "Apparent surface",
+    "Movable components"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Individual specifications",
+   "about": [
+    "Per-function presence, number, arrangement, position, visibility, orientation, electrical connections, tell-tales"
+   ]
+  },
+  {
+   "label": "6.1",
+   "title": "Main-beam headlamp",
+   "about": [
+    "Driving-beam (main-beam) headlamp",
+    "Auxiliary driving-beam lamp",
+    "Adaptive main-beam",
+    "automatic main-beam control"
+   ]
+  },
+  {
+   "label": "6.2",
+   "title": "Dipped-beam headlamp",
+   "about": [
+    "Passing-beam (dipped-beam) headlamp",
+    "Principal passing-beam",
+    "headlamp levelling",
+    "automatic switching",
+    "bend lighting"
+   ]
+  },
+  {
+   "label": "6.3",
+   "title": "Front fog lamp",
+   "about": [
+    "Front fog lamp"
+   ]
+  },
+  {
+   "label": "6.4",
+   "title": "Reversing lamp",
+   "about": [
+    "Reversing lamp"
+   ]
+  },
+  {
+   "label": "6.5",
+   "title": "Direction-indicator lamp",
+   "about": [
+    "Direction-indicator lamp",
+    "Sequential activation"
+   ]
+  },
+  {
+   "label": "6.6",
+   "title": "Hazard warning signal",
+   "about": [
+    "Hazard warning signal"
+   ]
+  },
+  {
+   "label": "6.7",
+   "title": "Stop lamp",
+   "about": [
+    "Stop lamp",
+    "Variable intensity control"
+   ]
+  },
+  {
+   "label": "6.8",
+   "title": "Rear registration plate lamp",
+   "about": [
+    "Rear-registration plate illuminating device"
+   ]
+  },
+  {
+   "label": "6.9",
+   "title": "Front position lamp",
+   "about": [
+    "Front position lamp"
+   ]
+  },
+  {
+   "label": "6.10",
+   "title": "Rear position lamp",
+   "about": [
+    "Rear position lamp"
+   ]
+  },
+  {
+   "label": "6.11",
+   "title": "Rear fog lamp",
+   "about": [
+    "Rear fog lamp"
+   ]
+  },
+  {
+   "label": "6.12",
+   "title": "Parking lamp",
+   "about": [
+    "Parking lamp"
+   ]
+  },
+  {
+   "label": "6.13",
+   "title": "End-outline marker lamp",
+   "about": [
+    "End-outline marker lamp"
+   ]
+  },
+  {
+   "label": "6.14",
+   "title": "Rear retro-reflector, non-triangular",
+   "about": [
+    "Retro-reflector",
+    "Retro-reflective device"
+   ]
+  },
+  {
+   "label": "6.15",
+   "title": "Rear retro-reflector, triangular",
+   "about": [
+    "Retro-reflector",
+    "trailers"
+   ]
+  },
+  {
+   "label": "6.16",
+   "title": "Front retro-reflector, non-triangular",
+   "about": [
+    "Retro-reflector"
+   ]
+  },
+  {
+   "label": "6.17",
+   "title": "Side retro-reflector, non-triangular",
+   "about": [
+    "Retro-reflector"
+   ]
+  },
+  {
+   "label": "6.18",
+   "title": "Side-marker lamps",
+   "about": [
+    "Side marker lamp"
+   ]
+  },
+  {
+   "label": "6.19",
+   "title": "Daytime running lamp",
+   "about": [
+    "Daytime running lamp"
+   ]
+  },
+  {
+   "label": "6.20",
+   "title": "Cornering lamp",
+   "about": [
+    "Cornering lamp"
+   ]
+  },
+  {
+   "label": "6.21",
+   "title": "Conspicuity markings",
+   "about": [
+    "Conspicuity marking",
+    "Contour marking",
+    "Line marking",
+    "Retro-reflective marking material"
+   ]
+  },
+  {
+   "label": "6.22",
+   "title": "Adaptive front lighting system (AFS) (referenced in text, not listed in TOC extract)",
+   "about": [
+    "AFS",
+    "Lighting unit",
+    "Installation unit",
+    "AFS control signal",
+    "Bending mode",
+    "Passing-beam classes",
+    "Adaptive main-beam"
+   ]
+  },
+  {
+   "label": "6.23",
+   "title": "Emergency stop signal",
+   "about": [
+    "Emergency stop signal"
+   ]
+  },
+  {
+   "label": "6.24",
+   "title": "Exterior courtesy lamp",
+   "about": [
+    "Exterior courtesy lamp"
+   ]
+  },
+  {
+   "label": "6.25",
+   "title": "Rear-end collision alert signal",
+   "about": [
+    "Rear-end collision alert signal (RECAS)"
+   ]
+  },
+  {
+   "label": "6.26",
+   "title": "Manoeuvring lamps",
+   "about": [
+    "Manoeuvring lamp"
+   ]
+  },
+  {
+   "label": "6.27",
+   "title": "Answer-back signal",
+   "about": [
+    "Answer-back signal"
+   ]
+  },
+  {
+   "label": "6.28",
+   "title": "Reversing projection",
+   "about": [
+    "Reversing projection",
+    "Reversing projector",
+    "Basic element"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Modifications and extensions of approval of the vehicle type or of the installation of its lighting and light-signalling devices",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Conformity of production",
+   "about": []
+  },
+  {
+   "label": "9",
+   "title": "Penalties for non-conformity of production",
+   "about": []
+  },
+  {
+   "label": "10",
+   "title": "Production definitively discontinued",
+   "about": []
+  },
+  {
+   "label": "11",
+   "title": "Names and addresses of Technical Services and Type Approval Authorities",
+   "about": []
+  },
+  {
+   "label": "12",
+   "title": "Transitional provisions",
+   "about": [
+    "07 series of amendments (12.6)"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication form (approval of vehicle type re installation of lighting and light-signalling devices)",
+   "about": [
+    "List of devices fitted",
+    "Conspicuity markings",
+    "Reversing projection"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Arrangements of approval marks",
+   "about": []
+  },
+  {
+   "label": "Annex 3",
+   "title": "Examples of lamp surfaces, axes, centre of reference and angles of geometric visibility",
+   "about": [
+    "Illuminating surface",
+    "Light emitting surface",
+    "Apparent surface",
+    "Reciprocally incorporated lamps (Part 7)",
+    "Textured outer lens"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Visibility of a red light to the front and of a white light to the rear",
+   "about": [
+    "Colour of lamps"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Loading conditions",
+   "about": [
+    "Laden vehicle",
+    "dipped-beam inclination"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Measurement of the variation of dipped-beam inclination as a function of load",
+   "about": [
+    "Passing-beam (dipped-beam) headlamp",
+    "initial inclination"
+   ]
+  },
+  {
+   "label": "Annex 8",
+   "title": "Controls for headlamp levelling devices",
+   "about": [
+    "Headlamp-levelling system"
+   ]
+  },
+  {
+   "label": "Annex 9",
+   "title": "Control of conformity of production",
+   "about": [
+    "Visibility of lamps",
+    "Alignment of dipped-beam and front fog lamps",
+    "Light intensities"
+   ]
+  },
+  {
+   "label": "Annex 11",
+   "title": "Visibility of conspicuity markings to the rear, side and front of a vehicle",
+   "about": [
+    "Conspicuity marking"
+   ]
+  },
+  {
+   "label": "Annex 12",
+   "title": "Test drive specifications",
+   "about": [
+    "Automatic control of main-beam headlamps",
+    "Adaptive main-beam"
+   ]
+  },
+  {
+   "label": "Annex 13",
+   "title": "Automatic switching conditions for dipped-beam headlamps",
+   "about": [
+    "Passing-beam (dipped-beam) headlamp"
+   ]
+  },
+  {
+   "label": "Annex 14",
+   "title": "Zones of observation / gonio(photo)meter system",
+   "about": [
+    "Angles of geometric visibility"
+   ]
+  },
+  {
+   "label": "Annex 16",
+   "title": "Driver assistance projection symbols and patterns",
+   "about": [
+    "Driver Assistance Projection"
+   ]
+  },
+  {
+   "label": "Annex 17",
+   "title": "Basic elements of reversing projection",
+   "about": [
+    "Reversing projection",
+    "Basic element"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "R48 approves only the vehicle installation; the lamp or retro-reflector itself needs component approval under R148 (LSD), R149 (RID) or R150 (RRD), but any exterior lamp product sold for M/N/O vehicles must be installable in compliance with R48.",
+  "Rear registration plate lamps and retro-reflectors count as lamps; light-emitting rear registration plates, R107 service-door lighting and external status indicators do not.",
+  "Any change to headlamp-levelling system or suspension can create a new vehicle type and affect dipped-beam inclination requirements (Annex 5, 6, 8).",
+  "Body panels, tailgates, doors or other movable components carrying lamps fall under geometric visibility/position rules for movable components.",
+  "Conspicuity tapes, rear marking plates and SMV plates are covered as retro-reflective marking; Class D/E/F materials used for other national purposes are excluded.",
+  "Electronic control units for lamps (control gear, ballasts, variable intensity control, AFS system control, automatic main-beam/dipped-beam switching sensors and logic) are covered via switching and electrical connection requirements.",
+  "Vehicle alarm/immobilizer status lights and use of direction indicators for alarm signalling link R48 to R97/R116/R162/R163.",
+  "Ground projections (driver assistance projection, reversing projection) and logos in lamps are regulated by R48.",
+  "Lamps with LED substitute light sources may only be installed if the manufacturer's statement permits.",
+  "Interior lighting is not covered except tell-tales for exterior lighting functions."
+ ],
+ "version": "9.3.0"
+}

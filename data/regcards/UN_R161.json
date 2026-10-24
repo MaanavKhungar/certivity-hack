@@ -1,0 +1,314 @@
+{
+ "regulation": "UN R161",
+ "title": "Uniform provisions concerning the protection of motor vehicles against unauthorized use (Devices to prevent unauthorized use), version 0.5.0",
+ "subject_kind": "mixed",
+ "scope_summary": "Approves vehicles of categories M1 and N1 with regard to their devices to prevent unauthorized use, i.e. a locking system preventing normal engine/main power activation combined with a steering, transmission, gearshift or brake lock; components and devices may also be approved. Fitting to other vehicle categories is optional, but any device fitted must comply, and approvals for other categories and their devices may be granted on manufacturer request.",
+ "scope_quote": "1.1 Approval of a vehicle of category M1 and N1 with regard to its devices to prevent unauthorized use. 1.2 The fitting of devices to vehicles of other categories is optional but any such device fitted is required to comply with all relevant provisions of this Regulation. 1.3 At the request of the manufacturer, Contracting Parties may grant approvals according to this Regulation to vehicles of other categories and devices for fitment to such vehicles. 1.4 This Regulation does not apply to radio transmission frequencies, whether or not related to the protection of vehicles against unauthorized use.",
+ "vehicle_categories": [
+  "M1",
+  "N1",
+  "other categories optionally (on manufacturer request, par. 1.2/1.3)"
+ ],
+ "applies_to_components": [
+  "Device to prevent unauthorized use (locking system)",
+  "Steering lock (steering control, steering column, cladding, steering shaft, steering gearbox)",
+  "Transmission lock",
+  "Gearshift control lock",
+  "Brake lock",
+  "Key (mechanical and/or electronic)",
+  "Digital key",
+  "Rolling code transmitting unit",
+  "Electrical/electronic components of the locking system"
+ ],
+ "relation_to_other_regulations": [
+  "Vehicle categories M1/N1 as defined in the Consolidated Resolution R.E.3 (ECE/TRANS/WP.29/78/Rev.6); approval mark country codes per R.E.3 Annex 3",
+  "Par. 4.5 allows the approval mark to be combined with approvals under other UN Regulations",
+  "Not stated in the provided text, but R161 is part of the split of UN R116: R161 covers devices to prevent unauthorized use, while immobilizers and vehicle alarm systems are covered by R162 and R163",
+  "Annex 7 EMC tests (immunity to conducted, radiated and ESD disturbances, plus radiated emissions) refer to external technical prescriptions, presumably ISO standards and/or UN R10",
+  "Annex 9 (digital key) requires robustness against cyber-attacks, which has a likely interface with UN R155 cyber security (not stated in the provided text)",
+  "Radio transmission frequencies are excluded from scope (par. 1.4); these are left to radio regulations"
+ ],
+ "defined_terms": [
+  {
+   "term": "Component",
+   "label": "2.1",
+   "definition": "A device subject to the requirements of this Regulation and intended to be part of a vehicle, which may be type-approved independently of a vehicle where the Regulation expressly provides."
+  },
+  {
+   "term": "Separate technical unit",
+   "label": "2.2",
+   "definition": "A device subject to this Regulation and intended to be part of a vehicle, which may be type-approved separately but only in relation to one or more specified vehicle types."
+  },
+  {
+   "term": "Vehicle type",
+   "label": "2.4",
+   "definition": "Motor vehicles not differing in the manufacturer's type designation, the arrangement and design of the components on which the device acts, or the type of device to prevent unauthorized use."
+  },
+  {
+   "term": "Device to prevent unauthorized use",
+   "label": "2.5",
+   "definition": "A locking system designed to prevent unauthorized normal activation of the engine or other main power source, combined with at least one system that locks the steering, transmission, gearshift control or brakes (a brake lock must not automatically release the brakes against the driver's intention on deactivation)."
+  },
+  {
+   "term": "Steering",
+   "label": "2.6",
+   "definition": "The steering control, steering column and its cladding, steering shaft, steering gearbox and all other components directly affecting the effectiveness of the device."
+  },
+  {
+   "term": "Combination",
+   "label": "2.7",
+   "definition": "One of the specifically developed variations of a locking system which, when properly activated, permits operation of the locking system."
+  },
+  {
+   "term": "Key",
+   "label": "2.8",
+   "definition": "Any mechanical and/or electronic solution designed to provide a method of operating a locking system designed to be operated by it."
+  },
+  {
+   "term": "Rolling code",
+   "label": "2.9",
+   "definition": "An electronic code of several elements whose combination changes at random after each operation of the transmitting unit."
+  },
+  {
+   "term": "Primary user",
+   "label": "2.10",
+   "definition": "A user able to authorize digital keys, of whom there may be more than one."
+  },
+  {
+   "term": "Digital key",
+   "label": "2.11",
+   "definition": "A key designed to be transferred to multiple devices by the primary user(s) through dedicated processes."
+  },
+  {
+   "term": "Close proximity",
+   "label": "2.12",
+   "definition": "A distance of less than 6 m."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Steering-locking device",
+   "distinguished_by": "Locks the steering (par. 2.5(a))"
+  },
+  {
+   "name": "Transmission-locking device",
+   "distinguished_by": "Locks the transmission (par. 2.5(b))"
+  },
+  {
+   "name": "Gearshift-locking device",
+   "distinguished_by": "Locks the gearshift control (par. 2.5(c))"
+  },
+  {
+   "name": "Brake-locking device",
+   "distinguished_by": "Locks the brakes; deactivation must not release the brakes contrary to the driver's intention (par. 2.5(d))"
+  },
+  {
+   "name": "Mechanical key / electronic key",
+   "distinguished_by": "Operating solution is mechanical and/or electronic (par. 2.8)"
+  },
+  {
+   "name": "Digital key",
+   "distinguished_by": "Key transferable to multiple devices by primary user(s); additional requirements in Annex 9"
+  },
+  {
+   "name": "Electrical/electronic locking system",
+   "distinguished_by": "Locking-system components with electrical/electronic function, subject to Annex 6 operation tests and Annex 7 EMC tests"
+  },
+  {
+   "name": "Vehicle approval vs component/device approval",
+   "distinguished_by": "Approval of an M1/N1 vehicle type, or of a component/separate technical unit type (par. 2.1, 2.2, 3.1)"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "Vehicle",
+    "Device to prevent unauthorized use"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Component",
+    "Separate technical unit",
+    "Vehicle type",
+    "Device to prevent unauthorized use",
+    "Steering",
+    "Combination",
+    "Key",
+    "Rolling code",
+    "Primary user",
+    "Digital key",
+    "Close proximity"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "Vehicle type",
+    "Component",
+    "Device to prevent unauthorized use"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "Approval number",
+    "Approval mark",
+    "Vehicle type",
+    "Component"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Approval of a vehicle of category M1 and N1 with regard to its devices to prevent unauthorized use",
+   "about": [
+    "Device to prevent unauthorized use",
+    "Steering",
+    "Key",
+    "Combination",
+    "Rolling code",
+    "Digital key"
+   ]
+  },
+  {
+   "label": "5.1",
+   "title": "General specifications",
+   "about": [
+    "Device to prevent unauthorized use",
+    "Key",
+    "Combination",
+    "Steering"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Modification of the type and extension of approval",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Conformity of production procedures",
+   "about": [
+    "Conformity of production"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Penalties for non-conformity of production",
+   "about": [
+    "Conformity of production"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Production definitively discontinued",
+   "about": [
+    "Approval"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Names and addresses of Technical Services and Type Approval Authorities",
+   "about": [
+    "Administrative"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Information document",
+   "about": [
+    "Vehicle type",
+    "Device to prevent unauthorized use"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Communication (approval form)",
+   "about": [
+    "Vehicle type",
+    "Component"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Arrangements of approval marks",
+   "about": [
+    "Approval mark"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Test equipment and test method (wear-resisting test of devices acting on the steering)",
+   "about": [
+    "Steering",
+    "Device to prevent unauthorized use"
+   ]
+  },
+  {
+   "label": "Annex 4 (second part / Annex 5)",
+   "title": "Test equipment and test procedure description (likely the test for steering-lock devices using a torque-limiting function)",
+   "about": [
+    "Steering",
+    "Device to prevent unauthorized use"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Operation parameters, test conditions and operation tests of locking systems",
+   "about": [
+    "Electrical/electronic locking system",
+    "Key",
+    "Device to prevent unauthorized use"
+   ]
+  },
+  {
+   "label": "Annex 6 3.8",
+   "title": "Safe operation after vibration test",
+   "about": [
+    "Electrical/electronic locking system"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Electromagnetic compatibility",
+   "about": [
+    "Electrical/electronic locking system",
+    "Conducted immunity",
+    "Radiated immunity",
+    "Electrostatic discharge",
+    "Radiated emissions"
+   ]
+  },
+  {
+   "label": "Annex 9",
+   "title": "Requirements for digital keys (documentation, safe operation, cyber-attack resistance, verification, auditor competence)",
+   "about": [
+    "Digital key",
+    "Primary user",
+    "Close proximity",
+    "Key"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Any steering column lock, electronic steering lock (ESL), transmission park lock, gearshift lock or brake-based lock that, combined with engine/power activation blocking, prevents vehicle use falls under this Regulation",
+  "Applies to electric and hybrid vehicles too: 'engine or other source of main engine power' covers propulsion system activation (start/ready mode)",
+  "Ignition switches/start-stop buttons, keyless entry/start systems, key fobs and transponder keys are 'keys' (mechanical and/or electronic) and their locking system is covered",
+  "Smartphone/wearable-based digital keys shared by a primary user are covered by Annex 9, including cyber-attack robustness and 'close proximity' (<6 m) requirements",
+  "Electronic components of the locking system must pass Annex 6 operation tests (voltage, temperature, vibration) and Annex 7 EMC tests; some components are exempt from Annex 6 (see Annex 6 par. 1)",
+  "Steering components (wheel, column, cladding, shaft, gearbox) that directly affect lock effectiveness are part of 'steering' and therefore relevant to approval and type definition",
+  "Changing the steering column design or the type of locking device creates a new vehicle type (par. 2.4)",
+  "Non-M1/N1 vehicles (e.g. M2, N2, L) are not required to fit such devices, but if they do, the devices must comply (par. 1.2)",
+  "Radio transmission frequencies of remote keys are outside scope (par. 1.4), although remote key electronics remain subject to the EMC and other requirements",
+  "Immobilizers and vehicle alarm systems are not covered here; they fall under the split-off sister regulations (R162/R163, formerly R116)"
+ ],
+ "version": "0.5.0"
+}

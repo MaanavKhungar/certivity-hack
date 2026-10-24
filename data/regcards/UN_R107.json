@@ -1,0 +1,773 @@
+{
+ "regulation": "UN R107 (version 11.1.0, 07 series of amendments)",
+ "title": "Uniform provisions concerning the approval of category M2 or M3 vehicles with regard to their general construction",
+ "subject_kind": "mixed",
+ "scope_summary": "Approves vehicle types of category M2 or M3 (buses and coaches) with regard to their general construction. It also approves bodywork types as separate technical units, vehicles fitted with already-approved bodywork, and fire suppression systems as components. It applies to single-deck, double-deck, rigid and articulated vehicles, with exclusions for certain special-purpose vehicles.",
+ "scope_quote": "1.1 This Regulation applies to every single-deck, double-deck, rigid or articulated vehicle of category M2 or M3. 1.2 However, the requirements of this Regulation do not apply to the following vehicles: 1.2.1 Vehicles designed for the secure transport of persons, for example prisoners; 1.2.2 Vehicles specially designed for the carriage of injured or sick persons (ambulances); 1.2.3 Off-road vehicles. 1.2.4 Vehicles specially designed for the carriage of school children.",
+ "vehicle_categories": [
+  "M2",
+  "M3"
+ ],
+ "applies_to_components": [
+  "bodywork (separate technical unit)",
+  "fire suppression system (component; engine compartment fire detection and suppression)",
+  "superstructure",
+  "service doors (power-operated, automatically-operated, driver-operated, sliding, double doors)",
+  "emergency doors, emergency windows, escape hatches",
+  "starting prevention device",
+  "overnight locking system",
+  "door controls and emergency controls",
+  "boarding devices (lifts, ramps, portable ramps)",
+  "kneeling system",
+  "passenger seats, priority seats, demountable seats",
+  "wheelchair spaces and wheelchair stability/restraint provisions",
+  "pram and pushchair accommodation",
+  "communication devices for passengers",
+  "handrails and handholds",
+  "guarding of step wells and exposed seats",
+  "steps, gangways, access passages, intercommunication staircases, half staircases",
+  "trap doors",
+  "artificial interior lighting",
+  "emergency lighting system",
+  "service-door lighting",
+  "safety signs and visual contrast of markings",
+  "visual entertainment equipment",
+  "articulated section of articulated vehicles",
+  "driver's compartment",
+  "trolleybus current collector, traction and auxiliary electrical equipment, wiring and apparatus"
+ ],
+ "relation_to_other_regulations": [
+  "Vehicle categories M2 and M3 as defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3), ECE/TRANS/WP.29/78/Rev.6.",
+  "Approval mark may be combined with the marks of other UN Regulations under which the vehicle is approved (paragraph 4.5).",
+  "Paragraph 1.4: Contracting Parties may set national requirements for audible and/or visual route and destination display equipment pending UN provisions.",
+  "Superstructure is defined with reference to roll-over strength (the subject of UN R66)."
+ ],
+ "defined_terms": [
+  {
+   "term": "Vehicle",
+   "label": "2.1",
+   "definition": "A vehicle of category M2 or M3 within the scope of paragraph 1."
+  },
+  {
+   "term": "Class I",
+   "label": "2.1.1.1",
+   "definition": "Vehicle with more than 22 passengers constructed with areas for standing passengers, to allow frequent passenger movement."
+  },
+  {
+   "term": "Class II",
+   "label": "2.1.1.2",
+   "definition": "Vehicle with more than 22 passengers constructed principally for seated passengers, allowing standing passengers in the gangway and/or an area not exceeding two double seats."
+  },
+  {
+   "term": "Class III",
+   "label": "2.1.1.3",
+   "definition": "Vehicle with more than 22 passengers constructed exclusively for the carriage of seated passengers."
+  },
+  {
+   "term": "Class A",
+   "label": "2.1.2.1",
+   "definition": "Vehicle with not more than 22 passengers designed to carry standing passengers, having seats and provision for standing passengers."
+  },
+  {
+   "term": "Class B",
+   "label": "2.1.2.2",
+   "definition": "Vehicle with not more than 22 passengers not designed to carry standing passengers."
+  },
+  {
+   "term": "Articulated vehicle",
+   "label": "2.1.3",
+   "definition": "A vehicle of two or more permanently connected, intercommunicating rigid sections that articulate relative to one another."
+  },
+  {
+   "term": "Double-decker articulated vehicle",
+   "label": "2.1.3.1",
+   "definition": "An articulated vehicle whose sections intercommunicate on at least one deck."
+  },
+  {
+   "term": "Low floor vehicle",
+   "label": "2.1.4",
+   "definition": "A Class I, II or A vehicle in which at least 35 per cent of the standing area forms a step-free area including access to at least one service door."
+  },
+  {
+   "term": "Bodywork",
+   "label": "2.1.5",
+   "definition": "A separate technical unit comprising all the special internal and external equipment of the vehicle."
+  },
+  {
+   "term": "Double-deck vehicle",
+   "label": "2.1.6",
+   "definition": "A vehicle whose passenger spaces are at least partly on two superimposed levels, with no standing space on the upper deck."
+  },
+  {
+   "term": "Separate technical unit",
+   "label": "2.1.7",
+   "definition": "A device intended to be part of a vehicle which may be type-approved separately, but only in relation to specified vehicle types."
+  },
+  {
+   "term": "Trolleybus",
+   "label": "2.1.8",
+   "definition": "A vehicle electrically driven by energy from external overhead contact wires, including dual mode and guided trolleybuses."
+  },
+  {
+   "term": "Vehicle without roof",
+   "label": "2.1.9",
+   "definition": "A vehicle without roof over all or part of its (upper) deck, on which no standing space may be provided."
+  },
+  {
+   "term": "Fire suppression system type",
+   "label": "2.2.3",
+   "definition": "Fire suppression systems, approved as components, not differing in manufacturer, extinguishing agent, type of discharge point or type of propellant gas."
+  },
+  {
+   "term": "Superstructure",
+   "label": "2.4",
+   "definition": "The part of the bodywork which contributes to the strength of the vehicle in a roll-over accident."
+  },
+  {
+   "term": "Service door",
+   "label": "2.5",
+   "definition": "A door intended for use by passengers in normal circumstances with the driver seated."
+  },
+  {
+   "term": "Double door",
+   "label": "2.6",
+   "definition": "A door affording two, or the equivalent of two, access passages."
+  },
+  {
+   "term": "Sliding door",
+   "label": "2.7",
+   "definition": "A door opened or closed only by sliding it along one or more (approximately) rectilinear rails."
+  },
+  {
+   "term": "Emergency door",
+   "label": "2.8",
+   "definition": "A door intended for use by passengers as an exit only exceptionally, in particular in an emergency."
+  },
+  {
+   "term": "Emergency window",
+   "label": "2.9",
+   "definition": "A window, not necessarily glazed, intended for use as an exit by passengers in an emergency only."
+  },
+  {
+   "term": "Double or multiple window",
+   "label": "2.10",
+   "definition": "An emergency window divisible into two or more parts each complying with the requirements for a normal emergency window."
+  },
+  {
+   "term": "Escape hatch",
+   "label": "2.11",
+   "definition": "An opening in the roof or floor intended for use as an emergency exit only."
+  },
+  {
+   "term": "Emergency exit",
+   "label": "2.12",
+   "definition": "An emergency door, emergency window or escape hatch."
+  },
+  {
+   "term": "Exit",
+   "label": "2.13",
+   "definition": "A service door, intercommunication staircase, half-staircase or emergency exit."
+  },
+  {
+   "term": "Floor",
+   "label": "2.14.1",
+   "definition": "The part of the bodywork whose upper surface supports standing passengers, seated passengers' feet, the driver and crew, and possibly seat mountings."
+  },
+  {
+   "term": "Deck",
+   "label": "2.14.2",
+   "definition": "The part of the floor provided only for passengers."
+  },
+  {
+   "term": "Gangway",
+   "label": "2.15",
+   "definition": "The space giving passengers access between seats, wheelchair areas, access passages, staircases and standing areas, with specified exclusions."
+  },
+  {
+   "term": "Access passage",
+   "label": "2.16",
+   "definition": "The space extending inwards from the service door to the outermost edge of the upper step, intercommunication staircase or half-staircase."
+  },
+  {
+   "term": "Driver's compartment",
+   "label": "2.17",
+   "definition": "The space for the driver's exclusive use containing the driver's seat, steering wheel, controls and instruments."
+  },
+  {
+   "term": "Passenger with reduced mobility",
+   "label": "2.21",
+   "definition": "Any passenger with difficulty using public transport, e.g. disabled or elderly people, pregnant women, people with children, pushchairs or heavy luggage."
+  },
+  {
+   "term": "Wheelchair user",
+   "label": "2.22",
+   "definition": "A person who due to infirmity or disability uses a wheelchair for mobility."
+  },
+  {
+   "term": "Passenger compartment",
+   "label": "2.24",
+   "definition": "Space for passengers' use excluding fixed appliances such as bars, kitchenettes, toilets or baggage compartments."
+  },
+  {
+   "term": "Power-operated service door",
+   "label": "2.25",
+   "definition": "A service door operated exclusively by non-muscular energy, remotely controlled by the driver or crew if not automatic."
+  },
+  {
+   "term": "Automatically-operated service door",
+   "label": "2.26",
+   "definition": "A power-operated service door opened only after a passenger control and driver activation, which closes again automatically."
+  },
+  {
+   "term": "Starting prevention device",
+   "label": "2.27",
+   "definition": "A device which prevents the vehicle being driven away from rest when a door is not fully closed."
+  },
+  {
+   "term": "Driver operated service door",
+   "label": "2.28",
+   "definition": "A service door normally opened and closed by the driver."
+  },
+  {
+   "term": "Priority seat",
+   "label": "2.29",
+   "definition": "A seat with additional space for a passenger with reduced mobility and marked accordingly."
+  },
+  {
+   "term": "Boarding device",
+   "label": "2.30",
+   "definition": "A device to facilitate wheelchair access to vehicles, such as lifts or ramps."
+  },
+  {
+   "term": "Kneeling system",
+   "label": "2.31",
+   "definition": "A system which lowers and lifts totally or partially the vehicle body relative to the normal travel position."
+  },
+  {
+   "term": "Lift",
+   "label": "2.32",
+   "definition": "A device or system with a platform raised and lowered to give access between the passenger compartment floor and the ground or kerb."
+  },
+  {
+   "term": "Ramp",
+   "label": "2.33",
+   "definition": "A device bridging the gap between the passenger compartment floor and the ground or kerb, including any surface over which a wheelchair travels when deployed."
+  },
+  {
+   "term": "Portable ramp",
+   "label": "2.34",
+   "definition": "A ramp detachable from the vehicle structure and deployable by the driver or crew member."
+  },
+  {
+   "term": "Demountable seat",
+   "label": "2.35",
+   "definition": "A seat that can be easily detached from the vehicle."
+  },
+  {
+   "term": "Intercommunication staircase",
+   "label": "2.37",
+   "definition": "A staircase allowing communication between the upper and lower decks."
+  },
+  {
+   "term": "Separate compartment",
+   "label": "2.38",
+   "definition": "A space occupied by passengers or crew in use which is separated from other passenger or crew spaces."
+  },
+  {
+   "term": "Half staircase",
+   "label": "2.39",
+   "definition": "A staircase from the upper deck which terminates in an emergency door."
+  },
+  {
+   "term": "Service-door lighting",
+   "label": "2.40",
+   "definition": "Lighting device(s) designed to illuminate the exterior vicinity of service doors and wheels."
+  },
+  {
+   "term": "Overnight locking system",
+   "label": "2.41",
+   "definition": "A system to secure the service and emergency doors of the vehicle against opening."
+  },
+  {
+   "term": "Emergency lighting system",
+   "label": "2.42",
+   "definition": "A system providing minimum lighting to enable occupants to safely egress the vehicle, including the emergency exits."
+  },
+  {
+   "term": "Safety sign",
+   "label": "2.43",
+   "definition": "A configuration of visual elements intended to convey a safety-related message."
+  },
+  {
+   "term": "Visual contrast",
+   "label": "2.44",
+   "definition": "The brightness (luminance) ratio between an object and its immediate background allowing it to be distinguished."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Class I",
+   "distinguished_by": ">22 passengers, standing areas for frequent passenger movement (city buses)"
+  },
+  {
+   "name": "Class II",
+   "distinguished_by": ">22 passengers, principally seated, limited standing in gangway/area of two double seats"
+  },
+  {
+   "name": "Class III",
+   "distinguished_by": ">22 passengers, seated passengers only (coaches)"
+  },
+  {
+   "name": "Class A",
+   "distinguished_by": "≤22 passengers, with provision for standing passengers"
+  },
+  {
+   "name": "Class B",
+   "distinguished_by": "≤22 passengers, no provision for standing passengers"
+  },
+  {
+   "name": "Single-deck / double-deck / articulated / low-floor bodywork concepts",
+   "distinguished_by": "bodywork concept, a criterion of vehicle and bodywork type"
+  },
+  {
+   "name": "Trolleybus (incl. dual mode and guided)",
+   "distinguished_by": "electric drive from overhead contact wires; additional Annex 12 requirements"
+  },
+  {
+   "name": "Vehicle without roof",
+   "distinguished_by": "no roof over all or part of (upper) deck; no standing passengers there"
+  },
+  {
+   "name": "Vehicle type / bodywork type (separate technical unit, mark letter S) / vehicle with approved bodywork / fire suppression system type (component)",
+   "distinguished_by": "object of approval under paragraph 3.1"
+  },
+  {
+   "name": "Fire suppression system approved as component vs. installed in a specific engine compartment",
+   "distinguished_by": "Annex 13 Part 1 (standard test apparatus) vs. Part 2 (specific engine compartment)"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "Vehicle",
+    "exclusions (prisoner transport, ambulances, off-road, school buses)",
+    "route/destination displays"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Class I",
+    "Class II",
+    "Class III",
+    "Class A",
+    "Class B",
+    "Bodywork",
+    "Fire suppression system type",
+    "Trolleybus"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "Bodywork",
+    "Separate technical unit",
+    "Fire suppression system type"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "approval mark",
+    "Class symbol",
+    "letter S for bodywork",
+    "fire suppression system marking"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Requirements",
+   "about": [
+    "reference to Annex 3 and other annexes"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Modification and extension of approval of a vehicle or bodywork type",
+   "about": [
+    "Bodywork"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Conformity of production",
+   "about": []
+  },
+  {
+   "label": "8",
+   "title": "Penalties for non-conformity of production",
+   "about": []
+  },
+  {
+   "label": "9",
+   "title": "Production definitively discontinued",
+   "about": []
+  },
+  {
+   "label": "10",
+   "title": "Transitional provisions",
+   "about": []
+  },
+  {
+   "label": "11",
+   "title": "Names and addresses of Technical Services and Type Approval Authorities",
+   "about": []
+  },
+  {
+   "label": "12",
+   "title": "Reserved",
+   "about": []
+  },
+  {
+   "label": "Annex 1 Part 1",
+   "title": "Information documents (Appendix 1 vehicle, 2 bodywork, 3 vehicle with approved bodywork, 4 fire suppression system)",
+   "about": [
+    "Bodywork",
+    "Fire suppression system type",
+    "Trolleybus",
+    "current collector"
+   ]
+  },
+  {
+   "label": "Annex 1 Part 2",
+   "title": "Communication forms (Appendices 1-4)",
+   "about": [
+    "Bodywork",
+    "Fire suppression system type",
+    "Trolleybus"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Arrangements of the approval marks",
+   "about": [
+    "approval mark"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Requirements to be met by all vehicles",
+   "about": [
+    "general construction requirements"
+   ]
+  },
+  {
+   "label": "Annex 3 7.2",
+   "title": "Masses and dimensions",
+   "about": [
+    "passenger capacity",
+    "mass distribution"
+   ]
+  },
+  {
+   "label": "Annex 3 7.3",
+   "title": "Prevention of accidents",
+   "about": [
+    "Floor",
+    "Gangway"
+   ]
+  },
+  {
+   "label": "Annex 3 7.4",
+   "title": "Stability test",
+   "about": [
+    "tilt stability",
+    "calculation method (appendix)"
+   ]
+  },
+  {
+   "label": "Annex 3 7.5",
+   "title": "Protection against fire risks",
+   "about": [
+    "engine compartment",
+    "fire detection",
+    "Fire suppression system type",
+    "electrical equipment"
+   ]
+  },
+  {
+   "label": "Annex 3 7.6",
+   "title": "Exits",
+   "about": [
+    "Service door",
+    "Power-operated service door",
+    "Automatically-operated service door",
+    "Starting prevention device",
+    "Emergency door",
+    "Emergency window",
+    "Escape hatch",
+    "Overnight locking system",
+    "Safety sign"
+   ]
+  },
+  {
+   "label": "Annex 3 7.7",
+   "title": "Interior arrangements",
+   "about": [
+    "Access passage",
+    "Gangway",
+    "Intercommunication staircase",
+    "Half staircase",
+    "passenger seats",
+    "Driver's compartment",
+    "steps",
+    "communication with driver"
+   ]
+  },
+  {
+   "label": "Annex 3 7.8",
+   "title": "Artificial interior lighting",
+   "about": [
+    "Emergency lighting system",
+    "Service-door lighting"
+   ]
+  },
+  {
+   "label": "Annex 3 7.9",
+   "title": "Articulated section of articulated vehicles",
+   "about": [
+    "Articulated vehicle"
+   ]
+  },
+  {
+   "label": "Annex 3 7.11",
+   "title": "Handrails and handholds",
+   "about": [
+    "handrails",
+    "handholds"
+   ]
+  },
+  {
+   "label": "Annex 3 7.12",
+   "title": "Guarding of step wells and exposed seats",
+   "about": [
+    "guards"
+   ]
+  },
+  {
+   "label": "Annex 3 7.14",
+   "title": "Trap doors, if fitted",
+   "about": [
+    "trap doors"
+   ]
+  },
+  {
+   "label": "Annex 3 7.15",
+   "title": "Visual entertainment",
+   "about": [
+    "screens/monitors for passengers"
+   ]
+  },
+  {
+   "label": "Annex 3 7.16",
+   "title": "Trolleybuses",
+   "about": [
+    "Trolleybus"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Figures (access to doors, gauges, seats, steps, gangways)",
+   "about": [
+    "Service door",
+    "Access passage",
+    "Gangway",
+    "passenger seats"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Determination of visual contrast",
+   "about": [
+    "Visual contrast",
+    "Reflectance",
+    "Safety sign"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Closing forces of power-operated doors and reactive forces of power-operated ramps",
+   "about": [
+    "Power-operated service door",
+    "Ramp"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Requirements for vehicles of Classes A and B",
+   "about": [
+    "Class A",
+    "Class B"
+   ]
+  },
+  {
+   "label": "Annex 8",
+   "title": "Accessibility provisions for passengers with reduced mobility",
+   "about": [
+    "Passenger with reduced mobility",
+    "Low floor vehicle"
+   ]
+  },
+  {
+   "label": "Annex 8 3.2",
+   "title": "Priority seats and space for passengers with reduced mobility",
+   "about": [
+    "Priority seat"
+   ]
+  },
+  {
+   "label": "Annex 8 3.3",
+   "title": "Communication devices",
+   "about": [
+    "passenger communication devices"
+   ]
+  },
+  {
+   "label": "Annex 8 3.4",
+   "title": "Handrails to priority seating",
+   "about": [
+    "Priority seat",
+    "handrails"
+   ]
+  },
+  {
+   "label": "Annex 8 3.6",
+   "title": "Wheelchair accommodation provisions",
+   "about": [
+    "Wheelchair user",
+    "wheelchair space"
+   ]
+  },
+  {
+   "label": "Annex 8 3.7",
+   "title": "Seats and standing passengers in the wheelchair space",
+   "about": [
+    "Demountable seat",
+    "wheelchair space"
+   ]
+  },
+  {
+   "label": "Annex 8 3.8",
+   "title": "Stability of wheelchairs",
+   "about": [
+    "wheelchair restraint system",
+    "backrest/rearward-facing wheelchair space"
+   ]
+  },
+  {
+   "label": "Annex 8 3.9",
+   "title": "Door controls",
+   "about": [
+    "Service door",
+    "door controls"
+   ]
+  },
+  {
+   "label": "Annex 8 3.10",
+   "title": "Provisions for the accommodation of unfolded prams and pushchairs",
+   "about": [
+    "prams and pushchairs"
+   ]
+  },
+  {
+   "label": "Annex 8 3.11",
+   "title": "Provisions for boarding devices",
+   "about": [
+    "Boarding device",
+    "Lift",
+    "Ramp",
+    "Portable ramp",
+    "Kneeling system"
+   ]
+  },
+  {
+   "label": "Annex 10",
+   "title": "Approval of bodywork as separate technical unit and of vehicles fitted with approved bodywork",
+   "about": [
+    "Bodywork",
+    "Separate technical unit"
+   ]
+  },
+  {
+   "label": "Annex 11",
+   "title": "Masses and dimensions",
+   "about": [
+    "mass distribution",
+    "marking of vehicles",
+    "manoeuvrability"
+   ]
+  },
+  {
+   "label": "Annex 12",
+   "title": "Special provisions for electrical safety of trolleybuses",
+   "about": [
+    "Trolleybus",
+    "current collection",
+    "traction and auxiliary equipment",
+    "wiring and apparatus",
+    "electrical safety of passengers and crew",
+    "Driver's compartment"
+   ]
+  },
+  {
+   "label": "Annex 13 Part 1",
+   "title": "Test of fire suppression system approved as component (test apparatus)",
+   "about": [
+    "Fire suppression system type",
+    "high-load fire",
+    "low-load fire",
+    "high-load fire with fan",
+    "re-ignition test"
+   ]
+  },
+  {
+   "label": "Annex 13 Part 2",
+   "title": "Test of fire suppression system in a specific engine compartment",
+   "about": [
+    "Fire suppression system type",
+    "high-load fire",
+    "low-load fire",
+    "re-ignition test"
+   ]
+  },
+  {
+   "label": "Annex 13 Appendices 1-5",
+   "title": "Test apparatus, test fires and installation of the fire suppression system",
+   "about": [
+    "Fire suppression system type",
+    "test apparatus",
+    "pool fire trays",
+    "propane burner"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Engine compartment fire detection/suppression systems can be type-approved separately as components under R107 (Annex 13) and must bear an R107 approval mark on their main part.",
+  "A bus bodywork can be approved as a separate technical unit (mark with letter S) only for specified vehicle (chassis) types; the assembler of chassis plus approved bodywork is the manufacturer.",
+  "Wheelchair lifts, ramps (incl. portable ramps) and kneeling systems are covered via Annex 8 and the reactive-force tests of Annex 6.",
+  "Power-operated and automatic service doors, their controls, starting prevention devices, closing-force/anti-trap behaviour and overnight locking systems are covered by Annex 3 7.6 and Annex 6.",
+  "Interior lighting, emergency lighting systems, service-door lighting and safety signs/markings (visual contrast, Annex 5) fall under R107 installation requirements.",
+  "Passenger seats, priority seats, demountable seats, handrails, handholds, step-well guards, trap doors and passenger entertainment screens are addressed by Annex 3 / Annex 8.",
+  "Wheelchair restraint arrangements and pram/pushchair spaces are addressed in Annex 8.",
+  "Trolleybus current collectors, traction and auxiliary electrical equipment and wiring are subject to Annex 12.",
+  "Excluded: prisoner transport vehicles, ambulances, off-road vehicles and vehicles specially designed for school children; police/armed-forces vehicles and stationary-use vehicles (e.g. mobile libraries) only as compatible with use.",
+  "Route/destination display equipment is not regulated by R107 (national requirements allowed).",
+  "Superstructure (roll-over strength) is defined here but tested under a separate regulation."
+ ],
+ "version": "11.1.0"
+}

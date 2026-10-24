@@ -1,0 +1,439 @@
+{
+ "regulation": "UN R37 (version 3.48.0)",
+ "title": "Uniform provisions concerning the approval of filament light sources and LED replacement light sources for use in approved lamps of power-driven vehicles and of their trailers",
+ "subject_kind": "component",
+ "scope_summary": "R37 approves types of standardised filament (incandescent, including halogen) light sources and their LED replacement light sources (LEDr) belonging to the categories listed in Annex 1. These light sources are intended for use in approved lamps of power-driven vehicles and their trailers.",
+ "scope_quote": "This Regulation applies to filament light sources and their LED replacement light sources shown in Annex 1 and intended for use in approved lamps of power-driven vehicles and of their trailers.",
+ "vehicle_categories": [
+  "Power-driven vehicles (categories not restricted, e.g. L, M, N, T)",
+  "Trailers of power-driven vehicles (e.g. O)"
+ ],
+ "applies_to_components": [
+  "Filament light sources (incandescent technology), including halogen filament light sources",
+  "Dual-filament light sources",
+  "Filament light sources emitting white, selective-yellow, amber or red light (coloured or coated bulbs)",
+  "Standard (étalon) filament light sources",
+  "LED replacement light sources (LEDr) of standardised categories",
+  "High-efficiency LED replacement light sources",
+  "AE devices (Additional Electronics devices) supplied with LED replacement light sources",
+  "Light source caps (IEC 60061), including oversize caps of LEDr",
+  "Packaging and instructions of LED replacement light sources"
+ ],
+ "relation_to_other_regulations": [
+  "Definitions of Resolution R.E.5 (incl. AE device) apply (para. 2.1); filament/LEDr category data sheets, lists and groups are given in Annex 1, which since 22.06.2017 refers to the consolidated light source category sheets in the Resolution",
+  "Technical definitions of Resolution R.E.4 (common specification of light source categories) apply (para. 3.1)",
+  "Colour definitions of UN Regulation No. 48 apply (paras. 3.3.3.2, 3.4.5.1)",
+  "LED replacement light sources must meet the ESA requirements of UN Regulation No. 10 (EMC) (para. 3.4.7.3)",
+  "Optical quality of filament light sources with internal shield is checked in a standard headlamp against the passing-beam requirements of 'the relevant' headlamp Regulation (para. 3.3.6)",
+  "Caps must comply with IEC Publication 60061 cap data sheets; signalling filament light sources must meet para. 4.4.2 of IEC 60809 Ed. 3",
+  "Distinguishing numbers of Contracting Parties per R.E.3; approval number per 1958 Agreement Rev.3 Schedule 4",
+  "Light sources are for use in lamps approved under the respective lamp regulations; installation on vehicles is governed by the installation regulations (e.g. R48), not R37"
+ ],
+ "defined_terms": [
+  {
+   "term": "category",
+   "label": "Light source category",
+   "definition": "Different basic design of standardised filament light sources (incandescent) or LED replacement light sources (LED technology), each with a specific designation such as H4, P21W, T4W, PY21W or RR10W."
+  },
+  {
+   "term": "LED replacement light source category",
+   "label": "LEDr category",
+   "definition": "A distinct category bearing the same designation as its counterpart filament light source category, designed to replace it with equivalent performance using LED technology, described in a separate data sheet in Annex 1."
+  },
+  {
+   "term": "type (filament light source)",
+   "label": "Filament light source type",
+   "definition": "Filament light sources within the same category differing in trade name/mark, bulb and/or cap design affecting optical results, rated voltage, or halogen."
+  },
+  {
+   "term": "type (LED replacement light source)",
+   "label": "LEDr type",
+   "definition": "LED replacement light sources within the same category differing in trade name/mark, light source design affecting optical results, rated voltage, high-efficiency, particular electrical polarity, or oversize cap."
+  },
+  {
+   "term": "filament light source",
+   "label": "Filament light source",
+   "definition": "Light source in which the filament(s) are the only element(s) that generate and emit light when energized."
+  },
+  {
+   "term": "LED replacement light source",
+   "label": "LEDr",
+   "definition": "Light source in which solid-state junction(s), possibly with fluorescence-based conversion elements, are the only elements generating light, replacing a counterpart filament light source category; marked 'LEDr'."
+  },
+  {
+   "term": "high-efficiency LED replacement light source",
+   "label": "High-efficiency LEDr",
+   "definition": "LEDr whose electrical current at test voltage is below the objective minimum current of the data sheet (without or with disconnected AE device), marked with the character 'ͰE'."
+  },
+  {
+   "term": "AE device",
+   "label": "Additional Electronics device",
+   "definition": "Optional additional electronics device (as defined in R.E.5) supplied for listed vehicle applications of an LEDr, bearing a specific identification code starting with 'Æ'."
+  },
+  {
+   "term": "specific identification code",
+   "label": "AE device identification code",
+   "definition": "Code of an AE device comprising 'Æ', the approval country number and the approval code of the LEDr with which it has been approved."
+  },
+  {
+   "term": "particular electrical polarity",
+   "label": "Polarity-dependent LEDr",
+   "definition": "LEDr that operates in only one electrical position, to be marked '+'/'―' at the terminals if it can be inserted in more than one position."
+  },
+  {
+   "term": "oversize cap",
+   "label": "Oversize cap",
+   "definition": "LEDr cap whose dimensions not relevant for interchangeability exceed the IEC 60061 cap sheet within maximum deviations allowed in the category data sheet."
+  },
+  {
+   "term": "halogen filament light source",
+   "label": "Halogen / UV-compliant ('U')",
+   "definition": "Halogen filament light source subject to the UV radiation limit of para. 3.3.4 and marked 'U' when complying."
+  },
+  {
+   "term": "selective-yellow filament light source",
+   "label": "Selective-yellow",
+   "definition": "Filament light source with a selective-yellow bulb or outer bulb solely changing the colour of a white-light source, which does not constitute a change of type."
+  },
+  {
+   "term": "dual-filament light source",
+   "label": "Dual-filament",
+   "definition": "Filament light source with two filaments (high/low wattage), each aged and assessed separately."
+  },
+  {
+   "term": "line filament (axial / transverse)",
+   "label": "Line filament",
+   "definition": "Filament whose length is determined by the apices of its first and last turns, measured parallel (axial) or perpendicular (transverse) to the reference axis."
+  },
+  {
+   "term": "standard (étalon) filament light source",
+   "label": "Étalon light source",
+   "definition": "Filament light source with additional tighter requirements per Annex 1 data sheets, used for photometric testing of lamps."
+  },
+  {
+   "term": "standard headlamp",
+   "label": "Standard headlamp",
+   "definition": "Approved headlamp of effective diameter ≥160 mm which with a standard filament light source gives ≤90 % of maximum and ≥120 % of minimum limits, used for optical quality checks."
+  },
+  {
+   "term": "low UV type",
+   "label": "Low UV LEDr",
+   "definition": "LED replacement light source whose weighted UV radiation complies with the kUV limit of para. 3.4.6."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Filament light source vs LED replacement light source",
+   "distinguished_by": "Light producing technology (incandescent vs LED); always different types even with the same category designation"
+  },
+  {
+   "name": "Halogen vs non-halogen filament light sources",
+   "distinguished_by": "Halogen fill; halogen types subject to UV requirement and 'U' marking"
+  },
+  {
+   "name": "Colour variants (white, selective-yellow, amber, red)",
+   "distinguished_by": "Colour specified in category data sheet; selective-yellow needs ≥85 % of white flux"
+  },
+  {
+   "name": "Rated voltage variants (6 V, 12 V, 24 V)",
+   "distinguished_by": "Rated voltage; different types and different optical quality tolerances"
+  },
+  {
+   "name": "Single- vs dual-filament",
+   "distinguished_by": "Number of filaments/functions"
+  },
+  {
+   "name": "Filament light sources with internal shield (cut-off)",
+   "distinguished_by": "Internal shield producing cut-off; subject to optical quality check in a standard headlamp"
+  },
+  {
+   "name": "Standard (étalon) vs production filament light sources",
+   "distinguished_by": "Additional data sheet requirements for étalon use"
+  },
+  {
+   "name": "High-efficiency LEDr",
+   "distinguished_by": "Current below data sheet objective minimum; 'ͰE' marking; cap temperature not measured"
+  },
+  {
+   "name": "LEDr with AE device",
+   "distinguished_by": "Includes Additional Electronics device for listed applications; ISO 7000-1641 symbol, packaging instructions and website listing"
+  },
+  {
+   "name": "LEDr with particular electrical polarity",
+   "distinguished_by": "Operates in only one polarity; '+'/'―' marking"
+  },
+  {
+   "name": "LEDr with oversize cap",
+   "distinguished_by": "Cap dimensions exceeding IEC 60061 within data-sheet limits; ISO 7000-919 symbol with '!'"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "filament light source",
+    "LED replacement light source"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Administrative provisions",
+   "about": [
+    "category",
+    "type (filament light source)",
+    "type (LED replacement light source)"
+   ]
+  },
+  {
+   "label": "2.1",
+   "title": "Definitions",
+   "about": [
+    "category",
+    "LED replacement light source category",
+    "type (filament light source)",
+    "type (LED replacement light source)",
+    "selective-yellow filament light source",
+    "AE device"
+   ]
+  },
+  {
+   "label": "2.2",
+   "title": "Application for approval",
+   "about": [
+    "high-efficiency LED replacement light source",
+    "AE device",
+    "particular electrical polarity",
+    "oversize cap"
+   ]
+  },
+  {
+   "label": "2.3",
+   "title": "Inscriptions",
+   "about": [
+    "halogen filament light source",
+    "LED replacement light source",
+    "high-efficiency LED replacement light source",
+    "AE device",
+    "specific identification code",
+    "particular electrical polarity",
+    "oversize cap"
+   ]
+  },
+  {
+   "label": "2.4",
+   "title": "Approval",
+   "about": [
+    "approval code",
+    "approval mark",
+    "selective-yellow filament light source"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Technical requirements",
+   "about": [
+    "filament light source",
+    "LED replacement light source"
+   ]
+  },
+  {
+   "label": "3.2",
+   "title": "General specifications",
+   "about": [
+    "filament light source",
+    "LED replacement light source",
+    "oversize cap"
+   ]
+  },
+  {
+   "label": "3.3",
+   "title": "Filament light sources (incandescent technology)",
+   "about": [
+    "filament light source",
+    "dual-filament light source",
+    "line filament (axial / transverse)"
+   ]
+  },
+  {
+   "label": "3.3.4",
+   "title": "UV radiation",
+   "about": [
+    "halogen filament light source"
+   ]
+  },
+  {
+   "label": "3.3.5",
+   "title": "Observation concerning selective-yellow colour",
+   "about": [
+    "selective-yellow filament light source"
+   ]
+  },
+  {
+   "label": "3.3.6",
+   "title": "Check on optical quality",
+   "about": [
+    "standard headlamp",
+    "filament light sources with internal shield"
+   ]
+  },
+  {
+   "label": "3.3.7",
+   "title": "Standard filament light sources",
+   "about": [
+    "standard (étalon) filament light source"
+   ]
+  },
+  {
+   "label": "3.4",
+   "title": "LED replacement light sources (LED technology)",
+   "about": [
+    "LED replacement light source"
+   ]
+  },
+  {
+   "label": "3.4.6",
+   "title": "UV-radiation",
+   "about": [
+    "low UV type"
+   ]
+  },
+  {
+   "label": "3.4.7",
+   "title": "Electrical characteristics",
+   "about": [
+    "high-efficiency LED replacement light source",
+    "AE device",
+    "LED replacement light source (ESA per R10)"
+   ]
+  },
+  {
+   "label": "3.4.8",
+   "title": "Cap temperature",
+   "about": [
+    "LED replacement light source",
+    "high-efficiency LED replacement light source"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Requirements to the packaging of LED replacement light sources",
+   "about": [
+    "LED replacement light source",
+    "AE device",
+    "high-efficiency LED replacement light source",
+    "particular electrical polarity",
+    "oversize cap"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Conformity of production",
+   "about": [
+    "filament light source",
+    "LED replacement light source"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Penalties for non-conformity of production",
+   "about": []
+  },
+  {
+   "label": "7",
+   "title": "Production definitively discontinued",
+   "about": []
+  },
+  {
+   "label": "8",
+   "title": "Names and addresses of the Technical Services and Type Approval Authorities",
+   "about": []
+  },
+  {
+   "label": "9",
+   "title": "Transitional provisions",
+   "about": []
+  },
+  {
+   "label": "Annex 1",
+   "title": "Sheets for filament light sources and LED replacement light sources (categories, lists and groups)",
+   "about": [
+    "category",
+    "LED replacement light source category",
+    "standard (étalon) filament light source"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Communication concerning approval of a type of light source",
+   "about": []
+  },
+  {
+   "label": "Annex 3",
+   "title": "Examples of arrangement of the approval mark and specific identification code",
+   "about": [
+    "specific identification code",
+    "AE device"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Luminous centre and shapes of filaments",
+   "about": [
+    "filament light source",
+    "line filament (axial / transverse)"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Checking the colour of filament light sources",
+   "about": [
+    "filament light source",
+    "selective-yellow filament light source"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Test conditions for LED replacement light sources (luminous flux, intensity/cumulative flux distribution, colour, power, current, cap temperature)",
+   "about": [
+    "LED replacement light source"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Minimum requirements for conformity of production checks by the manufacturer",
+   "about": [
+    "filament light source",
+    "LED replacement light source"
+   ]
+  },
+  {
+   "label": "Annex 8",
+   "title": "Grouping of characteristics and test records for conformity of production",
+   "about": []
+  },
+  {
+   "label": "Annex 9",
+   "title": "Minimum requirements for sampling by an inspector",
+   "about": []
+  },
+  {
+   "label": "Annex 10",
+   "title": "Compliance verified by sampling (approval/disapproval tables)",
+   "about": []
+  }
+ ],
+ "applicability_hints": [
+  "Applies only to light sources of categories listed in Annex 1 (via the R.E. category sheets); light sources of other categories or technologies (e.g. gas-discharge, LED light sources of their own categories, non-replaceable sources) are not covered here.",
+  "Covers both headlamp/front-lighting bulbs (e.g. H1, H4, H7, H11) and signalling bulbs (e.g. P21W, PY21W, W5W, T4W, R10W), including small wedge/festoon bulbs.",
+  "An aftermarket LED retrofit bulb can only be approved under R37 as an 'LEDr' if an LED replacement category data sheet exists for that designation; it must be of the same cap designation and meet the counterpart's performance.",
+  "LED replacement light sources are themselves ESAs and must meet UN R10 EMC requirements.",
+  "Adapters, CANbus decoders or load modules supplied with LEDr fall under R37 as AE devices and must be marked with an 'Æ' identification code tied to the LEDr approval.",
+  "Packaging and consumer instructions (website vehicle-applicability listing, warnings) of LEDr are regulated, not just the product.",
+  "A selective-yellow bulb or outer bulb on an otherwise white filament source is not a new type and may share the same approval code.",
+  "Standard (étalon) filament light sources used by labs to test lamps also fall under R37 with additional requirements.",
+  "Coated/coloured bulbs (amber, red, selective-yellow) are covered, with a solvent-wipe test for coated bulbs.",
+  "The regulation approves the light source as a component; its use in a lamp is governed by the lamp approval and vehicle installation regulations."
+ ],
+ "version": "3.48.0"
+}

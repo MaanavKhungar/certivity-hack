@@ -1,0 +1,376 @@
+{
+ "regulation": "UN R171",
+ "title": "Uniform provisions concerning the approval of vehicles with regard to their Driver Control Assistance System (DCAS), version 1.1.0",
+ "subject_kind": "vehicle_system",
+ "scope_summary": "UN R171 approves vehicle types with regard to their Driver Control Assistance System (DCAS). A DCAS is an SAE level 2 system that gives sustained combined lateral and longitudinal motion-control support while the driver stays responsible, and the regulation covers motor vehicles of categories M and N (scope paragraph not reproduced in the supplied excerpt).",
+ "scope_quote": "This UN Regulation addresses the Driver Control Assistance Systems (DCAS), which are a subset of ADAS. DCAS are driver-operated vehicle systems assisting a human driver in performing vehicle dynamic control via sustained lateral and longitudinal motion-control support. ... this UN Regulation intends to establish technologically neutral uniform and general provisions concerning the approval of vehicles equipped with DCAS that may function beyond the limitations imposed by the 03 series of amendments to UN Regulation No. 79",
+ "vehicle_categories": [
+  "M",
+  "N"
+ ],
+ "applies_to_components": [
+  "Driver Control Assistance System (DCAS) as a whole (hardware and software)",
+  "DCAS features (e.g. lane keeping / positioning in lane, lane change, other manoeuvres)",
+  "sustained lateral control (steering) function",
+  "sustained longitudinal control (acceleration/braking) function",
+  "environment perception / detection capability (sensors) of the DCAS",
+  "driver monitoring / driver engagement and availability detection",
+  "Human-Machine Interface (HMI): activation, deactivation, override, status indication, warnings",
+  "system failure detection and safety response",
+  "manoeuvre initiation logic (driver-initiated, driver-confirmed, system-initiated)",
+  "in-service monitoring and reporting of DCAS operation",
+  "electronic control system safety concept and documentation",
+  "simulation/virtual testing toolchain used for compliance evidence"
+ ],
+ "relation_to_other_regulations": [
+  "Allows approval of DCAS functioning beyond the limitations of the 03 series of amendments to UN Regulation No. 79 (steering equipment / ACSF); it fills a regulatory gap and does not formally replace R79.",
+  "Paragraph 5.2 regulates interaction with other vehicle assistance systems; based on general knowledge, these likely include systems under R79 (LKA/ESF/ACSF), R152 (AEBS) and R131 (AEBS heavy vehicles).",
+  "The communication form (Annex 1) references cyber security and software updates; based on general knowledge, these correspond to UN R155 and UN R156.",
+  "Annex 3 sets special requirements for the safety aspects of electronic control systems, analogous to the complex electronic systems annexes of other UN Regulations (e.g. R79 Annex 6).",
+  "Distinguished from Automated Driving Systems of SAE levels 3 to 5 (e.g. UN R157 ALKS); DCAS are SAE level 2 according to SAE J3016 / ECE/TRANS/WP29/1140.",
+  "Contains an information sharing scheme between approval authorities using DETA."
+ ],
+ "defined_terms": [
+  {
+   "term": "ADAS",
+   "label": "Advanced Driver Assistance Systems",
+   "definition": "Systems supporting drivers through information, warnings and assistance with lateral and/or longitudinal control, temporarily or on a sustained basis, with the driver remaining responsible."
+  },
+  {
+   "term": "DCAS",
+   "label": "Driver Control Assistance System",
+   "definition": "A driver-operated vehicle system (subset of ADAS) assisting a human driver in performing vehicle dynamic control via sustained lateral and longitudinal motion-control support."
+  },
+  {
+   "term": "DCAS feature",
+   "label": "DCAS feature",
+   "definition": "A specific driver control assistance function of the DCAS (e.g. lane positioning, lane change, other manoeuvre) with its own operating conditions."
+  },
+  {
+   "term": "System boundaries",
+   "label": "System boundaries",
+   "definition": "The conditions within which the DCAS is designed to operate and provide assistance, which constrain its availability and capability."
+  },
+  {
+   "term": "SAE level 2",
+   "label": "Partial automation",
+   "definition": "Systems capable of performing only parts of vehicle dynamic control, requiring the driver to perform the remainder and to supervise system operation and environment."
+  },
+  {
+   "term": "SAE level 1",
+   "label": "Driver assistance",
+   "definition": "The degraded state in which the DCAS provides only longitudinal or only lateral control."
+  },
+  {
+   "term": "System-initiated manoeuvre",
+   "label": "System-initiated manoeuvre",
+   "definition": "A manoeuvre (e.g. lane change) initiated by the DCAS itself without a prior driver request."
+  },
+  {
+   "term": "Driver-initiated manoeuvre",
+   "label": "Driver-initiated manoeuvre",
+   "definition": "A manoeuvre initiated by a deliberate driver action and then executed with DCAS assistance."
+  },
+  {
+   "term": "Driver-confirmed manoeuvre",
+   "label": "Driver-confirmed manoeuvre",
+   "definition": "A manoeuvre proposed by the system that is executed only after confirmation by the driver."
+  },
+  {
+   "term": "Lane change manoeuvre",
+   "label": "Lane change",
+   "definition": "A manoeuvre moving the vehicle from the lane of travel into an adjacent lane, assisted by the DCAS."
+  },
+  {
+   "term": "Driver disengagement",
+   "label": "Driver disengagement",
+   "definition": "A state in which the driver is not sufficiently engaged in the driving task (e.g. visually or by hands), to be detected and countered by the DCAS."
+  },
+  {
+   "term": "Override",
+   "label": "Driver override",
+   "definition": "Driver input on the controls that takes precedence over DCAS control."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Positioning in the lane of travel (lane keeping/centering)",
+   "distinguished_by": "DCAS feature type: lateral positioning within the current lane (para 6.1)"
+  },
+  {
+   "name": "Lane change assistance",
+   "distinguished_by": "DCAS feature type: assisted lane change (para 6.2)"
+  },
+  {
+   "name": "Other manoeuvres than lane change",
+   "distinguished_by": "DCAS feature type: other driver- or system-initiated manoeuvres (para 6.3)"
+  },
+  {
+   "name": "Driver-initiated / driver-confirmed / system-initiated manoeuvres",
+   "distinguished_by": "Who initiates or confirms the manoeuvre"
+  },
+  {
+   "name": "Hands-on vs hands-off operation",
+   "distinguished_by": "Whether the driver must keep hands on the steering control while the feature is active (driver engagement requirements in HMI section)"
+  },
+  {
+   "name": "SAE level 2 vs degraded level 1",
+   "distinguished_by": "Combined lateral and longitudinal control vs only one of them"
+  }
+ ],
+ "sections": [
+  {
+   "label": "Introduction",
+   "title": "Introduction (paras 1-17)",
+   "about": [
+    "ADAS",
+    "DCAS",
+    "SAE level 2",
+    "SAE level 1",
+    "System boundaries",
+    "overreliance",
+    "driver information",
+    "marketing"
+   ]
+  },
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "DCAS",
+    "vehicle categories M and N"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "DCAS",
+    "DCAS feature",
+    "System boundaries",
+    "System-initiated manoeuvre",
+    "Driver-initiated manoeuvre",
+    "Driver-confirmed manoeuvre"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "documentation of DCAS"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "approval mark",
+    "approval number"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "General specifications",
+   "about": [
+    "DCAS"
+   ]
+  },
+  {
+   "label": "5.1",
+   "title": "General Requirements",
+   "about": [
+    "DCAS",
+    "System boundaries"
+   ]
+  },
+  {
+   "label": "5.2",
+   "title": "DCAS interaction with other vehicle assistance systems",
+   "about": [
+    "ADAS",
+    "DCAS"
+   ]
+  },
+  {
+   "label": "5.3",
+   "title": "Functional requirements",
+   "about": [
+    "DCAS feature",
+    "longitudinal control",
+    "lateral control",
+    "response to other road users",
+    "traffic rules"
+   ]
+  },
+  {
+   "label": "5.4",
+   "title": "System safety response to detected failures",
+   "about": [
+    "failure detection",
+    "DCAS"
+   ]
+  },
+  {
+   "label": "5.5",
+   "title": "Human-Machine Interface (HMI)",
+   "about": [
+    "activation/deactivation",
+    "Override",
+    "Driver disengagement",
+    "warnings",
+    "hands-on/hands-off"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Specific requirements for DCAS features",
+   "about": [
+    "DCAS feature"
+   ]
+  },
+  {
+   "label": "6.1",
+   "title": "Specific requirements for positioning in the lane of travel",
+   "about": [
+    "Positioning in the lane of travel"
+   ]
+  },
+  {
+   "label": "6.2",
+   "title": "Specific Requirements for lane changes",
+   "about": [
+    "Lane change manoeuvre",
+    "Driver-initiated manoeuvre",
+    "Driver-confirmed manoeuvre",
+    "System-initiated manoeuvre"
+   ]
+  },
+  {
+   "label": "6.3",
+   "title": "Specific requirements for other manoeuvres other than a lane change",
+   "about": [
+    "System-initiated manoeuvre",
+    "Driver-initiated manoeuvre"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Monitoring and reporting of DCAS operation",
+   "about": [
+    "in-service monitoring"
+   ]
+  },
+  {
+   "label": "7.1",
+   "title": "Monitoring of DCAS Operation",
+   "about": [
+    "in-service data collection"
+   ]
+  },
+  {
+   "label": "7.2",
+   "title": "Reporting of DCAS operation",
+   "about": [
+    "reporting to approval authority"
+   ]
+  },
+  {
+   "label": "8-14",
+   "title": "Remaining administrative provisions (e.g. information/description of the DCAS, modification and extension of approval, conformity of production, penalties, production discontinued, technical services); titles not given in the supplied table of contents",
+   "about": [
+    "administrative"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication (approval form)",
+   "about": [
+    "vehicle type",
+    "DCAS description",
+    "cyber security and software updates",
+    "electronic control systems",
+    "R171SWIN"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Arrangement of approval marks",
+   "about": [
+    "approval mark"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Special requirements for documentation, safety by design and verification of DCAS (electronic control systems)",
+   "about": [
+    "safety concept",
+    "Safety Management System",
+    "system layout",
+    "verification and test",
+    "System boundaries",
+    "detection capabilities",
+    "declared system capabilities"
+   ]
+  },
+  {
+   "label": "Annex 3 Appendix 2",
+   "title": "Summary of system design aspects",
+   "about": [
+    "HMI",
+    "System boundaries",
+    "system operation",
+    "DCAS feature"
+   ]
+  },
+  {
+   "label": "Annex 3 Appendix 3",
+   "title": "Detection capabilities of DCAS",
+   "about": [
+    "environment perception",
+    "DCAS feature"
+   ]
+  },
+  {
+   "label": "Annex 3 Appendix 4",
+   "title": "Declaration of system capabilities",
+   "about": [
+    "response to other road users",
+    "following lane course (lateral acceleration)",
+    "Lane change manoeuvre",
+    "other manoeuvres",
+    "traffic rules for driver-confirmed manoeuvres"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Physical testing (test track scenarios and public road verification)",
+   "about": [
+    "test conditions",
+    "test scenarios",
+    "public road verification",
+    "DCAS feature"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Credibility of simulation / virtual testing toolchain; information sharing scheme",
+   "about": [
+    "models and simulation management",
+    "M&S verification",
+    "documentation",
+    "DETA information sharing between authorities"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Any vehicle function that gives sustained combined steering and speed control (e.g. adaptive cruise control combined with lane centering, 'highway assist', 'traffic jam assist') is a DCAS and falls under R171 if approved under it rather than within the R79 ACSF limits.",
+  "Approval is of the vehicle type, not of a separate component; suppliers of cameras, radars, steering ECUs, braking actuators or driver-monitoring cameras are affected indirectly through the vehicle approval (Annex 3 safety concept, detection capabilities).",
+  "Driver monitoring systems (eye/head tracking, hands-on detection) are relevant via the HMI and driver disengagement requirements in 5.5.",
+  "Software updates that change DCAS behaviour are relevant via the R171SWIN and software-update references in Annex 1 and may require extension of the approval.",
+  "Systems that offer only longitudinal or only lateral control are not DCAS by themselves; they represent the degraded level 1 state of a DCAS.",
+  "Systems that perform the entire driving task (SAE level 3+, e.g. ALKS) are outside R171.",
+  "Manufacturers take on in-service monitoring and reporting obligations (section 7), as well as obligations on driver information and marketing.",
+  "Simulation tools used to demonstrate compliance must meet the credibility requirements of Annex 5."
+ ],
+ "version": "1.1.0"
+}

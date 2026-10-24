@@ -1,0 +1,454 @@
+{
+ "regulation": "UN R150",
+ "title": "Uniform provisions concerning the approval of retro-reflective devices (RRD) for power-driven vehicles and their trailers (version 1.2.1)",
+ "subject_kind": "component",
+ "scope_summary": "R150 approves retro-reflective device types: retro-reflectors (Classes IA, IB, IIIA, IIIB, IVA), retro-reflective marking materials (Classes C, D, E, F, D/E), rear marking plates for heavy and long vehicles (Classes 1-5) and for slow moving vehicles (Classes 1-2), and advance warning triangles (Types 1 and 2). These devices are intended for motor vehicles and their trailers, with installation governed by UN Regulations Nos. 48, 53, 74 and 86.",
+ "scope_quote": "This Regulation applies to retro-reflective devices as: Retro-reflectors of the Classes IA, IB, IIIA, IIIB and IVA Retro-reflective Marking Materials of the Classes C, D, E and F, D/E Retro-reflective Marking Plates for Heavy and Long Vehicles (HLV) of the Classes 1, 2, 3, 4 and 5 Retro-reflective Marking Plates for Slow Moving Vehicles (SMV) of the Classes 1 and 2 Advance Warning Triangles (AWT) of Type 1 and 2.",
+ "vehicle_categories": [
+  "M (via UN R48 installation)",
+  "N (via UN R48 installation)",
+  "O (trailers, via UN R48 installation)",
+  "L (via UN R53 and UN R74 installation)",
+  "T (agricultural and forestry tractors and slow moving vehicles, via UN R86 installation)"
+ ],
+ "applies_to_components": [
+  "Retro-reflector for motor vehicles (independent) - Class IA",
+  "Retro-reflector for motor vehicles combined with other signal lamps which are not watertight - Class IB",
+  "Retro-reflector for trailers (independent) - Class IIIA",
+  "Retro-reflector for trailers combined with other signal lamps which are not watertight - Class IIIB",
+  "Wide-angle retro-reflector - Class IVA",
+  "Retro-reflective marking material for contour/strip conspicuity marking - Class C",
+  "Retro-reflective marking material for distinctive markings/graphics, limited area - Class D",
+  "Retro-reflective marking material for distinctive markings/graphics, extended area - Class E",
+  "Retro-reflective marking material used as base or background for printed fully coloured logos - Class D/E",
+  "Retro-reflective marking material for extremities marking - Class F",
+  "Retro-reflective marking plates for heavy and long vehicles (HLV), Classes 1 to 5 (RF/RR)",
+  "Retro-reflective marking plates for slow moving vehicles (SMV), Classes 1 and 2 (RF/RR)",
+  "Advance warning triangles Type 1 (WT1) and Type 2 (WT2)",
+  "Retro-reflecting optical units and filters",
+  "Fluorescent materials of marking plates and warning triangles",
+  "Means of attachment of marking materials"
+ ],
+ "relation_to_other_regulations": [
+  "Combines the provisions of UN Regulations Nos. 3, 27, 69, 70 and 104 into a single Regulation without changing their technical requirements (original series).",
+  "The definitions of UN R48 apply unless otherwise specified in R150 or in installation Regulations Nos. 53, 74 and 86.",
+  "Section 4 applies the general and individual specifications of installation Regulations Nos. 48, 53, 74 and 86 where they can be verified at device approval.",
+  "Colour definitions of reflected light refer to paragraph 2.11 of UN R48.",
+  "The 01 series was accompanied by amendments to installation Regulations Nos. 48, 53, 74 and 86.",
+  "Grouped, combined or reciprocally incorporated lamps complying with several UN Regulations may carry a single approval mark.",
+  "Conformity of production follows Schedule 1 of the 1958 Agreement; the Unique Identifier follows Schedule 5."
+ ],
+ "defined_terms": [
+  {
+   "term": "retro-reflective device",
+   "label": "Retro-reflective device",
+   "definition": "Generic term for retro-reflectors, retro-reflective marking materials, marking plates or advance warning triangles (para 4.1)."
+  },
+  {
+   "term": "retro-reflective devices of different types",
+   "label": "Different types",
+   "definition": "Retro-reflective devices that differ in essential respects such as trade name or mark, characteristics of the retro-reflective or fluorescent material, parts affecting their properties, or distinctive geometrical and mechanical design features."
+  },
+  {
+   "term": "type of retro-reflective device",
+   "label": "Type",
+   "definition": "Defined by the models and descriptive literature submitted, where devices having identical or symmetrical retro-reflecting optical units belong to the same type, and a colour change of Class D and E material does not constitute a change of type."
+  },
+  {
+   "term": "retro-reflecting optical unit",
+   "label": "Retro-reflecting optical unit",
+   "definition": "The optical part of a retro-reflector, which may be combined with a filter that cannot be separated in normal use."
+  },
+  {
+   "term": "IA",
+   "label": "Class IA retro-reflector",
+   "definition": "Independent retro-reflector for motor vehicles."
+  },
+  {
+   "term": "IB",
+   "label": "Class IB retro-reflector",
+   "definition": "Retro-reflector for motor vehicles combined with other signal lamps which are not watertight."
+  },
+  {
+   "term": "IIIA",
+   "label": "Class IIIA retro-reflector",
+   "definition": "Independent retro-reflector for trailers."
+  },
+  {
+   "term": "IIIB",
+   "label": "Class IIIB retro-reflector",
+   "definition": "Retro-reflector for trailers combined with other signal lamps which are not watertight."
+  },
+  {
+   "term": "IVA",
+   "label": "Class IVA retro-reflector",
+   "definition": "Wide-angle retro-reflector."
+  },
+  {
+   "term": "C",
+   "label": "Class C marking material",
+   "definition": "Conspicuity marking material for contour/strip marking."
+  },
+  {
+   "term": "D",
+   "label": "Class D marking material",
+   "definition": "Conspicuity marking material for distinctive markings/graphics intended for a limited area."
+  },
+  {
+   "term": "E",
+   "label": "Class E marking material",
+   "definition": "Conspicuity marking material for distinctive markings/graphics intended for an extended area."
+  },
+  {
+   "term": "D/E",
+   "label": "Class D/E marking material",
+   "definition": "Material for distinctive markings or graphics used as base or background in a printing process for fully coloured logos and markings of class E in use that fulfil class D requirements."
+  },
+  {
+   "term": "F",
+   "label": "Class F marking material",
+   "definition": "Retro-reflective material for extremities marking."
+  },
+  {
+   "term": "HLV",
+   "label": "Marking plates for heavy and long vehicles",
+   "definition": "Rear marking plates of Classes 1 and 2 (retro-reflective plus fluorescent, RF) or Classes 3, 4 and 5 (retro-reflective only, RR)."
+  },
+  {
+   "term": "SMV",
+   "label": "Marking plates for slow moving vehicles",
+   "definition": "Rear marking plates of Class 1 (retro-reflective plus fluorescent, RF) or Class 2 (retro-reflective only, RR)."
+  },
+  {
+   "term": "AWT",
+   "label": "Advance warning triangle",
+   "definition": "Warning triangle of Type 1 (WT1) or Type 2 (WT2) comprising retro-reflective and fluorescent areas."
+  },
+  {
+   "term": "RI",
+   "label": "Coefficient of luminous intensity",
+   "definition": "Luminous intensity reflected in the direction considered divided by the normal illumination of the device, in cd/lx (also called CIL)."
+  },
+  {
+   "term": "RA",
+   "label": "Specific coefficient of retro-reflection",
+   "definition": "Coefficient of luminous intensity of a plane retro-reflecting surface divided by its area, in cd·m-2·lx-1."
+  },
+  {
+   "term": "βv,R",
+   "label": "Luminance factor",
+   "definition": "Ratio of the tristimulus value Y of the sample to that of the perfect diffuser."
+  },
+  {
+   "term": "entrance angle",
+   "label": "Entrance angle",
+   "definition": "Angle between the illumination axis and the reference axis, with vertical component β1 and horizontal component β2."
+  },
+  {
+   "term": "observation angle",
+   "label": "Observation angle (α)",
+   "definition": "Angle between the illumination axis and the observation axis, restricted to small angles for retro-reflection."
+  },
+  {
+   "term": "angle of rotation",
+   "label": "Angle of rotation (ε)",
+   "definition": "Angle by which the device is rotated about its reference axis, with a TOP marking defining ε = 0°."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Class IA / IIIA",
+   "distinguished_by": "Independent retro-reflector for motor vehicles (IA) or trailers (IIIA)"
+  },
+  {
+   "name": "Class IB / IIIB",
+   "distinguished_by": "Retro-reflector combined with non-watertight signal lamps, for motor vehicles (IB) or trailers (IIIB); subject to water penetration or moisture/dust tests"
+  },
+  {
+   "name": "Class IVA",
+   "distinguished_by": "Wide-angle retro-reflector; colour extension simplification does not apply"
+  },
+  {
+   "name": "Class C",
+   "distinguished_by": "Contour/strip conspicuity marking material"
+  },
+  {
+   "name": "Class D / E / D/E",
+   "distinguished_by": "Graphics/logo marking material for a limited area (D), an extended area (E), or a printing base for logos (D/E)"
+  },
+  {
+   "name": "Class F",
+   "distinguished_by": "Extremities marking material"
+  },
+  {
+   "name": "HLV Class 1, 2 (RF)",
+   "distinguished_by": "Heavy/long vehicle rear marking plates with retro-reflective and fluorescent materials"
+  },
+  {
+   "name": "HLV Class 3, 4, 5 (RR)",
+   "distinguished_by": "Heavy/long vehicle rear marking plates with retro-reflective materials only"
+  },
+  {
+   "name": "SMV Class 1 (RF) / Class 2 (RR)",
+   "distinguished_by": "Slow moving vehicle rear marking plates with retro-reflective plus fluorescent materials (Class 1) or retro-reflective only (Class 2)"
+  },
+  {
+   "name": "AWT Type 1 (WT1) / Type 2 (WT2)",
+   "distinguished_by": "Advance warning triangle type"
+  },
+  {
+   "name": "Colour variants (white, red, amber)",
+   "distinguished_by": "Night-time colour of the retro-reflected light"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "IA",
+    "IB",
+    "IIIA",
+    "IIIB",
+    "IVA",
+    "C",
+    "D",
+    "E",
+    "D/E",
+    "F",
+    "HLV",
+    "SMV",
+    "AWT"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "retro-reflective devices of different types",
+    "type of retro-reflective device",
+    "retro-reflecting optical unit",
+    "RI",
+    "RA",
+    "βv,R",
+    "entrance angle",
+    "observation angle",
+    "angle of rotation"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Administrative provisions",
+   "about": [
+    "application for approval",
+    "symbols IA–WT2",
+    "approval marking",
+    "Unique Identifier",
+    "TOP marking",
+    "grouped/combined lamps",
+    "conformity of production"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "General requirements",
+   "about": [
+    "retro-reflective device",
+    "construction",
+    "colorimetric test conditions",
+    "luminance factor"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Specific technical requirements",
+   "about": [
+    "photometric, colorimetric and resistance requirements for all classes"
+   ]
+  },
+  {
+   "label": "5.1",
+   "title": "Technical requirements concerning retro-reflectors (Classes IA, IB, IIIA, IIIB, IVA)",
+   "about": [
+    "IA",
+    "IB",
+    "IIIA",
+    "IIIB",
+    "IVA",
+    "RI"
+   ]
+  },
+  {
+   "label": "5.2",
+   "title": "Technical requirements concerning retro-reflective marking materials and plates",
+   "about": [
+    "C",
+    "D",
+    "E",
+    "D/E",
+    "F",
+    "HLV",
+    "SMV",
+    "RA",
+    "βv,R"
+   ]
+  },
+  {
+   "label": "5.3",
+   "title": "Technical requirements concerning advance warning triangles of Type 1 and 2",
+   "about": [
+    "AWT"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Transitional provisions",
+   "about": [
+    "01 series of amendments"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication form",
+   "about": [
+    "approval/extension/refusal/withdrawal notification"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Minimum requirements for conformity of production control procedures",
+   "about": [
+    "conformity of production"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Minimum requirements for sampling by an inspector",
+   "about": [
+    "sampling",
+    "resistance to water penetration"
+   ]
+  },
+  {
+   "label": "Annex 4 Part 1",
+   "title": "Photometric test procedures and CIE goniometer geometry",
+   "about": [
+    "RI",
+    "RA",
+    "entrance angle",
+    "observation angle"
+   ]
+  },
+  {
+   "label": "Annex 4 Part 2",
+   "title": "Daytime colour and luminance factor measurement",
+   "about": [
+    "βv,R",
+    "fluorescent materials"
+   ]
+  },
+  {
+   "label": "Annex 4 Part 3",
+   "title": "Stability in time of optical properties of devices in use",
+   "about": [
+    "AWT",
+    "HLV",
+    "SMV"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Shape and dimensions",
+   "about": [
+    "IA",
+    "IB",
+    "IIIA",
+    "IIIB",
+    "IVA",
+    "C",
+    "F",
+    "HLV",
+    "SMV",
+    "AWT"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Resistance tests (heat, external agents, water penetration/moisture and dust, corrosion, rear-face resistance, accelerated weathering)",
+   "about": [
+    "IA",
+    "IB",
+    "IIIA",
+    "IIIB",
+    "IVA",
+    "C",
+    "D",
+    "E",
+    "F",
+    "HLV",
+    "SMV",
+    "AWT"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Resistance to fuels and lubricating oils",
+   "about": [
+    "IA",
+    "IB",
+    "IIIA",
+    "IIIB",
+    "IVA",
+    "AWT",
+    "marking materials"
+   ]
+  },
+  {
+   "label": "Annex 8",
+   "title": "Cleaning, bonding strength, flexibility, impact and mechanical tests",
+   "about": [
+    "C",
+    "D",
+    "E",
+    "F",
+    "HLV",
+    "SMV",
+    "IVA"
+   ]
+  },
+  {
+   "label": "Annex 9",
+   "title": "Tests for advance warning triangles (clearance to ground, mechanical solidity, heat/low temperature, road surface roughness, wind stability)",
+   "about": [
+    "AWT"
+   ]
+  },
+  {
+   "label": "Annex 10",
+   "title": "Examples of approval marking arrangements",
+   "about": [
+    "approval marking",
+    "grouped/combined lamps"
+   ]
+  },
+  {
+   "label": "Annex 11",
+   "title": "Guidelines for installation of rear marking plates on slow moving vehicles",
+   "about": [
+    "SMV"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "A retro-reflector integrated into a rear lamp or side marker housing that is not watertight falls under Class IB (motor vehicles) or IIIB (trailers); in a combined lamp, the retro-reflector part is approved under R150 alongside the lamp's own regulation (e.g. R148).",
+  "Conspicuity tapes and contour markings on trucks, trailers and tarpaulin/curtain sides are Class C marking materials; logos and graphics printed on retro-reflective sheeting fall under Class D, E or D/E.",
+  "Advance warning triangles are covered even though they are carried in the vehicle rather than permanently installed.",
+  "Rear marking plates for tractors, agricultural/forestry machinery and other slow moving vehicles are SMV plates; long-vehicle and heavy-vehicle rear plates are HLV plates.",
+  "Wide-angle retro-reflectors (Class IVA), e.g. side reflectors with a wide entrance angle range, need separate approval.",
+  "Each listed device type requires a separate approval; extensions to other colours only need colorimetric and photometric tests (not for IVA).",
+  "Devices that differ only by trade name can be approved with a declaration and two samples.",
+  "A device may be approved for installation at several inclinations or rotations of its reference axis, which must be declared in the application.",
+  "Former approvals under R3, R27, R69, R70 or R104 correspond to devices now under R150."
+ ],
+ "version": "1.2.1"
+}

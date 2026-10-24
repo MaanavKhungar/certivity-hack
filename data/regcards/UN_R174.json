@@ -1,0 +1,422 @@
+{
+ "regulation": "UN R174",
+ "title": "Uniform provisions concerning the approval of vehicles with regard to their safety-belt reminders",
+ "subject_kind": "vehicle_system",
+ "scope_summary": "This Regulation approves vehicle types with regard to their safety-belt reminder (SBR) system, which detects unfastened safety-belts and alerts the driver through first and second level warnings. It applies to all seating positions fitted with a safety-belt in vehicles of categories M and N.",
+ "scope_quote": "This Regulation applies to all seating positions in vehicles of categories M and N fitted with safety belt with regard to safety-belt reminders.",
+ "vehicle_categories": [
+  "M",
+  "N"
+ ],
+ "applies_to_components": [
+  "Safety-belt reminder system",
+  "Detection of an unfastened safety-belt (buckle engagement or pulled-out webbing length)",
+  "First level warning (visual, optional audible)",
+  "Second level warning (visual and audible)",
+  "Visual warning (lighting, blinking or visual display of symbol or message)",
+  "Audible warning (sound signal)",
+  "Ignition switch / vehicle master control switch activation logic",
+  "Safety-belt buckle and retractor as sensing points for unfastened status"
+ ],
+ "relation_to_other_regulations": [
+  "Created by splitting UN Regulation No. 16 into three regulations (GRSP 73rd session, May 2023): safety-belts and restraint systems (components), safety-belts and child restraint systems installation (vehicle), and safety-belt reminders (vehicle, this Regulation).",
+  "Requirements are derived from UN Regulation No. 16 as amended by the 09 series of amendments and are technically identical.",
+  "UN Regulation No. 16, 10 series of amendments, is to contain transitional provisions explaining equivalence between approvals under this Regulation and UN R16 09 series.",
+  "Definition of second level warning refers to paragraphs 8.4.2.4.1.1. to 8.4.2.4.1.3. (numbering carried over from UN R16).",
+  "Vehicle categories as defined in the Consolidated Resolution R.E.3 (ECE/TRANS/WP.29/78/Rev.7).",
+  "Application and approval numbering per Schedules 3 and 4 of the 1958 Agreement (E/ECE/TRANS/505/Rev.3).",
+  "Approval mark may be combined with marks of other Regulations under which the vehicle is approved (para. 4.5).",
+  "Section 11.2 contains transitional provisions applicable to the 01 series of amendments."
+ ],
+ "defined_terms": [
+  {
+   "term": "2.1",
+   "label": "Safety-belt reminder",
+   "definition": "A system dedicated to alert the driver when any occupant does not use the safety-belt, constituted by detection of an unfastened belt and two levels of driver alert (first and second level warning)."
+  },
+  {
+   "term": "2.2",
+   "label": "Visual warning",
+   "definition": "A warning by visual signal (lighting, blinking or visual display of symbol or message)."
+  },
+  {
+   "term": "2.3",
+   "label": "Audible warning",
+   "definition": "A warning by sound signal."
+  },
+  {
+   "term": "2.4",
+   "label": "First level warning",
+   "definition": "A visual warning activated when the ignition switch or vehicle master control switch is activated and any occupant's safety-belt is not fastened, with an optional audible warning."
+  },
+  {
+   "term": "2.5",
+   "label": "Second level warning",
+   "definition": "A visual and audible warning activated when the vehicle is operated per paras 8.4.2.4.1.1. to 8.4.2.4.1.3. and the safety-belt is or becomes unfastened, depending on the seating position requirement."
+  },
+  {
+   "term": "2.6",
+   "label": "Safety-belt is unfastened",
+   "definition": "At the manufacturer's option, either the buckle of any occupant is not engaged or the pulled-out webbing length is less than needed to buckle an unoccupied rearmost seat."
+  },
+  {
+   "term": "2.7",
+   "label": "Vehicle is in normal operation",
+   "definition": "The vehicle is in forward motion at a speed greater than 10 km/h."
+  },
+  {
+   "term": "2.8",
+   "label": "Vehicle type with regard to its Safety-belt reminder",
+   "definition": "Vehicles not differing in location of the visual warning, type of audible warning, first and second level warning strategy and maximum number of seating positions."
+  },
+  {
+   "term": "2.9",
+   "label": "Safety-belt (seat-belt, belt)",
+   "definition": "An arrangement of straps with buckle, adjusting devices and attachments anchored in a power-driven vehicle to reduce injury risk by limiting wearer mobility, including energy-absorbing or retracting devices (belt assembly)."
+  },
+  {
+   "term": "2.9.1",
+   "label": "Lap belt",
+   "definition": "A two-point belt passing across the front of the wearer's pelvic region."
+  },
+  {
+   "term": "2.9.2",
+   "label": "Diagonal belt",
+   "definition": "A belt passing diagonally across the front of the chest from the hip to the opposite shoulder."
+  },
+  {
+   "term": "2.9.3",
+   "label": "Three-point belt",
+   "definition": "A belt essentially combining a lap strap and a diagonal strap."
+  },
+  {
+   "term": "2.9.4",
+   "label": "S-type belt",
+   "definition": "A belt arrangement other than a three-point belt or a lap belt."
+  },
+  {
+   "term": "2.9.5",
+   "label": "Harness belt",
+   "definition": "An S-type belt comprising a lap belt and shoulder straps, optionally with a crotch strap assembly."
+  },
+  {
+   "term": "2.10",
+   "label": "Strap",
+   "definition": "A flexible component designed to hold the body and transmit stresses to the belt anchorages."
+  },
+  {
+   "term": "2.11",
+   "label": "Buckle",
+   "definition": "A quick-release device enabling the wearer to be held by the belt, which may incorporate the adjusting device except for harness belt buckles."
+  },
+  {
+   "term": "2.12",
+   "label": "Belt adjusting device",
+   "definition": "A device enabling the belt to be adjusted to the wearer and seat position, possibly part of the buckle, retractor or other belt part."
+  },
+  {
+   "term": "2.13",
+   "label": "Retractor",
+   "definition": "A device to accommodate part or the whole of the strap of a safety-belt."
+  },
+  {
+   "term": "2.14",
+   "label": "Seat",
+   "definition": "A structure, integral or not with the vehicle, complete with trim, intended to seat one adult person, including an individual seat or part of a bench seat."
+  },
+  {
+   "term": "2.14.1",
+   "label": "Front passenger seat",
+   "definition": "Any seat whose foremost H-point is in or in front of the vertical transverse plane through the driver's R-point."
+  },
+  {
+   "term": "2.14.2",
+   "label": "Forward-facing seat",
+   "definition": "A seat usable in motion facing the front of the vehicle with its plane of symmetry within ±10° of the vehicle's."
+  },
+  {
+   "term": "2.14.3",
+   "label": "Rearward-facing seat",
+   "definition": "A seat usable in motion facing the rear of the vehicle with its plane of symmetry within ±10° of the vehicle's."
+  },
+  {
+   "term": "2.14.4",
+   "label": "Side-facing seat",
+   "definition": "A seat usable in motion facing the side of the vehicle at 90° (±10°) to the vehicle's plane of symmetry."
+  },
+  {
+   "term": "2.15",
+   "label": "Group of seats",
+   "definition": "Either a bench-type seat or separate side-by-side seats accommodating one or more seated adults."
+  },
+  {
+   "term": "2.16",
+   "label": "Bench seat",
+   "definition": "A structure complete with trim intended to seat more than one adult person."
+  },
+  {
+   "term": "2.17",
+   "label": "Seat anchorage",
+   "definition": "The system by which the seat assembly is secured to the vehicle structure, including the affected structure parts."
+  },
+  {
+   "term": "2.18",
+   "label": "Vehicle master control switch",
+   "definition": "The device bringing the vehicle's on-board electronics from switched-off to normal operation mode (ready to drive)."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "First level warning",
+   "distinguished_by": "Visual warning (optional audible) at activation of ignition/master control switch when a belt is unfastened"
+  },
+  {
+   "name": "Second level warning",
+   "distinguished_by": "Visual and audible warning when vehicle is operated (e.g. normal operation >10 km/h) and a belt is or becomes unfastened"
+  },
+  {
+   "name": "Unfastened detection by buckle",
+   "distinguished_by": "Manufacturer option: buckle not engaged"
+  },
+  {
+   "name": "Unfastened detection by webbing length",
+   "distinguished_by": "Manufacturer option: pulled-out webbing shorter than needed to buckle unoccupied rearmost seat"
+  },
+  {
+   "name": "Driver seating position",
+   "distinguished_by": "Specific requirements and test procedure (Annex 3 para. 2.1)"
+  },
+  {
+   "name": "Front passenger seat",
+   "distinguished_by": "Foremost H-point in or in front of the transverse plane through the driver's R-point"
+  },
+  {
+   "name": "Rear / other seating positions",
+   "distinguished_by": "Seating positions behind the front row, with position-specific requirements and exemptions (para. 5.1)"
+  },
+  {
+   "name": "Forward-, rearward- and side-facing seats",
+   "distinguished_by": "Seat orientation relative to the vehicle plane of symmetry"
+  },
+  {
+   "name": "Belt types (lap, diagonal, three-point, S-type, harness)",
+   "distinguished_by": "Belt geometry/anchorage arrangement"
+  }
+ ],
+ "sections": [
+  {
+   "label": "Introduction",
+   "title": "Introduction",
+   "about": [
+    "Split of UN R16 into three regulations",
+    "Equivalence with UN R16 09 series"
+   ]
+  },
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "Safety-belt reminder",
+    "Seat",
+    "Safety-belt (seat-belt, belt)"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Safety-belt reminder",
+    "Visual warning",
+    "Audible warning",
+    "First level warning",
+    "Second level warning",
+    "Safety-belt is unfastened",
+    "Vehicle is in normal operation",
+    "Vehicle type with regard to its Safety-belt reminder",
+    "Safety-belt (seat-belt, belt)",
+    "Buckle",
+    "Retractor",
+    "Seat",
+    "Front passenger seat",
+    "Vehicle master control switch"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for Approval",
+   "about": [
+    "Vehicle type with regard to its Safety-belt reminder",
+    "Safety-belt reminder",
+    "Safety-belt (seat-belt, belt)"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "Vehicle type with regard to its Safety-belt reminder",
+    "Approval mark placed near vehicle data plate"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "General Specifications",
+   "about": [
+    "Safety-belt reminder",
+    "First level warning",
+    "Second level warning"
+   ]
+  },
+  {
+   "label": "5.1",
+   "title": "Requirements per specific seating position and exemptions",
+   "about": [
+    "Seat",
+    "Front passenger seat",
+    "Forward-facing seat",
+    "Rearward-facing seat",
+    "Side-facing seat",
+    "Group of seats",
+    "Bench seat"
+   ]
+  },
+  {
+   "label": "5.2",
+   "title": "General requirements",
+   "about": [
+    "First level warning",
+    "Second level warning",
+    "Visual warning",
+    "Audible warning",
+    "Safety-belt is unfastened",
+    "Vehicle is in normal operation",
+    "Vehicle master control switch"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Conformity of Production",
+   "about": [
+    "Conformity of production procedures"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Penalties for Non-Conformity of Production",
+   "about": [
+    "Withdrawal of approval"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Modifications and Extension of Approval",
+   "about": [
+    "Vehicle type with regard to its Safety-belt reminder"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Production Definitively Discontinued",
+   "about": [
+    "Notification of discontinued production"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Names and Addresses of Technical Services Responsible for Conducting Approval Tests and of Type Approval Authorities",
+   "about": [
+    "Administrative information"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Transitional provisions",
+   "about": [
+    "Transitional provisions"
+   ]
+  },
+  {
+   "label": "11.1",
+   "title": "General",
+   "about": [
+    "General transitional provisions"
+   ]
+  },
+  {
+   "label": "11.2",
+   "title": "Transitional provisions applicable to the 01 series of amendments",
+   "about": [
+    "01 series of amendments transitional dates"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication (approval form)",
+   "about": [
+    "Vehicle type with regard to its Safety-belt reminder",
+    "Seat",
+    "Bodywork/seats particulars"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Arrangement of approval mark",
+   "about": [
+    "Approval mark layout (a = 8 mm minimum)"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Test procedure for safety-belt reminder",
+   "about": [
+    "First level warning",
+    "Second level warning",
+    "Safety-belt is unfastened",
+    "Vehicle is in normal operation"
+   ]
+  },
+  {
+   "label": "Annex 3 1",
+   "title": "First level warning test conditions",
+   "about": [
+    "First level warning",
+    "Visual warning"
+   ]
+  },
+  {
+   "label": "Annex 3 2",
+   "title": "Second level warning test conditions",
+   "about": [
+    "Second level warning",
+    "Visual warning",
+    "Audible warning"
+   ]
+  },
+  {
+   "label": "Annex 3 2.1",
+   "title": "Testing the driver's seating position",
+   "about": [
+    "Second level warning",
+    "Seat"
+   ]
+  },
+  {
+   "label": "Annex 3 3",
+   "title": "Duration of first level warning test",
+   "about": [
+    "First level warning"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "This is a whole-vehicle approval; components (buckle switches, seat occupancy sensors, telltales, chimes, instrument cluster/HMI software) are not approved separately but their behaviour determines compliance.",
+  "Applies to every seating position fitted with a safety-belt, not only the driver: rear seats, side-facing and rearward-facing seats and bench seats in M and N vehicles (subject to exemptions in 5.1), including buses and trucks.",
+  "Belt buckle sensors and retractor webbing-extraction sensors fall under this Regulation because 'safety-belt is unfastened' may be detected either by buckle engagement or by pulled-out webbing length.",
+  "Instrument cluster telltales, display messages and audible chime generators/HMI logic are relevant as the visual and audible warning means.",
+  "Vehicle master control switch logic (e.g. EV 'ready to drive' activation) triggers the first level warning, so power-mode/start-button software is relevant.",
+  "Vehicle speed signal processing is relevant because second level warning depends on normal operation (forward motion above 10 km/h).",
+  "Changes to number of seating positions, warning location, audible warning type or warning strategy create a new vehicle type and may require extension of approval.",
+  "Previously covered by UN R16 (09 series); approvals under R174 and R16 09 series are considered technically equivalent, so legacy R16 SBR approvals map onto this Regulation."
+ ],
+ "version": "1.0.1"
+}

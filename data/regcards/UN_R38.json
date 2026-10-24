@@ -1,0 +1,261 @@
+{
+ "regulation": "UN R38",
+ "title": "Uniform provisions concerning the approval of rear fog lamps for power-driven vehicles and their trailers",
+ "subject_kind": "component",
+ "scope_summary": "This Regulation approves rear fog lamp types (device approval), either of steady luminous intensity (category F1) or variable luminous intensity (category F2). It applies to rear fog lamps intended for vehicles of categories L3, L4, L5, L7, M, N, O and T.",
+ "scope_quote": "This Regulation applies to rear fog lamps for vehicles of categories L3, L4, L5, L7, M, N, O, and T.",
+ "vehicle_categories": [
+  "L3",
+  "L4",
+  "L5",
+  "L7",
+  "M",
+  "N",
+  "O",
+  "T"
+ ],
+ "applies_to_components": [
+  "rear fog lamp",
+  "rear fog lamp of category F1 (steady luminous intensity)",
+  "rear fog lamp of category F2 (variable luminous intensity)",
+  "variable intensity control",
+  "electronic light source control gear",
+  "light source module",
+  "non-replaceable light sources / filament lamps",
+  "grouped, combined or reciprocally incorporated lamps including a rear fog lamp"
+ ],
+ "relation_to_other_regulations": [
+  "Definitions of UN Regulation No. 48 (installation of lighting and light-signalling devices) apply (para. 1.2); installation on vehicles governed by R48 (and R53, R74, R86 for L3, L1/L2, T respectively)",
+  "Replaceable filament light source categories must be those in UN Regulation No. 37; standard (étalon) filament lamps per R37",
+  "Replaceable LED light source categories must be those in UN Regulation No. 128; standard (étalon) LED light sources per R128",
+  "Grouped, combined or reciprocally incorporated lamps may carry a single approval mark covering several Regulations (e.g. R7 rear position/stop lamps, R6 direction indicators, R23 reversing lamps, R148/R149 etc. when applicable)",
+  "Approval mark country numbers per Consolidated Resolution R.E.3; vehicle categories per R.E.3"
+ ],
+ "defined_terms": [
+  {
+   "term": "rear_fog_lamp",
+   "label": "Rear fog lamp",
+   "definition": "A lamp used to make the vehicle more easily visible from the rear by giving a red signal of greater intensity than the rear position (side) lamps."
+  },
+  {
+   "term": "rear_fog_lamps_of_different_types",
+   "label": "Rear fog lamps of different types",
+   "definition": "Lamps which differ in essential respects such as trade name or mark, characteristics of the optical system (intensity levels, light distribution angles, light source category, light source module), or the variable intensity control."
+  },
+  {
+   "term": "category_F1",
+   "label": "Category F1 rear fog lamp",
+   "definition": "A rear fog lamp producing steady luminous intensity, marked with additional symbol \"F1\"."
+  },
+  {
+   "term": "category_F2",
+   "label": "Category F2 rear fog lamp",
+   "definition": "A rear fog lamp producing variable luminous intensity, controlled by a variable intensity control, marked with additional symbol \"F2\"."
+  },
+  {
+   "term": "variable_intensity_control",
+   "label": "Variable intensity control",
+   "definition": "The device controlling the varying luminous intensity of a category F2 rear fog lamp, which may be part of the lamp but outside the lamp body."
+  },
+  {
+   "term": "light_source_module",
+   "label": "Light source module",
+   "definition": "Optical part of the lamp containing light source(s), identified by a specific identification code beginning with \"MD\"."
+  },
+  {
+   "term": "electronic_light_source_control_gear",
+   "label": "Electronic light source control gear",
+   "definition": "Electronic device supplying/controlling the light source, which may be part of the lamp but not included in the lamp body (defined by reference to R48)."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "F1",
+   "distinguished_by": "Steady luminous intensity"
+  },
+  {
+   "name": "F2",
+   "distinguished_by": "Variable luminous intensity via a variable intensity control"
+  },
+  {
+   "name": "Lamps with replaceable filament light sources (R37)",
+   "distinguished_by": "Light source category per R37"
+  },
+  {
+   "name": "Lamps with replaceable LED light sources (R128)",
+   "distinguished_by": "Light source category per R128"
+  },
+  {
+   "name": "Lamps with non-replaceable light sources or light source modules",
+   "distinguished_by": "Light source not replaceable / module with MD identification code"
+  },
+  {
+   "name": "Single lamp vs grouped, combined or reciprocally incorporated lamps",
+   "distinguished_by": "Whether the rear fog lamp shares a unit with other lamps"
+  }
+ ],
+ "sections": [
+  {
+   "label": "Scope",
+   "title": "Scope",
+   "about": [
+    "rear_fog_lamp"
+   ]
+  },
+  {
+   "label": "1",
+   "title": "Definitions",
+   "about": [
+    "rear_fog_lamp",
+    "rear_fog_lamps_of_different_types"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Application for approval",
+   "about": [
+    "category_F1",
+    "category_F2",
+    "variable_intensity_control",
+    "light_source_module"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Markings",
+   "about": [
+    "light_source_module",
+    "electronic_light_source_control_gear",
+    "variable_intensity_control"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "category_F1",
+    "category_F2",
+    "rear_fog_lamp"
+   ]
+  },
+  {
+   "label": "4.5",
+   "title": "Independent lamps",
+   "about": [
+    "rear_fog_lamp"
+   ]
+  },
+  {
+   "label": "4.6",
+   "title": "Grouped, combined or reciprocally incorporated lamps",
+   "about": [
+    "rear_fog_lamp"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "General specifications",
+   "about": [
+    "rear_fog_lamp",
+    "light_source_module"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Intensity of light emitted",
+   "about": [
+    "category_F1",
+    "category_F2"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Test procedures",
+   "about": [
+    "rear_fog_lamp",
+    "variable_intensity_control"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Heat resistance test",
+   "about": [
+    "rear_fog_lamp"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Colour of light emitted",
+   "about": [
+    "rear_fog_lamp"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Conformity of production",
+   "about": [
+    "rear_fog_lamp"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Penalties for non-conformity of production",
+   "about": []
+  },
+  {
+   "label": "12",
+   "title": "Production definitively discontinued",
+   "about": []
+  },
+  {
+   "label": "13",
+   "title": "Names and addresses of Technical Services and Type Approval Authorities",
+   "about": []
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication concerning approval of a type of rear fog lamp",
+   "about": [
+    "rear_fog_lamp"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Examples of arrangements of approval marks",
+   "about": [
+    "category_F1",
+    "category_F2"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Photometric measurements",
+   "about": [
+    "rear_fog_lamp"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Minimum requirements for conformity of production control procedures",
+   "about": [
+    "rear_fog_lamp"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Minimum requirements for sampling by an inspector",
+   "about": [
+    "rear_fog_lamp"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Any rear lamp assembly (e.g. combination tail lamp) that contains a red high-intensity fog function falls under R38 for that function, even if other functions are approved under other Regulations with a single shared approval mark.",
+  "Variable intensity controls and electronic light source control gear placed outside the lamp body are part of the approved lamp and must carry manufacturer name and identification number.",
+  "Light source modules within the lamp need their own MD identification code marking.",
+  "LED rear fog lamps with non-replaceable light sources are covered; replaceable sources must be R37 or R128 categories.",
+  "Rear fog lamps for motorcycles (L3) and tractors (T) also fall under R38, though installation is regulated in R53/R86 rather than R48.",
+  "Changing only the colour of the light source or of a filter does not create a new type."
+ ],
+ "version": "0.19.0"
+}

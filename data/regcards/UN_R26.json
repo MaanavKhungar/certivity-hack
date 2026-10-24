@@ -1,0 +1,416 @@
+{
+ "regulation": "UN R26",
+ "title": "External projections of passenger cars (version 4.0.0, 03 series of amendments)",
+ "subject_kind": "mixed",
+ "scope_summary": "Approves M1 vehicle types with regard to the projections, edges and radii of their external surface, to reduce injury to persons struck by or brushing against the bodywork. It also allows separate approval of luggage racks, ski racks and radio receiving or transmitting aerials as separate technical units, but excludes exterior devices for indirect vision and the ball of towing devices.",
+ "scope_quote": "This Regulation applies to external projections of category M1 vehicles. It does not apply to exterior devices for indirect vision or to the ball of towing devices. The purpose of this Regulation is to reduce the risk or seriousness of bodily injury to a person hit by the bodywork or brushing against it in the event of a collision. This is valid both when the vehicle is stationary and in motion.",
+ "vehicle_categories": [
+  "M1"
+ ],
+ "applies_to_components": [
+  "external surface of the vehicle (bonnet, luggage compartment lid, doors, wings, roof, lighting and light-signalling devices, visible strengthening components)",
+  "ornaments",
+  "headlights (headlamp visors and rims)",
+  "grilles and gaps",
+  "windscreen wipers",
+  "bumpers and bumper covers",
+  "wheels, wheel nuts, hub caps and wheel discs",
+  "sheet-metal edges",
+  "body panels (folds)",
+  "lateral air or rain deflectors",
+  "jacking brackets",
+  "exhaust pipes",
+  "air intake and outlet flaps",
+  "roof",
+  "windows",
+  "registration plate brackets",
+  "luggage racks (vehicle-mounted or as separate technical unit)",
+  "ski racks (vehicle-mounted or as separate technical unit)",
+  "aerials / radio receiving or transmitting aerials (vehicle-mounted or as separate technical unit)",
+  "assembly instructions for separate technical units"
+ ],
+ "relation_to_other_regulations": [
+  "Vehicle category M1 as defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3), ECE/TRANS/WP.29/78/Rev.2.",
+  "Explicitly excludes exterior devices for indirect vision and the ball of towing devices, which are not named here but are covered by other regulations.",
+  "Current approvals are issued under the 03 series of amendments, which entered into force on 23 June 2005.",
+  "Para. 4.1.5 allows the R26 approval mark to be combined with marks of other UN Regulations under which the vehicle is approved in the same country.",
+  "Para. 12 contains transitional provisions."
+ ],
+ "defined_terms": [
+  {
+   "term": "Vehicle type",
+   "label": "2.2",
+   "definition": "A category of motor vehicles which do not differ in such essential respects as shape or materials of the external surface."
+  },
+  {
+   "term": "External surface",
+   "label": "2.3",
+   "definition": "The outside of the vehicle including the bonnet, the lid of the luggage compartment, the doors, the wings, the roof, the lighting and light-signalling devices and the visible strengthening components."
+  },
+  {
+   "term": "Floor line",
+   "label": "2.4",
+   "definition": "The geometric trace of the lowest contact points of a 30° half-angle vertical-axis cone moved round the laden vehicle against its external surface, ignoring jacking points, exhaust pipes and wheels, with wheel-arch gaps filled and bumpers taken into account."
+  },
+  {
+   "term": "Radius of curvature",
+   "label": "2.5",
+   "definition": "The radius of the arc of a circle which comes closest to the rounded form of the component under consideration."
+  },
+  {
+   "term": "Laden vehicle",
+   "label": "2.6",
+   "definition": "The vehicle laden to the maximum permitted technical mass, or in the most adverse normal running condition where it has hydropneumatic, hydraulic or pneumatic suspension or automatic load levelling."
+  },
+  {
+   "term": "Extreme outer edge",
+   "label": "2.7",
+   "definition": "The longitudinal side planes and transverse front and rear planes coinciding with the vehicle's outer edges, disregarding tyres near ground contact, tyre-pressure connections, anti-skid devices, devices for indirect vision, side direction indicators, end-outline marker, position and parking lamps, and (at the ends) parts on bumpers, towing devices and exhaust pipes."
+  },
+  {
+   "term": "The dimension of the projection",
+   "label": "2.8",
+   "definition": "For a component mounted on a panel, the dimension determined by the method in paragraph 2 of Annex 3."
+  },
+  {
+   "term": "The nominal line of a panel",
+   "label": "2.9",
+   "definition": "The line through the sphere-centre positions at the first and last contact of the sphere with a component during the Annex 3 paragraph 2.2 measuring procedure."
+  },
+  {
+   "term": "Aerial",
+   "label": "2.10",
+   "definition": "Any device used for transmitting and/or receiving electromagnetic signals."
+  },
+  {
+   "term": "Bumper",
+   "label": "2.11",
+   "definition": "The front or rear, lower, outer structure of a vehicle, including all structures intended to protect the vehicle in a low-speed frontal or rear collision and any attachments to this structure."
+  },
+  {
+   "term": "Bumper cover",
+   "label": "2.12",
+   "definition": "The non-rigid outer surface of a bumper, generally extending across the full width of the front or rear of a vehicle."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Vehicle type approval (M1 external projections)",
+   "distinguished_by": "Approval of a whole vehicle type to paragraphs 5 and 6; communicated via Annex 1 and marked on or near the vehicle data plate."
+  },
+  {
+   "name": "Separate technical unit approval (luggage racks, ski racks, radio aerials)",
+   "distinguished_by": "Approval of the device alone to paragraphs 6.16, 6.17 and 6.18, which may be sought by the vehicle or device manufacturer; communicated via Annex 4 and marked on or near the unit's data plate."
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope and purpose",
+   "about": [
+    "M1 vehicles",
+    "external projections",
+    "exclusion of devices for indirect vision and towing ball"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Vehicle type",
+    "External surface",
+    "Floor line",
+    "Radius of curvature",
+    "Laden vehicle",
+    "Extreme outer edge",
+    "Aerial",
+    "Bumper",
+    "Bumper cover"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "vehicle type application",
+    "separate technical unit application"
+   ]
+  },
+  {
+   "label": "3.1",
+   "title": "Application for approval of a vehicle type with regard to its external projections",
+   "about": [
+    "Vehicle type",
+    "Bumper"
+   ]
+  },
+  {
+   "label": "3.2",
+   "title": "Application for type approval with regard to luggage racks, ski racks or radio receiving or transmitting aerials considered to be separate technical units",
+   "about": [
+    "luggage racks",
+    "ski racks",
+    "Aerial"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "approval number",
+    "approval mark"
+   ]
+  },
+  {
+   "label": "4.1",
+   "title": "Approval of a vehicle type with regard to its external projections",
+   "about": [
+    "Vehicle type",
+    "approval mark"
+   ]
+  },
+  {
+   "label": "4.2",
+   "title": "Approval with regard to luggage racks, ski racks or radio receiving or transmitting aerials considered to be separate technical units",
+   "about": [
+    "luggage racks",
+    "ski racks",
+    "Aerial"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "General specifications",
+   "about": [
+    "External surface",
+    "Radius of curvature",
+    "Floor line",
+    "Extreme outer edge"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Particular specifications",
+   "about": [
+    "specific external components"
+   ]
+  },
+  {
+   "label": "6.1",
+   "title": "Ornaments",
+   "about": [
+    "ornaments",
+    "The dimension of the projection"
+   ]
+  },
+  {
+   "label": "6.2",
+   "title": "Headlights",
+   "about": [
+    "headlamp visors and rims"
+   ]
+  },
+  {
+   "label": "6.3",
+   "title": "Grilles and gaps",
+   "about": [
+    "grilles",
+    "gaps"
+   ]
+  },
+  {
+   "label": "6.4",
+   "title": "Windscreen wipers",
+   "about": [
+    "windscreen wipers"
+   ]
+  },
+  {
+   "label": "6.5",
+   "title": "Bumpers",
+   "about": [
+    "Bumper",
+    "Bumper cover"
+   ]
+  },
+  {
+   "label": "6.7",
+   "title": "Wheels, wheel nuts, hub caps and wheel discs",
+   "about": [
+    "wheels",
+    "wheel nuts",
+    "hub caps",
+    "wheel discs"
+   ]
+  },
+  {
+   "label": "6.8",
+   "title": "Sheet-metal edges",
+   "about": [
+    "sheet-metal edges"
+   ]
+  },
+  {
+   "label": "6.9",
+   "title": "Body-panels",
+   "about": [
+    "body panels",
+    "folds"
+   ]
+  },
+  {
+   "label": "6.10",
+   "title": "Lateral air or rain deflectors",
+   "about": [
+    "lateral air or rain deflectors"
+   ]
+  },
+  {
+   "label": "6.11",
+   "title": "Jacking brackets and exhaust pipes",
+   "about": [
+    "jacking brackets",
+    "exhaust pipes"
+   ]
+  },
+  {
+   "label": "6.12",
+   "title": "Air intake and outlet flaps",
+   "about": [
+    "air intake and outlet flaps"
+   ]
+  },
+  {
+   "label": "6.13",
+   "title": "Roof",
+   "about": [
+    "roof"
+   ]
+  },
+  {
+   "label": "6.14",
+   "title": "Windows",
+   "about": [
+    "windows"
+   ]
+  },
+  {
+   "label": "6.15",
+   "title": "Registration plate brackets",
+   "about": [
+    "registration plate brackets"
+   ]
+  },
+  {
+   "label": "6.16",
+   "title": "Luggage racks and ski racks",
+   "about": [
+    "luggage racks",
+    "ski racks"
+   ]
+  },
+  {
+   "label": "6.17",
+   "title": "Aerials",
+   "about": [
+    "Aerial"
+   ]
+  },
+  {
+   "label": "6.18",
+   "title": "Assembly instructions",
+   "about": [
+    "assembly instructions for separate technical units"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Modification of a vehicle type",
+   "about": [
+    "modification and extension of approval"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Conformity of production",
+   "about": [
+    "conformity of production"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Penalties for non-conformity of production",
+   "about": [
+    "withdrawal of approval"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Production definitively discontinued",
+   "about": [
+    "notification of discontinued production"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Names and addresses of Technical Services conducting approval tests and of Type Approval Authorities",
+   "about": [
+    "administrative"
+   ]
+  },
+  {
+   "label": "12",
+   "title": "Transitional provisions",
+   "about": [
+    "series of amendments transition"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication form for vehicle type approval with regard to external projections",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Arrangements of approval marks",
+   "about": [
+    "approval mark"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Measurement methods",
+   "about": [
+    "height of projection of folds in body panels",
+    "The dimension of the projection",
+    "The nominal line of a panel",
+    "projection of headlamp visors and rims",
+    "dimension of gaps between grille elements"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Communication form for separate technical unit approval (luggage racks, ski racks, aerials)",
+   "about": [
+    "luggage racks",
+    "ski racks",
+    "Aerial",
+    "limitations of use and assembly instructions"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Any device that transmits or receives electromagnetic signals counts as an 'aerial' (e.g. radio, GNSS, telematics or shark-fin antennas) and falls under 6.17 when mounted externally.",
+  "Luggage racks, ski racks and radio aerials can be approved on their own as separate technical units by the accessory manufacturer, and must then come with assembly instructions (6.18).",
+  "Lighting and light-signalling devices are part of the 'external surface', so their housings, headlamp visors and rims are subject to the projection and radius requirements.",
+  "Visible strengthening components, the bonnet, boot lid, doors, wings and roof all form part of the external surface.",
+  "Wheel trim parts (hub caps, wheel discs, wheel nuts), registration plate brackets, emblems and ornaments, wipers, air or rain deflectors, air flaps, jacking brackets and exhaust pipes all have specific requirements.",
+  "Exterior devices for indirect vision (mirrors, camera-monitor devices) and the ball of towing devices are excluded from the scope.",
+  "Only M1 vehicles are covered; other categories are outside the scope.",
+  "Parts mounted on bumpers, towing devices and exhaust pipes are ignored when determining the front and rear extreme outer edge, and lamps are ignored at the sides.",
+  "Anything below the floor line is generally outside the external surface requirements, so the mounting height of a component matters."
+ ],
+ "version": "4.0.0"
+}

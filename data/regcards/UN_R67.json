@@ -1,0 +1,910 @@
+{
+ "regulation": "UN R67",
+ "title": "Uniform provisions concerning: I. Approval of specific equipment of vehicles of category M and N using liquefied petroleum gases in their propulsion system; II. Approval of vehicles of category M and N fitted with specific equipment for the use of liquefied petroleum gases in their propulsion system with regard to the installation of such equipment (version 4.2.0)",
+ "subject_kind": "mixed",
+ "scope_summary": "Part I approves the LPG 'specific equipment' as separate components, including containers, container accessories, vaporizers/regulators, valves, hoses, filling units, injectors, sensors, pumps, ECUs, gas tubes and multi-components. Part II approves vehicles of categories M and N1 that are fitted with such equipment, with regard to how it is installed.",
+ "scope_quote": "This Regulation applies to: 1.1 Part I Approval of specific equipment of vehicles of category M and N1 using liquefied petroleum gases in their propulsion system; 1.2 Part II Approval of vehicles of category M and N1 fitted with specific equipment for the use of liquefied petroleum gases in their propulsion system with regard to the installation of such equipment.",
+ "vehicle_categories": [
+  "M1",
+  "M2",
+  "M3",
+  "N1"
+ ],
+ "applies_to_components": [
+  "LPG container (standard cylindrical, special, all-composite)",
+  "Accessories fitted to the container",
+  "80 per cent stop valve",
+  "Level indicator",
+  "Pressure relief valve (discharge valve)",
+  "Pressure relief device (fuse)",
+  "Remotely controlled service valve with excess flow valve",
+  "Fuel pump",
+  "Multivalve",
+  "Gas-tight housing",
+  "Power supply bushing",
+  "Non-return valve",
+  "Vaporizer/pressure regulator",
+  "Shut-off valve",
+  "Gas injection device / injector / gas mixing piece",
+  "Gas dosage unit",
+  "Flexible hoses / hose assemblies",
+  "Filling unit",
+  "Gas-tube pressure relief valve",
+  "LPG filter unit",
+  "Pressure or temperature sensor",
+  "Service coupling",
+  "Electronic control unit",
+  "Fuel rail",
+  "Multi-component",
+  "Non-seamless and seamless gas tubes and their couplings",
+  "Gas tubes of materials other than copper, stainless steel and coated steel, and their couplings",
+  "Installation of the LPG system in the vehicle (Part II)",
+  "Interconnected LPG-systems (ICS)",
+  "LPG vehicle identification sign (sticker)"
+ ],
+ "relation_to_other_regulations": [
+  "Vehicle categories M and N1 as defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3), ECE/TRANS/WP.29/78/Rev.3.",
+  "Part II (vehicle installation) relies on components approved under Part I of the same Regulation.",
+  "Annex 14 requires the electronic control unit to comply with the relevant electromagnetic compatibility (EMC) requirements. This in practice points to UN R10.",
+  "It refers to EN 589:1993 for automotive LPG fuel specification, and to ISO 188 and ASTM standards in the test annexes.",
+  "Interconnected LPG-systems have hydraulic interconnections with the petrol or diesel fuelling system.",
+  "Related in practice to UN R115 (retrofit LPG systems), which relies on R67-approved components. This Regulation's text does not state that relationship."
+ ],
+ "defined_terms": [
+  {
+   "term": "Class 0",
+   "label": "Component class",
+   "definition": "High pressure parts including tubes and fittings containing liquid LPG with a pressure > 3,000 kPa."
+  },
+  {
+   "term": "Class 1",
+   "label": "Component class",
+   "definition": "High pressure parts including tubes and fittings containing liquid LPG at vapour pressure or increased vapour pressure up to 3,000 kPa."
+  },
+  {
+   "term": "Class 2",
+   "label": "Component class",
+   "definition": "Low pressure parts containing vaporized LPG with a maximum operating pressure below 450 kPa and over 20 kPa above atmospheric pressure."
+  },
+  {
+   "term": "Class 2A",
+   "label": "Component class",
+   "definition": "Low pressure parts for a limited pressure range containing vaporized LPG with a maximum operating pressure below 120 kPa and over 20 kPa above atmospheric pressure."
+  },
+  {
+   "term": "Class 3",
+   "label": "Component class",
+   "definition": "Shut-off valves and pressure relief valves, when operating in the liquid phase."
+  },
+  {
+   "term": "Working pressure (WP)",
+   "label": "Pressure",
+   "definition": "The maximum pressure to which the component is designed to be subjected and on the basis of which its strength is determined."
+  },
+  {
+   "term": "Classification pressure",
+   "label": "Pressure",
+   "definition": "The maximum allowable operating pressure in a component according to its classification."
+  },
+  {
+   "term": "Specific equipment",
+   "label": "Product scope",
+   "definition": "The list of LPG components (a) to (t), from container through gas tubes of other materials, that can be approved under Part I."
+  },
+  {
+   "term": "Container",
+   "label": "Component",
+   "definition": "Any vessel used for the storage of liquefied petroleum gas."
+  },
+  {
+   "term": "Standard cylindrical container",
+   "label": "Container variant",
+   "definition": "A container with a cylindrical shell, two dished ends either torispherical or elliptical and the required openings."
+  },
+  {
+   "term": "Special container",
+   "label": "Container variant",
+   "definition": "Containers other than standard cylindrical containers, with dimensional characteristics given in Annex 10, Appendix 5."
+  },
+  {
+   "term": "All-composite container",
+   "label": "Container variant",
+   "definition": "A container made only of composite materials with a non-metallic liner."
+  },
+  {
+   "term": "Type of container",
+   "label": "Type",
+   "definition": "Containers not differing in trade name, shape, openings, material, welding process, heat treatment, production line, nominal wall thickness, diameter and height."
+  },
+  {
+   "term": "Accessories fitted to the container",
+   "label": "Component group",
+   "definition": "80% stop valve, level indicator, pressure relief valve, remotely controlled service valve with excess flow valve, fuel pump, multivalve, gas-tight housing, power supply bushing, non-return valve and pressure relief device, either separate or combined."
+  },
+  {
+   "term": "80 per cent stop valve",
+   "label": "Component",
+   "definition": "A device that limits the filling at maximum 80 per cent of the capacity of the container."
+  },
+  {
+   "term": "Level indicator",
+   "label": "Component",
+   "definition": "A device to verify the level of liquid in the container."
+  },
+  {
+   "term": "Pressure relief valve (discharge valve)",
+   "label": "Component",
+   "definition": "A device to limit the pressure build-up in the container."
+  },
+  {
+   "term": "Pressure relief device",
+   "label": "Component",
+   "definition": "A device aimed to protect the container from burst in case of fire by venting the LPG contained."
+  },
+  {
+   "term": "Remotely controlled service valve with excess flow valve",
+   "label": "Component",
+   "definition": "An ECU-controlled device that establishes and interrupts LPG supply to the evaporator/pressure regulator, closed when the engine is not running, with an excess flow valve limiting LPG flow."
+  },
+  {
+   "term": "Fuel pump",
+   "label": "Component",
+   "definition": "A device to establish the supply of liquid LPG to the engine by increasing the pressure of the container with the fuel pump supply pressure."
+  },
+  {
+   "term": "Multivalve",
+   "label": "Component",
+   "definition": "A device consisting of all or part of the 80% stop valve, level indicator, pressure relief valve and power supply bushing."
+  },
+  {
+   "term": "Gas-tight housing",
+   "label": "Component",
+   "definition": "A device to protect the accessories and to vent any leakages to the open air."
+  },
+  {
+   "term": "Power supply bushing",
+   "label": "Component",
+   "definition": "Electrical feed-through for fuel pump/actuators/fuel level sensor."
+  },
+  {
+   "term": "Non-return valve",
+   "label": "Component",
+   "definition": "A device to allow the flow of liquid LPG in one direction and to prevent the flow in the opposite direction."
+  },
+  {
+   "term": "Vaporizer",
+   "label": "Component",
+   "definition": "A device intended to vaporize LPG from a liquid to a gaseous state."
+  },
+  {
+   "term": "Pressure regulator",
+   "label": "Component",
+   "definition": "A device intended for reducing and regulating the pressure of liquefied petroleum gas."
+  },
+  {
+   "term": "Shut-off valve",
+   "label": "Component",
+   "definition": "A device to cut off the flow of LPG."
+  },
+  {
+   "term": "Gas-tube pressure relief valve",
+   "label": "Component",
+   "definition": "A device to prevent the pressure build-up in the tubes above a pre-set value."
+  },
+  {
+   "term": "Gas injection device or injector or gas mixing piece",
+   "label": "Component",
+   "definition": "A device which establishes the liquid or vaporized LPG to enter the engine."
+  },
+  {
+   "term": "Gas dosage unit",
+   "label": "Component",
+   "definition": "A device which meters and/or distributes the gas flow to the engine, either combined with the gas injection device or separate."
+  },
+  {
+   "term": "Electronic control unit",
+   "label": "Component",
+   "definition": "A device which controls the LPG demand of the engine and automatically cuts power to the LPG shut-off valves in case of a broken fuel supply pipe caused by an accident, or by stalling of the engine."
+  },
+  {
+   "term": "Pressure or temperature sensor",
+   "label": "Component",
+   "definition": "A device which measures pressure or temperature."
+  },
+  {
+   "term": "LPG filter unit",
+   "label": "Component",
+   "definition": "A device which filters the LPG; the filter can be integrated in other components."
+  },
+  {
+   "term": "Flexible hoses",
+   "label": "Component",
+   "definition": "Hoses for conveying LPG in either a liquid or vapour state at various pressures from one point to another."
+  },
+  {
+   "term": "Hose assembly",
+   "label": "Component",
+   "definition": "An assembly of a flexible hose and couplings."
+  },
+  {
+   "term": "Filling unit",
+   "label": "Component",
+   "definition": "A device to allow filling of the container, either integrated in the 80% stop valve or as a remote filling unit at the outside of the vehicle."
+  },
+  {
+   "term": "Service coupling",
+   "label": "Component",
+   "definition": "A coupling in the fuel line between the fuel container and the engine, allowing a monofuel vehicle that is out of fuel to run from a service fuel container."
+  },
+  {
+   "term": "Fuel rail",
+   "label": "Component",
+   "definition": "A pipe or duct that connects the fuel injection devices."
+  },
+  {
+   "term": "Multi-component",
+   "label": "Component",
+   "definition": "Any of the specific components combined or fitted together as a component."
+  },
+  {
+   "term": "Gas tube",
+   "label": "Component",
+   "definition": "Tubing made of metallic material, designed not to flex in normal operation, through which LPG flows."
+  },
+  {
+   "term": "Liquefied petroleum gas (LPG)",
+   "label": "Fuel",
+   "definition": "Any product essentially composed of propane, propene, normal butane, isobutane, isobutylene, butene and ethane."
+  },
+  {
+   "term": "LPG-system",
+   "label": "System",
+   "definition": "A set of LPG specific equipment intended to be fitted in a vehicle to constitute an integrated and functional whole enabling propulsion with LPG."
+  },
+  {
+   "term": "Interconnected LPG-system (ICS)",
+   "label": "System",
+   "definition": "An LPG-system having hydraulic interconnections with the petrol or diesel fuelling system."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Class 0",
+   "distinguished_by": "Liquid LPG parts with pressure > 3,000 kPa; WP declared and marked"
+  },
+  {
+   "name": "Class 1",
+   "distinguished_by": "Liquid LPG parts up to 3,000 kPa"
+  },
+  {
+   "name": "Class 2",
+   "distinguished_by": "Vapour LPG parts, maximum operating pressure 20-450 kPa"
+  },
+  {
+   "name": "Class 2A",
+   "distinguished_by": "Vapour LPG parts, maximum operating pressure 20-120 kPa"
+  },
+  {
+   "name": "Class 3",
+   "distinguished_by": "Shut-off and pressure relief valves operating in liquid phase"
+  },
+  {
+   "name": "Standard cylindrical / special / all-composite container",
+   "distinguished_by": "Container shape and material"
+  },
+  {
+   "name": "Fuel pump inside / outside the container",
+   "distinguished_by": "Mounting location; affects design temperature and container 'PUMP INSIDE' marking"
+  },
+  {
+   "name": "H1 / H2 / H3",
+   "distinguished_by": "Additional marks for remotely controlled service valves and shut-off valves meeting Annex 3 para 4.7 or Annex 7 para 1.7"
+  },
+  {
+   "name": "High pressure rubber hose Class 1 / low pressure rubber hose Class 2 / high pressure synthetic hose Class 1 / high pressure synthetic hose Class 0",
+   "distinguished_by": "Hose material and pressure class (Annex 8)"
+  },
+  {
+   "name": "J15, K15 and heavy-duty vehicle Euro filling units",
+   "distinguished_by": "Filling unit connector type (Annex 9 impact test requirements)"
+  },
+  {
+   "name": "Interconnected vs. non-interconnected LPG-system",
+   "distinguished_by": "Hydraulic interconnection with petrol/diesel fuel system"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "Part I component approval",
+    "Part II vehicle installation approval"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definition and classification of components",
+   "about": [
+    "Class 0",
+    "Class 1",
+    "Class 2",
+    "Class 2A",
+    "Class 3",
+    "Specific equipment",
+    "Container",
+    "Accessories fitted to the container",
+    "all component definitions"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "Specific equipment"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Markings",
+   "about": [
+    "Container marking plate",
+    "H1/H2/H3",
+    "Class 0 WP marking"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Approval",
+   "about": [
+    "Approval mark"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Specifications regarding the various components of the LPG equipment",
+   "about": [
+    "Specific equipment"
+   ]
+  },
+  {
+   "label": "6.3",
+   "title": "Provisions regarding accessories fitted to the container",
+   "about": [
+    "Accessories fitted to the container",
+    "Multivalve"
+   ]
+  },
+  {
+   "label": "6.17",
+   "title": "General design rules regarding components",
+   "about": [
+    "Electrical insulation",
+    "Specific equipment"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Modifications of a type of LPG equipment and extension of approval",
+   "about": [
+    "Specific equipment"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "(Not allocated)",
+   "about": []
+  },
+  {
+   "label": "9",
+   "title": "Conformity of production",
+   "about": [
+    "Specific equipment"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Penalties for non-conformity of production",
+   "about": []
+  },
+  {
+   "label": "11",
+   "title": "Transitional provisions regarding the various components of the LPG equipment",
+   "about": [
+    "Specific equipment"
+   ]
+  },
+  {
+   "label": "12",
+   "title": "Production definitively discontinued",
+   "about": []
+  },
+  {
+   "label": "13",
+   "title": "Names and addresses of Technical Services and Type Approval Authorities",
+   "about": []
+  },
+  {
+   "label": "14",
+   "title": "Definitions (Part II)",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "15",
+   "title": "Application for approval (Part II)",
+   "about": [
+    "Vehicle"
+   ]
+  },
+  {
+   "label": "16",
+   "title": "Approval (Part II)",
+   "about": [
+    "Vehicle approval mark"
+   ]
+  },
+  {
+   "label": "17",
+   "title": "Requirements for the installation of specific equipment for the use of LPG",
+   "about": [
+    "LPG-system"
+   ]
+  },
+  {
+   "label": "17.1",
+   "title": "General",
+   "about": [
+    "LPG-system"
+   ]
+  },
+  {
+   "label": "17.2",
+   "title": "Further requirements",
+   "about": [
+    "LPG-system"
+   ]
+  },
+  {
+   "label": "17.3",
+   "title": "The LPG system",
+   "about": [
+    "LPG-system",
+    "Specific equipment"
+   ]
+  },
+  {
+   "label": "17.4",
+   "title": "Installation of the fuel container",
+   "about": [
+    "Container"
+   ]
+  },
+  {
+   "label": "17.5",
+   "title": "Further requirements to the fuel container",
+   "about": [
+    "Container"
+   ]
+  },
+  {
+   "label": "17.6",
+   "title": "Accessories to the fuel container",
+   "about": [
+    "Accessories fitted to the container",
+    "Gas-tight housing"
+   ]
+  },
+  {
+   "label": "17.7",
+   "title": "Gas tubes and gas hoses",
+   "about": [
+    "Gas tube",
+    "Flexible hoses"
+   ]
+  },
+  {
+   "label": "17.8",
+   "title": "Gas connections between the components of the LPG system",
+   "about": [
+    "Gas tube",
+    "Hose assembly"
+   ]
+  },
+  {
+   "label": "17.9",
+   "title": "Remotely controlled shut-off valve",
+   "about": [
+    "Shut-off valve"
+   ]
+  },
+  {
+   "label": "17.11",
+   "title": "Fuel selection system and electrical installation",
+   "about": [
+    "Electronic control unit",
+    "Power supply bushing"
+   ]
+  },
+  {
+   "label": "17.12",
+   "title": "Pressure relief device",
+   "about": [
+    "Pressure relief device"
+   ]
+  },
+  {
+   "label": "17.13",
+   "title": "Specific provisions for interconnected LPG-systems",
+   "about": [
+    "Interconnected LPG-system (ICS)",
+    "Non-return valve"
+   ]
+  },
+  {
+   "label": "18",
+   "title": "Conformity of production (Part II)",
+   "about": []
+  },
+  {
+   "label": "19",
+   "title": "Penalties for non-conformity of production (Part II)",
+   "about": []
+  },
+  {
+   "label": "20",
+   "title": "Modification and extension of approval of a vehicle type",
+   "about": []
+  },
+  {
+   "label": "21",
+   "title": "Production definitively discontinued (Part II)",
+   "about": []
+  },
+  {
+   "label": "22",
+   "title": "Transitional provisions regarding the installation of various components of the LPG equipment",
+   "about": [
+    "LPG-system"
+   ]
+  },
+  {
+   "label": "23",
+   "title": "Names and addresses of Technical Services and Type Approval Authorities (Part II)",
+   "about": []
+  },
+  {
+   "label": "Annex 1",
+   "title": "Essential characteristics of the vehicle, engine and LPG-related equipment",
+   "about": [
+    "Vehicle",
+    "LPG-system"
+   ]
+  },
+  {
+   "label": "Annex 2A",
+   "title": "Arrangement of the LPG equipment type-approval mark",
+   "about": [
+    "Approval mark",
+    "Class marking"
+   ]
+  },
+  {
+   "label": "Annex 2B",
+   "title": "Communication concerning approval of a type of LPG equipment",
+   "about": [
+    "Container",
+    "Accessories fitted to the container",
+    "container family"
+   ]
+  },
+  {
+   "label": "Annex 2C",
+   "title": "Arrangement of vehicle approval marks",
+   "about": [
+    "Vehicle"
+   ]
+  },
+  {
+   "label": "Annex 2D",
+   "title": "Communication concerning approval of a vehicle type with regard to LPG installation",
+   "about": [
+    "Vehicle"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Provisions regarding the approval of accessories fitted to the container",
+   "about": [
+    "80 per cent stop valve",
+    "Level indicator",
+    "Pressure relief valve (discharge valve)",
+    "Remotely controlled service valve with excess flow valve",
+    "Power supply bushing",
+    "Gas-tight housing",
+    "Pressure relief device"
+   ]
+  },
+  {
+   "label": "Annex 3 1",
+   "title": "80 per cent stop valve",
+   "about": [
+    "80 per cent stop valve"
+   ]
+  },
+  {
+   "label": "Annex 3 2",
+   "title": "Level indicator",
+   "about": [
+    "Level indicator"
+   ]
+  },
+  {
+   "label": "Annex 3 3",
+   "title": "Pressure relief valve (discharge valve)",
+   "about": [
+    "Pressure relief valve (discharge valve)"
+   ]
+  },
+  {
+   "label": "Annex 3 4",
+   "title": "Remotely controlled service valve with excess flow valve",
+   "about": [
+    "Remotely controlled service valve with excess flow valve",
+    "H1/H2/H3"
+   ]
+  },
+  {
+   "label": "Annex 3 5",
+   "title": "Power supply bushing",
+   "about": [
+    "Power supply bushing"
+   ]
+  },
+  {
+   "label": "Annex 3 6",
+   "title": "Gas-tight housing",
+   "about": [
+    "Gas-tight housing"
+   ]
+  },
+  {
+   "label": "Annex 3 7",
+   "title": "Pressure relief device (fuse)",
+   "about": [
+    "Pressure relief device"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Provisions regarding the approval of the fuel pump",
+   "about": [
+    "Fuel pump"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Provisions regarding the approval of the LPG filter unit",
+   "about": [
+    "LPG filter unit"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Provisions regarding the approval of the pressure regulator and vaporizer",
+   "about": [
+    "Vaporizer",
+    "Pressure regulator"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Provisions regarding the approval of shut-off valve, non-return valve, gas-tube pressure relief valve and service coupling",
+   "about": [
+    "Shut-off valve",
+    "Non-return valve",
+    "Gas-tube pressure relief valve",
+    "Service coupling"
+   ]
+  },
+  {
+   "label": "Annex 7 1",
+   "title": "Shut-off valve",
+   "about": [
+    "Shut-off valve",
+    "H1/H2/H3"
+   ]
+  },
+  {
+   "label": "Annex 7 2",
+   "title": "Non-return valve",
+   "about": [
+    "Non-return valve"
+   ]
+  },
+  {
+   "label": "Annex 7 3",
+   "title": "Gas-tube relief valve",
+   "about": [
+    "Gas-tube pressure relief valve"
+   ]
+  },
+  {
+   "label": "Annex 7 4",
+   "title": "Service coupling",
+   "about": [
+    "Service coupling"
+   ]
+  },
+  {
+   "label": "Annex 8",
+   "title": "Provisions regarding the approval of flexible hoses with couplings",
+   "about": [
+    "Flexible hoses",
+    "Hose assembly"
+   ]
+  },
+  {
+   "label": "Annex 8 1",
+   "title": "High pressure rubber hoses, Class 1, filling hose",
+   "about": [
+    "Flexible hoses",
+    "Class 1"
+   ]
+  },
+  {
+   "label": "Annex 8 2",
+   "title": "Low pressure rubber hoses, Class 2",
+   "about": [
+    "Flexible hoses",
+    "Class 2"
+   ]
+  },
+  {
+   "label": "Annex 8 3",
+   "title": "High pressure synthetic hoses, Class 1",
+   "about": [
+    "Flexible hoses",
+    "Class 1"
+   ]
+  },
+  {
+   "label": "Annex 8 4",
+   "title": "High pressure synthetic hoses, Class 0",
+   "about": [
+    "Flexible hoses",
+    "Class 0"
+   ]
+  },
+  {
+   "label": "Annex 9",
+   "title": "Provisions regarding the approval of the filling unit",
+   "about": [
+    "Filling unit",
+    "J15/K15/heavy-duty Euro filling units"
+   ]
+  },
+  {
+   "label": "Annex 10",
+   "title": "Provisions regarding the approval of LPG containers",
+   "about": [
+    "Container",
+    "Standard cylindrical container",
+    "Special container",
+    "All-composite container"
+   ]
+  },
+  {
+   "label": "Annex 10 Appendix 6",
+   "title": "Material requirements for all-composite containers",
+   "about": [
+    "All-composite container"
+   ]
+  },
+  {
+   "label": "Annex 11",
+   "title": "Provisions regarding the approval of gas injection devices, gas mixing pieces and fuel rails",
+   "about": [
+    "Gas injection device or injector or gas mixing piece",
+    "Fuel rail"
+   ]
+  },
+  {
+   "label": "Annex 11 1",
+   "title": "Gas injection device or injector",
+   "about": [
+    "Gas injection device or injector or gas mixing piece"
+   ]
+  },
+  {
+   "label": "Annex 11 2",
+   "title": "Gas injection device or gas mixing piece",
+   "about": [
+    "Gas injection device or injector or gas mixing piece"
+   ]
+  },
+  {
+   "label": "Annex 11 3",
+   "title": "Fuel rail",
+   "about": [
+    "Fuel rail"
+   ]
+  },
+  {
+   "label": "Annex 12",
+   "title": "Provisions regarding the approval of the gas dosage unit",
+   "about": [
+    "Gas dosage unit"
+   ]
+  },
+  {
+   "label": "Annex 13",
+   "title": "Provisions regarding the approval of pressure and temperature sensors",
+   "about": [
+    "Pressure or temperature sensor"
+   ]
+  },
+  {
+   "label": "Annex 14",
+   "title": "Provisions regarding the approval of the electronic control unit",
+   "about": [
+    "Electronic control unit",
+    "EMC",
+    "Interconnected LPG-system (ICS)"
+   ]
+  },
+  {
+   "label": "Annex 16",
+   "title": "Test procedures",
+   "about": [
+    "Class 0",
+    "Class 1",
+    "Class 2",
+    "Class 2A",
+    "Class 3",
+    "Non-return valve",
+    "80 per cent stop valve",
+    "Excess flow valve",
+    "synthetic material compatibility"
+   ]
+  },
+  {
+   "label": "Annex 18",
+   "title": "Identification sign (sticker) for LPG vehicles",
+   "about": [
+    "Vehicle identification sign"
+   ]
+  },
+  {
+   "label": "Annex 19",
+   "title": "Requirements for metallic and non-metallic components and parts",
+   "about": [
+    "Gas tube",
+    "Multi-component"
+   ]
+  },
+  {
+   "label": "Annex 20",
+   "title": "Documentation and test procedures",
+   "about": [
+    "Gas tube",
+    "Gas tubes of other materials"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Any part containing LPG at more than 20 kPa above atmospheric falls under a class (0, 1, 2, 2A or 3). Parts designed for below 20 kPa are not subject to the Regulation.",
+  "One component may contain several parts, each classified separately according to its pressure and function.",
+  "Combined or integrated assemblies are approvable as a 'multi-component' or 'multivalve'. Filters integrated in other components still count as LPG filter units.",
+  "The LPG ECU is specific equipment and must also meet EMC requirements (Annex 14). ECUs for interconnected systems have additional provisions.",
+  "Electrical items in contact with LPG, such as power supply bushings, actuators and level sensors, are covered. So are electrically operated valves, with insulation rules in 6.17.2.",
+  "Fuel pumps mounted inside the container change the container marking ('PUMP INSIDE') and their design-temperature range.",
+  "Gas tubes, including non-copper or non-steel materials and their couplings, are approvable specific equipment.",
+  "Liquid-injection or interconnected systems sharing hydraulics with petrol or diesel fuel systems trigger the ICS provisions (17.13, Annex 16 9.7).",
+  "Non-metallic parts carry extra marking (manufacturing month/year) and material tests: ozone, creep, temperature cycling and LPG compatibility.",
+  "A vehicle approval (Part II) covers the installation, LPG identification sticker, ventilation and gas-tight housing. Components must be Part I approved.",
+  "Remote filling units mounted on the vehicle exterior are covered as filling units, including the J15/K15/Euro heavy-duty connector impact tests."
+ ],
+ "version": "4.2.0"
+}

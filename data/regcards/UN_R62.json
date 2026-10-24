@@ -1,0 +1,260 @@
+{
+ "regulation": "UN R62",
+ "title": "Uniform provisions concerning the approval of power-driven vehicles with handlebars with regard to their protection against unauthorized use (Anti-theft, mopeds/motorcycles)",
+ "subject_kind": "vehicle_system",
+ "scope_summary": "Approves a vehicle type with regard to its protection against unauthorized use by a protective device that positively locks the steering or the transmission, optionally combined with engine de-activation. It applies to L-category vehicles (L1 to L7) fitted with handlebars.",
+ "scope_quote": "This Regulation applies to vehicles of categories L1 to L7, 1/ if fitted with handlebars.",
+ "vehicle_categories": [
+  "L1",
+  "L2",
+  "L3",
+  "L4",
+  "L5",
+  "L6",
+  "L7"
+ ],
+ "applies_to_components": [
+  "Protective device (anti-theft system preventing unauthorized use)",
+  "Steering lock acting on the steering (handlebars, steering head and its accessory cladding, steering shaft)",
+  "Device which de-activates the engine of the vehicle, when combined with the steering lock",
+  "Transmission lock (positive locking action of the transmission)",
+  "Locking system key",
+  "Locking system combinations",
+  "Mountings of the protective device on the vehicle"
+ ],
+ "relation_to_other_regulations": [
+  "Vehicle categories L1 to L7 are as defined in Annex 7 to the Consolidated Resolution on the Construction of Vehicles (R.E.3), TRANS/WP.29/78/Rev.1/Amend.2 as amended by Amend.4.",
+  "Para. 4.5: when the vehicle is also approved under one or more other Regulations annexed to the 1958 Agreement in the same country, the circle-E symbol need not be repeated and the regulation and approval numbers are placed in vertical columns to its right.",
+  "The approval number begins with 00, indicating the original version of the Regulation with no series of amendments.",
+  "Section 12 contains transitional provisions."
+ ],
+ "defined_terms": [
+  {
+   "term": "Approval of a vehicle",
+   "label": "2.1",
+   "definition": "The approval of a vehicle type with regard to its protection against unauthorized use."
+  },
+  {
+   "term": "Vehicle type",
+   "label": "2.2",
+   "definition": "A category of power-driven vehicles that do not differ in the manufacturer's type indications, the arrangement and design of the component(s) on which the protective device acts, or the type of protective device."
+  },
+  {
+   "term": "Protective device",
+   "label": "2.3",
+   "definition": "A system designed to prevent unauthorized use of the vehicle by a positive locking action of the steering or of the transmission."
+  },
+  {
+   "term": "Type 1",
+   "label": "2.3.1",
+   "definition": "A protective device operated solely and positively on the steering alone."
+  },
+  {
+   "term": "Type 2",
+   "label": "2.3.2",
+   "definition": "A protective device operated positively on the steering in conjunction with the device which de-activates the engine of the vehicle."
+  },
+  {
+   "term": "Type 3",
+   "label": "2.3.3",
+   "definition": "A pre-loaded protective device operating on the steering in conjunction with the device which de-activates the engine of the vehicle."
+  },
+  {
+   "term": "Type 4",
+   "label": "2.3.4",
+   "definition": "A protective device operated positively on the transmission."
+  },
+  {
+   "term": "Steering",
+   "label": "2.4",
+   "definition": "The steering control (handlebars), the steering head and its accessory cladding, the steering shaft and all other components which directly affect the effectiveness of the protective device."
+  },
+  {
+   "term": "Combination",
+   "label": "2.5",
+   "definition": "One of the specifically planned and constructed variations of a locking system which, when properly activated, permits operation of the locking system."
+  },
+  {
+   "term": "Key",
+   "label": "2.6",
+   "definition": "Any device designed and constructed to operate a locking system that is designed and constructed to be operated only by that device."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Type 1 protective device",
+   "distinguished_by": "Solely and positively operated on the steering alone"
+  },
+  {
+   "name": "Type 2 protective device",
+   "distinguished_by": "Positively operated on the steering in conjunction with the engine de-activation device"
+  },
+  {
+   "name": "Type 3 protective device",
+   "distinguished_by": "Pre-loaded, operating on the steering in conjunction with the engine de-activation device"
+  },
+  {
+   "name": "Type 4 protective device",
+   "distinguished_by": "Positively operated on the transmission"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "L1 to L7 vehicles fitted with handlebars"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Approval of a vehicle",
+    "Vehicle type",
+    "Protective device",
+    "Type 1",
+    "Type 2",
+    "Type 3",
+    "Type 4",
+    "Steering",
+    "Combination",
+    "Key"
+   ]
+  },
+  {
+   "label": "2.3",
+   "title": "Protective device (types 1-4)",
+   "about": [
+    "Protective device",
+    "Type 1",
+    "Type 2",
+    "Type 3",
+    "Type 4"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "Vehicle type",
+    "Protective device",
+    "documentation and drawings of the protective device and its mountings"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "Approval of a vehicle",
+    "approval number",
+    "approval mark placed close to or on the vehicle data plate"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "General specifications",
+   "about": [
+    "Protective device",
+    "Steering",
+    "Key",
+    "Combination"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Particular specifications",
+   "about": [
+    "Protective device",
+    "Type 1",
+    "Type 2",
+    "Type 3",
+    "Type 4"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Modifications of vehicle type or of the vehicle's protective device",
+   "about": [
+    "Vehicle type",
+    "Protective device",
+    "extension of approval"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Conformity of production",
+   "about": [
+    "Approval of a vehicle"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Penalties for non-conformity of production",
+   "about": [
+    "Approval of a vehicle"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Production definitely discontinued",
+   "about": [
+    "Approval of a vehicle"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Names and addresses of technical services responsible for conducting approval tests, and of administrative departments",
+   "about": [
+    "administrative"
+   ]
+  },
+  {
+   "label": "12",
+   "title": "Transitional provisions",
+   "about": [
+    "Approval of a vehicle",
+    "Protective device"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication (approval form)",
+   "about": [
+    "Vehicle type",
+    "Protective device",
+    "Approval of a vehicle"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Arrangements of approval marks",
+   "about": [
+    "approval mark Model A",
+    "marking combined with other Regulations"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Test equipment / test procedure",
+   "about": [
+    "Protective device",
+    "Steering",
+    "Type 1",
+    "Type 2",
+    "Type 3",
+    "Type 4"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Applies only to L-category vehicles steered by handlebars, including mopeds, motorcycles, tricycles and quadricycles (e.g. ATVs) with handlebars; L-vehicles with a steering wheel are outside its scope.",
+  "A combined ignition switch/steering lock (lock acting on steering plus engine de-activation) is a type 2 or type 3 protective device covered by this Regulation.",
+  "Transmission locks are covered as type 4 protective devices, not only steering locks.",
+  "'Steering' includes the handlebars, steering head, accessory cladding (fairings/covers around the steering head) and steering shaft, so changes to these parts can affect the approval if they influence the protective device's effectiveness.",
+  "Keys and lock combinations (the number of key variations) belong to the protective device system and fall under its requirements.",
+  "This is a whole-vehicle approval: the lock is not approved as a separate component; changing the lock type or its mounting needs a new approval or an extension (section 7, para. 4.2).",
+  "The approval mark is placed on the vehicle near or on the manufacturer's data plate, not on the lock."
+ ],
+ "version": "1.0.0"
+}

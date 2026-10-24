@@ -1,0 +1,471 @@
+{
+ "regulation": "UN R116",
+ "title": "Uniform technical prescriptions concerning the protection of motor vehicles against unauthorized use (anti-theft and alarm systems)",
+ "subject_kind": "mixed",
+ "scope_summary": "R116 approves M1 and N1 vehicles with regard to their devices to prevent unauthorized use (Part I), their alarm systems (Part III) and their immobilizers (Part IV). It also approves vehicle alarm systems (Part II) and immobilizers (Part IV) as separate components, mainly for M1 and N1 vehicles of no more than 2 tonnes with 12 V electrical systems.",
+ "scope_quote": "1.1 PART I - Approval of a vehicle of category M1 and N1 with regard to its devices to prevent unauthorized use. 1.2 PART II - Approval of vehicle alarm systems (VAS) which are intended to be permanently fitted to vehicles of category M1 and those of category N1 with a maximum mass of not more than 2 tonnes. 1.3 PART III - Approval of vehicles of category M1 and those of category N1 with a maximum mass of not more than 2 tonnes, with regard to their alarm system(s). 1.4 PART IV - Approval of immobilizers and vehicles of category M1 and vehicles of category N1 with a maximum mass of not more than 2 tonnes with regard to immobilizers.",
+ "vehicle_categories": [
+  "M1",
+  "N1 (Part I: all N1; Parts II-IV: N1 with maximum mass not more than 2 tonnes)",
+  "Other categories optionally, at the manufacturer's request (para 1.5-1.7)"
+ ],
+ "applies_to_components": [
+  "device to prevent unauthorized use (steering lock, transmission lock, gear shift control lock, brake lock combined with prevention of engine starting)",
+  "steering (steering control, column, shaft, gearbox as relevant to the locking device)",
+  "locking system and key, including electronic/digital key",
+  "vehicle alarm system (VAS) and its sensors, warning device (siren/hazard lamps) and control equipment",
+  "alarm system (AS) fitted as original equipment to a vehicle",
+  "passenger compartment intrusion protection systems",
+  "panic alarm",
+  "external key switch of a VAS",
+  "immobilizer",
+  "rolling code transmitters / remote controls (functional requirements only, not radio frequencies)"
+ ],
+ "relation_to_other_regulations": [
+  "Vehicles approved to UN R161 (unauthorized use) are deemed to comply with Part I.",
+  "VAS approved to UN R163 (alarm system) are deemed to comply with Part II.",
+  "Vehicles approved to UN R163 are deemed to comply with Part III.",
+  "Vehicles approved to UN R162 (immobilizer) are deemed to comply with Part IV.",
+  "Vehicle categories refer to the Consolidated Resolution on the Construction of Vehicles (R.E.3).",
+  "Radio transmission frequencies are excluded from the scope (para 1.9)."
+ ],
+ "defined_terms": [
+  {
+   "term": "component",
+   "label": "2.1",
+   "definition": "A device subject to the requirements of this regulation, intended to be part of a vehicle, which may be type-approved independently of a vehicle where the regulation expressly provides for it."
+  },
+  {
+   "term": "separate technical unit",
+   "label": "2.2",
+   "definition": "A device subject to this regulation, intended to be part of a vehicle, which may be type-approved separately but only in relation to one or more specified vehicle types."
+  },
+  {
+   "term": "Manufacturer",
+   "label": "2.3",
+   "definition": "The person or body responsible to the approval authority for all aspects of type approval and conformity of production."
+  },
+  {
+   "term": "Steering",
+   "label": "5.1",
+   "definition": "The steering control, steering column and covering assembly, steering shaft, steering gearbox and all other components directly affecting the effectiveness of the device to prevent unauthorized use."
+  },
+  {
+   "term": "Device to prevent unauthorized use",
+   "label": "5.1",
+   "definition": "A system designed to prevent normal starting of the engine or other main power source, combined with at least one system locking the steering, the transmission, the gear shift control or the brake."
+  },
+  {
+   "term": "Key",
+   "label": "5.1 / 6.1 / 8.1",
+   "definition": "Any device designed and constructed to operate a locking system, VAS or immobilizer that is designed to be operated only by that device."
+  },
+  {
+   "term": "Combination",
+   "label": "5.1",
+   "definition": "One of the specifically planned and constructed variations of a locking system that, when properly activated, permits operation of the locking system."
+  },
+  {
+   "term": "Rolling code",
+   "label": "5.1 / 6.1 / 8.1",
+   "definition": "An electronic code consisting of several elements whose combination changes randomly after each operation of the transmitter."
+  },
+  {
+   "term": "Vehicle alarm system (VAS)",
+   "label": "6.1",
+   "definition": "A system intended for installation on one or more vehicle types, designed to indicate intrusion into or interference with the vehicle, possibly also protecting against unauthorized use."
+  },
+  {
+   "term": "Sensor",
+   "label": "6.1",
+   "definition": "A device which senses a change that might be caused by intrusion into or interference with the vehicle."
+  },
+  {
+   "term": "Warning device",
+   "label": "6.1",
+   "definition": "A device indicating that an intrusion or interference has taken place."
+  },
+  {
+   "term": "Control equipment",
+   "label": "6.1",
+   "definition": "Equipment necessary for setting, unsetting and/or testing a VAS."
+  },
+  {
+   "term": "Set / unset state",
+   "label": "6.1 / 8.1",
+   "definition": "The state in which the alarm system or immobilizer is active (set) or deactivated (unset)."
+  },
+  {
+   "term": "Panic alarm",
+   "label": "6.1",
+   "definition": "A device enabling a person to use an alarm installed on the vehicle to summon assistance in an emergency."
+  },
+  {
+   "term": "Alarm system (AS)",
+   "label": "7.1",
+   "definition": "An arrangement of components fitted as original equipment to a vehicle type, designed to indicate intrusion into or interference with the vehicle."
+  },
+  {
+   "term": "Immobilizer",
+   "label": "8.1",
+   "definition": "A device intended to prevent the vehicle being driven away under its own power."
+  },
+  {
+   "term": "Digital key",
+   "label": "Annex 11",
+   "definition": "An electronic or software-based key (e.g. a smartphone-based credential) used to operate the vehicle's protection systems, subject to documentation and verification requirements."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "L (Part I vehicle approval)",
+   "distinguished_by": "Vehicle approval as regards devices to prevent unauthorized use."
+  },
+  {
+   "name": "A (alarm system, Part II)",
+   "distinguished_by": "Approval of a vehicle alarm system."
+  },
+  {
+   "name": "I (immobilizer, Part IV)",
+   "distinguished_by": "Approval of an immobilizer."
+  },
+  {
+   "name": "AI",
+   "distinguished_by": "Combination of an alarm system and an immobilizer."
+  },
+  {
+   "name": "LA / LI / LAI",
+   "distinguished_by": "Part I vehicle approval combined with an alarm system, an immobilizer, or both."
+  },
+  {
+   "name": "VAS (component) vs AS (vehicle original equipment)",
+   "distinguished_by": "A VAS is approved as a component under Part II; an AS is assessed as part of a vehicle approval under Part III."
+  },
+  {
+   "name": "Original equipment vs after-market VAS/immobilizer",
+   "distinguished_by": "Fitment by the vehicle manufacturer, supported by a certificate of conformity, versus installation by an installer, supported by a certificate of installation."
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "Parts I-IV",
+    "vehicle categories",
+    "exclusion of radio frequencies",
+    "R161/R162/R163 equivalence"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions: general",
+   "about": [
+    "component",
+    "separate technical unit",
+    "Manufacturer"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "information document (Annex 1)"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "approval mark",
+    "symbols A, I, AI, L, LA, LI, LAI",
+    "certificate of conformity"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Part I: Approval of a vehicle of category M1 and N1 with regard to its devices to prevent unauthorized use",
+   "about": [
+    "Device to prevent unauthorized use"
+   ]
+  },
+  {
+   "label": "5.1",
+   "title": "Definitions (Part I)",
+   "about": [
+    "Steering",
+    "Key",
+    "Combination",
+    "Rolling code",
+    "Device to prevent unauthorized use"
+   ]
+  },
+  {
+   "label": "5.2",
+   "title": "General specifications (Part I)",
+   "about": [
+    "steering lock",
+    "transmission lock",
+    "gear shift lock",
+    "brake lock",
+    "Key",
+    "Combination"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Part II: Approval of vehicle alarm systems",
+   "about": [
+    "Vehicle alarm system (VAS)"
+   ]
+  },
+  {
+   "label": "6.1",
+   "title": "Definitions (Part II)",
+   "about": [
+    "Vehicle alarm system (VAS)",
+    "Sensor",
+    "Warning device",
+    "Control equipment",
+    "Set / unset state",
+    "Key",
+    "Panic alarm",
+    "Rolling code"
+   ]
+  },
+  {
+   "label": "6.2",
+   "title": "General specifications (Part II)",
+   "about": [
+    "Vehicle alarm system (VAS)"
+   ]
+  },
+  {
+   "label": "6.3",
+   "title": "Particular specifications (Part II)",
+   "about": [
+    "Sensor",
+    "Warning device",
+    "Control equipment",
+    "Panic alarm",
+    "immunity, false alarms, environmental tests"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Part III: Approval of a vehicle with regard to its alarm system",
+   "about": [
+    "Alarm system (AS)"
+   ]
+  },
+  {
+   "label": "7.1",
+   "title": "Definitions (Part III)",
+   "about": [
+    "Alarm system (AS)"
+   ]
+  },
+  {
+   "label": "7.2",
+   "title": "General specifications (Part III)",
+   "about": [
+    "Alarm system (AS)"
+   ]
+  },
+  {
+   "label": "7.3",
+   "title": "Particular specifications (Part III)",
+   "about": [
+    "Sensor",
+    "Warning device",
+    "Control equipment"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Part IV: Approval of immobilizers and approval of a vehicle with regard to its immobilizer",
+   "about": [
+    "Immobilizer"
+   ]
+  },
+  {
+   "label": "8.1",
+   "title": "Definitions (Part IV)",
+   "about": [
+    "Immobilizer",
+    "Set / unset state",
+    "Key",
+    "Rolling code"
+   ]
+  },
+  {
+   "label": "8.2",
+   "title": "General specifications (Part IV)",
+   "about": [
+    "Immobilizer"
+   ]
+  },
+  {
+   "label": "8.3",
+   "title": "Particular specifications (Part IV)",
+   "about": [
+    "Immobilizer",
+    "Set / unset state"
+   ]
+  },
+  {
+   "label": "8.4",
+   "title": "Operation parameters and test conditions",
+   "about": [
+    "Immobilizer",
+    "environmental tests"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Modification of the type and extension of approval",
+   "about": []
+  },
+  {
+   "label": "10",
+   "title": "Conformity of production procedures",
+   "about": []
+  },
+  {
+   "label": "11",
+   "title": "Penalties for non-conformity of production",
+   "about": []
+  },
+  {
+   "label": "12",
+   "title": "Production definitely discontinued",
+   "about": []
+  },
+  {
+   "label": "13",
+   "title": "Transitional provisions",
+   "about": [
+    "Immobilizer"
+   ]
+  },
+  {
+   "label": "13.1",
+   "title": "Type approval of an immobilizer",
+   "about": [
+    "Immobilizer"
+   ]
+  },
+  {
+   "label": "13.4",
+   "title": "General transitional provisions",
+   "about": []
+  },
+  {
+   "label": "14",
+   "title": "Names and addresses of technical services and type approval authorities",
+   "about": []
+  },
+  {
+   "label": "Annex 1",
+   "title": "Information documents (Part 1 vehicle; Part 2 VAS; Part 3 immobilizer)",
+   "about": [
+    "Device to prevent unauthorized use",
+    "Vehicle alarm system (VAS)",
+    "Immobilizer"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Communication forms (Parts 1-3)",
+   "about": [
+    "Device to prevent unauthorized use",
+    "Vehicle alarm system (VAS)",
+    "Immobilizer"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Arrangements of approval marks",
+   "about": [
+    "A, I, AI, L, LA, LI, LAI symbols"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Test procedure for devices to prevent unauthorized use acting on the steering (wear-resistance)",
+   "about": [
+    "Steering",
+    "Device to prevent unauthorized use"
+   ]
+  },
+  {
+   "label": "Annex 5 (listed as second Annex 4 in TOC)",
+   "title": "Acting on the steering using a torque limiting device",
+   "about": [
+    "Steering",
+    "Device to prevent unauthorized use"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Model certificate of conformity",
+   "about": [
+    "Vehicle alarm system (VAS)",
+    "Immobilizer"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Model certificate of installation",
+   "about": [
+    "after-market installation of VAS/immobilizer"
+   ]
+  },
+  {
+   "label": "Annex 8",
+   "title": "Test of systems for the protection of the passenger compartment",
+   "about": [
+    "Sensor",
+    "passenger compartment protection"
+   ]
+  },
+  {
+   "label": "Annex 9",
+   "title": "Electromagnetic compatibility tests (ISO or IEC method)",
+   "about": [
+    "Vehicle alarm system (VAS)",
+    "Alarm system (AS)",
+    "Immobilizer"
+   ]
+  },
+  {
+   "label": "Annex 10",
+   "title": "Requirements for external key switch",
+   "about": [
+    "Key",
+    "Control equipment"
+   ]
+  },
+  {
+   "label": "Annex 11",
+   "title": "Digital key documentation and verification",
+   "about": [
+    "Digital key",
+    "cyber security"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "After-market alarm kits (siren, control unit, sensors) are approved as components under Part II and marked 'A'; immobilizers sold separately are approved under Part IV and marked 'I'.",
+  "Ultrasonic or radar interior intrusion sensors, tilt sensors and door/bonnet contacts are 'sensors' of a VAS/AS and are tested per Annex 8.",
+  "Steering column locks, electronic steering locks, transmission/park locks, gear shift locks and brake locks fall under Part I when combined with prevention of engine starting.",
+  "Key fobs, transponder keys, remote controls and rolling-code transmitters are covered functionally (code permutations, rolling code), but radio frequencies are excluded.",
+  "Smartphone or digital keys fall under Annex 11 and must be resilient to cyber-attacks.",
+  "Alarm and immobilizer electronics must pass the Annex 9 EMC tests within R116 itself, in addition to any EMC regulation.",
+  "Hazard lamps or horn used as an alarm warning device become part of the VAS/AS requirements.",
+  "Engine ECUs or keyless-start modules implementing the immobilizer function fall under Part IV.",
+  "Vehicles or devices approved to R161, R162 or R163 are deemed compliant with the corresponding R116 Part.",
+  "Fitting these devices to other categories, or to N1 above 2 t, is optional, but any device fitted must comply."
+ ],
+ "version": "1.3.0"
+}

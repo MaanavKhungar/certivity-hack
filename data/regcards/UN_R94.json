@@ -1,0 +1,586 @@
+{
+ "regulation": "UN R94 (version 5.1.0)",
+ "title": "Uniform provisions concerning the approval of vehicles with regard to the protection of the occupants in the event of a frontal collision (offset deformable barrier test)",
+ "subject_kind": "vehicle_system",
+ "scope_summary": "Approves vehicle types with regard to the protection of front-seat occupants in a frontal collision, using an offset deformable barrier test at 56 km/h with instrumented Hybrid III dummies. The requirements also cover post-crash electrical safety of high-voltage systems and hydrogen safety. It applies to M1 vehicles up to 3,500 kg and N1 vehicles up to 2,500 kg, and other vehicles may be approved at the manufacturer's request.",
+ "scope_quote": "This Regulation applies to vehicles of category M1 of a total permissible mass not exceeding 3,500 kg and to vehicles of category N1 of a total permissible mass not exceeding 2,500 kg; other vehicles may be approved at the request of the manufacturer.",
+ "vehicle_categories": [
+  "M1 (total permissible mass ≤ 3,500 kg)",
+  "N1 (total permissible mass ≤ 2,500 kg)",
+  "Other categories on manufacturer's request"
+ ],
+ "applies_to_components": [
+  "Protective system (interior fittings and restraint devices for front-seat occupants)",
+  "Safety belts and restraint systems",
+  "Airbags, including driver and passenger airbags",
+  "Front structure of the vehicle forward of the transverse plane through the driver's R point",
+  "Passenger compartment (occupant protection: intrusion and survival space)",
+  "Steering control and steering column (dummy contact, displacement)",
+  "Front seats and seat displacement systems",
+  "Doors and door locking, including automatically activated door locking systems",
+  "Footwell and pedals (dummy foot and tibia loads)",
+  "Fuel system (post-crash leakage)",
+  "High voltage electric power train: REESS, traction motor, electronic converters, electrical energy conversion system (e.g. fuel cell), HV bus, wiring harness, connectors, coupling system for charging",
+  "Electrical protection barriers, enclosures, solid insulators and automatic disconnect",
+  "REESS electrolyte leakage and REESS retention",
+  "Compressed hydrogen storage system (CHSS), container, shut-off valve and downstream piping (post-crash leak and enclosed-space concentration)",
+  "User instructions and warnings for airbags"
+ ],
+ "relation_to_other_regulations": [
+  "Vehicle categories M1/N1 are as defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3), ECE/TRANS/WP.29/78/Rev.7.",
+  "The H point / R point determination procedure (Annex 6 and its appendices) refers to Addendum 6 of Mutual Resolution No. 1 (M.R.1).",
+  "Approval numbering follows Schedule 4 of the 1958 Agreement (E/ECE/TRANS/505/Rev.3).",
+  "The hydrogen fuel definition refers to ISO 14687:2019 and SAE J2719_202003.",
+  "The approval mark may be combined with the marks of other UN Regulations under which the vehicle is approved (para. 4.5).",
+  "No replaced or superseded regulations are stated in the opening sections."
+ ],
+ "defined_terms": [
+  {
+   "term": "Protective system",
+   "label": "2.1",
+   "definition": "Interior fittings and devices intended to restrain the occupants and contribute towards ensuring compliance with the requirements of paragraph 5."
+  },
+  {
+   "term": "Type of protective system",
+   "label": "2.2",
+   "definition": "A category of protective devices which do not differ in technology, geometry or constituent materials."
+  },
+  {
+   "term": "Vehicle width",
+   "label": "2.3",
+   "definition": "Distance between two planes parallel to the longitudinal median plane touching the vehicle on either side, excluding mirrors, side marker lamps, tyre pressure indicators, direction indicators, position lamps, flexible mud-guards and tyre bulge."
+  },
+  {
+   "term": "Overlap",
+   "label": "2.4",
+   "definition": "The percentage of the vehicle width directly in line with the barrier face."
+  },
+  {
+   "term": "Deformable barrier face",
+   "label": "2.5",
+   "definition": "A crushable section mounted on the front of a rigid block."
+  },
+  {
+   "term": "Vehicle type",
+   "label": "2.6",
+   "definition": "Power-driven vehicles not differing in length and width, front structure, passenger compartment and protective system, engine siting and orientation, unladen mass, optional fittings, REESS location or CHSS configuration, in so far as these affect the impact test result."
+  },
+  {
+   "term": "Passenger compartment with regard to occupant protection",
+   "label": "2.7.1",
+   "definition": "The occupant space bounded by roof, floor, side walls, doors, outside glazing, front bulkhead and the rear compartment bulkhead or rear-seat back support plane."
+  },
+  {
+   "term": "Passenger compartment for electric safety and/or hydrogen safety assessment",
+   "label": "2.7.2",
+   "definition": "The occupant space bounded by roof, floor, side walls, doors, glazing, front and rear bulkhead or back door, and by the electrical protection barriers and enclosures."
+  },
+  {
+   "term": "R point",
+   "label": "2.8",
+   "definition": "A seat reference point defined by the manufacturer in relation to the vehicle structure, as indicated in Annex 6."
+  },
+  {
+   "term": "H point",
+   "label": "2.9",
+   "definition": "A seat reference point determined by the testing service in accordance with Annex 6."
+  },
+  {
+   "term": "Unladen kerb mass",
+   "label": "2.10",
+   "definition": "Mass of the vehicle in running order, unoccupied and unladen, but complete with fuel, coolant, lubricant, tools and a spare wheel if standard."
+  },
+  {
+   "term": "Airbag",
+   "label": "2.11",
+   "definition": "A device supplementing safety belts and restraint systems that, in a severe impact, automatically deploys a flexible gas-filled structure to limit the severity of occupant contact with the interior."
+  },
+  {
+   "term": "Passenger airbag",
+   "label": "2.12",
+   "definition": "An airbag assembly intended to protect occupant(s) in seats other than the driver's in a frontal collision."
+  },
+  {
+   "term": "High voltage",
+   "label": "2.13",
+   "definition": "Classification of an electric component or circuit with working voltage > 60 V and ≤ 1,500 V DC, or > 30 V and ≤ 1,000 V AC rms."
+  },
+  {
+   "term": "Rechargeable Electrical Energy Storage System (REESS)",
+   "label": "2.14",
+   "definition": "A rechargeable energy storage system providing electric energy for electrical propulsion, excluding batteries mainly used for starting, lighting or auxiliaries."
+  },
+  {
+   "term": "Electrical protection barrier",
+   "label": "2.15",
+   "definition": "The part providing protection against direct contact with high voltage live parts."
+  },
+  {
+   "term": "Electric power train",
+   "label": "2.16",
+   "definition": "The electrical circuit including the traction motor(s), and possibly the REESS, energy conversion system, electronic converters, wiring harness, connectors and charging coupling system."
+  },
+  {
+   "term": "Live parts",
+   "label": "2.17",
+   "definition": "Conductive parts intended to be electrically energized under normal operating conditions."
+  },
+  {
+   "term": "Exposed conductive part",
+   "label": "2.18",
+   "definition": "A conductive part touchable under IPXXB, not normally energized but able to become energized under isolation failure, including parts under covers removable without tools."
+  },
+  {
+   "term": "Protection degree IPXXB",
+   "label": "2.21",
+   "definition": "Protection from contact with high voltage live parts by a barrier or enclosure, tested with the Jointed Test Finger per Annex 11 para. 4."
+  },
+  {
+   "term": "Working voltage",
+   "label": "2.22",
+   "definition": "The highest manufacturer-specified rms voltage that may occur between conductive parts in open circuit or normal operating conditions, defined per galvanically isolated circuit."
+  },
+  {
+   "term": "Coupling system for charging the REESS",
+   "label": "2.23",
+   "definition": "The electrical circuit, including the vehicle inlet, used for charging the REESS from an external power supply."
+  },
+  {
+   "term": "Electrical chassis",
+   "label": "2.24",
+   "definition": "A set of electrically linked conductive parts whose potential is taken as reference."
+  },
+  {
+   "term": "Electrical circuit",
+   "label": "2.25",
+   "definition": "An assembly of connected live parts designed to be energized in normal operation."
+  },
+  {
+   "term": "Electrical energy conversion system",
+   "label": "2.26",
+   "definition": "A system (e.g. a fuel cell) that generates and provides electrical energy for electrical propulsion."
+  },
+  {
+   "term": "Electronic converter",
+   "label": "2.27",
+   "definition": "A device capable of controlling and/or converting electrical power for electrical propulsion."
+  },
+  {
+   "term": "Enclosure",
+   "label": "2.28",
+   "definition": "The part enclosing internal units and providing protection against any direct contact."
+  },
+  {
+   "term": "High voltage bus",
+   "label": "2.29",
+   "definition": "The electrical circuit, including the REESS charging coupling system, operating on high voltage."
+  },
+  {
+   "term": "Solid insulator",
+   "label": "2.30",
+   "definition": "Insulating coating of wiring harnesses that prevents direct contact with high voltage live parts."
+  },
+  {
+   "term": "Automatic disconnect",
+   "label": "2.31",
+   "definition": "A device that, when triggered, galvanically separates the electrical energy sources from the rest of the HV circuit of the electric power train."
+  },
+  {
+   "term": "Open type traction battery",
+   "label": "2.32",
+   "definition": "A battery requiring liquid filling that generates hydrogen gas released to the atmosphere."
+  },
+  {
+   "term": "Automatically activated door locking system",
+   "label": "2.33",
+   "definition": "A system that locks the doors automatically at a pre-set speed or other manufacturer-defined condition."
+  },
+  {
+   "term": "Displacement system",
+   "label": "2.36",
+   "definition": "A device by which a seat or part of it can be displaced and/or rotated, without a fixed intermediate position, to give access to the space behind it."
+  },
+  {
+   "term": "Ladder frame",
+   "label": "2.37",
+   "definition": "A chassis of two longitudinal rails connected by crossbeams, with a panel cabin connected to the rails."
+  },
+  {
+   "term": "Aqueous electrolyte",
+   "label": "2.36 (second)",
+   "definition": "An electrolyte based on water solvent providing conducting ions after dissociation."
+  },
+  {
+   "term": "Electrolyte leakage",
+   "label": "2.37 (second)",
+   "definition": "The escape of electrolyte from the REESS in the form of liquid."
+  },
+  {
+   "term": "Non-aqueous electrolyte",
+   "label": "2.38",
+   "definition": "An electrolyte not based on water as the solvent."
+  },
+  {
+   "term": "Specific voltage condition",
+   "label": "2.40",
+   "definition": "The condition that the maximum voltage of a galvanically connected circuit between a DC live part and any other live part is ≤ 30 V AC rms and ≤ 60 V DC."
+  },
+  {
+   "term": "State of Charge (SOC)",
+   "label": "2.41",
+   "definition": "The available electrical charge in a REESS as a percentage of its rated capacity."
+  },
+  {
+   "term": "Fire",
+   "label": "2.42",
+   "definition": "The emission of flames from the vehicle, excluding sparks and arcing."
+  },
+  {
+   "term": "Explosion",
+   "label": "2.43",
+   "definition": "A sudden energy release sufficient to cause pressure waves and/or projectiles that may damage the vehicle's surroundings."
+  },
+  {
+   "term": "Compressed hydrogen storage system (CHSS)",
+   "label": "2.44",
+   "definition": "A system storing compressed hydrogen fuel, composed of container, container attachments and primary closure devices."
+  },
+  {
+   "term": "Container (for hydrogen storage)",
+   "label": "2.45",
+   "definition": "The pressure-bearing component storing the primary volume of hydrogen in one or more permanently interconnected chambers."
+  },
+  {
+   "term": "Container attachments",
+   "label": "2.46",
+   "definition": "Non-pressure-bearing parts attached to the container for support or protection, removable only with tools."
+  },
+  {
+   "term": "Hydrogen-fuelled vehicle",
+   "label": "2.47",
+   "definition": "Any motor vehicle using compressed gaseous hydrogen as propulsion fuel, including fuel cell and ICE vehicles."
+  },
+  {
+   "term": "Shut-off valve (for hydrogen-fuelled vehicles)",
+   "label": "2.48",
+   "definition": "A valve between the container and the fuel system that defaults to closed when not connected to a power source."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "M1 ≤ 3,500 kg / N1 ≤ 2,500 kg (mandatory scope)",
+   "distinguished_by": "vehicle category and total permissible mass; other vehicles only on manufacturer request"
+  },
+  {
+   "name": "Vehicle type",
+   "distinguished_by": "dimensions, front structure, passenger compartment, protective system type, engine siting, unladen mass, options, REESS location, CHSS configuration"
+  },
+  {
+   "name": "Type of protective system",
+   "distinguished_by": "technology, geometry and constituent materials of restraint devices"
+  },
+  {
+   "name": "Vehicles with high voltage electric power train vs. conventional",
+   "distinguished_by": "presence of high voltage (>60 V DC / >30 V AC) circuits, triggering post-crash electrical safety checks (Annex 11)"
+  },
+  {
+   "name": "Hydrogen-fuelled vehicles",
+   "distinguished_by": "presence of a CHSS, triggering post-crash hydrogen leak and enclosed-space concentration tests (Annex 12, para. 5.2.7)"
+  },
+  {
+   "name": "Aqueous vs. non-aqueous electrolyte REESS; open type traction battery",
+   "distinguished_by": "electrolyte solvent and venting characteristics, relevant to electrolyte leakage assessment"
+  },
+  {
+   "name": "Vehicles with airbags",
+   "distinguished_by": "presence of airbags, triggering user instructions and warning requirements (para. 6)"
+  },
+  {
+   "name": "Individual front seats vs. front bench seat",
+   "distinguished_by": "dummy arrangement (Annex 5)"
+  },
+  {
+   "name": "Ladder frame vehicles",
+   "distinguished_by": "chassis construction with longitudinal rails and crossbeams"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "Vehicle type",
+    "M1",
+    "N1"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Protective system",
+    "Airbag",
+    "REESS",
+    "High voltage",
+    "CHSS"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "Vehicle type",
+    "Protective system",
+    "Unladen kerb mass",
+    "Electric power train"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "Approval mark",
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Specifications",
+   "about": [
+    "Protective system",
+    "Passenger compartment with regard to occupant protection"
+   ]
+  },
+  {
+   "label": "5.1",
+   "title": "General specifications applicable to all tests",
+   "about": [
+    "H point",
+    "Protective system",
+    "Seat position"
+   ]
+  },
+  {
+   "label": "5.2",
+   "title": "Specifications (test performance: injury criteria, intrusion, doors, fuel leakage, electrical safety, hydrogen safety incl. 5.2.7)",
+   "about": [
+    "Airbag",
+    "Automatically activated door locking system",
+    "Displacement system",
+    "High voltage",
+    "REESS",
+    "Electrolyte leakage",
+    "Electrical protection barrier",
+    "Compressed hydrogen storage system (CHSS)",
+    "Fire",
+    "Explosion"
+   ]
+  },
+  {
+   "label": "5.3",
+   "title": "Specific provisions",
+   "about": [
+    "Electric power train",
+    "Protective system"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Instructions for users of vehicles equipped with airbags",
+   "about": [
+    "Airbag",
+    "Passenger airbag"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Modification and extension of approval of the vehicle type",
+   "about": [
+    "Vehicle type",
+    "Type of protective system"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Conformity of production",
+   "about": []
+  },
+  {
+   "label": "9",
+   "title": "Penalties for non-conformity of production",
+   "about": []
+  },
+  {
+   "label": "10",
+   "title": "Production definitively discontinued",
+   "about": []
+  },
+  {
+   "label": "11",
+   "title": "Names and addresses of Technical Services and Type Approval Authorities",
+   "about": []
+  },
+  {
+   "label": "12",
+   "title": "Transitional Provisions",
+   "about": []
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication (approval form)",
+   "about": [
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Arrangements of the approval marks",
+   "about": []
+  },
+  {
+   "label": "Annex 3",
+   "title": "Test procedure (vehicle preparation, dummies, propulsion, 56 km/h test speed, measurements)",
+   "about": [
+    "Overlap",
+    "Deformable barrier face",
+    "Unladen kerb mass",
+    "State of Charge (SOC)"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Determination of performance criteria (HPC36, neck, THCC, V*C, FFC, TCFC, TI)",
+   "about": [
+    "Protective system",
+    "Airbag"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Arrangement and installation of dummies and adjustment of restraint systems",
+   "about": [
+    "H point",
+    "Protective system"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Procedure for determining the H point and actual torso angle (M.R.1 Addendum 6)",
+   "about": [
+    "H point",
+    "R point"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Test procedure with trolley",
+   "about": [
+    "Protective system"
+   ]
+  },
+  {
+   "label": "Annex 8",
+   "title": "Technique of measurement in measurement tests: instrumentation",
+   "about": []
+  },
+  {
+   "label": "Annex 9",
+   "title": "Definition of deformable barrier",
+   "about": [
+    "Deformable barrier face"
+   ]
+  },
+  {
+   "label": "Annex 10",
+   "title": "Certification procedure for the dummy lower leg and foot (upper foot, lower foot with/without shoe)",
+   "about": []
+  },
+  {
+   "label": "Annex 11",
+   "title": "Test procedures for protection of occupants of vehicles operated with electrical power from high voltage and electrolyte spillage",
+   "about": [
+    "High voltage",
+    "Automatic disconnect",
+    "Protection degree IPXXB",
+    "Electrical protection barrier",
+    "Enclosure",
+    "Electrical chassis",
+    "REESS",
+    "Electrolyte leakage",
+    "Specific voltage condition"
+   ]
+  },
+  {
+   "label": "Annex 11 4",
+   "title": "Physical protection",
+   "about": [
+    "Protection degree IPXXB",
+    "Exposed conductive part",
+    "Live parts"
+   ]
+  },
+  {
+   "label": "Annex 11 5",
+   "title": "Isolation resistance",
+   "about": [
+    "High voltage bus",
+    "Electrical chassis"
+   ]
+  },
+  {
+   "label": "Annex 11 6",
+   "title": "Electrolyte leakage",
+   "about": [
+    "Electrolyte leakage",
+    "Aqueous electrolyte",
+    "Non-aqueous electrolyte"
+   ]
+  },
+  {
+   "label": "Annex 11 7",
+   "title": "REESS retention",
+   "about": [
+    "REESS"
+   ]
+  },
+  {
+   "label": "Annex 12",
+   "title": "Test procedures for post-crash hydrogen safety (compliance with para. 5.2.7)",
+   "about": [
+    "Compressed hydrogen storage system (CHSS)",
+    "Container (for hydrogen storage)",
+    "Shut-off valve (for hydrogen-fuelled vehicles)",
+    "Hydrogen-fuelled vehicle",
+    "Passenger compartment for electric safety and/or hydrogen safety assessment"
+   ]
+  },
+  {
+   "label": "Annex 12 4-5",
+   "title": "Post-crash leak test for CHSS filled with compressed hydrogen or helium",
+   "about": [
+    "Compressed hydrogen storage system (CHSS)"
+   ]
+  },
+  {
+   "label": "Annex 12 6",
+   "title": "Post-crash concentration measurement for enclosed spaces",
+   "about": [
+    "Hydrogen-fuelled vehicle"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "This is a whole-vehicle crash approval: components are not approved separately, but any part that influences frontal crash performance falls within the vehicle type and its extension rules.",
+  "Changes to the front structure forward of the transverse plane through the driver's R point, or to the vehicle's length, width or unladen mass, can affect approval and may require extension or retesting.",
+  "Any restraint-related interior fitting is part of the 'protective system', and a change in its technology, geometry or materials is a different protective system type. This includes seat belts, airbags, steering wheel or column, dashboard padding, knee bolsters and seats.",
+  "Vehicles equipped with airbags, including passenger airbags, must meet the user instruction and warning requirements of para. 6.",
+  "Seat mechanisms with easy-entry displacement systems, door latches and locks, and automatically activated door locking systems are assessed post-crash.",
+  "Any high voltage component (>60 V DC or >30 V AC) in the electric power train is subject to post-crash electrical safety checks: protection against direct and indirect contact, isolation resistance, low energy or voltage, electrolyte leakage and REESS retention. This includes REESS, inverters, DC/DC converters, e-motors, HV harnesses and connectors, the charging inlet and fuel cells.",
+  "A 12 V or 48 V auxiliary or starter battery is not a REESS, and circuits meeting the specific voltage condition are not part of the high voltage bus.",
+  "Hydrogen-fuelled vehicles (fuel cell or H2 ICE) bring the CHSS, container, shut-off valve and downstream piping into scope for post-crash leak and enclosed-space hydrogen concentration limits.",
+  "The location of the REESS and the CHSS configuration are vehicle-type criteria, so relocating them may create a new vehicle type.",
+  "Fuel system integrity (post-crash fuel leakage) is assessed, so fuel tank and line routing in the front structure is relevant.",
+  "Vehicles outside M1 ≤3,500 kg or N1 ≤2,500 kg (e.g. heavier N1, M2) may still be approved voluntarily at the manufacturer's request."
+ ],
+ "version": "5.1.0"
+}

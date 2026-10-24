@@ -1,0 +1,399 @@
+{
+ "regulation": "UN R114",
+ "title": "Uniform provisions concerning the approval of: I. an airbag module for a replacement airbag system; II. a replacement steering wheel equipped with an airbag module of an approved type; III. a replacement airbag system other than that installed in a steering wheel",
+ "subject_kind": "component",
+ "scope_summary": "Approves aftermarket equipment: airbag modules for replacement airbag systems, replacement steering wheels equipped with an approved airbag module, and replacement airbag systems other than those installed in steering wheels. The airbag modules are intended for motor vehicles, while the replacement steering wheels and replacement airbag systems are approved for use on M1 and N1 vehicles, with approvals tied to listed vehicle types.",
+ "scope_quote": "This Regulation applies to the following aftermarket equipment: 1.1. to airbag modules for replacement airbag systems intended to be installed on motor vehicles; 1.2. to replacement steering wheels for vehicles of categories M1 and N1, equipped with an airbag module of an approved type and intended to be installed as an additional restraint system beside safety-belts and other restraint systems in power-driven vehicles, i.e. a system which, in the event of a severe impact, automatically deploys a flexible structure intended to reduce the severity of injuries of the occupants; 1.3. to replacement airbag systems other than those installed in steering wheels and equipped with airbag modules of an approved type as an additional restraint system beside safety-belts and other restraint systems in powerdriven vehicles of categories M1 and N1",
+ "vehicle_categories": [
+  "M1",
+  "N1"
+ ],
+ "applies_to_components": [
+  "airbag module for a replacement airbag system",
+  "replacement steering wheel equipped with an airbag module",
+  "hub (adapter) of replacement steering wheel",
+  "replacement airbag system other than that installed in a steering wheel",
+  "airbag",
+  "control unit or release unit",
+  "wiring harness",
+  "gas generator / inflator",
+  "airbag cover"
+ ],
+ "relation_to_other_regulations": [
+  "Airbag modules approved under this Regulation are a prerequisite for approval of replacement steering wheels and of replacement airbag systems under the same Regulation.",
+  "Annex 8 'H' point determination procedure refers to SAE J826 (3-D H machine).",
+  "The replacement equipment is intended as an additional restraint beside safety-belts and other restraint systems (cf. UN R16, R14, R12, R94, R95), but the text does not explicitly cite these Regulations in the opening sections."
+ ],
+ "defined_terms": [
+  {
+   "term": "Airbag system",
+   "label": "2.1",
+   "definition": "A group of components which, once installed in vehicle(s), perform all functions provided by the manufacturer, comprising at minimum a release unit activating one or more airbag modules and the wiring harness, if present."
+  },
+  {
+   "term": "Airbag",
+   "label": "2.2",
+   "definition": "A flexible material forming an enclosed volume that receives the gas from the inflator and restrains the occupant."
+  },
+  {
+   "term": "Airbag module",
+   "label": "2.3",
+   "definition": "The smallest sub-assembly comprising the energy source for its deployment and the airbag involved in the deployment."
+  },
+  {
+   "term": "Replacement steering wheel",
+   "label": "2.4",
+   "definition": "An aftermarket steering wheel (equipped with an airbag module) supplied to modify a motor vehicle that may vary in functional dimensions, form and/or material from the original steering wheel."
+  },
+  {
+   "term": "Replacement airbag system",
+   "label": "2.5",
+   "definition": "An aftermarket airbag system supplied to modify a motor vehicle that may vary in functional dimensions, form, materials or operation from any original airbag system for that vehicle."
+  },
+  {
+   "term": "Category A",
+   "label": "2.6.1",
+   "definition": "Device intended to protect the driver of a vehicle in the event of a frontal collision."
+  },
+  {
+   "term": "Category B",
+   "label": "2.6.2",
+   "definition": "Device intended to protect front seat passenger(s) other than the driver in the event of a frontal collision."
+  },
+  {
+   "term": "Category C",
+   "label": "2.6.3",
+   "definition": "Device intended to protect passenger(s) in seats other than the front seats in the event of a frontal collision."
+  },
+  {
+   "term": "Category D",
+   "label": "2.6.4",
+   "definition": "Device intended to protect the front seat occupant(s) in the event of a lateral collision."
+  },
+  {
+   "term": "Instant of release",
+   "label": "2.7",
+   "definition": "The moment at which, in an impact causing airbag deployment, the components producing deployment are irreversibly actuated."
+  },
+  {
+   "term": "Control unit or release unit",
+   "label": "2.8",
+   "definition": "The sub-assembly comprising all components permitting the collision to be detected and producing release."
+  },
+  {
+   "term": "Wiring harness",
+   "label": "2.9",
+   "definition": "All electrical conductors and connections linking the various parts of the complete airbag system to each other and possibly to the vehicle."
+  },
+  {
+   "term": "Unladen kerb mass",
+   "label": "2.10",
+   "definition": "The mass of the vehicle in running order, unoccupied and unladen but complete with fuel, coolant, lubricant, tools and spare wheel if standard."
+  },
+  {
+   "term": "Type of an airbag module for a replacement airbag system",
+   "label": "2.11",
+   "definition": "Airbag modules not differing in category, airbag geometry and material, vents, gas generator, envelope principle, cover material/structure/dimension, propellant composition and module fixation method."
+  },
+  {
+   "term": "Type of a replacement steering wheel equipped with an airbag module",
+   "label": "2.12",
+   "definition": "Aftermarket steering wheels not differing in presence of an airbag, dimension and diameter, safety-relevant form, material and airbag module type."
+  },
+  {
+   "term": "Type of a replacement airbag system other than that installed in a steering wheel",
+   "label": "2.13",
+   "definition": "Replacement airbag systems not differing in module category, airbag geometry and material, vents, gas generator, envelope principle, cover, propellant composition and module fixation method."
+  },
+  {
+   "term": "Vehicle type",
+   "label": "2.14",
+   "definition": "Power-driven vehicles not differing in structure, unladen kerb mass, steering control, seats and restraint systems, engine siting and airbag-influencing fittings insofar as these affect the impact test results."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Category A airbag module",
+   "distinguished_by": "Driver protection in frontal collision"
+  },
+  {
+   "name": "Category B airbag module",
+   "distinguished_by": "Front passenger (non-driver) protection in frontal collision"
+  },
+  {
+   "name": "Category C airbag module",
+   "distinguished_by": "Protection of passengers in seats other than front seats in frontal collision"
+  },
+  {
+   "name": "Category D airbag module",
+   "distinguished_by": "Front seat occupant protection in lateral collision"
+  },
+  {
+   "name": "Airbag module approval (Part I)",
+   "distinguished_by": "Component approval of the module itself; mark per Annex 4; communication per Annex 1"
+  },
+  {
+   "name": "Replacement steering wheel approval (Part II)",
+   "distinguished_by": "Steering wheel with approved airbag module for listed M1/N1 vehicles; mark on wheel and hub per Annex 5; communication per Annex 2"
+  },
+  {
+   "name": "Replacement airbag system approval (Part III)",
+   "distinguished_by": "Non-steering-wheel airbag system with approved modules for listed M1/N1 vehicles; mark per Annex 6; communication per Annex 3"
+  },
+  {
+   "name": "General use vs. specific vehicle approval",
+   "distinguished_by": "Approval granted for general use or for use in a specific vehicle (communication forms)"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "Airbag module",
+    "Replacement steering wheel",
+    "Replacement airbag system"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Airbag system",
+    "Airbag",
+    "Airbag module",
+    "Replacement steering wheel",
+    "Replacement airbag system",
+    "Category A",
+    "Category B",
+    "Category C",
+    "Category D",
+    "Control unit or release unit",
+    "Wiring harness",
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "Airbag module",
+    "Replacement steering wheel",
+    "Replacement airbag system"
+   ]
+  },
+  {
+   "label": "3.1",
+   "title": "Application for approval of an airbag module for a replacement airbag system",
+   "about": [
+    "Airbag module"
+   ]
+  },
+  {
+   "label": "3.2",
+   "title": "Application for approval of a replacement steering wheel equipped with an airbag module of an approved type",
+   "about": [
+    "Replacement steering wheel"
+   ]
+  },
+  {
+   "label": "3.3",
+   "title": "Application for approval of a replacement airbag system other than that installed in a steering wheel",
+   "about": [
+    "Replacement airbag system"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "Approval mark",
+    "Airbag module categories"
+   ]
+  },
+  {
+   "label": "4.1",
+   "title": "Approval of an airbag module for a replacement airbag system",
+   "about": [
+    "Airbag module",
+    "Category A",
+    "Category B",
+    "Category C",
+    "Category D"
+   ]
+  },
+  {
+   "label": "4.2",
+   "title": "Approval of a replacement steering wheel equipped with an airbag module of an approved type",
+   "about": [
+    "Replacement steering wheel",
+    "hub (adapter)"
+   ]
+  },
+  {
+   "label": "4.3",
+   "title": "Approval of a replacement airbag system other than that installed in a steering wheel",
+   "about": [
+    "Replacement airbag system"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Requirements",
+   "about": [
+    "Airbag module",
+    "Replacement steering wheel",
+    "Replacement airbag system"
+   ]
+  },
+  {
+   "label": "5.2",
+   "title": "Requirements for the approval of an airbag module for a replacement airbag system",
+   "about": [
+    "Airbag module",
+    "Airbag",
+    "Wiring harness",
+    "Control unit or release unit"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Tests",
+   "about": [
+    "Airbag module",
+    "Replacement steering wheel",
+    "Replacement airbag system"
+   ]
+  },
+  {
+   "label": "6.2",
+   "title": "Tests of a replacement steering wheel equipped with an airbag module of an approved type",
+   "about": [
+    "Replacement steering wheel"
+   ]
+  },
+  {
+   "label": "6.3",
+   "title": "Tests of a replacement airbag system other than that installed in a steering wheel",
+   "about": [
+    "Replacement airbag system"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Instructions for users",
+   "about": [
+    "Replacement airbag system",
+    "Replacement steering wheel",
+    "Airbag module"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Conformity of production",
+   "about": [
+    "production conformity"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Penalties for non-conformity of production",
+   "about": [
+    "withdrawal of approval"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Modifications of the type of airbag module for a replacement airbag system or the type of replacement steering wheel / airbag system and extension of approval",
+   "about": [
+    "Type of an airbag module for a replacement airbag system",
+    "Type of a replacement steering wheel equipped with an airbag module"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Production definitely discontinued",
+   "about": [
+    "administrative"
+   ]
+  },
+  {
+   "label": "12",
+   "title": "Names and addresses of technical services and administrative departments",
+   "about": [
+    "administrative"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication form – approval of an airbag module for a replacement airbag system",
+   "about": [
+    "Airbag module",
+    "Category A",
+    "Category B",
+    "Category C",
+    "Category D"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Communication form – approval of a replacement steering wheel",
+   "about": [
+    "Replacement steering wheel"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Communication form – approval of a replacement airbag system",
+   "about": [
+    "Replacement airbag system"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Arrangement of approval mark for airbag module",
+   "about": [
+    "Airbag module"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Arrangement of approval mark for replacement steering wheel",
+   "about": [
+    "Replacement steering wheel"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Arrangement of approval mark for replacement airbag system",
+   "about": [
+    "Replacement airbag system"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Example of a fatigue test device",
+   "about": [
+    "Replacement steering wheel"
+   ]
+  },
+  {
+   "label": "Annex 8",
+   "title": "Procedure for determining the 'H' point and actual torso angle for seating positions in motor vehicles",
+   "about": [
+    "Vehicle type",
+    "seating position"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Applies only to aftermarket (replacement) airbag equipment, not to original-equipment airbags fitted by the vehicle manufacturer.",
+  "An aftermarket steering wheel fitted with an airbag (e.g. sport/tuning steering wheel) falls under this Regulation, including its hub/adapter, which must also bear the approval mark.",
+  "Any aftermarket airbag module (driver, passenger, rear, side) requires approval as a module before it may be used in a replacement steering wheel or replacement airbag system.",
+  "Replacement airbag systems include release/control units and wiring harnesses as part of the system.",
+  "Side (lateral collision) airbags for front seat occupants are covered as Category D.",
+  "Steering wheel and airbag system approvals are linked to specific vehicle types listed in the approval; changing vehicle types requires extension.",
+  "Airbag module type is defined by cover material/structure, propellant composition and fixation method, so a changed cover or inflator may create a new type."
+ ],
+ "version": "0.0.0"
+}

@@ -1,0 +1,435 @@
+{
+ "regulation": "UN R128",
+ "title": "Light-Emitting Diode (LED) light sources",
+ "subject_kind": "component",
+ "scope_summary": "Approves types of replaceable, standardised LED light sources of the categories listed in Annex 1 (Resolution R.E.4), including LED substitute light sources and standard (étalon) LED light sources. These light sources are intended for use in approved lamps of power-driven vehicles and their trailers.",
+ "scope_quote": "This Regulation applies to LED light sources shown in Annex 1 and intended for use in approved lamps of powerdriven vehicles and of their trailers.",
+ "vehicle_categories": [
+  "power-driven vehicles (all categories, e.g. M, N, L, T as applicable via the lamp regulations)",
+  "trailers of power-driven vehicles (O)"
+ ],
+ "applies_to_components": [
+  "LED light sources of standardised categories (e.g. LW1, LY2, LR2) listed in Annex 1 / R.E.4",
+  "LED substitute light sources (LED replacements for other light source categories)",
+  "standard (étalon) LED light sources used for testing lighting and light-signalling devices",
+  "multi-function LED light sources",
+  "LED light sources with integrated heat sink or specified Tb-point (maximum test temperature)",
+  "LED light sources without general restrictions (forward lighting / cut-off generating emitters)",
+  "caps of LED light sources (IEC 60061)",
+  "packaging and instructions of LED substitute light sources"
+ ],
+ "relation_to_other_regulations": [
+  "Light sources are intended for use in lamps approved under the relevant UN lamp regulations; installation on vehicles governed by UN R48 (and R53, R74, R86 for other vehicle categories).",
+  "Colour of light definitions taken from UN R48 and its series of amendments in force at the time of application (para 3.7.1).",
+  "LED substitute light sources must comply with the ESA requirements of UN R10 (EMC) (para 3.12.2).",
+  "Definitions and category data sheets refer to Resolution R.E.4 on the common specification of light source categories (para 3.1, Annex 1: from 22 June 2017 the sheets/list of LED light source categories are in R.E.4).",
+  "Caps shall comply with IEC Publication 60061 cap data sheets; luminance gradient determined per Annex L of IEC 60809 ed. 4.",
+  "Approval code per 1958 Agreement Rev.3 Schedule 4; ISO 7000 symbol 1641 for substitute light sources.",
+  "Counterpart regulation for filament lamps is UN R37 and for gas-discharge light sources UN R99 (LED substitute light sources substitute for such categories)."
+ ],
+ "defined_terms": [
+  {
+   "term": "category",
+   "label": "Category",
+   "definition": "Describes different basic designs of standardised LED light sources, each with a specific designation such as \"LW1\", \"LY2\", \"LR2\"."
+  },
+  {
+   "term": "type",
+   "label": "Type",
+   "definition": "LED light sources within the same category differing in trade name or mark, light source design affecting optical results, or rated voltage."
+  },
+  {
+   "term": "rated voltage",
+   "label": "Rated voltage",
+   "definition": "Voltage (in volts) marked on the LED light source."
+  },
+  {
+   "term": "test voltage",
+   "label": "Test voltage(s)",
+   "definition": "Voltage(s) or voltage range(s) at the LED light source terminals for which electrical and photometric characteristics are intended and are to be tested."
+  },
+  {
+   "term": "objective values",
+   "label": "Objective values",
+   "definition": "Design value of an electrical or photometric characteristic to be achieved within specified tolerances at the relevant test voltage."
+  },
+  {
+   "term": "standard (étalon) LED light source",
+   "label": "Standard (étalon) LED light source",
+   "definition": "Special LED light source with reduced dimensional, electrical and photometric tolerances used for testing lighting and light-signalling devices, specified in only one voltage rating per category."
+  },
+  {
+   "term": "reference axis",
+   "label": "Reference axis",
+   "definition": "An axis defined with reference to the cap to which certain dimensions of the LED light source are referred."
+  },
+  {
+   "term": "reference plane",
+   "label": "Reference plane",
+   "definition": "A plane defined with reference to the cap, perpendicular to the reference axis, to which certain dimensions are referred."
+  },
+  {
+   "term": "light centre",
+   "label": "Light centre",
+   "definition": "A point on the reference axis at a defined distance from the reference plane representing the nominal origin of the visible radiation emitted."
+  },
+  {
+   "term": "light centre length",
+   "label": "Light centre length",
+   "definition": "The distance between the reference plane and the light centre."
+  },
+  {
+   "term": "viewing axis",
+   "label": "Viewing axis on to the LED light source",
+   "definition": "An axis through the light centre at defined polar and azimuthal angle used to characterize photometric properties of the LED light source."
+  },
+  {
+   "term": "apparent light emitting area",
+   "label": "Apparent light emitting area",
+   "definition": "Area containing the apparent element of visible radiation observed under a certain viewing axis, defined in a plane through the light centre perpendicular to that axis."
+  },
+  {
+   "term": "normalized luminous intensity",
+   "label": "Normalized luminous intensity",
+   "definition": "Luminous intensity divided by the luminous flux of the light source, characterizing the angular radiation pattern."
+  },
+  {
+   "term": "cumulative luminous flux",
+   "label": "Cumulative luminous flux",
+   "definition": "Luminous flux emitted under operating conditions within a cone of specified solid angle centred on the reference axis."
+  },
+  {
+   "term": "LED light source",
+   "label": "Light emitting diode (LED) light source",
+   "definition": "A light source where the element for visible radiation is one or more solid state junctions producing injection-luminescence and/or fluorescence."
+  },
+  {
+   "term": "LED substitute light source",
+   "label": "LED substitute light source (term used, not formally defined in para 2/3.1)",
+   "definition": "LED light source category marked with ISO 7000 symbol 1641, subject to additional electrical, EMC, colour temperature, cap keying and packaging requirements, for use only in lamps and vehicles approved for its use."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "LED light source categories (e.g. LW1, LY2, LR2)",
+   "distinguished_by": "Basic standardised design per Annex 1 / R.E.4 data sheet, including colour of light (W white, Y amber, R red) and cap"
+  },
+  {
+   "name": "LED substitute light sources",
+   "distinguished_by": "Intended to substitute another light source; additional requirements of para 3.12 and packaging para 4, ISO 7000 symbol 1641 marking"
+  },
+  {
+   "name": "Standard (étalon) LED light sources",
+   "distinguished_by": "Reduced tolerances, one voltage rating per category, used for testing lamps (para 3.9)"
+  },
+  {
+   "name": "LED light sources without general restrictions",
+   "distinguished_by": "Light emitting area characteristics (nominal emitter box, cut-off side, luminance contrast/uniformity) specified per para 3.11 and Annex 9"
+  },
+  {
+   "name": "LED light sources with maximum test temperature",
+   "distinguished_by": "Integrated heat sink (ambient temperature) or specified Tb-point; elevated temperature flux/colour tests and 1000 h operation (para 3.10)"
+  },
+  {
+   "name": "White-light LED light sources for forward lighting",
+   "distinguished_by": "Additional directional colour measurements (para 3.7.2.1) and minimum red content (para 3.7.3)"
+  },
+  {
+   "name": "Multi-function LED light sources",
+   "distinguished_by": "More than one function; each function aged separately (para 3.3.1)"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "LED light source",
+    "category"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Administrative provisions",
+   "about": [
+    "category",
+    "type",
+    "LED substitute light source"
+   ]
+  },
+  {
+   "label": "2.1",
+   "title": "Definitions",
+   "about": [
+    "category",
+    "type"
+   ]
+  },
+  {
+   "label": "2.2",
+   "title": "Application for approval",
+   "about": [
+    "type",
+    "LED substitute light source"
+   ]
+  },
+  {
+   "label": "2.3",
+   "title": "Inscriptions",
+   "about": [
+    "rated voltage",
+    "category",
+    "LED substitute light source"
+   ]
+  },
+  {
+   "label": "2.4",
+   "title": "Approval",
+   "about": [
+    "type",
+    "approval mark",
+    "approval code"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Technical requirements",
+   "about": [
+    "LED light source"
+   ]
+  },
+  {
+   "label": "3.1",
+   "title": "Definitions",
+   "about": [
+    "rated voltage",
+    "test voltage",
+    "objective values",
+    "standard (étalon) LED light source",
+    "reference axis",
+    "reference plane",
+    "light centre",
+    "light centre length",
+    "viewing axis",
+    "apparent light emitting area",
+    "normalized luminous intensity",
+    "cumulative luminous flux",
+    "LED light source"
+   ]
+  },
+  {
+   "label": "3.2",
+   "title": "General specifications",
+   "about": [
+    "LED light source",
+    "caps (IEC 60061)"
+   ]
+  },
+  {
+   "label": "3.3",
+   "title": "Tests",
+   "about": [
+    "test voltage",
+    "multi-function LED light sources",
+    "ageing"
+   ]
+  },
+  {
+   "label": "3.4",
+   "title": "Position and dimensions of light emitting area",
+   "about": [
+    "apparent light emitting area",
+    "light centre"
+   ]
+  },
+  {
+   "label": "3.5",
+   "title": "Luminous flux",
+   "about": [
+    "objective values"
+   ]
+  },
+  {
+   "label": "3.6",
+   "title": "Normalized luminous intensity distribution / cumulative luminous flux distribution",
+   "about": [
+    "normalized luminous intensity",
+    "cumulative luminous flux"
+   ]
+  },
+  {
+   "label": "3.7",
+   "title": "Colour",
+   "about": [
+    "colour of light (R48)",
+    "white light for forward lighting devices",
+    "red content"
+   ]
+  },
+  {
+   "label": "3.8",
+   "title": "UV-radiation",
+   "about": [
+    "low UV type"
+   ]
+  },
+  {
+   "label": "3.9",
+   "title": "Standard LED light sources",
+   "about": [
+    "standard (étalon) LED light source"
+   ]
+  },
+  {
+   "label": "3.10",
+   "title": "Maximum test temperature",
+   "about": [
+    "integrated heat sink",
+    "Tb-point",
+    "luminous flux at elevated temperature",
+    "colour variation"
+   ]
+  },
+  {
+   "label": "3.11",
+   "title": "LED light sources without general restrictions",
+   "about": [
+    "nominal emitter box",
+    "luminance contrast",
+    "luminance uniformity",
+    "zone 1a/1b",
+    "cut-off"
+   ]
+  },
+  {
+   "label": "3.12",
+   "title": "LED substitute light sources - additional requirements",
+   "about": [
+    "LED substitute light source",
+    "electrical current",
+    "ESA (R10)",
+    "correlated colour temperature",
+    "cap keying against misuse"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Requirements to the packaging of LED substitute light sources",
+   "about": [
+    "LED substitute light source",
+    "packaging information",
+    "instructions",
+    "vehicle model listings"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Conformity of production",
+   "about": [
+    "LED light source"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Penalties for non-conformity of production",
+   "about": []
+  },
+  {
+   "label": "7",
+   "title": "Production definitely discontinued",
+   "about": []
+  },
+  {
+   "label": "8",
+   "title": "Names and addresses of technical services and type approval authorities",
+   "about": []
+  },
+  {
+   "label": "Annex 1",
+   "title": "Sheets for LED light sources (list and groups of categories; from 22 June 2017 in R.E.4)",
+   "about": [
+    "category",
+    "standard (étalon) LED light source",
+    "LED substitute light source",
+    "objective values"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Communication form (approval/extension/refusal/withdrawal)",
+   "about": [
+    "type",
+    "category"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Example of approval mark",
+   "about": [
+    "approval mark"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Method of measurement of electrical and photometric characteristics",
+   "about": [
+    "luminous flux",
+    "normalized luminous intensity",
+    "cumulative luminous flux",
+    "colour",
+    "power consumption",
+    "maximum test temperature",
+    "integrated heat sink"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Minimum requirements for conformity of production control procedures by the manufacturer",
+   "about": [
+    "conformity of production"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Characteristics and grouping of test records (manufacturer's COP)",
+   "about": [
+    "conformity of production"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Sampling and compliance levels for inspection by the authority",
+   "about": [
+    "conformity of production"
+   ]
+  },
+  {
+   "label": "Annex 8",
+   "title": "Compliance table (approved/disapproved values)",
+   "about": [
+    "conformity of production"
+   ]
+  },
+  {
+   "label": "Annex 9",
+   "title": "Determination of light emitting area characteristics (luminance measurements)",
+   "about": [
+    "nominal emitter box",
+    "zone 1a/1b",
+    "zone 2",
+    "luminance contrast",
+    "LED light sources without general restrictions"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Applies only to replaceable LED light sources of standardised categories listed in Annex 1 / R.E.4; non-replaceable LED modules or proprietary LED light sources are approved as part of the lamp under the lamp regulations, not under R128.",
+  "LED retrofit/replacement bulbs for filament lamp sockets (e.g. LED substitutes for H-, W- or P-type categories) fall under R128 as LED substitute light sources, requiring R10 ESA compliance, cap keying, CCT ≤3000 K (unless keyed), and specific packaging/instructions; they may only be used in lamps and vehicles approved for their use.",
+  "Standard (étalon) LED light sources used by technical services to test lamps are themselves approved under R128.",
+  "Lamps (headlamps, signal lamps) using R128 light sources are not approved under R128 but under the respective lamp regulations; R128 governs the light source only.",
+  "Packaging of LED substitute light sources and point-of-sale instructions are regulated (para 4), relevant to aftermarket suppliers.",
+  "An LED substitute light source is effectively also an electrical/electronic sub-assembly under R10.",
+  "Colour categories W (white), Y (amber), R (red) in the category designation determine colour requirements per R48 definitions."
+ ],
+ "version": "0.11.0"
+}

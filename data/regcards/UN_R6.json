@@ -1,0 +1,388 @@
+{
+ "regulation": "UN R6",
+ "title": "Uniform provisions concerning the approval of direction indicators for power-driven vehicles and their trailers (version 2.0.0)",
+ "subject_kind": "component",
+ "scope_summary": "UN R6 approves types of direction indicator lamps, which are fixed-position flashing light devices of categories 1, 1a, 1b, 2a, 2b, 5 and 6, including their light sources, light source modules and variable intensity controls. It applies to direction indicators intended for vehicles of categories L, M, N, O and T, while installation on the vehicle is governed by UN Regulation No. 48.",
+ "scope_quote": "This Regulation applies to direction indicators for vehicles of categories L, M, N, O, and T. [...] The present Regulation applies solely to fixed-position flashing light devices whose flashing is obtained by the intermittent supply of electric current to the lamp.",
+ "vehicle_categories": [
+  "L",
+  "M",
+  "N",
+  "O",
+  "T"
+ ],
+ "applies_to_components": [
+  "Direction indicator lamps (front, rear, side)",
+  "Front direction indicators of categories 1, 1a, 1b",
+  "Rear direction indicators of categories 2a (steady luminous intensity) and 2b (variable luminous intensity)",
+  "Side direction indicators of categories 5 and 6",
+  "Direction indicators forming an assembly of two lamps (marking 'D')",
+  "Interdependent lamp systems (marking 'Y')",
+  "Direction indicators with sequential activation of light sources",
+  "Variable intensity control (category 2b)",
+  "Electronic light source control gear",
+  "Light source modules (marked 'MD')",
+  "Non-replaceable filament lamps / non-replaceable light sources",
+  "Grouped, combined or reciprocally incorporated lamps that include a direction indicator function",
+  "Lamps reciprocally incorporated with headlamps that share a lens"
+ ],
+ "relation_to_other_regulations": [
+  "UN R48: its definitions apply to this Regulation (para. 1.2); installation of direction indicators on vehicles is governed by R48",
+  "UN R37: filament lamp categories and standard (étalon) filament lamps prescribed for replaceable light sources must come from R37",
+  "UN R128: LED light source categories and standard (étalon) LED light sources must come from R128",
+  "Grouped, combined or reciprocally incorporated lamps that comply with several UN Regulations may carry a single international approval mark (para. 4.1.2, 4.3)",
+  "Lamps may share a lens with headlamps approved under other headlamp regulations (para. 4.3.3)",
+  "Consolidated Resolution R.E.3 is referenced for the vehicle category definitions and for the distinguishing numbers of Contracting Parties",
+  "Approval numbers currently start with 01 (01 series of amendments); the 02 series of amendments does not require a change in the approval number"
+ ],
+ "defined_terms": [
+  {
+   "term": "Direction indicator",
+   "label": "1.1",
+   "definition": "A device mounted on a motor vehicle or trailer which, when operated by the driver, signals the driver's intention to change the vehicle's direction, limited to fixed-position flashing light devices whose flashing is obtained by intermittent electric supply."
+  },
+  {
+   "term": "Direction indicators of different types",
+   "label": "1.3",
+   "definition": "Lamps differing in essential respects such as trade name or mark, optical system characteristics (intensity, light distribution, light source category, light source module), category, variable intensity control or sequential activation; a change of light source or filter colour does not constitute a change of type."
+  },
+  {
+   "term": "Category 1 / 1a / 1b",
+   "label": "2.1, Annex 1",
+   "definition": "Front direction indicator categories, distinguished according to Annex 1 by distance to the dipped-beam headlamp and the associated intensity requirements."
+  },
+  {
+   "term": "Category 2a",
+   "label": "2.1",
+   "definition": "Rear direction indicator with steady luminous intensity."
+  },
+  {
+   "term": "Category 2b",
+   "label": "2.1",
+   "definition": "Rear direction indicator with variable luminous intensity, provided by a variable intensity control delivering two intensity levels."
+  },
+  {
+   "term": "Category 5 / 6",
+   "label": "2.1, Annex 1",
+   "definition": "Side direction indicator categories, which differ in their geometric visibility and light-distribution angles according to Annex 1."
+  },
+  {
+   "term": "Variable intensity control",
+   "label": "1.3(d), 2.2.3",
+   "definition": "A system that ensures the two levels of luminous intensity of a category 2b direction indicator."
+  },
+  {
+   "term": "Sequential activation",
+   "label": "1.3(e)",
+   "definition": "The activation of the light sources of a direction indicator in sequence, which is a type-distinguishing feature unless the modes are selectable without any optical change."
+  },
+  {
+   "term": "Interdependent lamp system",
+   "label": "2.2.1(c), 4.2.2.3",
+   "definition": "A combination of interdependent lamps that together fulfil the direction indicator function, marked 'Y' and submitted for approval by one applicant (definition per R48)."
+  },
+  {
+   "term": "Assembly of two lamps",
+   "label": "2.1, 4.2.2.3",
+   "definition": "Two lamps of the same category that together perform the function, marked 'D'."
+  },
+  {
+   "term": "Light source module",
+   "label": "2.2.2, 3.5",
+   "definition": "A light source unit specific to the lamp that carries its own trade name, an 'MD' identification code and rated voltage marking."
+  },
+  {
+   "term": "Electronic light source control gear",
+   "label": "3.4, 3.6",
+   "definition": "Electronic gear controlling the light source; if it is not in the lamp body it must bear the manufacturer's name and identification number."
+  },
+  {
+   "term": "Grouped, combined or reciprocally incorporated lamps",
+   "label": "4.1.2, 4.3.2",
+   "definition": "Multi-function lamp assemblies that may carry a single approval mark when each function complies with its respective UN Regulation."
+  },
+  {
+   "term": "Reduced light distribution",
+   "label": "4.2.2.4",
+   "definition": "A light distribution in conformity with para. 2.1.3 of Annex 4, indicated by a downward vertical arrow from a horizontal segment."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Category 1",
+   "distinguished_by": "Front direction indicator; distance to the dipped-beam headlamp and intensity per Annex 1/para. 6"
+  },
+  {
+   "name": "Category 1a",
+   "distinguished_by": "Front direction indicator for intermediate distance to the dipped-beam headlamp, with a higher intensity"
+  },
+  {
+   "name": "Category 1b",
+   "distinguished_by": "Front direction indicator mounted close to the dipped-beam headlamp, with the highest front intensity"
+  },
+  {
+   "name": "Category 2a",
+   "distinguished_by": "Rear direction indicator with steady luminous intensity"
+  },
+  {
+   "name": "Category 2b",
+   "distinguished_by": "Rear direction indicator with variable luminous intensity (two levels via variable intensity control)"
+  },
+  {
+   "name": "Category 5",
+   "distinguished_by": "Side direction indicator with the smaller field of visibility (Annex 1)"
+  },
+  {
+   "name": "Category 6",
+   "distinguished_by": "Side direction indicator with a wider rearward field of visibility; marked 'R' or 'L' when side-specific"
+  },
+  {
+   "name": "'D' marking",
+   "distinguished_by": "Device usable as part of an assembly of two lamps"
+  },
+  {
+   "name": "'Y' marking",
+   "distinguished_by": "Device usable as part of an interdependent lamp system"
+  },
+  {
+   "name": "Reduced light distribution (vertical arrow)",
+   "distinguished_by": "Lamp complying with para. 2.1.3 of Annex 4 for low mounting heights"
+  },
+  {
+   "name": "Sequential / non-sequential",
+   "distinguished_by": "Sequential activation of light sources is a type criterion unless selectable without optical change"
+  },
+  {
+   "name": "Light source type",
+   "distinguished_by": "Replaceable filament (R37), replaceable LED (R128), light source module, or non-replaceable light sources"
+  }
+ ],
+ "sections": [
+  {
+   "label": "0",
+   "title": "Scope",
+   "about": [
+    "Direction indicator",
+    "vehicle categories L, M, N, O, T"
+   ]
+  },
+  {
+   "label": "1",
+   "title": "Definitions",
+   "about": [
+    "Direction indicator",
+    "Direction indicators of different types",
+    "R48 definitions",
+    "R37/R128 references"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Application for approval",
+   "about": [
+    "Category 1 / 1a / 1b",
+    "Category 2a",
+    "Category 2b",
+    "Category 5 / 6",
+    "Assembly of two lamps",
+    "Interdependent lamp system",
+    "Variable intensity control",
+    "Light source module",
+    "Sequential activation"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Markings",
+   "about": [
+    "Light source module",
+    "Electronic light source control gear",
+    "Variable intensity control",
+    "rated voltage marking"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "approval mark",
+    "category symbols",
+    "'D' and 'Y' markings",
+    "Reduced light distribution",
+    "Grouped, combined or reciprocally incorporated lamps"
+   ]
+  },
+  {
+   "label": "4.3.1",
+   "title": "Independent lamps",
+   "about": [
+    "single approval mark for lamps sharing an outer lens"
+   ]
+  },
+  {
+   "label": "4.3.2",
+   "title": "Grouped, combined or reciprocally incorporated lamps",
+   "about": [
+    "Grouped, combined or reciprocally incorporated lamps"
+   ]
+  },
+  {
+   "label": "4.3.3",
+   "title": "Lamps reciprocally incorporated with other lamps whose lens may be used for headlamps",
+   "about": [
+    "lamps reciprocally incorporated with headlamps"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "General specifications",
+   "about": [
+    "Interdependent lamp system",
+    "non-replaceable light sources",
+    "Light source module",
+    "Sequential activation",
+    "activation of signals"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Intensity of light emitted",
+   "about": [
+    "Category 1 / 1a / 1b",
+    "Category 2a",
+    "Category 2b",
+    "Category 5 / 6",
+    "Variable intensity control",
+    "Sequential activation"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Test procedure",
+   "about": [
+    "photometric test conditions",
+    "Electronic light source control gear",
+    "Variable intensity control"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Colour of light emitted",
+   "about": [
+    "amber colour within light distribution field"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Modifications of a type of direction indicator and extension of approval",
+   "about": [
+    "extension of approval"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Conformity of production",
+   "about": [
+    "COP procedures"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Penalties for non-conformity of production",
+   "about": [
+    "withdrawal of approval"
+   ]
+  },
+  {
+   "label": "12",
+   "title": "Production definitively discontinued",
+   "about": [
+    "procedural"
+   ]
+  },
+  {
+   "label": "13",
+   "title": "Names and addresses of Technical Services and Type Approval Authorities",
+   "about": [
+    "procedural"
+   ]
+  },
+  {
+   "label": "14",
+   "title": "Transitional provisions",
+   "about": [
+    "series of amendments transitional rules"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Minimum horizontal and vertical angles of light distribution in space / geometric visibility",
+   "about": [
+    "Category 1 / 1a / 1b",
+    "Category 2a",
+    "Category 2b",
+    "Category 5 / 6"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Communication form",
+   "about": [
+    "approval communication",
+    "categories 1, 1a, 1b, 2a, 2b, 5, 6"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Examples of arrangements of approval marks",
+   "about": [
+    "Category 5 / 6",
+    "Grouped, combined or reciprocally incorporated lamps",
+    "lamps reciprocally incorporated with headlamps",
+    "'D' and 'Y' markings"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Photometric measurements",
+   "about": [
+    "measurement methods",
+    "standard light distribution table for direction indicators",
+    "Reduced light distribution",
+    "Category 1 / 1a / 1b",
+    "Category 2a",
+    "Category 2b"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Minimum requirements for conformity of production control procedures",
+   "about": [
+    "manufacturer COP verification",
+    "test methods"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Minimum requirements for sampling by an inspector",
+   "about": [
+    "first sampling",
+    "repeated sampling",
+    "approval withdrawal"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Any multi-function front or rear lamp cluster (combined, grouped or reciprocally incorporated) that contains a turn-signal function needs R6 approval for that function, shown by category symbols 1/1a/1b/2a/2b/5/6 within a shared approval mark.",
+  "Side repeaters, including those integrated in exterior mirror housings or fenders, fall under R6 as category 5 or 6 devices.",
+  "Light source modules used in direction indicators must carry their own 'MD' code and approval marking, so module suppliers are affected.",
+  "Electronic light source control gear or variable intensity controls located outside the lamp body are part of the lamp and must be marked with manufacturer name and ID number; ECUs providing the 2b intensity signal must be submitted with the application.",
+  "Sequential (dynamic/'running') turn indicators are covered, and sequential activation is a type-distinguishing feature.",
+  "Headlamps or lamps sharing a lens with a direction indicator are affected through para. 4.3.3.",
+  "Applies only to fixed-position electrically flashed lamps, so mechanical semaphore-arm indicators are not covered; flasher units themselves are not approved here, although activation information is required.",
+  "The hazard warning signal uses the same lamps, but its installation and operation are governed by R48, not R6.",
+  "Replaceable light sources prescribed in the lamp must be R37 filament lamps or R128 LED light sources, which links bulb and LED light source choice to R6 approval.",
+  "Lamps for trailers (O), tractors (T) and L-category vehicles are within the stated scope."
+ ],
+ "version": "2.0.0"
+}

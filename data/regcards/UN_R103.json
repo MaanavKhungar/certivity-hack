@@ -1,0 +1,233 @@
+{
+ "regulation": "UN R103",
+ "title": "Uniform provisions concerning the approval of replacement pollution control devices for power-driven vehicles",
+ "subject_kind": "component",
+ "scope_summary": "Approves replacement pollution control devices, such as catalytic converters and particulate filters, as separate technical units. These devices are intended as replacement parts for one or more motor vehicle types within the categories covered by UN Regulation No. 83.",
+ "scope_quote": "This Regulation applies to the type-approval, as separate technical units, of pollution control device to be fitted in one or more types of motor vehicles of categories covered by the scope of the related version of Regulation No. 83 as replacement parts. Catalytic converters and particulate filters shall be considered to be pollution control devices for the purposes of this Regulation.",
+ "vehicle_categories": [
+  "Categories within the scope of UN R83 (light-duty emissions), typically M1 and N1",
+  "M2 and N2 insofar as covered by the scope of UN R83"
+ ],
+ "applies_to_components": [
+  "Replacement pollution control device",
+  "Catalytic converter",
+  "Particulate filter",
+  "Assembly of pollution control devices",
+  "Periodically regenerating system",
+  "Original replacement pollution control device (marking and documentation requirements only)"
+ ],
+ "relation_to_other_regulations": [
+  "Scope is tied to the vehicle categories covered by the related version of UN R83 (emissions of light-duty vehicles).",
+  "Original pollution control devices are those listed in the documents related to Annex 2 of UN R83.",
+  "The vehicle type definition refers to paragraph 2.3 of UN R83.",
+  "Deterioration of the OBD test sample refers to Appendix 1 to Annex 11 of UN R83.",
+  "Test vehicles must be R83-approved and comply with Annex 4 para 3.1 or Annex 4a para 3.2 of R83.",
+  "Devices of a type indicated in Annex 2 to the 05 or later series of R83 may be approved without verifying the para 5 requirements.",
+  "Original replacement devices listed in R83 Annex 2 are exempt from R103 approval if they meet the marking and documentation requirements of para 4.2.",
+  "Combined approval marks with other UN Regulations are permitted (para 4.7)."
+ ],
+ "defined_terms": [
+  {
+   "term": "Original pollution control device",
+   "label": "2.1",
+   "definition": "A pollution control device or assembly of such devices covered by the vehicle type approval, whose types are indicated in the documents related to Annex 2 of Regulation No. 83."
+  },
+  {
+   "term": "Replacement pollution control device",
+   "label": "2.2",
+   "definition": "A pollution control device or assembly of such devices, other than an original device, for which approval can be obtained according to this Regulation."
+  },
+  {
+   "term": "Original replacement pollution control device",
+   "label": "2.3",
+   "definition": "A pollution control device or assembly whose types are indicated in the documents related to Annex 2 of R83 but which is offered on the market as a separate technical unit by the holder of the vehicle type-approval."
+  },
+  {
+   "term": "Type of pollution control device",
+   "label": "2.4",
+   "definition": "Catalytic converters and particulate filters that do not differ in number, structure and material of substrates, activity type, volume/frontal area/length, catalyst content and ratio, cell density, dimensions and shape, or thermal protection."
+  },
+  {
+   "term": "Vehicle type",
+   "label": "2.5",
+   "definition": "As defined in paragraph 2.3 of Regulation No. 83."
+  },
+  {
+   "term": "Approval of a replacement pollution control device",
+   "label": "2.6",
+   "definition": "Approval of a device intended as a replacement part on specific vehicle types with regard to pollutant emissions, noise level, vehicle performance and, where applicable, OBD."
+  },
+  {
+   "term": "Deteriorated replacement pollution control device",
+   "label": "2.7",
+   "definition": "A pollution control device that has aged, or been artificially deteriorated, to the extent that it fulfils paragraph 1 of Appendix 1 to Annex 11 of R83."
+  },
+  {
+   "term": "Periodically regenerating system",
+   "label": "2.8",
+   "definition": "Catalytic converters, particulate filters or other pollution control devices that require a periodical regeneration process in less than 4,000 km of normal vehicle operation."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Catalytic converter",
+   "distinguished_by": "Device kind explicitly named in the scope; the type is determined by substrate and catalyst characteristics (para 2.4)."
+  },
+  {
+   "name": "Particulate filter",
+   "distinguished_by": "Device kind explicitly named in the scope; the type is determined by the characteristics listed in para 2.4."
+  },
+  {
+   "name": "Replacement pollution control device (aftermarket)",
+   "distinguished_by": "Not an original device; requires R103 approval."
+  },
+  {
+   "name": "Original replacement pollution control device",
+   "distinguished_by": "Listed in R83 Annex 2 and sold by the vehicle approval holder; exempt from approval if it meets the para 4.2 marking and documentation requirements."
+  },
+  {
+   "name": "OBD-compatible replacement device",
+   "distinguished_by": "Intended for vehicles with OBD; requires an additional deteriorated sample and OBD compatibility checks."
+  },
+  {
+   "name": "Periodically regenerating replacement system",
+   "distinguished_by": "Requires regeneration in less than 4,000 km; subject to the specific requirements of para 5.6."
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "Replacement pollution control device",
+    "Catalytic converter",
+    "Particulate filter"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Original pollution control device",
+    "Replacement pollution control device",
+    "Original replacement pollution control device",
+    "Type of pollution control device",
+    "Vehicle type",
+    "Periodically regenerating system",
+    "Deteriorated replacement pollution control device"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "Replacement pollution control device",
+    "Deteriorated replacement pollution control device",
+    "OBD compatibility",
+    "Test vehicle requirements"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "Approval of a replacement pollution control device",
+    "Original replacement pollution control device exemption, marking and documentation",
+    "Approval mark"
+   ]
+  },
+  {
+   "label": "4.2",
+   "title": "Original replacement pollution control devices (exemption, marking, documentation)",
+   "about": [
+    "Original replacement pollution control device"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "Requirements",
+   "about": [
+    "Replacement pollution control device",
+    "Emissions, noise, vehicle performance, OBD"
+   ]
+  },
+  {
+   "label": "5.1",
+   "title": "General requirements",
+   "about": [
+    "Replacement pollution control device"
+   ]
+  },
+  {
+   "label": "5.6",
+   "title": "Requirements for replacement periodically regenerating systems",
+   "about": [
+    "Periodically regenerating system"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Modification of the replacement pollution control device type and extension of approval",
+   "about": [
+    "Type of pollution control device"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Conformity of production",
+   "about": [
+    "Replacement pollution control device"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Penalties for non-conformity of production",
+   "about": []
+  },
+  {
+   "label": "9",
+   "title": "Production definitively discontinued",
+   "about": []
+  },
+  {
+   "label": "10",
+   "title": "Names and addresses of Technical Services and Type Approval Authorities",
+   "about": []
+  },
+  {
+   "label": "11",
+   "title": "Documentation",
+   "about": [
+    "Replacement pollution control device"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication form (approval, extension, refusal or withdrawal of a replacement pollution control device type)",
+   "about": [
+    "Replacement pollution control device",
+    "Vehicle type"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Arrangements of approval marks",
+   "about": [
+    "Approval mark"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "Any aftermarket catalytic converter or particulate filter (DPF/GPF) sold as a replacement part for R83-scope vehicles falls under R103.",
+  "An assembly of several devices (e.g. a combined catalyst plus filter unit) is treated as a pollution control device.",
+  "OEM spare-part catalysts and filters sold by the vehicle approval holder are 'original replacement' devices; they need no R103 approval but must meet the marking (manufacturer name, part number) and documentation requirements of para 4.2.",
+  "Devices identical to a type listed in R83 Annex 2 (05 series or later) can be approved without repeating the para 5 tests.",
+  "Other pollution control devices (beyond catalysts and filters) that regenerate in less than 4,000 km are addressed as periodically regenerating systems under para 5.6.",
+  "Devices for OBD-equipped vehicles must also demonstrate OBD compatibility using a deteriorated sample.",
+  "Changes to substrate count or material, cell density, catalyst loading or ratio, dimensions, or thermal protection create a new device type.",
+  "Approval covers not only emissions but also noise level and vehicle performance effects.",
+  "Devices for heavy-duty engines outside the R83 scope are not covered by this regulation.",
+  "The approval mark must remain legible when the device is mounted under the vehicle."
+ ],
+ "version": "0.3.0"
+}

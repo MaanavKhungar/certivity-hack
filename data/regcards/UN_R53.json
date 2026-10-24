@@ -1,0 +1,571 @@
+{
+ "regulation": "UN R53",
+ "title": "Installation of lighting and light-signalling devices for L3 vehicles (version 4.0.0)",
+ "subject_kind": "vehicle_installation",
+ "scope_summary": "Approves vehicle types with regard to the installation of their lighting and light-signalling devices, covering the number, position, geometric visibility, colour, alignment and electrical connection of lamps. It applies only to vehicles of category L3 (two-wheeled motorcycles).",
+ "scope_quote": "This Regulation applies to vehicles of category L3 with regard to the installation of lighting and light-signalling devices.",
+ "vehicle_categories": [
+  "L3"
+ ],
+ "applies_to_components": [
+  "Driving-beam headlamp",
+  "Adaptive Driving-Beam (ADB)",
+  "Passing-beam headlamp",
+  "Horizontal inclination adjustment system (HIAS)",
+  "Direction indicator lamp",
+  "Stop lamp",
+  "Rear-registration-plate illuminating device",
+  "Front position lamp",
+  "Rear position lamp",
+  "Rear retro-reflector, non-triangular",
+  "Vehicle-hazard warning signal",
+  "Front fog lamp",
+  "Rear fog lamp",
+  "Side retro-reflector, non-triangular",
+  "Daytime running lamp",
+  "Emergency stop signal",
+  "Exterior courtesy lamp",
+  "Rear-end collision alert signal (RECAS)",
+  "Tell-tale lamps",
+  "Grouped, combined or reciprocally incorporated lamps",
+  "Lamps equipped with LED substitute light sources"
+ ],
+ "relation_to_other_regulations": [
+  "Uses the definitions in the latest series of amendments to UN Regulation No. 48 unless otherwise specified, including the definitions of light colour, axis of reference, centre of reference and rear registration plate lamp.",
+  "Refers to UN Regulation No. 97: direction indicator lamps may also be used according to its provisions (vehicle alarm systems).",
+  "Refers to UN Regulation No. 149: an ADB must be type-approved under R149, and the R149 provisions for the driving-beam function of AFS apply to ADB.",
+  "Requires lamps approved under one of the Regulations annexed to the 1958 Agreement (the device regulations) or lamps allowed in the country of registration.",
+  "Allows the approval mark to be combined with the marks of other Regulations under which the vehicle is approved (para. 4.5).",
+  "Approval numbers currently use the 03 series of amendments; transitional provisions apply for the 04 series of amendments (para. 11.12)."
+ ],
+ "defined_terms": [
+  {
+   "term": "2.3",
+   "label": "Lamp",
+   "definition": "A device designed to illuminate the road or to emit a light signal to other road users, including rear registration plate lamps and retro-reflectors."
+  },
+  {
+   "term": "2.3.1",
+   "label": "Equivalent lamps",
+   "definition": "Lamps having the same function and authorised in the country of registration, which may differ from the lamps fitted at approval provided they satisfy this Regulation."
+  },
+  {
+   "term": "2.3.2",
+   "label": "Independent lamp",
+   "definition": "Devices having separate apparent surfaces, separate light sources and separate lamp bodies."
+  },
+  {
+   "term": "2.3.3",
+   "label": "Grouped lamps",
+   "definition": "Devices having separate apparent surfaces and separate light sources but a common lamp body."
+  },
+  {
+   "term": "2.3.4",
+   "label": "Combined",
+   "definition": "Devices having separate apparent surfaces but a common light source and a common lamp body."
+  },
+  {
+   "term": "2.3.5",
+   "label": "Reciprocally incorporated",
+   "definition": "Devices having separate light sources, or a single light source operating under different conditions, with totally or partially common apparent surfaces and a common lamp body."
+  },
+  {
+   "term": "2.3.6",
+   "label": "Direction indicator lamp",
+   "definition": "The lamp used to indicate to other road users that the driver intends to change direction to the right or left, which may also be used according to UN R97."
+  },
+  {
+   "term": "2.3.7",
+   "label": "Front position lamp",
+   "definition": "The lamp used to indicate the presence of the vehicle when viewed from the front."
+  },
+  {
+   "term": "2.3.8",
+   "label": "Rear position lamp",
+   "definition": "The lamp used to indicate the presence of the vehicle when viewed from the rear."
+  },
+  {
+   "term": "2.3.9",
+   "label": "Retro-reflector",
+   "definition": "A device indicating the presence of a vehicle by reflecting light from a source not connected to the vehicle, excluding retro-reflecting number plates."
+  },
+  {
+   "term": "2.4",
+   "label": "Light-emitting surface",
+   "definition": "All or part of the exterior surface of the transparent material of a lighting device, light-signalling device or retro-reflector, as declared by the manufacturer on the drawing."
+  },
+  {
+   "term": "2.5.1",
+   "label": "Illuminating surface of a lighting device",
+   "definition": "For driving-beam and passing-beam headlamps and front fog lamps, the orthogonal projection of the full aperture of the reflector (or projection lens) on a transverse plane."
+  },
+  {
+   "term": "2.5.2",
+   "label": "Illuminating surface of a light-signalling device other than a retro-reflector",
+   "definition": "The orthogonal projection of the lamp in a plane perpendicular to its axis of reference, bounded by screens each allowing 98 per cent of the luminous intensity to persist."
+  },
+  {
+   "term": "2.5.3",
+   "label": "Illuminating surface of a retro-reflector",
+   "definition": "The orthogonal projection of a retro-reflector in a plane perpendicular to its axis of reference, delimited by the outermost parts of its optical system."
+  },
+  {
+   "term": "2.6",
+   "label": "Apparent surface",
+   "definition": "For a defined direction of observation, the orthogonal projection of either the illuminating surface boundary or the light-emitting surface onto a plane perpendicular to that direction."
+  },
+  {
+   "term": "2.7",
+   "label": "Centre of reference",
+   "definition": "The intersection of the axis of reference with the exterior light-emitting surface, as specified by the lamp manufacturer."
+  },
+  {
+   "term": "2.8",
+   "label": "Extreme outer edge",
+   "definition": "The plane parallel to the vehicle's median longitudinal plane touching its lateral extremity, disregarding projections of mirrors, direction indicators, position lamps and retro-reflectors."
+  },
+  {
+   "term": "2.9",
+   "label": "Over-all width",
+   "definition": "The distance between the two vertical planes defining the extreme outer edges."
+  },
+  {
+   "term": "2.13",
+   "label": "Horizontal inclination",
+   "definition": "The angle between the beam pattern of the motorcycle set upright as specified in para. 5.4 and the beam pattern when the motorcycle is banked."
+  },
+  {
+   "term": "2.14",
+   "label": "Horizontal inclination adjustment system (HIAS)",
+   "definition": "A device that adjusts the horizontal inclination of the headlamp towards zero."
+  },
+  {
+   "term": "2.15",
+   "label": "Bank angle",
+   "definition": "The angle with the vertical made by the motorcycle's vertical longitudinal median plane when it is rotated about its longitudinal axis."
+  },
+  {
+   "term": "2.16",
+   "label": "HIAS signal",
+   "definition": "Any control signal or additional control input to the HIAS, or any control output from it to the motorcycle."
+  },
+  {
+   "term": "2.17",
+   "label": "HIAS signal generator",
+   "definition": "A device reproducing one or more HIAS signals for system testing."
+  },
+  {
+   "term": "2.18",
+   "label": "HIAS test angle",
+   "definition": "The angle δ between the headlamp cut-off line and the HH line."
+  },
+  {
+   "term": "2.19",
+   "label": "Device",
+   "definition": "A component or combination of components used to perform one or several functions."
+  },
+  {
+   "term": "2.20",
+   "label": "Exterior courtesy lamp",
+   "definition": "A lamp providing supplementary illumination to assist the driver and passenger in mounting and dismounting, or to assist in loading operations."
+  },
+  {
+   "term": "2.21",
+   "label": "Adaptive Driving-Beam (ADB)",
+   "definition": "A front lighting system consisting of driving-beam(s) only, type-approved to UN R149, that adapts its beam pattern to oncoming and preceding vehicles without causing glare."
+  },
+  {
+   "term": "2.21.1",
+   "label": "ADB neutral state",
+   "definition": "The state of the ADB when the driving-beam is in the maximum condition of activation."
+  },
+  {
+   "term": "2.22",
+   "label": "Rear-end collision alert signal (RECAS)",
+   "definition": "An automatic signal given by the leading vehicle warning the following vehicle that it needs to take emergency action to avoid a collision."
+  }
+ ],
+ "classes_and_variants": [
+  {
+   "name": "Independent / grouped / combined / reciprocally incorporated lamps",
+   "distinguished_by": "Whether the apparent surfaces, light sources and lamp bodies are separate or shared"
+  },
+  {
+   "name": "Driving-beam vs passing-beam headlamp",
+   "distinguished_by": "Lighting function (main beam vs dipped beam with cut-off)"
+  },
+  {
+   "name": "Adaptive Driving-Beam (ADB)",
+   "distinguished_by": "R149-approved driving beam that adapts to other traffic, with automatic control test drives (Annex 9)"
+  },
+  {
+   "name": "Headlamp with HIAS",
+   "distinguished_by": "Presence of a system that corrects headlamp horizontal inclination when the motorcycle banks"
+  },
+  {
+   "name": "Non-triangular rear and side retro-reflectors",
+   "distinguished_by": "Shape of the retro-reflector and its mounting position (rear or side)"
+  },
+  {
+   "name": "Illuminating surface definitions",
+   "distinguished_by": "Lighting device vs light-signalling device vs retro-reflector"
+  },
+  {
+   "name": "Apparent surface method",
+   "distinguished_by": "Manufacturer's choice of basing it on the illuminating surface (a-b) or the light-emitting surface (c-d)"
+  },
+  {
+   "name": "Series of amendments 03 / 04",
+   "distinguished_by": "Approval number digits and transitional provisions"
+  }
+ ],
+ "sections": [
+  {
+   "label": "1",
+   "title": "Scope",
+   "about": [
+    "Installation of lighting and light-signalling devices on L3 vehicles"
+   ]
+  },
+  {
+   "label": "2",
+   "title": "Definitions",
+   "about": [
+    "Lamp",
+    "Equivalent lamps",
+    "Independent lamp",
+    "Grouped lamps",
+    "Combined",
+    "Reciprocally incorporated",
+    "Direction indicator lamp",
+    "Front position lamp",
+    "Rear position lamp",
+    "Retro-reflector",
+    "Light-emitting surface",
+    "Illuminating surface",
+    "Apparent surface",
+    "Centre of reference",
+    "Extreme outer edge",
+    "Over-all width",
+    "Horizontal inclination",
+    "HIAS",
+    "Bank angle",
+    "Device",
+    "Exterior courtesy lamp",
+    "ADB",
+    "RECAS"
+   ]
+  },
+  {
+   "label": "3",
+   "title": "Application for approval",
+   "about": [
+    "Documents to submit, including the device list, layout drawings, apparent surface method, LED substitute light source statement and ADB description"
+   ]
+  },
+  {
+   "label": "4",
+   "title": "Approval",
+   "about": [
+    "Approval number",
+    "Approval mark placed near the vehicle data plate"
+   ]
+  },
+  {
+   "label": "5",
+   "title": "General specifications",
+   "about": [
+    "General installation requirements for all lamps",
+    "Colours",
+    "Alignment",
+    "Electrical connections"
+   ]
+  },
+  {
+   "label": "5.6",
+   "title": "Grouped, combined or reciprocally incorporated or single lamps",
+   "about": [
+    "Grouped lamps",
+    "Combined",
+    "Reciprocally incorporated",
+    "Independent lamp"
+   ]
+  },
+  {
+   "label": "5.12",
+   "title": "Tell-tale lamps",
+   "about": [
+    "Tell-tale lamps for lighting and signalling functions"
+   ]
+  },
+  {
+   "label": "5.20",
+   "title": "General provisions relating to geometric visibility",
+   "about": [
+    "Apparent surface",
+    "Angles of geometric visibility"
+   ]
+  },
+  {
+   "label": "6",
+   "title": "Individual specifications",
+   "about": [
+    "Per-function installation requirements"
+   ]
+  },
+  {
+   "label": "6.1",
+   "title": "Driving-beam headlamp",
+   "about": [
+    "Driving-beam headlamp",
+    "ADB",
+    "Automatic control of driving beam"
+   ]
+  },
+  {
+   "label": "6.2",
+   "title": "Passing-beam headlamp",
+   "about": [
+    "Passing-beam headlamp",
+    "HIAS",
+    "Horizontal inclination",
+    "Bank angle"
+   ]
+  },
+  {
+   "label": "6.3",
+   "title": "Direction indicator lamp",
+   "about": [
+    "Direction indicator lamp"
+   ]
+  },
+  {
+   "label": "6.4",
+   "title": "Stop lamp",
+   "about": [
+    "Stop lamp"
+   ]
+  },
+  {
+   "label": "6.5",
+   "title": "Rear-registration-plate illuminating device",
+   "about": [
+    "Rear registration plate lamp"
+   ]
+  },
+  {
+   "label": "6.6",
+   "title": "Front position lamp",
+   "about": [
+    "Front position lamp"
+   ]
+  },
+  {
+   "label": "6.7",
+   "title": "Rear position lamp",
+   "about": [
+    "Rear position lamp"
+   ]
+  },
+  {
+   "label": "6.8",
+   "title": "Rear retro-reflector, non-triangular",
+   "about": [
+    "Retro-reflector"
+   ]
+  },
+  {
+   "label": "6.9",
+   "title": "Vehicle-hazard warning signal",
+   "about": [
+    "Hazard warning signal",
+    "Direction indicator lamp"
+   ]
+  },
+  {
+   "label": "6.10",
+   "title": "Front fog lamp",
+   "about": [
+    "Front fog lamp"
+   ]
+  },
+  {
+   "label": "6.11",
+   "title": "Rear fog lamp",
+   "about": [
+    "Rear fog lamp"
+   ]
+  },
+  {
+   "label": "6.12",
+   "title": "Side retro-reflector, non-triangular",
+   "about": [
+    "Retro-reflector"
+   ]
+  },
+  {
+   "label": "6.13",
+   "title": "Daytime running lamp",
+   "about": [
+    "Daytime running lamp"
+   ]
+  },
+  {
+   "label": "6.14",
+   "title": "Emergency stop signal",
+   "about": [
+    "Emergency stop signal",
+    "Stop lamp",
+    "Direction indicator lamp"
+   ]
+  },
+  {
+   "label": "6.15",
+   "title": "Exterior courtesy lamp",
+   "about": [
+    "Exterior courtesy lamp"
+   ]
+  },
+  {
+   "label": "6.17",
+   "title": "Rear-end collision alert signal",
+   "about": [
+    "RECAS"
+   ]
+  },
+  {
+   "label": "7",
+   "title": "Modifications of the vehicle type or of the installation of its lighting and light-signalling devices",
+   "about": [
+    "Extension of approval"
+   ]
+  },
+  {
+   "label": "8",
+   "title": "Conformity of production",
+   "about": [
+    "COP procedures"
+   ]
+  },
+  {
+   "label": "9",
+   "title": "Penalties for non-conformity of production",
+   "about": [
+    "Withdrawal of approval"
+   ]
+  },
+  {
+   "label": "10",
+   "title": "Production definitively discontinued",
+   "about": [
+    "Notification of discontinued production"
+   ]
+  },
+  {
+   "label": "11",
+   "title": "Transitional provisions",
+   "about": [
+    "Series of amendments transitional dates"
+   ]
+  },
+  {
+   "label": "11.12",
+   "title": "Transitional provisions applicable to the 04 series of amendments",
+   "about": [
+    "04 series of amendments"
+   ]
+  },
+  {
+   "label": "12",
+   "title": "Names and addresses of Technical Services and Type Approval Authorities",
+   "about": [
+    "Administrative contacts"
+   ]
+  },
+  {
+   "label": "Annex 1",
+   "title": "Communication form",
+   "about": [
+    "Approval communication",
+    "List of lighting devices on the vehicle"
+   ]
+  },
+  {
+   "label": "Annex 2",
+   "title": "Arrangements of approval marks",
+   "about": [
+    "Approval mark examples"
+   ]
+  },
+  {
+   "label": "Annex 3",
+   "title": "Examples of lamp surfaces, axis, centre of reference and angles of geometric visibility",
+   "about": [
+    "Illuminating surface",
+    "Light-emitting surface",
+    "Apparent surface",
+    "Centre of reference"
+   ]
+  },
+  {
+   "label": "Annex 4",
+   "title": "Forward visibility of red lamps and rearward visibility of white lamps",
+   "about": [
+    "Lamp colour visibility restrictions"
+   ]
+  },
+  {
+   "label": "Annex 5",
+   "title": "Tests (checks of installation)",
+   "about": [
+    "Visibility of lamps",
+    "Alignment of passing-beam headlamps",
+    "Light intensities"
+   ]
+  },
+  {
+   "label": "Annex 6",
+   "title": "Horizontal inclination drawing",
+   "about": [
+    "Bank angle",
+    "Horizontal inclination",
+    "HIAS test angle"
+   ]
+  },
+  {
+   "label": "Annex 7",
+   "title": "Zones of observation",
+   "about": [
+    "Visibility zones (exterior courtesy lamp / lit surfaces)"
+   ]
+  },
+  {
+   "label": "Annex 8",
+   "title": "Automatic switching conditions for passing beam",
+   "about": [
+    "Passing-beam headlamp automatic switching by ambient light"
+   ]
+  },
+  {
+   "label": "Annex 9",
+   "title": "Test drive specifications for automatic control of driving-beam and ADB",
+   "about": [
+    "Driving-beam headlamp",
+    "ADB"
+   ]
+  }
+ ],
+ "applicability_hints": [
+  "The regulation approves the vehicle, not individual lamps; any lamp, retro-reflector or signalling device fitted to an L3 motorcycle must be installed to meet its position, visibility, colour and switching rules, while the device itself is approved under its own device regulation.",
+  "Retro-reflectors and rear registration plate lamps count as lamps; retro-reflecting number plates do not.",
+  "Lamp assemblies that integrate several functions (grouped, combined or reciprocally incorporated) are subject to para. 5.6.",
+  "Electronic control units or sensors that trigger signals fall within scope through the functions they control, such as ECUs for the emergency stop signal or RECAS, automatic headlamp switching (Annex 8), automatic driving-beam/ADB control (Annex 9), and HIAS bank-angle sensors and controllers.",
+  "Cornering or banking headlamp systems and their bend-lighting units are relevant through the HIAS and passing-beam provisions.",
+  "Dashboard tell-tales indicating lighting functions are covered by para. 5.12.",
+  "Direction indicators used by an alarm system (R97) remain subject to this regulation.",
+  "The ADB must also be type-approved under UN R149.",
+  "Lamps using LED substitute light sources require a manufacturer statement at application (para. 3.2.6).",
+  "Applies only to category L3; other L categories (mopeds, tricycles, quadricycles) are not in scope."
+ ],
+ "version": "4.0.0"
+}
