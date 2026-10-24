@@ -1,0 +1,60 @@
+{
+ "case_id": "dev-rear-lamp",
+ "spec_file": "spec.md",
+ "image_files": [
+  "exploded_view.png"
+ ],
+ "deterministic": {
+  "product": "Rear lamp",
+  "product_description": "Rear lamp  — exterior lighting & signalling module combining multiple light functions, lens, and retro-reflector in a single housing.",
+  "vehicle_category": "M1",
+  "vehicle_category_note": "M1 — passenger car. UNECE lighting regulations referenced apply across M and N categories.",
+  "functions": [
+   "Rear position signalling (presence/visibility)",
+   "Braking indication (stop lamp)",
+   "Reversing illumination",
+   "Passive conspicuity (retro-reflector)",
+   "Light transmission & color definition (outer lens)"
+  ],
+  "parts": [
+   {
+    "part_id": "P-01",
+    "name": "Rear position lamp"
+   },
+   {
+    "part_id": "P-02",
+    "name": "Stop lamp"
+   },
+   {
+    "part_id": "P-03",
+    "name": "Reversing lamp"
+   },
+   {
+    "part_id": "P-04",
+    "name": "Outer lens"
+   },
+   {
+    "part_id": "P-05",
+    "name": "Retro-reflector"
+   }
+  ],
+  "materials": {
+   "Outer lens": "PMMA (red-tinted, UV-stabilised)",
+   "Housing": "PP or ASA/PC",
+   "Reflector surface": "PC with aluminium vacuum-metallised coating",
+   "Retro-reflector": "PMMA (molded prism optics)",
+   "Light source": "LED modules on PCB",
+   "Seal / gasket": "TPE or silicone",
+   "Fasteners / clips": "PA, POM, or steel"
+  },
+  "spec_sections": [
+   "function",
+   "main parts",
+   "materials",
+   "product type",
+   "spec: rear lamp",
+   "vehicle category"
+  ]
+ },
+ "_note": "deterministic part only; the model+vision part is added once ANTHROPIC_API_KEY is set (see src/product profile.ipynb)"
+}
