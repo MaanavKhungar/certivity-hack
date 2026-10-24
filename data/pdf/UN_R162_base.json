@@ -14,7 +14,9 @@
   "title": null,
   "text": "UN R162 (version 0.6.0) Consolidated text of this version, rendered by Certivity for the hackathon. Cite pages of THIS file: the page number is printed at the bottom of every page. Role in the hackathon: base version.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -31,7 +33,9 @@
   "title": null,
   "text": "Scope This UN Regulation applies to:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -48,7 +52,9 @@
   "title": null,
   "text": "Approval of immobilizers which are intended to be permanently fitted to vehicles of any category.1, 2 1As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3.), document ECE/TRANS/WP.29/78/Rev.6, para. 2 - www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29resolutions.html 2Only vehicles with 12 volts electrical systems are considered.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -65,7 +71,9 @@
   "title": null,
   "text": "Approval of vehicles of category M1 and those of category N1 with a maximum mass of not more than 2 tonnes, with regard to their immobilizer(s).2 2Only vehicles with 12 volts electrical systems are considered.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -82,7 +90,9 @@
   "title": null,
   "text": "At the request of the manufacturer, Contracting Parties may grant approvals to vehicles of other categories with regard to their immobilizer(s).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -99,7 +109,9 @@
   "title": null,
   "text": "This UN Regulation does not apply to radio transmission frequencies, whether or not related to the protection of vehicles against unauthorized use.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -116,7 +128,9 @@
   "title": "Definitions",
   "text": "Definitions",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R162",
@@ -133,7 +147,9 @@
   "title": null,
   "text": "\" _Component_ \" means a device subject to the requirements of this regulation and intended to be part of a vehicle, which may be type-approved independently of a vehicle where this regulation makes express provisions for so doing;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R162",
@@ -150,7 +166,9 @@
   "title": null,
   "text": "\" _Separate technical unit_ \" means a device subject to the requirements of this regulation and intended to be part of a vehicle, which may be type-approved separately, but only in relation to one or more specified types of vehicle where this regulation makes express provisions for so doing;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R162",
@@ -167,7 +185,9 @@
   "title": null,
   "text": "\" _Manufacturer_ \" means the person or body who is responsible to the approval authority for all aspects of the type approval process and for ensuring conformity of production. It is not essential that the person or body is directly involved in all stage of the construction of the vehicle, system, component or separate technical unit which is the subject of the approval process.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R162",
@@ -184,7 +204,9 @@
   "title": null,
   "text": "\" _Immobilizer_ \" means a device which is intended to prevent normal driving away of a vehicle under its own power (prevention of unauthorized use).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R162",
@@ -201,7 +223,9 @@
   "title": null,
   "text": "\" _Control equipment_ \" means equipment necessary for the setting and/or unsetting of an immobilizer.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R162",
@@ -218,7 +242,9 @@
   "title": null,
   "text": "\" _Status display_ \" means any device intended to indicate the status of the immobilizer (set/unset, change of set to unset and vice versa).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R162",
@@ -235,7 +261,9 @@
   "title": null,
   "text": "\" _Set state_ \" means the state in which the vehicle cannot be driven normally under its own power.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R162",
@@ -252,7 +280,9 @@
   "title": null,
   "text": "\" _Unset state_ \" means the state in which the vehicle can be driven normally.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R162",
@@ -269,7 +299,9 @@
   "title": null,
   "text": "\"Key\" means any mechanical and/or electronic solution designed and constructed to provide a method of operating a locking system which is designed and constructed to be operated by that mechanical and/or electronic solution.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R162",
@@ -286,7 +318,9 @@
   "title": null,
   "text": "\" _Override_ \" means a design feature which locks the immobilizer in the unset condition.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R162",
@@ -303,7 +337,9 @@
   "title": null,
   "text": "\" _Rolling code_ \" means an electronic code consisting of several elements the combination of which changes at random after each operation of the transmitting unit.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R162",
@@ -320,7 +356,9 @@
   "title": null,
   "text": "\" _Type of immobilizer_ \" means systems which do not differ significantly in such essential aspects as: (a) The manufacturer's trade name or mark; (b) The kind of control equipment; (c) The design of their operation on the relevant vehicle system(s) (as referred to in paragraph 5.2.1. below).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R162",
@@ -337,7 +375,9 @@
   "title": null,
   "text": "\" _Vehicle type with regard to its immobilizer_ \" means vehicles which do not differ significantly in such essential aspects as: (a) The manufacturer's trade name or mark; (b) Vehicle features which significantly influence the performances of the immobilizer; (c) The type and design of the immobilizer.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R162",
@@ -354,7 +394,9 @@
   "title": null,
   "text": "\"Primary user\" is a user who is able to authorize digital keys. There can be more than one primary users.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R162",
@@ -371,7 +413,9 @@
   "title": null,
   "text": "\"Digital key\" means a key designed to be transferred to multiple devices by the primary user(s) through dedicated processes.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R162",
@@ -388,7 +432,9 @@
   "title": null,
   "text": "\"Close proximity\" means a distance of less than 6 m.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R162",
@@ -405,7 +451,9 @@
   "title": "Application for approval",
   "text": "Application for approval",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -422,7 +470,9 @@
   "title": null,
   "text": "The application for approval of a vehicle or component type with regard to this Regulation shall be submitted by the manufacturer.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -439,7 +489,9 @@
   "title": null,
   "text": "It shall be accompanied by an information document established in accordance with the model shown in Annex 1, and giving a description of the technical characteristics of the immobilizer and the method(s) of installation for each make and type of vehicle on which the immobilizer is intended to be installed.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -456,7 +508,9 @@
   "title": null,
   "text": "Vehicle(s) / component(s) representative of the type(s) to be approved shall be submitted to the technical service responsible for conducting the approval tests.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -473,7 +527,9 @@
   "title": "Approval",
   "text": "Approval",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -490,7 +546,9 @@
   "title": null,
   "text": "If the type submitted for approval to this Regulation meets the requirements of this Regulation, approval of that type shall be granted.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -507,7 +565,9 @@
   "title": null,
   "text": "An approval number shall be assigned to each type approved. Its first two digits (at present 00, corresponding to the Regulation in its original form) shall indicate the series of amendments incorporating the most recent major technical amendment made to the Regulation at the time of issue of the approval. The same Contracting Party shall not assign the same number to another type of vehicle or component as defined in this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -524,7 +584,9 @@
   "title": null,
   "text": "Notice of approval or of extension of approval of a type pursuant to this Regulation shall be communicated to the Contracting Parties to the Agreement applying this Regulation by means of a form conforming to the model in Annex 2 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -541,7 +603,9 @@
   "title": null,
   "text": "There shall be affixed, conspicuously and in a readily accessible place specified on the approval form, to every vehicle or component conforming to a type approved under this Regulation, an international approval mark consisting of:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -558,7 +622,9 @@
   "title": null,
   "text": "A circle surrounding the letter \"E\" followed by the distinguishing number of the country which has granted approval,3 and 3The distinguishing numbers of the Contracting Parties to the 1958 Agreement are reproduced in Annex 3 to the Consolidated Resolution on the Construction of Vehicles (R.E.3), document ECE/TRANS/WP.29/78/Rev. 6, Annex 3- www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29resolutions.html.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -575,7 +641,9 @@
   "title": null,
   "text": "The number of this Regulation, followed by the letter \"R\", a dash and the approval number, to the right of the circle prescribed in paragraph 4.4.1.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -592,7 +660,9 @@
   "title": null,
   "text": "If a type conforms to a type approved, under one or more other Regulations annexed to the Agreement, in the country which has granted approval under this Regulation, the symbol prescribed in paragraph 4.4.1. need not be repeated; in such a case, the Regulation under which approval has been granted in the country which has granted approval under this Regulation shall be placed in vertical columns to the right of the symbol prescribed in paragraph 4.4.1.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -609,7 +679,9 @@
   "title": null,
   "text": "The approval mark shall be clearly legible and be indelible.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -626,7 +698,9 @@
   "title": null,
   "text": "In the case of a vehicle, the approval mark shall be placed close to or on the vehicle data plate affixed by the manufacturer.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -643,7 +717,9 @@
   "title": null,
   "text": "In the case of a component approved separately as an immobilizer, the approval mark shall be affixed by the manufacturer to the major element(s) of the device. In the case of a component approved as an immobilizer under this regulation and an alarm system under UN Regulation No. [ZZZ] or UN Regulation No. 116, Supplement 7 to the original version, or UN Regulation No. 97 Supplement 8 to the 01 series of amendments both approval marks shall be affixed by the manufacturer to the major element(s) of the device.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -660,7 +736,9 @@
   "title": null,
   "text": "Annex 3 to this Regulation gives examples of arrangements of approval marks.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -677,7 +755,9 @@
   "title": null,
   "text": "As an alternative to the approval mark described in paragraph 4.4. above, a certificate of conformity shall be issued for every immobilizer offered for sale. Where an immobilizer manufacturer supplies an unmarked immobilizer approved to this Regulation to a vehicle manufacturer, for fitment by that manufacturer as original equipment for a vehicle model or range of vehicle models, the immobilizer manufacturer shall supply a number of copies of the certificate of conformity to the vehicle manufacturer, sufficient for that manufacturer to obtain the vehicle approval of this Regulation. If the immobilizer is made up of separate components, its main component(s) shall bear a reference mark and the certificate of conformity shall provide a list of such reference marks. A model of the certificate of conformity is given in Annex4 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -694,7 +774,9 @@
   "title": null,
   "text": "When an immobilizer, approved to this Regulation or UN Regulation No. 116, Supplement 7 to the original version, or UN Regulation No. 97, Supplement 8 to the 01 series of amendments as a separate technical unit, is installed in a vehicle submitted for approval to this Regulation, tests required to be passed by an immobilizer in order to obtain approval to this Regulation shall not be repeated.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -711,7 +793,9 @@
   "title": "Specifications",
   "text": "Specifications",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -728,7 +812,9 @@
   "title": "General Specifications",
   "text": "General Specifications",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -745,7 +831,9 @@
   "title": null,
   "text": "It must be possible to set and unset the immobilizer in accordance with these requirements. 5.1.2.An immobilizer and its installation shall be so designed that any equipped vehicle continues to meet the technical requirements.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -762,7 +850,9 @@
   "title": null,
   "text": "It shall not be possible for an immobilizer to enter the set state when the ignition key is in the engine running mode, except when: (a) The vehicle is equipped or intended to be equipped for ambulance, fire brigade or police purposes; or (b) The engine is required to: (i) Drive machinery forming part of, or mounted on, the vehicle for purposes other than driving the vehicle; or (ii) Maintain the electrical power of the batteries of the vehicle at a level required for driving that machinery or apparatus; and the vehicle is stationary with the parking brake applied. When this exception is used, this fact shall be stated under item 2 of the addendum to the communication document (Annex 2 to this Regulation).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -779,7 +869,9 @@
   "title": null,
   "text": "It shall not be possible to permanently override an immobilizer.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -796,7 +888,9 @@
   "title": null,
   "text": "The immobilizer shall be designed and built such that when installed it shall not adversely affect the designed function and the safe operation of the vehicle, even in the case of malfunction.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -813,7 +907,9 @@
   "title": null,
   "text": "An immobilizer shall be designed and built such that, when installed on a vehicle, according to the manufacturer's instructions, it cannot rapidly and without attracting attention be rendered ineffective or destroyed by, e.g. the use of low cost easily concealed tools, equipment or fabrications readily available to the public at large. It shall be difficult and time consuming to replace a major component or assembly in order to bypass the immobilizer.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -830,7 +926,9 @@
   "title": null,
   "text": "An immobilizer shall be so designed and built such that when installed as specified by the manufacturer it is able to withstand the environment within the vehicle for a reasonable lifetime (for testing see paragraph 5.3.). More particularly the electrical properties of the on-board circuitry shall not be adversely affected by the addition of the immobilizer (lead cross-sections, contact safety, etc.)",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -847,7 +945,9 @@
   "title": null,
   "text": "An immobilizer may be combined with other vehicle systems or may be integrated into them (e.g. engine management, alarm systems).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -864,7 +964,9 @@
   "title": null,
   "text": "It shall not be possible for an immobilizer to prevent the release of the brakes of the vehicle, except in the case of an immobilizer which prevents the release of pneumatically released spring brakes4 and functions in such a way that in normal operation, or in failure conditions, the technical requirements of UN Regulation No. 13 in force at the time of application for type approval under this Regulation are satisfied. Compliance with this paragraph does not exempt an immobilizer which prevents the release of pneumatically released spring brakes from the technical requirements set out in this Regulation. 4As defined in Annex 8 of UN Regulation No. 13, as amended.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -881,7 +983,9 @@
   "title": null,
   "text": "It shall not be possible for an immobilizer to operate in such a manner as to apply the brakes of the vehicle.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -898,7 +1002,9 @@
   "title": null,
   "text": "In addition, digital keys shall comply with the provisions of Annex 9.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -915,7 +1021,9 @@
   "title": "Particular Specifications",
   "text": "Particular Specifications",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -932,7 +1040,9 @@
   "title": "Extent of disablement",
   "text": "Extent of disablement",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -949,7 +1059,9 @@
   "title": null,
   "text": "An immobilizer shall be designed so as to prevent the operation of the vehicle under its own motive power by at least one of the following means: 5.2.1.1.1. disable, in the case of after-market fitting, or vehicle equipped with diesel engine, at least two separate vehicle circuits that are needed for vehicle operation under its own power (e.g. starter motor, ignition, fuel supply, pneumatically released spring brakes, etc.); 5.2.1.1.2. interference by code of at least one control unit required for the operation of the vehicle.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -966,7 +1078,9 @@
   "title": null,
   "text": "An immobilizer for fitment to a vehicle equipped with a catalytic converter shall not cause unburnt fuel to enter the exhaust.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -983,7 +1097,9 @@
   "title": null,
   "text": "Operating reliability Operating reliability shall be achieved by suitable design of the immobilizer, account being taken of specific environmental conditions in the vehicle (see paragraphs 5.1.8. and 5.3.).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1000,7 +1116,9 @@
   "title": null,
   "text": "Operating safety It shall be ensured that the immobilizer does not change its state (set/unset) as a result of any of the tests in paragraph 5.3.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1017,7 +1135,9 @@
   "title": "Setting of the immobilizer",
   "text": "Setting of the immobilizer",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1034,7 +1154,9 @@
   "title": null,
   "text": "The immobilizer must be set without supplementary action from the driver by at least one of the following means: (a) At rotation of the ignition key into the \"0\" position in the ignition lock and activation of a door; in addition, immobilizers which unset immediately before or during the normal starting procedure of the vehicle are permitted to set on turning the ignition off; (b) A maximum of 1 minute after removing the key of the ignition lock.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1051,7 +1173,9 @@
   "title": null,
   "text": "If the immobilizer can enter the set state when the ignition key is in the engine running mode as provided for in paragraph 5.1.4., the immobilizer may also be set by the opening of the driver's door and/or the authorised user carrying out a deliberate action.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1068,7 +1192,9 @@
   "title": "Unsetting",
   "text": "Unsetting",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1085,7 +1211,9 @@
   "title": null,
   "text": "Unsetting shall be achieved by using one or a combination of the following devices. Other devices with an equivalent level of security giving equivalent performance are permitted.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1102,7 +1230,9 @@
   "title": null,
   "text": "A key pad for inputting an individually selectable code having at least 10,000 variants.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1119,7 +1249,9 @@
   "title": null,
   "text": "Electrical/electronic device, e.g. remote control, with at least 50,000 variants and shall incorporate rolling codes and/or have a minimum scan time of ten days, e.g. a maximum of 5,000 variants per 24 hours for 50,000 variants minimum.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1136,7 +1268,9 @@
   "title": null,
   "text": "If unsetting can be achieved via a remote control, the immobilizer must return to the set condition within 5 minutes after unsetting if no supplementary action on the starter circuit has been undertaken.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1153,7 +1287,9 @@
   "title": "Status display",
   "text": "Status display",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1170,7 +1306,9 @@
   "title": null,
   "text": "To provide information on the status of the immobilizer (set/unset, change of set to unset and vice versa), optical displays inside and optical signals outside the passenger compartment are allowed. Any optical signal or any use of lighting and light-signalling devices outside the passenger compartment shall fulfil the requirements of Regulation No. 48.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1187,7 +1325,9 @@
   "title": null,
   "text": "If an indication of short-term \"dynamic\" processes such as changes from \"set\" to \"unset\" and vice versa is provided, it shall be optical, according to paragraph 5.2.6.1. Such optical indication may also be produced by the simultaneous operation of the direction indicators and/or passenger compartment lamp(s), provided that the duration of the optical indication by the direction indicators does not exceed 3 seconds.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1204,7 +1344,9 @@
   "title": null,
   "text": "Operation parameters and test conditions All components of the immobilizer shall be submitted to the tests described in Annex 6.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1221,7 +1363,9 @@
   "title": null,
   "text": "Instructions (Paragraphs 5.4.1. to 5.4.3. for the purposes of aftermarket installation only). Each immobilizer shall be accompanied by:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1238,7 +1382,9 @@
   "title": null,
   "text": "Instructions for installation.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1255,7 +1401,9 @@
   "title": null,
   "text": "The list of vehicles and vehicle models for which the device is intended. This list may be specific or generic, e.g. \"all cars with petrol engines and 12 V negative earth batteries\".",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1272,7 +1420,9 @@
   "title": null,
   "text": "The method of installation illustrated by photographs and/or very clear drawings.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1289,7 +1439,9 @@
   "title": null,
   "text": "Detailed installation instructions provided by the supplier shall be such that when correctly followed by a competent installer, the safety and reliability of the vehicle is not affected.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1306,7 +1458,9 @@
   "title": null,
   "text": "The supplied installation instructions shall identify the electrical power requirements of the immobilizer and, where relevant, shall advise an increasing of battery size.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1323,7 +1477,9 @@
   "title": null,
   "text": "The supplier shall provide post installation procedures for checking the vehicle. Particular attention shall be drawn to safety related features.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1340,7 +1496,9 @@
   "title": null,
   "text": "A blank installation certificate, an example of which is given in Annex 5.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1357,7 +1515,9 @@
   "title": null,
   "text": "A general statement to the immobilizer purchaser calling his attention to the following points:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1374,7 +1534,9 @@
   "title": null,
   "text": "The immobilizer should be installed in accordance with the manufacturer's instructions;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1391,7 +1553,9 @@
   "title": null,
   "text": "The selection of a good installer is recommended (the immobilizer manufacturer may be contacted to indicate appropriate installers);",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1408,7 +1572,9 @@
   "title": null,
   "text": "The installation certificate supplied with the immobilizer should be completed by the installer.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1425,7 +1591,9 @@
   "title": null,
   "text": "Instructions for use.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1442,7 +1610,9 @@
   "title": null,
   "text": "Instructions for maintenance.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1459,7 +1629,9 @@
   "title": null,
   "text": "A general warning regarding the dangers of making any alterations or additions to the immobilizer; such alterations and additions would automatically invalidate the certificate of installation referred to in paragraph 5.4.2. above.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1476,7 +1648,9 @@
   "title": "Modification of the type and extension of approval",
   "text": "Modification of the type and extension of approval",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -1493,7 +1667,9 @@
   "title": null,
   "text": "Every modification of a vehicle or component type with regard to this Regulation shall be notified to the administrative department which approved the vehicle or component type. The department may then either:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -1510,7 +1686,9 @@
   "title": null,
   "text": "Consider that the modifications made are unlikely to have an appreciable adverse effect and that in any case the component or the vehicle still complies with the requirements, or",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -1527,7 +1705,9 @@
   "title": null,
   "text": "Require a further report from the technical service responsible for conducting the tests.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -1544,7 +1724,9 @@
   "title": null,
   "text": "Confirmation or refusal of approval, specifying the alteration, shall be communicated by the procedure specified in paragraph 4.3. above to the Contracting Parties to the Agreement applying this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -1561,7 +1743,9 @@
   "title": null,
   "text": "The competent authority issuing the extension of approval shall assign a serial number to each communication form drawn up for such an extension.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -1578,7 +1762,9 @@
   "title": "Conformity of production",
   "text": "Conformity of production",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R162",
@@ -1595,7 +1781,9 @@
   "title": null,
   "text": "Procedures concerning conformity of production shall comply with those set out in the 1958 Agreement, Schedule 1 (E/ECE/TRANS/505/Rev.3) and meet the following requirements:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R162",
@@ -1612,7 +1800,9 @@
   "title": null,
   "text": "For each type of vehicle or component the tests prescribed in the relevant part(s) of this Regulation shall be carried out on a statistically controlled and random basis, in accordance with one of the regular quality assurance procedures;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R162",
@@ -1629,7 +1819,9 @@
   "title": null,
   "text": "The Type Approval Authority which has granted approval may at any time verify the conformity of control methods applicable to each production unit. The normal frequency of such inspections shall be once every two years.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R162",
@@ -1646,7 +1838,9 @@
   "title": "Penalties for non-conformity of production",
   "text": "Penalties for non-conformity of production",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -1663,7 +1857,9 @@
   "title": null,
   "text": "The approval granted in respect of a vehicle/component type pursuant to this Regulation may be withdrawn if the requirements laid down in paragraph **7** . above are not complied with.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -1680,7 +1876,9 @@
   "title": null,
   "text": "If a Contracting Party to the Agreement applying this Regulation withdraws an approval it has previously granted, it shall forthwith so notify the other Contracting Parties applying this Regulation, by means of a form conforming to the model in Annex 2.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -1697,7 +1895,9 @@
   "title": null,
   "text": "Production definitively discontinued If the holder of the approval completely ceases to manufacture a vehicle/component type approved in accordance with this Regulation, he shall so inform the authority which granted the approval. Upon receiving the relevant communication, that authority shall inform thereof the other Contracting Parties to the Agreement applying this Regulation by means of a form conforming to the model in Annex 2.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1714,7 +1914,9 @@
   "title": null,
   "text": "Names and addresses of Technical Services responsible for conducting approval tests, and of administrative departments The Contracting Parties to the Agreement applying this Regulation shall communicate to the United Nations secretariat the names and addresses of the technical services responsible for conducting approval tests and of the administrative departments which grant approval and to which forms certifying approval or extension or refusal or withdrawal of approval, issued in other countries are to be sent.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -1731,7 +1933,9 @@
   "title": null,
   "text": "(Maximum format: A4 (210 mm x 297 mm)) Information document In accordance with paragraph 5. of UN Regulation No. [XXX] relating to system type approval of a vehicle type with regard to an immobilizer system",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -1748,7 +1952,9 @@
   "title": "General",
   "text": "General",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -1765,7 +1971,9 @@
   "title": null,
   "text": "Make (trade name of manufacturer):",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -1782,7 +1990,9 @@
   "title": null,
   "text": "Type:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -1799,7 +2009,9 @@
   "title": null,
   "text": "Means of identification of type, if marked on the device (b):",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -1816,7 +2028,9 @@
   "title": null,
   "text": "Location of that marking: ........................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -1833,7 +2047,9 @@
   "title": null,
   "text": "Name and address of manufacturer:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -1850,7 +2066,9 @@
   "title": null,
   "text": "Location of the ECE approval mark:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -1867,7 +2085,9 @@
   "title": null,
   "text": "Address(es) of assembly plant(s):",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -1884,7 +2104,9 @@
   "title": "General construction characteristics of the vehicle",
   "text": "General construction characteristics of the vehicle",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -1901,7 +2123,9 @@
   "title": null,
   "text": "Photographs and/or drawings of a representative vehicle: ...................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -1918,7 +2142,9 @@
   "title": "Hand of drive: left / right (Strike out what does not apply)",
   "text": "Hand of drive: left / right (Strike out what does not apply)",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -1935,7 +2161,9 @@
   "title": "Miscellaneous",
   "text": "Miscellaneous",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -1952,7 +2180,9 @@
   "title": null,
   "text": "Vehicle immobilizer: ............................................. 3.1.1. type approval number, if available: ....................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -1969,7 +2199,9 @@
   "title": null,
   "text": "A detailed description of the vehicle type with regard to the arrangement of the installed Immobilizer illustrated by photographs and/or drawings (where the immobilizer is already type approved as a separate technical unit, reference may be made to the description in paragraph 4.2. of the immobilizers manufacturer's information document): ……………………………………….",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -1986,7 +2218,9 @@
   "title": null,
   "text": "For immobilizers not yet approved 3.1.2.1.A detailed technical description of the vehicle immobilizer and of the measures taken against inadvertent activation:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2003,7 +2237,9 @@
   "title": null,
   "text": "The system(s) on which the vehicle immobilizer acts: ........................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2020,7 +2256,9 @@
   "title": null,
   "text": "Number of effective interchangeable codes, if applicable: .....................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2037,7 +2275,9 @@
   "title": null,
   "text": "(Maximum format: A4 (210 mm x 297 mm)) In accordance with paragraph 5. of Regulation No. [YYY] on uniform technical prescriptions concerning approval of immobilizers and approval of a vehicle with regard to its immobilizer (relating to UN component or separate technical unit type approval of an immobilizer system).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2054,7 +2294,9 @@
   "title": "General",
   "text": "General",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2071,7 +2313,9 @@
   "title": null,
   "text": "Make (trade name of manufacturer):",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2088,7 +2332,9 @@
   "title": null,
   "text": "Type:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2105,7 +2351,9 @@
   "title": null,
   "text": "Means of identification of type, if marked on the device(a) : aIf the means of identification of type contains characters not relevant to describe the component or separate technical unit types covered in this information document, such characters shall be represented in the documentation by the symbol \"?\" (e.g. ABC??123??).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2122,7 +2370,9 @@
   "title": null,
   "text": "Location of that marking:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2139,7 +2389,9 @@
   "title": null,
   "text": "Name and address of manufacturer:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2156,7 +2408,9 @@
   "title": null,
   "text": "Location of the UN approval mark:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2173,7 +2427,9 @@
   "title": null,
   "text": "Address(es) of assembly plant(s):",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2190,7 +2446,9 @@
   "title": "Description of the device",
   "text": "Description of the device",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2207,7 +2465,9 @@
   "title": null,
   "text": "A detailed technical description of the vehicle immobilizer and of the measures taken against inadvertent activation:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2224,7 +2484,9 @@
   "title": null,
   "text": "The vehicle system(s) on which the vehicle immobilizer acts:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2241,7 +2503,9 @@
   "title": null,
   "text": "Method of setting/unsetting the device:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2258,7 +2522,9 @@
   "title": null,
   "text": "Number of effective interchangeable codes, if applicable:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2275,7 +2541,9 @@
   "title": null,
   "text": "List of main components comprising the device and, if applicable, their reference marks:........................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2292,7 +2560,9 @@
   "title": null,
   "text": "Drawings 3.1.Drawings of the main components of the device (the drawings must show the intended space for UN type approval mark):",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2309,7 +2579,9 @@
   "title": "Instructions",
   "text": "Instructions",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2326,7 +2598,9 @@
   "title": null,
   "text": "List of vehicles to which the device is intended to be fitted:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2343,7 +2617,9 @@
   "title": null,
   "text": "Description of the method of installation illustrated by photographs and/or drawings:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2360,7 +2636,9 @@
   "title": null,
   "text": "Instructions for use:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2377,7 +2655,9 @@
   "title": null,
   "text": "Instructions for maintenance, if any:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2394,7 +2674,9 @@
   "title": null,
   "text": "Test pulse 5a/5b according to the International Standard ISO 7637-2:2004: applied / not applied.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2411,7 +2693,9 @@
   "title": null,
   "text": "(Maximum format: A4 (210 x 297 mm)) issued by: Name of administration: ...................................... ...................................... Concerning:2 Approval granted Approval extended Approval refused Approval withdrawn Production definitively discontinued of a type of vehicle with regard to its immobilizer pursuant to UN Regulation No. 162 Approval No. ............................ 1Distinguishing number of the country which has granted/extended/refused/withdrawn approval (see approval provisions in the Regulations). 2Strike out what does not apply (there are cases where nothing needs to be deleted, when more than one entry is applicable). Section I",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2428,7 +2712,9 @@
   "title": "General",
   "text": "General",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2445,7 +2731,9 @@
   "title": null,
   "text": "Make (trade name of manufacturer):",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2462,7 +2750,9 @@
   "title": null,
   "text": "Type:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2479,7 +2769,9 @@
   "title": null,
   "text": "Means of identification of type, if marked on the vehicle/component/ separate technical unit2 / (a) :...................................... a If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered in this information document, such characters shall be represented in the documentation by the symbol \"?\" (e.g. ABC??123??).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2496,7 +2788,9 @@
   "title": null,
   "text": "Location of that marking:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2513,7 +2807,9 @@
   "title": null,
   "text": "Category of vehicle(b) : bAs defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3.), document ECE/TRANS/WP.29/78/Rev.6, para. 2 - www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29resolutions.html.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2530,7 +2826,9 @@
   "title": null,
   "text": "Name and address of manufacturer:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2547,7 +2845,9 @@
   "title": null,
   "text": "Location of the ECE approval mark:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2564,7 +2864,9 @@
   "title": null,
   "text": "Address(es) of assembly plant(s): Section II 1. Additional information (where applicable): see addendum",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2581,7 +2883,9 @@
   "title": null,
   "text": "Technical service responsible for carrying out the tests:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2598,7 +2902,9 @@
   "title": null,
   "text": "Date of test report:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2615,7 +2921,9 @@
   "title": null,
   "text": "Number of test report:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2632,7 +2940,9 @@
   "title": "Remarks (if any): see addendum",
   "text": "Remarks (if any): see addendum",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2649,7 +2959,9 @@
   "title": null,
   "text": "Place:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2666,7 +2978,9 @@
   "title": null,
   "text": "Date:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2683,7 +2997,9 @@
   "title": null,
   "text": "Signature:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2700,7 +3016,9 @@
   "title": null,
   "text": "The index to the information package lodged with the approval authority, which may be obtained on request, is attached: Addendum to UN type approval certificate No. ... Concerning the type approval of a vehicle with regard to Regulation No. [YYY] 1. Additional information: 1.1. Brief description of the immobilizer: 2. Remarks:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2717,7 +3035,9 @@
   "title": null,
   "text": "(Maximum format: A4 (210 x 297 mm)) issued by: Name of administration: ...................................... ...................................... Concerning:2 Approval granted Approval extended Approval refused Approval withdrawn Production definitively discontinued of a type of component or separate technical unit as an immobilizer pursuant to UN Regulation No. 162 Approval No. ............................ Reason for extension: 1Distinguishing number of the country which has granted/extended/refused/withdrawn approval (see approval provisions in the Regulations). > 2Strike out what does not apply (there are cases where nothing needs to be deleted, when more than one entry is applicable). Section I",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2734,7 +3054,9 @@
   "title": "General",
   "text": "General",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2751,7 +3073,9 @@
   "title": null,
   "text": "Make (trade name of manufacturer):",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2768,7 +3092,9 @@
   "title": null,
   "text": "Type:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2785,7 +3111,9 @@
   "title": null,
   "text": "Means of identification of type, if marked on the device(a) : a If the means of identification of type contains characters not relevant to describe the component or separate technical unit types covered in this information document, such characters shall be represented in the documentation by the symbol \"?\" (e.g. ABC??123??).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2802,7 +3130,9 @@
   "title": null,
   "text": "Location of that marking:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2819,7 +3149,9 @@
   "title": null,
   "text": "Name and address of manufacturer:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2836,7 +3168,9 @@
   "title": null,
   "text": "Location of the ECE approval mark:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2853,7 +3187,9 @@
   "title": null,
   "text": "Address(es) of assembly plant(s): Section II 1. Additional information (where applicable): see addendum",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2870,7 +3206,9 @@
   "title": null,
   "text": "Technical service responsible for carrying out the tests:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2887,7 +3225,9 @@
   "title": null,
   "text": "Date of test report:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2904,7 +3244,9 @@
   "title": null,
   "text": "Number of test report:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2921,7 +3263,9 @@
   "title": "Remarks (if any): see addendum",
   "text": "Remarks (if any): see addendum",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2938,7 +3282,9 @@
   "title": null,
   "text": "Place:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2955,7 +3301,9 @@
   "title": null,
   "text": "Date:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2972,7 +3320,9 @@
   "title": null,
   "text": "Signature:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -2989,7 +3339,9 @@
   "title": null,
   "text": "The index to the information package lodged with the approval authority, which may be obtained on request, is attached. Addendum to UN type approval certificate No. … concerning the type approval of an immobilizer with regard to Regulation No. [xxx] 1. Additional information: 1.1. Brief description of the immobilizer: 1.2. List of vehicles to which the immobilizer is intended to be fitted: 1.3. Types of vehicles on which the immobilizer has been tested: 1.4. List of main components, duly identified, comprising the immobilizer: 2. Remarks:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -3006,7 +3358,9 @@
   "title": null,
   "text": "Figure 1 (see paragraph 4.2. of this Regulation) a = 8 mm min The above approval mark figure 1 affixed to a vehicle shows that the type concerned was approved in the Netherlands (E 4) pursuant to UN Regulation No. [xxx] under approval No. 001234. The first two digits (00) of the approval number indicate that the approval was granted in accordance with the requirements of UN Regulation No. [xxx] in its original form.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Arrangements of approval marks",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R162",
@@ -3023,7 +3377,9 @@
   "title": null,
   "text": "I the undersigned (surname and name) Testify that the vehicle immobilizer described below: Make:.................................................................. Type:.................................................................. is in total conformity with the type approved at.................................. on.......................... (place of approval) (date) as described in the communication form bearing approval No. Identification of the main component(s): Component: ................ Marking:...................... Done at: ............... on:.......................... Manufacturer's full address and stamp:............................................ Signature : ...............(please specify position).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Model of certificate of conformity",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -3040,7 +3396,9 @@
   "title": null,
   "text": "I the undersigned......................................................... professional installer, certify that the installation of the immobilizer described below has been carried out by myself pursuant to the mounting instructions supplied by the manufacturer of the system. Description of the vehicle Make:.................................................................. Type:.................................................................. Serial number:............................................................ Registration number:........................................................ **Description of the immobilizer** Make:.................................................................. Type:.................................................................. Approval number:.......................................................... Done at:........................ on:............................. Installer's full address and stamp:................................................ Signature:....................................... (please specify position)",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Model of installation certificate",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -3057,7 +3415,9 @@
   "title": null,
   "text": "Operation parameters The requirements below do not apply to: (a) Those components that are fitted and tested as part of the vehicle, whether or not an immobilizer is fitted (e.g. lamps, alarm system); (b) Those components that have previously been tested as part of the vehicle and documentary evidence has been provided, or (c) Components that are not embedded in the vehicle, e.g. keys. All components of the immobilizer shall operate without any failure under the following conditions.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3074,7 +3434,9 @@
   "title": null,
   "text": "Climatic conditions Two classes of environmental temperature are defined as follows: (a) -40°C to +85°C for parts to be fitted in the passenger or luggage compartment, (b) -40°C to +125°C for parts to be fitted in the engine compartment unless otherwise specified.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3091,7 +3453,9 @@
   "title": null,
   "text": "Degree of protection for installation The following degrees of protection in accordance with IEC Publication 529 1989 shall be provided: (a) IP 40 for parts to be fitted in the passenger compartment, (b) IP 42 for parts to be fitted in the passenger compartment of roadsters/convertibles and cars with moveable roof-panels if the installation location requires a higher degree of protection than IP 40, (c) IP 54 for all other parts. The immobilizer manufacturer shall specify in the installation instructions any restrictions on the positioning of any part of the installation with respect to dust, water and temperature.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3108,7 +3472,9 @@
   "title": null,
   "text": "Weatherability 7 days according to IEC 68-2-30-1980.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3125,7 +3491,9 @@
   "title": null,
   "text": "Electrical conditions Rated supply voltage: 12 V Operation supply voltage range: from 9 V to 15 V in the temperature range according to paragraph 1.1.1 Time allowance for excess voltages at 23°C: U = 18 V, max. 1 h U = 24 V, max. 1 min.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3142,7 +3510,9 @@
   "title": null,
   "text": "Test conditions All the tests shall be carried out in sequence on a single immobilizer. However, at the discretion of the test authority, other samples may be used if this is not considered to affect the results of the other tests.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3159,7 +3529,9 @@
   "title": "Normal test conditions Voltage U = (12 ± 0.2) V Temperature T = (23 ± 5)°C",
   "text": "Normal test conditions Voltage U = (12 ± 0.2) V Temperature T = (23 ± 5)°C",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3176,7 +3548,9 @@
   "title": null,
   "text": "Operation test All components of the immobilizer shall comply with prescriptions given in paragraphs 3.2. to 3.9. of this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3193,7 +3567,9 @@
   "title": null,
   "text": "Upon completion of all the tests specified below, the immobilizer shall be tested under the normal test conditions specified in paragraph 2.1. of this Regulation to check that it continues to function normally. Where necessary, fuses may be replaced prior to the test. If some of the tests required in each of these paragraphs prior to the operation tests are performed in series on a single immobilizer, the operation test may be carried out one time only after the chosen tests are completed instead of performing the operation tests required in the paragraphs after each of the chosen tests. Vehicle manufacturers and suppliers have to guarantee satisfactory results only on non-accumulated procedures.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3210,7 +3586,9 @@
   "title": null,
   "text": "Resistance to temperature and voltage changes Compliance with the specifications defined under paragraph 3.1 shall also be checked under the following conditions:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3227,7 +3605,9 @@
   "title": "Test temperature T (-40 ± 2)° C Test voltage U = (9 ± 0.2) V Storage duration 4 hours",
   "text": "Test temperature T (-40 ± 2)° C Test voltage U = (9 ± 0.2) V Storage duration 4 hours",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3244,7 +3624,9 @@
   "title": null,
   "text": "For parts to be fitted in the passenger or luggage compartment: Test temperature T = (+85 ± 2)° C Test voltage U = (15 ± 0.2) V Storage duration 4 hours",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3261,7 +3643,9 @@
   "title": null,
   "text": "For parts to be fitted in the engine compartment unless otherwise specified: Test temperature T = (+125 ± 2)° C Test voltage U = (15 ± 0.2) V Storage duration 4 hours",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3278,7 +3662,9 @@
   "title": null,
   "text": "The immobilizer, in both set and unset state, shall be submitted to an excess voltage equal to (18 ± 0.2) V for 1 hour.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3295,7 +3681,9 @@
   "title": null,
   "text": "The immobilizer, in both set and unset state, shall be submitted to an excess voltage equal to (24 ± 0.2) V for 1 min.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3312,7 +3700,9 @@
   "title": null,
   "text": "Safe operation after foreign body and water-tightness testing After the test for tightness to foreign body and water according to IEC 529-1989, for degrees of protection as in paragraph 1.1.2., the operation tests according to paragraph 3.1. shall be repeated. With the agreement of the Technical Service this requirement need not apply in the following circumstances: (a) Type Approval of an immobilizer which is to be type approved as a separate technical unit In this case, the manufacturer of the immobilizer shall: (i) Specify in item 4.5. of the information document (Annex 1 b), that the requirement of this paragraph was not applied to the immobilizer (in accordance with paragraph 7. of this Regulation), and (ii) Specify in item 4.1. of the information document, the list of vehicles to which the immobilizer is intended to be fitted and the relevant installation conditions in item 4.2. (b) Type approval of a vehicle in respect of an immobilizer In this case, the manufacturer shall specify in item 3.1.1.1. of Annex 1a of the information document (Annex 1a), that the requirement of this paragraph does not apply to the immobilizer due to the nature of installation conditions and the vehicle manufacturer shall prove it by submitting related documents. (c) Type approval of a vehicle in respect of the installation of an immobilizer which is type approved as a separate technical unit. In this case, the vehicle manufacturer shall specify in item 3.1.1.1. of Annex 1a of the information document (Annex 1a), that the requirement of this paragraph does not apply to the installation of the immobilizer where the relevant installation conditions are met. This requirement does not apply in cases where the information required in item 3.1.3.1.1. of Annex 1a has already been submitted for the approval of the separate technical unit.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3329,7 +3719,9 @@
   "title": null,
   "text": "Safe operation after condensed water test After a resistance-to-humidity test to be carried out according to IEC 68 2 30 (1980) the operation tests according to paragraph 3.1. shall be repeated.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3346,7 +3738,9 @@
   "title": null,
   "text": "Test for safety against reversed polarity The immobilizer and components thereof shall not be destroyed by reversed polarity up to 13 V during 2 min. After this test the operation tests according to paragraph 3.1. shall be repeated with fuses changed, if necessary.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3363,7 +3757,9 @@
   "title": null,
   "text": "Test for safety against short-circuits All electrical connections of the immobilizer must be short-circuit proof against earth, max. 13 V and/or fused. After this test the operation tests according to paragraph 3.1. shall be repeated, with fuses changed if necessary.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3380,7 +3776,9 @@
   "title": null,
   "text": "Energy consumption in the set condition The energy consumption in set condition under the conditions given in paragraph 2.1. shall not exceed 20 mA on average for the complete immobilizer including status display. With the agreement of the Technical Service this requirement need not apply in the following circumstances: (a) Type Approval of an immobilizer which is to be type approved as a separate technical unit In this case, the manufacturer of the immobilizer shall: (i) Specify in item 4.5. of the information document (Annex 1, Part 2), that the requirement of this paragraph was not applied to the immobilizer (in accordance with paragraph 7. of this regulation), and (ii) Specify in item 4.1. of the information document, the list of vehicles to which the immobilizer is intended to be fitted and the relevant installation conditions in item 4.2. (b) Type approval of a vehicle in respect of an immobilizer In this case, the manufacturer shall specify in item 3.1.3.1.1. of the information document (Annex 1a), that the requirement of this paragraph does not apply to the immobilizer due to the nature of installation conditions and the vehicle manufacturer shall prove it by submitting related documents. (c) Type approval of a vehicle in respect of the installation of an immobilizer which is type approved as a separate technical unit. In this case, the vehicle manufacturer shall specify in item 3.1.3.1.1. of the information document (Annex 1a), that the requirement of this paragraph does not apply to the installation of the immobilizer where the relevant installation conditions are met. This requirement does not apply in cases where the information required in item 3.1.3.1.1. of Annex 1a has already been submitted for the approval of the separate technical unit.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3397,7 +3795,9 @@
   "title": "Safe operation after vibration test",
   "text": "Safe operation after vibration test",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3414,7 +3814,9 @@
   "title": null,
   "text": "For this test, the components are subdivided into two types: Type 1: components normally mounted on the vehicle, Type 2: components intended for attachment to the engine.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3431,7 +3833,9 @@
   "title": null,
   "text": "The components/immobilizer shall be submitted to a sinusoidal vibration mode whose characteristics are as follows:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3448,7 +3852,9 @@
   "title": null,
   "text": "For Type 1 The frequency shall be variable from 10 Hz to 500 Hz with a maximum amplitude of ± 5 mm and maximum acceleration of 3 g (0-peak).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3465,7 +3871,9 @@
   "title": null,
   "text": "For Type 2 The frequency shall be variable from 20 Hz to 300 Hz with a maximum amplitude of ± 2 mm and maximum acceleration of 15 g (0-peak).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3482,7 +3890,9 @@
   "title": null,
   "text": "For both type 1 and type 2 The frequency variation is 1 octave/min. The number of cycle is 10, the test shall be performed along each of the 3 axes. The vibrations are applied at low frequencies at a maximum constant amplitude and at a maximum constant acceleration at high frequencies.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3499,7 +3909,9 @@
   "title": null,
   "text": "During the test the immobilizer shall be electrically connected and the cable shall be supported after 200 mm.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3516,7 +3928,9 @@
   "title": null,
   "text": "After the vibration test the operation tests according to paragraph 3.1. shall be repeated.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3533,7 +3947,9 @@
   "title": null,
   "text": "Electromagnetic compatibility The immobilizer shall be submitted to the tests described in Annex 7.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Operation parameters and test conditions for an immobilizer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R162",
@@ -3550,7 +3966,9 @@
   "title": "Immunity against disturbances conducted along supply lines",
   "text": "Immunity against disturbances conducted along supply lines",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Electromagnetic compatibility",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -3567,7 +3985,9 @@
   "title": null,
   "text": "Tests shall be performed according to the technical prescriptions and transitional provisions of Regulation No. 10.06 series of amendments and according to the test methods described in Annex 10 for an Electrical/Electronic Sub-Assembly (ESA).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Electromagnetic compatibility",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -3584,7 +4004,9 @@
   "title": null,
   "text": "The immobilizer shall be tested in unset state and in set state",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Electromagnetic compatibility",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -3601,7 +4023,9 @@
   "title": "Immunity against radiated high frequency disturbances",
   "text": "Immunity against radiated high frequency disturbances",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Electromagnetic compatibility",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -3618,7 +4042,9 @@
   "title": null,
   "text": "Testing of the immunity of an immobilizer in a vehicle may be performed according to the technical prescriptions and transitional provisions of Regulation No. 10, 06 series of amendments and test methods described in Annex 6 for the vehicles or Annex 9 foran Electrical/Electronic Sub-Assembly (ESA)",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Electromagnetic compatibility",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -3637,7 +4063,9 @@
   "tables": [
    "1"
   ],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Electromagnetic compatibility",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -3654,7 +4082,9 @@
   "title": "Electrical disturbance from electrostatic discharges",
   "text": "Electrical disturbance from electrostatic discharges",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Electromagnetic compatibility",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -3671,7 +4101,9 @@
   "title": null,
   "text": "Immunity against electrical disturbances shall be tested in accordance with Technical ISO 10605-2008 + corrigendum:2010 + AMD1:2014 using the test severity levels from table 2.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Electromagnetic compatibility",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -3690,7 +4122,9 @@
   "tables": [
    "2"
   ],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Electromagnetic compatibility",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -3707,7 +4141,9 @@
   "title": null,
   "text": "Radiated emissions Tests shall be performed according to the technical prescriptions and transitional provisions of UN Regulation No. 10, 06 series of amendments prescriptions and according to the test methods described in Annexes 4 and 5 for vehicles or Annexes 7 and 8, for an Electrical/Electronic Sub-Assembly (ESA). The locking system shall be in set state. Annex 8 (reserved)",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Electromagnetic compatibility",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -3724,7 +4160,9 @@
   "title": null,
   "text": "General The purpose of this annex is to specify the requirements for documentation and verification for digital keys used to operate the ‘device to prevent unauthorized use’ of the vehicle.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -3741,7 +4179,9 @@
   "title": "Definitions",
   "text": "Definitions",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R162",
@@ -3758,7 +4198,9 @@
   "title": null,
   "text": "\"Authorization process\" means any method to provide the digital key which can operate the ‘device to prevent unauthorized use’ of the vehicle.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R162",
@@ -3775,7 +4217,9 @@
   "title": null,
   "text": "\"Revocation process\" means any method to prevent the digital key to operate the ‘device to prevent unauthorized use’ of the vehicle.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R162",
@@ -3792,7 +4236,9 @@
   "title": null,
   "text": "\"Boundary of functional operation\" defines the boundaries of the external physical limits (e.g. distance) within which the digital key is able to operate the ‘device to prevent unauthorized use’ of the vehicle.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R162",
@@ -3809,7 +4255,9 @@
   "title": null,
   "text": "Documentation The vehicle manufacturer shall provide the following documentation for type approval:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -3826,7 +4274,9 @@
   "title": null,
   "text": "A description of the authorization process.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R162",
@@ -3843,7 +4293,9 @@
   "title": null,
   "text": "A description of the revocation process.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R162",
@@ -3860,7 +4312,9 @@
   "title": null,
   "text": "A description of the boundary of functional operation.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R162",
@@ -3877,7 +4331,9 @@
   "title": null,
   "text": "A description of the safety measures designed within the digital key revocation process to ensure safe operation of the vehicle.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R162",
@@ -3894,7 +4350,9 @@
   "title": "Requirements for Safe Operation",
   "text": "Requirements for Safe Operation",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -3911,7 +4369,9 @@
   "title": null,
   "text": "A digital key shall only be transferred to a device via the authorization process.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -3928,7 +4388,9 @@
   "title": null,
   "text": "There shall be a revocation process.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -3945,7 +4407,9 @@
   "title": null,
   "text": "Revocation of a digital key shall not result in an unsafe condition. A risk reduction analysis using functional safety standard such as ISO 26262 and safety of the intended functionality standard such as ISO/PAS 21448, which documents the risk to vehicle occupants caused by revocation of a digital key and documents the reduction of risk resulting from implementation of the identified risk mitigation functions or characteristics.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -3962,7 +4426,9 @@
   "title": null,
   "text": "It shall be possible for the primary user(s) to identify the number of authorized registered digital keys.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -3979,7 +4445,9 @@
   "title": null,
   "text": "Boundary of functional operation for the device to prevent unauthorized use:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -3996,7 +4464,9 @@
   "title": null,
   "text": "Unsetting of the immobilizer shall require that an authorized registered digital key is detected in the interior of the vehicle, or that an actuation is triggered by user intent in close proximity of the vehicle. The limitation of the distance for unsetting of the immobilizer by detection in the interior of the vehicle shall be verified using the following procedure including a tolerance of 2000 mm around the vehicle perimeter: (a) The vehicle shall be parked in a secure condition in unobstructed free field condition, this means engine off and all windows, doors and roof shall be closed. (b) The vehicle manufacturer will provide a typical user device for test in agreement with the technical service. The digital key device battery state of charge shall be at maximum. (c) The technical service will define four test points around the vehicle perimeter at a distance not less than 2000 mm. Distance means the distance between the nearest point of the motor vehicle and the user device. (d) The user device is placed at each of the test points. During the attempt to operate the vehicle under its own power, the vehicle door shall be closed. If at one of the test points the vehicle can be operated under its own power, the requirement is not met.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -4013,7 +4483,9 @@
   "title": null,
   "text": "The requirements in paragraph 4.3.1. shall not apply during a remote control manoeuvring and remote control parking as defined in UN Regulation No. 79.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -4030,7 +4502,9 @@
   "title": null,
   "text": "Detailed information shall be contained in the owner's manual of the vehicle, or by any other communication means in the vehicle; as a minimum, this information shall include: (a) The method(s) for authorization of the digital key; (b) The method(s) for revocation of the digital key.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -4047,7 +4521,9 @@
   "title": null,
   "text": "The effectiveness of the system shall not be adversely affected by cyber-attacks, cyber threats and vulnerabilities. The effectiveness of the security measures shall be demonstrated by fulfilling the technical requirements of UN Regulation No. 155.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -4064,7 +4540,9 @@
   "title": null,
   "text": "Verification Verification of the functionality of the digital key shall be conducted with support of manufacturer's documentation as specified in paragraph 3.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R162",
@@ -4081,6 +4559,8 @@
   "title": null,
   "text": "Competence of the auditors/assessors The assessments under this Annex shall only be conducted by auditors/assessors with the technical and administrative knowledge necessary for such purposes. They shall in particular be competent as auditor/assessor for ISO 26262-2018 (Functional Safety - Road Vehicles), and ISO/PAS 21448 (Safety of the Intended Functionality of road vehicles); and shall be able to make the necessary link with cybersecurity aspects in accordance with UN Regulation No 155. and ISO/SAE 21434). This competence should be demonstrated by appropriate qualifications or other equivalent training records.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "requirement"
  }
 ]

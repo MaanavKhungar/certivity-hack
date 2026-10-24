@@ -56,5 +56,161 @@
    "vehicle category"
   ]
  },
- "_note": "deterministic part only; the model+vision part is added once ANTHROPIC_API_KEY is set (see src/product profile.ipynb)"
+ "model": {
+  "product": "Rear lamp",
+  "vehicle_category": "M1",
+  "mounting": "rear exterior",
+  "parts": [
+   {
+    "part_id": "P-01",
+    "name": "Rear position lamp",
+    "function": "Emits red light to the rear to indicate the presence and width of the vehicle",
+    "regulated_function": "rear position lamp",
+    "material": "LED modules on PCB; reflector surface PC with aluminium vacuum-metallised coating",
+    "evidence_spec": "Rear position signalling (presence/visibility)",
+    "evidence_drawing": "The upper view (lens removed) shows a row of 8 small circular emitters above the reflector-cup array and an elongated strip-shaped optic at top right. Either may serve the position function; the drawing does not label them."
+   },
+   {
+    "part_id": "P-02",
+    "name": "Stop lamp",
+    "function": "Emits higher-intensity red light to the rear to indicate service-brake application",
+    "regulated_function": "stop lamp",
+    "material": "LED modules on PCB; reflector surface PC with aluminium vacuum-metallised coating",
+    "evidence_spec": "Braking indication (stop lamp)",
+    "evidence_drawing": "The upper view shows an array of 24 faceted reflector cups (3 rows x 8 columns) in the left compartment. This is likely the multi-LED stop or position light section; assignment is not labelled."
+   },
+   {
+    "part_id": "P-03",
+    "name": "Reversing lamp",
+    "function": "Illuminates the road to the rear and warns other road users that the vehicle is reversing (white light)",
+    "regulated_function": "reversing lamp",
+    "material": "LED modules on PCB; reflector surface PC with aluminium vacuum-metallised coating",
+    "evidence_spec": "Reversing illumination",
+    "evidence_drawing": "The upper view shows a separate rectangular compartment at lower right with a faceted (pillow-optic) reflector and a semicircular element. In the lower view, this matches a rectangular vertically-ribbed lens zone."
+   },
+   {
+    "part_id": "P-04",
+    "name": "Outer lens",
+    "function": "Transmits light, defines colour of emitted light and seals/protects the optical chamber; forms outer surface of the lamp",
+    "regulated_function": "lens (of a lamp); outer surface relevant to external projections",
+    "material": "PMMA (red-tinted, UV-stabilised)",
+    "evidence_spec": "Light transmission & color definition (outer lens)",
+    "evidence_drawing": "The lower view shows a full-cover outer lens with diagonal transparency hatching and a distinct rectangular ribbed optical zone at lower right."
+   },
+   {
+    "part_id": "P-05",
+    "name": "Retro-reflector",
+    "function": "Reflects incident light back toward its source for passive conspicuity of the vehicle rear",
+    "regulated_function": "retro-reflector Class IA",
+    "material": "PMMA (molded prism optics)",
+    "evidence_spec": "Passive conspicuity (retro-reflector)",
+    "evidence_drawing": "Not clearly identifiable. A plain rectangular recessed compartment in the centre of the upper view may house it, but no prism pattern is drawn."
+   },
+   {
+    "part_id": "P-06",
+    "name": "Housing",
+    "function": "Structural body carrying the optical compartments, light sources and lens; mounting interface to vehicle body",
+    "regulated_function": null,
+    "material": "PP or ASA/PC",
+    "evidence_spec": "| Housing           | PP or ASA/PC                                |",
+    "evidence_drawing": "The upper view shows the housing with peripheral flange and internal partition walls separating the lighting compartments."
+   },
+   {
+    "part_id": "P-07",
+    "name": "Reflector surface",
+    "function": "Collects and directs LED light into the required photometric distribution",
+    "regulated_function": null,
+    "material": "PC with aluminium vacuum-metallised coating",
+    "evidence_spec": "| Reflector surface | PC with aluminium vacuum-metallised coating |",
+    "evidence_drawing": "The upper view shows faceted reflector cups in the left array and a faceted reflector in the lower-right compartment."
+   },
+   {
+    "part_id": "P-08",
+    "name": "LED modules on PCB",
+    "function": "Light sources with electronic circuitry (PCB) generating light for all lamp functions",
+    "regulated_function": "electrical/electronic sub-assembly (ESA)",
+    "material": "LED modules on PCB",
+    "evidence_spec": "| Light source      | LED modules on PCB                          |",
+    "evidence_drawing": "Small circular emitters and reflector-cup array visible in the upper view; PCB itself not shown."
+   },
+   {
+    "part_id": "P-09",
+    "name": "Seal / gasket",
+    "function": "Seals the lens-to-housing joint against water and dust ingress",
+    "regulated_function": null,
+    "material": "TPE or silicone",
+    "evidence_spec": "| Seal / gasket     | TPE or silicone                             |",
+    "evidence_drawing": null
+   },
+   {
+    "part_id": "P-10",
+    "name": "Fasteners / clips",
+    "function": "Attach the lamp to the vehicle body and/or retain internal parts",
+    "regulated_function": null,
+    "material": "PA, POM, or steel",
+    "evidence_spec": "| Fasteners / clips | PA, POM, or steel                           |",
+    "evidence_drawing": null
+   }
+  ],
+  "has_electronics": true,
+  "electronic_subassemblies": [
+   "LED modules on PCB (light sources with circuitry for rear position, stop and reversing functions)"
+  ],
+  "light_sources": "LED modules on PCB. The spec does not state replaceability; presumed non-replaceable LED modules — confirm. If replaceable LED light sources are used, the light-source regulations apply.",
+  "regulated_functions": [
+   "rear position lamp",
+   "stop lamp",
+   "reversing lamp",
+   "lens (of a lamp); outer surface relevant to external projections",
+   "retro-reflector Class IA",
+   "electrical/electronic sub-assembly (ESA)"
+  ],
+  "search_terms": [
+   "rear position lamp",
+   "stop lamp",
+   "reversing lamp",
+   "retro-reflector",
+   "retro-reflecting device",
+   "Class IA",
+   "rear lamp",
+   "light-signalling device",
+   "grouped lamps",
+   "combined lamps",
+   "reciprocally incorporated lamps",
+   "lens",
+   "colour of light emitted",
+   "red",
+   "white",
+   "non-replaceable light source",
+   "light source module",
+   "LED module",
+   "electronic light source control gear",
+   "electrical/electronic sub-assembly",
+   "ESA",
+   "electromagnetic compatibility",
+   "installation of lighting and light-signalling devices",
+   "apparent surface",
+   "illuminating surface",
+   "external projection",
+   "M1"
+  ],
+  "drawing_observations": [
+   "Two views: upper view shows the lamp interior with outer lens removed; lower view shows the assembled outer lens.",
+   "Upper left compartment contains 24 faceted reflector cups arranged in 3 rows of 8.",
+   "A row of 8 small circular emitters, each in its own segmented cell, sits above the reflector-cup array.",
+   "A plain rectangular recessed compartment is located in the centre, function not identified.",
+   "An elongated strip-shaped optic or light guide runs along the upper right of the housing.",
+   "Lower right has a separate rectangular compartment with a faceted (pillow-optic) reflector and a semicircular element, consistent with the reversing lamp.",
+   "Outer lens covers the entire housing; diagonal hatching indicates a transparent surface.",
+   "Outer lens has a distinct rectangular, vertically ribbed optical zone at lower right, aligned with the lower-right compartment.",
+   "Spec states the outer lens is red-tinted. The reversing lamp zone must emit white light, so verify a clear (non-red) lens section there.",
+   "No dedicated prism-pattern retro-reflector area is distinguishable in either view.",
+   "Housing has a wraparound shape with a tapered corner profile, typical of a body-side rear combination lamp."
+  ],
+  "_model": "claude-opus-5-5",
+  "_usage": {
+   "input": 6838,
+   "output": 3261
+  }
+ }
 }

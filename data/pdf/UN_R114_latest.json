@@ -14,7 +14,9 @@
   "title": null,
   "text": "UN R114 (version 0.1.0) Consolidated text of this version, rendered by Certivity for the hackathon. Cite pages of THIS file: the page number is printed at the bottom of every page. Role in the hackathon: latest version.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -31,7 +33,9 @@
   "title": null,
   "text": "SCOPE This Regulation applies to the following aftermarket equipment: 1.1. to airbag modules for replacement airbag systems intended to be installed on motor vehicles; 1.2. to replacement steering wheels for vehicles of categories M1 and N1, equipped with an airbag module of an approved type and intended to be installed as an additional restraint system beside safety-belts and other restraint systems in power-driven vehicles, i.e. a system which, in the event of a severe impact, automatically deploys a flexible structure intended to reduce the severity of injuries of the occupants; 1.3. to replacement airbag systems other than those installed in steering wheels and equipped with airbag modules of an approved type as an additional restraint system beside safety-belts and other restraint systems in powerdriven vehicles of categories M1 and N1, i.e. a system which, in the event of a severe impact, automatically deploys a flexible structure intended to reduce the severity of injuries of the occupants.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -48,7 +52,9 @@
   "title": "DEFINITIONS",
   "text": "DEFINITIONS",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R114",
@@ -65,7 +71,9 @@
   "title": null,
   "text": "\"Airbag system\" means a group of components which, once installed in vehicle(s), perform all functions provided for by the manufacturer. This system comprises as a minimum a release unit activating one or more airbag modules and the electrical wiring harness, if present.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R114",
@@ -82,7 +90,9 @@
   "title": null,
   "text": "\"Airbag\" means a flexible material, forming an enclosed volume that receives the gas from the inflator and restrains the occupant.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R114",
@@ -99,7 +109,9 @@
   "title": null,
   "text": "\"Airbag module\" means the smallest sub-assembly comprising the energy source for its deployment and the airbag involved in the deployment.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R114",
@@ -116,7 +128,9 @@
   "title": null,
   "text": "\"Replacement steering wheel\" (equipped with an airbag module) means an aftermarket steering wheel which is supplied to modify a motor vehicle and which may vary in its functional dimensions, form and/or material from the original steering wheel provided by the vehicle manufacturer.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R114",
@@ -133,7 +147,9 @@
   "title": null,
   "text": "\"Replacement airbag system\" means an aftermarket airbag system which is supplied to modify a motor vehicle, and which may vary in its functional dimensions, form, materials or operation from any original airbag system provided by the vehicle manufacturer for that motor vehicle.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R114",
@@ -150,7 +166,9 @@
   "title": null,
   "text": "Categories of airbag modules for replacement airbag systems:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R114",
@@ -167,7 +185,9 @@
   "title": null,
   "text": "Category A: Device intended to protect the driver of a vehicle in the event of a frontal collision.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R114",
@@ -184,7 +204,9 @@
   "title": null,
   "text": "Category B: Device intended to protect front seat passenger(s) other than the driver in the event of a frontal collision.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R114",
@@ -201,7 +223,9 @@
   "title": null,
   "text": "Category C:Device intended to protect the passenger(s) in seats other than the front seats in the event of a frontal collision.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R114",
@@ -218,7 +242,9 @@
   "title": null,
   "text": "Category D: Device intended to protect the front seat occupant(s) in the event of a lateral collision.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R114",
@@ -235,7 +261,9 @@
   "title": null,
   "text": "\"Instant of release\" means the moment at which, in the event of an impact causing airbag deployment, the components producing that deployment are irreversibly actuated.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R114",
@@ -252,7 +280,9 @@
   "title": null,
   "text": "\"Control unit or release unit\" means the sub-assembly comprising all components permitting the collision to be detected and producing release.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R114",
@@ -269,7 +299,9 @@
   "title": null,
   "text": "\"Wiring harness\" means all the electrical conductors and connections linking the various parts of the complete airbag system to each other and possibly to the vehicle.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R114",
@@ -286,7 +318,9 @@
   "title": null,
   "text": "\"Unladen kerb mass\" means the mass of the vehicle in running order, unoccupied and unladen but complete with fuel, coolant, lubricant, tools and spare wheel (if these are provided as a standard equipment by the vehicle manufacturer).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R114",
@@ -303,7 +337,9 @@
   "title": null,
   "text": "\"Type of an airbag module for a replacement airbag system\" comprises airbag modules which do not differ in such essential aspects as: (a) the category of an airbag module, (b) the geometry of the airbag, (c) the material of the airbag, (d) the vents or equivalent devices, (e) the gas generator, (f) the envelope principle, (g) the material, structure and dimension of the cover, (h) the composition of the propellant, (i) the method of fixation of the module.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R114",
@@ -320,7 +356,9 @@
   "title": null,
   "text": "\"Type of a replacement steering wheel equipped with an airbag module\" means aftermarket steering wheels, which do not differ in such essential aspects as: (a) the presence of an airbag, (b) the dimension and diameter of the steering wheel, (c) the form, in so far as the safety performance and the strength performance is influenced, (d) the material, (e) the type definition of an airbag module for a replacement airbag system according to paragraph 2.11. above.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R114",
@@ -337,7 +375,9 @@
   "title": null,
   "text": "\"Type of a replacement airbag system other than that installed in a steering wheel\" comprises replacement airbag systems, which do not differ in such essential respects as: (a) the category of airbag module, (b) the geometry of the airbag, (c) the material of the airbag, (d) the vents or equivalent devices, (e) the gas generator, (f) the envelope principle, (g) the material, structure and dimension of the cover, (h) the composition of the propellant, (i) the method of fixation of the module.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R114",
@@ -354,7 +394,9 @@
   "title": null,
   "text": "\"Vehicle type\" means a category of power-driven vehicles, which do not differ in such essential respects in so far as they have an effect on the results of the impact tests prescribed in this Regulation for: (a) the structure, dimension, body version and materials of the vehicle, (b) the unladen kerb mass, as defined in paragraph 2.10. above, (c) the steering control, the seat and the safety-belt system and other restraint systems, (d) the siting and orientation of the engine, (e) the parts and optional arrangements or fittings of the vehicle which influence the performance of the airbag.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R114",
@@ -371,7 +413,9 @@
   "title": "APPLICATION FOR APPROVAL",
   "text": "APPLICATION FOR APPROVAL",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -388,7 +432,9 @@
   "title": "Application for approval of an airbag module for a replacement airbag system",
   "text": "Application for approval of an airbag module for a replacement airbag system",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -405,7 +451,9 @@
   "title": null,
   "text": "The application for approval of an airbag module shall be submitted by the holder of the trade mark of the airbag module manufacturer, the component manufacturer or by their duly accredited representatives.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -422,7 +470,9 @@
   "title": null,
   "text": "For each category of an airbag module for a replacement airbag system, the application shall be accompanied by the following documents in triplicate and the following particulars:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -439,7 +489,9 @@
   "title": null,
   "text": "A technical description, including mounting instructions and specifying the type(s) of vehicle for which the airbag module is intended,",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -456,7 +508,9 @@
   "title": null,
   "text": "Sufficiently detailed drawings to permit the verification of the positions intended for the approval mark as required under paragraph 4.1.4. below.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -473,7 +527,9 @@
   "title": null,
   "text": "A sufficient number of airbag modules shall be submitted to the technical service responsible for the tests and verification of the conformity with the relevant paragraphs 5. and 6. of this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -490,7 +546,9 @@
   "title": null,
   "text": "Application for approval of a replacement steering wheel equipped with an airbag module of an approved type",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -507,7 +565,9 @@
   "title": null,
   "text": "The application for approval of a replacement steering wheel equipped with an airbag module shall be submitted by the holder of the trademark of the replacement steering wheel or by the manufacturer, or by their duly accredited representative.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -524,7 +584,9 @@
   "title": null,
   "text": "For each type of a replacement steering wheel equipped with an airbag module, the application shall be accompanied by the following documents in triplicate and the following particulars: 3.2.2.1. a technical description, including mounting instructions, 3.2.2.2. sufficiently detailed drawings, 3.2.2.3. drawings showing the position of the airbag module(s) and its (their) attachment(s) on the steering wheel, 3.2.2.4. the position intended for the approval mark and required under paragraph 4.2.4. below, 3.2.2.5. a sufficient number of replacement steering wheels equipped with airbag modules and vehicles representative of the types for which the replacement steering wheel shall be approved for shall be submitted to the technical service responsible for conducting the approval tests so as to verify conformity with the relevant paragraphs 5. and 6. of this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -541,7 +603,9 @@
   "title": null,
   "text": "Application for approval of a replacement airbag system other than that installed in a steering wheel",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -558,7 +622,9 @@
   "title": null,
   "text": "The application for approval of a replacement airbag system other than that installed in a steering wheel shall be submitted by the holder of the trade mark of the replacement airbag system or by the manufacturer, or by their duly accredited representatives.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -575,7 +641,9 @@
   "title": null,
   "text": "For each type of a replacement airbag system, the application shall be accompanied by the following documents in triplicate and the following particulars: 3.3.2.1. a technical description, including mounting instructions, 3.3.2.2. sufficiently detailed drawings, 3.3.2.3. drawings showing the position of the airbag system(s) and its (their) attachment(s) on the vehicle, 3.3.2.4. the position intended for the approval mark and required under paragraph 4.3.4. below, 3.3.2.5. a sufficient number of replacement airbag systems and vehicles representative of the types for which the replacement system shall be approved for, shall be submitted to the technical service responsible for conducting the approval tests so as to verify conformity with the relevant paragraphs 5. and 6. of this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -592,7 +660,9 @@
   "title": "APPROVAL",
   "text": "APPROVAL",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -609,7 +679,9 @@
   "title": "Approval of an airbag module for a replacement airbag system",
   "text": "Approval of an airbag module for a replacement airbag system",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -626,7 +698,9 @@
   "title": null,
   "text": "If the samples of the airbag module submitted for approval meet the requirements of the relevant paragraphs 5. and 6. below, approval for this type of airbag module for a replacement airbag system shall be granted.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -643,7 +717,9 @@
   "title": null,
   "text": "An approval number shall be assigned to each type approved. Its first two digits (00 at present) shall indicate the series of amendments incorporating the most recent major technical amendments made to the Regulation at the time of issue of the approval. The same Contracting Party may not assign the same number to another type of airbag module for a replacement airbag system.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -660,7 +736,9 @@
   "title": null,
   "text": "Notice of approval or of refusal or extension or withdrawal of approval or of definite discontinuation of production of a type of airbag module for a replacement airbag system, pursuant to this Regulation, shall be communicated to the Parties to the Agreement applying this Regulation, by means of a form conforming to the model in annex 1 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -677,7 +755,9 @@
   "title": null,
   "text": "The samples of airbag modules for a replacement airbag system shall be clearly and indelibly marked with the manufacturer's trade name or mark and an approval mark consisting of: 4.1.4.1. a circle surrounding the letter \"E\" followed by the distinguishing number of the country which has granted approval, 1/ 1 The distinguish numbers of the Contracting Parties to the 1958 Agreement are reproduced in Annex 3 to Consolidated Resolution on the Construction of Vehicles (R.E.3), document ECE/TRANS/WP.29/78/Rev.7 - https://unece.org/transport/vehicle-regulations/wp29/resolutions 4.1.4.2. an approval number, 4.1.4.3. an additional symbol, indicating the airbag module category (see paragraph 2.6. above).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -694,7 +774,9 @@
   "title": null,
   "text": "The approval mark and the additional symbol shall be clearly legible and indelible.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -711,7 +793,9 @@
   "title": null,
   "text": "Annex 4 to this Regulation gives an example of the approval mark and the additional symbol mentioned above.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -728,7 +812,9 @@
   "title": null,
   "text": "Approval of a replacement steering wheel equipped with an airbag module of an approved type",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -745,7 +831,9 @@
   "title": null,
   "text": "If a replacement steering wheel type equipped with an airbag module of an approved type submitted for approval meets the requirements of the relevant paragraphs 5. and 6. below, approval of that type of replacement steering wheel equipped with an airbag module of an approved type shall be granted.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -762,7 +850,9 @@
   "title": null,
   "text": "An approval number shall be assigned to each type approved. Its first two digits (00 at present) shall indicate the series of amendments incorporating the most recent major technical amendments made to the Regulation at the time of issue of the approval. The same Contracting Party may not assign the same number to another type of replacement steering wheel.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -779,7 +869,9 @@
   "title": null,
   "text": "Notice of approval or refusal or extension or withdrawal of approval or of definite discontinuation of production of a type of replacement steering wheel equipped with an airbag module of an approved type pursuant to this Regulation shall be communicated to the Parties to the Agreement applying this Regulation, by means of a form conforming to the model in annex 2 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -796,7 +888,9 @@
   "title": null,
   "text": "The samples of the replacement airbag steering wheel and the hub (adapters) shall be clearly and indelibly marked with the manufacturer's trade name or mark and an approval mark consisting of: 4.2.4.1. a circle surrounding the letter \"E\" followed by the distinguishing number of the country which has granted approval, 2/ 2/ See footnote No. 1/ 4.2.4.2. an approval number, 4.2.4.3. an additional symbol, indicating the airbag module category (see paragraph. 2.6. above).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -813,7 +907,9 @@
   "title": null,
   "text": "The approval mark and the additional symbol shall be clearly legible and indelible.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -830,7 +926,9 @@
   "title": null,
   "text": "The approval mark shall be placed on the replacement steering wheel and on the hub (adapter). If the replacement steering wheel and hub are in one piece, one approval mark and one mark with the manufacturer's trade name or mark is sufficient.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -847,7 +945,9 @@
   "title": null,
   "text": "Annex 5 to this Regulation gives an example of the approval mark and the additional symbol mentioned above.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -864,7 +964,9 @@
   "title": "Approval of a replacement airbag system other than that installed in a steering wheel",
   "text": "Approval of a replacement airbag system other than that installed in a steering wheel",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -881,7 +983,9 @@
   "title": null,
   "text": "If a replacement airbag system other than that installed in a steering wheel submitted for approval meets the requirements of the relevant paragraphs 5. and 6. below, approval of that type of replacement airbag system shall be granted.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -898,7 +1002,9 @@
   "title": null,
   "text": "An approval number shall be assigned to each type approved. Its first two digits (00 at present) shall indicate the series of amendments incorporating the most recent major technical amendments made to the Regulation at the time of issue of the approval. The same Contracting Party may not assign the same number to another type of replacement airbag system.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -915,7 +1021,9 @@
   "title": null,
   "text": "Notice of approval or refusal or extension or withdrawal of approval or of definite discontinuation of production of a replacement airbag system pursuant to this Regulation shall be communicated to the Parties to the Agreement applying this Regulation, by means of a form conforming to the model in annex 3 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -932,7 +1040,9 @@
   "title": null,
   "text": "The samples of the replacement airbag system shall be clearly and indelibly marked with the manufacturer's trade name or mark and an approval mark consisting of: 4.3.4.1. a circle surrounding the letter \"E\" followed by the distinguishing number of the country which has granted approval, 3/ 3/ See footnote No. 1/ 4.3.4.2. an approval number, 4.3.4.3. an additional symbol, indicating the airbag module category (see paragraph. 2.6. above).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -949,7 +1059,9 @@
   "title": null,
   "text": "The approval mark and the additional symbol shall be clearly legible and indelible.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -966,7 +1078,9 @@
   "title": null,
   "text": "Annex 6 to this Regulation gives an example of the approval mark and the additional symbol mentioned above.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -983,7 +1097,9 @@
   "title": "REQUIREMENTS",
   "text": "REQUIREMENTS",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1000,7 +1116,9 @@
   "title": null,
   "text": "General requirements for the approval of an airbag module for a replacement airbag system, a replacement steering wheel equipped with an airbag module of an approved type, or a replacement airbag system other than that installed in a steering wheel.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1017,7 +1135,9 @@
   "title": null,
   "text": "Before type approval is granted according to paragraphs 4.1., 4.2. and/or 4.3., the competent authority shall verify the existence of satisfactory arrangements for ensuring: 5.1.1.1. installation, maintenance, repair and dismantling of the system by trained technicians only according to a manual, which shall be prepared by the applicant of the approval. 5.1.1.2. substitution of a part or the complete system after guaranteed lifetime, 5.1.1.3. labelling and notices for rescue persons, labelling and information for the use of child restraint systems.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1034,7 +1154,9 @@
   "title": null,
   "text": "Interference from magnetic fields shall not disrupt the operation of the airbag system.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1051,7 +1173,9 @@
   "title": null,
   "text": "A complete system shall comprise a device alerting the user if the airbag system is not in working order as designed.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1068,7 +1192,9 @@
   "title": null,
   "text": "Airbag modules for replacement airbag system of category A shall be so designed that, when they are submitted to a test in accordance with the requirements of paragraph 5.2.2.7., static deployment test, the airbag may be pushed aside manually after full deployment.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1085,7 +1211,9 @@
   "title": null,
   "text": "Toxicity and burns A certificate shall be presented stating that the nature, concentration and temperature of the gases and solid particles released on deployment of an airbag are not such as to be liable to injure seriously the occupants of the vehicle. The authorities responsible for issuing the approval shall reserve the right to verify the accuracy of the statement.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1102,7 +1230,9 @@
   "title": "Requirements for the approval of an airbag module for a replacement airbag system",
   "text": "Requirements for the approval of an airbag module for a replacement airbag system",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1119,7 +1249,9 @@
   "title": null,
   "text": "Each airbag module shall comply with the requirements of the \"International Standard ISO 12097-2 ROAD VEHICLES-AIRBAG COMPONENT TESTING-PART 2: Testing of Airbag Modules\" version: 1996-08-00, to guarantee the operating safety of the airbag modules. Airbag modules designed for front seats equipped with side airbag systems shall comply, as far as possible, with the requirements of the above-mentioned ISO Standard (for example tests according to paragraph 5.2.2.). The module manufacturer shall state that the above-mentioned tests were carried out with positive test results. In case of doubts the approval authority responsible for issuing the approval shall reserve the right to verify the accuracy of this statement.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1136,7 +1268,9 @@
   "title": null,
   "text": "Instead of paragraph 5.2.1., a reduced test programme is permitted which shows as a minimum the following test elements:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1153,7 +1287,9 @@
   "title": null,
   "text": "Drop test",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1170,7 +1306,9 @@
   "title": null,
   "text": "Mechanical impact test",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1187,7 +1325,9 @@
   "title": null,
   "text": "Simultaneous vibration temperature test",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1204,7 +1344,9 @@
   "title": null,
   "text": "Thermal humidity cycling test",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1221,7 +1363,9 @@
   "title": null,
   "text": "Solar radiation simulation test",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1238,7 +1382,9 @@
   "title": null,
   "text": "Temperature shock test",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1255,7 +1401,9 @@
   "title": null,
   "text": "Static deployment test",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1272,7 +1420,9 @@
   "title": null,
   "text": "Requirements for the approval of a replacement steering wheel equipped with an airbag module of an approved type",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1289,7 +1439,9 @@
   "title": null,
   "text": "Before type approval is granted according to paragraph 4.2., the competent authority shall verify the existence of satisfactory arrangements for carrying out: 5.3.1.1. a heat test of the replacement steering wheel (all parts except the airbag module), as described in paragraph 6.2.1.1., to guarantee a cohesion of all materials. 5.3.1.2. a bending test, as described in paragraph 6.2.1.2., to guarantee a minimum deformation of the steering wheel rim, 5.3.1.3. a torque test, as described in paragraph 6.2.1.3., to guarantee a sufficient stiffness when the replacement steering wheel is loaded tangentially to the steering wheel rim, 5.3.1.4. a fatigue test, as described in paragraph 6.2.1.4., to guarantee a sufficient lifetime.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1306,7 +1458,9 @@
   "title": null,
   "text": "For the replacement steering wheel, it must be guaranteed that the effective diameter is not substantially smaller than the effective diameter of the steering wheel installed by the manufacturer of the vehicle. This requirement is deemed fulfilled when the effective diameter of the replacement steering wheel is not less than 0.9 times the effective diameter of the steering wheel used by the vehicle manufacturer.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1323,7 +1477,9 @@
   "title": null,
   "text": "The size and fitting of the replacement steering wheel to the steering column must be within the dimensions and tolerances specified by the vehicle manufacturer. Otherwise the replacement manufacturer shall demonstrate to the Technical Service the proper function of any other chosen fixing method.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1340,7 +1496,9 @@
   "title": null,
   "text": "The replacement steering wheel shall allow the drivers a direct view to all important instruments and indicators such as (a) the speedometer and (b) the tell tale signs for: direction indicator main beam rear fog lamp hazard warning signal automatic antilock system brake system malfunctions airbag function indicator The tests shall be carried out according to the prescription laid down in paragraph 6.2.2.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1357,7 +1515,9 @@
   "title": null,
   "text": "Replacement steering wheels equipped with airbag modules of an approved type shall be such that, when installed in a vehicle, this vehicle fulfils the requirements of paragraphs 5.2.1.1., 5.2.1.2., 5.2.1.3., 5.2.1.4. and 5.2.1.5. of Regulation No. 94, 01 series of amendments. In case of doubt, when verifying the conformity of the replacement steering wheel equipped with an airbag module of an approved type to the requirements of this Regulation, account shall be taken of any data or test results provided by the applicant for approval, and these can be taken into consideration in validating the approval test carried out by the technical service.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1374,7 +1534,9 @@
   "title": null,
   "text": "Requirements for the approval of a replacement airbag system other than that installed in a steering wheel",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1391,7 +1553,9 @@
   "title": null,
   "text": "Replacement airbag systems shall be equipped with an approved airbag module or it shall be demonstrated to the satisfaction of the technical service, responsible for this test, that the system used complies with the requirements prescribed in paragraphs 5.1. and 5.2. above.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1408,7 +1572,9 @@
   "title": null,
   "text": "Replacement airbag systems other than those installed in steering wheels shall be such that, when installed in a vehicle, this vehicle fulfils in case of an airbag system of: 5.4.2.1. category B, the requirements of paragraphs 5.2.1.1., 5.2.1.2., 5.2.1.3., 5.2.1.4., and 5.2.1.5. of Regulation No. 94, 01 series of amendments; 5.4.2.2. category C, the requirements of paragraphs 5.2.1.1., 5.2.1.2., 5.2.1.3., 5.2.1.4., and 5.2.1.5. of Regulation No. 94, 01 series of amendments; in addition instrumented dummies shall be used for the verification of the performance of the airbag system; 5.4.2.3. category D, the requirements of paragraphs 5.2.1.1., 5.2.1.2., 5.2.1.3., 5.2.1.4., and 5.2.1.5. of Regulation No. 95, 01 series of amendments; in this case the side impact dummy shall be used for the test.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1425,7 +1591,9 @@
   "title": "TESTS",
   "text": "TESTS",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R114",
@@ -1442,7 +1610,9 @@
   "title": null,
   "text": "Tests of an airbag module for a replacement airbag system The tests shall be carried out according to ISO 12097-Part 2, version 1996-08-00.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R114",
@@ -1459,7 +1629,9 @@
   "title": "Tests of a replacement steering wheel equipped with an airbag module of an approved type",
   "text": "Tests of a replacement steering wheel equipped with an airbag module of an approved type",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R114",
@@ -1476,7 +1648,9 @@
   "title": null,
   "text": "Strength tests:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R114",
@@ -1493,7 +1667,9 @@
   "title": null,
   "text": "Heat test The replacement steering wheel (except the airbag module) is exposed to the following temperature carried out in one circle:\n|- 16 hours at|- 15°C ± 2°C|\n|---|---|\n|- 30 minutes at|+ 22°C ± 2°C|\n|- 3 hours at|+ 80°C ± 2°C|\n|- 30 minutes at|- 22°C ± 2°C|\nThis test must leave no permanent deformation over and above the design tolerances, or any cracks or fractures.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R114",
@@ -1510,7 +1686,9 @@
   "title": null,
   "text": "Bending test The replacement steering wheel is exposed to a temperature of at least - 15°C ± 2°C for 16 hours. The replacement steering wheel is then mounted with its hub on a rigid shaft and the steering wheel rim is subjected to a static loading of 70 daN ± 0.5 daN acting perpendicular to the plane of the rim. The test loading must be applied on the rim and between two spokes that confine the greatest angle. This test may not leave any permanent deformation on the rim of the replacement steering wheel that would be greater than 8 per cent of the steering wheel diameter. There must be no signs of any cracks or fractures, which will affect the operational safety of the steering wheel.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R114",
@@ -1527,7 +1705,9 @@
   "title": null,
   "text": "Torque test The replacement steering wheel is mounted with its hub on a rigid shaft and subjected statically to a test load of 70 daN ± 0.5 daN applied tangentially to the steering wheel rim. The permanent deformation resulting from this test may not exceed 1 degree in the direction of rotation. The test may not leave any signs of cracks or fractures, which might affect the operational safety of the steering wheel. The steering wheel rim is then subjected to a tangential load corresponding to a torque or 22 daNm ± 0.5 daNm. This must not affect the steering wheel's operational safety even if the permanent deformation is greater than 1 degree in the direction of rotation.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R114",
@@ -1544,7 +1724,9 @@
   "title": null,
   "text": "Fatigue test The replacement steering wheel is mounted with its rim in a test jig, as shown in annex 7, figure of an example of a fatigue test device, and subjected to a approximate sinusoidal endurance load cycle test with a torque of 14 daNm ± 0.5 daNm at a frequency of 1.5 Hz ± 0.25 Hz. The replacement steering wheel must withstand at least 1 x 105 load cycles without showing any signs of cracks or fractures which might affect its operational safety.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R114",
@@ -1561,7 +1743,9 @@
   "title": "Installation requirement tests and driver's view to the instrument panel",
   "text": "Installation requirement tests and driver's view to the instrument panel",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R114",
@@ -1578,7 +1762,9 @@
   "title": null,
   "text": "The driver's view to: (a) the speedometer (b) the tell tales for: direction indicator main beam rear fog lamp hazard warning signal automatic antilock system brake system malfunctions airbag function indicator shall be guaranteed. The visibility is assessed by means of a comparative evaluation of photographs taken of the instrument panel of the vehicle under test equipped with a replacement steering wheel. The H points are measured after the vehicle has been aligned on the three dimensional measuring device. The relation between vehicle and coordinate system is established through reference points of the body. If the coordinates of the R point are not known, the H point is determined using a 50 percentile manikin. The driver's seat is adjusted as follows: (a) seat in rearmost position of the device for longitudinal adjustment; (b) backrest inclined corresponding to 25° back angle of the manikin; (c) other adjusting devices in central position. A 35 mm camera inclined by 15° towards the horizontal plane is used to simulate binocular viewing and photos are taken from each of the eye points. Position of the eye points related to the R or H point in the coordinate system in accordance with ISO 4130 (dimensions in mm):\n|x 0|y -32.5|z +635.0|x 0|y +32.5|z +635.0|\n|---|---|---|---|---|---|\nFor the camera the eye points are determined 35 mm in front of the plane of representation (normally the film plane) and on the centre axis of the optical system.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R114",
@@ -1595,7 +1781,9 @@
   "title": null,
   "text": "Operation of control elements An examination is made to find out whether the minimum and maximum distances indicated below between the control elements for instance for direction indicator and headlamp flasher and the steering wheel rim are maintained. Thus, satisfactory operation of the control elements and satisfactory handling of the replacement steering wheel are to be ensured: (a) the measure \"a\" with a limitation of a minimum 30 mm refers to the control element with the smallest distance to the replacement steering wheel. It denotes the shortest distance between the control element and the rearplane of the steering wheel rim facing the instrument panel. (b) The measure \"b\" with a limitation of a maximum value of 130 mm denotes the distance from the centre of the direction indicator control element and the front plane of the steering wheel rim facing the driver.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R114",
@@ -1612,7 +1800,9 @@
   "title": null,
   "text": "Testing of installation The conditions of installation, the diameter of the replacement steering wheel as compared with the original version of the vehicle manufacturer, the repositioning of direction indicator control, the function of the audible warning device and the function of the airbag tell tale are considered in the examination. Also the function of sensors monitoring the driver's seat or the passenger seat(s) and providing a deployment status to the airbag controller shall be examined, if available.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R114",
@@ -1629,7 +1819,9 @@
   "title": null,
   "text": "Testing of adapters The fitting dimensions (e.g. toothing of the steering shaft) are compared with the dimensions as provided by the manufacturer using a profile projector. The strength of the replacement adapters is checked by tightening the fixing nut/screw applying twice the tightening torque specified by the vehicle manufacturer but not more than 85 Nm. Adequate examinations are made to verify that the adapters for vehicle types with anti-theft systems integrated into the steering wheel conform to the corresponding features of the steering wheel produced by the vehicle manufacture in terms of strength, dimensions and the materials and function, or tests of the anti-theft system in accordance with Regulation No. 18 shall be carried out to demonstrate that he replacement steering wheel system fulfils the above-mentioned Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R114",
@@ -1646,7 +1838,9 @@
   "title": null,
   "text": "Frontal impact test(s) with vehicle(s) for replacement steering wheel(s) equipped with an airbag module of an approved type. Replacement steering wheels equipped with airbag modules of an approved type shall be such that, when installed in a vehicle, this vehicle fulfils the requirements of paragraphs 5.2.1.1., 5.2.1.2., 5.2.1.3., 5.2.1.4. and 5.2.1.5. of Regulation No. 94, 01 series of amendments. In case of doubt, when verifying the conformity of the replacement steering wheel equipped with an airbag module of an approved type to the requirements of this Regulation, account shall be taken of any data or test results provided by the applicant for approval, and these can be taken in consideration in validating the approval test carried out by the technical service.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R114",
@@ -1663,7 +1857,9 @@
   "title": "Tests of a replacement airbag system other than that installed in a steering wheel",
   "text": "Tests of a replacement airbag system other than that installed in a steering wheel",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R114",
@@ -1680,7 +1876,9 @@
   "title": null,
   "text": "Tests of an airbag module for a replacement airbag system The replacement airbag system shall be equipped with an approved airbag module or the manufacturer of the replacement airbag system shall demonstrate to the satisfaction of the technical service, responsible for this test, that the system fulfils the requirements as prescribed in paragraphs 5.1. and 5.2. above.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R114",
@@ -1697,7 +1895,9 @@
   "title": null,
   "text": "Replacement airbag systems other than those installed in steering wheels shall be such that when installed in a vehicle, this vehicle fulfils: 6.3.2.1. in case of an airbag system of category B, the requirements of paragraphs 5.2.1.1., 5.2.1.2., 5.2.1.3., 5.2.1.4., and 5.2.1.5. of Regulation No. 94, 01 series of amendments; 6.3.2.2. in case of an airbag system of category C, the requirements of paragraphs 5.2.1.1., 5.2.1.2., 5.2.1.3., 5.2.1.4., and 5.2.1.5. of Regulation No. 94, 01 series of amendments; in addition instrumented dummies shall be used for the verification of the performance of the airbag system; 6.3.2.3. in case of an airbag system of category D, the requirements of paragraphs 5.2.1.1., 5.2.1.2., 5.2.1.3., 5.2.1.4., and 5.2.1.5. of Regulation No. 95, 01 series of amendments; in this case the side impact dummy shall be used for the test.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R114",
@@ -1714,7 +1914,9 @@
   "title": "INSTRUCTIONS FOR USERS",
   "text": "INSTRUCTIONS FOR USERS",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1731,7 +1933,9 @@
   "title": null,
   "text": "The manufacturer of the replacement airbag systems shall include in the operating instructions any recommendations or precautions to be taken during the use, maintenance or destruction of the system or of any of its components.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1748,7 +1952,9 @@
   "title": null,
   "text": "In particular:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1765,7 +1971,9 @@
   "title": null,
   "text": "If the system is fitted with a monitoring device intended to inform the user of its operating condition, it shall be clearly indicated how messages delivered by the system, of whatever kind, are to be interpreted. An indication shall be given of measures to be taken in the event of a message warning of malfunctioning, together with a description of any risk involved in using the vehicle in such a condition;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1782,7 +1990,9 @@
   "title": null,
   "text": "It shall be indicated whether maintenance or repair work is to be performed exclusively by specially trained personnel, and whether any risks are involved in disassembling the system;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1799,7 +2009,9 @@
   "title": null,
   "text": "The procedure to be followed in the event of deployment shall be explained. In particular, details shall be given of any precautions to be taken as regards products generated by deployment, in the form of gases, liquids or solids. Similarly, if there is any danger from the components of the system as a result of deployment, such as dangerous roughness or sharp edges, temperature, corrosion, etc., these dangers shall be described, as well as the ways of avoiding them;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1816,7 +2028,9 @@
   "title": null,
   "text": "If the scrapping of the replacement airbag system(s) can lead to situations which are dangerous either directly to humans or to the environment, an appropriate procedure for avoiding them shall be indicated. This may consist in a method for deliberately releasing the airbag if its released state does not lead to a dangerous situation, in an obligation to return the system or part of it to the constructor or manufacturer, or in any other appropriate measure.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1833,7 +2047,9 @@
   "title": null,
   "text": "The replacement airbag system shall carry labelling and information for the use of child restraint systems according to Regu lation No. 94. Airbag systems with airbag modules of category A, B, C or D shall carry the inscription \"AIRBAG\" located in the interior of the circumference of the replacement steering wheel or on the cover of the airbag module; this inscription shall be durably affixed and easily visible. In addition, in the case of a frontal protection airbag system intended for use in any passenger seating position, the following label shall be permanently attached to the visible surface of the cover of the airbag module (the text information shown is a minimum). This label shall be provided in the language(s) of the country where the device is sold. Label minimum size: 60 x 120 mm. delete as appropriate",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1850,7 +2066,9 @@
   "title": null,
   "text": "CONFORMITY OF PRODUCTION The conformity of production procedures shall comply with those set out in the Agreement, appendix 2 (E/ECE/324-E/ECE/TRANS/505/Rev.2) with the following requirements:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1867,7 +2085,9 @@
   "title": null,
   "text": "The authority which has granted type approval may at any time verify the conformity control methods applied in each production facility. The normal frequency of these verifications shall be once every two years. Where negative results are recorded during one of these verifications, their frequency may be increased.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1884,7 +2104,9 @@
   "title": null,
   "text": "Conformity of production of an airbag module for a replacement airbag system Airbag modules approved under this Regulation shall be so manufactured as to conform to the type approved by meeting the requirements set forth in paragraphs 5.1. and 5.2. above.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1901,7 +2123,9 @@
   "title": null,
   "text": "Conformity of production of replacement steering wheel equipped with an airbag module of an approved type. Replacement steering wheels equipped with an airbag module of an approved type and approved under this Regulation shall be so manufactured as to conform to the type approved by meeting the requirements set forth in paragraphs 5.1. and 5.3. above.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1918,7 +2142,9 @@
   "title": null,
   "text": "Conformity of production of a replacement airbag system other than that installed in a steering wheel Replacement airbag systems other than those installed in steering wheels approved under this Regulation shall be so manufactured as to conform to the type approved by meeting the requirements set forth in paragraphs 5.1. and 5.4. above.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1935,7 +2161,9 @@
   "title": null,
   "text": "PENALTIES FOR NON-CONFORMITY OF PRODUCTION The approval granted for a type of airbag module for a replacement airbag system, a type of replacement steering wheel equipped with an airbag of an approved type, or a type of replacement airbag system other than that installed in a steering wheel, pursuant to this Regulation, may be withdrawn if the requirements laid down in paragraph 8. above are not complied with.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1952,7 +2180,9 @@
   "title": null,
   "text": "MODIFICATIONS OF THE TYPE OF AIRBAG MODULE FOR A REPLACEMENT AIRBAG SYSTEM OR THE TYPE OF REPLACEMENT STEERING WHEEL WITH AN AIRBAG MODULE OF AN APPROVED TYPE OR THE TYPE OF REPLACEMENT AIRBAG SYSTEM, OTHER THAN THAT INSTALLED IN A STEERING WHEEL",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1969,7 +2199,9 @@
   "title": null,
   "text": "Every modification of the type of the above-mentioned system shall be notified to the administrative department which approved the type. The department may then either: 10.1.1. decide that the modifications made are unlikely to have an appreciable adverse effect and that in any case the module or the system or the replacement steering wheel still meets the requirements, 10.1.2. require a further test report from the technical service responsible for conducting the tests.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -1986,7 +2218,9 @@
   "title": null,
   "text": "Confirmation or refusal of approval, specifying the alterations, shall be communicated by the procedure specified in paragraphs 4.1. to 4.3. above to the other Parties to the Agreement applying this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -2003,7 +2237,9 @@
   "title": null,
   "text": "The competent authority which has issued the extension of approval shall assign a series number to that extension and so inform the other Parties to the 1958 Agreement applying this Regulation, by means of a communication form conforming to the models in annexes 1, 2 and 3 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -2020,7 +2256,9 @@
   "title": null,
   "text": "PRODUCTION DEFINITELY DISCONTINUED If the holder of the approval ceases completely to manufacture a type of airbag module for a replacement airbag system or a type of replacement steering wheel equipped with an airbag of an approved type or a type of replacement airbag system other than that installed in a steering wheel under this Regulation, he shall inform the authority which granted the approval. Upon receiving the relevant communication, that authority shall inform thereof the other Parties to the 1958 Agreement applying this Regulation, by means of a communication form conforming to the models in annexes 1, 2 and 3 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -2037,7 +2275,9 @@
   "title": null,
   "text": "NAMES AND ADDRESSES OF TECHNICAL SERVICES RESPONSIBLE FOR APPROVAL TESTS, AND OF ADMINISTRATIVE DEPARTMENTS The Parties to the 1958 Agreement applying this Regulation shall communicate to the United Nations secretariat the names and addresses of the technical services responsible for conducting approval tests and of the administrative departments which grant approval and to which forms certifying approval or extension, or refusal or withdrawal of approval, issued in other countries, are to be sent.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -2054,7 +2294,9 @@
   "title": null,
   "text": "(maximum format: A4 (210 x 297 mm)) issued by: Name of administration: ..................................... ..................................... concerning: 2/ APPROVAL GRANTED APPROVAL EXTENDED APPROVAL REFUSED APPROVAL WITHDRAWN PRODUCTION DEFINITELY DISCONTINUED of a type of airbag module for a replacement airbag system pursuant to Regulation No. 114 Approval No: ............ Extension No.......... 1/ Distinguishing number of the country, which has granted/extended/withdrawn approval (see approval provisions in the Regulation). > 2/ Strike out what does not apply.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2071,7 +2313,9 @@
   "title": null,
   "text": "Replacement airbag module of categories A, B, C, D:................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2088,7 +2332,9 @@
   "title": null,
   "text": "Trade name or mark:..........................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2105,7 +2351,9 @@
   "title": null,
   "text": "Description of the type of airbag module for a replacement airbag system given by the manufacturer:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2122,7 +2370,9 @@
   "title": null,
   "text": "Manufacturer's name:.........................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2139,7 +2389,9 @@
   "title": null,
   "text": "If applicable, name and address of manufacturer's representative:.......................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2156,7 +2408,9 @@
   "title": null,
   "text": "Airbag module for a replacement airbag system submitted for approval on:..............",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2173,7 +2427,9 @@
   "title": null,
   "text": "Technical service responsible for conducting approval tests:...........................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2190,7 +2446,9 @@
   "title": null,
   "text": "Date of test report issued by this service:..........................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2207,7 +2465,9 @@
   "title": null,
   "text": "Number of test report issued by this service:........................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2224,7 +2484,9 @@
   "title": null,
   "text": "Approval granted/refused/extended/withdrawn for general use/for use in a specific vehicle or in specific types of vehicles 2/ 2/ Strike out what does not apply.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2241,7 +2503,9 @@
   "title": null,
   "text": "If applicable, reasons for extension of approval: ....................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2258,7 +2522,9 @@
   "title": null,
   "text": "Position of the approval mark: ...................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2275,7 +2541,9 @@
   "title": null,
   "text": "Place: .....................................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2292,7 +2560,9 @@
   "title": null,
   "text": "Date:......................................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2309,7 +2579,9 @@
   "title": null,
   "text": "Signature:...............................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2326,7 +2598,9 @@
   "title": null,
   "text": "The list of documents deposited with the administrative service, which has granted approval is annexed to this communication and may be obtained on request.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2343,7 +2617,9 @@
   "title": null,
   "text": "(maximum format: A4 (210 x 297 mm)) issued by: Name of administration: concerning: 2/ APPROVAL GRANTED APPROVAL EXTENDED APPROVAL REFUSED APPROVAL WITHDRAWN PRODUCTION DEFINITELY DISCONTINUED of a type of replacement steering wheel equipped with an airbag module of an approved type pursuant to Regulation No. 114 Approval No.: ......... Extension No.......... 1/ Distinguishing number of the country, which has granted/extended/withdrawn approval (see approval provisions in the Regulation). 2/ Strike out what does not apply.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2360,7 +2636,9 @@
   "title": null,
   "text": "Trade name or mark of the replacement steering wheel:...............................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2377,7 +2655,9 @@
   "title": null,
   "text": "Manufacturer's name and address:................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2394,7 +2674,9 @@
   "title": null,
   "text": "If applicable, name and address of manufacturer's representative:.......................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2411,7 +2693,9 @@
   "title": null,
   "text": "Trade name and mark of the type of the airbag module and approval No.:................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2428,7 +2712,9 @@
   "title": null,
   "text": "Extension of approval of the type of replacement steering wheel:.......................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2445,7 +2731,9 @@
   "title": null,
   "text": "List of vehicles, where the replacement steering wheel can be installed (name of vehicle manufacturer/commercial name/vehicle code/replacement steering wheel type/adapter type and number):",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2462,7 +2750,9 @@
   "title": null,
   "text": "Technical service responsible for conducting approval tests:...........................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2479,7 +2769,9 @@
   "title": null,
   "text": "Date of test report issued by this service:..........................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2496,7 +2788,9 @@
   "title": null,
   "text": "Number of test report issued by this service:........................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2513,7 +2807,9 @@
   "title": null,
   "text": "Approval granted/refused/extended/withdrawn for general use/for use in a specific vehicle or in specific types of vehicles 2/ 2/ Strike out what does not apply.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2530,7 +2826,9 @@
   "title": null,
   "text": "If applicable, reasons for extension of approval:.....................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2547,7 +2845,9 @@
   "title": null,
   "text": "Position of the approval mark:...................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2564,7 +2864,9 @@
   "title": null,
   "text": "Place:......................................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2581,7 +2883,9 @@
   "title": null,
   "text": "Date: ......................................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2598,7 +2902,9 @@
   "title": null,
   "text": "Signature:...................................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2615,7 +2921,9 @@
   "title": null,
   "text": "The list of documents deposited with the administrative service, which has granted approval is annexed to this communication and may be obtained on request.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2632,7 +2940,9 @@
   "title": null,
   "text": "(maximum format: A4 (210 x 297 mm)) issued by: Name of administration: concerning: 2/ APPROVAL GRANTED APPROVAL EXTENDED APPROVAL REFUSED APPROVAL WITHDRAWN PRODUCTION DEFINITELY DISCONTINUED of a type of replacement airbag system other than that installed in a replacement steering wheel pursuant to Regulation No. 114 Approval No.: .......... Extension No.............. 1/ Distinguishing number of the country, which has granted/extended/withdrawn approval (see approval provisions in the Regulation). 2/ Strike out what does not apply.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2649,7 +2959,9 @@
   "title": null,
   "text": "Trade name or mark of the replacement airbag system:...............................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2666,7 +2978,9 @@
   "title": null,
   "text": "Category of the airbag system and approval No. of the airbag module: ...................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2683,7 +2997,9 @@
   "title": null,
   "text": "Manufacturer's name and address:................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2700,7 +3016,9 @@
   "title": null,
   "text": "If applicable, name and address of manufacturer's representative:.......................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2717,7 +3035,9 @@
   "title": null,
   "text": "Replacement airbag system and vehicles submitted for approval on:.....................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2734,7 +3054,9 @@
   "title": null,
   "text": "Extension of approval of the type of replacement airbag system:........................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2751,7 +3073,9 @@
   "title": null,
   "text": "List of vehicles, where the replacement airbag system can be installed:...................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2768,7 +3092,9 @@
   "title": null,
   "text": "Technical service responsible for conducting approval tests:...........................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2785,7 +3111,9 @@
   "title": null,
   "text": "Date of test report issued by this service:..........................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2802,7 +3130,9 @@
   "title": null,
   "text": "Number of test report issued by this service:........................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2819,7 +3149,9 @@
   "title": null,
   "text": "Approval granted/refused/extended/withdrawn for general use/for use in a specific vehicle or in specific types of vehicles 2/ 2/ Strike out what does not apply.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2836,7 +3168,9 @@
   "title": null,
   "text": "If applicable, reasons for extension of approval:.....................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2853,7 +3187,9 @@
   "title": null,
   "text": "Position of the approval mark:...................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2870,7 +3206,9 @@
   "title": null,
   "text": "Place:......................................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2887,7 +3225,9 @@
   "title": null,
   "text": "Date: ......................................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2904,7 +3244,9 @@
   "title": null,
   "text": "Signature:...................................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2921,7 +3263,9 @@
   "title": null,
   "text": "The list of documents deposited with the administrative service, which has granted approval is annexed to this communication and may be obtained on request.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R114",
@@ -2938,7 +3282,9 @@
   "title": null,
   "text": "a = 5 mm min. The airbag module bearing the above approval mark is a category A airbag module approved in France (E2) under the number 002439. The first two digits of the approval number indicate that the approval was granted in accordance with the requirements of the Regulation in its original form. <u>Note:</u> The approval number and additional symbol(s) must be placed close to the circle and either above or below the \"E\" or to the left or right of that letter. The digits of the approval number must be on the same side of the \"E\" and oriented in the same direction. The additional symbol(s) must be diametrically opposite the approval number. The use of Roman numerals as approval numbers should be avoided so as to prevent any confusion with the other symbols.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "EXAMPLE OF AN APPROVAL MARK FOR AN AIRBAG MODULE FOR A REPLACEMENT AIRBAG SYSTEM",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -2955,7 +3301,9 @@
   "title": null,
   "text": "a = 5 mm min. The replacement steering wheel bearing the above approval mark is a steering wheel with an airbag module of category A and approved in France (E2) under the number 002439. The first two digits of the approval number indicate that the approval was granted in accordance with the requirements of the Regulation in its original form. <u>Note:</u> The approval number and additional symbol(s) must be placed close to the circle and either above or below the \"E\" or to the left or right of that letter. The digits of the approval number must be on the same side of the \"E\" and oriented in the same direction. The additional symbol(s) must be diametrically opposite the approval number. The use of Roman numerals as approval numbers should be avoided so as to prevent any confusion with the other symbols.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "EXAMPLE OF AN APPROVAL MARK FOR A REPLACEMENT STEERING WHEEL EQUIPPED WITH AN AIRBAG MODULE OF AN APPROVED TYPE",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -2972,7 +3320,9 @@
   "title": null,
   "text": "a = 8mm min. The replacement airbag system bearing the above approval mark is a category B airbag system approved in France (E2) under the number 002439. The first two digits of the approval number indicate that the approval was granted in accordance with the requirements of the Regulation in its original form. <u>Note:</u> The approval number and additional symbol(s) must be placed close to the circle and either above or below the \"E\" or to the left or right of that letter. The digits of the approval number must be on the same side of the \"E\" and oriented in the same direction. The additional symbol(s) must be diametrically opposite the approval number. The use of Roman numerals as approval numbers should be avoided so as to prevent any confusion with the other symbols.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "EXAMPLE OF AN APPROVAL MARK FOR A REPLACEMENT AIRBAG SYSTEM OTHER THAN THAT INSTALLED IN A STEERING WHEEL",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -2989,7 +3339,9 @@
   "title": "Example of a fatigue test device",
   "text": "Example of a fatigue test device",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "FATIGUE TEST DEVICE",
+  "section_kind": "test"
  },
  {
   "reg": "UN R114",
@@ -3006,7 +3358,9 @@
   "title": null,
   "text": "1 The procedure is described in Addendum 6 of Mutual Resolution No. 1 (M.R.1) (document ECE/TRANS/WP.29/1101/Amend.5); see https://unece.org/transport/vehicle-regulations/wp29/resolutions",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Procedure for determining the \"H\" point and the actual torso angle for seating positions in motor vehicles 1",
+  "section_kind": "test"
  },
  {
   "reg": "UN R114",
@@ -3023,7 +3377,9 @@
   "title": null,
   "text": "1 The procedure is described in Addendum 6 of Mutual Resolution No. 1 (M.R.1) (document ECE/TRANS/WP.29/1101/Amend.5); see https://unece.org/transport/vehicle-regulations/wp29/resolutions",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Description of the three dimensional \"H\" point machine 1",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -3040,7 +3396,9 @@
   "title": null,
   "text": "1 The procedure is described in Addendum 6 of Mutual Resolution No. 1 (M.R.1) (document ECE/TRANS/WP.29/1101/Amend.5); see https://unece.org/transport/vehicle-regulations/wp29/resolutions",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Three-dimensional reference system 1",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R114",
@@ -3057,6 +3415,8 @@
   "title": null,
   "text": "1 The procedure is described in Addendum 6 of Mutual Resolution No. 1 (M.R.1) (document ECE/TRANS/WP.29/1101/Amend.5); see https://unece.org/transport/vehicle-regulations/wp29/resolutions",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Reference data concerning seating positions 1",
+  "section_kind": "requirement"
  }
 ]

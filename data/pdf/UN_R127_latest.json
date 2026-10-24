@@ -14,7 +14,9 @@
   "title": null,
   "text": "UN R127 (version 4.4.0) Consolidated text of this version, rendered by Certivity for the hackathon. Cite pages of THIS file: the page number is printed at the bottom of every page. Role in the hackathon: latest version.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -31,7 +33,9 @@
   "title": "Introduction",
   "text": "Introduction",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -48,7 +52,9 @@
   "title": null,
   "text": "For supplement 4 to the 04 series of amendments:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -65,7 +71,9 @@
   "title": null,
   "text": "The Regulation is amended to account for vehicles of category X1 . Vehicles of category Y1 are not in the scope of this Regulation. 1 As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3.), document ECE/TRANS/WP.29/78/Rev.8 - https://unece.org/transport/vehicle-regulations/wp29/resolutions",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -82,7 +90,9 @@
   "title": null,
   "text": "The Regulation was originally drafted for vehicles with driver and manual driving controls. It is the intention of this amendment to keep the spirit of the regulation and to extend its application to vehicles without driver and without manual driving controls inside the vehicle. In the absence of a driver or manual driving controls in the vehicle, provisions related to them shall not be taken into account if not already covered by this amendment.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -99,7 +109,9 @@
   "title": null,
   "text": "In case of vehicles equipped with an Automated Driving System (ADS)1 other than vehicles of category X, in the manual driving mode no special provisions or exemptions apply. In a mode where an ADS feature is active the relevant ADS requirements apply. 1 As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3.), document ECE/TRANS/WP.29/78/Rev.8 - https://unece.org/transport/vehicle-regulations/wp29/resolutions",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -116,7 +128,9 @@
   "title": "Scope",
   "text": "Scope",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -133,7 +147,9 @@
   "title": null,
   "text": "This Regulation applies to motor vehicles of categories M1 and N11. 1 As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3.), document ECE/TRANS/WP.29/78/Rev.8 - https://unece.org/transport/vehicle-regulations/wp29/resolutions",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -150,7 +166,9 @@
   "title": null,
   "text": "However, vehicles of category N1 where the driver’s position \"R-point\" is either forward of the front axle or longitudinally rearwards of the front axle transverse centreline by a maximum of 1,100 mm, are exempted from the requirements of this Regulation. For vehicles of category X, the \"R\" point of the most forward passenger seat shall be taken instead of the R-point of the driver's seat.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -167,7 +185,9 @@
   "title": null,
   "text": "This Regulation does not apply to vehicles of category M1 above 2,500 kg maximum mass and which are derived from N1 category vehicles, and where the driver’s position \"R-point\" is either forward of the front axle or longitudinally rearwards of the front axle transverse centreline by a maximum of 1,100 mm; for these vehicle categories Contracting Parties may continue to apply the requirements already in force for that purpose at the time of acceding to this Regulation. For vehicles of category X, the \"R\" point of the most forward passenger seat shall be taken instead of the R-point of the driver's seat.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -184,7 +204,9 @@
   "title": null,
   "text": "This Regulation does not apply to vehicles of category Y.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -201,7 +223,9 @@
   "title": null,
   "text": "Definitions When performing measurements as described in this Part, the vehicle should be positioned in its normal ride attitude. If the vehicle is fitted with a badge, mascot or other structure, which would bend back or retract under an applied load of maximum 100 N, then this load shall be applied before and/or while these measurements are taken. Any vehicle component which could change shape or position, other than suspension components or active devices to protect pedestrians, shall be set to their stowed position. For the purposes of this Regulation:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -218,7 +242,9 @@
   "title": null,
   "text": "\" _Adult headform_ bonnet _top test area_ \" is an area on the outer surfaces of the front structure. The area is bound: (a) In the front, by a wrap around distance (WAD) of 1,700 or a line 82.5 mm rearward of the bonnet leading edge reference line, whichever is most rearward at a given lateral position; (b) At the rear, by a WAD 2,5001 or a line 82.5 mm forward of the bonnet rear reference line2 **,** whichever is most forward at a given lateral position, and (c) At each side, by a line 82.5 mm inside the side reference line. The distance of 82.5 mm is to be set with a flexible tape held tautly along the outer surface of the vehicle. 1 or WAD 2,100 in accordance with paragraphs 11.19. to 11.21. 2 In the case where the BRRL is not on the bonnet and the line 82.5 mm forward of the BRRL is rearward of WAD 2100, then the rear physical edge of the bonnet shall be used as BRRL, in accordance with paragraphs 11.22. and 11.23.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -235,7 +261,9 @@
   "title": null,
   "text": "\" _Assessment Interval (AI)_ \" of the flexible lower legform impactor is defined and limited by the time of first contact of the flexible lower legform impactor with the vehicle and the timing of the last zero crossing of all femur and tibia segments after their first local maximum subsequent to any marginal value of 15 Nm, within their particular common zero crossing phases. The AI is identical for all bone segments and knee ligaments. In case of any bone segment not having a zero crossing during the common zero crossing phases, the time history curves for all bone segments are shifted downwards until all bending moments are crossing zero. The downwards shift is to be applied for the determination of the AI only.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -252,7 +280,9 @@
   "title": null,
   "text": "\" _A-pillar_ \" means the foremost and outermost roof support extending from the chassis to the roof of the vehicle.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -269,7 +299,9 @@
   "title": null,
   "text": "\" _Approval of a vehicle type_ \" means the full procedure whereby a Contracting Party to the Agreement certifies that a vehicle type meets the technical requirements of this Regulation.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -286,7 +318,9 @@
   "title": null,
   "text": "\" _Bonnet leading edge_ \" means the edge of the front upper outer structure of the vehicle, including the bonnet and wings, the upper and side members of the headlight surrounds and any other attachments. The reference line identifying the position of the bonnet leading edge is defined by its height above the ground reference plane and by the horizontal distance separating it from the bumper (bumper lead).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -303,7 +337,9 @@
   "title": null,
   "text": "\" _Bonnet leading edge height_ \" means, at any point on the bonnet leading edge, the vertical distance between the ground reference plane and the bonnet leading edge reference line at that point.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -320,7 +356,9 @@
   "title": null,
   "text": "\" _Bonnet leading edge reference line_ \" means the geometric trace of the points of contact between a straight edge 1,000 mm long and the front surface of the bonnet, when the straight edge, held parallel to the vertical longitudinal plane of the car and inclined rearwards by 50° from the vertical and with the lower end 600 mm above the ground, is traversed across and in contact with the bonnet leading edge (see Figure 1). For vehicles having the bonnet top surface inclined at 50°, so that the straight edge makes a continuous contact or multiple contacts rather than a point contact, the reference line is determined with the straight edge inclined rearwards at an angle of 40° from the vertical. For vehicles of such shape that the bottom end of the straight edge makes first contact, then that contact is taken to be the bonnet leading edge reference line, at that lateral position. For vehicles of such shape that the top end of the straight edge makes first contact with the vehicle, then the geometric trace of 1,000 mm wrap around distance will be used as the bonnet leading edge reference line at that lateral position. The top edge of the bumper shall also be regarded as the bonnet leading edge for the purposes of this Regulation, if it is contacted by the straight edge during this procedure. Figure 1 **Bonnet leading edge reference line**",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -337,7 +375,9 @@
   "title": null,
   "text": "\"Bonnet rear reference line\" (BRRL) means the geometric trace of the most rearward points of contact between a 165 mm diameter sphere and the front structure of the vehicle when the sphere is traversed across the front structure of the vehicle while maintaining contact with the windscreen (see Figure 2). The wiper blades and arms are removed during this process. Where the bonnet rear reference line and the side reference line do not intersect, the bonnet rear reference line should be extended and/or modified using a semi-circular template, of radius 100 mm. The template should be made of a thin flexible sheet material that easily bends to a single curvature in any direction. The template should, preferably, resist double or complex curvature where this could result in wrinkling. The recommended material is a foam backed thin plastic sheet to allow the template to \"grip\" the surface of the vehicle. The template should be marked up with four points \"A\" through \"D\", as shown in Figure 3, while the template is on a flat surface. The template should be placed on the vehicle with Corners \"A\" and \"B\" coincident with the side reference line. Ensuring these two corners remain coincident with the side reference line, the template should be slid progressively rearwards until the arc of the template makes first contact with the bonnet rear reference line. Throughout the process, the template should be curved to follow, as closely as possible, the outer contour of the vehicle's bonnet top, without wrinkling or folding of the template. If the contact between the template and bonnet rear reference line is tangential and the point of tangency lies outside the arc scribed by points \"C\" and \"D\", then the bonnet rear reference line is extended and/or modified to follow the circumferential arc of the template to meet the bonnet side reference line, as shown in Figure 4. If the template cannot make simultaneous contact with the bonnet side reference line at points \"A\" and \"B\" and tangentially with the bonnet rear reference line, or the point at which the bonnet rear reference line and template touch lies within the arc scribed by points \"C\" and \"D\", then additional templates should be used where the radii are increased progressively in increments of 20 mm, until all the above criteria are met. <!-- Start of picture text --> Figure 2  Bonnet rear reference line <!-- End of picture text --> Figure 3 **Template** Figure 4 **Marking of intersection between bonnet rear and side reference lines**",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -354,7 +394,9 @@
   "title": null,
   "text": "\" _Bonnet top_ \" is the area which is bounded by (a), (b) and (c) as follows: (a) The bonnet leading edge reference line; (b) The bonnet rear reference line; (c) The side reference lines.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -371,7 +413,9 @@
   "title": null,
   "text": "\" _Bonnet top test area_ \" is composed of the child headform bonnet top test area and the adult headform bonnet top test area as defined in paragraphs 2.1. and 2.16. respectively.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -388,7 +432,9 @@
   "title": null,
   "text": "\" _Bumper_ \" means the front, lower, outer structure of a vehicle. It includes all structures that are intended to give protection to a vehicle when involved in a low speed frontal collision and also any attachments to this structure. The reference height and lateral limits of the bumper are identified by the corners and the bumper reference lines.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -405,7 +451,9 @@
   "title": null,
   "text": "\" _Bumper beam_ \" means the structural cross member, rearward of the bumper fascia if present, protecting the front of the vehicle. The beam does not include foam, cover support or any pedestrian protection devices.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -422,7 +470,9 @@
   "title": null,
   "text": "\" _Bumper lead_ \" means for any longitudinal section of a vehicle, the horizontal distance measured in any vehicle vertical longitudinal plane between the upper bumper reference line and the bonnet leading edge reference line.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -439,7 +489,9 @@
   "title": null,
   "text": "\" _Bumper test area_ \" means either the front vehicle fascia between the left and right corner of bumper as defined in paragraph 2.17., minus the areas covered by the distance of 42 mm inboard of each corner of bumper as measured horizontally and perpendicular to the longitudinal median plane of the vehicle, or between the outermost ends of the bumper beam as defined in paragraph 2.12. (see Figure 5D), minus the areas covered by the distance of 42 mm inboard of each end of the bumper beam, as measured horizontally and perpendicular to the longitudinal median plane of the vehicle, whichever area is wider.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -456,7 +508,9 @@
   "title": null,
   "text": "\" _Centre of the knee_ \" of the lower legform impactor is defined as the point about which the knee effectively bends.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -473,7 +527,9 @@
   "title": null,
   "text": "\" _Child headform_ bonnet top _test area_ \" is an area on the outer surfaces of the front structure. The area is bound: (a) In the front, by a WAD 1,000 or a line 82.5 mm rearward of the bonnet leading edge reference line, whichever is most rearward at a given lateral position, (b) At the rear, by a WAD 1,700 or a line 82.5 mm forward of the bonnet rear reference line, whichever is most forward at a given lateral position, and (c) At each side, by a line 82.5 mm inside the side reference line. The distance of 82.5 mm is to be set with a flexible tape held tautly along the outer surface of the vehicle.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -490,7 +546,9 @@
   "title": null,
   "text": "\" _Corner of bumper_ \" means the transversal position of the vehicle's point of contact with a corner gauge as defined in Figure 5B. For determination of the corner of bumper, the front surface of the corner gauge is moved parallel to a vertical plane with an angle of 60° to the vertical longitudinal centre plane of the vehicle (see Figures 5A and 5C) at any height of the centre point of the corner gauge between: (a) Equal to and above the point found on the vertical line intersecting the lower bumper reference line at the assessment position in transversal direction or at 75 mm above the ground reference plane, whichever is higher. (b) Equal to and below the point found on the vertical line intersecting the upper bumper reference line at the assessment position in transversal direction or at 1,003 mm above the ground reference plane, whichever is lower. For determination of the corner of bumper, the gauge is moved to contact the outer contour/front fascia of the vehicle touching at the vertical centre line of the gauge. The horizontal centre line of the gauge is kept parallel to the ground plane. The corners of bumper on both sides are subsequently defined as the outermost points of contact of the gauge with the outer contour/front fascia of the vehicle as determined in accordance with this procedure. Any points of contact on the top and the bottom edges of the gauge are not taken into account. The external devices for indirect vision and the tyres shall not be considered. Figure 5A **Corner of bumper example (see paragraph 2.17., note that the corner gauge is to be moved in vertical and horizontal directions to enable contact with the outer contour/ front fascia of the vehicle)** Figure 5B **Corner gauge** The front surface of the corner gauge is flat. The centre point is the intersection of the vertical and horizontal centre lines on the front surface. Figure 5C **Determination of the corner of bumper with the corner gauge (shown in random location)** Figure 5D **Determination of bumper test area (note that the corner gauges are to be moved in vertical and horizontal directions to enable contact with the outer contour/front fascia of the vehicle)** \"",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -507,7 +565,9 @@
   "title": null,
   "text": "\" _Corner reference point_ \" means the intersection of the bonnet leading edge reference line and of the bonnet side reference line (see Figure 6). Figure 6 **Determination of corner reference point; intersection of the bonnet leading edge reference line and the bonnet side reference line**",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -524,7 +584,9 @@
   "title": null,
   "text": "\" _Driver mass_ \" means the nominal mass of a driver that shall be 75 kg (subdivided into 68 kg occupant mass at the seat and 7 kg luggage mass in accordance with ISO standard 2416-1992).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -541,7 +603,9 @@
   "title": null,
   "text": "\" _Femur_ \" of the lower legform impactor is defined as all components or parts of components (including flesh, skin covering, damper, instrumentation and brackets, pulleys, etc. attached to the impactor for the purpose of launching it) above the level of the centre of the knee.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -558,7 +622,9 @@
   "title": null,
   "text": "\" _Front reference line for child headform_ \" means the geometric trace as described on the vehicle front structure using a WAD1000 line. In the case of vehicles where the wrap around distance to the bonnet leading edge reference line, is more than 1,000 mm at any point, then the bonnet leading edge reference line will be used as the front reference line for child headform at that point.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -575,7 +641,9 @@
   "title": null,
   "text": "\" _Front structure_ \" means all outer structures of the vehicle except the windscreen, the windscreen header, the A-pillars and structures rearward of these. It therefore includes, but is not limited to, the bumper, the bonnet, wings, scuttle, wiper spindles and lower windscreen frame.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -592,7 +660,9 @@
   "title": null,
   "text": "\" _Ground reference plane_ \" means a horizontal plane, either real or imaginary, that passes through the lowest points of contact for all tyres of a vehicle while the vehicle is in its normal ride attitude. If the vehicle is resting on the ground, then the ground level and the ground reference plane are one and the same. If the vehicle is raised off the ground such as to allow extra clearance below the bumper, then the ground reference plane is above ground level.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -609,7 +679,9 @@
   "title": null,
   "text": "\" _Head Injury Criterion (HIC)_ \" means the calculated result of accelerometer time histories using the following formula: Where: \" _a_ \" is the resultant acceleration measured in units of gravity \"g\" (1 g = 9.81 m/s²); \"t1\" and \"t2\" are the two time instants (expressed in seconds) during the impact, defining an interval between the beginning and the end of the recording period for which the value of HIC is a maximum (t2 - t1 ≤ 15 ms).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -626,7 +698,9 @@
   "title": null,
   "text": "\" _Lower bumper height_ \" means the vertical distance between the ground reference plane and the lower bumper reference line, with the vehicle positioned in its normal ride attitude.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -643,7 +717,9 @@
   "title": null,
   "text": "\" _Lower bumper reference line_ \" means the lower limit to significant points of pedestrian contact with the bumper. It is defined as the geometric trace of the lowermost points of contact between a straight edge 700 mm long and the bumper, when the straight edge, held parallel to the vertical longitudinal plane of the vehicle and inclined forwards by 25° from the vertical, is traversed across the front of the vehicle, while maintaining contact with the ground and with the surface of the bumper (see Figure 8). Figure 7 **Lower Bumper Reference Line (LBRL)**",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -660,7 +736,9 @@
   "title": null,
   "text": "\" _Mass in running order_ \" means the nominal mass of a vehicle as determined by the sum of unladen vehicle mass and driver’s mass. For vehicles of category X, a driver’s mass is not included.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -677,7 +755,9 @@
   "title": null,
   "text": "\" _Measuring point_ \" The measuring point may also be referred to as \"test point\" or \"impact point\". In all cases, the result of the test shall be attributed to this point, independent of where first contact occurs.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -694,7 +774,9 @@
   "title": null,
   "text": "\" _Measuring point_ \" for the headform test means a point on the vehicle’s outer surface selected for assessment. The measuring point is where the headform’s profile contacts the vehicle’s outer surface cross section in a vertical longitudinal plane through the center of gravity of the headform (see Figure 8A).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -711,7 +793,9 @@
   "title": null,
   "text": "\" _Measuring point_ \" for the lower legform to bumper test and the upper legform to bumper test is located in the vertical longitudinal plane through the central axis of the impactor (see Figure 8B). Figure 8A **Measuring point in the vertical longitudinal plane through the center of the headform impactor** (see paragraph 2.28.1.)2 2Remark: due to the spatial geometry of the bonnet top, the first contact may not occur in the same vertical longitudinal or transverse plane which contains measuring point A. Figure 8B **Measuring point in the vertical longitudinal plane through the central axis of the legform impactor** (see paragraph 2.28.2.)",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -728,7 +812,9 @@
   "title": null,
   "text": "\" _Normal ride attitude_ \" means the vehicle positioned on a flat horizontal surface with its mass in running order, with the tyres inflated to manufacturer recommended pressures, the front wheels in the straight-ahead position and with a passenger mass placed on the front passenger seat. The front seats are placed at the nominal mid-track position. The suspension shall be set in normal running condition as specified by the manufacturer for a speed of 40 km/h. For vehicles of category X, two passenger masses are placed on the front seats instead of the driver's and one passenger masses.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -745,7 +831,9 @@
   "title": null,
   "text": "\"Adjustable Ride Height Suspension System (ARHSS)\" means a system that could change the vehicle height while driving (e.g. an active suspension).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -762,7 +850,9 @@
   "title": null,
   "text": "\" _Passenger mass_ \" means the nominal mass of a passenger that shall be 68 kg, with in addition a 7 kg provision for luggage which shall be located in the luggage compartment(s) in accordance with ISO standard 2416-1992.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -779,7 +869,9 @@
   "title": null,
   "text": "\" _Primary reference marks_ \" means holes, surfaces, marks and identification signs on the vehicle body. The type of reference mark used and the vertical (Z) position of each mark relative to the ground shall be specified by the vehicle manufacturer according to the running conditions specified in paragraph 2.27. These marks shall be selected so as to be able to easily check the vehicle front and rear ride heights and vehicle attitude. If the primary reference marks are found to be within ±25 mm of the design position in the vertical (Z) axis, then the design position shall be considered to be the normal ride height. If this condition is met, either the vehicle shall be adjusted to the design position, or all further measurements shall be adjusted, and tests performed, to simulate the vehicle being at the design position.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -796,7 +888,9 @@
   "title": null,
   "text": "\" _Side reference line_ \" means the geometric trace of the highest points of contact between a straight edge 700 mm long and the sides of the vehicle, when the straight edge, held parallel to the transverse vertical plane of the vehicle and inclined inwards by 45°, is traversed down, and maintains contact with the sides of the front structure (see Figure 9). Figure 9 **Side reference line**",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -813,7 +907,9 @@
   "title": null,
   "text": "\" _Third of the bonnet leading edge_ \" means the geometric trace between the corner reference points, measured with a flexible tape following the outer contour of the leading edge, divided in three equal parts.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -830,7 +926,9 @@
   "title": null,
   "text": "\" _Third of the bonnet top_ \" means the geometric trace of the area between the bonnet side reference lines, measured with a flexible tape following the outer contour of the bonnet top on any transverse section, divided in three equal parts.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -847,7 +945,9 @@
   "title": null,
   "text": "\" _Third of the bumper_ \" means the geometric trace between the corners of the bumper, measured with a flexible tape following the outer contour of the bumper, divided in three equal parts.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -864,7 +964,9 @@
   "title": null,
   "text": "\" _Tibia_ \" of the lower legform impactor is defined as all components or parts of components (including flesh, skin covering, instrumentation and brackets, pulleys, etc. attached to the impactor for the purpose of launching it) below the level of the centre of the knee. Note that the tibia as defined includes allowances for the mass, etc., of the foot.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -881,7 +983,9 @@
   "title": null,
   "text": "\" _Unladen vehicle mass_ \" means the nominal mass of a complete vehicle as determined by the following criteria:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -898,7 +1002,9 @@
   "title": null,
   "text": "Mass of the vehicle with bodywork and all factory fitted equipment, electrical and auxiliary equipment for normal operation of vehicle, including liquids, tools, fire extinguisher, standard spare parts, chocks and spare wheel, if fitted.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -915,7 +1021,9 @@
   "title": null,
   "text": "The fuel tank shall be filled to at least 90 per cent of rated capacity and the other liquid containing systems (except those for used water) to 100 per cent of the capacity specified by the manufacturer",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -932,7 +1040,9 @@
   "title": null,
   "text": "\" _Upper bumper reference line_ \" means a line which identifies the upper limit to significant points of pedestrian contact with the bumper. It is defined as the geometric trace of the upper most points of contact between a straight edge 700 mm long and the bumper, when the straight edge, held parallel to the vertical longitudinal plane and inclined rearwards by 20°, is traversed across the front of the vehicle, while maintaining contact with the ground and with the surface of the bumper (see Figure 10). Where necessary the straight edge shall be shortened to avoid any contact with structures above the bumper. Figure 10 **Upper Bumper Reference Line (UBRL)**",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -949,7 +1059,9 @@
   "title": null,
   "text": "\" _Vehicle type with regard to the pedestrian protection requirements_ \" means a category of vehicles which, forward of the A-pillars, do not differ in such essential respects as: (a) The structure, (b) The main dimensions, (c) The materials of the outer surfaces of the vehicle, (d) The component arrangement (external or internal), In so far as they may be considered to have a negative effect on the results of the impact tests prescribed in this Regulation.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -966,7 +1078,9 @@
   "title": null,
   "text": "\" _Vehicles of category M1 derived from N1_ \" means those vehicles of M1 category which, forward of the A- pillars, have the same general structure and shape as a pre-existing N1 category vehicle.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -983,7 +1097,9 @@
   "title": null,
   "text": "\" _Vehicles of category N1 derived from M1_ \" means those vehicles of N1 category which, forward of the A- pillars, have the same general structure and shape as a pre-existing M1 category vehicle.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -1000,7 +1116,9 @@
   "title": null,
   "text": "\" _Windscreen_ \" means the frontal glazing of the vehicle situated between the A-pillars.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -1017,7 +1135,9 @@
   "title": null,
   "text": "\" _Wrap Around Distance (WAD)_ \" means the geometric trace described on the outer surface of the vehicle front structure by one end of a flexible tape, when it is held in a vertical longitudinal plane of the vehicle and traversed across the front structure. The tape is held taut throughout the operation with one end held at the same level as the ground reference plane, vertically below the front face of the bumper and the other end held in contact with the front structure (see Figure 11). The vehicle is positioned in the normal ride attitude. This procedure shall be followed, using alternative tapes of appropriate lengths, to describe wrap around distances of 1,000 mm (WAD1000), of 1,700 mm (WAD1700) and of 2,500 mm (WAD2500)1 . 1or WAD 2,100 in accordance with paragraph 11.19 to 11.21. Figure 11 **Wrap around distance measurement**",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -1034,7 +1154,9 @@
   "title": null,
   "text": "\"Windscreen test area\" is an area on the outer surface of the windscreen. It is bound (see figure 12): (a) In the front, by a line 100 mm rearward to the opaque obscuration of the windscreen. In case of absence of the opaque obscuration, the line is measured from the front visible edge of the windscreen material. (b) In the rear, by a WAD 2,500 or a line 130 mm forward to the rear visible edge of the windscreen material, whichever is more forward at a given lateral position. (c) At each side, by a line 100 mm inside the opaque obscuration of the windscreen. In case of absence of the opaque obscuration, the line is measured from the side visible edge of the windscreen material. For (a) and (c): the distances of 100 mm are to be measured with a flexible tape held tautly along the outer surface of the vehicle at an angle of 90° to the tangent line to the opaque obscuration limit or in case of absence of the opaque obscuration, from the visible edge respectively. For (b): the distances of 130 mm is to be measured with a flexible tape held tautly along the outer surface of the vehicle at an angle of 90 ° to the tangent line to the rear visible edge of the windscreen. Figure 12 **Windscreen Test Area** Depending on the geometry, in case there is no intersection between (b) and (c), resulting in an open test area, then the marking shall be modified using theshortest distance to close the open test area (see figure 13). Figure 13 **Upper Corner Definition with \"Shortest Distance\"** Tests assigned to any measuring points located in the windscreen area forward of and including WAD 1,700 are performed with the child headform impactor. Tests assigned to any measuring points located in the windscreen area rearward of WAD 1,700 are performed with the adult headform impactor.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -1051,7 +1173,9 @@
   "title": null,
   "text": "\"Cowl monitoring area\" is generally located near the rear of the bonnet test area and the front of the windscreen test area. For the adult head tests, if any, this area is bound: (a) In the front, by the forward most boundary of the adult headform bonnet top test area as defined in paragraph 2.1. or a line 82.5 mm forward of the bonnet rear reference line, whichever is most rearward at a given lateral position; and (b) At the rear, by a WAD 2,5003 or the front of the windscreen test area, whichever is most forward at a given lateral position. For the child head tests, this area is bound: (a) In the front, by the forward most boundary of the child headform bonnet top test area as defined in paragraph 2.16 or a line 82.5 mm forward of the bonnet rear reference line, whichever is most rearward at a given lateral position; and (b) At the rear, by a WAD 1,700 or the front of the windscreen test area, whichever is most forward at a given lateral position. At each side, the cowl monitoring area is bound by the TP line (see figure 14), where: (a) the \"T point\" is the rear corner of the bonnet top test area; and (b) the \"P corner point\" is the lower corner of the windscreen test area; using a flexible tape held tautly from point T to P. Figure 14 **Lateral Limits of the Cowl Monitoring Area** Figure 15 **Particular case, if no unique \"P point\" corner** If there is no unique \"P point\" where the lines defined in 2.44 (a) and (c) intersect, then the \"P point\" is defined by the first contact of a vertical plane intersecting the vertical longitudinal vehicle centre-plane at an angle of 45° with the (a)-(c) transition of the windscreen test area boundary, as shown in Figure 15. Tests assigned to any monitoring point located in the cowl monitoring area forward of and including WAD 1,700 are performed with the child headform impactor. Tests assigned to any monitoring point located in the cowl monitoring area rearward of WAD 1,700 are performed with the adult headform impactor. > 3 from WAD 2,100 boundary, if applicable, in accordance with paragraphs 11.19. to 11.21.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -1068,7 +1192,9 @@
   "title": null,
   "text": "\"Opaque obscuration\" means any area of the glazing preventing light transmission, including any solid black windscreen-printed area, but excluding any shade band, dot-printed area, text or graphics.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -1085,7 +1211,9 @@
   "title": null,
   "text": "\"Shade band\" means any area of the glazing with a reduced light transmittance, excluding any opaque obscuration.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -1102,7 +1230,9 @@
   "title": null,
   "text": "\"Atypical windscreen fracture behaviour\" is where the headform to windscreen impact results in at least one of the following cases: (a) The absolute value of the minimum value of the derivation of the resultant headform acceleration versus time is less than 180 g/ms within the first 4 ms after the initial contact of the headform to the windscreen as shown in figure 16; and/or Figure 16 **Jerk Criterion Graph and Formula** (b) The minimum value of the resultant headform acceleration below 300 m/s2 between the initial peak and 10 ms is reached later than 4 ms in the time/acceleration plot, or glass breaking which expands to the whole windshield is not visibly observed.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -1119,7 +1249,9 @@
   "title": null,
   "text": "\"One third of the windscreen test area\" means the area between the side boundaries of the windscreen test area as defined in paragraph 2.44.(c), divided by the lines passing through the third markings of the lines from P to P' and from Q to Q' (the upper corner points of the windscreen test area), as shown in Figure 17. All lines are to be drawn and the three equal parts to be measured with a flexible tape following the outer contour of the windscreen. In case Q and Q' are coincident with P and P’, Q and Q' are to be created on the side boundary lines as defined in paragraph 2.44. (c) rearward of P and P', respectively. If there is no unique \"Q point\" where the lines defined in paragraph 2.44. (b) and (c) intersect, then the \"Q point\" is defined by the first contact of a vertical plane V45, intersecting the vertical longitudinal vehicle centre-plane at an angle of 45°, with the (b)-(c) transition of the windscreen test area boundary. If there is no intersection between (b) and (c) and the open test area is closed by a connecting line, as illustrated in Figure 13, then the \"Q point\" is defined by the centre of this connecting line. Figure 17 **Thirds of the windscreen test area**",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -1136,7 +1268,9 @@
   "title": "Application for approval",
   "text": "Application for approval",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -1153,7 +1287,9 @@
   "title": null,
   "text": "The application for approval of a vehicle type with regard to the pedestrian protection requirements shall be submitted by the vehicle manufacturer or by his authorized representative.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -1170,7 +1306,9 @@
   "title": null,
   "text": "It shall be accompanied by the documents mentioned below in triplicate and include the following particulars:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -1187,7 +1325,9 @@
   "title": null,
   "text": "The manufacturer shall submit to the Type Approval Authority the information document, established in accordance with the model set out in Part 1 of Annex 1, including a description of the vehicle type with regard to the items mentioned in paragraph 2.39., together with dimensional drawings. The numbers and/or symbols identifying the vehicle type shall be specified.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -1204,7 +1344,9 @@
   "title": null,
   "text": "A vehicle representative of the vehicle type to be approved shall be submitted to the Technical Service conducting the approval tests.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -1221,7 +1363,9 @@
   "title": "Approval",
   "text": "Approval",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -1238,7 +1382,9 @@
   "title": null,
   "text": "If the vehicle type submitted for approval pursuant to this Regulation meets the requirements of paragraph 5. below, approval of that vehicle shall be granted.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -1255,7 +1401,9 @@
   "title": null,
   "text": "An approval number shall be assigned to each type approved in accordance with Schedule 4 of the Agreement (E/ECE/TRANS/505/Rev.3). The section 2 of the approval number shall be supplemented with a slash and one of the following characters as applicable: (a) the letter \"T\" for vehicles approved using the specific provisions related to WAD 2,100 boundary in accordance with paragraph 11.19.; or (b) the letter \"E\" for vehicles approved with the extended WAD 2,500 boundary. Example: Example of the first extension to the 2439th type approval issued by the United Kingdom of Great Britain and Northern Ireland for a vehicle approval according to UN Regulation No. 127, third series of amendments and its supplement 1, using the specific provisions related to WAD 2,100 boundary; E11*127R03/01/T*2439*01. (c) the letter \"F\" for vehicles approved using the specific provisions related to BRRL in accordance with paragraphs 11.22. and 11.23. Example: Example of the first extension to the 2439th type approval issued by the United Kingdom of Great Britain and Northern Ireland for a vehicle approval according to UN Regulation No. 127, fourth series of amendments and its supplement 1, using the specific provisions related to BRRL boundary; E11*127R04/01/F*2439*01.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -1272,7 +1420,9 @@
   "title": null,
   "text": "Notice of approval or of refusal or withdrawal of approval pursuant to this Regulation shall be communicated to the Parties to the Agreement which apply this Regulation by means of a form conforming to the model in Annex 1, Part 2 and photographs and/or plans supplied by the applicant being in a format not exceeding A4 (210 x 297 mm), or folded to that format, and on an appropriate scale.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -1289,7 +1439,9 @@
   "title": null,
   "text": "There shall be affixed, conspicuously and in a readily accessible place specified on the approval form, to every vehicle conforming to a vehicle type approved under this Regulation, an international approval mark conforming to the model described in Annex 2, consisting of:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -1306,7 +1458,9 @@
   "title": null,
   "text": "A circle surrounding the letter \"E\" followed by the distinguishing number of the country which has granted approval;3 3The distinguishing numbers of the Contracting Parties to the 1958 Agreement are reproduced in Annex 3 to the Consolidated Resolution on the Construction of Vehicles (R.E.3), document ECE/TRANS/WP.29/78/Rev.8 - www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29resolutions.html",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -1323,7 +1477,9 @@
   "title": null,
   "text": "The number of this Regulation, followed by the letter \"R\", a dash and the approval number to the right of the circle prescribed in paragraph 4.4.1. above.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -1340,7 +1496,9 @@
   "title": null,
   "text": "The approval mark shall contain an additional character after the type approval number, the purpose of which is to distinguish vehicles for which the approval has been granted based upon the specific provisions related to WAD 2,100 boundary versus vehicles approved with the extended WAD 2,500 boundary. This letter should be chosen according to paragraph 4.2.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -1357,7 +1515,9 @@
   "title": null,
   "text": "If the vehicle conforms to a vehicle type approved under one or more other Regulations, annexed to the Agreement, in the country which has granted approval under this Regulation, the symbol prescribed in paragraph 4.4.1. needs not be repeated; in such a case, the Regulation and approval numbers and the additional symbols shall be placed in vertical columns to the right of the symbol prescribed in paragraph 4.4.1. above.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -1374,7 +1534,9 @@
   "title": null,
   "text": "The approval mark shall be clearly legible and be indelible.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -1391,7 +1553,9 @@
   "title": null,
   "text": "The approval mark shall be placed close to or on the vehicle data plate.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -1408,7 +1572,9 @@
   "title": null,
   "text": "Each Contracting Party applying this Regulation shall notify and inform by its Approval Authority other Approval Authorities of the Contracting Parties applying this UN Regulation about the test results of the cowl monitoring area and the windscreen. This information shall be shared (a) when granting an approval according to this Regulation for the first time and (b) with each extension when new tests in these areas have been performed. This information is intended to be shared for the purposes of collection and analysis of the cowl area and atypical windscreen fracture behaviour in order to be able to further develop future amendments of the Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -1425,7 +1591,9 @@
   "title": null,
   "text": "The information referred to in paragraph 4.8. shall be uploaded in English language to the secure internet database \"DETA\"8 , established by the United Nations Economic Commission for Europe. 8 https://www.unece.org/trans/main/wp29/datasharing.html",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -1442,7 +1610,9 @@
   "title": null,
   "text": "Each Approval Authority granting a type approval or extension thereto pursuant to this Regulation shall notify other Approval Authorities of the approval granted. The type approval together with the test results of the cowl monitoring area and the windscreen shall be uploaded in English language by the Approval Authority within 14 days after the day of granting the approval, to DETA.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -1459,7 +1629,9 @@
   "title": "Specifications",
   "text": "Specifications",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -1476,7 +1648,9 @@
   "title": null,
   "text": "Legform test to bumper: For vehicles with a lower bumper height at the test position of less than 425 mm the requirements of paragraph 5.1.1. shall be applied. For vehicles with a lower bumper height at the test position which is greater than, or equal to, 425 mm and less than 500 mm the requirements of either paragraph 5.1.1. or 5.1.2., at the choice of the manufacturer, shall be applied. For vehicles with a lower bumper height at the test position of greater than, or equal to, 500 mm the requirements of paragraph 5.1.2. shall be applied.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -1493,7 +1667,9 @@
   "title": null,
   "text": "Flexible lower legform to bumper: When tested in accordance with Annex 5, paragraph 1. (Flexible lower legform impactor), the absolute value of the maximum dynamic medial collateral ligament elongation at the knee shall not exceed 22 mm, and the maximum dynamic anterior cruciate ligament and posterior cruciate ligament elongation shall not exceed 13 mm. The absolute value of dynamic bending moments at the tibia shall not exceed 340 Nm. In addition, the manufacturer may nominate bumper test widths up to a maximum of 264 mm in total where the absolute value of the tibia bending moment shall not exceed 380 Nm. A Contracting Party may restrict application of the relaxation zone requirement in its domestic legislation if it decides that such restriction is appropriate. The flexible lower legform impactor shall be certified pursuant to Annex 6, paragraph 1.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -1510,7 +1686,9 @@
   "title": null,
   "text": "Upper legform to bumper When tested in accordance with Annex 5, paragraph 2. (upper legform to bumper), the instantaneous sum of the impact forces with respect to time shall not exceed 7.5 kN and the bending moment on the test impactor shall not exceed 510 Nm. The upper legform impactor shall be certified pursuant to Annex 6, paragraph 2.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -1527,7 +1705,9 @@
   "title": "Headform tests",
   "text": "Headform tests",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -1544,7 +1724,9 @@
   "title": null,
   "text": "Child and adult headform tests: When tested in accordance with Annex 5, paragraphs 3., 4., and 5., the HIC recorded shall not exceed 1,000 over two thirds of the combined bonnet top test area and the windscreen test area. Furthermore, the HIC recorded shall not exceed 1,000 over two-thirds of the bonnet top test area. The HIC for the remaining test areas shall not exceed 1,700 for both headforms. Measuring points located in the cowl monitoring area shall not be taken into consideration to assess the performance requirements stated in this paragraph. The respective test results are used for monitoring purposes only and do not contribute to the one-third and two-third area calculation. In case there is only a child headform test area, the HIC recorded shall not exceed 1,000 over two thirds of the test area. For the remaining area the HIC shall not exceed 1,700.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -1561,7 +1743,9 @@
   "title": null,
   "text": "Child headform impact When tested in accordance with Annex 5, paragraphs 3. and 4., the HIC recorded shall not exceed 1,000 over a minimum of one half of the child headform test area. The HIC for the remaining areas shall not exceed 1,700.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -1578,7 +1762,9 @@
   "title": null,
   "text": "The headform impactors shall be certified pursuant to Annex 6, paragraph 3. 5.3 _._ In the case of a vehicle fitted with an ARHSS, which could change the vehicle height at the front axle more than 20 mm from the nominal for any vehicle speed between 25 and 40 km/h, the provisions of paragraphs 5.1. and 5.2. shall, in addition to the normal running condition as specified by the manufacturer for a vehicle speed of 40 km/h, be met for all adjustable vehicle steady heights corresponding to vehicle speeds from 25 up to 40 km/h. For these tests, on request of the manufacturer and agreed by the technical service, either the impact speeds defined in paragraphs 5.1. and 5.2. or the impact speed corresponding to the adjusted vehicle height shall be used. In the latter case, the ratio of the head impact vs. the corresponding vehicle velocity shall be 0.9.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -1595,7 +1781,9 @@
   "title": null,
   "text": "The requirements of paragraph 5.3. are deemed to be fulfilled if the vehicle is equipped with an ARHSS fully corresponding to the conditions of paragraph 5.3.1.1. or 5.3.1.2.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -1612,7 +1800,9 @@
   "title": null,
   "text": "ARHSS cannot be activated on public roads and is activated for off-road use only. ARHSS will return automatically to the normal ride attitude, when the vehicle is operating on public roads. The default status of ARHSS on public roads is the normal ride height at the initiation of each new engine start/run cycle.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -1629,7 +1819,9 @@
   "title": null,
   "text": "ARHSS can be engaged for use in exceptional low speed use cases (e.g. flood/heavy snow) on public roads. In such cases, ARHSS shall automatically return to the normal ride height when the vehicle speed exceeds 25 km/h or when the system is manually disengaged by the driver or whilst an ADS feature is performing the DDT9 . If an ARHSS for use in exceptional low speed use cases is engaged, it is indicated to the driver at least by an optical warning signal. 9 As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3.), document ECE/TRANS/WP.29/78/Rev.8, para. 1.17 - https://unece.org/transport/vehicle-regulations/wp29/resolutions",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -1646,7 +1838,9 @@
   "title": null,
   "text": "The compliance with the conditions of paragraph 5.3.1.1. or 5.3.1.2. shall be demonstrated by the vehicle manufacturer to the satisfaction of the technical service by independent means (e.g. a physical test). The relevant information shall be described in the information document in Annex I. The exceptional low speed use case of paragraph 5.3.1.2 shall be additionally described in the owner’s handbook.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -1663,7 +1857,9 @@
   "title": null,
   "text": "The legform impactor to be used is the legform impactor as used for the legform to bumper test in normal running conditions for a speed of 40 km/h.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -1680,7 +1876,9 @@
   "title": null,
   "text": "With the agreement of the technical service, compliance shall be demonstrated by a limited number of legform tests or by numerical simulation according to the specification set out in paragraph 5.3, so that the biomechanical limits set out in paragraph 5.1.1. and paragraph 5.1.2. respectively are met.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -1697,7 +1895,9 @@
   "title": null,
   "text": "With the agreement of the technical service, compliance shall be demonstrated by a limited number of head impact tests or by numerical simulation showing compliance to the HIC 1,700 requirement on the additional head test area.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -1714,7 +1914,9 @@
   "title": "Modification of vehicle type and extension of approval",
   "text": "Modification of vehicle type and extension of approval",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -1731,7 +1933,9 @@
   "title": null,
   "text": "Every modification of the vehicle type as defined in paragraph 2.37. above shall be notified to the Type Approval Authority which approved the vehicle type. The Authority may then either:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -1748,7 +1952,9 @@
   "title": null,
   "text": "Consider that the modifications made do not have an adverse effect on the conditions of the granting of the approval and grant an extension of approval;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -1765,7 +1971,9 @@
   "title": null,
   "text": "Consider that the modifications made affect the conditions of the granting of the approval and require further tests or additional checks before granting an extension of approval.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -1782,7 +1990,9 @@
   "title": null,
   "text": "Confirmation or refusal of approval, specifying the alterations, shall be communicated by the procedure specified in paragraph 4.3. above to the Contracting Parties to the Agreement which apply this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -1799,7 +2009,9 @@
   "title": null,
   "text": "The Type Approval Authority shall inform the other Contracting Parties of the extension by means of the communication form conforming to the model of in Annex 1, Part 2 to this Regulation. It shall assign a serial number to each extension, to be known as the extension number.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -1816,7 +2028,9 @@
   "title": "Conformity of production",
   "text": "Conformity of production",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R127",
@@ -1833,7 +2047,9 @@
   "title": null,
   "text": "Procedures concerning conformity of production shall conform to the general provisions defined in the Agreement, Schedule 1 (E/ECE/TRANS/505/Rev.3), and meet the following requirements:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R127",
@@ -1850,7 +2066,9 @@
   "title": null,
   "text": "A vehicle approved pursuant to this Regulation shall be so manufactured as to conform to the type approved by meeting the requirements of paragraph 5. above;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R127",
@@ -1867,7 +2085,9 @@
   "title": null,
   "text": "The Type Approval Authority which has granted approval may at any time verify the conformity of control methods applicable to each production unit. The normal frequency of such inspections shall be once every two years.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R127",
@@ -1884,7 +2104,9 @@
   "title": "Penalties for non-conformity of production",
   "text": "Penalties for non-conformity of production",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -1901,7 +2123,9 @@
   "title": null,
   "text": "The approval granted in respect of a vehicle type pursuant to this Regulation may be withdrawn if the requirements laid down in paragraph 7. above are not complied with.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -1918,7 +2142,9 @@
   "title": null,
   "text": "If a Contracting Party withdraws an approval it had previously granted, it shall forthwith so notify the other Contracting Parties applying this Regulation by sending them a communication form conforming to the model set out in Part 2 of Annex 1 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -1935,7 +2161,9 @@
   "title": null,
   "text": "Production definitively discontinued If the holder of the approval completely ceases to manufacture a type of vehicle approved in accordance with this Regulation, he shall so inform the Type Approval Authority which granted the approval, which in turn shall forthwith inform the other Contracting Parties to the Agreement applying this Regulation by means of a communication form conforming to the model set out in Part 2 of Annex 1 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -1952,7 +2180,9 @@
   "title": null,
   "text": "Names and addresses of the Technical Services responsible for conducting approval tests and of the Type Approval Authorities The Contracting Parties to the Agreement applying this Regulation shall communicate to the United Nations Secretariat the names and addresses of the Technical Services responsible for conducting approval tests and of the Type Approval Authorities which grant approval and to which forms certifying approval or extension or refusal or withdrawal of approval are to be sent.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -1969,7 +2199,9 @@
   "title": null,
   "text": "Transitional provisions 11.1. _(deleted)_ 11.2. _(deleted)_ 11.3. _(deleted)_ 11.4. _(deleted)_ 11.5. _(deleted)_ 11.6. _(deleted)_ 11.7. _(deleted)_ 11.8. _(deleted)_ 11.9. _(deleted)_ 11.10 _(deleted)_ 11.11. _(deleted)_ 11.12. _(deleted)_ 11.13 _(deleted)_ 11.14 _(deleted)_ 11.15 _(deleted)_",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -1986,7 +2218,9 @@
   "title": null,
   "text": "As from the official date of entry into force of the 04 series of amendments, no Contracting Party applying this UN Regulation shall refuse to grant or refuse to accept type-approvals under this UN Regulation as amended by the 04 series of amendments.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2003,7 +2237,9 @@
   "title": null,
   "text": "As from 1 September 2026, Contracting Parties applying this UN Regulation shall not be obliged to accept type-approvals to the preceding series of amendments first issued after 1 September 2026.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2020,7 +2256,9 @@
   "title": null,
   "text": "Contracting Parties applying this UN Regulation shall continue to accept type approvals issued according to the preceding series of amendments to this UN Regulation first issued before 1 September 2026.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2037,7 +2275,9 @@
   "title": null,
   "text": "Contracting Parties applying this Regulation shall continue to grant type approvals using the test proceedings related to atypical windscreen fracture behaviour (see Annex 5 paragraphs 4.8. and 5.8.) until 1 September 2033 and specific provisions related to WAD 2,100 boundary (see paragraphs 2.1. and 2.45.) until 1 September 2028.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2054,7 +2294,9 @@
   "title": null,
   "text": "Until 1 September 2029, Contracting Parties applying this UN Regulation shall continue to accept type approvals issued using the specific provisions related to WAD 2,100 boundary (see paragraphs 2.1. and 2.45.).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2071,7 +2313,9 @@
   "title": null,
   "text": "As from 1 September 2029, Contracting Parties applying this UN Regulation shall not be obliged to accept type approvals issued for a vehicle with a WAD 2,100 boundary on the bonnet top (see paragraphs 2.1. and 2.45.).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2088,7 +2332,9 @@
   "title": null,
   "text": "Notwithstanding paragraph 11.19., until 1 September 2030, Contracting Parties applying this Regulation shall continue to grant type approvals using the specific provisions related to BRRL (see paragraph 2.1.).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2105,7 +2351,9 @@
   "title": null,
   "text": "Notwithstanding paragraphs 11.20. and 11.21., until 1 September 2031, Contracting Parties applying this UN Regulation shall continue to accept type approvals issued using the specific provisions related to BRRL (see paragraph 2.1.).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2122,7 +2370,9 @@
   "title": null,
   "text": "Contracting Parties applying this UN Regulation may grant type approvals according to any preceding series of amendments to this UN Regulation.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2139,7 +2389,9 @@
   "title": null,
   "text": "Contracting Parties applying this UN Regulation shall continue to grant extensions of existing approvals to any preceding series of amendments to this UN Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2156,7 +2408,9 @@
   "title": null,
   "text": "The following information, if applicable, shall be supplied in triplicate and include a list of contents. Any drawings shall be supplied in appropriate scale and in sufficient detail on size A4 or on a folder of A4 format. Photographs, if any, shall show sufficient details. If the systems, components or separate technical units have electronic controls, information concerning their performance shall be supplied.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Part 1 Model Information document No … relating to the type approval of a vehicle with regard to pedestrian protection",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2173,7 +2427,9 @@
   "title": "General",
   "text": "General",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 1 Model Information document No … relating to the type approval of a vehicle with regard to pedestrian protection",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2190,7 +2446,9 @@
   "title": null,
   "text": "Make (trade name of manufacturer):",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 1 Model Information document No … relating to the type approval of a vehicle with regard to pedestrian protection",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2207,7 +2465,9 @@
   "title": null,
   "text": "Type:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 1 Model Information document No … relating to the type approval of a vehicle with regard to pedestrian protection",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2224,7 +2484,9 @@
   "title": null,
   "text": "Commercial name(s) (if available):",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 1 Model Information document No … relating to the type approval of a vehicle with regard to pedestrian protection",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2241,7 +2503,9 @@
   "title": null,
   "text": "Means of identification of type, if marked on the vehicle:1,2 1Delete where not applicable (there are cases where nothing needs to be deleted when more than one entry is applicable). > 2If means of identification of type contains characters not relevant to describe the vehicle type covered by this information document, such characters shall be represented in the documentation by the symbol \"?\" (e.g. ABC??123??).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Part 1 Model Information document No … relating to the type approval of a vehicle with regard to pedestrian protection",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2258,7 +2522,9 @@
   "title": null,
   "text": "Location of that marking:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 1 Model Information document No … relating to the type approval of a vehicle with regard to pedestrian protection",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2275,7 +2541,9 @@
   "title": null,
   "text": "Category of vehicle:3 3As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3.), document ECE/TRANS/WP.29/78/Rev.6, para. 2. - www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29resolutions.html",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 1 Model Information document No … relating to the type approval of a vehicle with regard to pedestrian protection",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2292,7 +2560,9 @@
   "title": null,
   "text": "Name and address of manufacturer:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 1 Model Information document No … relating to the type approval of a vehicle with regard to pedestrian protection",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2309,7 +2579,9 @@
   "title": null,
   "text": "Name(s) and address(es) of assembly plant(s):",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 1 Model Information document No … relating to the type approval of a vehicle with regard to pedestrian protection",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2326,7 +2598,9 @@
   "title": null,
   "text": "Name and address of the manufacturer’s representative (if any):",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 1 Model Information document No … relating to the type approval of a vehicle with regard to pedestrian protection",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2343,7 +2617,9 @@
   "title": "General construction characteristics of the vehicle",
   "text": "General construction characteristics of the vehicle",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 1 Model Information document No … relating to the type approval of a vehicle with regard to pedestrian protection",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2360,7 +2636,9 @@
   "title": null,
   "text": "Photographs and/or drawings of a representative vehicle:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 1 Model Information document No … relating to the type approval of a vehicle with regard to pedestrian protection",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2377,7 +2655,9 @@
   "title": null,
   "text": "Position and arrangement of the engine: 9. Bodywork 9.1. Type of bodywork: 9.2. Materials used and methods of construction: 9.23. Pedestrian protection 9.23.1. A detailed description, including photographs and/or drawings, of the vehicle with respect to the structure, the dimensions, the relevant reference lines and the constituent materials of the frontal part of the vehicle (interior and exterior) shall be provided. This description shall include detail of any active protection system installed and any system, which could change the vehicle height at the front axle while driving (e.g. ARHSS).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Part 1 Model Information document No … relating to the type approval of a vehicle with regard to pedestrian protection",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2394,7 +2674,9 @@
   "title": null,
   "text": "(Maximum format: A4 (210 x 297 mm) issued by: Name of administration: ...................................... ...................................... ...................................... Concerning:2 Approval granted Approval extended Approval refused Approval withdrawn Production definitively discontinued of a type of vehicle with regard to the pedestrian safety performance pursuant to UN Regulation No. 127 Approval No.: ............................................ Extension No.: .......................................... 1Distinguishing number of the country which has granted/extended/refused/withdrawn an approval (see approval provisions in the Regulation). 2Delete what does not apply.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 2 Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2411,7 +2693,9 @@
   "title": null,
   "text": "Trademark: ................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 2 Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2428,7 +2712,9 @@
   "title": null,
   "text": "Type and trade names:.........................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 2 Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2445,7 +2731,9 @@
   "title": null,
   "text": "Name and address of manufacturer:................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 2 Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2462,7 +2750,9 @@
   "title": null,
   "text": "If applicable, name and address of manufacturer’s representative:.............",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 2 Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2479,7 +2769,9 @@
   "title": null,
   "text": "Brief description of vehicle:.....................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 2 Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2496,7 +2788,9 @@
   "title": null,
   "text": "Date of submission of vehicle for approval:...........................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 2 Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2513,7 +2807,9 @@
   "title": null,
   "text": "Technical Service performing the approval tests: .......................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 2 Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2530,7 +2826,9 @@
   "title": null,
   "text": "Date of report issued by that Service: ...............................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 2 Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2547,7 +2845,9 @@
   "title": null,
   "text": "Number of report issued by that Service:.............................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 2 Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2564,7 +2864,9 @@
   "title": null,
   "text": "Approval with regard to the pedestrian safety performance is granted/refused:2 2 Delete what does not apply.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 2 Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2581,7 +2883,9 @@
   "title": null,
   "text": "Place:....................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 2 Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2598,7 +2902,9 @@
   "title": null,
   "text": "Date:....................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 2 Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2615,7 +2921,9 @@
   "title": null,
   "text": "Signature: .................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 2 Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2632,7 +2940,9 @@
   "title": null,
   "text": "Annexed to this communication are the following documents, bearing the approval number indicated above: Dimensional drawings....................................................... Exploded view or photograph of the vehicle.........................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 2 Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2649,7 +2959,9 @@
   "title": null,
   "text": "Any remarks:...............................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 2 Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2666,7 +2978,9 @@
   "title": "Monitoring results",
   "text": "Monitoring results",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 2 Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2683,7 +2997,9 @@
   "title": null,
   "text": "Cowl Monitoring area:\n|point|WAD|Y-coordinate^3|Impact speed|HIC value|\n|---|---|---|---|---|\n|1.|||||\n|2.|||||\n|…|||||\nWAD 2,100 boundary in accordance with paragraphs 11.19. to 11.23.: applicable / not applicable. 3 Coordinate system as defined by Annex B of Addendum 6 of Mutual Resolution No. 1 (M.R.1) (document ECE/TRANS/WP.29/1101/Amend.5); see https://unece.org/transport/vehicle-regulations/wp29/resolutions",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 2 Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2700,7 +3016,9 @@
   "title": null,
   "text": "Area incorporating pedestrian or bicyclist head injury mitigation features, e.g. external airbag, deployable structure, energy absorption elements (if applicable)\n|A-pillar|WAD|Y-coordinate|Impact speed|HIC value|\n|---|---|---|---|---|\n|1.|||||\n|2.|||||\n|A-pillar|WAD|Y-coordinate|Impact speed|HIC value|\n|---|---|---|---|---|\n|…|||||\n|Windscreen header|||||\n|(3.)|||||\n|(4.)|||||\n|…|||||\n|Cowl|||||\n|(5.)|||||\n|(6.) …|||||",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 2 Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2717,7 +3035,9 @@
   "title": null,
   "text": "Manufacturer-requested impact points on innovative solutions (if applicable)\n|A-pillar|WAD|Y-coordinate|Impact speed|HIC value|\n|---|---|---|---|---|\n|1.|||||\n|2.|||||\n|…|||||\n|Windscreen header|||||\n|(3.)|||||\n|(4.)|||||\n|…|||||\n|Cowl|||||\n|(5.)|||||\n|(6.) …|||||",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Part 2 Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2734,7 +3054,9 @@
   "title": null,
   "text": "(See paragraphs 4.4. to 4.4.3. of this Regulation) a = 8 mm min The above approval mark affixed to a vehicle shows that the vehicle type concerned has been approved in Belgium (E 6) with regard to its pedestrian safety performance pursuant to UN Regulation No. 127. The first two digits of the approval number indicate that the approval was granted in accordance with the requirements of UN Regulation No. 127 as amended by the 04 series of amendments; the letter \"T\" indicates the approval was granted using the specific provisions on WAD 2,100 boundary in accordance with paragraph 11.19.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Arrangements of approval marks",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R127",
@@ -2751,7 +3073,9 @@
   "title": "Temperature and humidity",
   "text": "Temperature and humidity",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "General test conditions",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -2768,7 +3092,9 @@
   "title": null,
   "text": "At the time of testing, the test facility and the vehicle or sub-system shall have a relative humidity of 40 per cent ± 30 per cent and stabilized temperature of 20 ºC **±** 4 ºC.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "General test conditions",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -2785,7 +3111,9 @@
   "title": "Impact test site",
   "text": "Impact test site",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "General test conditions",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -2802,7 +3130,9 @@
   "title": null,
   "text": "The test site shall consist of a flat, smooth and hard surface with a slope not exceeding 1 per cent.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "General test conditions",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -2819,7 +3149,9 @@
   "title": "Preparation of the vehicle",
   "text": "Preparation of the vehicle",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "General test conditions",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -2836,7 +3168,9 @@
   "title": null,
   "text": "Either a complete vehicle, or a cut-body, adjusted to the following conditions shall be used for the test.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "General test conditions",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -2853,7 +3187,9 @@
   "title": null,
   "text": "The vehicle shall be in its normal ride attitude, and shall be either securely mounted on raised supports or at rest on a flat horizontal surface with the parking brake applied.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "General test conditions",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -2870,7 +3206,9 @@
   "title": null,
   "text": "The cut-body shall include, in the test, all parts of the vehicle front structure, all under-bonnet components and all components behind the windscreen that may be involved in a frontal impact with a vulnerable road user, to demonstrate the performance and interactions of all the contributory vehicle components. The cut-body shall be securely mounted in the normal vehicle ride attitude.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "General test conditions",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -2887,7 +3225,9 @@
   "title": null,
   "text": "All devices designed to protect vulnerable road users when impacted by the vehicle shall be correctly activated before and/or be active during the relevant test. It shall be the responsibility of the manufacturer to show that any devices will act as intended in a pedestrian impact.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "General test conditions",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -2904,7 +3244,9 @@
   "title": null,
   "text": "For vehicle components which could change shape or position, other than active devices to protect pedestrians, and which have more than one fixed shape or position shall require the vehicle to comply with the components in each fixed shape or position.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "General test conditions",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -2921,7 +3263,9 @@
   "title": "Flexible lower legform impactor",
   "text": "Flexible lower legform impactor",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -2938,7 +3282,9 @@
   "title": null,
   "text": "The flexible lower legform impactor shall consist of flesh and skin, flexible long bone segments (representing femur and tibia), and a knee joint as shown in Figure 1. The assembled impactor shall have a total mass of 13.2 kg ± 0.4 kg. The dimensions of the fully assembled impactor shall be as defined in Figure 1. Brackets, pulleys, protectors, connection parts, etc. attached to the impactor for the purposes of launching and/or protection may extend beyond the dimensions and tolerances shown in Figure 1 and Figures 2(a) and (b).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -2955,7 +3301,9 @@
   "title": null,
   "text": "The cross-sectional shape of the femur main body segments, the tibia main body segments and their impact faces shall be as defined in Figure 2(a).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -2972,7 +3320,9 @@
   "title": null,
   "text": "The cross-sectional shape of the knee joint and its impact face shall be as defined in Figure 2(b).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -2989,7 +3339,9 @@
   "title": null,
   "text": "The masses of the femur and the tibia without the flesh and skin, including the connection parts to the knee joint, shall be 2.46 kg ± 0.12 kg and 2.64 kg ± 0.13 kg respectively. The mass of the knee joint without the flesh and skin shall be 4.28 kg ± 0.21 kg. The assembled mass of the femur, the knee joint and the tibia without the flesh and skin shall be 9.38 kg ± 0.3 kg. The centres of gravity of the femur and tibia without the flesh and skin, including the connection parts to the knee joint, shall be as defined in Figure 1. The centre of gravity of the knee joint shall be as defined in Figure 1. The moment of inertia of the femur and the tibia without the flesh and skin, including the connection parts inserted to the knee joint, about the X-axis through the respective centre of gravity shall be 0.0339 kgm² ± 0.0016 kgm² and 0.0486 kgm² ± 0.0023 kgm² respectively. The moment of inertia of the knee joint about the X-axis through the respective centre of gravity shall be 0.0180 kgm² ± 0.0009 kgm².",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3006,7 +3358,9 @@
   "title": "Lower legform instrumentation",
   "text": "Lower legform instrumentation",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3023,7 +3377,9 @@
   "title": null,
   "text": "Four transducers shall be installed in the tibia to measure bending moments at the locations within the tibia. Three transducers shall be installed in the femur to measure bending moments applied to the femur. The sensing locations of each of the transducers are as defined in Figure 2. The measurement axis of each transducer shall be the X-axis of the impactor.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3040,7 +3396,9 @@
   "title": null,
   "text": "Three transducers shall be installed in the knee joint to measure elongations of the Medial Collateral Ligament (MCL), Anterior Cruciate Ligament (ACL), and Posterior Cruciate Ligament (PCL). The measurement locations of each transducer are shown in Figure 3. The measurement locations shall be within ±4 mm along the X-axis from the knee joint centre.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3057,7 +3415,9 @@
   "title": null,
   "text": "The instrumentation response value Channel Frequency Class (CFC), as defined in ISO 6487:2002, shall be 180 for all transducers. The Channel Amplitude Class (CAC) response values, as defined in ISO 6487:2002, shall be 30 mm for the knee ligament elongations and 400 Nm for the tibia and femur bending moments. This does not require that the impactor itself be able to physically elongate or bend until these values.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3074,7 +3434,9 @@
   "title": null,
   "text": "The determination of all flexible lower legform impactor peak tibia bending moments and ligament elongations shall be limited to the assessment interval (AI) as defined in paragraph 2.2. of this Regulation. Figure 1 **Flexible lower legform impactor Dimensions and centre of gravitiy locations of femur, knee joint and tibia** (Side view) Figure 2 **Flexible lower legform impactor schematic plan views of femur, tibia, and knee dimensions** (top view) Figure 3 **Flexible lower legform impactor instrument locations**",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3091,7 +3453,9 @@
   "title": "Upper legform impactor",
   "text": "Upper legform impactor",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3108,7 +3472,9 @@
   "title": null,
   "text": "The upper legform impactor shall be rigid, foam covered at the impact side, and 350 mm ± 5 mm long (see Figure 4).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3125,7 +3491,9 @@
   "title": null,
   "text": "The total mass of the upper legform impactor including those propulsion and guidance components which are effectively part of the impactor during the impact shall be 9.5 kg ± 0.1 kg.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3142,7 +3510,9 @@
   "title": null,
   "text": "The total mass of the front member and other components in front of the load transducer assemblies, together with those parts of the load transducer assemblies in front of the active elements, but excluding the foam and skin, shall be 1.95 kg ± 0.05 kg.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3159,7 +3529,9 @@
   "title": null,
   "text": "The upper legform impactor for the bumper test shall be mounted to the propulsion system by a torque limiting joint and be insensitive to off-axis loading. The impactor shall move only in the specified direction of impact when in contact with the vehicle and shall be prevented from motion in other directions including rotation about any axis.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3176,7 +3548,9 @@
   "title": null,
   "text": "The torque limiting joint shall be set so that the longitudinal axis of the front member is vertical at the time of impact with a tolerance of ±2°, with the joint friction torque set to a minimum of 650 Nm but no more than 850 Nm.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3193,7 +3567,9 @@
   "title": null,
   "text": "The centre of gravity of those parts of the impactor which are effectively forward of the torque limiting joint, including any weights fitted, shall lie on the longitudinal centre line of the impactor, with a tolerance of ±10 mm.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3210,7 +3586,9 @@
   "title": null,
   "text": "The length between the load transducer centre lines shall be 310 mm ± 1 mm and the front member diameter shall be 50 mm ± 1 mm.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3227,7 +3605,9 @@
   "title": "Upper legform instrumentation",
   "text": "Upper legform instrumentation",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3244,7 +3624,9 @@
   "title": null,
   "text": "The front member shall be strain gauged to measure bending moments in three positions, as shown in Figure 4, each using a separate channel. The strain gauges are located on the impactor on the back of the front member. The two outer strain gauges are located 50 mm ± 1 mm from the impactor's symmetrical axis. The middle strain gauge is located on the symmetrical axis with a ±1 mm tolerance.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3261,7 +3643,9 @@
   "title": null,
   "text": "Two load transducers shall be fitted to measure individually the forces applied at either end of the upper legform impactor, plus strain gauges measuring bending moments at the centre of the upper legform impactor and at positions 50 mm either side of the centre line (see Figure 4).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3278,7 +3662,9 @@
   "title": null,
   "text": "The instrumentation response value CFC, as defined in ISO 6487:2002, shall be 180 for all transducers. The CAC response values, as defined in ISO 6487:2002, shall be 10 kN for the force transducers and 1,000 Nm for the bending moment measurements. Figure 4 **Upper legform impactor**",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3295,7 +3681,9 @@
   "title": "Child and adult headform impactors",
   "text": "Child and adult headform impactors",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3312,7 +3700,9 @@
   "title": "Child headform impactor (see Figure 5)",
   "text": "Child headform impactor (see Figure 5)",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3329,7 +3719,9 @@
   "title": null,
   "text": "The child headform impactor shall be made of aluminium, be of homogenous construction and be of spherical shape. The overall diameter shall be 165 mm ± 1 mm. The mass shall be 3.5 kg ± 0.07 kg. The moment of inertia about an axis through the centre of gravity and perpendicular to the direction of impact shall be within the range of 0.008 to 0.012 kgm2 . The centre of gravity of the headform impactor including instrumentation shall be located in the geometric centre of the sphere with a tolerance of ±2 mm. The sphere shall be covered with a 14 mm ± 0.5 mm thick synthetic skin, which shall cover at least half of the sphere.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3346,7 +3738,9 @@
   "title": null,
   "text": "The first natural frequency of the child headform impactor shall be over 5,000 Hz.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3363,7 +3757,9 @@
   "title": "Child headform instrumentation",
   "text": "Child headform instrumentation",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3380,7 +3776,9 @@
   "title": null,
   "text": "A recess in the sphere shall allow for mounting one triaxial or three uniaxial accelerometers within ±10 mm seismic mass location tolerance from the centre of the sphere for the measurement axis, and ±1 mm seismic mass location tolerance from the centre of the sphere for the perpendicular direction to the measurement axis.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3397,7 +3795,9 @@
   "title": null,
   "text": "If three uniaxial accelerometers are used, one of the accelerometers shall have its sensitive axis perpendicular to the mounting face A (see Figure 5) and its seismic mass shall be positioned within a cylindrical tolerance field of 1 mm radius and 20 mm length. The centre line of the tolerance field shall run perpendicular to the mounting face and its mid-point shall coincide with the centre of the sphere of the headform impactor.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3414,7 +3814,9 @@
   "title": null,
   "text": "The remaining accelerometers shall have their sensitive axes perpendicular to each other and parallel to the mounting face A and their seismic mass shall be positioned within a spherical tolerance field of 10 mm radius. The centre of the tolerance field shall coincide with the centre of the sphere of the headform impactor.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3431,7 +3833,9 @@
   "title": null,
   "text": "The instrumentation response value CFC, as defined in ISO 6487:2002, shall be 1,000. The CAC response value, as defined in ISO 6487:2002, shall be 500 g for the acceleration. Figure 5 **Child headform impactor**",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3448,7 +3852,9 @@
   "title": "Adult headform impactor (see Figure 6)",
   "text": "Adult headform impactor (see Figure 6)",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3465,7 +3871,9 @@
   "title": null,
   "text": "The adult headform impactor shall be made of aluminium, be of homogenous construction and be of spherical shape. The overall diameter is 165 mm ± 1 mm as shown in Figure 6. The mass shall be 4.5 kg ± 0.1 kg. The moment of inertia about an axis through the centre of gravity and perpendicular to the direction of impact shall be within the range of 0.010 to 0.013 kgm2 . The centre of gravity of the headform impactor including instrumentation shall be located in the geometric centre of the sphere with a tolerance of ±5 mm. The sphere shall be covered with a 14 mm ± 0.5 mm thick synthetic skin, which shall cover at least half of the sphere.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3482,7 +3890,9 @@
   "title": null,
   "text": "The first natural frequency of the headform impactor shall be over 5,000 Hz. Figure 6 **Adult headform impactor**",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3499,7 +3909,9 @@
   "title": "Adult headform instrumentation",
   "text": "Adult headform instrumentation",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3516,7 +3928,9 @@
   "title": null,
   "text": "A recess in the sphere shall allow for mounting one triaxial or three uniaxial accelerometers within ±10 mm seismic mass location tolerance from the centre of the sphere for the measurement axis, and ±1 mm seismic mass location tolerance from the centre of the sphere for the perpendicular direction to the measurement axis.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3533,7 +3947,9 @@
   "title": null,
   "text": "If three uniaxial accelerometers are used, one of the accelerometers shall have its sensitive axis perpendicular to the mounting face A (see Figure 6) and its seismic mass shall be positioned within a cylindrical tolerance field of 1 mm radius and 20 mm length. The centre line of the tolerance field shall run perpendicular to the mounting face and its mid-point shall coincide with the centre of the sphere of the headform impactor.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3550,7 +3966,9 @@
   "title": null,
   "text": "The remaining accelerometers shall have their sensitive axes perpendicular to each other and parallel to the mounting face A and their seismic mass shall be positioned within a spherical tolerance field of 10 mm radius. The centre of the tolerance field shall coincide with the centre of the sphere of the headform impactor.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3567,7 +3985,9 @@
   "title": null,
   "text": "The instrumentation response value CFC, as defined in ISO 6487:2002, shall be 1,000. The CAC response value, as defined in ISO 6487:2002, shall be 500 g for the acceleration.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3584,7 +4004,9 @@
   "title": null,
   "text": "Rear face of the child and adult headform impactors A rear flat face shall be provided on the outer surface of the headform impactors which is perpendicular to the direction of travel, and typically perpendicular to the axis of one of the accelerometers as well as being a flat plate capable of providing for access to the accelerometers and an attachment point for the propulsion system.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test impactor specifications",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3601,7 +4023,9 @@
   "title": "Flexible lower legform impactor",
   "text": "Flexible lower legform impactor",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3618,7 +4042,9 @@
   "title": null,
   "text": "For each test the impactor (femur, knee joint and tibia) shall be covered by flesh and skin composed of synthetic rubber sheets (R1, R2) and neoprene sheets (N1F, N2F, N1T, N2T, N3) as shown in Figure 1. The size of the sheets shall be within the requirements described in Figure 1. The sheets are required to have compression characteristics as shown in Figure 2. The compression characteristics shall be checked using material from the same batch as the sheets used for the impactor flesh and skin.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3635,7 +4061,9 @@
   "title": null,
   "text": "All impactor components shall be stored for a sufficient period of time in a controlled storage area with a stabilized temperature of 20 °C ± 4 °C prior to impactor removal for testing. After removal from the storage the impactor shall not be subjected to conditions other than those pertaining in the test area as defined in Annex 3, paragraph 1.1.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3652,7 +4080,9 @@
   "title": null,
   "text": "Each test shall be completed within two hours of when the impactor to be used is removed from the controlled storage area.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3669,7 +4099,9 @@
   "title": null,
   "text": "The selected measuring points shall be in the bumper test area as defined in paragraph 2.14. of this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3686,7 +4118,9 @@
   "title": null,
   "text": "A minimum of three lower legform to bumper tests shall be carried out, one each to the middle and the outer thirds of the bumper test area at positions judged to be the most likely to cause injury. Tests shall be to different types of structure, where they vary throughout the area to be assessed. The selected test points shall be a minimum of 84 mm apart as measured horizontally and perpendicular to the longitudinal median plane of the vehicle. The positions tested by the laboratories shall be indicated in the test report.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3703,7 +4137,9 @@
   "title": null,
   "text": "The direction of the impact velocity vector shall be in the horizontal plane and parallel to the longitudinal vertical plane of the vehicle. The tolerance for the direction of the velocity vector in the horizontal plane and in the longitudinal plane shall be ±2° at the time of first contact. The axis of the impactor shall be perpendicular to the horizontal plane with a roll and pitch angle tolerance of ±2° in the lateral and longitudinal plane. The horizontal, longitudinal and lateral planes are orthogonal to each other (see Figure 3).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3720,7 +4156,9 @@
   "title": null,
   "text": "The bottom of the impactor (without parts needed for the purposes of launching and/or protection) shall be at 75 mm above ground reference plane at the time of first contact with the bumper (see Figure 4), with a ±10 mm tolerance. When setting the height of the propulsion system, an allowance shall be made for the influence of gravity during the period of free flight of the impactor.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3737,7 +4175,9 @@
   "title": null,
   "text": "The lower legform impactor for the bumper tests shall be in \"free flight\" at the moment of impact. The impactor shall be released to free flight at such a distance from the vehicle that the test results are not influenced by contact of the impactor with the propulsion system during rebound of the impactor. The impactor may be propelled by any means that can be shown to meet the requirements of the test.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3754,7 +4194,9 @@
   "title": null,
   "text": "At the time of first contact the impactor shall have the intended orientation about its vertical axis, for the correct operation of its knee joint, with a yaw angle tolerance of ±5° (see Figure 3).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3771,7 +4213,9 @@
   "title": null,
   "text": "For the lower legform testing, a horizontal and vertical impact tolerance of ±10 mm shall apply. The test laboratory may verify at a sufficient number of measuring points that this condition can be met and the tests are thus being conducted with the necessary accuracy.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3788,7 +4232,9 @@
   "title": null,
   "text": "During contact between the impactor and the vehicle, the impactor shall not contact the ground or any object which is not part of the vehicle.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3805,7 +4251,9 @@
   "title": null,
   "text": "The impact velocity of the impactor when striking the bumper shall be 11.1 m/s ± 0.2 m/s. The effect of gravity shall be taken into account when the impact velocity is obtained from measurements taken before the time of first contact.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3822,7 +4270,9 @@
   "title": null,
   "text": "The tibia bending moments shall not exceed +/- 15 Nm within an evaluation interval of 30 ms immediately prior to impact.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3839,7 +4289,9 @@
   "title": null,
   "text": "The offset compensation shall be done with the flexible lower legform impactor in resting position prior to the test/acceleration phase. Figure 1 **Flexible lower legform impactor: Flesh and skin dimensions** Figure 2 **Flexible lower legform impactor: Flesh and skin compression characteristics** (a) Synthetic rubber sheets (b) Neoprene sheets Figure 3 **Tolerances of angles for the flexible lower legform impactor at the time of the first impact** Figure 4 Flexible Lower legform impactor to bumper tests for complete vehicle in normal ride attitude (left) and for cut-body mounted on supports (right)",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3856,7 +4308,9 @@
   "title": "Upper legform to bumper",
   "text": "Upper legform to bumper",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3873,7 +4327,9 @@
   "title": null,
   "text": "For each test the foam flesh shall be two new sheets of 25 mm thick foam type CF-45 or equivalent, which shall be cut from the sheet of material used for the dynamic certification test. The skin shall be a 1.5 mm thick fibre reinforced rubber sheet. The mass of the foam and the rubber skin together shall be 0.6 kg ± 0.1 kg (this excludes any reinforcement, mountings, etc. which are used to attach the rear edges of the rubber skin to the rear member). The foam and rubber skin shall be folded back towards the rear, with the rubber skin attached via spacers to the rear member so that the sides of the rubber skin are held parallel. The foam shall be of such a size and shape that an adequate gap is maintained between the foam and components behind the front member, to avoid significant load paths between the foam and these components.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3890,7 +4346,9 @@
   "title": null,
   "text": "The test impactor or at least the foam flesh shall be stored during a period of at least four hours in a controlled storage area with a stabilized humidity of 35 per cent ± 15 per cent and a stabilized temperature of 20 °C ± 4 °C prior to impactor removal for test. After removal from the storage the impactor shall not be subjected to conditions other than those pertaining in the test area.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3907,7 +4365,9 @@
   "title": null,
   "text": "Each test shall be completed within two hours of when the impactor to be used is removed from the controlled storage area.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3924,7 +4384,9 @@
   "title": null,
   "text": "The selected measuring points shall be in the bumper test area as defined in paragraph 2.14. of this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3941,7 +4403,9 @@
   "title": null,
   "text": "A minimum of three upper legform to bumper tests shall be carried out, one each to the middle and the outer thirds of the bumper test area at positions judged to be the most likely to cause injury. Tests shall be to different types of structure, where they vary throughout the area to be assessed. The selected measuring points shall be a minimum of 84 mm apart as measured horizontally and perpendicular to the longitudinal median plane of the vehicle. The positions tested by the laboratories shall be indicated in the test report.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3958,7 +4422,9 @@
   "title": null,
   "text": "The direction of impact shall be parallel to the longitudinal axis of the vehicle, with the axis of the upper legform vertical at the time of first contact. The tolerance to this direction is ±2°. At the time of first contact the impactor centre line shall be vertically midway between the upper bumper reference line and the lower bumper reference line with a ±10 mm tolerance and the impactor vertical centre line shall be positioned laterally with the selected impact location with a tolerance of ±10 mm. The test laboratory may verify at a sufficient number of measuring points that this condition can be met and the tests are thus being conducted with the necessary accuracy.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3975,7 +4441,9 @@
   "title": null,
   "text": "The impact velocity of the upper legform impactor when striking the bumper shall be 11.1 m/s ± 0.2 m/s.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -3992,7 +4460,9 @@
   "title": "Child and adult headform test procedures - Common test specifications",
   "text": "Child and adult headform test procedures - Common test specifications",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4009,7 +4479,9 @@
   "title": "Propulsion of the headform impactors",
   "text": "Propulsion of the headform impactors",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4026,7 +4498,9 @@
   "title": null,
   "text": "The headform impactors shall be in \"free flight\" at the moment of impact, at the required impact velocity (as specified in paragraphs 4.6. and 5.6. below) and the required direction of impact (as specified in paragraphs 4.7. and 5.7. below).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4043,7 +4517,9 @@
   "title": null,
   "text": "The impactors shall be released to \"free flight\" at such a distance from the vehicle that the test results are not influenced by contact of the impactor with the propulsion system during rebound of the impactor.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4060,7 +4536,9 @@
   "title": "Measurement of impact velocity",
   "text": "Measurement of impact velocity",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4077,7 +4555,9 @@
   "title": null,
   "text": "The velocity of the headform impactor shall be measured at some point during the free flight before impact, in accordance with the method specified in ISO 3784:1976. The measured velocity shall be adjusted considering all factors which may affect the impactor between the point of measurement and the point of impact, in order to determine the velocity of the impactor at the time of impact. The angle of the velocity vector at the time of impact shall be calculated or measured.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4094,7 +4574,9 @@
   "title": "Recording",
   "text": "Recording",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4111,7 +4593,9 @@
   "title": null,
   "text": "The acceleration time histories shall be recorded, and HIC shall be calculated. The measuring point on the front structure of the vehicle shall be recorded. Recording of test results shall be in accordance with ISO 6487:2002.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4128,7 +4612,9 @@
   "title": "Splitting of headform test zones",
   "text": "Splitting of headform test zones",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4145,7 +4631,9 @@
   "title": null,
   "text": "The manufacturer shall identify the zones of the bonnet top test area and of the windscreen test area where the HIC shall not exceed 1,000 (HIC1000 zone) or 1,700 (HIC1700 zone) (see Figure 5). Figure 5 Example of marking of HIC1000 zone and HIC1700 zone",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4162,7 +4650,9 @@
   "title": null,
   "text": "Marking of the \"bonnet top\" test area, marking of the windscreen test area as well as \"HIC1000 zone\" and \"HIC1700 zone\" will be based on a drawing supplied by the manufacturer, when viewed from a horizontal plane above the vehicle that is parallel to the vehicle horizontal zero plane. A sufficient number of x and y co-ordinates shall be supplied by the manufacturer to mark up the areas on the actual vehicle while considering the vehicle outer contour in the z direction. The cowl monitoring area is not considered for the marking of the \"HIC1000 zone\" and \"HIC1700 zone\".",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4179,7 +4669,9 @@
   "title": null,
   "text": "The areas of \"HIC1000 zone\" and \"HIC1700 zone\" may consist of several parts, with the number of these parts not being limited. The determination of the impacted zone is done by the measuring point.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4196,7 +4688,9 @@
   "title": null,
   "text": "The calculation of the surface of the bonnet top test area and the calculation of the surface of the windscreen test area as well as the surface areas of \"HIC1000 zone\" and \"HIC1700 zone\" shall be done on the basis of a projected bonnet and windscreen when viewed from a horizontal plane parallel to the horizontal zero plane above the vehicle, on the basis of the drawing data supplied by the manufacturer.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4213,7 +4707,9 @@
   "title": null,
   "text": "Measuring points - Particular specifications Notwithstanding the provisions of paragraphs 4.2. and 5.2. below, if a number of measuring points have been selected in order of potential to cause injury and the test area remaining is too small to select another measuring point while maintaining the minimum spacing between points, then less than nine tests for each impactor may be performed. The positions tested by the laboratories shall be indicated in the test report. However, the technical services conducting the tests shall perform as many tests as necessary to guarantee the compliance of the vehicle with the head injury criteria (HIC) limit values of 1,000 for the HIC1000 zone and 1,700 for the HIC1700 zone, especially in the points near to the borders between the two types of zones.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4230,7 +4726,9 @@
   "title": "Child headform - Specific test procedure",
   "text": "Child headform - Specific test procedure",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4247,7 +4745,9 @@
   "title": null,
   "text": "Tests shall be made to the front structure within the boundaries as defined in paragraph 2.16. of this Regulation. Test shall also be made to the windscreen within the boundaries as defined in paragraph 2.44. For all tests to the windscreen, resultant acceleration versus time and jerk (derivation of the resultant acceleration) versus time histories must be provided and evaluated against the atypical fracture criteria according to paragraph 2.48. (see Figure 6) and reported for monitoring purpose according to paragraphs 4.8. to 4.10. For tests on the rear area of the bonnet top, the headform impactor shall not contact the windscreen or A-pillar before impacting the bonnet top. For tests on the windscreen, the headform impactor shall not directly contact the A-pillars, windscreen header and cowl, except in the case of monitoring testing. Figure 6 **Evaluation of resultant acceleration and jerk for tests to the windscreen.** Note: Both alternatives, 1 graph for each criterion or 1 graph for both criteria, are accepted.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4264,7 +4764,9 @@
   "title": null,
   "text": "A minimum of nine tests shall be carried out with the child headform impactor over the areas prescribed by the child bonnet top test area and the child windscreen test area together, with three tests each to the middle and the outer thirds of the child/small adult test areas, at positions judged to be the most likely to cause injury. Where possible, at least one of these nine tests shall be carried out on the windscreen test area. Furthermore, and at the discretion of the technical service, one of these nine tests may be conducted in the cowl monitoring area. For each test on the windscreen an undamaged and untested windscreen shall be used. Tests shall be to different types of structure, where these vary throughout the area to be assessed and at positions judged to be the most likely to cause injury. Taking into account any symmetry of the windscreen and relevant structures, the number of tests on the windscreen test area may be reduced at the discretion of the Technical Service.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4281,7 +4783,9 @@
   "title": null,
   "text": "The selected measuring points for the child/small adult headform impactor shall be a minimum of 165 mm apart and within the child headform test areas as defined in paragraphs 2.16. and 2.44. of this UN Regulation. These minimum distances are to be set with a flexible tape held tautly along the outer surface of the vehicle.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4298,7 +4802,9 @@
   "title": null,
   "text": "No measuring point shall be located so that the impactor will impact the test area with a glancing blow resulting in a more severe second impact outside the test area.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4315,7 +4821,9 @@
   "title": null,
   "text": "For the child headform testing, a longitudinal and transversal impact tolerance of ±10 mm shall apply. This tolerance is measured along the surface of the bonnet or the windscreen. The test laboratory may verify at a sufficient number of measuring points that this condition can be met and the tests are thus being conducted with the necessary accuracy.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4332,7 +4840,9 @@
   "title": null,
   "text": "The headform velocity at the time of impact shall be 9.7 m/s ± 0.2 m/s.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4349,7 +4859,9 @@
   "title": null,
   "text": "The direction of impact shall be in the longitudinal vertical plane of the vehicle to be tested at an angle of 50° ± 2° to the horizontal. The direction of impact of tests to the front structure shall be downward and rearward.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4366,7 +4878,9 @@
   "title": null,
   "text": "Tests may be repeated in case of atypical windscreen fracture. The repetition of the test is at manufacturer’s request where the HIC value exceeds or is equal to the respective limit of the head impact zone. The maximum number of repetitions on a measuring point is 3 (i.e. 4 tests total) in this case. On request of the technical service the tests may be repeated where the HIC value is below the limit of the head impact zone, for instance in case of underlying structures within 100 mm of the measuring point. Tests with atypical windscreen fracture shall be duly recorded in the test report.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4383,7 +4897,9 @@
   "title": null,
   "text": "If the A-pillars and/or windscreen header incorporate pedestrian or bicyclist head injury mitigation features, which shall be declared by the manufacturer (e.g. external airbag, deployable structure, energy absorption elements) additional monitoring tests shall be carried out on such structure. Contracting parties may indicate that monitoring results are not required for the approval to be recognised and accepted by such contracting party. In such case the measuring points on the A-pillars, windscreen header and/or cowl shall be selected as agreed between the technical service and the manufacturer so that the effectiveness of the protection can be scientifically assessed. For that purpose, it is not required to observe the prescribed clearance distances or exclusion areas. The vehicle manufacturer may also voluntarily request for monitoring tests to be carried out in case of any other innovative solutions that reduce head injury levels in case of head contact with A-pillars and/or windscreen header. The monitoring results shall be detailed in point 16 of the type-approval communication form. A detailed description of the protective system, the selected measuring points and the results of the assessment shall also be included in the information document.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4400,7 +4916,9 @@
   "title": "Adult headform specific test procedure",
   "text": "Adult headform specific test procedure",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4417,7 +4935,9 @@
   "title": null,
   "text": "Tests shall be made to the front structure within the boundaries as defined in paragraph 2.1. of this UN Regulation. Test shall also be made to the windscreen within the boundaries as defined in paragraph 2.44. For all tests to the windscreen, resultant acceleration versus time and jerk (derivation of the resultant acceleration) versus time histories must be provided and evaluated against the atypical fracture criteria according to paragraph 2.48. (see Figure 6) and reported for monitoring purposes according to paragraphs 4.8. to 4.10. For tests at the rear of the bonnet top, the headform impactor shall not contact the windscreen or A-pillar before impacting the bonnet top. For the tests on the windscreen, the headform impactor shall not directly contact the A-pillars, windscreen header and cowl, except in the case of monitoring testing.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4434,7 +4954,9 @@
   "title": null,
   "text": "A minimum of nine tests shall be carried out with the adult headform impactor, over the adult areas prescribed by the adult bonnet top test area and the adult windscreen test area together, with three tests each to the middle and the outer thirds of the adult test areas, at positions judged to be the most likely to cause injury. Where possible, at least one of these nine tests shall be carried out on the windscreen test area. Furthermore, and at the discretion of the technical service, one of these nine tests may be conducted in the cowl monitoring area. For each test on the windscreen an undamaged and untested windscreen shall be used. Tests shall be to different types of structure, where these vary throughout the area to be assessed and at positions judged to be the most likely to cause injury. Taking into account any symmetry of the windscreen and relevant structures, the number of tests on the windscreen test area may be reduced at the discretion of the Technical Service.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4451,7 +4973,9 @@
   "title": null,
   "text": "The selected measuring points for the adult headform impactor shall be a minimum of 165 mm apart and within the adult headform test areas defined in paragraphs 2.1. and 2.44. of this UN Regulation. These minimum distances are to be set with a flexible tape held tautly along the outer surface of the vehicle.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4468,7 +4992,9 @@
   "title": null,
   "text": "No measuring point shall be located so that the impactor will impact the test area with a glancing blow resulting in a more severe second impact outside the test area.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4485,7 +5011,9 @@
   "title": null,
   "text": "For the adult headform testing, a longitudinal and transversal impact tolerance of ±10 mm shall apply. This tolerance is measured along the surface of the bonnet or the windscreen. The test laboratory may verify at a sufficient number of measuring points that this condition can be met and the tests are thus being conducted with the necessary accuracy.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4502,7 +5030,9 @@
   "title": null,
   "text": "The headform velocity at the time of impact shall be 9.7 m/s ± 0.2 m/s.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4519,7 +5049,9 @@
   "title": null,
   "text": "The direction of impact shall be in the longitudinal vertical plane of the vehicle to be tested at an angle of 65° ± 2° to the horizontal. The direction of impact of tests to the front structure shall be downward and rearward.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4536,7 +5068,9 @@
   "title": null,
   "text": "Tests may be repeated in case of atypical windscreen fracture. The repetition of the test is at manufacturer’s request where the HIC value exceeds or is equal to the respective limit of the head impact zone. The maximum number of repetitions on a measuring point is 3 (i.e. 4 tests total) in this case. On request of the technical service the tests may be repeated where the HIC value is below the limit of the head impact zone, for instance in case of underlying structures within 100 mm of the measuring point. Tests with atypical windscreen fracture shall be duly recorded in the test report.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4553,7 +5087,9 @@
   "title": null,
   "text": "If the A-pillars and/or windscreen header incorporate pedestrian or bicyclist head injury mitigation features, which shall be declared by the manufacturer (e.g. external airbag, deployable structure, energy absorption elements) additional monitoring tests shall be carried out on such structure. Contracting parties may indicate that monitoring results are not required for the approval to be recognised and accepted by such contracting party. In such case the measuring points on the A-pillars, windscreen header and/or cowl shall be selected as agreed between the technical service and the manufacturer so that the effectiveness of the protection can be scientifically assessed. For that purpose, it is not required to observe the prescribed clearance distances or exclusion areas. The vehicle manufacturer may also voluntarily request for monitoring tests to be carried out in case of any other innovative solutions that reduce head injury levels in case of head contact with A-pillars and/or windscreen header. The monitoring results shall be detailed in point 16 of the type-approval communication form. A detailed description of the protective system, the selected measuring points and the results of the assessment shall also be included in the information document.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Test procedures",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4570,7 +5106,9 @@
   "title": "Flexible lower legform impactor certification",
   "text": "Flexible lower legform impactor certification",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -4587,7 +5125,9 @@
   "title": null,
   "text": "The impactor shall be certified using two certification tests as follows: First, the certification shall be conducted according to the inverse certification (IC) test procedure prescribed in paragraph 1.4. of this annex before starting a vehicle test series. Second, after a maximum of 10 vehicle tests, certification should be conducted according to the pendulum certification (PC) test procedure prescribed in paragraph 1.3. of this annex. Ongoing certification testing then shall constitute the sequence IC - PC - PC - IC - PC - PC - etc. with a maximum of 10 tests between each certification. In addition, the impactor shall be certified according to the procedures prescribed in paragraph 1.2. below at least once a year.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -4604,7 +5144,9 @@
   "title": "Static certification tests",
   "text": "Static certification tests",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4621,7 +5163,9 @@
   "title": null,
   "text": "The femur and the tibia of the flexible lower legform impactor shall meet the requirements specified in paragraph 1.2.2. of this annex when tested according to paragraph 1.2.4. of this annex. The knee joint of the lower legform impactor shall meet the requirements specified in paragraph 1.2.3. of this annex when tested according to paragraph 1.2.5 of this annex. The stabilized temperature of the impactor during the certification tests shall be 20 °C ± 2 °C. The CAC response values, as defined in ISO 6487:2002, shall be 30 mm for the knee ligament elongations and 4 kN for the applied external load. For these tests, low-pass filtering at an appropriate frequency is permitted to remove higher frequency noise without significantly affecting the measurement of the response of the impactor.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4638,7 +5182,9 @@
   "title": null,
   "text": "When the femur and the tibia of the impactor are loaded in bending in accordance with paragraph 1.2.4. below, the applied moment and the generated deflection at the centre of the femur and the tibia (Mc and Dc) shall be within the corridors shown in Figure 1.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4655,7 +5201,9 @@
   "title": null,
   "text": "When the knee joint of the impactor is loaded in bending in accordance with paragraph 1.2.5. of this annex, the MCL, ACL, and PCL elongations and applied bending moment or the force at the centre of the knee joint (Mc or Fc) shall be within the corridors shown in Figure 2.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4672,7 +5220,9 @@
   "title": null,
   "text": "The edges of the femur and tibia, not bending parts, shall be mounted to the support rig firmly as shown in Figure 3 and Figure 4. The Y-axis of the impactor shall be parallel to the loading axis within 180° ± 2° tolerance. To obtain repeatable loading, low friction Polytetrafluoroethylene (PTFE) plastic pads are used under each support (see Figure 3 and Figure 4). The centre of the loading force shall be applied at the centre of the femur and the tibia within ±2 mm tolerance along the Z-axis. The force shall be increased so as to maintain a deflection rate between 10 and 100 mm/minute until the bending moment at the centre part (Mc) of the femur or tibia reaches 380 Nm.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4689,7 +5239,9 @@
   "title": null,
   "text": "The ends of the knee joint shall be mounted to the support rig firmly as shown in Figure 5. The Y-axis of the impactor shall be parallel to the loading axis within ±2° tolerance. To obtain repeatable loading, low friction Polytetrafluoroethylene (PTFE) plastic pads are used under each support (see Figure 5). To avoid impactor damage, a neoprene sheet shall be set underneath the loading ram and the impactor face of the knee joint which is described in the Figure 3 of Annex 4 shall be removed. The neoprene sheet used in this test shall have compression characteristics as shown in Figure 2 (b) of Annex 5. The centre of the loading force shall be applied at the knee joint center within ±2 mm tolerance along the Z-axis (see Figure 5 below). The external load shall be increased so as to maintain a deflection rate between 10 and 100 mm/minute until the bending moment at the centre part of the knee joint (Mc) reaches 400 Nm.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4706,7 +5258,9 @@
   "title": "Dynamic certification tests (pendulum test)",
   "text": "Dynamic certification tests (pendulum test)",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4723,7 +5277,9 @@
   "title": "Certification",
   "text": "Certification",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4740,7 +5296,9 @@
   "title": null,
   "text": "The test facility used for the certification test shall have a stabilized temperature of 20 °C ± 2 °C during the test.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4757,7 +5315,9 @@
   "title": null,
   "text": "The temperature of the certification area shall be measured at the time of certification and recorded in a certification report.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4774,7 +5334,9 @@
   "title": "Requirements",
   "text": "Requirements",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4791,7 +5353,9 @@
   "title": null,
   "text": "When the flexible lower legform impactor is used for a test according to paragraph 1.3.3. below, the absolute value of the maximum bending moment of the tibia at: (a) Tibia-1 shall be 235 Nm ≤ 272 Nm; (b) Tibia-2 shall be 187 Nm ≤ 219 Nm; (c) Tibia-3 shall be 139 Nm ≤ 166 Nm; (d) Tibia-4 shall be 90 Nm ≤ 111 Nm. The absolute value of the maximum elongation of: (a) MCL shall be 20.5 ≤ 24.0 mm; (b) ACL shall be 8.0 mm ≤ 10.5 mm; (c) PCL shall be 3.5 mm ≤ 5.0 mm. For all these values for the maximum bending moment and the maximum elongation, the readings used shall be from the initial impact timing to 200 ms after the impact timing.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4808,7 +5372,9 @@
   "title": null,
   "text": "The instrumentation response value CFC, as defined in ISO 6487:2002, shall be 180 for all transducers. The CAC response values, as defined in ISO 6487:2002, shall be 30 mm for the knee ligament elongations and 400 Nm for the tibia bending moments.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4825,7 +5391,9 @@
   "title": "Test procedure",
   "text": "Test procedure",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4842,7 +5410,9 @@
   "title": null,
   "text": "The flexible lower legform impactor, including the flesh and skin, shall be suspended from the dynamic certification test rig 15° ± 1° upward from the horizontal as shown in Figure 6 below. The impactor shall be released from the suspended position and fall freely against the pin joint of the test rig as shown in Figure 6.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4859,7 +5429,9 @@
   "title": null,
   "text": "The knee joint centre of the impactor shall be 30 mm ± 1 mm below the bottom line of the stopper bar, and the tibia impact face without the flesh and skin shall be located 13 mm ± 2 mm from the front upper edge of the stopper bar when the impactor is hanging freely as shown in Figure 6 below.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4876,7 +5448,9 @@
   "title": "Dynamic certification tests (inverse test)",
   "text": "Dynamic certification tests (inverse test)",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4893,7 +5467,9 @@
   "title": "Certification",
   "text": "Certification",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4910,7 +5486,9 @@
   "title": null,
   "text": "The test facility used for the certification test shall have a stabilized temperature of 20 °C ± 2 °C during the test.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4927,7 +5505,9 @@
   "title": null,
   "text": "The temperature of the certification area shall be measured at the time of certification and recorded in a certification report.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4944,7 +5524,9 @@
   "title": "Requirements",
   "text": "Requirements",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4961,7 +5543,9 @@
   "title": null,
   "text": "When the flexible lower legform impactor is used for the test according to paragraph 1.4.3. of this annex, the absolute value of the maximum bending moment of the tibia: (a) Tibia-1 shall be 230 Nm ≤ 272 Nm; (b) Tibia-2 shall be 210 Nm ≤ 252 Nm; (c) Tibia-3 shall be 166 Nm ≤ 192 Nm; (d) Tibia-4 shall be 93 Nm ≤ 108 Nm. The absolute value of the maximum elongation of: (a) MCL shall be 17.0 ≤ 21.0 mm; (b) ACL shall be 8.0 mm ≤ 10.0 mm; (c) PCL shall be 4.0 mm ≤ 6.0 mm. For all these values for the maximum bending moment and the maximum elongation, the readings used shall be from the initial impact timing to 50 ms after the impact timing.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4978,7 +5562,9 @@
   "title": null,
   "text": "The instrumentation response value CFC, as defined in ISO 6487:2002, shall be 180 for all transducers. The CAC response values, as defined in ISO 6487:2002, shall be 30 mm for the knee ligament elongations and 400 Nm for the tibia bending moments.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -4995,7 +5581,9 @@
   "title": "Test procedure",
   "text": "Test procedure",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -5012,7 +5600,9 @@
   "title": null,
   "text": "The assembled flexible lower legform impactor (with the flesh and skin) shall be hung vertically and freely suspended from a test rig as shown in Figure 7 below. It is then impacted by the upper edge of a linearly guided aluminium honeycomb impactor, covered by a thin paper cloth with a maximum thickness of 1 mm, at an impact speed of 11.1 m/s ± 0.2 m/s. The legform shall achieve a free flight condition within 10 ms after the time of first contact of the honeycomb impactor.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -5029,7 +5619,9 @@
   "title": null,
   "text": "The honeycomb of 5052 alloy, which is attached in front of the moving ram, shall be 200 mm ± 5 mm wide, 160 mm ± 5 mm high and 60 mm ± 2 mm deep and shall have a crush strength of 75 pound per square inch (psi) ±10 per cent. The honeycomb should have cell sizes of either 3/16 inch or ¼ inch and a density of 2.0 pound per cubic foot (pcf) for the 3/16 inch cell size or a density of 2.3 pcf for the ¼ inch cell size.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -5046,7 +5638,9 @@
   "title": null,
   "text": "The upper edge of the honeycomb face shall be in line with the rigid plate of the linearly guided impactor. At the time of first contact, the upper edge of the honeycomb shall be in line with the knee joint centre line within a vertical tolerance of ±2 mm. The honeycomb shall not be deformed before the impact test.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -5063,7 +5657,9 @@
   "title": null,
   "text": "At the time of the first contact, the flexible lower legform impactor pitch angle (rotation around the Y- axis) and therefore the pitch angle of the velocity vector of the honeycomb impactor shall be within a tolerance of ±2° in relation to the lateral vertical plane. The flexible lower legform impactor roll angle (rotation around the X- axis) and therefore the roll angle of the honeycomb impactor shall be within a tolerance of ±2° in relation to the longitudinal vertical plane. The flexible lower legform impactor yaw angle (rotation around the Z-axis) and therefore the yaw angle of the velocity vector of the honeycomb impactor shall be within a tolerance of ±2°.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -5080,7 +5676,9 @@
   "title": "Upper legform impactor certification",
   "text": "Upper legform impactor certification",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -5097,7 +5695,9 @@
   "title": null,
   "text": "The certified impactor may be used for a maximum of 20 impacts before re-certification (this limit does not apply to propulsion or guidance components). The impactor shall also be re-certified if more than one year has elapsed since the previous certification or if any impactor transducer output, in any impact, has exceeded the specified CAC.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -5114,7 +5714,9 @@
   "title": "Certification",
   "text": "Certification",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -5131,7 +5733,9 @@
   "title": null,
   "text": "The foam flesh for the test impactor shall be stored for a period of at least four hours in a controlled storage area with a stabilized humidity of 35 ± 10 per cent and a stabilized temperature of 20 °C ± 2 °C prior to impactor removal for certification. The test impactor itself shall have a temperature of 20 °C ± 2 °C at the time of impact. The temperature tolerances for the test impactor shall apply at a relative humidity of 40 ± 30 per cent after a soak period of at least four hours prior to their application in a test.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -5148,7 +5752,9 @@
   "title": null,
   "text": "The test facility used for the certification test shall have a stabilized humidity of 40 ± 30 per cent and a stabilized temperature of 20 °C ± 4 °C during certification.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -5165,7 +5771,9 @@
   "title": null,
   "text": "Each certification shall be completed within two hours of when the impactor to be calibrated is removed from the controlled storage area.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -5182,7 +5790,9 @@
   "title": null,
   "text": "The relative humidity and temperature of the certification area shall be measured at the time of certification, and recorded in the certification report.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -5199,7 +5809,9 @@
   "title": "Requirements",
   "text": "Requirements",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -5216,7 +5828,9 @@
   "title": null,
   "text": "When the impactor is propelled into a stationary cylindrical pendulum the peak force measured in each load transducer shall be not less than 1.20 kN and not more than 1.55 kN and the difference between the peak forces measured in the top and bottom load transducers shall not be more than 0.10 kN. Also, the peak bending moment measured by the strain gauges shall not be less than 190 Nm and not more than 250 Nm on the centre position and not less than 160 Nm and not more than 220 Nm for the outer positions. The difference between the upper and lower peak bending moments shall not be more than 20 Nm. For all these values, the readings used shall be from the initial impact with the pendulum and not from the arresting phase. Any system used to arrest the impactor or pendulum shall be so arranged that the arresting phase does not overlap in time with the initial impact. The arresting system shall not cause the transducer outputs to exceed the specified CAC.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -5233,7 +5847,9 @@
   "title": null,
   "text": "The instrumentation response value CFC, as defined in ISO 6487:2002, shall be 180 for all transducers. The CAC response values, as defined in ISO 6487:2002, shall be 10 kN for the force transducers and 1,000 Nm for the bending moment measurements.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -5250,7 +5866,9 @@
   "title": "Test procedure",
   "text": "Test procedure",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -5267,7 +5885,9 @@
   "title": null,
   "text": "The impactor shall be mounted to the propulsion and guidance system, by a torque limiting joint. The torque limiting joint shall be set so that the longitudinal axis of the front member is perpendicular to the axis of the guidance system, with a tolerance of ±2°, with the joint friction torque set to a minimum of 650 Nm but no more than 850 Nm. The guidance system shall be fitted with low friction guides that allow the impactor to move only in the specified direction of impact, when in contact with the pendulum.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -5284,7 +5904,9 @@
   "title": null,
   "text": "The impactor mass shall be adjusted to give a mass of 12 kg ± 0.1 kg, this mass includes those propulsion and guidance components which are effectively part of the impactor during impact.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -5301,7 +5923,9 @@
   "title": null,
   "text": "The centre of gravity of those parts of the impactor which are effectively forward of the torque limiting joint, including the extra masses fitted, shall lie on the longitudinal centreline of the impactor, with a tolerance of ±10 mm.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -5318,7 +5942,9 @@
   "title": null,
   "text": "The impactor shall be certified with previously unused foam.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -5335,7 +5961,9 @@
   "title": null,
   "text": "The impactor foam shall not be excessively handled or deformed before, during or after fitting.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -5352,7 +5980,9 @@
   "title": null,
   "text": "The impactor with the front member vertical shall be propelled horizontally at a velocity of 7.1 m/s ± 0.1 m/s into the stationary pendulum as shown in Figure 8.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -5369,7 +5999,9 @@
   "title": null,
   "text": "The pendulum tube shall have a mass of 3 kg ± 0.03 kg, a wall thickness of 3 mm ± 0.15 mm and an outside diameter of 150 mm +1 mm/-4 mm. Total pendulum tube length shall be 275 mm ± 25 mm. The pendulum tube shall be made from cold finished seamless steel (metal surface plating is permissible for protection from corrosion), with an outer surface finish of better than 2.0 micrometer. It shall be suspended on two wire ropes of 1.5 mm ± 0.2 mm diameter and of 2.0 m minimum length. The surface of the pendulum shall be clean and dry. The pendulum tube shall be positioned so that the longitudinal axis of the cylinder is perpendicular to the front member (i.e. level), with a tolerance of ±2℃, and to the direction of impactor motion, with a tolerance of ±2℃, and with the centre of the pendulum tube aligned with the centre of the impactor front member, with tolerances of ±5 mm laterally and ±5 mm vertically.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -5386,7 +6018,9 @@
   "title": "Child and adult headform",
   "text": "Child and adult headform",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -5403,7 +6037,9 @@
   "title": null,
   "text": "The certified impactors may be used for a maximum of 20 impacts before re-certification. The impactors shall be re-certified if more than one year has elapsed since the previous certification or if the transducer output, in any impact, has exceeded the specified CAC.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R127",
@@ -5420,7 +6056,9 @@
   "title": "Drop test",
   "text": "Drop test",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -5437,7 +6075,9 @@
   "title": null,
   "text": "When the headform impactors are dropped from a height of 376 mm ± 1 mm in accordance with paragraph 3.3. below, the peak resultant acceleration measured by one triaxial (or three uniaxial) accelerometer (accelerometers) in the headform impactor shall be: (a) For the child headform impactor not less than 245 g and not more than 300 g; (b) For the adult headform impactor not less than 225 g and not more than 275 g. The acceleration time curve shall be uni-modal.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -5454,7 +6094,9 @@
   "title": null,
   "text": "The instrumentation response values CFC and CAC for each accelerometer shall be 1,000 Hz and 500 g respectively as defined in ISO 6487:2002.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -5471,7 +6113,9 @@
   "title": null,
   "text": "The headform impactors shall have a temperature of 20 °C ± 2 °C at the time of impact. The temperature tolerances shall apply at a relative humidity of 40 ± 30 per cent after a soak period of at least four hours prior to their application in a test.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -5488,7 +6132,9 @@
   "title": "Test procedure",
   "text": "Test procedure",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -5505,7 +6151,9 @@
   "title": null,
   "text": "The headform impactor shall be suspended from a drop rig as shown in Figure 9.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -5522,7 +6170,9 @@
   "title": null,
   "text": "The headform impactor shall be dropped from the specified height by means that ensure instant release onto a rigidly supported flat horizontal steel plate, over 50 mm thick and over 300 mm x 300 mm square which has a clean dry surface and a surface finish of between 0.2 and 2.0 micrometer.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -5539,7 +6189,9 @@
   "title": null,
   "text": "The headform impactor shall be dropped with the rear face of the impactor at the test angle specified in Annex 5, paragraph 4.7. for the child headform impactor and in Annex 5, paragraph 5.7. for the adult headform impactor with respect to the vertical as shown in Figure 9 below. The suspension of the headform impactor shall be such that it does not rotate during the fall.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  },
  {
   "reg": "UN R127",
@@ -5556,6 +6208,8 @@
   "title": null,
   "text": "The drop test shall be performed three times, with the headform impactor rotated 120° around its symmetrical axis after each test. Figure 1 **Flexible lower legform impactor: Requirement corridors of the femur and the tibia in the static certification test** (see paragraph 1.2.2. of this annex) (a) Femur bending corridor (b) Tibia bending corridor Figure 2 **Flexible lower legform impactor: Requirement corridors for the knee joint in the static certification test** (see paragraph 1.2.3. of this annex) Figure 3 **Flexible lower legform: Impactor test set-up for the femur in the static certification test** (see paragraph 1.2.4. of this annex) Figure 4 **Flexible lower legform impactor: Test set-up for the tibia in the static certification test** (see paragraph 1.2.4. of this annex) Figure 5 **Flexible lower legform impactor: Test set-up for the knee joint in the static certification test** (see paragraph 1.2.5. of this annex) Figure 6 **Flexible lower legform impactor: Test set-up for the dynamic lower legform impactor certification test (pendulum test,** see paragraph 1.3.3.1. of this annex **)** Figure 7 **Flexible lower legform impactor: Test set-up for the dynamic lower legform impactor certification test (inverse test,** see paragraph 1.4.3.1. of this annex **)** Figure 8 **Test set-up for dynamic upper legform impactor certification test** Figure 9 **Test set-up for dynamic headform impactor biofidelity test**",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Certification of the impactor",
+  "section_kind": "test"
  }
 ]

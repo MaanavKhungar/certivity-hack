@@ -1,0 +1,178 @@
+[
+ {
+  "paragraph": "6.8.2.1",
+  "text": "When tested with the TEM cell method, the ESA shall withstand a test level of 75 V/m in the 20 to 200 MHz range over more than 90 per cent of the 20 to 6,000 MHz frequency band (Table 2a).",
+  "test_case": "TEM cell test per ISO 11452-3 at 75 V/m, 20-200 MHz.",
+  "why": "Applies to the lamp ESA if the TEM cell method is chosen.",
+  "regulation": "UN R10",
+  "reason": "near-duplicate of an earlier requirement"
+ },
+ {
+  "paragraph": "6.8.2.1",
+  "text": "When tested with the BCI method, the ESA shall withstand a test level of 60 mA in the 20 to 400 MHz range over more than 90 per cent of the 20 to 6,000 MHz frequency band (Table 2a).",
+  "test_case": "BCI test per ISO 11452-4 at 60 mA, 20-400 MHz.",
+  "why": "Applies to the lamp ESA if the BCI method is chosen.",
+  "regulation": "UN R10",
+  "reason": "near-duplicate of an earlier requirement"
+ },
+ {
+  "paragraph": "6.8.2.1",
+  "text": "When tested with the TEM cell method, the ESA shall withstand a minimum test level of 62,5 V/m in the 20 to 200 MHz range over the whole 20 to 6,000 MHz frequency band (Table 2b).",
+  "test_case": "Confirm no frequency point in the TEM cell test was below 62,5 V/m.",
+  "why": "Minimum immunity level for the lamp ESA over the whole band.",
+  "regulation": "UN R10",
+  "reason": "near-duplicate of an earlier requirement"
+ },
+ {
+  "paragraph": "6.8.2.1",
+  "text": "When tested with the BCI method, the ESA shall withstand a minimum test level of 50 mA in the 20 to 400 MHz range over the whole 20 to 6,000 MHz frequency band (Table 2b).",
+  "test_case": "Confirm no frequency point in the BCI test was below 50 mA.",
+  "why": "Minimum immunity level for the lamp ESA over the whole band.",
+  "regulation": "UN R10",
+  "reason": "near-duplicate of an earlier requirement"
+ },
+ {
+  "paragraph": "9.3.1",
+  "text": "When the conformity of an ESA taken from the series is verified, the measured narrowband electromagnetic radiated emission levels shall not exceed by more than 4 dB (60 per cent) the reference limits of paragraph 6.6.2.1. (52 to 42 dB microvolts/m in 30 to 75 MHz decreasing logarithmically, 42 to 53 dB microvolts/m in 75 to 400 MHz increasing logarithmically, 53 dB microvolts/m constant in 400 to 1,000 MHz, measured per Annex 8).",
+  "test_case": "Measure narrowband radiated emissions of a series ESA per Annex 8 and check that levels are at most 4 dB above the 6.6.2.1 limits.",
+  "why": "The ESA may contain oscillators or microcontrollers producing narrowband emissions subject to CoP limits.",
+  "regulation": "UN R10",
+  "reason": "near-duplicate of an earlier requirement"
+ },
+ {
+  "paragraph": "Annex 7 3.1",
+  "text": "For ESA other than involved in \"REESS charging mode coupled to the power grid\", the broadband emission test shall be performed according to the ALSE method described in Clause 6.4 of CISPR 25.",
+  "test_case": "Verify that the test set-up in the ALSE follows CISPR 25 Clause 6.4 (ground plane, harness and antenna positions).",
+  "why": "The lamp ESA is not a REESS charging ESA, so the ALSE method applies to it.",
+  "regulation": "UN R10",
+  "reason": "near-duplicate of an earlier requirement"
+ },
+ {
+  "paragraph": "Annex 7 4.1",
+  "text": "The broadband emission limits shall apply throughout the frequency range 30 to 1,000 MHz for measurements performed in an ALSE or OATS.",
+  "test_case": "Scan the ESA's radiated emissions from 30 to 1,000 MHz and compare them with the limit.",
+  "why": "This sets the frequency range over which the ESA must meet the broadband limits.",
+  "regulation": "UN R10",
+  "reason": "near-duplicate of an earlier requirement"
+ },
+ {
+  "paragraph": "Annex 1 0",
+  "text": "For category LW2, in case of LED light source failure (no light emitted), the maximum current draw when operated within the input voltage range in major function mode shall be less than 20 mA (open circuit condition).",
+  "test_case": "Simulate a failure and measure the current.",
+  "why": "Failure behaviour of an LW2 source if used.",
+  "regulation": "UN R128",
+  "reason": "near-duplicate of an earlier requirement"
+ },
+ {
+  "paragraph": "Annex 1 0",
+  "text": "For LW5A/LW5B, the rated values shall be 12 V / 6 W and the wattage 8 W max. at 13.5 V DC, and the luminous flux shall be 350 lm ± 20 % at 13.5 V DC (production) and 65 lm min. at 9 V DC.",
+  "test_case": "Measure the power and flux.",
+  "why": "Limits of a white L5 source (reversing) if used.",
+  "regulation": "UN R128",
+  "reason": "near-duplicate of an earlier requirement"
+ },
+ {
+  "paragraph": "4.6.2",
+  "text": "In case of failure of the variable intensity control of a stop lamp of category S2 emitting more than the maximum value of category S1, the requirements of steady luminous intensity of category S1 shall be fulfilled automatically.",
+  "test_case": "Simulate a variable intensity control failure and measure that intensities fall within S1 steady values.",
+  "why": "Applies if the stop lamp is category S2 with variable intensity.",
+  "regulation": "UN R148",
+  "reason": "near-duplicate of an earlier requirement"
+ },
+ {
+  "paragraph": "5.2.1",
+  "text": "For a rear position lamp of category R2 (variable), the maximum luminous intensity shall be 4.2∙10^1 cd when used as a single lamp, and 2.1∙10^1 cd for a lamp marked \"D\".",
+  "test_case": "Measure the maximum intensity and compare it with 42 cd (single lamp) or 21 cd (marked \"D\").",
+  "why": "This limit applies if the position lamp is approved as R2.",
+  "regulation": "UN R148",
+  "reason": "near-duplicate of an earlier requirement"
+ },
+ {
+  "paragraph": "5.5.1",
+  "text": "For a stop lamp of category S2 (variable), the luminous intensity shall be minimum 6.0∙10^1 cd and maximum 7.30∙10^2 cd for a single lamp, or maximum 3.65∙10^2 cd for a lamp marked \"D\".",
+  "test_case": "Measure the intensity under the variable-intensity operating conditions and check the min/max limits.",
+  "why": "This applies if the stop lamp is a variable-intensity S2 lamp.",
+  "regulation": "UN R148",
+  "reason": "near-duplicate of an earlier requirement"
+ },
+ {
+  "paragraph": "5.5.1",
+  "text": "For a stop lamp of category S2 (variable), the standard light distribution shall comply with Figure A3-I.",
+  "test_case": "Measure the intensities at the Figure A3-I grid points and compare them with the required percentages.",
+  "why": "This is the light distribution requirement for an S2 stop lamp.",
+  "regulation": "UN R148",
+  "reason": "near-duplicate of an earlier requirement"
+ },
+ {
+  "paragraph": "Annex 2 0",
+  "text": "For an optional rear position lamp (R1, R2) to be installed with the H-plane at a mounting height of more than 2,100 mm, the minimum vertical angles shall be 5° above / 15° below the H-plane.",
+  "test_case": "If the lamp is declared for a mounting height above 2,100 mm, verify visibility at 5° above and 15° below the H-plane.",
+  "why": "Conditional vertical visibility limit for the rear position function.",
+  "regulation": "UN R148",
+  "reason": "near-duplicate of an earlier requirement"
+ },
+ {
+  "paragraph": "Annex 2 0",
+  "text": "For a stop lamp (S1, S2) mounted with the H-plane below 750 mm, reduced minimum horizontal angles of 20° inboard / 45° outboard may be used only below the H-plane.",
+  "test_case": "For a mounting height below 750 mm, verify visibility below the H-plane over 20° inboard to 45° outboard.",
+  "why": "Sets the horizontal visibility limit for the stop function at low mounting height.",
+  "regulation": "UN R148",
+  "reason": "near-duplicate of an earlier requirement"
+ },
+ {
+  "paragraph": "Annex 2 0",
+  "text": "For a stop lamp (S1, S2) to be installed with the H-plane at a mounting height of less than 750 mm, the minimum vertical angles shall be 15° above / 5° below the H-plane.",
+  "test_case": "For a declared mounting height below 750 mm, verify visibility at 15° above and 5° below the H-plane.",
+  "why": "Reduced vertical angles apply to a stop lamp mounted below 750 mm.",
+  "regulation": "UN R148",
+  "reason": "near-duplicate of an earlier requirement"
+ },
+ {
+  "paragraph": "Annex 8 1.2.1",
+  "text": "For the reversing lamp (light source technology other than incandescent), the luminous intensities measured after 10 minutes of operation shall comply with the minimum and maximum requirements.",
+  "test_case": "Measure the reversing lamp intensity distribution after 10 min of operation (or scale via HV ratio) and verify min/max compliance.",
+  "why": "Product includes an LED reversing lamp approved under R148.",
+  "regulation": "UN R148",
+  "reason": "near-duplicate of an earlier requirement"
+ },
+ {
+  "paragraph": "Annex 8 1.2.2",
+  "text": "For the stop lamp (light source technology other than incandescent), the luminous intensities measured after 1 min of operation shall comply with the minimum and maximum requirements.",
+  "test_case": "Measure stop lamp intensities after 1 min of operation (or scale via HV ratio) and verify against min/max limits.",
+  "why": "Product includes an LED stop lamp.",
+  "regulation": "UN R148",
+  "reason": "near-duplicate of an earlier requirement"
+ },
+ {
+  "paragraph": "Annex 8 1.2.2",
+  "text": "For the stop lamp (light source technology other than incandescent), the luminous intensities measured either after 30 minutes of operation or after photometric stability has occurred shall comply with the minimum and maximum requirements.",
+  "test_case": "Measure stop lamp intensity distribution after 30 min or at photometric stability and verify against min/max limits.",
+  "why": "Product includes an LED stop lamp.",
+  "regulation": "UN R148",
+  "reason": "near-duplicate of an earlier requirement"
+ },
+ {
+  "paragraph": "Annex 8 2.1",
+  "text": "For the stop lamp, the luminous intensity distribution shall additionally comply at 0.2 seconds after switch ON, using HV as reference coordinate (Table A8-1).",
+  "test_case": "Measure intensity at HV 0.2 s after switch-on and scale the distribution by the HV ratio; verify compliance.",
+  "why": "Table A8-1 row 'Stop' applies to the stop lamp.",
+  "regulation": "UN R148",
+  "reason": "near-duplicate of an earlier requirement"
+ },
+ {
+  "paragraph": "Annex 8 2.1",
+  "text": "For the reversing lamp, the luminous intensity distribution shall additionally comply at 0.2 seconds after switch ON, using HV as reference coordinate (Table A8-1).",
+  "test_case": "Measure intensity at HV 0.2 s after switch-on and scale the distribution by the HV ratio; verify compliance.",
+  "why": "Table A8-1 row 'Reversing' applies to the reversing lamp.",
+  "regulation": "UN R148",
+  "reason": "near-duplicate of an earlier requirement"
+ },
+ {
+  "paragraph": "Annex 6 Part 1 3",
+  "text": "After the heat resistance test, no cracking or appreciable distortion of the retro-reflective device and, in particular, of its optical component must be visible.",
+  "test_case": "Visually inspect the retro-reflector after heat conditioning for cracks or distortion, especially of the prism optical component.",
+  "why": "Pass/fail criterion for the heat resistance test of the Class IA retro-reflector.",
+  "regulation": "UN R150",
+  "reason": "near-duplicate of an earlier requirement"
+ }
+]

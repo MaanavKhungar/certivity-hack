@@ -14,7 +14,9 @@
   "title": null,
   "text": "UN R163 (version 0.3.0) Consolidated text of this version, rendered by Certivity for the hackathon. Cite pages of THIS file: the page number is printed at the bottom of every page. Role in the hackathon: base version.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -31,7 +33,9 @@
   "title": null,
   "text": "Scope This UN Regulation applies to:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -48,7 +52,9 @@
   "title": null,
   "text": "Approval of Vehicle Alarm Systems (VAS) which are intended to be permanently fitted to vehicles of any category.1, 2 1As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3), document ECE/TRANS/WP.29/78/Rev.6. (www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29resolutions.html) 2Only vehicles with 12 volts electrical systems are considered.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -65,7 +71,9 @@
   "title": null,
   "text": "Approval of vehicles of category M1 and those of category N1 with a maximum mass of not more than 2 tonnes, with regard to their alarm system(s).2 2Only vehicles with 12 volts electrical systems are considered.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -82,7 +90,9 @@
   "title": null,
   "text": "At the request of the manufacturer, Contracting Parties may grant approvals to vehicles of other categories with regard to their alarm system(s).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -99,7 +109,9 @@
   "title": null,
   "text": "This UN Regulation does not apply to radio transmission frequencies, whether or not related to the protection of vehicles against unauthorized use.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -116,7 +128,9 @@
   "title": null,
   "text": "Definitions 2.1. _\"Component\"_ means a device subject to the requirements of this Regulation and intended to be part of a vehicle, which may be type-approved independently of a vehicle where this Regulation makes express provisions for so doing. 2.2. _\"Separate technical unit\"_ means a device subject to the requirements of this Regulation and intended to be part of a vehicle, which may be type-approved separately, but only in relation to one or more specified types of vehicle where this Regulation makes express provisions for so doing. 2.3. _\"Manufacturer\"_ means the person or body who is responsible to the approval authority for all aspects of the type approval process and for ensuring conformity of production. It is not essential that the person or body is directly involved in all stage of the construction of the vehicle, system, component or separate technical unit which is the subject of the approval process. 2.4. _\"Vehicle alarm system (VAS)\"_ means a system intended for installation on (a) type(s) of vehicle(s), designed to indicate intrusion into or interference with the vehicle; these systems may provide additional protection against unauthorized use of the vehicle. 2.5. _\"Sensor_ \" means a device which senses a change which could be caused by intrusion into or interference with a vehicle. 2.6. _\"Warning device\"_ means a device indicating that intrusion into or interference has occurred. 2.7. _\"Control equipment\"_ means equipment necessary for the setting, unsetting and testing of a VAS and for sending an alarm condition to warning devices. 2.8. _\"Set\"_ means the state of a VAS in which an alarm condition can be transmitted to warning devices. 2.9. _\"Unset\"_ means the state of a VAS in which an alarm condition cannot be transmitted to warning devices.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -133,7 +147,9 @@
   "title": null,
   "text": "\" _Key_ \" means any mechanical and/or electronic solution designed and constructed to provide a method of operating a locking system which is designed and constructed to be operated by that mechanical and/or electronic solution. 2.11. _\"Type of vehicle alarm system\"_ means systems which do not differ significantly in such essential aspects as: (a) The manufacturer's trade name or mark; (b) The kind of sensor; (c) The kind of warning device; (d) The kind of control equipment. 2.12. _\"Approval of a vehicle alarm system\"_ means the approval of a type of VAS with respect to the requirements laid down in paragraphs 5., 6., 7. below. 2.13. _\"Immobilizer\"_ means a device which is intended to prevent the vehicle being driven away powered by its own engine. 2.14. _\"Panic alarm\"_ means a device which enables a person to use an alarm, installed on the vehicle, to summon assistance in an emergency.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -150,7 +166,9 @@
   "title": null,
   "text": "\" _Primary user_ \" is a user who is able to authorize digital keys. There can be more than one primary users.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -167,7 +185,9 @@
   "title": null,
   "text": "\" _Digital key_ \" means a key designed to be transferred to multiple devices by the primary user(s) through dedicated processes.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -184,7 +204,9 @@
   "title": "Application for approval",
   "text": "Application for approval",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -201,7 +223,9 @@
   "title": null,
   "text": "The application for approval of a vehicle or component type with regard to this Regulation shall be submitted by the manufacturer.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -218,7 +242,9 @@
   "title": null,
   "text": "It shall be accompanied by an information document in accordance with the model shown in Annex 1, and giving a description of the technical characteristics of the VAS and the method(s) of installation for each make and type of vehicle on which the VAS is intended to be installed.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -235,7 +261,9 @@
   "title": null,
   "text": "Vehicle(s) / component(s) representative of the type(s) to be approved shall be submitted to the technical service responsible for conducting the approval tests.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -252,7 +280,9 @@
   "title": "Approval",
   "text": "Approval",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -269,7 +299,9 @@
   "title": null,
   "text": "If the type submitted for approval to this Regulation meets the requirements of the relevant part(s) of this Regulation, approval of that type shall be granted.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -286,7 +318,9 @@
   "title": null,
   "text": "An approval number shall be assigned to each type approved. Its first two digits (at present 00, corresponding to the Regulation in its original form) shall indicate the series of amendments incorporating the most recent major technical amendment made to the Regulation at the time of issue of the approval. The same Contracting Party shall not assign the same number to another type of vehicle or component as defined in this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -303,7 +337,9 @@
   "title": null,
   "text": "Notice of approval or of extension of approval of a type pursuant to this Regulation shall be communicated to the Contracting Parties to the Agreement applying this Regulation by means of a form conforming to the model in Annex 2 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -320,7 +356,9 @@
   "title": null,
   "text": "There shall be affixed, conspicuously and in a readily accessible place specified on the approval form, to every vehicle or component conforming to a type approved under this Regulation, an international approval mark consisting of:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -337,7 +375,9 @@
   "title": null,
   "text": "A circle surrounding the letter \"E\" followed by the distinguishing number of the country which has granted approval,3 and 3As defined in Annex 3 to the Consolidated Resolution on the Construction of Vehicles (R.E.3) document ECE/TRANS/WP.29/78/Rev.6 (www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29resolutions.html).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -354,7 +394,9 @@
   "title": null,
   "text": "The number of this Regulation, followed by the letter \"R\", a dash and the approval number, to the right of the circle prescribed in paragraph 4.4.1.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -371,7 +413,9 @@
   "title": null,
   "text": "If a type conforms to a type approved, under one or more other UN Regulations annexed to the Agreement, in the country which has granted approval under this Regulation, the symbol prescribed in paragraph 4.4.1. need not be repeated; in such a case, the Regulation under which approval has been granted in the country which has granted approval under this Regulation shall be placed in vertical columns to the right of the symbol prescribed in paragraph 4.4.1.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -388,7 +432,9 @@
   "title": null,
   "text": "The approval mark shall be clearly legible and be indelible.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -405,7 +451,9 @@
   "title": null,
   "text": "In the case of a vehicle, the approval mark shall be placed close to or on the vehicle data plate affixed by the manufacturer.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -422,7 +470,9 @@
   "title": null,
   "text": "In the case of a component approved separately as an alarm system, the approval mark shall be affixed by the manufacturer to the major element(s) of the device.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -439,7 +489,9 @@
   "title": null,
   "text": "Annex 3 to this Regulation gives examples of arrangements of approval marks.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -456,7 +508,9 @@
   "title": null,
   "text": "As an alternative to the approval mark described in paragraph 4.4. above, a certificate of conformity shall be issued for every VAS offered for sale.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -473,7 +527,9 @@
   "title": null,
   "text": "Where a VAS manufacturer supplies an approved unmarked VAS approved to this Regulation to a vehicle manufacturer, for fitment by that manufacturer as original equipment for a vehicle model or range of vehicle models, the VAS manufacturer shall supply a number of copies of the certificate of conformity to the vehicle manufacturer, sufficient for that manufacturer to obtain the vehicle approval to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -490,7 +546,9 @@
   "title": null,
   "text": "If the VAS is made up of separate components, its main component(s) shall bear a reference mark and the certificate of conformity shall provide a list of such reference marks.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -507,7 +565,9 @@
   "title": null,
   "text": "A model of the certificate of conformity is given in Annex 4 to this Regulation. Part I - Approval of vehicle alarm systems",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -524,7 +584,9 @@
   "title": "General Specifications",
   "text": "General Specifications",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -541,7 +603,9 @@
   "title": null,
   "text": "VAS shall, in the event of intrusion into or interference with a vehicle, provide a warning signal. The warning signal shall be audible and in addition may include optical warning devices, or be a radio alarm or any combination of the above.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -558,7 +622,9 @@
   "title": null,
   "text": "VASs shall be designed, constructed and installed in such a way that the vehicle when equipped shall continue to comply with the relevant technical requirements, especially with regard to electromagnetic compatibility (EMC).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -575,7 +641,9 @@
   "title": null,
   "text": "The installation of a VAS in a vehicle shall not be capable of influencing the vehicle's performance (in the unset state), or its safe operation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -592,7 +660,9 @@
   "title": null,
   "text": "The VAS and components thereof shall not activate inadvertently, particularly whilst the engine is in its running mode.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -609,7 +679,9 @@
   "title": null,
   "text": "Failure of the VAS, or failure of its electrical supply shall not affect the safe operation of the vehicle.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -626,7 +698,9 @@
   "title": null,
   "text": "The VAS, its components and the parts controlled by them shall be designed, built and installed in such a way as to minimize the risk for anyone to make them inoperable or to destroy them rapidly and without calling attention, e.g. using low-cost, easily-concealed tools, equipment or fabrications readily available to the public at large.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -643,7 +717,9 @@
   "title": null,
   "text": "The means of setting and unsetting of the VAS shall be designed in such a way that it does not invalidate the requirements of this Regulation. Electrical connections to components covered by Part II of this Regulation are allowed.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -660,7 +736,9 @@
   "title": null,
   "text": "The system shall be so arranged that the shorting out of any warning signal circuit shall not render inoperative any aspects of the alarm system, other than the circuit which is shorted out.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -677,7 +755,9 @@
   "title": null,
   "text": "VAS may include an immobilizer which shall comply with the requirements of UN Regulation No. [XXX] (Immobilizers) or UN Regulation No. 116, Supplement 7 to the original version, or UN Regulation No. 97 Supplement 8 to the 01 series of amendments.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -694,7 +774,9 @@
   "title": null,
   "text": "In addition, digital keys shall comply with the provisions of Annex 9.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -711,7 +793,9 @@
   "title": "Particular specifications",
   "text": "Particular specifications",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -728,7 +812,9 @@
   "title": "Protection range",
   "text": "Protection range",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -745,7 +831,9 @@
   "title": null,
   "text": "Specific requirements The VAS shall at least detect and signal the opening of any vehicle door, engine bonnet and luggage compartment. The failure or switching off of light sources, e.g. passenger compartment light, shall not impair the control operation. Additional efficient sensors for information/display, e.g: (a) Of intrusions into the vehicle, e.g. passenger compartment control, window glass control, breakage of any glazed area; or (b) Of attempted vehicle theft, e.g. inclination sensor are allowed, taking account of measures to prevent any unnecessary sounding of the alarm (= false alarm, see paragraph 6.1.2. below). Insofar as these additional sensors generate an alarm signal even after an intrusion has occurred (e.g. by breakage of a glazed area) or under external influences (e.g. wind), the alarm signal, activated by one of the abovementioned sensors, shall be activated not more than 10 times within the same activation period of the VAS. In this case the activation period shall be limited by the authorized unsetting of the system as a result of the vehicle user's action. Some kinds of additional sensors, e.g. passenger compartment control (ultrasonic, infrared) or inclination sensor, etc., may be intentionally deactivated. In this case, separate deliberate action shall be taken each time before the VAS is set. It shall not be possible to deactivate the sensors while the alarm system is in a set state.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -762,7 +850,9 @@
   "title": "Safety against false alarm",
   "text": "Safety against false alarm",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -779,7 +869,9 @@
   "title": null,
   "text": "By adequate measures, e.g. (a) Mechanical design and design of the electrical circuit according to conditions specific to motor vehicles; (b) Selection and application of operation and control principles for the alarm system and components thereof; It shall be ensured that the VAS both in set and unset conditions, cannot cause the alarm signal to sound unnecessarily, in the event of: (a) An impact on the vehicle: test specified in paragraph 7.2.13.; (b) Electromagnetic compatibility: tests specified in paragraph 7.2.12.; (c) Reduction of battery voltage by continuous discharge: test specified in paragraph 7.2.14.; (d) False alarm of the passenger compartment control: test specified in paragraph 7.2.15.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -796,7 +888,9 @@
   "title": null,
   "text": "If the applicant for approval can demonstrate, e.g. by technical data, that safety against false alarm is satisfactorily ensured, the technical service responsible for conducting approval tests may not require some of the above tests.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -813,7 +907,9 @@
   "title": "Audible alarm",
   "text": "Audible alarm",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -830,7 +926,9 @@
   "title": null,
   "text": "General The warning signal shall be clearly audible and recognizable and shall differ significantly from the other audible signals used in road traffic. In addition to the original equipment audible warning device, a separate audible warning device may be fitted in the area of the vehicle which is controlled by the VAS, where it shall be protected against easy, rapid access by persons. If a separate audible warning device according to paragraph 6.2.3.1. below is used, the original equipment standard audible warning device may additionally be actuated by the VAS, provided that any tampering with the standard audible warning device (generally more easily accessible) does not affect the operation of the additional audible warning device.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -847,7 +945,9 @@
   "title": null,
   "text": "Duration of the audible signal Minimum:........................................................25 s Maximum:.......................................................... 30 s The audible signal may sound again only after the next interference with the vehicle, i.e. after the abovementioned time span (Restrictions: see paragraphs 6.1.1. and 6.1.2. above). Unsetting of the alarm system shall immediately cut the signal.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -864,7 +964,9 @@
   "title": "Specifications concerning the audible signal",
   "text": "Specifications concerning the audible signal",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -881,7 +983,9 @@
   "title": null,
   "text": "Constant tone signal device (constant frequency spectrum), e.g. horns: acoustical, etc., data according to UN Regulation No. 28, Part I. Intermittent signal (on/off): Trigger frequency ..............................................(2 ± 1) Hz On time = off time ± 10 per cent",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -898,7 +1002,9 @@
   "title": null,
   "text": "Audible signal device with frequency modulation: acoustical, etc., data according to UN Regulation No. 28, Part I but equal passage of a significant frequency range within the above-mentioned range (1,800 through 3,550 Hz) in both directions. Passage frequency (2 ± 1) Hz",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -915,7 +1021,9 @@
   "title": null,
   "text": "Sound level The sound source shall be: (a) Either an audible warning device approved under UN Regulation No. 28, Part I; (b) Or a device meeting the requirements of UN Regulation No. 28, Part I, paragraphs 6.1. and 6.2. However, in the case of a different sound source from the original equipment audible warning device, the minimum sound level may be reduced to 100 dB(A), measured under the conditions of UN Regulation No. 28, Part I.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -932,7 +1040,9 @@
   "title": "Optical alarm - if fitted",
   "text": "Optical alarm - if fitted",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -949,7 +1059,9 @@
   "title": null,
   "text": "General In the event of intrusion into or interference with the vehicle, the device shall activate an optical signal as specified in paragraphs 6.3.2. and 6.3.3. below.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -966,7 +1078,9 @@
   "title": null,
   "text": "Duration of the optical signal The optical signal shall have a duration between 25 s and 5 minutes after the alarm has been activated. The unsetting of the alarm system shall immediately stop the signal.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -983,7 +1097,9 @@
   "title": null,
   "text": "Type of optical signal Flashing of all direction indicators and/or passenger compartment light of the vehicle, including all lamps in the same electrical circuit. Trigger frequency (2 ± 1) Hz In relation to the audible signal, also asynchronous signals are allowed. On time = off time ± 10 per cent",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1000,7 +1116,9 @@
   "title": null,
   "text": "Radio alarm (pager) - if fitted The VAS may include a facility generating an alarm signal by radio transmission.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1017,7 +1135,9 @@
   "title": "Alarm system setting lock",
   "text": "Alarm system setting lock",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1034,7 +1154,9 @@
   "title": null,
   "text": "When the engine is in its running mode, deliberate or inadvertent setting of the alarm system shall be impossible.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1051,7 +1173,9 @@
   "title": "Setting and unsetting of the VAS",
   "text": "Setting and unsetting of the VAS",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1068,7 +1192,9 @@
   "title": null,
   "text": "Setting Any suitable means of setting of the VAS is allowed, provided that such means does not inadvertently cause false alarms.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1085,7 +1211,9 @@
   "title": null,
   "text": "Unsetting Unsetting of the VAS shall be achieved by one or a combination of the following devices. Other devices giving an equivalent performance are permitted.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1102,7 +1230,9 @@
   "title": null,
   "text": "A mechanical key (complying with the requirements of Annex 6 to this Regulation) which can be coupled with a centralized vehicle locking system comprising at least 1,000 variants, operated from the outside.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1119,7 +1249,9 @@
   "title": null,
   "text": "Electrical/electronic device, e.g. remote control, with at least 50,000 variants and shall incorporate rolling codes and/or have a minimum scan time of ten days, e.g. a maximum of 5,000 variants per 24 hours for 50,000 variants minimum.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1136,7 +1268,9 @@
   "title": null,
   "text": "A mechanical key or an electrical/electronic device within the protected passenger compartment, with timed exit/entry delay.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1153,7 +1287,9 @@
   "title": null,
   "text": "Exit delay If the switching device for setting the VAS is fitted within the protected area, an exit delay shall be provided. It shall be possible for the exit delay to be set to between 15 seconds and 45 seconds after the switch has been operated. The delay period may be adjustable to suit individual operators' circumstances.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1170,7 +1306,9 @@
   "title": null,
   "text": "Entry delay If the device for unsetting the VAS is fitted within the protected area, a delay of 5 seconds minimum and 15 seconds maximum shall be allowed before the activation of the audible and optical signals. The delay period may be adjustable to suit individual operators' circumstances.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1187,7 +1325,9 @@
   "title": "Status display",
   "text": "Status display",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1204,7 +1344,9 @@
   "title": null,
   "text": "To provide information on the status of the VAS (set, unset, alarm setting period, alarm has been activated), optical displays inside and outside the passenger compartment are allowed. Any optical signal or any use of lighting and light-signalling devices outside the passenger compartment shall fulfil the requirements of UN Regulation No. 48.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1221,7 +1363,9 @@
   "title": null,
   "text": "If an indication of short-term \"dynamic\" processes such as changes from \"set\" to \"unset\" and vice versa is provided, it shall be optical, according to paragraph 6.9.1. Such optical indication may also be produced by the simultaneous operation of the direction indicators and/or passenger compartment lamp(s), provided that the duration of the optical indication by the direction indicators does not exceed 3 seconds.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1238,7 +1382,9 @@
   "title": null,
   "text": "Power supply The source of power for the VAS shall be either the vehicle battery or a rechargeable battery. Where provided, an additional rechargeable or non-rechargeable battery may be used. These batteries shall by no means supply energy to other parts of the vehicle electrical system.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1255,7 +1401,9 @@
   "title": "Specifications for optional functions",
   "text": "Specifications for optional functions",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1272,7 +1420,9 @@
   "title": null,
   "text": "Self-check, automatic failure indication On setting the VAS, irregular situations, e.g. open doors, etc., can be detected by a self-check function (plausibility control), and this situation is indicated.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1289,7 +1439,9 @@
   "title": null,
   "text": "Panic alarm An optical and/or audible and/or radio alarm is allowed independent of the state (set or unset) and/or function of the VAS. Such an alarm shall be triggered from within the vehicle and shall not affect the state (set or unset) of the VAS. Also it shall be possible for the vehicle user to switch off the panic alarm. In the case of an audible alarm, its sounding duration per activation shall not be restricted. A panic alarm shall not immobilize the engine or stop it if it is running.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1306,7 +1458,9 @@
   "title": null,
   "text": "Operation parameters and test conditions Lamps which are used as part of the optical warning devices and which are included in the standard car lighting system need not comply with the operation parameters in paragraph 7.1. and shall not be submitted to tests listed under paragraph 7.2. Components that are not embedded in the vehicle (e.g. keys which are used for activation/deactivation of VAS) need not to comply with the operation parameters in paragraph 7.1. and are not required to be submitted to test listed under paragraph 7.2.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1323,7 +1477,9 @@
   "title": null,
   "text": "Operation parameters All components of the VAS shall operate without any failure under the following conditions.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1340,7 +1496,9 @@
   "title": null,
   "text": "Climatic conditions Two classes of environmental temperature are defined as follows: (a) -40°C to +85°C for parts to be fitted in the passenger or luggage compartment; (b) -40°C to +125°C for parts to be fitted in the engine compartment unless otherwise specified.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1357,7 +1515,9 @@
   "title": null,
   "text": "Degree of protection for installation The following degrees of protection in accordance with IEC Publication 529 1989 shall be provided: (a) IP 40 for parts to be fitted in the passenger compartment; (b) IP 42 for parts to be fitted in the passenger compartment of roadsters/convertibles and cars with moveable roof-panels if the installation location requires a higher degree of protection than IP 40; (c) IP 54 for all other parts. The VAS manufacturer shall specify in the installation instructions any restrictions on the positioning of any part of the installation with respect to dust, water and temperature.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1374,7 +1534,9 @@
   "title": null,
   "text": "Weatherability 7 days according to IEC 68-2-30-1980.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1391,7 +1553,9 @@
   "title": null,
   "text": "Electrical conditions Rated supply voltage: 12 V Operation supply voltage range: from 9 V to 15 V in the temperature range according to paragraph 7.1.1. Time allowance for excess voltages at 23°C: U = 18 V, max. 1 hours U = 24 V, max. 1 minute",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1408,7 +1572,9 @@
   "title": "Test conditions",
   "text": "Test conditions",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1425,7 +1591,9 @@
   "title": null,
   "text": "Operation tests For the operation tests required according to paragraphs 7.2.3., 7.2.4., 7.2.5., 7.2.6. and 7.2.8.4., if some of the tests required in each of these paragraphs prior to the operation tests are performed in series on a single VAS, the operation test may be carried out one time only after the chosen tests are completed instead of performing the operation tests required in the paragraphs after each of the chosen tests. Vehicle manufacturers and suppliers have to guarantee satisfactory results only on non-accumulated procedures.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1442,7 +1610,9 @@
   "title": null,
   "text": "Compliance of the VAS with the following specifications shall be checked: Alarm duration according to paragraphs 6.2.2. and 6.3.2; Frequency and on/off ratio according to paragraphs 6.3.3. and 6.2.3.1. or 6.2.3.2. respectively; Number of alarm cycles according to paragraph 6.1.1., if applicable; Alarm system setting lock check according to paragraph 6.5.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1459,7 +1629,9 @@
   "title": null,
   "text": "Normal test conditions Voltage U = U = (12 ± 0.2) V Temperature T = (23 ± 5)°C",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1476,7 +1648,9 @@
   "title": null,
   "text": "Resistance to temperature and voltage changes Compliance with the specifications defined under paragraph 7.2.1.1. shall also be checked under the following conditions:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1493,7 +1667,9 @@
   "title": null,
   "text": "Test temperature...............................T (-40 ± 2)°C Test voltage U = (9 ± 0.2) V Storage duration 4 hours",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1510,7 +1686,9 @@
   "title": null,
   "text": "For parts to be fitted in the passenger or luggage compartment: Test temperature T = (+85 ± 2)°C Test voltage U = (15 ± 0.2) V Storage duration 4 hours",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1527,7 +1705,9 @@
   "title": null,
   "text": "For parts to be fitted in the engine compartment unless otherwise specified: Test temperature T = (+125 ± 2)°C Test voltage U = (15 ± 0.2) V Storage duration 4 hours",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1544,7 +1724,9 @@
   "title": null,
   "text": "The VAS, in both set and unset state, shall be submitted to an excess voltage equal to (18 ± 0.2) V for 1 hour.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1561,7 +1743,9 @@
   "title": null,
   "text": "The VAS, in both set and unset state, shall be submitted to an excess voltage equal to (24 ± 0.2) V for 1 minute.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1578,7 +1762,9 @@
   "title": null,
   "text": "Safe operation after foreign body and water-tightness testing After the test for tightness to foreign body and water according to IEC 529-1989, for degrees of protection as in paragraph 7.1.2., the operation tests according to paragraph 7.2.1. shall be repeated. With the agreement of the Technical Service this requirement need not apply in the following circumstances: (a) Type Approval of a VAS which is to be type approved as a separate technical unit. In this case, the manufacturer of the VAS shall: (i) Specify in item 4.5. of the information document (Annex 1), that the requirement of this paragraph was not applied to the VAS (in accordance with paragraph 7. of this Regulation); and (ii) Specify in item 4.1. of the information document, the list of vehicles to which the VAS is intended to be fitted and the relevant installation conditions in item 4.2. (b) Type approval of a vehicle in respect of an AS In this case, the manufacturer shall specify in item 4.5. of the information document (Annex 1), that the requirement of this paragraph does not apply to the AS due to the nature of installation conditions and the vehicle manufacturer shall prove it by submitting related documents; (c) Type approval of a vehicle in respect of the installation of a VAS which is type approved as a separate technical unit. In this case, the vehicle manufacturer shall specify in item 4.5. of the information document (Annex 1), that the requirement of this paragraph does not apply to the installation of the VAS where the relevant installation conditions are met. This requirement does not apply in cases where the information required in item 4.5. of Annex 2 has already been submitted for the approval of the separate technical unit.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1595,7 +1781,9 @@
   "title": null,
   "text": "Safe operation after condensed water test After a resistance-to-humidity test to be carried out according to IEC 68 2 30 (1980) the operation tests according to paragraph 7.2.1. shall be repeated.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1612,7 +1800,9 @@
   "title": null,
   "text": "Test for safety against reversed polarity The VAS and components thereof shall not be destroyed by reversed polarity up to 13 V during 2 min. After this test the operation tests according to paragraph 7.2.1. shall be repeated with fuses changed, if necessary.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1629,7 +1819,9 @@
   "title": null,
   "text": "Test for safety against short-circuits All electrical connections of the VAS shall be short-circuit proof against earth, max. 13 V and/or fused. After this test the operation tests according to paragraph 7.2.1. shall be repeated, with fuses changed if necessary.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1646,7 +1838,9 @@
   "title": null,
   "text": "Energy consumption in the set condition The energy consumption in set condition under the conditions given in paragraph 7.2.1.2. shall not exceed 20 mA on average for the complete alarm system including status display. With the agreement of the Technical Service this requirement need not apply in the following circumstances: (a) Type Approval of a VAS which is to be type approved as a separate technical unit; In this case, the manufacturer of the VAS shall: (i) Specify in item 4.5. of the information document (Annex 1), that the requirement of this paragraph was not applied to the VAS (in accordance with paragraph 7. of this Regulation); (ii) Specify in item 4.1. of the information document, the list of vehicles to which the VAS is intended to be fitted and the relevant installation conditions in item 4.2.; and (iii) Prove the energy consumption requirements are not exceeded by submitting related documents. (b) Type approval of a vehicle in respect of an AS In this case, the manufacturer shall specify in item 4.3.1.1. of the information document (Annex 2), that the requirement of this paragraph does not apply to the AS due to the nature of installation conditions and the vehicle manufacturer shall prove it by submitting related documents; (c) Type approval of a vehicle in respect of the installation of a VAS which is type approved as a separate technical unit. In this case, the vehicle manufacturer shall specify in item 4.3.1.1. of the information document (Annex 2), that the requirement of this paragraph does not apply to the installation of the VAS where the relevant installation conditions are met. This requirement does not apply in cases where the information required in item 4.3.1.1. of Annex 2 has already been submitted for the approval of a separate technical unit.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1663,7 +1857,9 @@
   "title": "Safe operation after vibration test",
   "text": "Safe operation after vibration test",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1680,7 +1876,9 @@
   "title": null,
   "text": "For this test, the components are subdivided into two types: Type 1: components normally mounted on the vehicle, Type 2: components intended for attachment to the engine.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1697,7 +1895,9 @@
   "title": null,
   "text": "The components/VAS shall be submitted to a sinusoidal vibration mode whose characteristics are as follows:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1714,7 +1914,9 @@
   "title": null,
   "text": "For type 1 The frequency shall be variable from 10 Hz to 500 Hz with a maximum amplitude of ± 5 mm and maximum acceleration of 3 g (0-peak).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1731,7 +1933,9 @@
   "title": null,
   "text": "For type 2 The frequency shall be variable from 20 Hz to 300 Hz with a maximum amplitude of ± 2 mm and maximum acceleration of 15 g (0-peak).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1748,7 +1952,9 @@
   "title": null,
   "text": "For both type 1 and type 2 The frequency variation is 1 octave/min. The number of cycles is 10, the test shall be performed along each of the 3 axes. The vibrations are applied at low frequencies at a maximum constant amplitude and at a maximum constant acceleration at high frequencies.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1765,7 +1971,9 @@
   "title": null,
   "text": "During the test the VAS shall be electrically connected and the cable shall be supported after 200 mm.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1782,7 +1990,9 @@
   "title": null,
   "text": "After the vibration test the operation tests according to paragraph 7.2.1. shall be repeated.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1799,7 +2009,9 @@
   "title": null,
   "text": "Durability test Under the test conditions specified in paragraph 7.2.1.2., triggering of 300 complete alarm cycles (audible and/or optical) with a rest time of the audible device of 5 min.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1816,7 +2028,9 @@
   "title": null,
   "text": "Tests for external key switch (installed on the outside of the vehicle) The following tests shall only be performed if the locking cylinder of the original equipment door lock is not used.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1833,7 +2047,9 @@
   "title": null,
   "text": "The key switch shall be so designed and constructed that it remains fully effective even after 2,500 set/unset cycles in each direction, followed by 96 hours minimum of exposure to salt spray test according to IEC 68-2-11-1981, corrosion resistance test.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1850,7 +2066,9 @@
   "title": null,
   "text": "Test of systems for the protection of the passenger compartment The alarm shall be activated, when a vertical panel of 0.2 x 0.15 m is inserted for 0.3 m (measured from the centre of the vertical plane) through an open front door window into the passenger compartment, towards the front and parallel to the road at a speed of 0.4 m/s and at an angle of 45° with the longitudinal median plane of the vehicle. (See drawings in Annex 8 to this Regulation).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1867,7 +2085,9 @@
   "title": null,
   "text": "Electromagnetic compatibility The VAS shall be submitted to the tests described in Annex 7. In this case, a VAS which meets all the functional status of the tests in Annex 7 is deemed not to cause the alarm signal to sound unnecessarily in association with the requirements in paragraph 6.1.2.1. With regard to the conformity to the functional status in each test, a VAS, which is designed to sound the alarm in the set state in some of the test conditions given in Annex 7 and sound the alarm signal in the tests, is deemed to function as designed in the tests and thus deemed to meet the functional status of the tests. In this case, the manufacturer of the VAS shall prove it by submitting related documents.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1884,7 +2104,9 @@
   "title": null,
   "text": "Safety against false alarm in the event of an impact on the vehicle It shall be verified that an impact of up to 4.5 Joules of a hemispherical body with 165 mm in diameter and 70 ± 10 Shore A applied anywhere to the vehicle bodywork or glazing with its curved surface does not cause false alarms.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1901,7 +2123,9 @@
   "title": null,
   "text": "Safety against false alarm in the event of a voltage reduction It shall be verified that slow reduction of the main battery voltage by continuous discharge of 0.5 V per hour down to 3 V does not cause false alarms. Test conditions: see paragraph 7.2.1.2. above.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1918,7 +2142,9 @@
   "title": null,
   "text": "Test for safety against false alarm of the passenger compartment control Systems intended for the protection of the passenger compartment according to paragraph 6.1.1. above shall be tested together with a vehicle under normal conditions (paragraph 7.2.1.2.). The system, installed according to the manufacturer's instructions, shall not be triggered when subjected 5 times to the test described in paragraph 7.2.13. above at intervals of 0.5 s. The presence of a person touching or moving around the outside of the vehicle (windows closed) shall not cause any false alarm.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1935,7 +2161,9 @@
   "title": null,
   "text": "Instructions Each VAS shall be accompanied by:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1952,7 +2180,9 @@
   "title": null,
   "text": "Instructions for installation:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -1969,7 +2199,9 @@
   "title": null,
   "text": "The list of vehicles and vehicle models for which the device is intended. This list may be specific or generic, e.g. \"all cars with petrol engines and 12 V negative earth batteries\".",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -1986,7 +2218,9 @@
   "title": null,
   "text": "The method of installation illustrated by photographs and/or very clear drawings.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -2003,7 +2237,9 @@
   "title": null,
   "text": "In the case of VAS which includes an immobilizer, additional instructions regarding compliance with the requirements of UN Regulation No. XXX (immobilizer) or UN Regulation No. 116, Supplement 7 to the original version, or UN Regulation No. 97, Supplement 8 to the 01 series of amendments.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R163",
@@ -2020,7 +2256,9 @@
   "title": null,
   "text": "A blank installation certificate, an example of which is given in Annex 5.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2037,7 +2275,9 @@
   "title": null,
   "text": "A general statement to the VAS purchaser calling his attention to the following points: (a) The VAS should be installed in accordance with the manufacturer's instructions; (b) The selection of a good installer is recommended (the VAS manufacturer may be contacted to indicate appropriate installers); (c) The installation certificate supplied with the VAS should be completed by the installer.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2054,7 +2294,9 @@
   "title": "Instruction for use",
   "text": "Instruction for use",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2071,7 +2313,9 @@
   "title": "Instruction for maintenance",
   "text": "Instruction for maintenance",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2088,7 +2332,9 @@
   "title": null,
   "text": "A general warning regarding the danger of making any alterations or additions to the system; such alterations or additions would automatically invalidate the certificate of installation referred to in paragraph 8.2. above.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2105,7 +2351,9 @@
   "title": null,
   "text": "Indication of the location(s) of the international approval mark mentioned in paragraph 4.4. of this Regulation and/or the international certificate of conformity mentioned in paragraph 4.10. of this Regulation. Part II - Approval of a vehicle with regard to its alarm system When a VAS approved to Part I of this Regulation or UN Regulation No. 116 Supplement 7 to the original version, or UN Regulation No. 97 Supplement 8 to the 01 series of amendments is installed in a vehicle submitted for approval to Part II of this Regulation, tests required to be passed by a VAS in order to obtain approval to Part I of this Regulation shall not be repeated.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2122,7 +2370,9 @@
   "title": null,
   "text": "Definitions For the purpose of Part II of this Regulation, 9.1. _\"Alarm system(s)\"_ (AS) means an arrangement of components fitted as original equipment in a vehicle type, designed to indicate intrusion into or interference with the vehicle; these systems may provide additional protection against unauthorized use of the vehicle. 9.2. _\"Vehicle type with regard to its alarm system\"_ means vehicles which do not differ significantly in such essential aspects as: (a) The manufacturer's trade name or mark; (b) Vehicle features which significantly influence the performances of the AS; (c) The type and design of the AS or VAS. 9.3. _\"Approval of a vehicle\"_ means the approval of a vehicle type with regard to the requirements laid down in paragraphs 10., 11. and 12. below.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2139,7 +2389,9 @@
   "title": null,
   "text": "Other definitions applicable to Part II are contained in paragraph 2. of this Regulation.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2156,7 +2408,9 @@
   "title": "General specifications",
   "text": "General specifications",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2173,7 +2427,9 @@
   "title": null,
   "text": "ASs shall be designed and built in such a way that they, in the event of intrusion into or interference with a vehicle, provide a warning signal, and may include an immobilizer. The warning signal shall be audible and in addition may include optical warning devices, or be a radio alarm, or any combination of the above.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2190,7 +2446,9 @@
   "title": null,
   "text": "Vehicle which are equipped with alarm systems shall comply with the relevant technical requirements, especially with regard to electromagnetic compatibility (EMC).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2207,7 +2465,9 @@
   "title": null,
   "text": "The AS and components thereof shall not activate inadvertently, particularly whilst the engine is in its running mode.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2224,7 +2484,9 @@
   "title": null,
   "text": "Failure of the AS, or failure of its electrical supply shall not affect the safe operation of the vehicle.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2241,7 +2503,9 @@
   "title": null,
   "text": "The alarm system, its components and the parts controlled by them shall be so installed as to minimize the risk for anyone to make them inoperable or to destroy them rapidly and without calling attention, e.g. using low- cost, easily-concealed tools, equipment or fabrications readily available to the public at large.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2258,7 +2522,9 @@
   "title": null,
   "text": "The system shall be so arranged that the shorting out of any warning signal circuit shall not render inoperative any aspects of the alarm system, other than the circuit which is shorted out.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2275,7 +2541,9 @@
   "title": null,
   "text": "In addition, digital keys shall comply with the provisions of Annex 9.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2292,7 +2560,9 @@
   "title": "Particular specifications",
   "text": "Particular specifications",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2309,7 +2579,9 @@
   "title": "Protection range",
   "text": "Protection range",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2326,7 +2598,9 @@
   "title": null,
   "text": "Specific requirements The AS shall at least detect and signal the opening of any vehicle door, engine bonnet and luggage compartment. The failure or switching off of light sources, e.g. passenger compartment light, shall not impair the control operation. The installation of additional efficient sensors for information/display, e.g.: (a) Of intrusion into the vehicle, e.g. passenger compartment control, window glass control breakage of any glazed area; or (b) Of attempted vehicle theft, e.g. inclination sensor; are allowed, taking account of measures to prevent any unnecessary sounding of the alarm (= false alarm, see paragraph 11.1.2. below). Insofar as these additional sensors generate an alarm signal even after an intrusion has occurred (e.g. by breakage of a glazed area) or under external influences (e.g. wind), the alarm signal, activated by one of the abovementioned sensors, shall be activated not more than 10 times within the same activation period of the AS. In this case the activation period shall be limited by the authorized unsetting of the system as a result of the vehicle user's action. Some kinds of additional sensors, e.g. passenger compartment control (ultrasonic, infrared) or inclination sensor, etc., may be intentionally deactivated. In this case, separate deliberate action shall be taken each time before the AS is set. It shall not be possible to deactivate the sensors while the alarm system is in a set state.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2343,7 +2617,9 @@
   "title": "Safety against false alarm",
   "text": "Safety against false alarm",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2360,7 +2636,9 @@
   "title": null,
   "text": "It shall be ensured that the AS both in set and unset conditions, cannot cause the alarm signal to sound unnecessarily, in the event of: (a) An impact on the vehicle: test specified in paragraph 7.2.13.; (b) Electromagnetic compatibility: tests specified in paragraph 7.2.12.; (c) Reduction of battery voltage by continuous discharge: test specified in paragraph 7.2.14.; (d) False alarm of the passenger compartment control: test specified in paragraph 7.2.15.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2377,7 +2655,9 @@
   "title": null,
   "text": "If the applicant for approval can demonstrate, e.g. by technical data, that safety against false alarm is satisfactorily ensured, the technical service responsible for conducting approval tests may not require some of the above tests.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2394,7 +2674,9 @@
   "title": "Audible alarm",
   "text": "Audible alarm",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2411,7 +2693,9 @@
   "title": null,
   "text": "General The warning signal shall be clearly audible and recognizable and shall differ significantly from the other audible signals used in road traffic. In addition to the original equipment audible warning device, a separate audible warning device may be fitted in the area of the vehicle which is controlled by the AS, where it shall be protected against easy, rapid access by persons. If a separate audible warning device according to paragraph 11.2.3.1. below is used, the original equipment standard audible warning device may additionally be actuated by the AS, provided that any tampering with the standard audible warning device (generally more accessible) does not affect the operation of the additional audible warning device.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2428,7 +2712,9 @@
   "title": null,
   "text": "Duration of the audible signal Minimum: 25 s Maximum: 30 s The audible signal may sound again only after the next interference with the vehicle, i.e. after the abovementioned time span. (Restrictions: see paragraphs 11.1.1. and 11.1.2. above). Unsetting of the alarm system shall immediately cut the signal.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2445,7 +2731,9 @@
   "title": "Specifications concerning the audible signal",
   "text": "Specifications concerning the audible signal",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2462,7 +2750,9 @@
   "title": null,
   "text": "Constant tone signal device (constant frequency spectrum), e.g. horns: acoustical, etc., data according to UN Regulation No. 28, Part I. Intermittent signal (on/off): Trigger frequency (2 ± 1) Hz On time = off time ± 10 per cent",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2479,7 +2769,9 @@
   "title": null,
   "text": "Audible signal device with frequency modulation: acoustical, etc., data according to UN Regulation No. 28, Part I but equal passage of a significant frequency range within the above-mentioned range (1,800 through 3,550 Hz) in both directions. Passage frequency (2 ± 1) Hz",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2496,7 +2788,9 @@
   "title": null,
   "text": "Sound level The sound level shall be: (a) Either an audible warning device approved under UN Regulation No. 28, Part I; (b) Or a device meeting the requirements of UN Regulation No. 28, Part I, paragraph 6.1. and 6.2. However, in the case of a different sound source from the original equipment audible warning device, the minimum sound level may be reduced to 100 dB(A), measured under the conditions of UN Regulation No. 28, Part I.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2513,7 +2807,9 @@
   "title": "Optical alarm - if fitted",
   "text": "Optical alarm - if fitted",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2530,7 +2826,9 @@
   "title": null,
   "text": "General In the event of intrusion into or interference with the vehicle the device shall activate an optical signal as specified in paragraphs 11.3.2. and 11.3.3. below.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2547,7 +2845,9 @@
   "title": null,
   "text": "Duration of the optical signal The optical signal shall have a duration between 25 s and 5 minutes after the alarm has been activated. The unsetting of the alarm system shall immediately stop the signal.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2564,7 +2864,9 @@
   "title": null,
   "text": "Type of optical signal Flashing of all direction indicators and/or passenger compartment light of the vehicle, including all lamps in the same electrical circuit. Trigger frequency (2 ± 1) Hz In relation to the audible signal, also asynchronous signals are allowed. On time = off time ± 10 per cent",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2581,7 +2883,9 @@
   "title": null,
   "text": "Radio alarm (pager) - if fitted The AS may include a facility generating an alarm signal by radio transmission.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2598,7 +2902,9 @@
   "title": "Alarm system setting lock",
   "text": "Alarm system setting lock",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2615,7 +2921,9 @@
   "title": null,
   "text": "When the engine is in its running mode, deliberate or inadvertent setting of the alarm system shall be impossible.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2632,7 +2940,9 @@
   "title": "Setting and unsetting of the AS",
   "text": "Setting and unsetting of the AS",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2649,7 +2959,9 @@
   "title": null,
   "text": "Setting Any suitable means of setting of the AS is allowed, provided that such means does not inadvertently cause false alarms.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2666,7 +2978,9 @@
   "title": null,
   "text": "Unsetting Unsetting of the AS shall be achieved by one or a combination of the following devices. Other devices giving equivalent performance are permitted.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2683,7 +2997,9 @@
   "title": null,
   "text": "A mechanical key (complying with requirements of Annex 6 to this Regulation) which can be coupled with a centralized vehicle locking system comprising of at least 1,000 variants, operated from the outside.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2700,7 +3016,9 @@
   "title": null,
   "text": "Electrical/electronic device, e.g. remote control, with at least 50,000 variants and shall incorporate rolling codes and/or have a minimum scan time of ten days, e.g. a maximum of 5,000 variants per 24 hours for 50,000 variants minimum.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2717,7 +3035,9 @@
   "title": null,
   "text": "A mechanical key or an electrical/electronic device within the protected passenger compartment, with timed exit/entry delay.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2734,7 +3054,9 @@
   "title": null,
   "text": "Exit delay If the switching device for setting the AS is fitted within the protected area, an exit delay shall be provided. It shall be possible for the exit delay to be set to between 15 seconds and 45 seconds after the switch has been operated. The delay period may be adjustable to suit individual operators' circumstances.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2751,7 +3073,9 @@
   "title": null,
   "text": "Entry delay If the device for unsetting the AS is fitted within the protected area, a delay of 5 seconds minimum and 15 seconds maximum shall be allowed before the activation of the audible and optical signals. The delay period may be adjustable to suit individual operators' circumstances.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2768,7 +3092,9 @@
   "title": "Status display",
   "text": "Status display",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2785,7 +3111,9 @@
   "title": null,
   "text": "To provide information on the status of the AS (set, unset, alarm setting period, alarm has been activated), optical displays inside and outside the passenger compartment are allowed. Any optical signal or any use of lighting and light-signalling devices outside the passenger compartment shall fulfil the requirements of UN Regulation No. 48.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2802,7 +3130,9 @@
   "title": null,
   "text": "If an indication of short-term \"dynamic\" processes such as changes from \"set\" to \"unset\" and vice versa is provided, it shall be optical according to paragraph 11.9.1. Such optical indication may also be produced by the simultaneous operation of the direction indicators and/or passenger compartment lamp(s), provided that the duration of the optical indication by the direction indicators does not exceed 3 seconds.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2819,7 +3149,9 @@
   "title": null,
   "text": "Power supply The source of power for the AS shall either be the vehicle battery or a rechargeable battery. Where provided, an additional rechargeable or non-rechargeable battery may be used. These batteries shall by no means supply energy to other parts of the vehicle electrical system.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2836,7 +3168,9 @@
   "title": "Specifications for optional functions",
   "text": "Specifications for optional functions",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2853,7 +3187,9 @@
   "title": null,
   "text": "Self-check, automatic failure indication On setting the AS, irregular situations, e.g. open doors, etc., can be detected by a self-check function (plausibility control), and this situation is indicated.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2870,7 +3206,9 @@
   "title": null,
   "text": "Panic alarm An optical and/or audible and/or radio alarm is allowed independent of the state (set or unset) and/or function of the AS. Such an alarm shall be triggered from within the vehicle and shall not affect the state (set or unset) of the AS. Also it shall be possible for the vehicle user to switch off the panic alarm. In the case of an audible alarm, its sounding duration per activation shall not be restricted. A panic alarm shall not immobilize the engine or stop it if it is running.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2887,7 +3225,9 @@
   "title": null,
   "text": "Test conditions All components of the VAS or AS shall be tested in accordance with procedures described in paragraph 7. This requirement does not apply to:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2904,7 +3244,9 @@
   "title": null,
   "text": "Those components that are fitted and tested as part of the vehicle, whether or not a VAS/AS is fitted (e.g. lamps); or,",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2921,7 +3263,9 @@
   "title": null,
   "text": "Those components that have previously been tested as part of the vehicle and documentary evidence has been provided.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2938,7 +3282,9 @@
   "title": null,
   "text": "Components that are not embedded in the vehicle, e.g. keys.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2955,7 +3301,9 @@
   "title": null,
   "text": "Instructions Each vehicle shall be accompanied by:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2972,7 +3320,9 @@
   "title": null,
   "text": "Instructions for use.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -2989,7 +3339,9 @@
   "title": null,
   "text": "Instructions for maintenance.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -3006,7 +3358,9 @@
   "title": null,
   "text": "A general warning regarding the danger of making any alterations or additions to the system.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -3023,7 +3377,9 @@
   "title": "Modification of vehicle type and extension of approval",
   "text": "Modification of vehicle type and extension of approval",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3040,7 +3396,9 @@
   "title": null,
   "text": "Every modification of a vehicle or component type with regard to this UN Regulation shall be notified to the type approval authority (TAA) which approved the vehicle or component type. The TAA may then either: 14.1.1. consider that the modifications made are unlikely to have an appreciable adverse effect and that in any case the component or the vehicle still complies with the requirements, or 14.1.2. require a further report from the technical service responsible for conducting the tests.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3057,7 +3415,9 @@
   "title": null,
   "text": "Confirmation or refusal of approval, specifying the alteration, shall be communicated by the procedure specified in paragraph 4.3. above to the Contracting Parties to the Agreement applying this UN Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3074,7 +3434,9 @@
   "title": null,
   "text": "The TAA issuing the extension of approval shall inform the other Contracting Parties of the extension by means of the communication form which appears in Annex 1 to this UN Regulation. It shall assign a serial number to each communication form drawn up for such an extension.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3091,7 +3453,9 @@
   "title": null,
   "text": "Conformity of production procedures The conformity of production procedures shall comply with those set out in the Agreement, Schedule 1 (E/ECE/TRANS/505/Rev.3), with the following requirements:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -3108,7 +3472,9 @@
   "title": null,
   "text": "Vehicles/components under this Regulation shall be so manufactured as to conform to the type approved by meeting the requirements of the relevant part(s) of this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3125,7 +3491,9 @@
   "title": null,
   "text": "For each type of vehicle or component the tests prescribed in the relevant part(s) of this Regulation shall be carried out on a statistically controlled and random basis, in accordance with one of the regular quality assurance procedures.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3142,7 +3510,9 @@
   "title": null,
   "text": "The authority which has granted approval may at any time verify the conformity control methods applied in each production facility. The normal frequency of these verifications shall be one every two years.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3159,7 +3529,9 @@
   "title": "Penalties for non-conformity of production",
   "text": "Penalties for non-conformity of production",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3176,7 +3548,9 @@
   "title": null,
   "text": "The approval granted in respect of a vehicle/component type pursuant to this Regulation may be withdrawn if the requirements laid down in paragraph 15. above are not complied with.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3193,7 +3567,9 @@
   "title": null,
   "text": "If a Contracting Party to the Agreement applying this Regulation withdraws an approval it has previously granted, it shall forthwith so notify the other Contracting Parties applying this Regulation, by means of a form conforming to the model in Annex 2.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3210,7 +3586,9 @@
   "title": null,
   "text": "Production definitively discontinued If the holder of the approval completely ceases to manufacture a vehicle/component type approved in accordance with this Regulation, he shall so inform the authority which granted the approval. Upon receiving the relevant communication, that authority shall inform thereof the other Contracting Parties to the Agreement applying this Regulation by means of a form conforming to the model in Annex 2.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -3227,7 +3605,9 @@
   "title": null,
   "text": "Names and addresses of the Technical Services responsible for conducting approval tests and of Type Approval Authorities The Contracting Parties to the Agreement applying this Regulation shall communicate to the United Nations Secretariat the names and addresses of the Technical Services responsible for conducting approval tests and of the Type Approval Authorities which grant approval and to which forms certifying approval or extension or refusal or withdrawal of approval are to be sent.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -3239,29 +3619,14 @@
   "depth": 1,
   "parent": null,
   "page_start": 17,
-  "page_end": 17,
-  "heading": "Annex 1a Information document",
-  "title": null,
-  "text": "(Maximum format: A4 (210 mm x 297 mm)) In accordance with paragraph 11. of this Regulation relating to system type approval of a vehicle type with regard to an alarm system 1. **General**",
-  "tables": [],
-  "has_shall": false
- },
- {
-  "reg": "UN R163",
-  "version": "0.3.0",
-  "role": "base",
-  "doc": "Annex 1a",
-  "label": "1.1",
-  "key": "annex 1a 1.1",
-  "depth": 2,
-  "parent": "1",
-  "page_start": 17,
   "page_end": 18,
   "heading": "Annex 1a Information document",
   "title": null,
-  "text": "Make (trade name of manufacturer):........................... 1.2. Type:............................................... 1.3. Means of identification of type, if marked on the device:.............. 1.3.1. Location of that marking:.................................. 1.4. Name and address of manufacturer:............................ 1.5. Location of the ECE approval mark:........................... 1.6. Address(es) of assembly plant(s):............................. 2. **General construction characteristics of the vehicle** 2.1. Photographs and/or drawings of a representative vehicle: 2.2. Hand of drive: left / right (Strike out what does not apply) 3. **Miscellaneous** 3.1. Type approval number, if available: 3.1.1. A detailed description of the vehicle type with regard to the arrangement of the installed vehicle alarm system illustrated by photographs and/or drawings (where the vehicle alarm system is already type approved as a separate technical unit, reference may be made to the description in item 4.2. of the vehicle alarm system manufacturer’s information document): 3.2. For alarm systems not yet approved 3.2.1. A detailed description of the alarm system and of the vehicle parts related to the alarm system installed: 3.2.2. A list of the main components comprising the alarm system:",
+  "text": "(Maximum format: A4 (210 mm x 297 mm)) In accordance with paragraph 11. of this Regulation relating to system type approval of a vehicle type with regard to an alarm system 1. **General** 1.1. Make (trade name of manufacturer):........................... 1.2. Type:............................................... 1.3. Means of identification of type, if marked on the device:.............. 1.3.1. Location of that marking:.................................. 1.4. Name and address of manufacturer:............................ 1.5. Location of the ECE approval mark:........................... 1.6. Address(es) of assembly plant(s):............................. 2. **General construction characteristics of the vehicle** 2.1. Photographs and/or drawings of a representative vehicle: 2.2. Hand of drive: left / right (Strike out what does not apply) 3. **Miscellaneous** 3.1. Type approval number, if available: 3.1.1. A detailed description of the vehicle type with regard to the arrangement of the installed vehicle alarm system illustrated by photographs and/or drawings (where the vehicle alarm system is already type approved as a separate technical unit, reference may be made to the description in item 4.2. of the vehicle alarm system manufacturer’s information document): 3.2. For alarm systems not yet approved 3.2.1. A detailed description of the alarm system and of the vehicle parts related to the alarm system installed: 3.2.2. A list of the main components comprising the alarm system:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3278,7 +3643,9 @@
   "title": null,
   "text": "(Maximum format: A4 (210 mm x 297 mm)) In accordance with paragraph 6. of this Regulation relating to ECE component or separate technical unit type approval of an alarm system",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3295,7 +3662,9 @@
   "title": "General",
   "text": "General",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3312,7 +3681,9 @@
   "title": null,
   "text": "Make (trade name of manufacturer):...........................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3329,7 +3700,9 @@
   "title": null,
   "text": "Type:...............................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3346,7 +3719,9 @@
   "title": null,
   "text": "Means of identification of type, if marked on the device:1 ............. 1If the means of identification of type contains characters not relevant to describe the component or separate technical unit types covered in this information document, such characters shall be represented in the documentation by the symbol \"?\" (e.g. ABC??123??).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3363,7 +3738,9 @@
   "title": null,
   "text": "Location of that marking:..................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3380,7 +3757,9 @@
   "title": null,
   "text": "Name and address of manufacturer:............................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3397,7 +3776,9 @@
   "title": null,
   "text": "Location of the ECE approval mark:...........................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3414,7 +3795,9 @@
   "title": null,
   "text": "Address(es) of assembly plant(s):.............................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3431,7 +3814,9 @@
   "title": "Description of the device",
   "text": "Description of the device",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3448,7 +3833,9 @@
   "title": null,
   "text": "A detailed description of the alarm system and of the vehicle parts related to the alarm system installed:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3465,7 +3852,9 @@
   "title": null,
   "text": "A list of the main components comprising the alarm system:...........",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3482,7 +3871,9 @@
   "title": null,
   "text": "The measures taken against false alarms:........................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3499,7 +3890,9 @@
   "title": null,
   "text": "Range of protection offered by the device:.......................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3516,7 +3909,9 @@
   "title": null,
   "text": "Method of setting/unsetting the device:.........................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3533,7 +3928,9 @@
   "title": null,
   "text": "Number of effective interchangeable codes, if applicable:.............",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3550,7 +3947,9 @@
   "title": null,
   "text": "List of main components comprising the device and, if applicable, their reference marks:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3567,7 +3966,9 @@
   "title": "Drawings",
   "text": "Drawings",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3584,7 +3985,9 @@
   "title": null,
   "text": "Drawings of the main components of the device (the drawings shall show the intended space for UN type approval mark or reference mark, as applicable):",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3601,7 +4004,9 @@
   "title": "Instructions",
   "text": "Instructions",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3618,7 +4023,9 @@
   "title": null,
   "text": "List of vehicles to which the device is intended to be fitted:............",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3635,7 +4042,9 @@
   "title": null,
   "text": "Description of the method of installation illustrated by photographs and/or drawings:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3652,7 +4061,9 @@
   "title": null,
   "text": "Instructions for use:......................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3669,7 +4080,9 @@
   "title": null,
   "text": "Instructions for maintenance, if any:...........................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3686,7 +4099,9 @@
   "title": null,
   "text": "List of paragraphs of this Regulation which do not apply by virtue of the installation conditions for a VAS, which is to be installed in specified places in specified vehicles.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3703,7 +4118,9 @@
   "title": null,
   "text": "(Maximum format: A4 (210 x 297 mm)) issued by: Name of administration: ...................................... concerning:2 Approval granted Approval extended Approval refused Approval withdrawn Production definitively discontinued of a type of vehicle with regard to its Vehicle Alarm System pursuant to UN Regulation No. [ZZZ] Approval No. .................. Extension No................. 1Distinguishing number of the country which has granted/extended/refused/withdrawn an approval (see approval provisions in the Regulation). 2Strike out what does not apply.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3720,7 +4137,9 @@
   "title": null,
   "text": "Trademark:......................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3737,7 +4156,9 @@
   "title": null,
   "text": "Type and trade name(s):..............................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3754,7 +4175,9 @@
   "title": null,
   "text": "Name and address of manufacturer:......................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3771,7 +4194,9 @@
   "title": null,
   "text": "If applicable, name and address of manufacturer's representative: ...................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3788,7 +4213,9 @@
   "title": null,
   "text": "Photographs and/or drawings of a representative vehicle:........................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3805,7 +4232,9 @@
   "title": null,
   "text": "Hand of drive: left / right2 2Strike out what does not apply.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3822,7 +4251,9 @@
   "title": null,
   "text": "Alarm system:....................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3839,7 +4270,9 @@
   "title": null,
   "text": "Type approval number, if available:......................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3856,7 +4289,9 @@
   "title": null,
   "text": "A detailed description of the vehicle type with regard to the arrangement of the installed VAS illustrated by photographs and/or drawings (where the VAS is already type approved as a separate technical unit, reference may be made to the description in item 4.2. of the VAS manufacturer's information document):",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3873,7 +4308,9 @@
   "title": "For alarm systems not yet approved",
   "text": "For alarm systems not yet approved",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3890,7 +4327,9 @@
   "title": null,
   "text": "A detailed description of the alarm system and of the vehicle parts related to the alarm system installed:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3907,7 +4346,9 @@
   "title": null,
   "text": "A list of the main components comprising the alarm system:......................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3924,7 +4365,9 @@
   "title": null,
   "text": "Brief description of vehicle:...........................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3941,7 +4384,9 @@
   "title": null,
   "text": "Date of submission of vehicle for approval: .................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3958,7 +4403,9 @@
   "title": null,
   "text": "Technical Service performing the approval tests: .............................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3975,7 +4422,9 @@
   "title": null,
   "text": "Date of report issued by that Service:.....................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -3992,7 +4441,9 @@
   "title": null,
   "text": "Number of report issued by that Service:...................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4009,7 +4460,9 @@
   "title": null,
   "text": "Approval granted/refused/extended/withdrawn:2 2Strike out what does not apply.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4026,7 +4479,9 @@
   "title": null,
   "text": "Place:..........................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4043,7 +4498,9 @@
   "title": null,
   "text": "Date:..........................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4060,7 +4517,9 @@
   "title": null,
   "text": "Signature:.......................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4077,7 +4536,9 @@
   "title": null,
   "text": "Annexed to this communication are the following documents, bearing the approval number indicated above:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4094,7 +4555,9 @@
   "title": null,
   "text": "Any remarks:.....................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4111,7 +4574,9 @@
   "title": null,
   "text": "(Maximum format: A4 (210 x 297 mm)) issued by: Name of administration: Concerning:2 Approval granted Approval extended Approval refused Approval withdrawn Production definitively discontinued of a type of component or separate technical unit as an alarm system pursuant to Regulation No. [ZZZ] Approval No. .................. Extension No................. 1Distinguishing number of the country which has granted/extended/refused/withdrawn an approval (see approval provisions in the Regulation). 2Strike out what does not apply.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4128,7 +4593,9 @@
   "title": null,
   "text": "Trademark:......................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4145,7 +4612,9 @@
   "title": null,
   "text": "Type and trade name(s):..............................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4162,7 +4631,9 @@
   "title": null,
   "text": "Name and address of manufacturer:......................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4179,7 +4650,9 @@
   "title": null,
   "text": "If applicable, name and address of manufacturer's representative: ...................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4196,7 +4669,9 @@
   "title": null,
   "text": "Address(es) of assembly plant(s):........................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4213,7 +4688,9 @@
   "title": null,
   "text": "Alarm system:....................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4230,7 +4707,9 @@
   "title": null,
   "text": "Means of identification of type, if marked on the device:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4247,7 +4726,9 @@
   "title": null,
   "text": "Location of that marking:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4264,7 +4745,9 @@
   "title": null,
   "text": "Description of the alarm system:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4281,7 +4764,9 @@
   "title": null,
   "text": "A detailed description of the alarm system and of the vehicle parts related to the alarm system installed:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4298,7 +4783,9 @@
   "title": null,
   "text": "A list of the main components comprising the alarm system:......................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4315,7 +4802,9 @@
   "title": null,
   "text": "List of vehicles to which the alarm is intended to be fitted:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4332,7 +4821,9 @@
   "title": null,
   "text": "Types of vehicles on which the vehicle alarm system has been tested:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4349,7 +4840,9 @@
   "title": null,
   "text": "Technical Service performing the approval tests: .............................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4366,7 +4859,9 @@
   "title": null,
   "text": "Date of report issued by that Service:.....................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4383,7 +4878,9 @@
   "title": null,
   "text": "Number of report issued by that Service:...................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4400,7 +4897,9 @@
   "title": null,
   "text": "Approval granted/refused/extended/withdrawn:2 2Strike out what does not apply.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4417,7 +4916,9 @@
   "title": null,
   "text": "Place:..........................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4434,7 +4935,9 @@
   "title": null,
   "text": "Date:..........................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4451,7 +4954,9 @@
   "title": null,
   "text": "Signature:.......................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4468,7 +4973,9 @@
   "title": null,
   "text": "Annexed to this communication are the following documents, bearing the approval number indicated above:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4485,7 +4992,9 @@
   "title": null,
   "text": "Any remarks:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4502,7 +5011,9 @@
   "title": null,
   "text": "(see paragraphs 4.4. to 4.4.2. of this Regulation) a = 8 mm min. The above approval mark affixed to a vehicle shows that the type concerned was approved in Belgium (E 6) pursuant to UN Regulation No. ZZZ. The first two digits (00) of the approval number indicate that the approval was granted in accordance with the requirements of UN Regulation No. XXX in its original form.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Arrangements of approval marks",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R163",
@@ -4519,7 +5030,9 @@
   "title": null,
   "text": "I the undersigned (surname and name) Testify that the vehicle alarm system described below: Make:.................................................................. Type:.................................................................. is in total conformity with the type approved at.................................. on.......................... (place of approval) (date) as described in the communication form bearing approval No. Identification of the main component(s): Component: ................ Marking:...................... Done at: ............... on:.......................... Manufacturer's full address and stamp:............................................ Signature : ...............(please specify position).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Model of certificate of conformity",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -4536,7 +5049,9 @@
   "title": null,
   "text": "I the undersigned......................................................... professional installer, certify that the installation of the vehicle alarm system described below has been carried out by myself pursuant to the mounting instructions supplied by the manufacturer of the system. Description of the vehicle Make:................................................................. Type:................................................................. Serial number:........................................................... Registration number:....................................................... Description of the vehicle alarm system Make:................................................................. Type:................................................................. Approval number:......................................................... Done at:........................ on:............................ Installer's full address and stamp:............................................... Signature: (please specify position).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Model of installation certificate",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -4553,7 +5068,9 @@
   "title": null,
   "text": "The cylinder of the key switch shall not protrude by more than 1 mm from the cowling, and the protruding part shall be conical.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Specifications for mechanical key switches",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -4570,7 +5087,9 @@
   "title": null,
   "text": "The joint between the cylinder core and the cylinder casing shall be capable of withstanding a tensile force of 600 N and a torque of 25 Nm.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Specifications for mechanical key switches",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -4587,7 +5106,9 @@
   "title": null,
   "text": "The key switch shall be provided with a cylinder drill obstruction.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Specifications for mechanical key switches",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -4604,7 +5125,9 @@
   "title": null,
   "text": "The key profile shall have at least 1,000 effective permutations.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Specifications for mechanical key switches",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -4621,7 +5144,9 @@
   "title": null,
   "text": "The key switch shall not be operable by a key which differs by only one permutation from the key matching the key switch.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Specifications for mechanical key switches",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -4638,7 +5163,9 @@
   "title": null,
   "text": "The key aperture to an external key switch shall be shuttered or otherwise protected against the penetration of dirt and/or water.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Specifications for mechanical key switches",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -4655,7 +5182,9 @@
   "title": null,
   "text": "Immunity against disturbances conducted along supply lines Tests shall be performed according to the technical prescriptions and transitional provisions of UN Regulation No. 10.06 series of amendments and according to the test methods described in Annex 10 for an Electrical/Electronic Sub-Assembly (ESA). The VAS/AS shall be tested in unset state and in set state.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Electromagnetic compatibility",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -4674,7 +5203,9 @@
   "tables": [
    "1"
   ],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Electromagnetic compatibility",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -4693,7 +5224,9 @@
   "tables": [
    "2"
   ],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Electromagnetic compatibility",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -4710,7 +5243,9 @@
   "title": null,
   "text": "Radiated emissions Tests shall be performed according to the technical prescriptions and transitional provisions of UN Regulation No. 10, 06 series of amendments prescriptions and according to the test methods described in Annexes 4 and 5 for vehicles or Annexes 7 and 8, foran Electrical/Electronic Sub-Assembly (ESA). The VAS/AS shall be in set state. Annex 8 Test of systems for the protection of the passenger compartment. Paragraph 7.2.11.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Electromagnetic compatibility",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -4727,7 +5262,9 @@
   "title": null,
   "text": "General The purpose of this annex is to specify the requirements for documentation and verification for digital keys used to operate the ‘alarm system’ of the vehicle.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -4744,7 +5281,9 @@
   "title": "Definitions",
   "text": "Definitions",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R163",
@@ -4761,7 +5300,9 @@
   "title": null,
   "text": "\" _Authorization process_ \" means any method to provide the digital key which can operate the ‘alarm system’ of the vehicle.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R163",
@@ -4778,7 +5319,9 @@
   "title": null,
   "text": "\" _Revocation process_ \" means any method to prevent the digital key to operate the ‘alarm system’ of the vehicle.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R163",
@@ -4795,7 +5338,9 @@
   "title": null,
   "text": "Documentation The vehicle manufacturer shall provide the following documentation for type approval:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -4812,7 +5357,9 @@
   "title": null,
   "text": "A description of the authorization process.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R163",
@@ -4829,7 +5376,9 @@
   "title": null,
   "text": "A description of the revocation process.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R163",
@@ -4846,7 +5395,9 @@
   "title": null,
   "text": "A description of the safety measures designed within the digital key revocation process to ensure safe operation of the vehicle.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R163",
@@ -4863,7 +5414,9 @@
   "title": "Requirements for Safe Operation",
   "text": "Requirements for Safe Operation",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -4880,7 +5433,9 @@
   "title": null,
   "text": "A digital key shall only be transferred to a device via the authorization process.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -4897,7 +5452,9 @@
   "title": null,
   "text": "There shall be a revocation process.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -4914,7 +5471,9 @@
   "title": null,
   "text": "Revocation of a digital key shall not result in an unsafe condition. A risk reduction analysis using functional safety standard such as ISO 26262 and safety of the intended functionality standard such as ISO/PAS 21448, which documents the risk to vehicle occupants caused by revocation of a digital key and documents the reduction of risk resulting from implementation of the identified risk mitigation functions or characteristics.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -4931,7 +5490,9 @@
   "title": null,
   "text": "It shall be possible for the primary user(s) to identify the number of authorized registered digital keys.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -4948,7 +5509,9 @@
   "title": null,
   "text": "Detailed information shall be contained in the owner's manual of the vehicle, or by any other communication means in the vehicle; as a minimum, this information shall include: (a) The method(s) for authorization of the digital key (b) The method(s) for revocation of the digital key",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -4965,7 +5528,9 @@
   "title": null,
   "text": "The effectiveness of the system shall not be adversely affected by cyber-attacks, cyber threats and vulnerabilities. The effectiveness of the security measures shall be demonstrated by fulfilling the technical requirements of UN Regulation No. 155.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -4982,7 +5547,9 @@
   "title": null,
   "text": "Verification Verification of the functionality of the digital key shall be conducted with support of manufacturer's documentation as specified in paragraph 3.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R163",
@@ -4999,6 +5566,8 @@
   "title": null,
   "text": "Competence of the auditors/assessors The assessments under this Annex shall only be conducted by auditors/assessors with the technical and administrative knowledge necessary for such purposes. They shall in particular be competent as auditor/assessor for ISO 26262-2018 (Functional Safety - Road Vehicles), and ISO/PAS 21448 (Safety of the Intended Functionality of road vehicles); and shall be able to make the necessary link with cybersecurity aspects in accordance with UN Regulation No. 155 and ISO/SAE 21434). This competence should be demonstrated by appropriate qualifications or other equivalent training records.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Safety provisions for digital keys",
+  "section_kind": "requirement"
  }
 ]

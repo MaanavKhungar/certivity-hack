@@ -14,7 +14,9 @@
   "title": null,
   "text": "UN R37 (version 3.48.0) Consolidated text of this version, rendered by Certivity for the hackathon. Cite pages of THIS file: the page number is printed at the bottom of every page. Role in the hackathon: base version.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -31,7 +33,9 @@
   "title": null,
   "text": "Scope This Regulation applies to filament light sources and their LED replacement light sources shown in Annex 1 and intended for use in approved lamps of power-driven vehicles and of their trailers.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -48,7 +52,9 @@
   "title": "Administrative provisions",
   "text": "Administrative provisions",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -65,7 +71,9 @@
   "title": null,
   "text": "Definitions The definitions given in Resolution R.E.5 or its subsequent revisions, applicable at the time of application for type approval shall apply.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -82,7 +90,9 @@
   "title": null,
   "text": "Definition of \" _category_ \" The term \"category\" is used in this Regulation to describe different basic design of standardised filament light sources, producing light by incandescent technology, and to describe different basic design of standardised LED replacement light sources, producing light by LED technology. Each category has a specific designation, as for example: \"H4\", \"P21W\", \"T4W\", \"PY21W\"or \"RR10W\"; however, a LED replacement light source category has the same designation1 as its counterpart filament light source category, as for example \"H11. 1 A LED replacement light source category has the same designation, as it is designed to replace its counterpart filament light source category with equivalent performance; however, it is a distinct category due to another light producing technology being used, described in a separate light source category data sheet shown in Annex 1.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -99,7 +109,9 @@
   "title": "Definition of \" _type_ \"",
   "text": "Definition of \" _type_ \"",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R37",
@@ -116,7 +128,9 @@
   "title": null,
   "text": "Filament light sources of different2 \"types\" are filament light sources within the same filament light source category which differ in such essential respects as: 2A selective-yellow bulb or an additional selective-yellow outer bulb, solely intended to change the colour but not the other characteristics of a filament light source emitting white light, does not constitute a change of type of the filament light source.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R37",
@@ -133,7 +147,9 @@
   "title": null,
   "text": "Trade name or mark; Filament light sources bearing the same trade name or mark but produced by different manufacturers are considered as being of different types. Filament light sources produced by the same manufacturer differing only by the trade name or mark may be considered to be of the same type;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R37",
@@ -150,7 +166,9 @@
   "title": null,
   "text": "Bulb design and/or cap design, in so far as these differences affect the optical results;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R37",
@@ -167,7 +185,9 @@
   "title": null,
   "text": "Rated voltage;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R37",
@@ -184,7 +204,9 @@
   "title": null,
   "text": "Halogen.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R37",
@@ -201,7 +223,9 @@
   "title": null,
   "text": "LED replacement light sources of different3 \"types\" are LED replacement light sources within the same LED replacement light source category which differ in such essential respects as: 3An optional AE device for the LED replacement light source does not constitute a change of type of the LED replacement light source.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R37",
@@ -218,7 +242,9 @@
   "title": null,
   "text": "Trade name or mark; LED replacement light sources bearing the same trade name or mark but produced by different manufacturers are considered as being of different types. LED replacement light sources produced by the same manufacturer differing only by the trade name or mark may be considered to be of the same type;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R37",
@@ -235,7 +261,9 @@
   "title": null,
   "text": "Light source design, in so far as these differences affect the optical results;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R37",
@@ -252,7 +280,9 @@
   "title": null,
   "text": "Rated voltage;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R37",
@@ -269,7 +299,9 @@
   "title": null,
   "text": "High-efficiency;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R37",
@@ -286,7 +318,9 @@
   "title": null,
   "text": "Particular electrical polarity;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R37",
@@ -303,7 +337,9 @@
   "title": null,
   "text": "Oversize cap.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R37",
@@ -320,7 +356,9 @@
   "title": null,
   "text": "LED replacement light sources and their counterpart filament light sources are considered as being of different types.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R37",
@@ -337,7 +375,9 @@
   "title": "Application for approval",
   "text": "Application for approval",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -354,7 +394,9 @@
   "title": null,
   "text": "Application for approval shall be submitted by the owner of the trade name or mark, or by his duly accredited representative.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -371,7 +413,9 @@
   "title": null,
   "text": "Every application for approval shall be accompanied (see also paragraph 2.4.2.) by:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -388,7 +432,9 @@
   "title": null,
   "text": "Drawings in triplicate, sufficiently detailed to permit identification of the light producing technology and of the type;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -405,7 +451,9 @@
   "title": null,
   "text": "A brief technical description, which:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -422,7 +470,9 @@
   "title": null,
   "text": "In the case of a filament light source, shall include the shape of the filament if the relevant light source sheet specifies that a straight or V-shaped filament is allowed;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -439,7 +489,9 @@
   "title": null,
   "text": "In the case of a LED replacement light source, shall include a statement whether the following conditions apply to LED replacement light source: (a) It is a high-efficiency LED replacement light source, (b) An AE device (Additional Electronics device as defined in R.E.5) is included for applications listed according to paragraph 4.2.2.1.2., (c) I has a particular electrical polarity, (d) It is equipped with an oversize cap;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -456,7 +508,9 @@
   "title": null,
   "text": "In the case of a high-efficiency LED replacement light source, shall include the range of the electrical current at test voltage; this range shall be below the objective minimum value of the electrical current as specified in the data sheet of Annex 1, which does not apply to the high-efficiency LED replacement light source without or with disconnected AE device;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -473,7 +527,9 @@
   "title": null,
   "text": "In the case of AE device(s) is/are included, shall include trade name(s) or mark(s) of the AE device(s), the rated voltage, the maximum wattage and the specific identification code(s), if already granted to other LED replacement light source(s) together with this/these AE device(s).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -490,7 +546,9 @@
   "title": null,
   "text": "Five samples of each colour which has been applied for;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -507,7 +565,9 @@
   "title": null,
   "text": "Five samples of AE device(s) if prescribed by the applicant according to paragraph 2.2.2.2.2;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -524,7 +584,9 @@
   "title": null,
   "text": "Documents, in the case of LED replacement light sources, showing:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -541,7 +603,9 @@
   "title": null,
   "text": "The information to be displayed on the packaging of LED replacement light sources;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -558,7 +622,9 @@
   "title": null,
   "text": "The instructions to be contained by the packaging of LED replacement light sources if at least one of the conditions in paragraph 2.2.2.2.2. applies; an initial listing as described in paragraph 4.2.2.1 shall be included.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -575,7 +641,9 @@
   "title": null,
   "text": "In the case of a type of light source, or AE device suitable to a type of LED replacement light source, differing only by the trade name or mark from a type of light source, or AE device suitable to a type of LED replacement light source, that has already been approved it shall be sufficient to submit:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -592,7 +660,9 @@
   "title": null,
   "text": "A declaration by the manufacturer that the type submitted is identical (except in the trade name or mark) and has been produced by the same manufacturer as, the type already approved, the latter being identified by its approval code;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -609,7 +679,9 @@
   "title": null,
   "text": "Two samples bearing the new trade name or mark.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -626,7 +698,9 @@
   "title": null,
   "text": "The Type Approval Authority shall verify the existence of satisfactory arrangements for ensuring effective control of the conformity of production before type approval is granted.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -643,7 +717,9 @@
   "title": "Inscriptions",
   "text": "Inscriptions",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -660,7 +736,9 @@
   "title": null,
   "text": "Light sources submitted for approval shall bear:4 4The luminous characteristics shall not be adversely affected.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -677,7 +755,9 @@
   "title": null,
   "text": "The trade name or mark of the applicant;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -694,7 +774,9 @@
   "title": null,
   "text": "The rated voltage. However, for light sources for which only a 12 V type is standardised and the maximum allowed bulb diameter of which does not exceed 7.5 mm, the rated voltage need not be marked;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -711,7 +793,9 @@
   "title": null,
   "text": "The designation of the relevant category. The wattage character \"W\" of this designation need not be marked if the maximum allowed bulb diameter of the light source type does not exceed 7.5 mm;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -728,7 +812,9 @@
   "title": null,
   "text": "The rated wattage in the case of a filament light source, (in the sequence, high wattage/low wattage filament for dual-filament light sources); this need not be indicated separately if it is part of the designation of the relevant filament light source category;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -745,7 +831,9 @@
   "title": null,
   "text": "The character \"ͰE\"5 in the case of a high-efficiency LED replacement light source; this mark shall be placed before the truncated circle according to paragraph 2.4.3.1., separated by a single character space. 5This character can be composed of \"H\" overlapping with \"E\" or of \"Ͱ\" (Unicode 0370 Hex) connected to \"E\" (Unicode 0045 Hex).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -762,7 +850,9 @@
   "title": null,
   "text": "A space of sufficient size to accommodate the approval mark;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -779,7 +869,9 @@
   "title": null,
   "text": "In the case of a LED replacement light sources for which at least one of the conditions in paragraph 2.2.2.2.2. applies, the following symbol:6 6ISO 7000, symbol 1641",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -796,7 +888,9 @@
   "title": null,
   "text": "The space mentioned in paragraph 2.3.1.6. above shall be indicated in the drawings accompanying the application for approval.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -813,7 +907,9 @@
   "title": null,
   "text": "Halogen filament light sources meeting the requirements of paragraph 3.3.4. below shall be marked with a \"U\".",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -830,7 +926,9 @@
   "title": null,
   "text": "LED replacement light sources shall be marked with \"LEDr\".",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -847,7 +945,9 @@
   "title": null,
   "text": "The AE device(s) or the cable(s) permanently fixed to the AE device(s), if any, shall bear:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -864,7 +964,9 @@
   "title": null,
   "text": "The trade name or mark of the applicant;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -881,7 +983,9 @@
   "title": null,
   "text": "The rated voltage and maximum wattage;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -898,7 +1002,9 @@
   "title": null,
   "text": "The specific identification code(s), or if it concerns a new application, a space sufficient to accommodate the specific identification code.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -915,7 +1021,9 @@
   "title": null,
   "text": "The specific identification code of an AE device shall comprise the starting character \"Æ\"7 for \"ADDITIONAL ELECTRONICS\", followed by the distinguishing number of the country of the approval authority and, separated by a single character space, the approval code of the LED replacement light source, with which the additional electronics device(s) has/have been approved. Annex 3 to this Regulation gives an example of arrangement of a specific identification code. 7Unicode 00C6 Hex",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -932,7 +1040,9 @@
   "title": null,
   "text": "An AE device may bear more than one specific identification code together with the belonging trade name or mark if all are from the same applicant.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -949,7 +1059,9 @@
   "title": null,
   "text": "LED replacement light sources with a particular electrical polarity that operate in only one position while by design the LED replacement light source or its electrical connector can be inserted in more than one position, shall be marked with the electrical polarity, which is to be connected to the respective terminals of the light source, using the symbols \"+\" or \"―\" according to the electrical polarity specification given in the relevant light source category data sheet, placed closely to or on the respective terminal.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -966,7 +1078,9 @@
   "title": null,
   "text": "LED replacement light sources with an oversize cap, of which geometric dimensions of the cap, not relevant for interchangeability, exceed those specified in the relevant cap data sheet of IEC Publication 60061, but which are within maximum allowed deviations as specified in the relevant light source category data sheet, shall be marked with the following symbol,8 followed by the exclamation mark, separated by a single character space, as follows: 8ISO 7000, symbol 919",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -983,7 +1097,9 @@
   "title": null,
   "text": "Inscriptions other than those covered by paragraphs 2.3.1. and 2.4.3. may be affixed, on the condition that they do not adversely affect the luminous characteristics.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1000,7 +1116,9 @@
   "title": "Approval",
   "text": "Approval",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1017,7 +1135,9 @@
   "title": null,
   "text": "If all samples of a type of light source which are submitted in pursuance of paragraphs 2.2.2.3. or 2.2.3.2. above meet the requirements of this Regulation, whereby for LED replacement light sources also the provision in paragraph 3.4.7.1. applies, approval shall be granted.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1034,7 +1154,9 @@
   "title": null,
   "text": "An approval code shall be assigned to each type approved. This approval code shall consist of Section 3 of the approval number.9 The same Contracting Party may not assign the same code to another type of light source Notice of approval or of extension or refusal or withdrawal of approval or production definitively discontinued of a type of light source pursuant to this Regulation shall be communicated to the Parties of the Agreement which apply this Regulation by means of a form conforming to the model in Annex 2 to this Regulation and of a drawing, supplied by the applicant for approval in a format not exceeding A4 (210 x 297 mm) and on a scale of at least 2:1. If the applicant so desires, the same approval number (and the same correlating approval code) may be assigned to the filament light source emitting white light and to the filament light source emitting selective-yellow light (see paragraph 2.1.2., footnote 2). 91958 Agreement, Revision 3, Schedule 4 (E/ECE/TRANS/505/Rev.3).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1051,7 +1173,9 @@
   "title": null,
   "text": "To every light source conforming to a type approved under this Regulation there shall be affixed in the space referred to in paragraph 2.3.1.6., in addition to the inscriptions required under paragraph 2.3.1., an approval mark consisting of:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1068,7 +1192,9 @@
   "title": null,
   "text": "A truncated circle surrounding the letter \"E\" followed by the distinguishing number of the country which has granted approval.10 10The distinguish numbers of the Contracting Parties to the 1958 Agreement are reproduced in Annex 3 to Consolidated Resolution on the Construction of Vehicles (R.E.3) (ECE/TRANS/WP.29/78/Rev.6).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1085,7 +1211,9 @@
   "title": null,
   "text": "The approval code, placed close to the truncated circle.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1102,7 +1230,9 @@
   "title": null,
   "text": "If the applicant has obtained the same approval number (and the same correlating approval code for several trade names or marks, one or more of them will suffice to meet the requirements of paragraph 2.3.1.1.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1119,7 +1249,9 @@
   "title": null,
   "text": "The marks and inscriptions specified in paragraphs 2.3.1. 2.3.5., 2.3.8., 2.3.9. and 2.4.3. shall be clearly legible and be indelible.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1136,7 +1268,9 @@
   "title": null,
   "text": "Annex 3 to this Regulation gives examples of arrangement of the approval mark and specific identification code.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1153,7 +1287,9 @@
   "title": "Technical requirements",
   "text": "Technical requirements",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1170,7 +1306,9 @@
   "title": null,
   "text": "Definitions The definitions given in Resolution [R.E.4]5 or its subsequent revisions, applicable at the time of application for type approval shall apply. 5Note by the secretariat: Draft Resolution on the common specification of light source categories (R.E.4) is submitted to WP.29 as document ECE/TRANS/WP.29/2016/111.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1187,7 +1325,9 @@
   "title": "General specifications",
   "text": "General specifications",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1204,7 +1344,9 @@
   "title": null,
   "text": "Each sample submitted shall conform to the relevant specifications of this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1221,7 +1363,9 @@
   "title": null,
   "text": "Light sources shall be so designed as to be and to remain in good working order when in normal use. They shall moreover exhibit no fault in design or manufacture.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1238,7 +1382,9 @@
   "title": null,
   "text": "The filament(s) shall be the only element(s) of the filament light source that generate and emit light when energized. The solid-state junction(s) and possibly one or more elements for fluorescence-based conversion shall be the only element(s) of the LED replacement light source that generate(s) and emit(s) light when energized.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1255,7 +1401,9 @@
   "title": null,
   "text": "Light sources shall exhibit no scores or spots which might impair their efficiency and their optical performance. This shall be verified for LED replacement light sources when commencing approval testing and when required in the respective paragraphs in this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1272,7 +1420,9 @@
   "title": null,
   "text": "Light sources shall be equipped with standard caps complying with the cap data sheets of IEC Publication 60061, as specified on the individual data sheets of Annex 1.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1289,7 +1439,9 @@
   "title": null,
   "text": "LED replacement light sources shall be equipped with a cap of the same cap designation as specified for its counterpart filament light sources with the same category designation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1306,7 +1458,9 @@
   "title": null,
   "text": "Geometric dimensions of the cap of the LED replacement light source, not relevant for interchangeability, may deviate from those specified in the relevant cap data sheet of IEC Publication 60061 within maximum allowed values if these maximum deviations are specified in the relevant light source category data sheet (oversize cap).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1323,7 +1477,9 @@
   "title": null,
   "text": "The cap shall be strong and firmly secured to the bulb of the filament light source.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1340,7 +1496,9 @@
   "title": null,
   "text": "To ascertain whether light sources conform to the requirements of paragraphs 3.2.4. to 3.2.6. above, a visual inspection, a dimension check and, where necessary, a trial fitting into the holder as specified in IEC publication 60061 shall be carried out.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1357,7 +1515,9 @@
   "title": "Filament light sources (incandescent technology)",
   "text": "Filament light sources (incandescent technology)",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1374,7 +1534,9 @@
   "title": "Tests",
   "text": "Tests",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -1391,7 +1553,9 @@
   "title": null,
   "text": "Filament light sources shall first be aged at their test voltage for approximately one hour. For dualfilament light sources, each filament shall be aged separately. In the case of filament light sources, for which more than one test voltage is specified, the highest test voltage value shall be used for ageing.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -1408,7 +1572,9 @@
   "title": null,
   "text": "In the case of a filament light source having a coated bulb, after the ageing period corresponding to paragraph 3.4.1., the surface of the bulb shall be lightly wiped with a cotton cloth soaked in a mixture of 70 vol. per cent of n-heptane and 30 vol. per cent of toluol. After about five minutes, the surface shall be inspected visually. It shall not show any apparent changes.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -1425,7 +1591,9 @@
   "title": null,
   "text": "The position and dimensions of the filament shall be measured with the filament light sources being supplied with current at from 90 per cent to 100 per cent of the test voltage. In the case of filament light sources, for which more than one test voltage is specified, the highest test voltage value shall be used for measurement of the position and dimensions of the filament.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -1442,7 +1610,9 @@
   "title": null,
   "text": "Unless otherwise specified, electrical and photometric measurements shall be carried out at the test voltage(s).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -1459,7 +1629,9 @@
   "title": null,
   "text": "Electrical measurements shall be carried out with instruments of at least class 0.2.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -1476,7 +1648,9 @@
   "title": null,
   "text": "In the case where the selective-yellow colour is allowed, the luminous flux of the filament light source with the selective-yellow outer bulb shall be at least 85 per cent of the specified luminous flux of the relevant filament light source emitting white light.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -1493,7 +1667,9 @@
   "title": "Filament position and dimensions",
   "text": "Filament position and dimensions",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1510,7 +1686,9 @@
   "title": null,
   "text": "The geometric shapes of the filament shall in principle be as specified on the filament light source data sheets of Annex 1.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1527,7 +1705,9 @@
   "title": null,
   "text": "For line filaments the correct position and shape shall be checked as specified in the relevant data sheets.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1544,7 +1724,9 @@
   "title": null,
   "text": "If the filament is shown on the filament light source data sheet in at least one view as a point, the position of the luminous centre shall be determined in conformity with Annex 4.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1561,7 +1743,9 @@
   "title": null,
   "text": "The length of a line filament shall be determined by its ends, defined - unless otherwise specified on the relevant data sheet - as the apices of the first and the last filament turn as seen in projection perpendicular to the reference axis of the filament light source. Such an apex shall comply with the requirement that the angle formed by the legs shall not exceed 90°. In the case of coiled-coil filaments the apices of the secondary turns shall be taken into account. Apices outside the point of connection to the current lead-in legs shall be disregarded for the determination of the filament length.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1578,7 +1762,9 @@
   "title": null,
   "text": "For axial filaments the extreme position of the apices considered shall be determined by rotating the filament light source about its reference axis. The length shall then be measured in a direction parallel to the reference axis.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1595,7 +1781,9 @@
   "title": null,
   "text": "For transverse filaments the filament axis shall be placed perpendicular to the direction of projection. The length shall be measured in a direction perpendicular to the reference axis.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1612,7 +1800,9 @@
   "title": "Colour",
   "text": "Colour",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1629,7 +1819,9 @@
   "title": null,
   "text": "The colour of the light emitted by the filament light source shall be white unless otherwise specified on the relevant data sheet.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1646,7 +1838,9 @@
   "title": null,
   "text": "The definitions of the colour of the light emitted, given in Regulation No. 48 and its series of amendments in force at the time of application for type approval, shall apply to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1663,7 +1857,9 @@
   "title": null,
   "text": "The colour of the light emitted shall be measured by the method specified in Annex 5. Each measured value shall lie within the required chromaticity area.11 Moreover, in the case of filament light sources emitting white light, the measured values shall not deviate more than 0.020 unit in the x and/or y direction from a point of choice on the Planckian locus (CIE 015 :2018, 4th edition). Filament light sources for use in light signalling devices shall meet the requirements as specified in paragraph 4.4.2. of IEC Publication 60809, Edition 3. 11For conformity of production purposes of amber and red colour only, at least 80 per cent of the measuring results shall lie within the required chromaticity area.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1680,7 +1876,9 @@
   "title": null,
   "text": "UV radiation The UV radiation of a halogen filament light source shall be such that: Where:\n|Ee (λ)|(W/nm)|is the spectral distribution of the radiant flux;|\n|---|---|---|\n|V (λ)|(1)|is the spectral luminous efficiency;|\n|km= 683|(lm/W)|is the photometric radiation equivalent;|\n|λ|(nm)|is the wave length.|\nThis value shall be calculated using intervals of five nanometres.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1697,7 +1895,9 @@
   "title": null,
   "text": "Observation concerning selective-yellow colour An approval of a filament light source type under this Regulation may be granted, pursuant to paragraph 3.6. above, for a filament light source emitting white light as well as selective-yellow light; Article 3 of the Agreement to which this Regulation is annexed shall not prevent the Contracting Parties from prohibiting, on vehicles registered by them, filament light sources emitting either white or selective-yellow light.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1714,7 +1914,9 @@
   "title": null,
   "text": "Check on optical quality (Applies only to filament light sources with an internal shield to produce the cut-off).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1731,7 +1933,9 @@
   "title": null,
   "text": "This check on optical quality shall be carried out at a voltage such that the measuring luminous flux is obtained; the specifications of paragraph 3.4.6. are to be observed accordingly.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1748,7 +1952,9 @@
   "title": null,
   "text": "For 12-volt filament light sources emitting white light: The sample which most nearly conforms to the requirements laid down for the standard filament light source shall be tested in a standard headlamp as specified in paragraph 3.9.5. and it shall be verified whether the assembly comprising the aforesaid headlamp and the filament light source being tested meets the light-distribution requirements laid down for the passing beam in the relevant Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1765,7 +1971,9 @@
   "title": null,
   "text": "For 6-volt and 24-volt filament light sources emitting white light: The sample which most nearly conforms to the nominal dimension values shall be tested in a standard headlamp as specified in paragraph 3.9.5. and it shall be verified whether the assembly comprising the aforesaid headlamp and the filament light source being tested meets the light-distribution requirements laid down for the passing beam in the relevant Regulation. Deviations not exceeding 10 per cent of the minimum values will be acceptable.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1782,7 +1990,9 @@
   "title": null,
   "text": "Filament light sources emitting selective-yellow light shall be tested in the same manner as described in paragraphs 3.9.2. and 3.9.3. in a standard headlamp as specified in paragraph 3.9.5. to ensure that the illumination complies with at least 85 per cent for 12-volt filament light sources, and at least 77 per cent for 6-volt and 24-volt filament light sources, with the minimum values of the light-distribution requirements laid down for the passing beam in the relevant Regulation. The maximum illumination limits remain unchanged. In the case of a filament light source having a selective-yellow bulb, this test shall be left out if the approval is also given to the same type of filament light source emitting white light.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1799,7 +2009,9 @@
   "title": null,
   "text": "A headlamp shall be deemed to be a standard headlamp if:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1816,7 +2028,9 @@
   "title": null,
   "text": "It satisfies the pertinent conditions of approval;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1833,7 +2047,9 @@
   "title": null,
   "text": "It has an effective diameter of not less than 160 mm;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1850,7 +2066,9 @@
   "title": null,
   "text": "With a standard filament light source it produces at the various points and in the various zones specified for the headlamp type concerned, illumination equal to:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1867,7 +2085,9 @@
   "title": null,
   "text": "Not more than 90 per cent of the maximum limits;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1884,7 +2104,9 @@
   "title": null,
   "text": "Not less than 120 per cent of the minimum limits prescribed for the headlamp type concerned.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1901,7 +2123,9 @@
   "title": null,
   "text": "Standard filament light sources Additional requirements for standard (étalon) filament light sources are given on the relevant data sheets of Annex 1. Bulbs of standard (étalon) filament light sources emitting white light shall not alter the CIE trichromatic coordinates of a luminous source having a colour temperature of 2,856 K by more than 0.010 units in the x and/or y direction. For standard (étalon) filament light sources emitting amber or red light, changes of the bulb temperature shall not affect the luminous flux which might impair photometric measurements of signalling devices.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1918,7 +2142,9 @@
   "title": "LED replacement light sources (LED technology)",
   "text": "LED replacement light sources (LED technology)",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -1935,7 +2161,9 @@
   "title": "Tests",
   "text": "Tests",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -1952,7 +2180,9 @@
   "title": null,
   "text": "LED replacement light sources shall first be aged at their test voltage for at least forty-eight hours. For LED replacement light sources with the counterpart being a dual filament light sources, each function shall be aged separately.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -1969,7 +2199,9 @@
   "title": null,
   "text": "Unless otherwise specified, electrical and photometric measurements shall be carried out at the relevant test voltage(s).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -1986,7 +2218,9 @@
   "title": null,
   "text": "Electrical measurements as specified in Annex 6 shall be carried out with instruments of at least class 0.2 (0.2 per cent full scale accuracy).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -2003,7 +2237,9 @@
   "title": "Position and dimensions of light emitting area",
   "text": "Position and dimensions of light emitting area",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2020,7 +2256,9 @@
   "title": null,
   "text": "The position and dimensions of the light emitting area shall conform to the requirements as given on the relevant data sheet of Annex 1.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2037,7 +2275,9 @@
   "title": null,
   "text": "The measurement shall be made after ageing the LED replacement light source according to paragraph 3.4.1.1.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2054,7 +2294,9 @@
   "title": "Luminous flux",
   "text": "Luminous flux",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2071,7 +2313,9 @@
   "title": null,
   "text": "When measured according to the conditions specified in Annex 6, the luminous flux shall be within the limits given on the relevant data sheet of Annex 1.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2088,7 +2332,9 @@
   "title": null,
   "text": "The measurement shall be made after ageing the LED replacement light source according to 3.4.1.1.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2105,7 +2351,9 @@
   "title": "Normalized luminous intensity distribution / cumulative luminous flux distribution",
   "text": "Normalized luminous intensity distribution / cumulative luminous flux distribution",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2122,7 +2370,9 @@
   "title": null,
   "text": "When measured according to the test conditions specified in Annex 6, the normalized luminous intensity distribution and/or cumulative luminous flux distribution shall be within the limits given on the relevant data sheet of Annex 1.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2139,7 +2389,9 @@
   "title": null,
   "text": "The measurement shall be made after ageing the LED replacement light source according to paragraph 3.4.1.1.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2156,7 +2408,9 @@
   "title": "Colour",
   "text": "Colour",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2173,7 +2427,9 @@
   "title": null,
   "text": "The colour of the light emitted by the LED replacement light sources shall be specified on the relevant data sheet. The definitions of the colour of the light emitted given in Regulation No. 48 and its series of amendments in force at the time of application for type approval shall apply to this regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2190,7 +2446,9 @@
   "title": null,
   "text": "The integral value of the chromaticity coordinates shall lie within the required chromaticity area; this shall be measured by the method specified in Annex 6.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2207,7 +2465,9 @@
   "title": null,
   "text": "In the case of LED replacement light sources emitting white light and for use in forward lighting devices, the colour shall be measured in the same directions as where the luminous intensity distribution is specified in the relevant data sheet, but only where the specified minimum luminous intensity is exceeding 50 cd/klm. The measured values shall lie within the required chromaticity area for white light.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2224,7 +2484,9 @@
   "title": null,
   "text": "In the case of LED replacement light sources emitting white light, the minimum red content of the light shall be such that: where:\n|Ee(λ )|(unit: W)|is the spectral distribution of the irradiance;|\n|---|---|---|\n|V(λ )|(unit: 1)|is the spectral luminous efficiency;|\n|λ|(unit: nm)|is the wavelength.|\nThis value kred shall be calculated using intervals of one nanometer.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2241,7 +2503,9 @@
   "title": null,
   "text": "The correlated colour temperature12 of LED replacement light sources emitting white light shall be no more than 3000 K, unless otherwise defined in the relevant data sheet of Annex 1. 12CIE S 017/E: 2020: ILV: International Lighting Vocabulary, or eILV; term 17-23-068",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2258,7 +2522,9 @@
   "title": null,
   "text": "UV-radiation The UV-radiation of the LED replacement light source shall be such that the LED light source is of the low UV type complying with: where:\n|Ee(λ )|(unit: W)|is the spectral distribution of the irradiance;|\n|---|---|---|\n|S(λ )|(unit: 1)|is the spectral weighting function;|\n|V(λ )|(unit: 1)|is the spectral luminous efficiency;|\n|λ|(unit: nm)|is the wavelength|\nkm = 683 lm/W is the maximum value of the luminous efficacy of radiation. This value kUV shall be calculated using intervals of one nanometer. The UV-radiation shall be weighted according to the values as indicated in the Table below:\n|λ|S(λ)|λ|S(λ)|λ|S(λ)|\n|---|---|---|---|---|---|\n|250|0.430|305|0.060|355|0.000 16|\n|255|0.520|310|0.015|360|0.000 13|\n|260|0.650|315|0.003|365|0.000 11|\n|265|0.810|320|0.001|370|0.000 09|\n|270|1.000|325|0.000 50|375|0.000 077|\n|275|0.960|330|0.000 41|380|0.000 064|\n|280|0.880|335|0.000 34|385|0.000 053|\n|285|0.770|340|0.000 28|390|0.000 044|\n|290|0.640|345|0.000 24|395|0.000 036|\n|295|0.540|350|0.000 20|400|0.000 030|\n|λ|S(λ)|λ|S(λ)|λ|S(λ)|\n|---|---|---|---|---|---|\n|300|0.300|||||\nNote : Values according to \"IRPA/INIRC Guidelines on limits of exposure to ultraviolet radiation\". Wavelengths (in nanometers) chosen are representative; other values should be interpolated.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2275,7 +2541,9 @@
   "title": "Electrical characteristics",
   "text": "Electrical characteristics",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2292,7 +2560,9 @@
   "title": null,
   "text": "Electrical characteristics shall be tested at least at one sample and, in the case of a high-efficiency LED replacement light source, including and excluding the AE device(s), if any.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2309,7 +2579,9 @@
   "title": null,
   "text": "The electrical current of the LED replacement light source shall be measured at ambient temperature of (23 ± 2) °C in still air after 1 minute and after 30 minutes of operation at test voltage. Measured values of the electrical current shall be within the limits as specified in the relevant data sheet of Annex 1. However, in the case of a high efficiency LED replacement light source, measured values of the electrical current shall be within the range(s) specified by the applicant according to paragraph 2.2.2.2.3.; if an AE device is prescribed by the applicant according to paragraph 2.2.2.2.2., measured values of the electrical current shall also be within the limits as specified in the relevant data sheet of Annex 1 with AE device(s) connected.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2326,7 +2598,9 @@
   "title": null,
   "text": "The LED replacement light source shall comply with the technical requirements to an electrical/electronic sub-assembly (ESA) as specified by Regulation No. 10 and its series of amendments in force at the time of application for type approval.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2343,7 +2617,9 @@
   "title": null,
   "text": "The LED replacement light source shall not emit light when energized for 2 milliseconds or shorter.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2360,7 +2636,9 @@
   "title": null,
   "text": "Modulated light, emitted by the LED replacement light source when operated at a pulse-width modulated (PWM) voltage having an effective value, which is equal to the value of the prescribed test voltage, at frequencies of 100 Hz, 125 Hz, 150 Hz, 175 Hz and 200 Hz and all with a 90% duty cycle,13 shall not exhibit any frequency components lower than the applied PWM frequency. 13ON time as percentage of the total time of one PWM cycle.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2377,7 +2655,9 @@
   "title": null,
   "text": "If an objective luminous flux value for a dimming mode is specified in the relevant data sheet of Annex 1, this shall be tested.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2394,7 +2674,9 @@
   "title": null,
   "text": "Cap temperature The cap temperature of the LED replacement light source shall not exceed the maximum cap temperature value indicated in the relevant datasheet of Annex 1. This shall be verified (except for high-efficiency types) by measurement according to the conditions specified in Annex 6.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2411,7 +2693,9 @@
   "title": "Requirements to the packaging of LED replacement light sources",
   "text": "Requirements to the packaging of LED replacement light sources",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2428,7 +2712,9 @@
   "title": null,
   "text": "Each package shall display the following information:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2445,7 +2731,9 @@
   "title": null,
   "text": "The trade name or mark of the applicant;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2462,7 +2750,9 @@
   "title": null,
   "text": "The rated voltage;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2479,7 +2769,9 @@
   "title": null,
   "text": "The designation of the LED replacement light source category and separated by a single character or line space \"LEDr;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2496,7 +2788,9 @@
   "title": null,
   "text": "The approval code;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2513,7 +2807,9 @@
   "title": null,
   "text": "In the case of LED replacement light sources for which at least one of the conditions in paragraph 2.2.2.2.2. applies, the following requirements apply:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2530,7 +2826,9 @@
   "title": null,
   "text": "Each package shall also display the following symbol:14 14ISO 7000, symbol 1641",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2547,7 +2845,9 @@
   "title": null,
   "text": "Each package shall contain instructions in an official language of the 1958 Agreement (i.e. English, French or Russian), supplemented by the corresponding text in the language of the country where it is sold:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2564,7 +2864,9 @@
   "title": null,
   "text": "Providing (a) website address(es) where the applicant shall publish up-to-date listing(s), for which the approval holder is responsible, of lighting and light signalling functions installed on vehicle models, specified by at least brand, type, model, and manufacturing period of the vehicle:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2581,7 +2883,9 @@
   "title": null,
   "text": "Stating that this LED replacement light source, including AE device(s), if listed, is suitable (or not) for fitment in these listed applications;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2598,7 +2902,9 @@
   "title": null,
   "text": "Providing information for these listed applications, necessary for installation and proper functioning of the LED replacement light source, aimed at the consumer, on the conditions that apply as stated by the applicant according paragraph 2.2.2.2.2.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2615,7 +2921,9 @@
   "title": null,
   "text": "Referring to professional maintenance or repair shops, if the applicability of the LED replacement light source is unclear;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2632,7 +2940,9 @@
   "title": null,
   "text": "Warning, clearly legible, that if this LED replacement light source is not used in accordance with the instructions with its package and with the instructions provided with the vehicle, this LED replacement light source may cause a fault in the vehicle’s electrical system and/or pose an operational and/or traffic safety risk;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2649,7 +2959,9 @@
   "title": null,
   "text": "The applicant shall provide the instructions, as referred to in paragraph 4.2.2., for displaying purposes at the point of sales without opening the package.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -2666,7 +2978,9 @@
   "title": "Conformity of production",
   "text": "Conformity of production",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R37",
@@ -2683,7 +2997,9 @@
   "title": null,
   "text": "Light sources approved to this Regulation shall be so manufactured as to conform to the type approved by meeting the inscriptions and technical requirements set forth in this Regulation, paragraph 3. and Annexes 1 and 3; in the case of filament light sources also Annex 4; in the case of LED replacement light sources also Annex 6.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R37",
@@ -2700,7 +3016,9 @@
   "title": null,
   "text": "In order to verify that the requirements of paragraph 4.1. are met, suitable controls of the production shall be carried out.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R37",
@@ -2717,7 +3035,9 @@
   "title": null,
   "text": "The holder of the approval shall in particular:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R37",
@@ -2734,7 +3054,9 @@
   "title": null,
   "text": "Ensure existence of procedures for the effective control of the quality of products;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R37",
@@ -2751,7 +3073,9 @@
   "title": null,
   "text": "Have access to the control equipment necessary for checking the conformity to each approved type;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R37",
@@ -2768,7 +3092,9 @@
   "title": null,
   "text": "Ensure that data of test results are recorded and that related documents shall remain available for a period to be determined in accordance with the Type Approval Authority,",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R37",
@@ -2785,7 +3111,9 @@
   "title": null,
   "text": "Analyse the results of each type of test, applying criteria of Annex 7, in order to verify and ensure the stability of the product characteristics making allowance for variation of an industrial production;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R37",
@@ -2802,7 +3130,9 @@
   "title": null,
   "text": "Ensure that for each type of light source, at least the tests prescribed in Annex 7 to this Regulation are carried out;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R37",
@@ -2819,7 +3149,9 @@
   "title": null,
   "text": "Ensure that any collecting of samples giving evidence of non-conformity with the type of test considered shall give rise to another sampling and another test. All the necessary steps shall be taken to re-establish the conformity of the corresponding production.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R37",
@@ -2836,7 +3168,9 @@
   "title": null,
   "text": "Keep record of the information and listings, including the modifications and modification dates, published on its websites as described in paragraph 4.2.2.1.; this is the responsibility of the approval holder.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R37",
@@ -2853,7 +3187,9 @@
   "title": null,
   "text": "The Type Approval Authority which has granted type-approval may at any time verify the conformity control methods applicable to each production unit.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R37",
@@ -2870,7 +3206,9 @@
   "title": null,
   "text": "In every inspection, the test books and production survey records shall be presented to the visiting inspector.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R37",
@@ -2887,7 +3225,9 @@
   "title": null,
   "text": "The inspector may take samples at random which will be tested in the manufacturer's laboratory. The minimum number of samples may be determined according to the results of the manufacturer's own verification.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R37",
@@ -2904,7 +3244,9 @@
   "title": null,
   "text": "When the quality level appears unsatisfactory or when it seems necessary to verify the validity of the tests carried out in application of paragraph 4.4.2. above, the inspector shall select samples, to be sent to the Technical Service which has conducted the type approval tests.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R37",
@@ -2921,7 +3263,9 @@
   "title": null,
   "text": "The Type Approval Authority may carry out any tests prescribed in this Regulation. Where the Type Approval Authority decides to carry out spot checks, criteria of Annexes 8 and 9 to this Regulation shall be applied.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R37",
@@ -2938,7 +3282,9 @@
   "title": null,
   "text": "The normal frequency of inspection authorised by the Type Approval Authority shall be one every two years. In the case where negative results are recorded during one of these visits, the Type Approval Authority shall ensure that all necessary steps are taken to re-establish the conformity of production as rapidly as possible.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R37",
@@ -2955,7 +3301,9 @@
   "title": "Penalties for non-conformity of production",
   "text": "Penalties for non-conformity of production",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -2972,7 +3320,9 @@
   "title": null,
   "text": "The approval granted in respect of a light source pursuant to this Regulation may be withdrawn if the requirements are not met or if a light source bearing the approval mark does not conform to the type approved.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -2989,7 +3339,9 @@
   "title": null,
   "text": "If a Contracting Party to the Agreement applying this Regulation withdraws an approval it has previously granted, it shall forthwith so notify the other Contracting Parties applying this Regulation, by means of a communication form conforming to the model in Annex 2 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -3006,7 +3358,9 @@
   "title": null,
   "text": "Production definitively discontinued If the holder of the approval completely ceases to manufacture a type of filament light source approved in accordance with this Regulation, he shall so inform the Type Approval Authority which has granted the approval. Upon receiving the relevant communication, that Type Approval Authority shall inform thereof the other Parties to the 1958 Agreement applying this Regulation by means of a communication form conforming to the model in Annex 2 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -3023,7 +3377,9 @@
   "title": null,
   "text": "Names and addresses of the Technical Services responsible for conducting approval tests and of Type Approval Authorities The Parties to the 1958 Agreement which apply this Regulation shall communicate to the United Nations secretariat the names and addresses of the Technical Services responsible for conducting approval tests and of the Type Approval Authorities which grant approval and to which forms certifying approval or extension or refusal or withdrawal of approval, or production definitively discontinued issued in other countries, are to be sent.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -3040,7 +3396,9 @@
   "title": "Transitional provisions",
   "text": "Transitional provisions",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -3057,7 +3415,9 @@
   "title": null,
   "text": "Approvals granted under the preceding series of amendments shall remain valid, except that for conformity of production, current production filament light sources shall comply with the requirements of the latest series of amendments starting 12 months from the date of application of this amendment.15 15The amended text of this paragraph was introduced by Supplement 14 to the 03 series of amendments. This supplement entered into force on 3 September 1997 and it also introduced in the text of the Regulation new paragraphs 2.3.3. and 3.7. and in Annex 1 new sheets HIR1 and PY27/7W.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -3074,7 +3434,9 @@
   "title": null,
   "text": "The correspondence between the former designations and the new ones is indicated in the following table:\n|Old designations|New designations in the 03 series of amendments|\n|---|---|\n|P25-1|P21W|\n|P25-2|P21/5W|\n|R19/5|R5W|\n|R19/10|R10W|\n|C11|C5W|\n|C15|C21W|\n|T8/4|T4W|\n|W10/5|W5W|\n|W10/3|W3W|",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -3091,7 +3453,9 @@
   "title": null,
   "text": "*From 22.06.2017 onwards, the sheets for filament light sources, the list and groups of filament light source categories with their restrictions on the use and their sheet numbers are incorporated in Resolution R.E.5 (ECE/TRANS/WP.29/1127) The sheets of the relevant light source category and the group in which this category is listed with restrictions on the use of this category shall apply as incorporated in Resolution R.E.5 or its subsequent revisions, applicable at the time of application for type approval of the light source.\"",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Sheets  for filament light sources and their LED replacement light sources**",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -3108,7 +3472,9 @@
   "title": null,
   "text": "(Maximum format: A4 (210 x 297 mm)) issued by: Name of administration Concerning:2 Approval granted Approval extended Approval refused Approval withdrawn Production definitively discontinued of a type of filament light source pursuant to Regulation No. 37 Approval No. .................................................... Extension No.................................................... Approval Code................................................. 1Distinguishing number of the country which has granted/extended/refused/withdrawn approval (see approval provisions in the Regulation). 2Strike out what does not apply.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -3125,7 +3491,9 @@
   "title": null,
   "text": "Trade name or mark of the filament light source: .............................. 2. Manufacturer's name for the type of light source: ................ Manufacturer’s name(s) for the AE device(s)................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -3142,7 +3510,9 @@
   "title": null,
   "text": "Manufacturer's name(s) and address(es):............................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -3159,7 +3529,9 @@
   "title": null,
   "text": "If applicable, name and address of manufacturer's representative:..................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -3176,7 +3548,9 @@
   "title": null,
   "text": "Submitted for approval on:...........................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -3193,7 +3567,9 @@
   "title": null,
   "text": "Technical Service responsible for conducting approval tests:..................... 7. Date of report issued by that Service:.................................... 8. Number of report issued by that Service:.................................. 9. Concise description:................................ Category of light source:........................................................................................................... Light producing technology: incandescent (filament)/ LED2 Rated voltage: Rated wattage of filament light source:......................................................................................... Colour of the light emitted: White/selective-yellow/amber/red2 Colour coating on glass bulb of the filament light source: yes/no2 Halogen filament light source: yes/no2 High-Efficiency LED replacement light source: yes/no2 AE device(s): yes/no2 Specific identification code(s) of AE device(s):........................ LED replacement light source with particular electrical polarity: yes/no2 LED replacement light source with oversize cap: yes/no2 2Strike out what does not apply. 10. Position of the approval mark:........................................ 11. Reason(s) for extension (if applicable):................................... 12. Approval granted/refused/extended/withdrawn:2 2Strike out what does not apply. 13. Place: 14. Date: 15. Signature: 16. The following documents, bearing the approval mark shown above, are available on request:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -3210,7 +3586,9 @@
   "title": null,
   "text": "The approval mark above affixed to a light source indicates that the light source has been approved in the United Kingdom (E 11) under the approval code 0001. The approval mark above affixed to the light source, preceded by the character \"ͰE \", indicates a high-efficiency LED replacement light source that has been approved in the Netherlands (E 4) under the approval code 1953. The AE device bearing the specific identification code shown above has been approved together with a highefficiency LED replacement light source approved in The Netherlands (E 4) under approval number 1953.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Examples of the arrangement of the approval mark and specific identification code",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R37",
@@ -3227,7 +3605,9 @@
   "title": null,
   "text": "Unless otherwise stated on the filament light source data sheets, this annex is applicable to the determination of the luminous centre of different filament shapes. The position of the luminous centre depends upon the filament shape.\n|No.|Filament shapes|Observations|\n|---|---|---|\n|1||With b > 1.5 h, the deviation of the filament axis with respect to a plane normal to the reference axis shall not exceed 15°|\n|2||Only applicable to filaments which can be inscribed in a rectangle of b > 3h.|\n|3||Applicable to filaments which can be|\n|||inscribed in a rectangle of b ≤ 3h, whereby, however, k < 2h.|\nThe side lines of the circumscribed rectangles in Nos. 2 and 3 are parallel and perpendicular, respectively, to the reference axis. The luminous centre is the intersection of the dash-dot lines. The drawings are intended only to demonstrate the essential dimensions.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Luminous centre and shapes of filaments",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -3244,7 +3624,9 @@
   "title": "General",
   "text": "General",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Checking the colour of filament light sources",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -3261,7 +3643,9 @@
   "title": null,
   "text": "Measurements shall be made on finished light sources. Filament light sources with secondary (outer) bulb acting as colour filter shall be handled as filament light source with primary bulb.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Checking the colour of filament light sources",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -3278,7 +3662,9 @@
   "title": null,
   "text": "Tests shall be made at an ambient temperature of 23 °C ± 5 °C.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Checking the colour of filament light sources",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -3295,7 +3681,9 @@
   "title": null,
   "text": "Tests shall be made at test voltage(s) as specified in the relevant filament light source data sheet.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Checking the colour of filament light sources",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -3312,7 +3700,9 @@
   "title": null,
   "text": "Filament light sources shall be measured preferably in the normal operating position. In case of dual filament light sources the high wattage (major or driving beam) filament shall be operated only.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Checking the colour of filament light sources",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -3329,7 +3719,9 @@
   "title": null,
   "text": "Before starting a test, the stabilisation of the temperature of the filament light source shall be obtained by operating at test voltage for 10 minutes. In the case of filament light sources, for which more than one test voltage is specified, the relevant test voltage value shall be used for achieving stabilization.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Checking the colour of filament light sources",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -3346,7 +3738,9 @@
   "title": "Colour",
   "text": "Colour",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Checking the colour of filament light sources",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -3363,7 +3757,9 @@
   "title": null,
   "text": "Colour tests shall be made with a measuring system that determines CIE trichromatic co-ordinates of the received light with an accuracy of ±0.002.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Checking the colour of filament light sources",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -3380,7 +3776,9 @@
   "title": null,
   "text": "The trichromatic coordinates shall be measured with a colourimetric receiver integrating over a right circular cone subtending an angle of minimum 5° and maximum 15°, at the centre of the filament.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Checking the colour of filament light sources",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -3397,7 +3795,9 @@
   "title": null,
   "text": "Measuring directions (see the figure below).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Checking the colour of filament light sources",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -3414,7 +3814,9 @@
   "title": null,
   "text": "Initially, the receiver shall be positioned perpendicular to the filament light source axis and to the filament axis (or plane in case of a curved filament). After measurement the receiver shall be moved around the filament light source in bi-directional steps of about 30° until the area specified in paragraphs 2.3.2. or 2.3.3. is covered. In each position a measurement shall be made. However, no measurement shall be made when: (a) The centreline of the receiver coincides with the filament axis; or (b) The line of sight between the receiver and the filament is blocked by opaque (non-transmitting) parts of the light source, such as lead wires or a second filament, if any.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Checking the colour of filament light sources",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -3431,7 +3833,9 @@
   "title": null,
   "text": "For filament light sources used in headlamps, measurements shall be made in directions around the filament light source with the centreline of the receiver aperture located within an angle ±30°, from the plane perpendicular to the filament light source axis with the origin in the centre of the filament. In case of filament light sources with two filaments, the centre of the driving beam filament shall be taken.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Checking the colour of filament light sources",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -3448,7 +3852,9 @@
   "title": null,
   "text": "For filament light sources used in light signalling devices, measurements shall be made in directions around the filament light source with exception of: (a) The area claimed or covered by the cap of the filament light source; and (b) The immediate transition area along the cap. In case of filament light sources with two filaments, the centre of the major filament shall be taken. In case of filament light source categories with a defined distortion-free angle, the measurement shall be done only within the defined angle. Figure illustrating the positions of colourimetric receiver",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Checking the colour of filament light sources",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -3465,7 +3871,9 @@
   "title": null,
   "text": "LED replacement light sources shall be measured in still air at ambient temperature of (23 ± 2) °C, and at an additional ambient temperature if indicated in the relevant data sheet of Annex 1.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Method of measurement of electrical, photometrical and thermal characteristics of LED replacement light sources",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3482,7 +3890,9 @@
   "title": "Luminous flux",
   "text": "Luminous flux",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Method of measurement of electrical, photometrical and thermal characteristics of LED replacement light sources",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3499,7 +3909,9 @@
   "title": null,
   "text": "A luminous flux measurement using an integrating method shall be made after 1 minute and after 30 minutes of operation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Method of measurement of electrical, photometrical and thermal characteristics of LED replacement light sources",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3516,7 +3928,9 @@
   "title": null,
   "text": "The luminous flux values, as measured after 30 minutes shall comply with the minimum and maximum requirements. Additionally, unless otherwise specified on the data sheet (a) Either the luminous flux value measured after 30 minutes shall be in between 100 per cent and 80 per cent of the luminous flux value measured after 1 minute; or (b) The luminous flux value measured after 1 minute shall comply with the minimum and maximum requirements, and in addition the luminous flux value measured after 30 minutes shall not deviate by more than ± 20 per cent from the luminous flux value measured after 1 minute.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Method of measurement of electrical, photometrical and thermal characteristics of LED replacement light sources",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3533,7 +3947,9 @@
   "title": null,
   "text": "Measurements have to be carried out at relevant test voltage and at the minimum and maximum values of the relevant voltage range. Unless specified more tightly on the data sheet the following deviation of the luminous flux at the tolerance interval limits shall not be exceeded.\n|Rated voltage|Min voltage|Max voltage|\n|---|---|---|\n|6|6.0|7.0|\n|12|12.0|14.0|\n|24|24.0|28.0|\n|Corresponding luminous flux tolerance*|±30%|±15%|\nThe maximum luminous flux deviation at the tolerance limits is calculated by using the measured flux at test voltage as reference. The luminous flux behaviour shall be substantially uniform within the voltage range specified in the table.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Method of measurement of electrical, photometrical and thermal characteristics of LED replacement light sources",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3550,7 +3966,9 @@
   "title": "Normalized luminous intensity/ cumulative luminous flux",
   "text": "Normalized luminous intensity/ cumulative luminous flux",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Method of measurement of electrical, photometrical and thermal characteristics of LED replacement light sources",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3567,7 +3985,9 @@
   "title": null,
   "text": "The luminous intensity measurements shall be started after 30 minutes of operation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Method of measurement of electrical, photometrical and thermal characteristics of LED replacement light sources",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3584,7 +4004,9 @@
   "title": null,
   "text": "Measurements have to be carried out at relevant test voltage.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Method of measurement of electrical, photometrical and thermal characteristics of LED replacement light sources",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3601,7 +4023,9 @@
   "title": null,
   "text": "Normalized luminous intensity of a test sample is calculated by dividing the luminous intensity distribution as measured under paragraph 2.1. and 2.2. of this annex by the luminous flux as determined under paragraph 1.2. of this annex.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Method of measurement of electrical, photometrical and thermal characteristics of LED replacement light sources",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3618,7 +4042,9 @@
   "title": null,
   "text": "Colour The colour of the light emitted as measured under the conditions as described paragraph in 1.1. of this annex shall be within the required colour boundaries.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Method of measurement of electrical, photometrical and thermal characteristics of LED replacement light sources",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3635,7 +4061,9 @@
   "title": "Power consumption",
   "text": "Power consumption",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Method of measurement of electrical, photometrical and thermal characteristics of LED replacement light sources",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3652,7 +4080,9 @@
   "title": null,
   "text": "A power consumption measurement shall be made under the same conditions as described in paragraph 1.1. of this annex using the requirements of paragraph 3.4.1.3. of this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Method of measurement of electrical, photometrical and thermal characteristics of LED replacement light sources",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3669,7 +4099,9 @@
   "title": null,
   "text": "Power consumption measurements shall be carried out at relevant test voltage and test voltage range, if specified in the relevant data sheet of Annex 1.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Method of measurement of electrical, photometrical and thermal characteristics of LED replacement light sources",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3686,7 +4118,9 @@
   "title": null,
   "text": "Values obtained shall comply with the minimum and maximum requirements of the relevant data sheet.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Method of measurement of electrical, photometrical and thermal characteristics of LED replacement light sources",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3703,7 +4137,9 @@
   "title": "Electrical current",
   "text": "Electrical current",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Method of measurement of electrical, photometrical and thermal characteristics of LED replacement light sources",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3720,7 +4156,9 @@
   "title": null,
   "text": "An electrical current measurement shall be made under the same conditions as described in paragraph 1.1. of this annex using the requirements of paragraph 3.4.1.3. of this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Method of measurement of electrical, photometrical and thermal characteristics of LED replacement light sources",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3737,7 +4175,9 @@
   "title": null,
   "text": "Electrical current measurements shall be carried out at relevant test voltage and test voltage range, if specified in the relevant data sheet of Annex 1.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Method of measurement of electrical, photometrical and thermal characteristics of LED replacement light sources",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3754,7 +4194,9 @@
   "title": null,
   "text": "Values obtained shall comply with the minimum and maximum requirements of the relevant data sheet.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Method of measurement of electrical, photometrical and thermal characteristics of LED replacement light sources",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3771,7 +4213,9 @@
   "title": "Cap temperature",
   "text": "Cap temperature",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Method of measurement of electrical, photometrical and thermal characteristics of LED replacement light sources",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3788,7 +4232,9 @@
   "title": null,
   "text": "A cap temperature measurement shall be made under the same conditions as described in paragraph 1.1. of this annex.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Method of measurement of electrical, photometrical and thermal characteristics of LED replacement light sources",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3805,7 +4251,9 @@
   "title": null,
   "text": "Measurements shall be carried out at relevant test voltage.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Method of measurement of electrical, photometrical and thermal characteristics of LED replacement light sources",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3822,7 +4270,9 @@
   "title": null,
   "text": "The cap temperature shall be determined at the location indicated in the light source category data sheet.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Method of measurement of electrical, photometrical and thermal characteristics of LED replacement light sources",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3839,7 +4289,9 @@
   "title": null,
   "text": "General The conformity requirements shall be considered satisfied from a photometric, geometrical, visual and electrical standpoint if the specified tolerances for production light sources in the relevant data sheet of Annex 1 and the relevant data sheet for the caps are met.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Minimum requirements for quality control procedures by the manufacturer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3856,7 +4308,9 @@
   "title": null,
   "text": "Minimum requirements for verification of conformity by the manufacturer For each type of light source the manufacturer or the holder of the approval mark shall carry out tests, in accordance with the provisions of this Regulation, at appropriate intervals.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Minimum requirements for quality control procedures by the manufacturer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3873,7 +4327,9 @@
   "title": null,
   "text": "Nature of tests Tests of conformity of these specifications shall cover their photometric, geometrical and optical characteristics.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Minimum requirements for quality control procedures by the manufacturer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3890,7 +4346,9 @@
   "title": "Methods used in tests",
   "text": "Methods used in tests",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Minimum requirements for quality control procedures by the manufacturer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3907,7 +4365,9 @@
   "title": null,
   "text": "Tests shall generally be carried out in accordance with the methods set out in this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Minimum requirements for quality control procedures by the manufacturer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3924,7 +4384,9 @@
   "title": null,
   "text": "The application of paragraph 2.2.1. requires regular calibration of test apparatus and its correlation with measurements made by a Type Approval Authority.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Minimum requirements for quality control procedures by the manufacturer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3941,7 +4403,9 @@
   "title": null,
   "text": "Nature of sampling Samples of light sources shall be selected at random from the production of a uniform batch. A uniform batch means a set of light sources of the same type, defined according to the production methods of the manufacturer.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Minimum requirements for quality control procedures by the manufacturer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3958,7 +4422,9 @@
   "title": null,
   "text": "Inspected and recorded characteristics The light sources shall be inspected and test results recorded following the grouping of characteristics as listed in Annex 7, Table 1.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Minimum requirements for quality control procedures by the manufacturer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3975,7 +4441,9 @@
   "title": null,
   "text": "Criteria governing acceptability The manufacturer or the holder of approval is responsible for carrying out a statistical study of the test results in order to meet the specifications laid down for verification of conformity of production in paragraph 4.1. of this Regulation. Compliance shall be assured if the level of acceptable non-compliance per grouping of characteristics given in Table 1 of Annex 7 is not exceeded. This means that the number of light sources not complying with the requirement for any grouping of characteristics of any light source type does not exceed the qualifying limits in the relevant Tables 2, 3 or 4 of Annex 7. Note: Each individual light source requirement shall be considered as a characteristic.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Minimum requirements for quality control procedures by the manufacturer",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -3997,7 +4465,9 @@
    "3",
    "4"
   ],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Sampling and compliance levels for manufacturer test records",
+  "section_kind": "test"
  },
  {
   "reg": "UN R37",
@@ -4014,7 +4484,9 @@
   "title": null,
   "text": "General The conformity requirements shall be considered satisfied from a photometric, geometrical, visual and electrical standpoint if the specified tolerances for production light sources in the relevant data sheet of Annex 1 and the relevant data sheet for the caps are met.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Minimum requirements for spot checks by the Type Approval Authority",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -4031,7 +4503,9 @@
   "title": null,
   "text": "The conformity of mass-produced light sources shall not be contested if the results are in agreement with Annex 9 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Minimum requirements for spot checks by the Type Approval Authority",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -4048,7 +4522,9 @@
   "title": null,
   "text": "Conformity shall be contested and the manufacturer requested to make the production meet the requirements if the results are not in agreement with Annex 9 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Minimum requirements for spot checks by the Type Approval Authority",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -4065,7 +4541,9 @@
   "title": null,
   "text": "If paragraph 3 of this annex is applied, a further sample of 250 light sources, selected at random from a recent production run, shall be taken within two months.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Minimum requirements for spot checks by the Type Approval Authority",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R37",
@@ -4084,6 +4562,8 @@
   "tables": [
    "1"
   ],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Compliance approved by spot check",
+  "section_kind": "requirement"
  }
 ]

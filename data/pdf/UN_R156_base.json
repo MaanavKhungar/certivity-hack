@@ -14,7 +14,9 @@
   "title": null,
   "text": "UN R156 (version 0.1.0) Consolidated text of this version, rendered by Certivity for the hackathon. Cite pages of THIS file: the page number is printed at the bottom of every page. Role in the hackathon: base version.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -31,7 +33,9 @@
   "title": "Scope",
   "text": "Scope",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -48,7 +52,9 @@
   "title": null,
   "text": "This Regulation applies to vehicles of Categories1 M, N, O, R, S and T that permit software updates. 1As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3.), document ECE/TRANS/WP.29/78/Rev.6, para. 2 - www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29resolutions.html",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -65,7 +71,9 @@
   "title": "Definitions",
   "text": "Definitions",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R156",
@@ -82,7 +90,9 @@
   "title": null,
   "text": "\" _Vehicle type_ \" means vehicles which do not differ in at least the following: (a) The manufacturer’s designation of the vehicle type; (b) Essential aspects of the design of the vehicle type with respect to software update processes.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R156",
@@ -99,7 +109,9 @@
   "title": null,
   "text": "\" _RX Software Identification Number (RXSWIN)_ \" means a dedicated identifier, defined by the vehicle manufacturer, representing information about the type approval relevant software of the Electronic Control System contributing to the Regulation N° X type approval relevant characteristics of the vehicle.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R156",
@@ -116,7 +128,9 @@
   "title": null,
   "text": "\" _Software update_ \" means a package used to upgrade software to a new version including a change of the configuration parameters.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R156",
@@ -133,7 +147,9 @@
   "title": null,
   "text": "\" _Execution_ \" means the process of installing and activating an update that has been downloaded.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R156",
@@ -150,7 +166,9 @@
   "title": null,
   "text": "\" _Software Update Management System (SUMS)_ \" means a systematic approach defining organizational processes and procedures to comply with the requirements for delivery of software updates according to this Regulation.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R156",
@@ -167,7 +185,9 @@
   "title": null,
   "text": "\" _Vehicle user_ \" means a person operating or driving the vehicle, a vehicle owner, an authorised representative or employee of a fleet manager, an authorised representative or employee of the vehicle manufacturer, or an authorized technician.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R156",
@@ -184,7 +204,9 @@
   "title": null,
   "text": "\" _Safe state_ \" means an operating mode in case of a failure of an item without an unreasonable level of risk.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R156",
@@ -201,7 +223,9 @@
   "title": null,
   "text": "\" _Software_ \" means the part of an Electronic Control System that consists of digital data and instruction.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R156",
@@ -218,7 +242,9 @@
   "title": null,
   "text": "\" _Over-the-Air (OTA) update_ \" means any method of making data transfers wirelessly instead of using a cable or other local connection.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R156",
@@ -235,7 +261,9 @@
   "title": null,
   "text": "\" _System_ \" means a set of components and/or sub-systems that implement a function of functions.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R156",
@@ -252,7 +280,9 @@
   "title": null,
   "text": "\" _Integrity validation data_ \" means a representation of digital data, against which comparisons can be made to detect errors or changes in the data. This may include checksums and hash values.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R156",
@@ -269,7 +299,9 @@
   "title": "Application for approval",
   "text": "Application for approval",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -286,7 +318,9 @@
   "title": null,
   "text": "The application for approval of a vehicle type with regard to software update processes shall be submitted by the vehicle manufacturer or by their duly accredited representative.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -303,7 +337,9 @@
   "title": null,
   "text": "It shall be accompanied by the undermentioned documents in triplicate, and by the following particulars:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -320,7 +356,9 @@
   "title": null,
   "text": "A description of the vehicle type with regard to the items specified in Annex 1 to this Regulation.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -337,7 +375,9 @@
   "title": null,
   "text": "In cases where information is shown to be covered by intellectual property rights or to constitute specific know-how of the manufacturer or of their suppliers, the manufacturer or their suppliers shall make available sufficient information to enable the checks referred to in this Regulation to be made properly. Such information shall be treated on a confidential basis.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -354,7 +394,9 @@
   "title": null,
   "text": "The Certificate of Compliance for Software Update Management System according to paragraph 6. of this Regulation.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -371,7 +413,9 @@
   "title": null,
   "text": "A vehicle representative of the vehicle type to be approved shall be submitted to the Technical Service responsible for conducting approval tests.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -388,7 +432,9 @@
   "title": null,
   "text": "Documentation shall be made available in two parts: (a) The formal documentation package for the approval, containing the material specified in Annex 1 which shall be supplied to the Approval Authority or its Technical Service at the time of submission of the type approval application. This documentation package shall be used by the Approval Authority or its Technical Service as the basic reference for the approval process. The Approval Authority or its Technical Service shall ensure that this documentation package remains available for at least 10 years counted from the time when production of the vehicle type is definitely discontinued. (b) Additional material relevant to the requirements of this regulation may be retained by the manufacturer but made open for inspection at the time of type approval. The manufacturer shall ensure that any material made open for inspection at the time of type approval remains available for at least a period of 10 years counted from the time when production of the vehicle type is definitely discontinued.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -405,7 +451,9 @@
   "title": "Marking",
   "text": "Marking",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -422,7 +470,9 @@
   "title": null,
   "text": "There shall be affixed, conspicuously and in a readily accessible place specified on the approval form, to every vehicle conforming to a vehicle type approved under this Regulation an international approval mark consisting of:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -439,7 +489,9 @@
   "title": null,
   "text": "A circle surrounding the Letter \"E\" followed by the distinguishing number of the country which has granted approval.2 2The distinguishing numbers of the Contracting Parties to the 1958 Agreement are reproduced in Annex 3 to the Consolidated Resolution on the Construction of Vehicles (R.E.3), document ECE/TRANS/WP.29/78/Rev.6.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -456,7 +508,9 @@
   "title": null,
   "text": "The number of this Regulation, followed by the letter \"R\", a dash and the approval number to the right of the circle described in paragraph 4.1.1. above.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -473,7 +527,9 @@
   "title": null,
   "text": "If the vehicle conforms to a vehicle type approved under one or more other Regulations annexed to the Agreement in the country which has granted approval under this Regulation, the symbol prescribed in paragraph 4.1.1. above need not be repeated; in this case the Regulation and approval numbers and the additional symbols of all the Regulations under which approval has been granted in the country which has granted approval under this Regulation shall be placed in vertical columns to the right of the symbol prescribed in paragraph 4.1.1. above.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -490,7 +546,9 @@
   "title": null,
   "text": "The approval mark shall be clearly legible and shall be indelible.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -507,7 +565,9 @@
   "title": null,
   "text": "The approval mark shall be placed on or close to the vehicle data plate affixed by the Manufacturer.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -524,7 +584,9 @@
   "title": null,
   "text": "Annex 3 to this Regulation gives examples of the arrangements of the approval mark.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -541,7 +603,9 @@
   "title": "Approval",
   "text": "Approval",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -558,7 +622,9 @@
   "title": null,
   "text": "Approval Authorities shall grant, as appropriate, type approval with regard to software update procedures and processes, only to such vehicle types that satisfy the requirements of this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -575,7 +641,9 @@
   "title": null,
   "text": "The Approval Authority or the Technical Service shall verify by testing a vehicle of the vehicle type that the vehicle manufacturer has implemented the measures they have documented. Tests shall be performed by approval authority or the technical service itself or in collaboration with the vehicle manufacturer by sampling.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -592,7 +660,9 @@
   "title": null,
   "text": "Notice of approval or of extension or refusal of approval of a vehicle type pursuant to this Regulation shall be communicated to the Parties to the 1958 Agreement which apply this Regulation, by means of a form conforming to the model in Annex 2 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -609,7 +679,9 @@
   "title": null,
   "text": "Approval Authorities shall not grant any type approval without ensuring that the manufacturer has put in place satisfactory arrangements and procedures to manage properly the software update processes aspects as covered by this regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -626,7 +698,9 @@
   "title": "Certificate of Compliance for Software Update Management System",
   "text": "Certificate of Compliance for Software Update Management System",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -643,7 +717,9 @@
   "title": null,
   "text": "Contracting Parties shall appoint an Approval Authority to carry out the assessment of the manufacturer and to issue a Certificate of Compliance for Software Update Management System.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -660,7 +736,9 @@
   "title": null,
   "text": "An application for a Certificate of Compliance for Software Update Management System shall be submitted by the vehicle manufacturer or by their duly accredited representative.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -677,7 +755,9 @@
   "title": null,
   "text": "It shall be accompanied by the undermentioned documents in triplicate, and by the following particular:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -694,7 +774,9 @@
   "title": null,
   "text": "Documents describing the Software Update Management System.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -711,7 +793,9 @@
   "title": null,
   "text": "A signed declaration using the model as defined in Appendix 1 to Annex 1.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -728,7 +812,9 @@
   "title": null,
   "text": "In the context of the assessment, the manufacturer shall declare using the model as defined in Appendix 1 to Annex 1 and demonstrate to the satisfaction of the Approval Authority or its Technical Service that they have the necessary processes to comply with all the requirements for software updates according to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -745,7 +831,9 @@
   "title": null,
   "text": "When this assessment has been satisfactorily completed and in receipt of a signed declaration from the manufacturer according to the model as defined in Appendix 1 to Annex 1, a certificate named Certificate of Compliance for SUMS as described in Annex 4 to this Regulation (hereinafter the Certificate of Compliance for SUMS) shall be granted to the manufacturer.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -762,7 +850,9 @@
   "title": null,
   "text": "The Certificate of Compliance for SUMS shall remain valid for a maximum of three years from the date of deliverance of the certificate unless it is withdrawn.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -779,7 +869,9 @@
   "title": null,
   "text": "The Approval Authority which has granted the Certificate of Compliance for Software Update Management System may at any time verify its continued compliance. The Certificate of Compliance for Software Update Management System may be withdrawn if the requirements laid down in this Regulation are no longer met.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -796,7 +888,9 @@
   "title": null,
   "text": "The manufacturer shall inform the Approval Authority or its Technical Service of any change that will affect the relevance of the Certificate of Compliance for Software Update Management System. After consultation with the manufacturer, the Approval Authority or its Technical Service shall decide whether new checks are necessary.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -813,7 +907,9 @@
   "title": null,
   "text": "At the end of the period of validity of the Certificate of Compliance for Software Update Management System, the Approval Authority shall, after a positive assessment, issue a new Certificate of Compliance for Software Update Management System or extends its validity for a further period of three years. The Approval Authority shall issue a new certificate in cases where changes have been brought to the attention of the Approval Authority or its Technical Service and the changes have been positively re-assessed.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -830,7 +926,9 @@
   "title": null,
   "text": "Existing vehicle type approvals shall not lose their validity due to the expiration of the manufacturer’s Certificate of Compliance for Software Update Management System.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -847,7 +945,9 @@
   "title": "General specifications",
   "text": "General specifications",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -864,7 +964,9 @@
   "title": "Requirements for the Software Update Management System of the vehicle manufacturer",
   "text": "Requirements for the Software Update Management System of the vehicle manufacturer",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -881,7 +983,9 @@
   "title": "Processes to be verified at initial assessment",
   "text": "Processes to be verified at initial assessment",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -898,7 +1002,9 @@
   "title": null,
   "text": "A process whereby information relevant to this Regulation is documented and securely held at the vehicle manufacturer and can be made available to an Approval Authority or its Technical Service upon request;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -915,7 +1021,9 @@
   "title": null,
   "text": "A process whereby information regarding all initial and updated software versions, including integrity validation data, and relevant hardware components of a type approved system can be uniquely identified;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -932,7 +1040,9 @@
   "title": null,
   "text": "A process whereby, for a vehicle type that has an RXSWIN, information regarding the RXSWIN of the vehicle type before and after an update can be accessed and updated. This shall include the ability to update information regarding the software versions and their integrity validation data of all relevant software for each RXSWIN;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -949,7 +1059,9 @@
   "title": null,
   "text": "A process whereby, for a vehicle type that has an RXSWIN, the vehicle manufacturer can verify that the software version(s) present on a component of a type approved system are consistent with those defined by the relevant RXSWIN;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -966,7 +1078,9 @@
   "title": null,
   "text": "A process whereby any interdependencies of the updated system with other systems can be identified;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -983,7 +1097,9 @@
   "title": null,
   "text": "A process whereby the vehicle manufacturer is able to identify target vehicles for a software update;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1000,7 +1116,9 @@
   "title": null,
   "text": "A process to confirm the compatibility of a software update with the target vehicle(s) configuration before it is issued. This shall include an assessment of the last known software/hardware configuration of the target vehicle(s) for compatibility with the update before it is issued;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1017,7 +1135,9 @@
   "title": null,
   "text": "A process to assess, identify and record whether a software update will affect any type approved systems. This shall consider whether the update will impact or alter any of the parameters used to define the systems the update may affect or whether it may change any of the parameters used to type approve those system (as defined in the relevant legislation);",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1034,7 +1154,9 @@
   "title": null,
   "text": "A process to assess, identify and record whether a software update will add, alter or enable any functions that were not present, or enabled, when the vehicle was type approved or alter or disable any other parameters or functions that are defined within legislation. The assessment shall include consideration of whether: (a) Entries in the information package will need to be modified; (b) Test results no longer cover the vehicle after modification; (c) Any modification to functions on the vehicle will affect the vehicle’s type approval.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1051,7 +1173,9 @@
   "title": null,
   "text": "A process to assess, identify and record if a software update will affect any other system required for the safe and continued operation of the vehicle or if the update will add or alter functionality of the vehicle compared to when it was registered;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1068,7 +1192,9 @@
   "title": null,
   "text": "A process whereby the vehicle user is able to be informed about updates;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1085,7 +1211,9 @@
   "title": null,
   "text": "A process whereby the vehicle manufacturer shall be able to make the information according to paragraph 7.1.2.3. and 7.1.2.4. available to responsible Authorities or the Technical Services. This may be for the purpose of type approval, conformity of production, market surveillance, recalls and Periodic Technical Inspection (PTI).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1102,7 +1230,9 @@
   "title": null,
   "text": "The vehicle manufacturer shall record, and store, the following information for each update applied to a given vehicle type:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1119,7 +1249,9 @@
   "title": null,
   "text": "Documentation describing the processes used by the vehicle manufacturer for software updates and any relevant standards used to demonstrate their compliance;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1136,7 +1268,9 @@
   "title": null,
   "text": "Documentation describing the configuration of any relevant type approved systems before and after an update, this shall include unique identification for the type approved system’s hardware and software (including software versions) and any relevant vehicle or system parameters;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1153,7 +1287,9 @@
   "title": null,
   "text": "For every RXSWIN, there shall be an auditable register describing all the software relevant to the RXSWIN of the vehicle type before and after an update. This shall include information of the software versions and their integrity validation data for all relevant software for each RXSWIN.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1170,7 +1306,9 @@
   "title": null,
   "text": "Documentation listing target vehicles for the update and confirmation of the compatibility of the last known configuration of those vehicles with the update.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1187,7 +1325,9 @@
   "title": null,
   "text": "Documentation for all software updates for that vehicle type describing: (a) The purpose of the update; (b) What systems or functions of the vehicle the update may affect; (c) Which of these are type approved (if any); (d) If applicable, whether the software update affects the fulfilment of any of the relevant requirements of those type approved system; (e) Whether the software update affects any system type approval parameter; (f) Whether an approval for the update was sought from an approval body; (g) How the update may be executed and under what conditions; (h) Confirmation that the software update will be conducted safely and securely; (i) Confirmation that the software update has undergone and successfully passed verification and validation procedures.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1204,7 +1344,9 @@
   "title": null,
   "text": "Security - the vehicle manufacturer shall demonstrate:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1221,7 +1363,9 @@
   "title": null,
   "text": "The process they will use to ensure that software updates will be protected to reasonably prevent manipulation before the update process is initiated.;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1238,7 +1382,9 @@
   "title": null,
   "text": "The update processes used are protected to reasonably prevent them being compromised, including development of the update delivery system;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1255,7 +1401,9 @@
   "title": null,
   "text": "The processes used to verify and validate software functionality and code for the software used in the vehicle are appropriate.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1272,7 +1420,9 @@
   "title": "Additional requirements for software updates over the air",
   "text": "Additional requirements for software updates over the air",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1289,7 +1439,9 @@
   "title": null,
   "text": "The vehicle manufacturer shall demonstrate the processes and procedures they will use to assess that over the air updates will not impact safety, if conducted during driving.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1306,7 +1458,9 @@
   "title": null,
   "text": "The vehicle manufacturer shall demonstrate the processes and procedures they will use to ensure that, when an over the air update requires a specific skilled or complex action, for example recalibrate a sensor postprogramming, in order to complete the update process, the update can only proceed when a person skilled to do that action is present or is in control of the process.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1323,7 +1477,9 @@
   "title": "Requirements for the Vehicle Type",
   "text": "Requirements for the Vehicle Type",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1340,7 +1496,9 @@
   "title": "Requirements for Software updates",
   "text": "Requirements for Software updates",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1357,7 +1515,9 @@
   "title": null,
   "text": "The authenticity and integrity of software updates shall be protected to reasonably prevent their compromise and reasonably prevent invalid updates.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1374,7 +1534,9 @@
   "title": null,
   "text": "Where a vehicle type uses RXSWIN:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1391,7 +1553,9 @@
   "title": null,
   "text": "Each RXSWIN shall be uniquely identifiable. When type approval relevant software is modified by the vehicle manufacturer, the RXSWIN shall be updated if it leads to a type approval extension or to a new type approval.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1408,7 +1572,9 @@
   "title": null,
   "text": "Each RXSWIN shall be easily readable in a standardized way via the use of an electronic communication interface, at least by the standard interface (OBD port). If RXSWINs are not held on the vehicle, the manufacturer shall declare the software version(s) of the vehicle or single ECUs with the connection to the relevant type approvals to the Approval Authority. This declaration shall be updated each time the declared software version(s) is updated. In this case, the software version(s) shall be easily readable in a standardized way via the use of an electronic communication interface, at least by the standard interface (OBD port).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1425,7 +1591,9 @@
   "title": null,
   "text": "The vehicle manufacturer shall protect the RXSWINs and/or software version(s) on a vehicle against unauthorised modification. At the time of Type Approval, the means implemented to protect against unauthorized modification of the RXSWIN and/or software version(s) chosen by the vehicle manufacturer shall be confidentially provided.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1442,7 +1610,9 @@
   "title": "Additional Requirements for over the air updates",
   "text": "Additional Requirements for over the air updates",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1459,7 +1629,9 @@
   "title": null,
   "text": "The vehicle shall have the following functionality with regards to software updates:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1476,7 +1648,9 @@
   "title": null,
   "text": "The vehicle manufacturer shall ensure that the vehicle is able to restore systems to their previous version in case of a failed or interrupted update or that the vehicle can be placed into a safe state after a failed or interrupted update.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1493,7 +1667,9 @@
   "title": null,
   "text": "The vehicle manufacturer shall ensure that software updates can only be executed when the vehicle has enough power to complete the update process (including that needed for a possible recovery to the previous version or for the vehicle to be placed into a safe state).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1510,7 +1686,9 @@
   "title": null,
   "text": "When the execution of an update may affect the safety of the vehicle, the vehicle manufacturer shall demonstrate how the update will be executed safely. This shall be achieved through technical means that ensures the vehicle is in a state where the update can be executed safely.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1527,7 +1705,9 @@
   "title": null,
   "text": "The vehicle manufacturer shall demonstrate that the vehicle user is able to be informed about an update before the update is executed. The information made available shall contain: (a) The purpose of the update. This could include the criticality of the update and if the update is for recall, safety and/or security purposes; (b) Any changes implemented by the update on vehicle functions; (c) The expected time to complete execution of the update; (d) Any vehicle functionalities which may not be available during the execution of the update; (e) Any instructions that may help the vehicle user safely execute the update; In case of groups of updates with a similar content one information may cover a group.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1544,7 +1724,9 @@
   "title": null,
   "text": "In the situation where the execution of an update whilst driving may not be safe, the vehicle manufacturer shall demonstrate how they will: (a) Ensure the vehicle cannot be driven during the execution of the update; (b) Ensure that the driver is not able to use any functionality of the vehicle that would affect the safety of the vehicle or the successful execution of the update.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1561,7 +1743,9 @@
   "title": null,
   "text": "After the execution of an update the vehicle manufacturer shall demonstrate how the following will be implemented: (a) The vehicle user is able to be informed of the success (or failure) of the update; (b) The vehicle user is able to be informed about the changes implemented and any related updates to the user manual (if applicable).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1578,7 +1762,9 @@
   "title": null,
   "text": "The vehicle shall ensure that preconditions have to be met before the software update is executed.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1595,7 +1781,9 @@
   "title": "Modification and extension of the vehicle type",
   "text": "Modification and extension of the vehicle type",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -1612,7 +1800,9 @@
   "title": null,
   "text": "Every modification of the vehicle type which affects its technical performance and/or documentation required in this Regulation shall be notified to the approval authority which granted the approval. The approval authority may then either:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -1629,7 +1819,9 @@
   "title": null,
   "text": "Consider that the modifications made still comply with the requirements and documentation of prior type approval; or",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -1646,7 +1838,9 @@
   "title": null,
   "text": "Require a further test report from the Technical Service responsible for conducting the tests.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -1663,7 +1857,9 @@
   "title": null,
   "text": "Confirmation or extension or refusal of approval, specifying the alterations, shall be communicated by means of a communication form conforming to the model in Annex 2 to this Regulation. The approval authority issuing the extension of approval shall assign a series number for such an extension and inform there of the other Parties to the 1958 Agreement applying this Regulation by means of a communication form conforming to the model in Annex 2 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -1680,7 +1876,9 @@
   "title": "Conformity of production",
   "text": "Conformity of production",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R156",
@@ -1697,7 +1895,9 @@
   "title": null,
   "text": "The Conformity of Production Procedures shall comply with those set out in the 1958 Agreement, Schedule 1 (E/ECE/TRANS/505/Rev.3) with the following requirements:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R156",
@@ -1714,7 +1914,9 @@
   "title": null,
   "text": "The holder of the approval shall ensure that results of the conformity of production tests are recorded and that the annexed documents remain available for a period determined in agreement with the Approval Authority or its Technical Service. This period shall not exceed 10 years counted from the time when production is definitively discontinued;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R156",
@@ -1731,7 +1933,9 @@
   "title": null,
   "text": "The Approval Authority which has granted type approval may at any time verify the conformity control methods applied in each production facility. The normal frequency of these verifications shall be once every three years.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R156",
@@ -1748,7 +1952,9 @@
   "title": null,
   "text": "The Approval Authority or its Technical Service shall periodically validate that the processes used and decisions made by the vehicle manufacturer are compliant, particularly for instances where the vehicle manufacturer chose not to notify the Approval Authority or its Technical Service about an update. This may be achieved on a sampling basis.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R156",
@@ -1765,7 +1971,9 @@
   "title": "Penalties for non-conformity of production",
   "text": "Penalties for non-conformity of production",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -1782,7 +1990,9 @@
   "title": null,
   "text": "The approval granted in respect of a vehicle type pursuant to this Regulation may be withdrawn if the requirement laid down in this Regulation are not complied with or if sample vehicles fail to comply with the requirements of this Regulation.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -1799,7 +2009,9 @@
   "title": null,
   "text": "If an Approval Authority withdraws an approval it has previously granted, it shall forthwith so notify the Contracting Parties applying this Regulation, by means of a communication form conforming to the model in Annex 2 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -1816,7 +2028,9 @@
   "title": "Production definitively discontinued",
   "text": "Production definitively discontinued",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -1833,7 +2047,9 @@
   "title": null,
   "text": "If the holder of the approval completely ceases to manufacture a type of vehicle approved in accordance with this Regulation, he shall so inform the authority which granted the approval. Upon receiving the relevant communication that authority shall inform thereof the other Contracting Parties to the Agreement applying this Regulation by means of a copy of the approval form bearing at the end, in large letters, the signed and dated annotation \"PRODUCTION DISCONTINUED\".",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -1850,7 +2066,9 @@
   "title": null,
   "text": "Names and addresses of Technical Services responsible for conducting approval test, and of Type Approval Authorities",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R156",
@@ -1867,7 +2085,9 @@
   "title": null,
   "text": "The Contracting Parties to the Agreement which apply this Regulation shall communicate to the United Nations Secretariat the names and addresses of the Technical Services responsible for conducting approval tests and of the Type Approval Authorities which grant approval and to which forms certifying approval or extension or refusal or withdrawal of approval, issued in other countries, are to be sent.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -1884,7 +2104,9 @@
   "title": null,
   "text": "The following information, if applicable, shall be supplied in triplicate and include a list of contents. Any drawings shall be supplied in appropriate scale and in sufficient detail on size A4 or on a folder of A4 format. Photographs, if any, shall show sufficient detail.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -1901,7 +2123,9 @@
   "title": null,
   "text": "Make (trade name of manufacturer): ............................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -1918,7 +2142,9 @@
   "title": null,
   "text": "Type and general commercial description(s): ...................................... (Type is the type to be approved, commercial description refers to the product in which the approved type is used)",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -1935,7 +2161,9 @@
   "title": null,
   "text": "Means of identification of type, if marked on the vehicle: ..............................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -1952,7 +2180,9 @@
   "title": null,
   "text": "Location of that marking: ...................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -1969,7 +2199,9 @@
   "title": null,
   "text": "Category(ies) of vehicle: ....................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -1986,7 +2218,9 @@
   "title": null,
   "text": "Name and address of manufacturer/ manufacturer's representative: ........................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2003,7 +2237,9 @@
   "title": null,
   "text": "Name(s) and Address(es) of assembly plant(s): .....................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2020,7 +2256,9 @@
   "title": null,
   "text": "Photograph(s) and/or drawing(s) of a representative vehicle:............................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2037,7 +2275,9 @@
   "title": "Software Updates",
   "text": "Software Updates",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2054,7 +2294,9 @@
   "title": null,
   "text": "General construction characteristics of the vehicle type:..............................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2071,7 +2313,9 @@
   "title": null,
   "text": "The number of the Certificate of Compliance for Software Update Management System:........",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2088,7 +2332,9 @@
   "title": null,
   "text": "Security measures.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2105,7 +2351,9 @@
   "title": null,
   "text": "Documents for the vehicle type to be approved describing that the update process will be performed securely",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2122,7 +2370,9 @@
   "title": null,
   "text": "Documents for the vehicle type to be approved describing that the RXSWINs on a vehicle are protected against unauthorized manipulation",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2139,7 +2389,9 @@
   "title": "Software updates over the air",
   "text": "Software updates over the air",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2156,7 +2408,9 @@
   "title": null,
   "text": "Documents for the vehicle type to be approved describing that the update process will be performed safely",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2173,7 +2427,9 @@
   "title": null,
   "text": "How a vehicle user is able to be informed about an update before and after its execution. Annex 1 - Appendix 1 Model of declaration of compliance for Software Update Management System Manufacturer’s declaration of compliance with the requirements for Software Update Management System UN Regulation No. 156 series of amendments number: .............................................................. Manufacturer Name: ............................................................................................................................ Manufacturer Address: ......................................................................................................................... ………………(Manufacturer Name) attests that the necessary processes to comply with the requirements for the Software Update Management System laid down in paragraph 7.1. of UN Regulation No. 156 are installed and will be maintained. Done at: ……………………(place) Date: .................................................... Name of the signatory: ........................................................................................................................ Function of the signatory: .................................................................................................................... (Stamp and signature of the manufacturer’s representative)",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2190,7 +2446,9 @@
   "title": null,
   "text": "(Maximum format: A4 (210 x 297 mm)) issued by: Name of administration: ...................................... ...................................... ...................................... Concerning:2 Approval granted Approval extended Approval withdrawn with effect from dd/mm/yyyy Approval refused Production definitively discontinued of a vehicle type, pursuant to UN Regulation No. [ _this Regulation_ ] Approval No.: ............................................................ Extension No.: ............................................................ Reason for extension: ....................................................... 1Distinguishing number of the country which has granted/extended/refused/withdrawn approval (see marking provisions (footnote) in this Regulation). 2Strike out what does not apply.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2207,7 +2465,9 @@
   "title": null,
   "text": "Make (trade name of manufacturer): ............................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2224,7 +2484,9 @@
   "title": null,
   "text": "Type and general commercial description(s) .......................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2241,7 +2503,9 @@
   "title": null,
   "text": "Means of identification of type, if marked on the vehicle: ..............................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2258,7 +2522,9 @@
   "title": null,
   "text": "Location of that marking: ..................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2275,7 +2541,9 @@
   "title": null,
   "text": "Category(ies) of vehicle: ....................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2292,7 +2560,9 @@
   "title": null,
   "text": "Name and address of manufacturer / manufacturer’s representative: .......................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2309,7 +2579,9 @@
   "title": null,
   "text": "Name(s) and Address(es) of the production plant(s) ..................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2326,7 +2598,9 @@
   "title": null,
   "text": "Number of the certificate of compliance for software update management system: ..............",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2343,7 +2617,9 @@
   "title": null,
   "text": "Software updates over the air included (Yes/no): ....................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2360,7 +2636,9 @@
   "title": null,
   "text": "Technical Service responsible for carrying out the tests: ...............................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2377,7 +2655,9 @@
   "title": null,
   "text": "Date of test report: .......................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2394,7 +2674,9 @@
   "title": null,
   "text": "Number of test report: ....................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2411,7 +2693,9 @@
   "title": null,
   "text": "Remarks: (if any). .......................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2428,7 +2712,9 @@
   "title": null,
   "text": "Place: ...............................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2445,7 +2731,9 @@
   "title": null,
   "text": "Date: ................................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2462,7 +2750,9 @@
   "title": null,
   "text": "Signature: ............................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2479,7 +2769,9 @@
   "title": null,
   "text": "The index to the information package lodged with the Approval Authority, which may be obtained on request is attached.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2496,7 +2788,9 @@
   "title": null,
   "text": "Model A (See paragraph 4.2 of this Regulation) a = 8 mm min. The above approval mark affixed to a vehicle shows that the road vehicle type concerned has been approved in the Netherlands (E 4), pursuant to Regulation No. [xxx], and under the approval number 001234. The first two digits of the approval number indicate that the approval was granted in accordance with the requirements of this Regulation in its original form (00).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Arrangement of approval mark",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R156",
@@ -2513,6 +2807,8 @@
   "title": null,
   "text": "CERTIFICATE OF COMPLIANCE FOR SOFTWARE UPDATE MANAGEMENT SYSTEM With the original version of UN Regulation No.156 Certificate Number [ _Reference number_ ] [……. _Approval Authority_ ] Certifies that Manufacturer: ....................................................................................................................................... Address of the manufacturer: ............................................................................................................ Complies with the provisions of the original version of Regulation No. 156 Verifications have been performed on: ............................................................................................ by (name and address of the Approval Authority): ........................................................................ Number of report: .................................................................................................................................. The certificate is valid until: [….. _Date_ ] Done at: […… _Place_ ] On: [……. _Date_ ] […………. _Signature_ ]",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Model of Certificate of Compliance for Software Update Management System",
+  "section_kind": "requirement"
  }
 ]

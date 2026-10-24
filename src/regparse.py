@@ -38,6 +38,28 @@ class Node:
     text: str
     tables: list[str] = field(default_factory=list)
     has_shall: bool = False
+    doc_title: str = ""      # title of the annex/part this node is in ("" for the main body)
+    section_kind: str = ""   # administrative | definition | conformity | test | requirement (rule-based hint)
+
+
+KIND_RULES = [
+    ("administrative", r"application for approval|communication|information document|modification|extension of approval|penalt|"
+                       r"discontinued|technical services|transitional|arrangements? of (?:the )?approval marks?|examples? of (?:the )?approval|"
+                       r"sampling by an inspector|sampling by the|first sampling|control of conformity|loading conditions|introduction|scope\b"),
+    ("definition",     r"\bdefinitions?\b"),
+    ("conformity",     r"conformity of production"),
+    ("test",           r"\btests?\b|measurement|procedure|method|photometric|colorimetric|environmental|stability|resistance to"),
+]
+
+
+def classify_kind(doc_title: str, heading: str, title: str | None, label: str, doc: str) -> str:
+    text = " ".join([doc_title or "", heading or "", title or ""]).lower()
+    if doc == "main" and label.split(".")[0] in ("1",) and "scope" in text:
+        return "administrative"
+    for kind, rx in KIND_RULES:
+        if re.search(rx, text):
+            return kind
+    return "requirement"
 
 
 def full_label(doc: str, label: str) -> str:
@@ -109,6 +131,7 @@ def parse_pdf(pdf_path, role: str) -> list[Node]:
     cur: Node | None = None
     buf: list[str] = []
     headings: dict[int, str] = {}                     # depth -> title within the current doc
+    doc_title = ""
     in_doc: set[str] = set()                          # labels already created in the current doc
     top_max = 0                                       # highest depth-1 number seen in the current doc
 
@@ -128,11 +151,13 @@ def parse_pdf(pdf_path, role: str) -> list[Node]:
             for d in [d for d in headings if d > cur.depth]:
                 del headings[d]
         cur.heading = " > ".join(headings[d] for d in sorted(headings) if d < cur.depth)
+        cur.doc_title = doc_title
+        cur.section_kind = classify_kind(doc_title, cur.heading, cur.title, cur.label, cur.doc)
         nodes.append(cur); cur, buf = None, []
 
     def switch(new_doc: str, title: str):
-        nonlocal doc, headings, in_doc, top_max
-        flush(); doc = new_doc; headings = {0: f"{new_doc} {title}".strip()}; in_doc = set(); top_max = 0
+        nonlocal doc, headings, in_doc, top_max, doc_title
+        flush(); doc = new_doc; doc_title = title.strip(); headings = {0: f"{new_doc} {title}".strip()}; in_doc = set(); top_max = 0
 
     for page_no, lines in pages:
         first = True
@@ -160,8 +185,7 @@ def parse_pdf(pdf_path, role: str) -> list[Node]:
                 grand  = ".".join(parts[:-2]) or None
                 ok = (depth == 1 and lm.group(2) == "." and int(label) in (top_max + 1, top_max + 2, 0, 1) and label not in in_doc) \
                      or (depth >= 2 and (parent in in_doc or (grand and grand in in_doc)) and label not in in_doc) \
-                     or (cur is None and not nodes) \
-                     or (not in_doc and lm.group(2) == ".")               # first label of a new numbering space, any depth
+                     or (cur is None and not nodes)
                 if ok:
                     flush()
                     cur = Node(reg=reg, version=version, role=role, doc=doc, label=label,

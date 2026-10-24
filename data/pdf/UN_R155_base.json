@@ -14,7 +14,9 @@
   "title": null,
   "text": "UN R155 (version 0.2.0) Consolidated text of this version, rendered by Certivity for the hackathon. Cite pages of THIS file: the page number is printed at the bottom of every page. Role in the hackathon: base version.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -31,7 +33,9 @@
   "title": "Scope",
   "text": "Scope",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -48,7 +52,9 @@
   "title": null,
   "text": "This Regulation applies to vehicles, with regard to cyber security, of the Categories M and N. This Regulation also applies to vehicles of Category O if fitted with at least one electronic control unit.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -65,7 +71,9 @@
   "title": null,
   "text": "This Regulation also applies to vehicles of the Categories L6 and L7 if equipped with automated driving functionalities from level 3 onwards, as defined in the reference document with definitions of Automated Driving under WP.29 and the General Principles for developing a UN Regulation on automated vehicles (ECE/TRANS/WP.29/1140).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -82,7 +90,9 @@
   "title": null,
   "text": "This Regulation is without prejudice to other UN Regulations, regional or national legislations governing the access by authorized parties to the vehicle, its data, functions and resources, and conditions of such access. It is also without prejudice to the application of national and regional legislation on privacy and the protection of natural persons with regard to the processing of their personal data.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -99,7 +109,9 @@
   "title": null,
   "text": "This Regulation is without prejudice to other UN Regulations, national or regional legislation governing the development and installation/system integration of replacement parts and components, physical and digital, with regards to cybersecurity.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -116,7 +128,9 @@
   "title": null,
   "text": "Definitions For the purpose of this Regulation the following definitions shall apply:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -133,7 +147,9 @@
   "title": null,
   "text": "\" _Vehicle type_ \" means vehicles which do not differ in at least the following essential respects: (a) The manufacturer’s designation of the vehicle type; (b) Essential aspects of the electric/electronic architecture and external interfaces with respect to cyber security.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -150,7 +166,9 @@
   "title": null,
   "text": "\" _Cyber security_ \" means the condition in which road vehicles and their functions are protected from cyber threats to electrical or electronic components.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -167,7 +185,9 @@
   "title": null,
   "text": "\" _Cyber Security Management System (CSMS)_ \" means a systematic risk-based approach defining organisational processes, responsibilities and governance to treat risk associated with cyber threats to vehicles and protect them from cyber-attacks.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -184,7 +204,9 @@
   "title": null,
   "text": "\" _System_ \" means a set of components and/or sub-systems that implements a function or functions.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -201,7 +223,9 @@
   "title": null,
   "text": "\" _Development phase_ \" means the period before a vehicle type is type approved.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -218,7 +242,9 @@
   "title": null,
   "text": "\" _Production phase_ \" refers to the duration of production of a vehicle type.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -235,7 +261,9 @@
   "title": null,
   "text": "\" _Post-production phase_ \" refers to the period in which a vehicle type is no longer produced until the end-oflife of all vehicles under the vehicle type. Vehicles incorporating a specific vehicle type will be operational during this phase but will no longer be produced. The phase ends when there are no longer any operational vehicles of a specific vehicle type.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -252,7 +280,9 @@
   "title": null,
   "text": "\" _Mitigation_ \" means a measure that is reducing risk.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -269,7 +299,9 @@
   "title": null,
   "text": "\" _Risk_ \" means the potential that a given threat will exploit vulnerabilities of a vehicle and thereby cause harm to the organization or to an individual.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -286,7 +318,9 @@
   "title": null,
   "text": "\" _Risk Assessment_ \" means the overall process of finding, recognizing and describing risks (risk identification), to comprehend the nature of risk and to determine the level of risk (risk analysis), and of comparing the results of risk analysis with risk criteria to determine whether the risk and/or its magnitude is acceptable or tolerable (risk evaluation).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -303,7 +337,9 @@
   "title": null,
   "text": "\" _Risk Management_ \" means coordinated activities to direct and control an organization with regard to risk.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -320,7 +356,9 @@
   "title": null,
   "text": "\" _Threat_ \" means a potential cause of an unwanted incident, which may result in harm to a system, organization or individual.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -337,7 +375,9 @@
   "title": null,
   "text": "\" _Vulnerability_ \" means a weakness of an asset or mitigation that can be exploited by one or more threats.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -354,7 +394,9 @@
   "title": "Application for approval",
   "text": "Application for approval",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -371,7 +413,9 @@
   "title": null,
   "text": "The application for approval of a vehicle type with regard to cyber security shall be submitted by the vehicle manufacturer or by their duly accredited representative.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -388,7 +432,9 @@
   "title": null,
   "text": "It shall be accompanied by the undermentioned documents in triplicate, and by the following particulars:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -405,7 +451,9 @@
   "title": null,
   "text": "A description of the vehicle type with regard to the items specified in Annex 1 to this Regulation.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -422,7 +470,9 @@
   "title": null,
   "text": "In cases where information is shown to be covered by intellectual property rights or to constitute specific know-how of the manufacturer or of their suppliers, the manufacturer or their suppliers shall make available sufficient information to enable the checks referred to in this Regulation to be made properly. Such information shall be treated on a confidential basis.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -439,7 +489,9 @@
   "title": null,
   "text": "The Certificate of Compliance for CSMS according to paragraph 6 of this Regulation.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -456,7 +508,9 @@
   "title": null,
   "text": "Documentation shall be made available in two parts: (a) The formal documentation package for the approval, containing the material specified in Annex 1 which shall be supplied to the Approval Authority or its Technical Service at the time of submission of the type approval application. This documentation package shall be used by the Approval Authority or its Technical Service as the basic reference for the approval process. The Approval Authority or its Technical Service shall ensure that this documentation package remains available for at least 10 years counted from the time when production of the vehicle type is definitively discontinued. (b) Additional material relevant to the requirements of this regulation may be retained by the manufacturer, but made open for inspection at the time of type approval. The manufacturer shall ensure that any material made open for inspection at the time of type approval remains available for at least a period of 10 years counted from the time when production of the vehicle type is definitively discontinued.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -473,7 +527,9 @@
   "title": "Marking",
   "text": "Marking",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -490,7 +546,9 @@
   "title": null,
   "text": "There shall be affixed, conspicuously and in a readily accessible place specified on the approval form, to every vehicle conforming to a vehicle type approved under this Regulation an international approval mark consisting of:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -507,7 +565,9 @@
   "title": null,
   "text": "A circle surrounding the Letter \"E\" followed by the distinguishing number of the country which has granted approval.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -524,7 +584,9 @@
   "title": null,
   "text": "The number of this Regulation, followed by the letter \"R\", a dash and the approval number to the right of the circle described in paragraph 4.1.1. above.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -541,7 +603,9 @@
   "title": null,
   "text": "If the vehicle conforms to a vehicle type approved under one or more other Regulations annexed to the Agreement in the country which has granted approval under this Regulation, the symbol prescribed in paragraph 4.1.1. above need not be repeated; in this case the Regulation and approval numbers and the additional symbols of all the Regulations under which approval has been granted in the country which has granted approval under this Regulation shall be placed in vertical columns to the right of the symbol prescribed in paragraph 4.1.1. above.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -558,7 +622,9 @@
   "title": null,
   "text": "The approval mark shall be clearly legible and shall be indelible.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -575,7 +641,9 @@
   "title": null,
   "text": "The approval mark shall be placed on or close to the vehicle data plate affixed by the Manufacturer.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -592,7 +660,9 @@
   "title": null,
   "text": "Annex 3 to this Regulation gives examples of the arrangements of the approval mark.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -609,7 +679,9 @@
   "title": "Approval",
   "text": "Approval",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -626,7 +698,9 @@
   "title": null,
   "text": "Approval Authorities shall grant, as appropriate, type approval with regard to cyber security, only to such vehicle types that satisfy the requirements of this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -643,7 +717,9 @@
   "title": null,
   "text": "The Approval Authority or the Technical Service shall verify by means of document checks that the vehicle manufacturer has taken the necessary measures relevant for the vehicle type to: (a) Collect and verify the information required under this Regulation through the supply chain so as to demonstrate that supplier-related risks are identified and are managed; (b) Document risks assessment (conducted during development phase or retrospectively), test results and mitigations applied to the vehicle type, including design information supporting the risk assessment; (c) Implement appropriate cyber security measures in the design of the vehicle type; (d) Detect and respond to possible cyber security attacks; (e) Log data to support the detection of cyber-attacks and provide data forensic capability to enable analysis of attempted or successful cyber-attacks.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -660,7 +736,9 @@
   "title": null,
   "text": "The Approval Authority or the Technical Service shall verify by testing of a vehicle of the vehicle type that the vehicle manufacturer has implemented the cyber security measures they have documented. Tests shall be performed by the Approval Authority or the Technical Service itself or in collaboration with the vehicle manufacturer by sampling. Sampling shall be focused but not limited to risks that are assessed as high during the risk assessment.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -677,7 +755,9 @@
   "title": null,
   "text": "The Approval Authority or Technical Service shall refuse to grant the type approval with regard to cyber security where the vehicle manufacturer has not fulfilled one or more of the requirements referred to in paragraph 7.3., notably: (a) The vehicle manufacturer did not perform the exhaustive risk assessment referred to in paragraph 7.3.3.; including where the manufacturer did not consider all the risks related to threats referred to in Annex 5, Part A; (b) The vehicle manufacturer did not protect the vehicle type against risks identified in the vehicle manufacturer’s risk assessment or proportionate mitigations were not implemented as required by paragraph 7.; (c) The vehicle manufacturer did not put in place appropriate and proportionate measures to secure dedicated environments on the vehicle type (if provided) for the storage and execution of aftermarket software, services, applications or data; (d) The vehicle manufacturer did not perform, prior to the approval, appropriate and sufficient testing to verify the effectiveness of the security measures implemented.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -694,7 +774,9 @@
   "title": null,
   "text": "The assessing Approval Authority shall also refuse to grant the type approval with regard to cyber security where the Approval Authority or Technical Service has not received sufficient information from the vehicle manufacturer to assess the cyber security of the vehicle type.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -711,7 +793,9 @@
   "title": null,
   "text": "Notice of approval or of extension or refusal of approval of a vehicle type pursuant to this Regulation shall be communicated to the Parties to the 1958 Agreement which apply this Regulation, by means of a form conforming to the model in Annex 2 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -728,7 +812,9 @@
   "title": null,
   "text": "Approval Authorities shall not grant any type approval without verifying that the manufacturer has put in place satisfactory arrangements and procedures to manage properly the cyber security aspects as covered by this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -745,7 +831,9 @@
   "title": null,
   "text": "The Approval Authority and its Technical Services shall ensure, in addition to the criteria laid down in Schedule 2 of the 1958 Agreement that they have: (a) Competent personnel with appropriate cyber security skills and specific automotive risk assessments knowledge;1 (b) Implemented procedures for the uniform evaluation according to this Regulation. 1E.g. ISO 26262-2018, ISO/PAS 21448, ISO/SAE 21434",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -762,7 +850,9 @@
   "title": null,
   "text": "Each Contracting Party applying this Regulation shall notify and inform by its Approval Authority other Approval Authorities of the Contracting Parties applying this UN Regulation about the method and criteria taken as a basis by the notifying Authority to assess the appropriateness of the measures taken in accordance with this regulation and in particular with paragraphs 5.1., 7.2. and 7.3. This information shall be shared (a) only before granting an approval according to this Regulation for the first time and (b) each time the method or criteria for assessment is updated. This information is intended to be shared for the purposes of collection and analysis of the best practice **s** and in view of ensuring the convergent application of this Regulation by all Approval Authorities applying this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -779,7 +869,9 @@
   "title": null,
   "text": "The information referred to in paragraph 5.3.2 shall be uploaded in English language to the secure internet database \"DETA\",2 established by the United Nations Economic Commission for Europe, in due time and no later than 14 days before an approval is granted for the first time under the methods and criteria of assessment concerned. The information shall be sufficient to understand what minimum performance levels the Approval Authority adopted for each specific requirement referred to in paragraph 5.3.2 as well as the processes and measures it applies to verify that these minimum performance levels are met.3 2https://www.unece.org/trans/main/wp29/datasharing.html 3Guidance for the detailed information (e.g. method, criteria, performance level) to be uploaded and the format shall be given in the interpretation document which is under preparation by the Task Force on Cyber Security and Over-the-Air issues for the seventh session of GRVA.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -796,7 +888,9 @@
   "title": null,
   "text": "Approval Authorities receiving the information referred to in paragraph 5.3.2 may submit comments to the notifying Approval Authority by uploading them to DETA within 14 days after the day of notification.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -813,7 +907,9 @@
   "title": null,
   "text": "If it is not possible for the granting Approval Authority to take into account the comments received in accordance with paragraph 5.3.4., the Approval Authorities having sent comments and the granting Approval Authority shall seek further clarification in accordance with Schedule 6 to the 1958 Agreement. The relevant subsidiary Working Party4 of the World Forum for Harmonization of Vehicle Regulations (WP.29) for this Regulation shall agree on a common interpretation of methods and criteria of assessment.5 That common interpretation shall be implemented and all Approval Authorities shall issue type approvals under this Regulation accordingly. 4The Working Party on Automated/Autonomous and Connected Vehicles (GRVA) 5This interpretation shall be reflected in the interpretation document referred to in the footnote to paragraph 5.3.3.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -830,7 +926,9 @@
   "title": null,
   "text": "Each Approval Authority granting a type approval pursuant to this Regulation shall notify other Approval Authorities of the approval granted. The type approval together with the supplementing documentation shall be uploaded in English language by the Approval Authority within 14 days after the day of granting the approval to DETA.6 6Further information on the minimum requirements for the documentation package will be developed by GRVA during its seven session.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -847,7 +945,9 @@
   "title": null,
   "text": "The Contracting Parties may study the approvals granted based on the information uploaded according to paragraph 5.3.6. In case of any diverging views between Contracting Parties this shall be settled in accordance with Article 10 and Schedule 6 of the 1958 Agreement. The Contracting Parties shall also inform the relevant subsidiary Working Party of the World Forum for Harmonization of Vehicle Regulations (WP.29) of the diverging interpretations within the meaning of Schedule 6 to the 1958 Agreement. The relevant Working Party shall support the settlement of the diverging views and may consult with WP.29 on this if needed.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -864,7 +964,9 @@
   "title": null,
   "text": "For the purpose of paragraph 7.2. of this Regulation, the manufacturer shall ensure that the cyber security aspects covered by this Regulation are implemented.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -881,7 +983,9 @@
   "title": "Certificate of Compliance for Cyber Security Management System",
   "text": "Certificate of Compliance for Cyber Security Management System",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -898,7 +1002,9 @@
   "title": null,
   "text": "Contracting Parties shall appoint an Approval Authority to carry out the assessment of the manufacturer and to issue a Certificate of Compliance for CSMS.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -915,7 +1021,9 @@
   "title": null,
   "text": "An application for a Certificate of Compliance for Cyber Security Management System shall be submitted by the vehicle manufacturer or by their duly accredited representative.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -932,7 +1040,9 @@
   "title": null,
   "text": "It shall be accompanied by the undermentioned documents in triplicate, and by the following particular:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -949,7 +1059,9 @@
   "title": null,
   "text": "Documents describing the Cyber Security Management System.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -966,7 +1078,9 @@
   "title": null,
   "text": "A signed declaration using the model as defined in Appendix 1 to Annex 1.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -983,7 +1097,9 @@
   "title": null,
   "text": "In the context of the assessment, the manufacturer shall declare using the model as defined in Appendix 1 to Annex 1 and demonstrate to the satisfaction of the Approval Authority or its Technical Service that they have the necessary processes to comply with all the requirements for cyber security according to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1000,7 +1116,9 @@
   "title": null,
   "text": "When this assessment has been satisfactorily completed and in receipt of a signed declaration from the manufacturer according to the model as defined in Appendix 1 to Annex 1, a certificate named Certificate of Compliance for CSMS as described in Annex 4 to this Regulation (hereinafter the Certificate of Compliance for CSMS) shall be granted to the manufacturer.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1017,7 +1135,9 @@
   "title": null,
   "text": "The Approval Authority or its Technical Service shall use the model set out in Annex 4 to this Regulation for the Certificate of Compliance for CSMS.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1034,7 +1154,9 @@
   "title": null,
   "text": "The Certificate of Compliance for CSMS shall remain valid for a maximum of three years from the date of deliverance of the certificate unless it is withdrawn.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1051,7 +1173,9 @@
   "title": null,
   "text": "The Approval Authority which has granted the Certificate of Compliance for CSMS may at any time verify that the requirements for it continue to be met. The Approval Authority shall withdraw the Certificate of Compliance for CSMS if the requirements laid down in this Regulation are no longer met.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1068,7 +1192,9 @@
   "title": null,
   "text": "The manufacturer shall inform the Approval Authority or its Technical Service of any change that will affect the relevance of the Certificate of Compliance for CSMS. After consultation with the manufacturer, the Approval Authority or its Technical Service shall decide whether new checks are necessary.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1085,7 +1211,9 @@
   "title": null,
   "text": "In due time, permitting the Approval Authority to complete its assessment before the end of the period of validity of the Certificate of Compliance for CSMS, the manufacturer shall apply for a new or for the extension of the existing Certificate of Compliance for CSMS. The Approval Authority shall, subject to a positive assessment, issue a new Certificate of Compliance for CSMS or extend its validity for a further period of three years. The Approval Authority shall verify that the CSMS continue to comply with the requirements of this Regulation. The Approval Authority shall issue a new certificate in cases where changes have been brought to the attention of the Approval Authority or its Technical Service and the changes have been positively re-assessed.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1102,7 +1230,9 @@
   "title": null,
   "text": "The expiry or withdrawal of the manufacturer’s Certificate of Compliance for CSMS shall be considered, with regard to the vehicle types to which the CSMS concerned was relevant, as modification of approval, as referred to in paragraph 8, which may include the withdrawal of the approval if the conditions for granting the approval are not met anymore.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1119,7 +1249,9 @@
   "title": "Specifications",
   "text": "Specifications",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1136,7 +1268,9 @@
   "title": "General specifications",
   "text": "General specifications",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1153,7 +1287,9 @@
   "title": null,
   "text": "The requirements of this Regulation shall not restrict provisions or requirements of other UN Regulations.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1170,7 +1306,9 @@
   "title": "Requirements for the Cyber Security Management System",
   "text": "Requirements for the Cyber Security Management System",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1187,7 +1325,9 @@
   "title": null,
   "text": "For the assessment the Approval Authority or its Technical Service shall verify that the vehicle manufacturer has a Cyber Security Management System in place and shall verify its compliance with this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1204,7 +1344,9 @@
   "title": null,
   "text": "The Cyber Security Management System shall cover the following aspects:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1221,7 +1363,9 @@
   "title": null,
   "text": "The vehicle manufacturer shall demonstrate to an Approval Authority or Technical Service that their Cyber Security Management System applies to the following phases: (a) Development phase; (b) Production phase; (c) Post-production phase.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1238,7 +1382,9 @@
   "title": null,
   "text": "The vehicle manufacturer shall demonstrate that the processes used within their Cyber Security Management System ensure security is adequately considered, including risks and mitigations listed in Annex 5. This shall include: (a) The processes used within the manufacturer’s organization to manage cyber security; (b) The processes used for the identification of risks to vehicle types. Within these processes, the threats in Annex 5, Part A, and other relevant threats shall be considered; (c) The processes used for the assessment, categorization and treatment of the risks identified; (d) The processes in place to verify that the risks identified are appropriately managed; (e) The processes used for testing the cyber security of a vehicle type; (f) The processes used for ensuring that the risk assessment is kept current; (g) The processes used to monitor for, detect and respond to cyber-attacks, cyber threats and vulnerabilities on vehicle types and the processes used to assess whether the cyber security measures implemented are still effective in the light of new cyber threats and vulnerabilities that have been identified. (h) The processes used to provide relevant data to support analysis of attempted or successful cyber-attacks.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1255,7 +1401,9 @@
   "title": null,
   "text": "The vehicle manufacturer shall demonstrate that the processes used within their Cyber Security Management System will ensure that, based on categorization referred to in paragraph 7.2.2.2 (c) and 7.2.2.2 (g), cyber threats and vulnerabilities which require a response from the vehicle manufacturer shall be mitigated within a reasonable timeframe.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1272,7 +1420,9 @@
   "title": null,
   "text": "The vehicle manufacturer shall demonstrate that the processes used within their Cyber Security Management System will ensure that the monitoring referred to in paragraph 7.2.2.2 (g) shall be continual. This shall: (a) Include vehicles after first registration in the monitoring; (b) Include the capability to analyse and detect cyber threats, vulnerabilities and cyber-attacks from vehicle data and vehicle logs. This capability shall respect paragraph 1.3. and the privacy rights of car owners or drivers, particularly with respect to consent.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1289,7 +1439,9 @@
   "title": null,
   "text": "The vehicle manufacturer shall be required to demonstrate how their Cyber Security Management System will manage dependencies that may exist with contracted suppliers, service providers or manufacturer’s suborganizations in regards of the requirements of paragraph 7.2.2.2.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1306,7 +1458,9 @@
   "title": "Requirements for vehicle types",
   "text": "Requirements for vehicle types",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1323,7 +1477,9 @@
   "title": null,
   "text": "The manufacturer shall have a valid Certificate of Compliance for the Cyber Security Management System relevant to the vehicle type being approved. However, for type approvals first issued before 1 July 2024 and for each extension thereof, if the vehicle manufacturer can demonstrate that the vehicle type could not be developed in compliance with the CSMS, then the vehicle manufacturer shall demonstrate that cyber security was adequately considered during the development phase of the vehicle type concerned.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1340,7 +1496,9 @@
   "title": null,
   "text": "The vehicle manufacturer shall identify and manage, for the vehicle type being approved, supplier-related risks.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1357,7 +1515,9 @@
   "title": null,
   "text": "The vehicle manufacturer shall identify the critical elements of the vehicle type and perform an exhaustive risk assessment for the vehicle type and shall treat/manage the identified risks appropriately. The risk assessment shall consider the individual elements of the vehicle type and their interactions. The risk assessment shall further consider interactions with any external systems. While assessing the risks, the vehicle manufacturer shall consider the risks related to all the threats referred to in Annex 5, Part A, as well as any other relevant risk.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1374,7 +1534,9 @@
   "title": null,
   "text": "The vehicle manufacturer shall protect the vehicle type against risks identified in the vehicle manufacturer’s risk assessment. Proportionate mitigations shall be implemented to protect the vehicle type. The mitigations implemented shall include all mitigations referred to in Annex 5, Part B and C which are relevant for the risks identified. However, if a mitigation referred to in Annex 5, Part B or C, is not relevant or not sufficient for the risk identified, the vehicle manufacturer shall ensure that another appropriate mitigation is implemented. In particular, for type approvals first issued before 1 July 2024 and for each extension thereof, the vehicle manufacturer shall ensure that another appropriate mitigation is implemented if a mitigation measure referred to in Annex 5, Part B or C is technically not feasible. The respective assessment of the technical feasibility shall be provided by the manufacturer to the approval authority.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1391,7 +1553,9 @@
   "title": null,
   "text": "The vehicle manufacturer shall put in place appropriate and proportionate measures to secure dedicated environments on the vehicle type (if provided) for the storage and execution of aftermarket software, services, applications or data.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1408,7 +1572,9 @@
   "title": null,
   "text": "The vehicle manufacturer shall perform, prior to type approval, appropriate and sufficient testing to verify the effectiveness of the security measures implemented.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1425,7 +1591,9 @@
   "title": null,
   "text": "The vehicle manufacturer shall implement measures for the vehicle type to: (a) Detect and prevent cyber-attacks against vehicles of the vehicle type; (b) Support the monitoring capability of the vehicle manufacturer with regards to detecting threats, vulnerabilities and cyber-attacks relevant to the vehicle type; (c) Provide data forensic capability to enable analysis of attempted or successful cyber-attacks.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1442,7 +1610,9 @@
   "title": null,
   "text": "Cryptographic modules used for the purpose of this Regulation shall be in line with consensus standards. If the cryptographic modules used are not in line with consensus standards, then the vehicle manufacturer shall justify their use.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1459,7 +1629,9 @@
   "title": "Reporting provisions",
   "text": "Reporting provisions",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1476,7 +1648,9 @@
   "title": null,
   "text": "The vehicle manufacturer shall report at least once a year, or more frequently if relevant, to the Approval Authority or the Technical Service the outcome of their monitoring activities, as defined in paragraph 7.2.2.2.(g)), this shall include relevant information on new cyber-attacks. The vehicle manufacturer shall also report and confirm to the Approval Authority or the Technical Service that the cyber security mitigations implemented for their vehicle types are still effective and any additional actions taken.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1493,7 +1667,9 @@
   "title": null,
   "text": "The Approval Authority or the Technical Service shall verify the provided information and, if necessary, require the vehicle manufacturer to remedy any detected ineffectiveness. If the reporting or response is not sufficient the Approval Authority may decide to withdraw the CSMS in compliance with paragraph 6.8.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1510,7 +1686,9 @@
   "title": "Modification and extension of the vehicle type",
   "text": "Modification and extension of the vehicle type",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -1527,7 +1705,9 @@
   "title": null,
   "text": "Every modification of the vehicle type which affects its technical performance with respect to cybersecurity and/or documentation required in this Regulation shall be notified to the approval authority which approved the vehicle type. The Approval Authority may then either:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -1544,7 +1724,9 @@
   "title": null,
   "text": "Consider that the modifications made still comply with the requirements and documentation of existing type approval; or",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -1561,7 +1743,9 @@
   "title": null,
   "text": "Proceed to necessary complementary assessment pursuant to paragraph 5, and require, where relevant, a further test report from the Technical Service responsible for conducting the tests.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -1578,7 +1762,9 @@
   "title": null,
   "text": "Confirmation or extension or refusal of approval, specifying the alterations, shall be communicated by means of a communication form conforming to the model in Annex 2 to this Regulation. The Approval Authority issuing the extension of approval shall assign a series number for such an extension and inform there of the other Parties to the 1958 Agreement applying this Regulation by means of a communication form conforming to the model in Annex 2 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -1595,7 +1781,9 @@
   "title": "Co n formity of production",
   "text": "Co n formity of production",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1612,7 +1800,9 @@
   "title": null,
   "text": "The Conformity of Production Procedures shall comply with those set out in the 1958 Agreement, Schedule 1 (E/ECE/TRANS/505/Rev.3) with the following requirements:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1629,7 +1819,9 @@
   "title": null,
   "text": "The holder of the approval shall ensure that results of the conformity of production tests are recorded and that the annexed documents remain available for a period determined in agreement with the Approval Authority or its Technical Service. This period shall not exceed 10 years counted from the time when production is definitively discontinued;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1646,7 +1838,9 @@
   "title": null,
   "text": "The Approval Authority which has granted type approval may at any time verify the conformity control methods applied in each production facility. The normal frequency of these verifications shall be once every three years.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1663,7 +1857,9 @@
   "title": "Penalties for non-conformity of production",
   "text": "Penalties for non-conformity of production",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -1680,7 +1876,9 @@
   "title": null,
   "text": "The approval granted in respect of a vehicle type pursuant to this Regulation may be withdrawn if the requirements laid down in this Regulation are not complied with or if sample vehicles fail to comply with the requirements of this Regulation.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -1697,7 +1895,9 @@
   "title": null,
   "text": "If an Approval Authority withdraws an approval it has previously granted, it shall forthwith so notify the Contracting Parties applying this Regulation, by means of a communication form conforming to the model in Annex 2 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -1714,7 +1914,9 @@
   "title": "Production definitively discontinued",
   "text": "Production definitively discontinued",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -1731,7 +1933,9 @@
   "title": null,
   "text": "If the holder of the approval completely ceases to manufacture a type of vehicle approved in accordance with this Regulation, he shall so inform the authority which granted the approval. Upon receiving the relevant communication that authority shall inform thereof the other Contracting Parties to the Agreement applying this Regulation by means of a copy of the approval form bearing at the end, in large letters, the signed and dated annotation \"PRODUCTION DISCONTINUED\".",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -1748,7 +1952,9 @@
   "title": null,
   "text": "Names and addresses of Technical Services responsible for conducting approval test, and of Type Approval Authorities",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -1765,7 +1971,9 @@
   "title": null,
   "text": "The Contracting Parties to the Agreement which apply this Regulation shall communicate to the United Nations Secretariat the names and addresses of the Technical Services responsible for conducting approval tests and of the Type Approval Authorities which grant approval and to which forms certifying approval or extension or refusal or withdrawal of approval, issued in other countries, are to be sent.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -1782,7 +1990,9 @@
   "title": null,
   "text": "The following information, if applicable, shall be supplied in triplicate and include a list of contents. Any drawings shall be supplied in appropriate scale and in sufficient detail on size A4 or on a folder of A4 format. Photographs, if any, shall show sufficient detail.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -1799,7 +2009,9 @@
   "title": null,
   "text": "Make (trade name of manufacturer): ............................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -1816,7 +2028,9 @@
   "title": null,
   "text": "Type and general commercial description(s):.......................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -1833,7 +2047,9 @@
   "title": null,
   "text": "Means of identification of type, if marked on the vehicle:..............................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -1850,7 +2066,9 @@
   "title": null,
   "text": "Location of that marking:...................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -1867,7 +2085,9 @@
   "title": null,
   "text": "Category(ies) of vehicle:....................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -1884,7 +2104,9 @@
   "title": null,
   "text": "Name and address of manufacturer/ manufacturer's representative:........................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -1901,7 +2123,9 @@
   "title": null,
   "text": "Name(s) and Address(es) of assembly plant(s):.....................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -1918,7 +2142,9 @@
   "title": null,
   "text": "Photograph(s) and/or drawing(s) of a representative vehicle:............................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -1935,7 +2161,9 @@
   "title": "Cyber Security",
   "text": "Cyber Security",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -1952,7 +2180,9 @@
   "title": null,
   "text": "General construction characteristics of the vehicle type, including: (a) The vehicle systems which are relevant to the cyber security of the vehicle type; (b) The components of those systems that are relevant to cyber security; (c) The interactions of those systems with other systems within the vehicle type and external interfaces.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -1969,7 +2199,9 @@
   "title": "Schematic representation of the vehicle type",
   "text": "Schematic representation of the vehicle type",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -1986,7 +2218,9 @@
   "title": null,
   "text": "The number of the Certificate of Compliance for CSMS:..............................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -2003,7 +2237,9 @@
   "title": null,
   "text": "Documents for the vehicle type to be approved describing the outcome of its risk assessment and the identified risks:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -2020,7 +2256,9 @@
   "title": null,
   "text": "Documents for the vehicle type to be approved describing the mitigations that have been implemented on the systems listed, or to the vehicle type, and how they address the stated risks:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -2037,7 +2275,9 @@
   "title": null,
   "text": "Documents for the vehicle type to be approved describing protection of dedicated environments for aftermarket software, services, applications or data:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -2054,7 +2294,9 @@
   "title": null,
   "text": "Documents for the vehicle type to be approved describing what tests have been used to verify the cyber security of the vehicle type and its systems and the outcome of those tests:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -2071,7 +2313,9 @@
   "title": null,
   "text": "Description of the consideration of the supply chain with respect to cyber security:............",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Information document",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -2088,7 +2332,9 @@
   "title": null,
   "text": "Manufacturer’s declaration of compliance with the requirements for the Cyber Security Management System Manufacturer Name:........................................................ Manufacturer Address:....................................................... …………………..( _Manufacturer Name_ ) attests that the necessary processes to comply with the requirements for the Cyber Security Management System laid down in paragraph 7.2 of UN Regulation [15X] are installed and will be maintained. Done at: …………………… ( _place_ ) Date: .................................................................. Name of the signatory: ...................................................... Function of the signatory:..................................................... ( _Stamp and signature of the manufacturer’s representative_ )",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Model of Manufacturer’s Declaration of Compliance for CSMS",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -2105,7 +2351,9 @@
   "title": null,
   "text": "(Maximum format: A4 (210 x 297 mm)) issued by: Name of administration: ...................................... ...................................... ...................................... Concerning:2 Approval granted Approval extended Approval withdrawn with effect from dd/mm/yyyy Approval refused Production definitively discontinued of a vehicle type, pursuant to UN Regulation No. [15X] Approval No.: ............................................................ Extension No.: ............................................................ Reason for extension: ....................................................... > 1Distinguishing number of the country which has granted/extended/refused/withdrawn approval (see approval provisions in the Regulation). > 2Strike out what does not apply.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -2122,7 +2370,9 @@
   "title": null,
   "text": "Make (trade name of manufacturer): ............................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -2139,7 +2389,9 @@
   "title": null,
   "text": "Type and general commercial description(s) .......................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -2156,7 +2408,9 @@
   "title": null,
   "text": "Means of identification of type, if marked on the vehicle:..............................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -2173,7 +2427,9 @@
   "title": null,
   "text": "Location of that marking: ..................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -2190,7 +2446,9 @@
   "title": null,
   "text": "Category(ies) of vehicle:....................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -2207,7 +2465,9 @@
   "title": null,
   "text": "Name and address of manufacturer / manufacturer’s representative: .......................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -2224,7 +2484,9 @@
   "title": null,
   "text": "Name(s) and Address(es) of the production plant(s) ..................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -2241,7 +2503,9 @@
   "title": null,
   "text": "Number of the certificate of compliance for cyber security management system: ...............",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -2258,7 +2522,9 @@
   "title": null,
   "text": "Technical Service responsible for carrying out the tests: ...............................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -2275,7 +2541,9 @@
   "title": null,
   "text": "Date of test report: ........................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -2292,7 +2560,9 @@
   "title": null,
   "text": "Number of test report: ....................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -2309,7 +2579,9 @@
   "title": null,
   "text": "Remarks: (if any). .......................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -2326,7 +2598,9 @@
   "title": null,
   "text": "Place:................................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -2343,7 +2617,9 @@
   "title": null,
   "text": "Date: ................................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -2360,7 +2636,9 @@
   "title": null,
   "text": "Signature: ............................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -2377,7 +2655,9 @@
   "title": null,
   "text": "The index to the information package lodged with the Approval Authority, which may be obtained on request is attached:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Communication",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -2394,7 +2674,9 @@
   "title": null,
   "text": "Model A (See paragraph 4.2 of this Regulation) a = 8 mm min. The above approval mark affixed to a vehicle shows that the road vehicle type concerned has been approved in the Netherlands (E 4), pursuant to Regulation No. [15X], and under the approval number 001234. The first two digits of the approval number indicate that the approval was granted in accordance with the requirements of this Regulation in its original form (00).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Arrangement of approval mark",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R155",
@@ -2411,7 +2693,9 @@
   "title": null,
   "text": "Certificate of compliance for cyber security management system With UN Regulation No. [ _This Regulation_ ] Certificate Number [ _Reference number_ ] [……. _Approval Authority_ ] Certifies that Manufacturer: ............................................................ Address of the manufacturer: .................................................. complies with the provisions of paragraph 7.2 of Regulation No. [15X] Checks have been performed on:................................................ by (name and address of the Approval Authority or Technical Service):....................... Number of report:................ The certificate is valid until [….. _Date_ ] Done at […… _Place_ ] On [……. _Date_ ] […………. _Signature_ ] Attachments: description of the Cyber Security Management System by the manufacturer.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "Model of Certificate of Compliance for CSMS",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -2428,7 +2712,9 @@
   "title": null,
   "text": "This annex consists of three parts. Part A of this annex describes the baseline for threats, vulnerabilities and attack methods. Part B of this annex describes mitigations to the threats which are intended for vehicle types. Part C describes mitigations to the threats which are intended for areas outside of vehicles, e.g. on IT backends.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "List of threats and corresponding mitigations",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -2445,7 +2731,9 @@
   "title": null,
   "text": "Part A, Part B, and Part C shall be considered for risk assessment and mitigations to be implemented by vehicle manufacturers.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "List of threats and corresponding mitigations",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -2462,7 +2750,9 @@
   "title": null,
   "text": "The high-level vulnerability and its corresponding examples have been indexed in Part A. The same indexing has been referenced in the tables in Parts B and C to link each of the attack/vulnerability with a list of corresponding mitigation measures.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "List of threats and corresponding mitigations",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -2485,7 +2775,9 @@
    "B3",
    "B4"
   ],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "List of threats and corresponding mitigations",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -2504,7 +2796,9 @@
   "tables": [
    "B5"
   ],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "List of threats and corresponding mitigations",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -2523,7 +2817,9 @@
   "tables": [
    "B6"
   ],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "List of threats and corresponding mitigations",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -2542,7 +2838,9 @@
   "tables": [
    "B7"
   ],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "List of threats and corresponding mitigations",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R155",
@@ -2564,6 +2862,8 @@
    "C2",
    "C3"
   ],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "List of threats and corresponding mitigations",
+  "section_kind": "requirement"
  }
 ]

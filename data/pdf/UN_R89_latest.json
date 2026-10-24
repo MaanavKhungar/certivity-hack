@@ -14,7 +14,9 @@
   "title": null,
   "text": "UN R89 (version 0.4.0) Consolidated text of this version, rendered by Certivity for the hackathon. Cite pages of THIS file: the page number is printed at the bottom of every page. Role in the hackathon: latest version.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -31,7 +33,9 @@
   "title": "SCOPE",
   "text": "SCOPE",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -48,7 +52,9 @@
   "title": null,
   "text": "This regulation applies to:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -65,7 +71,9 @@
   "title": null,
   "text": "Part I: Vehicles of categories 1/ M2, M3, N2 and N3 2/ equipped with an SLD and to vehicles of categories M and N equipped with an adjustable speed limitation device ASLD which have not been separately approved according to Part III of this Regulation, or to vehicles so designed and/or equipped that their component parts can be regarded as totally or partially fulfilling the function of an SLD or ASLD, as appropriate. 1 As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3.), document ECE/TRANS/WP.29/78/Rev.8 - https://unece.org/transport/vehicle-regulations/wp29/resolutions 2/ It is recommended to apply this Regulation with respect to SLDs to vehicles over 10 tonnes for which the limitation speed is less than the general speed limitation.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -82,7 +90,9 @@
   "title": null,
   "text": "Part II: The installation on vehicles of categories M2, M3, N2 and N3 of SLDs and installation on vehicles of categories M and N of ASLD which have been type approved to Part III of this Regulation.”",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -99,7 +109,9 @@
   "title": null,
   "text": "Part III: SLDs which are intended to be fitted to vehicles of categories M2, M3, N2 and N3 and ASLD which are intended to be fitted to vehicles of categories M and N.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -116,7 +128,9 @@
   "title": null,
   "text": "Purpose The purpose of this Regulation is to limit the road speed of vehicles by means of a vehicle system which has the primary function of controlling the fuel feed to the engine or via the engine management.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -133,7 +147,9 @@
   "title": null,
   "text": "A speed limitation device (SLD) or function (SLF) shall limit the maximum speed of vehicles of categories M2, M3, N2 and N3.”",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -150,7 +166,9 @@
   "title": null,
   "text": "When fitted, the adjustable speed limitation device (ASLD) or function (ASLF) shall limit the speed of vehicles of categories M and N to a speed voluntarily set by the driver when it is activated.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -167,7 +185,9 @@
   "title": "DEFINITIONS",
   "text": "DEFINITIONS",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R89",
@@ -184,7 +204,9 @@
   "title": null,
   "text": "For the purpose of this Regulation:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R89",
@@ -201,7 +223,9 @@
   "title": null,
   "text": "\" _Limitation speed V_ \" means the maximum speed of the vehicle such that its design or equipment does not permit a response for an acceleration demand.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R89",
@@ -218,7 +242,9 @@
   "title": null,
   "text": "\"Set speed Vset\" means the intended mean vehicle speed when operating in a stabilized condition;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R89",
@@ -235,7 +261,9 @@
   "title": null,
   "text": "\"Stabilized speed Vstab\" means the mean vehicle speed specified in paragraph 1.1.4.2.3.3. of Annex 5 and in paragraph 1.5.4.1.2.3 of Annex 6 to this Regulation;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R89",
@@ -252,7 +280,9 @@
   "title": null,
   "text": "\"Maximum speed Vmax\" is the maximum speed reached by the vehicle in the first half period of the response curve as defined in the figure of annex 5 (para. 1.1.4.2.4.).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R89",
@@ -269,7 +299,9 @@
   "title": null,
   "text": "“Adjustable limit speed V ~~adj~~” means the speed voluntarily set by the driver.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R89",
@@ -286,7 +318,9 @@
   "title": null,
   "text": "“Adjustable speed limitation function ASLF”, means a function which allows the driver to set a vehicle speed Vadj, and when activated limits the vehicle automatically to that speed.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R89",
@@ -303,7 +337,9 @@
   "title": null,
   "text": "“Speed limitation function”, means a function to control the fuel feed of the vehicle or engine management in order to limit the vehicle speed to a fixed maximum value.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R89",
@@ -320,7 +356,9 @@
   "title": null,
   "text": "For the purpose of Part I of this Regulation:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R89",
@@ -337,7 +375,9 @@
   "title": null,
   "text": "\"Approval of a vehicle\" means the approval of a vehicle type with regard to speed limitation;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R89",
@@ -354,7 +394,9 @@
   "title": null,
   "text": "For the purpose of Part II of this Regulation:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R89",
@@ -371,7 +413,9 @@
   "title": null,
   "text": "\"Approval of a vehicle\" means the approval of a vehicle type with regard to the installation of an SLD of a type approved in accordance with Part III of this Regulation,",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R89",
@@ -388,7 +432,9 @@
   "title": null,
   "text": "For the purpose of Part I and Part II of this Regulation:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R89",
@@ -405,7 +451,9 @@
   "title": null,
   "text": "\"Vehicle type\" means vehicles which do not differ in such essential respects as:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R89",
@@ -422,7 +470,9 @@
   "title": null,
   "text": "The make and type of the SLD, if any,",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R89",
@@ -439,7 +489,9 @@
   "title": null,
   "text": "The range of speeds at which the limitation may be set within the range established for the tested vehicle,",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R89",
@@ -456,7 +508,9 @@
   "title": null,
   "text": "The ratio of maximum engine power/unladen mass, less than or equal to that of the tested vehicle, and",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R89",
@@ -473,7 +527,9 @@
   "title": null,
   "text": "The highest ratio of engine speed/vehicle speed in top gear, less than or equal to that of the tested vehicle;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R89",
@@ -490,7 +546,9 @@
   "title": null,
   "text": "\"Unladen mass\" means the mass of the vehicle in running order without crew, passengers or load, but with the fuel tank full and the usual set of tools and spare wheel on board, where applicable;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R89",
@@ -507,7 +565,9 @@
   "title": null,
   "text": "For the purpose of Part III of this Regulation:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R89",
@@ -524,7 +584,9 @@
   "title": null,
   "text": "\"Speed limitation device (SLD)\" means a device whose primary function is to control the fuel feed to the engine in order to limit the vehicle speed to the specified value;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R89",
@@ -541,7 +603,9 @@
   "title": null,
   "text": "\"Approval of an SLD\" means the approval of a type of SLD with respect to the requirements laid down in paragraph 21 below,",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R89",
@@ -558,7 +622,9 @@
   "title": null,
   "text": "\"Type of an SLD\" means SLDs which do not differ with respect to the essential characteristics such as: The make and type of the device, The range of speed values at which the SLD may be set, The method used to control the fuel feed of the engine. PART I APPROVAL OF VEHICLES WITH REGARD TO LIMITATION OF THEIR MAXIMUM SPEED",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R89",
@@ -575,7 +641,9 @@
   "title": "APPLICATION FOR APPROVAL",
   "text": "APPLICATION FOR APPROVAL",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -592,7 +660,9 @@
   "title": null,
   "text": "The application for approval of a vehicle type with regard to speed limitation shall be submitted by the vehicle manufacturer or by his duly accredited representative.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -609,7 +679,9 @@
   "title": null,
   "text": "It shall be accompanied by the under-mentioned documents in triplicate and by the following particulars:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -626,7 +698,9 @@
   "title": null,
   "text": "A detailed description of the vehicle type and of vehicle parts related to the speed limitation, comprising the particulars and documents referred to in annex 1 to this Regulation,",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -643,7 +717,9 @@
   "title": null,
   "text": "A vehicle representative of the type to be approved shall be submitted to the technical service responsible for conducting the approval tests;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -660,7 +736,9 @@
   "title": null,
   "text": "A vehicle not comprising all the components proper to the type may be accepted for test provided that it can be shown by the applicant to the satisfaction of the competent authority that the absence of the components omitted has no effect on the results of the verifications, so far as the requirements of this Regulation are concerned.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -677,7 +755,9 @@
   "title": null,
   "text": "The competent authority shall verify the existence of satisfactory arrangements for ensuring effective checks on conformity of production before type approval is granted.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -694,7 +774,9 @@
   "title": "APPROVAL",
   "text": "APPROVAL",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -711,7 +793,9 @@
   "title": null,
   "text": "If the vehicle submitted for approval pursuant to this Regulation meets the requirements of paragraph 5 below, approval of that vehicle type shall be granted.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -728,7 +812,9 @@
   "title": null,
   "text": "An approval number shall be assigned to each type approved. Its first two digits (00 for the Regulation in its present form) shall indicate the series of amendments incorporating the most recent major technical amendments made to the Regulation at the time of issue of the approval. The same Contracting Party may not assign the same number to another vehicle type.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -745,7 +831,9 @@
   "title": null,
   "text": "Notice of approval or of extension or refusal or withdrawal of approval or production definitely discontinued of a vehicle type pursuant to this Regulation shall be communicated to the Parties to the Agreement which apply this Regulation by means of a form conforming to the model in annex 1 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -762,7 +850,9 @@
   "title": null,
   "text": "There shall be affixed, conspicuously and in a readily accessible place specified on the approval form, to every vehicle conforming to a vehicle type approved under this Regulation an international approval mark consisting of:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -779,7 +869,9 @@
   "title": null,
   "text": "A circle surrounding the letter \"E\" followed by the distinguishing number of the country which has granted approval; 3/ 3/ 1 for Germany, 2 for France, 3 for Italy, 4 for the Netherlands, 5 for Sweden, 6 for Belgium, 7 for Hungary, 8 for the Czech Republic, 9 for Spain, 10 for Yugoslavia, 11 for the United Kingdom,12 for Austria, 13 for Luxembourg, 14 for Switzerland, lS (vacant), 16 for Norway, 17 for Finland, 18 for Denmark, 19 for Romania, 20 for Poland, 21 for Portugal, 22 for the Russian Federation, 23 for Greece, 24 for Ireland, 25 for Croatia, 26 for Slovenia, 27 for Slovakia, 28 for Belarus, 29 for Estonia, 30 (vacant), 31 for Bosnia and Herzegovina, 32 for Latvia, 33 (vacant), 34 for Bulgaria, 35- 36 (vacant), 37 for Turkey, 38-39 (vacant), 40 for The former Yugoslav Republic of Macedonia, 41 (vacant), 42 for the European Community (Approvals are granted by its Member States using their respective ECE symbol), 43 for Japan, 44 (vacant), 45 for Australia and 46 for Ukraine. Subsequent numbers shall be assigned to other countries in the chronological order in which they ratify or accede to the Agreement concerning the Adoption of Uniform Conditions of Approval and Reciprocal Recognition of Approval for Motor Vehicle Equipment and Parts, and the numbers thus assigned shall be communicated by the Secretary-General of the United Nations to the Contracting Parties to the Agreement.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -796,7 +888,9 @@
   "title": null,
   "text": "The number of this Regulation, followed by the letter \"R\", a dash and the approval number to the right of the circle prescribed in paragraph 4.4.1.;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -813,7 +907,9 @@
   "title": null,
   "text": "The following additional symbol: a rectangle surrounding a figure, (or number of figures), expressing the set speed, (or range of set speeds) in km/h (and mile/h if requested by the applicant).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -830,7 +926,9 @@
   "title": null,
   "text": "If the vehicle conforms to a vehicle type approved, under one or more other Regulations annexed to the Agreement, in the country which has granted approval under this Regulation, the symbol prescribed in paragraph 4.4.1. need not be repeated, in such a case the Regulation and approval numbers and the additional symbols of all the Regulations under which approval has been granted in the country which has granted approval under this Regulation shall be placed in vertical columns to the right of the symbol prescribed in paragraph 4.4.1.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -847,7 +945,9 @@
   "title": null,
   "text": "The approval mark shall be clearly legible and indelible.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -864,7 +964,9 @@
   "title": null,
   "text": "The approval mark shall be p1aced close to or on the vehicle data plate affixed by the manufacturer.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -881,7 +983,9 @@
   "title": null,
   "text": "Models B and C of annex 4 to this Regulation give examples of arrangements of approval marks.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -898,7 +1002,9 @@
   "title": null,
   "text": "In addition to the marking requirements of paragraph 4.4. above Contracting Parties to this Regulation may require the vehicle to be equipped with a plate which is in a conspicuous and readily accessible position within the driving compartment and which shows clearly and indelibly:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -915,7 +1021,9 @@
   "title": "The words \"SPEED LIMITER FITTED\" (or other words to similar effect),",
   "text": "The words \"SPEED LIMITER FITTED\" (or other words to similar effect),",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -932,7 +1040,9 @@
   "title": "The name or trade mark of the SLD calibrator (if applicable),",
   "text": "The name or trade mark of the SLD calibrator (if applicable),",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -949,7 +1059,9 @@
   "title": null,
   "text": "A circle surrounding the letter \"E\" followed by the distinguishing number of the country which has granted approval and the number of this Regulation, followed by the letter \"R\", and",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -966,7 +1078,9 @@
   "title": null,
   "text": "The set speed in km/h (and mile/h if requested) at which the vehicle is calibrated.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -983,7 +1097,9 @@
   "title": "REQUIREMENTS",
   "text": "REQUIREMENTS",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1000,7 +1116,9 @@
   "title": "Requirements for vehicles of categories M2, M3, N2 and N3 equipped with SLF",
   "text": "Requirements for vehicles of categories M2, M3, N2 and N3 equipped with SLF",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1017,7 +1135,9 @@
   "title": null,
   "text": "The speed limitation must be such that the vehicle in normal use, despite the vibrations to which it may be subjected, complies with the provisions of Part I of this Regulation.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1034,7 +1154,9 @@
   "title": null,
   "text": "In particular, the vehicle's SLD must be so designed, constructed and assembled as to resist corrosion and ageing phenomena to which it may be exposed and to resist tempering in accordance with paragraph 5.1.6. below.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1051,7 +1173,9 @@
   "title": null,
   "text": "The limitation threshold must not, in any case, be capable of being increased or removed temporarily or permanently on vehicles in use. The inviolability shall be demonstrated to the technical service with documentation analysing the failure mode in which the system will be globally examined. The analysis shall show, taking into account the different states taken by the system, the consequences of a modification of the input or output states on the functioning, the possibilities to obtain these modifications by failures or by voluntary violation and the possibility of their occurrence. The analysis level will be always to the first failure.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1068,7 +1192,9 @@
   "title": null,
   "text": "The speed limitation function and the connections necessary for its operation, except those essential for the running of the vehicle, shall be capable of being protected from any unauthorized adjustments or the interruption of its energy supply by the attachment of sealing devices and/or the need to use special tools.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1085,7 +1211,9 @@
   "title": null,
   "text": "The speed limitation function shall not actuate the vehicle's service braking system. A permanent brake (e.g. retarder) may be incorporated only if it operates after the speed limitation function has restricted the fuel feed to the minimum fuel position.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1102,7 +1230,9 @@
   "title": null,
   "text": "The speed limitation function must be such that it does not affect the vehicle's road speed if an acceleration demand is applied by the driver or ADS when the vehicle is running at its set speed.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1119,7 +1249,9 @@
   "title": null,
   "text": "The speed limitation function may allow normal accelerator control for the purposes of gear changing.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1136,7 +1268,9 @@
   "title": null,
   "text": "No malfunction or unauthorised interference shall result in an increase in engine power above that demanded by the driver or ADS.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1153,7 +1287,9 @@
   "title": null,
   "text": "The speed limitation function shall be obtained regardless of the accelerator control used if there is more than one such control which may be reached from the driver's seating position, or regardless of any form of demand by the ADS.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1170,7 +1306,9 @@
   "title": null,
   "text": "The speed limitation function shall operate satisfactorily in its electromagnetic environment without unacceptable electromagnetic disturbance for anything in this environment.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1187,7 +1325,9 @@
   "title": null,
   "text": "The applicant for approval shall provide documentation describing checking and calibration procedures. It shall be possible to check the functioning of the speed limitation function whilst the vehicle is stationary, (e.g. for conformity of production or periodic inspection).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1204,7 +1344,9 @@
   "title": null,
   "text": "All components necessary for the full function of the speed limitation function shall be energized whenever the vehicle is being driven.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1221,7 +1363,9 @@
   "title": null,
   "text": "At the request of the manufacturer, vehicles of Categories X and Y may be considered to be equipped with an SLF if the ADS limits the vehicle speed to a fixed maximum value. The set speed (Vset) according to this regulation is deemed to be this fixed maximum value. Such an SLF shall be considered to fulfil the requirements of paragraphs 5.1. and 5.3. of this regulation if the ADS complies with the requirements of UN Regulation No. [ADS] according to its original version or later series of amendments, including verification of this maximum speed.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1238,7 +1382,9 @@
   "title": "Requirements for vehicles equipped with ASLF",
   "text": "Requirements for vehicles equipped with ASLF",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1255,7 +1401,9 @@
   "title": null,
   "text": "The ASLF must be such that the vehicle in normal use, despite the vibrations to which it may be subjected, complies with the provisions of Part I of this Regulation.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1272,7 +1420,9 @@
   "title": null,
   "text": "In particular, the device and all components supporting the ASLF must be so designed, constructed and assembled as to resist corrosion and ageing phenomena to which it may be exposed.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1289,7 +1439,9 @@
   "title": null,
   "text": "The effectiveness of the ASLF shall not be adversely affected by magnetic or electric fields. This shall be demonstrated by fulfilling the technical requirements and respecting the transitional provisions of UN Regulation No. 10 by applying: (a) The 03 series of amendments for vehicles without a coupling system for charging the rechargeable energy storage system (traction batteries). (b) The 04 series of amendments for vehicles with a coupling system for charging the rechargeable energy storage system (traction batteries).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1306,7 +1458,9 @@
   "title": null,
   "text": "No malfunction or unauthorized interference with the system shall result in an increase in engine power above that demanded by the position of the driver's accelerator.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1323,7 +1477,9 @@
   "title": null,
   "text": "The Vadj value shall be permanently indicated to the driver and visible from the driver seat. This does not preclude temporary interruption of the indication for safety reasons or driver’s demand.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1340,7 +1496,9 @@
   "title": null,
   "text": "The ASLF must satisfy the following requirements:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1357,7 +1515,9 @@
   "title": null,
   "text": "The ASLF shall not actuate the vehicle's service braking system except for vehicles of categories M1 and N1, where the vehicle's service braking system may be actuated.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1374,7 +1534,9 @@
   "title": null,
   "text": "The ASLF must be effective whichever the engine type or transmission is used.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1391,7 +1553,9 @@
   "title": null,
   "text": "The vehicle speed shall be limited to Vadj.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1408,7 +1572,9 @@
   "title": null,
   "text": "It shall still be possible to exceed Vadj when tested in accordance with paragraph 5.3.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1425,7 +1591,9 @@
   "title": null,
   "text": "To exceed Vadj a positive action will be required. */ */ e.g. kickdown”",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1442,7 +1610,9 @@
   "title": null,
   "text": "Whenever the vehicle speed is exceeding Vadj the driver must be informed by means of a suitable warning signal other than the speedometer.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1459,7 +1629,9 @@
   "title": null,
   "text": "Compliance with paragraph 5.2.5.4.2. shall be demonstrated by conducting the tests according to paragraph 5.3.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1476,7 +1648,9 @@
   "title": null,
   "text": "Setting of Vadj:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1493,7 +1667,9 @@
   "title": null,
   "text": "It shall be possible to set Vadj value by steps not greater than 10 km/h between 30 km/h and the maximum design speed of the vehicle.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1510,7 +1686,9 @@
   "title": null,
   "text": "In the case of vehicles manufactured for sale in any country where imperial units are used, it shall be possible to set Vadj value by steps not greater than 5 mph between 20 mph and the maximum design speed of the vehicle.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1527,7 +1705,9 @@
   "title": null,
   "text": "This shall be achieved by a control device operated directly by the driver.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1544,7 +1724,9 @@
   "title": null,
   "text": "Activation / de-activation:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1561,7 +1743,9 @@
   "title": null,
   "text": "The ASLF must be capable of being activated/de-activated at any time, except whilst an ADS feature is active.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1578,7 +1762,9 @@
   "title": null,
   "text": "The ASLF must be de-activated each time the engine is stopped by a deliberate action of the driver.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1595,7 +1781,9 @@
   "title": null,
   "text": "When the ASLF is activated the initial setting of Vadj shall not be less than the current vehicle speed.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1612,7 +1800,9 @@
   "title": null,
   "text": "The ASLF shall be deactivated upon activation of an ADS feature, and shall not be able to be activated whilst an ADS feature is active. 5.3. <u>Tests</u>",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1629,7 +1819,9 @@
   "title": "The speed limitation tests (retain former paragraph of the current regulation for SLD)",
   "text": "The speed limitation tests (retain former paragraph of the current regulation for SLD)",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -1646,7 +1838,9 @@
   "title": null,
   "text": "The adjustable speed limitation tests to which the vehicle presented for approval are submitted are described in annex 6 of this Regulation.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -1663,7 +1857,9 @@
   "title": null,
   "text": "Three different speeds will be chosen for the tests at the discretion of the technical service.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -1680,7 +1876,9 @@
   "title": "MODIFICATIONS OF VEHICLE TYPE AND EXTENSION OF APPROVAL",
   "text": "MODIFICATIONS OF VEHICLE TYPE AND EXTENSION OF APPROVAL",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -1697,7 +1895,9 @@
   "title": null,
   "text": "Every modification of the vehicle type shall be notified to the administrative department which approved the vehicle type. The department may then either:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -1714,7 +1914,9 @@
   "title": null,
   "text": "Consider that the modifications made are unlikely to have an appreciable adverse effect and that in any case the vehicle still complies with the requirements, or",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -1731,7 +1933,9 @@
   "title": null,
   "text": "Require a further test report from the technical service responsible for conducting the tests.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -1748,7 +1952,9 @@
   "title": null,
   "text": "Confirmation or refusal of approval, specifying the alteration, shall be communicated by the procedure specified in paragraph 4.3. above to the Parties to the 1958 Agreement which apply this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -1765,7 +1971,9 @@
   "title": null,
   "text": "The competent authority issuing an extension of approval shall assign a series number to each communication form drawn up for such an extension and inform thereof the other Parties to the 1958 Agreement applying this Regulation by means of a communication form conforming to the model in annex 1 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -1782,7 +1990,9 @@
   "title": "CONFORMITY OF PRODUCTION",
   "text": "CONFORMITY OF PRODUCTION",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -1799,7 +2009,9 @@
   "title": null,
   "text": "Every vehicle approved under this Regulation shall be so manufactured as to conform to the type approved by meeting the requirements set out in paragraph 5 above.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -1816,7 +2028,9 @@
   "title": null,
   "text": "In order to verify that the requirements of paragraph 7.1. are met, suitable checks of the production shall be carried out.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -1833,7 +2047,9 @@
   "title": null,
   "text": "The holder of the approval shall, in particular:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -1850,7 +2066,9 @@
   "title": "Ensure existence of procedures for effective quality control of the vehicle,",
   "text": "Ensure existence of procedures for effective quality control of the vehicle,",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -1867,7 +2085,9 @@
   "title": null,
   "text": "Have access to the testing equipment necessary for checking conformity to each approved type;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -1884,7 +2104,9 @@
   "title": null,
   "text": "Ensure that test result data are recorded and that the annexed documents remain available for a period to be determined in agreement with the administrative department,",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -1901,7 +2123,9 @@
   "title": null,
   "text": "Analyse the results of each type of test, in order to verify and ensure the consistency of characteristics of the vehicle, making allowance for permissible variations in industrial production;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -1918,7 +2142,9 @@
   "title": null,
   "text": "Ensure that for each type of vehicle sufficient checks and tests are carried out in accordance with the procedures approved with the competent authority,",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -1935,7 +2161,9 @@
   "title": null,
   "text": "Ensure that any set of samples or test components giving evidence of non-conformity in the type of test in question shall give rise to a further sampling and test. All necessary steps shall be taken to restore conformity of the corresponding production.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -1952,7 +2180,9 @@
   "title": null,
   "text": "The competent authority which has granted type approval may at any time verify the conformity control methods applied in each production unit.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -1969,7 +2199,9 @@
   "title": null,
   "text": "At every inspection, the test records and production records shall be presented to the visiting inspector.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -1986,7 +2218,9 @@
   "title": null,
   "text": "The inspector may select samples at random to be tested in the manufacturer’s laboratory. The minimum number of samples may be determined according to the results of the manufacturer’s own checks.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -2003,7 +2237,9 @@
   "title": null,
   "text": "Where the quality level appears unsatisfactory or it seems necessary to verify the validity of the tests carried out in application of paragraph 7.4.2., the inspector shall select samples to be sent to the technical service which conducted the type approval tests.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -2020,7 +2256,9 @@
   "title": null,
   "text": "The competent authority may carry out any test prescribed in this Regulation. The normal frequency of inspections authorized by the competent authority shall be one every two years. In cases where unsatisfactory results are found during one of these inspections, the competent authority shall ensure that all necessary steps are taken to restore conformity of production as rapidly as possible.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -2037,7 +2275,9 @@
   "title": "PENALTIES FOR NO CONFORMITY OF PRODUCTION",
   "text": "PENALTIES FOR NO CONFORMITY OF PRODUCTION",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -2054,7 +2294,9 @@
   "title": null,
   "text": "The approval granted in respect of a vehicle type pursuant to this Regulation may be withdrawn if the requirements laid down in paragraph 5 above are not complied with.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -2071,7 +2313,9 @@
   "title": null,
   "text": "If a Contracting Party to the 1958 Agreement applying this Regulation withdraws an approval it has previously granted, it shall forthwith so notify the other Contracting Parties applying this Regulation, by means of a communication form conforming to the model in annex 1 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -2088,7 +2332,9 @@
   "title": "PRODUCTION DEFINITELY DISCONTINUED",
   "text": "PRODUCTION DEFINITELY DISCONTINUED",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -2105,7 +2351,9 @@
   "title": null,
   "text": "If the holder of the approval completely ceases to manufacture a type of vehicle approved in accordance with this Regulation, he shall so inform the authority which granted the approval. Upon receiving the relevant communication, that authority shall inform thereof the other Parties to the 1958 Agreement applying this Regulation by means of a communication form conforming to the model in annex 1 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -2122,7 +2370,9 @@
   "title": null,
   "text": "NAMES AND ADDRESSES OF TECHNICAL SERVICES RESPONSIBLE FOR CONDUCTING APPROVAL TESTS AND OF ADMINISTRATIVE DEPARTMENTS",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2139,7 +2389,9 @@
   "title": null,
   "text": "The Contracting Parties to the 1958 Agreement applying this Regulation shall communicate to the United Nations secretariat the names and addresses of the technical services responsible for conducting approval tests and of the administrative departments which grant approval and to which forms certifying approval or extension, or refusal or withdrawal of approval or production definitely discontinued, issued in other countries, are to be sent. PART II APPROVAL OF VEHICLES WITH REGARD TO THE INSTALLATION OF A SPEED LIMITATION DEVICE (SLD) OF AN APPROVED TYPE",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -2156,7 +2408,9 @@
   "title": "APPLICATION FOR APPROVAL",
   "text": "APPLICATION FOR APPROVAL",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -2173,7 +2427,9 @@
   "title": null,
   "text": "The application for approval of a vehicle type with regard to the installation of an SLD of an approved type shall be submitted by the vehicle manufacturer or by his duly accredited representative.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -2190,7 +2446,9 @@
   "title": null,
   "text": "It shall be accompanied by the under-mentioned documents in triplicate and by the following particulars:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -2207,7 +2465,9 @@
   "title": null,
   "text": "A detailed description of the vehicle type and of vehicle parts related to the speed limitation, comprising the particulars and documentation referred to in annex 2 to this Regulation.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -2224,7 +2484,9 @@
   "title": null,
   "text": "At the request of the competent authority the type approval communication form (i.e. annex 3 of this Regulation) of each type of SLD shall also be supplied.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -2241,7 +2503,9 @@
   "title": null,
   "text": "A vehicle representative of the type to be approved and fitted with a type approved SLD shall be submitted to the technical service,",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -2258,7 +2522,9 @@
   "title": null,
   "text": "A vehicle not comprising all the components proper to the type may be accepted provided that it can be shown by the applicant to the satisfaction of the competent authority that the absence of the components omitted has no effect on the results of the verifications, so far as the requirements of this Regulation are concerned.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -2275,7 +2541,9 @@
   "title": null,
   "text": "The competent authority shall verify the existence of satisfactory arrangements for ensuring effective checks on conformity of production before type approval is granted.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -2292,7 +2560,9 @@
   "title": "APPROVAL",
   "text": "APPROVAL",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2309,7 +2579,9 @@
   "title": null,
   "text": "If the vehicle submitted for approval pursuant to this Regulation is provided with an approved SLD and meets the requirements of paragraph 13 below, approval of that vehicle type shall be granted.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2326,7 +2598,9 @@
   "title": null,
   "text": "An approval number shall be assigned to each type approved. Its first two digits (00 for the Regulation in its present form) shall indicate the series of amendments incorporating the most recent major technical amendments made to the Regulation at the time of issue of the approval. The same Contracting Party may not assign the same number to another vehicle type.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2343,7 +2617,9 @@
   "title": null,
   "text": "Notice of approval or of extension or refusal or withdrawal of approval or production definitely discontinued of a vehicle type pursuant to this Regulation shall be communicated to the Parties to the Agreement which apply this Regulation by means of a form conforming to the model in annex 2 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2360,7 +2636,9 @@
   "title": null,
   "text": "There shall be affixed, conspicuously and in a readily accessible place specified on the approval form, to every vehicle conforming to a vehicle type approved under this Regulation an international approval mark consisting of:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2377,7 +2655,9 @@
   "title": null,
   "text": "A circle surrounding the letter \"E\" followed by the distinguishing number of the country which has granted approval, 3/ 3/ 1 for Germany, 2 for France, 3 for Italy, 4 for the Netherlands, 5 for Sweden, 6 for Belgium, 7 for Hungary, 8 for the Czech Republic, 9 for Spain, 10 for Yugoslavia, 11 for the United Kingdom,12 for Austria, 13 for Luxembourg, 14 for Switzerland, lS (vacant), 16 for Norway, 17 for Finland, 18 for Denmark, 19 for Romania, 20 for Poland, 21 for Portugal, 22 for the Russian Federation, 23 for Greece, 24 for Ireland, 25 for Croatia, 26 for Slovenia, 27 for Slovakia, 28 for Belarus, 29 for Estonia, 30 (vacant), 31 for Bosnia and Herzegovina, 32 for Latvia, 33 (vacant), 34 for Bulgaria, 35- 36 (vacant), 37 for Turkey, 38-39 (vacant), 40 for The former Yugoslav Republic of Macedonia, 41 (vacant), 42 for the European Community (Approvals are granted by its Member States using their respective ECE symbol), 43 for Japan, 44 (vacant), 45 for Australia and 46 for Ukraine. Subsequent numbers shall be assigned to other countries in the chronological order in which they ratify or accede to the Agreement concerning the Adoption of Uniform Conditions of Approval and Reciprocal Recognition of Approval for Motor Vehicle Equipment and Parts, and the numbers thus assigned shall be communicated by the Secretary-General of the United Nations to the Contracting Parties to the Agreement.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2394,7 +2674,9 @@
   "title": null,
   "text": "The number of this Regulation, followed by the letter \"R\", a dash and the approval number to the right of the circle prescribed in paragraph 12.4.1.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2411,7 +2693,9 @@
   "title": null,
   "text": "The following additional symbol: a rectangle surrounding a number of figures corresponding to the range of vehicle speeds for which the SLD may be set, expressed in km/h (and mile/h if requested by the applicant).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2428,7 +2712,9 @@
   "title": null,
   "text": "If the vehicle conforms to a vehicle type approved, under one or more other Regulations annexed to the Agreement, in the country which has granted approval under this Regulation, the symbol prescribed in paragraph 12.4.1 need not be repeated; in such a case the Regulation and approval numbers and the additional symbols of all the Regulations under which approval has been granted in the country which has granted approval under this Regulation shall be placed in vertical columns to the right of the symbol prescribed in paragraph 12.4.1.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2445,7 +2731,9 @@
   "title": null,
   "text": "The approval mark shall be clearly legible and indelible.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2462,7 +2750,9 @@
   "title": null,
   "text": "The approval mark shall be placed close to or on the vehicle data plate affixed by the manufacturer.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2479,7 +2769,9 @@
   "title": null,
   "text": "Models B and C of annex 4 to this Regulation give examples of arrangements of approval marks.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2496,7 +2788,9 @@
   "title": null,
   "text": "In addition to the marking requirements of paragraph 12.4. above, Contracting Parties to this Regulation may require the vehicle to be equipped with a plate which is in a conspicuous and readily accessible position within the driving compartment and which shows clearly and indelibly:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2513,7 +2807,9 @@
   "title": "The words \"SPEED LIMITER FITTED\" (or other words to similar effect),",
   "text": "The words \"SPEED LIMITER FITTED\" (or other words to similar effect),",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2530,7 +2826,9 @@
   "title": "The name or trade mark of the SLD calibrator (if applicable),",
   "text": "The name or trade mark of the SLD calibrator (if applicable),",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2547,7 +2845,9 @@
   "title": null,
   "text": "A circle surrounding the letter \"E\" followed by the distinguishing number of the country which has granted approval and the number of this regulation, followed by the letter \"R\", and",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2564,7 +2864,9 @@
   "title": null,
   "text": "The set speed in km/h (and mile/h if requested) at which the vehicle is calibrated.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2581,7 +2883,9 @@
   "title": "REQUIREMENTS",
   "text": "REQUIREMENTS",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2598,7 +2902,9 @@
   "title": null,
   "text": "Requirements concerning the installation of an approved SLD.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2615,7 +2921,9 @@
   "title": null,
   "text": "The SLD shall be so installed as to enable the vehicle in normal use, despite the vibrations to which it may be subjected, to comply with the provisions of Part II of this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2632,7 +2940,9 @@
   "title": null,
   "text": "The information document shall indicate how inviolability of the SLD is assured. The analysis level will be always to the first failure.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2649,7 +2959,9 @@
   "title": null,
   "text": "The speed limitation function shall be obtained regardless of the accelerator control used if there is more than one such control which may be reached from the driver's seating position, or regardless of any form of demand by the ADS.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2666,7 +2978,9 @@
   "title": null,
   "text": "The applicant for approval shall provide documentation describing checking and calibration procedures. It shall be possible to check the functioning of the speed limitation function whilst the vehicle is stationary, (e.g. for conformity of production or periodic inspection).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2683,7 +2997,9 @@
   "title": null,
   "text": "All components necessary for the full function of the SLD shall be energized whenever the vehicle is being driven.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2700,7 +3016,9 @@
   "title": null,
   "text": "The speed limitation function shall not actuate the vehicle’s service braking system. A permanent brake (e.g. retarder) may be incorporated only if it operates after the speed limitation function has restricted the fuel feed to the minimum fuel position.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2717,7 +3035,9 @@
   "title": null,
   "text": "Requirements concerning the installation of an approved ASLD.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2734,7 +3054,9 @@
   "title": null,
   "text": "The vehicle on which the approved ASLD has been installed shall meet all requirements of paragraphs 5.2.2., 5.2.4., 5.2.5.4., 5.2.6. and 5.2.7.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -2751,7 +3073,9 @@
   "title": "MODIFICATIONS OF VEHICLE TYPE AND EXTENSION OF APPROVAL",
   "text": "MODIFICATIONS OF VEHICLE TYPE AND EXTENSION OF APPROVAL",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -2768,7 +3092,9 @@
   "title": null,
   "text": "Every modification of the vehicle type shall be notified to the administrative department which approved the vehicle type. The department may then either:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -2785,7 +3111,9 @@
   "title": null,
   "text": "Consider that the modifications made are unlikely to have an appreciable adverse effect and that in any case the vehicle still complies with the requirements, or",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -2802,7 +3130,9 @@
   "title": null,
   "text": "Require a further report from the technical service.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -2819,7 +3149,9 @@
   "title": null,
   "text": "Confirmation or refusal of approval, specifying the alteration, shall be communicated by the procedure specified in paragraph 12.3. above to the Parties to the 1958 Agreement which apply this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -2836,7 +3168,9 @@
   "title": null,
   "text": "The competent authority issuing the extension of approval shall assign a series number to each communication form drawn up for such an extension and inform thereof the other Parties to the 1958 Agreement applying this Regulation by means of a communication form conforming to the model in annex 2 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -2853,7 +3187,9 @@
   "title": "CONFORMITY OF PRODUCTION",
   "text": "CONFORMITY OF PRODUCTION",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -2870,7 +3206,9 @@
   "title": null,
   "text": "Every vehicle approved pursuant to this Regulation shall be so manufactured as to conform to the type approved by meeting the requirements set out in paragraph 13 above.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -2887,7 +3225,9 @@
   "title": null,
   "text": "In order to verify that the requirements of paragraph 15.1 above are met, appropriate checks on production shall be carried out.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -2904,7 +3244,9 @@
   "title": null,
   "text": "The holder of the approval shall in particular:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -2921,7 +3263,9 @@
   "title": null,
   "text": "Ensure existence of procedures for effective quality control of the vehicles as regards all aspects relevant to compliance with the requirements set out in paragraph 13 above;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -2938,7 +3282,9 @@
   "title": null,
   "text": "Ensure that for every approved vehicle sufficient checks are carried out regarding the installation of a type approved SLD, in such a way that all vehicles in production comply with the specifications of the vehicles submitted for type approval;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -2955,7 +3301,9 @@
   "title": null,
   "text": "Ensure that, if the checks carried out pursuant to paragraph 15.3.2. above give evidence of non-conformity of one or more vehicles with the requirements set out in paragraph 13 above, all necessary steps are taken to restore conformity of the corresponding production.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -2972,7 +3320,9 @@
   "title": null,
   "text": "The competent authority which granted type approval may at any time verify the conformity control methods applied for each production unit. The authority may also carry out random checks on serially manufactured vehicles in respect to the requirements set out in paragraph 13 above.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -2989,7 +3339,9 @@
   "title": null,
   "text": "Where unsatisfactory results are found during verifications and checks pursuant to paragraph 15.4. above, the competent authority shall ensure that all necessary steps are taken to restore conformity of production as rapidly as possible.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -3006,7 +3358,9 @@
   "title": null,
   "text": "The normal frequency of inspections authorized by the competent authority shall be one every two years. In cases where unsatisfactory results are found during one of these inspections, the competent authority shall ensure that all necessary steps are taken to restore conformity of production as rapidly as possible.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -3023,7 +3377,9 @@
   "title": "PENALTIES FOR NON-CONFORMITY OF PRODUCTION",
   "text": "PENALTIES FOR NON-CONFORMITY OF PRODUCTION",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -3040,7 +3396,9 @@
   "title": null,
   "text": "The approval granted in respect of a vehicle type pursuant to this Regulation may be withdrawn if the requirements laid down in paragraph 13 above are not complied with.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -3057,7 +3415,9 @@
   "title": null,
   "text": "If a Contracting Party to the 1958 Agreement applying this Regulation withdraws an approval it has previously granted, it shall forthwith so notify the other Contracting Parties applying this Regulation, by means of a communication form conforming to the model in annex 2 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -3074,7 +3434,9 @@
   "title": "PRODUCTION DEFINITELY DISCONTINUED",
   "text": "PRODUCTION DEFINITELY DISCONTINUED",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -3091,7 +3453,9 @@
   "title": null,
   "text": "If the holder of the approval completely ceases to manufacture a type of vehicle approved in accordance with this Regulation, he shall so inform the authority which granted the approval. Upon receiving the relevant communication, that authority shall inform thereof the other Parties to the 1958 Agreement applying this Regulation by means of a communication form conforming to the model in annex 2 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -3108,7 +3472,9 @@
   "title": null,
   "text": "NAMES AND ADDRESSES OF TECHNICAL SERVICES RESPONSIBLE FOR CONDUCTING APPROVAL TESTS AND OF ADMINISTRATIVE DEPARTMENTS",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3125,7 +3491,9 @@
   "title": null,
   "text": "The Contracting Parties to the 1958 Agreement applying this Regulation shall communicate to the United Nations secretariat the names and addresses of the technical services responsible for conducting approval tests and of the administrative departments which grant approval and to which forms certifying approval or extension or refusal or withdrawal of approval or production definitely discontinued issued in other countries, are to be sent. PART III APPROVAL OF SPEED LIMITATION DEVICES (SLD)",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -3142,7 +3510,9 @@
   "title": "APPLICATION FOR APPROVAL OF AN SLD",
   "text": "APPLICATION FOR APPROVAL OF AN SLD",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -3159,7 +3529,9 @@
   "title": null,
   "text": "The application for approval of an SLD must be submitted by the manufacturer of the SLD or by his duly accredited representative.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -3176,7 +3548,9 @@
   "title": null,
   "text": "For each type of SLD the application must be accompanied by:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -3193,7 +3567,9 @@
   "title": null,
   "text": "Documentation in triplicate giving a description of the technical characteristics of the SLD and the method of its installation on each make and type of vehicle for which the SLD is intended to be installed;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -3210,7 +3586,9 @@
   "title": null,
   "text": "Five samples of the type of SLD: the samples must be clearly and indelibly marked with the applicant's trade name or mark and the type designation;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -3227,7 +3605,9 @@
   "title": null,
   "text": "A vehicle or an engine (in the case of testing on an engine bench) fitted with the SLD to be type approved, chosen by the applicant in agreement with the technical service responsible for conducting approval tests.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -3244,7 +3624,9 @@
   "title": null,
   "text": "The competent authority shall verify the existence of satisfactory arrangements for ensuring effective control of the conformity of production before type approval is granted.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -3261,7 +3643,9 @@
   "title": "APPROVAL",
   "text": "APPROVAL",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3278,7 +3662,9 @@
   "title": null,
   "text": "If the SLD submitted for approval pursuant to this Regulation meets the requirements of paragraph 21 below, approval of that type of SLD shall be granted.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3295,7 +3681,9 @@
   "title": null,
   "text": "An approval number shall be assigned to each type approved. Its first two digits (00 for the Regulation in its present form) shall indicate the series of amendments incorporating the most recent major technical amendments made to the Regulation at the time of issue of the approval. The same Contracting Party may not assign the same number to another type of SLD.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3312,7 +3700,9 @@
   "title": null,
   "text": "Notice of approval, or of extension or refusal or withdrawal of approval or production definitely discontinued, of a type of SLD pursuant to this Regulation shall be communicated to the Parties to the Agreement which apply this Regulation by means of a form conforming to the model in annex 3 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3329,7 +3719,9 @@
   "title": null,
   "text": "There shall be affixed, conspicuously and in a readily accessible place specified on the approval form, to every SLD conforming to a type of SLD approved under this Regulation an international approval mark consisting of:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3346,7 +3738,9 @@
   "title": null,
   "text": "A circle surrounding the letter \"E\" followed by the distinguishing number of the country which has granted approval; 3/ 3/ 1 for Germany, 2 for France, 3 for Italy, 4 for the Netherlands, 5 for Sweden, 6 for Belgium, 7 for Hungary, 8 for the Czech Republic, 9 for Spain, 10 for Yugoslavia, 11 for the United Kingdom,12 for Austria, 13 for Luxembourg, 14 for Switzerland, lS (vacant), 16 for Norway, 17 for Finland, 18 for Denmark, 19 for Romania, 20 for Poland, 21 for Portugal, 22 for the Russian Federation, 23 for Greece, 24 for Ireland, 25 for Croatia, 26 for Slovenia, 27 for Slovakia, 28 for Belarus, 29 for Estonia, 30 (vacant), 31 for Bosnia and Herzegovina, 32 for Latvia, 33 (vacant), 34 for Bulgaria, 35- 36 (vacant), 37 for Turkey, 38-39 (vacant), 40 for The former Yugoslav Republic of Macedonia, 41 (vacant), 42 for the European Community (Approvals are granted by its Member States using their respective ECE symbol), 43 for Japan, 44 (vacant), 45 for Australia and 46 for Ukraine. Subsequent numbers shall be assigned to other countries in the chronological order in which they ratify or accede to the Agreement concerning the Adoption of Uniform Conditions of Approval and Reciprocal Recognition of Approval for Motor Vehicle Equipment and Parts, and the numbers thus assigned shall be communicated by the Secretary-General of the United Nations to the Contracting Parties to the Agreement.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3363,7 +3757,9 @@
   "title": null,
   "text": "The number of this Regulation, followed by the letter \"R\", a dash and the approval number to the right of the circle prescribed in paragraph 20.4.1.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3380,7 +3776,9 @@
   "title": null,
   "text": "The approval mark shall be clearly legible and indelible.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3397,7 +3795,9 @@
   "title": null,
   "text": "Model A of annex 4 to this Regulation gives examples of arrangements of approval marks.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3414,7 +3814,9 @@
   "title": "REQUIREMENTS",
   "text": "REQUIREMENTS",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3431,7 +3833,9 @@
   "title": "General",
   "text": "General",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3448,7 +3852,9 @@
   "title": null,
   "text": "The SLD shall be so designed, constructed and assembled as to enable the vehicle in normal use, fitted with the SLD, to comply with the provisions of Part III of this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3465,7 +3871,9 @@
   "title": null,
   "text": "In particular, the SLD must be so designed, constructed and assembled as to resist corrosion and ageing phenomena to which it may be exposed and to resist tampering in accordance with paragraph 21.1.6.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3482,7 +3890,9 @@
   "title": null,
   "text": "The set speed Vset must not, in any case, be capable of being increased or removed temporarily or permanently on vehicles in use. The inviolability shall be demonstrated to the technical service with documentation analysing the failure mode in which the system will be globally examined. The analysis shall show, taking into account the different states taken by the system, the consequences of a modification of the input or output states on the functioning, the possibilities to obtain these modifications by failures or by voluntary violation and the possibility of their occurrence. The analysis level will be always to the first failure.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3499,7 +3909,9 @@
   "title": null,
   "text": "The SLD and the connections necessary for its operation, except those essential for the running of the vehicle, shall be capable of being protected from any unauthorized adjustments or the interruption of its energy supply by the attachment of seals and/or the need to use special tools.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3516,7 +3928,9 @@
   "title": null,
   "text": "The SLD shall not actuate the vehicle's service braking system. A permanent brake {e.g. retarder) may be actuated only if it operates after the speed limitation device has restricted the fuel feed to the minimum fuel position.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3533,7 +3947,9 @@
   "title": null,
   "text": "The SLD must be such that it does not affect the vehicle's road speed if an acceleration demand is applied by the driver or ADS when the vehicle is running at its set speed.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3550,7 +3966,9 @@
   "title": null,
   "text": "The SLD may allow normal accelerator control for the purposes of gear changing.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3567,7 +3985,9 @@
   "title": null,
   "text": "No malfunction or unauthorised interference shall result in an increase in engine power above that demanded by the driver or ADS.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3584,7 +4004,9 @@
   "title": null,
   "text": "The SLD shall operate satisfactorily in its electromagnetic environment without unacceptable electromagnetic disturbance for anything in this environment.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3601,7 +4023,9 @@
   "title": "Requirements for ASLDs",
   "text": "Requirements for ASLDs",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3618,7 +4042,9 @@
   "title": null,
   "text": "The adjustable speed limitation device ASLD must be such that the vehicle in normal use, despite the vibrations to which it may be subjected, complies with the provisions of Part III of this Regulation.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3635,7 +4061,9 @@
   "title": null,
   "text": "In particular, the ASLF must be so designed, constructed and assembled as to resist corrosion and ageing phenomena to which it may be exposed.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3652,7 +4080,9 @@
   "title": null,
   "text": "The effectiveness of the speed limitation function shall not be adversely affected by magnetic or electric fields. This shall be demonstrated by fulfilling the technical requirements and respecting the transitional provisions of UN Regulation No. 10, by applying: (a) The 03 series of amendments for vehicles without a coupling system for charging the rechargeable energy storage system (traction batteries). (b) The 04 series of amendments for vehicles with a coupling system for charging the rechargeable energy storage system (traction batteries).",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3669,7 +4099,9 @@
   "title": null,
   "text": "No malfunction or unauthorized interference shall result in an increase in engine power above that demanded by the position of the driver's accelerator.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3686,7 +4118,9 @@
   "title": null,
   "text": "The Vadj value shall be permanently indicated to the driver by a visual display. This does not preclude temporary interruption of the display for safety reasons.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3703,7 +4137,9 @@
   "title": null,
   "text": "The ASLD must respect the following requirements:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3720,7 +4156,9 @@
   "title": null,
   "text": "The adjustable speed limitation device shall not actuate the vehicle's braking system except for vehicles of categories M1 and N1, where the vehicle's service braking system may be actuated.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3737,7 +4175,9 @@
   "title": null,
   "text": "The method used to limit speed when reaching Vadj must be possible whichever transmission type (automatic or manual) of the vehicle.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3754,7 +4194,9 @@
   "title": null,
   "text": "The vehicle speed shall be limited to Vadj.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3771,7 +4213,9 @@
   "title": null,
   "text": "It shall still be possible to exceed speed Vadj.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3788,7 +4232,9 @@
   "title": null,
   "text": "To exceed Vadj a positive action will be required. */ */ e.g. kickdown”",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3805,7 +4251,9 @@
   "title": null,
   "text": "Whenever the vehicle speed exceeds Vadj the driver must be informed by means of a suitable warning signal other than the speedometer.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3822,7 +4270,9 @@
   "title": null,
   "text": "Compliance with paragraph 21.2.5.4.2. shall be demonstrated with paragraph 21.3.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3839,7 +4289,9 @@
   "title": null,
   "text": "The speed limitation function shall permit a normal use of the accelerator control for gear selection.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3856,7 +4308,9 @@
   "title": null,
   "text": "Setting of Vadj:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3873,7 +4327,9 @@
   "title": null,
   "text": "It shall be possible to set Vadj value by steps no greater than 10 km/h (5 mph) between 30 km/h (20 mph) and the maximum design max speed of the vehicle.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3890,7 +4346,9 @@
   "title": null,
   "text": "In the case of vehicles manufactured for sale in any country where imperial units are used, it shall be possible to set Vadj value by steps not greater than 5 mph between 20 mph and the maximum design speed of the vehicle.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3907,7 +4365,9 @@
   "title": null,
   "text": "This shall be achieved by a control device operated by the driver.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3924,7 +4384,9 @@
   "title": "Activation / de-activation",
   "text": "Activation / de-activation",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3941,7 +4403,9 @@
   "title": null,
   "text": "When Vadj is set by the driver it shall not capable of being modified by any means other than the designated control device.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3958,7 +4422,9 @@
   "title": null,
   "text": "The ASLD must be capable of being activated/de-activated at any time, except whilst an ADS feature is active.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3975,7 +4441,9 @@
   "title": null,
   "text": "The ASLD must be de-activated at each engine stop and the key removed.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -3992,7 +4460,9 @@
   "title": null,
   "text": "The ASLD shall be deactivated upon activation of an ADS feature, and shall not be able to be activated whilst an ADS feature is active. 21.3. <u>Tests</u>",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -4009,7 +4479,9 @@
   "title": null,
   "text": "The speed limitation tests to which the SLD presented for approval is submitted as well as the performances required are described in annex 5 to this Regulation.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -4026,7 +4498,9 @@
   "title": null,
   "text": "The adjustable speed limitation tests to which the ASLD presented for approval are submitted are described in annex 6 of this Regulation.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -4043,7 +4517,9 @@
   "title": null,
   "text": "Three different speeds will be chosen for the tests at the discretion of the technical service.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -4060,7 +4536,9 @@
   "title": "MODIFICATION OF THE SLD TYPE AND EXTENSION OF APPROVAL",
   "text": "MODIFICATION OF THE SLD TYPE AND EXTENSION OF APPROVAL",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4077,7 +4555,9 @@
   "title": null,
   "text": "Every modification of the SLD type shall be notified to the administrative department which approved this type of SLD. The department may then either:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4094,7 +4574,9 @@
   "title": null,
   "text": "Consider that the modifications made are unlikely to have an appreciable adverse effect and that in any case the SLD still complies with the requirements, or",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4111,7 +4593,9 @@
   "title": null,
   "text": "Require a further test report for some or all the tests described in annex 5 to this Regulation from the technical service responsible for conducting the tests.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4128,7 +4612,9 @@
   "title": null,
   "text": "Confirmation or refusal of approval, specifying the alteration, shall be communicated by the procedure specified in paragraph 20.3. above to the Parties to the 1958 Agreement which apply this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4145,7 +4631,9 @@
   "title": null,
   "text": "The competent authority issuing the extension of approval shall assign a series number to each communication form drawn up for such an extension and inform thereof the other Parties to the 1958 Agreement applying this Regulation by means of a communication form conforming to the model in annex 3 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4162,7 +4650,9 @@
   "title": "CONFORMITY OF PRODUCTION",
   "text": "CONFORMITY OF PRODUCTION",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -4179,7 +4669,9 @@
   "title": null,
   "text": "Every SLD approved under this Regulation shall be so manufactured as to conform to the type approved by meeting the requirements set out in paragraph 21 above.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -4196,7 +4688,9 @@
   "title": null,
   "text": "In order to verify that the requirements of paragraph 23.1 are met, suitable checks of the production shall be carried out.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -4213,7 +4707,9 @@
   "title": null,
   "text": "The holder of the approval shall, in particular:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -4230,7 +4726,9 @@
   "title": null,
   "text": "Ensure existence of procedures for effective quality control of the SLD;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -4247,7 +4745,9 @@
   "title": null,
   "text": "Have access to the testing equipment necessary for checking conformity of each approved type;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -4264,7 +4764,9 @@
   "title": null,
   "text": "Ensure that test result data are recorded and that the annexed documents remain available for a period to be determined in agreement with the administrative service;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -4281,7 +4783,9 @@
   "title": null,
   "text": "Analyse the results of each type of test, in order to verify and ensure the consistency of the SLD characteristics, making allowance for permissible variations in industrial production;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -4298,7 +4802,9 @@
   "title": null,
   "text": "Ensure that for each type of SLD at least the constituent materials and the method of assembly correspond to the SLD approved. If necessary the tests prescribed in paragraph 1 of annex 5 to this Regulation shall be carried out;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -4315,7 +4821,9 @@
   "title": null,
   "text": "Ensure that any set of samples or test components giving evidence of non-conformity in the type of test in question shall give rise to a further sampling and test. All necessary steps shall be taken to restore conformity of the corresponding production.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -4332,7 +4840,9 @@
   "title": null,
   "text": "The competent authority which has granted type approval may at any time verify the conformity control methods applied in each production unit.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -4349,7 +4859,9 @@
   "title": null,
   "text": "At every inspection, the test records and production records shall be presented to the visiting inspector.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -4366,7 +4878,9 @@
   "title": null,
   "text": "The inspector may select samples at random to be tested in the manufacturer's laboratory. The minimum number of samples may be determined according to the results of the manufacturer's own checks.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -4383,7 +4897,9 @@
   "title": null,
   "text": "Where the quality level appears unsatisfactory or it seems necessary to verify the validity of the tests carried out in application of paragraph 23.4.2. the inspector shall select samples to be sent to the technical service which conducted the type-approval tests.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -4400,7 +4916,9 @@
   "title": null,
   "text": "The competent authority may carry out any test prescribed in this Regulation. The normal frequency of inspections authorized by the competent authority shall be one every two years. In cases where unsatisfactory results are found during one of these inspections, the competent authority shall ensure that all necessary steps are taken to restore conformity of production as rapidly as possible.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "conformity"
  },
  {
   "reg": "UN R89",
@@ -4417,7 +4935,9 @@
   "title": "PENALTIES FOR NON-CONFORMITY OF PRODUCTION",
   "text": "PENALTIES FOR NON-CONFORMITY OF PRODUCTION",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4434,7 +4954,9 @@
   "title": null,
   "text": "The approval granted in respect of a type of SLD pursuant to this Regulation may be withdrawn if the requirements laid down in paragraph 21 above are not complied with.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4451,7 +4973,9 @@
   "title": null,
   "text": "If a Contracting Party to the 1958 Agreement applying this Regulation withdraws an approval it has previously granted, it shall forthwith so notify the other Contracting Parties applying this Regulation, by means of a communication form conforming to the model in annex 3 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4468,7 +4992,9 @@
   "title": "PRODUCTION DEFINITELY DISCONTINUED",
   "text": "PRODUCTION DEFINITELY DISCONTINUED",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4485,7 +5011,9 @@
   "title": null,
   "text": "If the holder of the approval completely ceases to manufacture a type of SLD approved in accordance with this Regulation, he shall so inform the authority which granted the approval. Upon receiving the relevant communication, that authority shall inform thereof the other Parties to the 1958 Agreement applying this Regulation by means of a communication form conforming to the model in annex 3 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4502,7 +5030,9 @@
   "title": null,
   "text": "NAMES AND ADDRESSES OF TECHNICAL SERVICES RESPONSIBLE FOR CONDUCTING APPROVAL TESTS AND OF ADMINISTRATIVE DEPARTMENTS",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R89",
@@ -4519,7 +5049,9 @@
   "title": null,
   "text": "The Contracting Parties to the 1958 Agreement applying this Regulation shall communicate to the United Nations secretariat the names and addresses of the technical services responsible for conducting approval tests and of the administrative departments which grant approval and to which forms certifying approval or extension or refusal or withdrawal of approval or production definitely discontinued issued in other countries, are to be sent.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4536,7 +5068,9 @@
   "title": null,
   "text": "(maximum format: A4 (210 x 297 mm)) issued by: Name of administration: Concerning: 2/ APPROVAL GRANTED APPROVAL EXTENDED APPROVAL REFUSED APPROVAL WITHDRAWN PRODUCTION DEFINITELY DISCONTINUED of a vehicle type with regard to the maximum speed limitation by the vehicle's speed limiting function / adjustable speed limitation function pursuant to Part I of Regulation No. 89. Approval No............ Extension No. ............ > 1/Distinguishing number of the country which has granted/extended/ refused/withdrawn approval (see approval provisions in the Regulation). 2/ Strike out what does not apply.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4553,7 +5087,9 @@
   "title": null,
   "text": "Trade name or mark of the vehicle .......................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4570,7 +5106,9 @@
   "title": null,
   "text": "Vehicle type ............................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4587,7 +5125,9 @@
   "title": null,
   "text": "Manufacturer's name and address .........................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4604,7 +5144,9 @@
   "title": null,
   "text": "If applicable name and address of manufacturer's representative .........",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4621,7 +5163,9 @@
   "title": null,
   "text": "Brief description of the speed limiting function / adjustable speed limitation function of the vehicle .........",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4638,7 +5182,9 @@
   "title": "Speed or range of speeds at which the limitation may be set ............ .V= …………km/h",
   "text": "Speed or range of speeds at which the limitation may be set ............ .V= …………km/h",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4655,7 +5201,9 @@
   "title": "Ratio of maximum engine power/unladen mass of the vehicle type",
   "text": "Ratio of maximum engine power/unladen mass of the vehicle type",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4672,7 +5220,9 @@
   "title": null,
   "text": "Highest ratio of engine speed/vehicle speed in top gear of the vehicle type .................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4689,7 +5239,9 @@
   "title": "Vehicle submitted for approval on",
   "text": "Vehicle submitted for approval on",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4706,7 +5258,9 @@
   "title": null,
   "text": "Technical service responsible for conducting the approval tests .........",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4723,7 +5277,9 @@
   "title": null,
   "text": "Date of report issued by that service ...................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4740,7 +5296,9 @@
   "title": null,
   "text": "Number of report issued by that service .................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4757,7 +5315,9 @@
   "title": null,
   "text": "Approval granted/extended/refused/withdrawn 2/ 2/ Strike out what does not apply.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4774,7 +5334,9 @@
   "title": null,
   "text": "Position of approval mark on the vehicle .......................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4791,7 +5353,9 @@
   "title": null,
   "text": "Place ...................................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4808,7 +5372,9 @@
   "title": null,
   "text": "Date ....................................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4825,7 +5391,9 @@
   "title": null,
   "text": "Signature ...............................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4842,7 +5410,9 @@
   "title": null,
   "text": "The list of documents filed with the administrative service which has granted approval and available on request is annexed to this communication.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4859,7 +5429,9 @@
   "title": null,
   "text": "(maximum format: A4 (210 x 297 mm)) issued by: Name of administration: Concerning:2/ APPROVAL GRANTED APPROVAL EXTENDED APPROVAL REFUSED APPROVAL WITHDRAWN PRODUCTION DEFINITELY DISCONTINUED of a vehicle type with regard to the installation of a \"speed limitation device / adjustable speed limitation device (SLD/ASLD) of an approved type pursuant to Part II of Regulation No. 89. Approval No............ Extension No............. 1/Distinguishing number of the country which has granted/extended/ refused/withdrawn approval (see approval provisions in the Regulation). 2/ Strike out what does not apply.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4876,7 +5448,9 @@
   "title": null,
   "text": "Trade name or mark of the vehicle .......................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4893,7 +5467,9 @@
   "title": null,
   "text": "Vehicle type ............................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4910,7 +5486,9 @@
   "title": null,
   "text": "Manufacturer's name and address .........................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4927,7 +5505,9 @@
   "title": null,
   "text": "If applicable name and address of manufacturer's representative .........",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4944,7 +5524,9 @@
   "title": null,
   "text": "Brief description of the vehicle type as regards its \"speed limitation device / adjustable speed limitation device (SLD/ASLD) ............................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4961,7 +5543,9 @@
   "title": "Trade name or mark of the SLD/ASLD(s) and its/their approval number(s)",
   "text": "Trade name or mark of the SLD/ASLD(s) and its/their approval number(s)",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4978,7 +5562,9 @@
   "title": null,
   "text": "Speed or range of speeds at which the limitation may be set ............",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -4995,7 +5581,9 @@
   "title": "Ratio of maximum engine power/unladen mass of the vehicle type",
   "text": "Ratio of maximum engine power/unladen mass of the vehicle type",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5012,7 +5600,9 @@
   "title": null,
   "text": "Highest ratio of engine speed/vehicle speed in top gear of the vehicle type ........................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5029,7 +5619,9 @@
   "title": "Vehicle submitted for approval on",
   "text": "Vehicle submitted for approval on",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5046,7 +5638,9 @@
   "title": null,
   "text": "Technical service responsible for conducting approval ...........",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5063,7 +5657,9 @@
   "title": null,
   "text": "Date of report issued by that service ...................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5080,7 +5676,9 @@
   "title": null,
   "text": "Number of report issued by that service ........................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5097,7 +5695,9 @@
   "title": null,
   "text": "Approval granted/refused/extended/withdrawn 2/ 2/ Strike out what does not apply.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5114,7 +5714,9 @@
   "title": null,
   "text": "Position of approval mark on the vehicle ................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5131,7 +5733,9 @@
   "title": null,
   "text": "Place ...................................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5148,7 +5752,9 @@
   "title": null,
   "text": "Date ....................................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5165,7 +5771,9 @@
   "title": null,
   "text": "Signature ...............................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5182,7 +5790,9 @@
   "title": null,
   "text": "The list of documents filed with the administration service which1has granted approval and available on request is annexed to this communication.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5199,7 +5809,9 @@
   "title": null,
   "text": "(maximum format: A4 (210 x 297 mm)) issued by: Name of administration: concerning: 2/ APPROVAL GRANTED APPROVAL EXTENDED APPROVAL REFUSED APPROVAL WITHDRAWN PRODUCTION DEFINITELY DISCONTINUED with regard to a type of speed limitation device / adjustable speed limitation device (SLD/ASLD) pursuant to Part III of Regulation No. 89. Approval No............ Extension No. ............ 1/ Distinguishing number of the country which has granted/extended/ refused/withdrawn approval (see approval provisions in the Regulation). 2/ Strike out what does not apply.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5216,7 +5828,9 @@
   "title": null,
   "text": "Trade name or mark of the SLD/ASLD ...........................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5233,7 +5847,9 @@
   "title": null,
   "text": "Type of device ..........................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5250,7 +5866,9 @@
   "title": null,
   "text": "Name and address of manufacturer ........................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5267,7 +5885,9 @@
   "title": null,
   "text": "If applicable name and address of manufacturer's representative .........",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5284,7 +5904,9 @@
   "title": "Brief description of the SLD/ASLD",
   "text": "Brief description of the SLD/ASLD",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5301,7 +5923,9 @@
   "title": null,
   "text": "Type of vehicle on which the SLD/ASLD has been tested ........................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5318,7 +5942,9 @@
   "title": null,
   "text": "Speed or range of speeds at which the SLD/ASLD may be set within the range established for the test vehicle ...........",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5335,7 +5961,9 @@
   "title": "Ratio of maximum engine power/unladen mass of the test vehicle",
   "text": "Ratio of maximum engine power/unladen mass of the test vehicle",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5352,7 +5980,9 @@
   "title": null,
   "text": "Highest ratio of engine speed/vehicle speed in top gear of the test vehicle ....................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5369,7 +5999,9 @@
   "title": null,
   "text": "Type(s) of vehicle(s) on which the device may be installed ............. .",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5386,7 +6018,9 @@
   "title": null,
   "text": "Speed or range of speeds at which the limiter may be set within the range established for the vehicle(s) on which the device may be installed .....",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5403,7 +6037,9 @@
   "title": null,
   "text": "Ratio of maximum engine power/unladen mass of the vehicle type(s) on which the device may be installed ..",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5420,7 +6056,9 @@
   "title": null,
   "text": "Highest ratio of engine speed/vehicle speed in top gear of the vehicle type(s) on which the device may be installed",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5437,7 +6075,9 @@
   "title": null,
   "text": "Device submitted for approval on ........................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5454,7 +6094,9 @@
   "title": null,
   "text": "Technical service responsible for conducting approval tests ......,....... .",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5471,7 +6113,9 @@
   "title": null,
   "text": "Date of report issued by that service ...........................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5488,7 +6132,9 @@
   "title": null,
   "text": "Number of report issued by that service .....................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5505,7 +6151,9 @@
   "title": null,
   "text": "Approval has been granted/refused/extended/withdrawn in respect of the SLD/ASLD 2/ 2/ Strike out what does not apply.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5522,7 +6170,9 @@
   "title": null,
   "text": "Position of approval mark on device .....................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5539,7 +6189,9 @@
   "title": "Place",
   "text": "Place",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5556,7 +6208,9 @@
   "title": null,
   "text": "Date ....................................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5573,7 +6227,9 @@
   "title": null,
   "text": "Signature ...............................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5590,7 +6246,9 @@
   "title": null,
   "text": "The list of documents filed with the administration service which has granted approval and available on request is annexed to this communication.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5607,7 +6265,9 @@
   "title": null,
   "text": "MODEL A The above approval mark affixed to an SLD shows that the SLD has been approved in the Netherlands (E4), pursuant to Regulation No. 89 under ap roval number 002439. The first two digits of the approval number indicate that the approval was granted in accordance with the requirements of Regulation No. 89 in its original form. The above approval mark affixed to a vehicle shows that the vehicle has been approved in the Netherlands (E4), pursuant to Regulation No. 89 under approval number 002439. The first two digits of the approval number indicate that the approval was granted in accordance with the requirements of Regulation No. 89 in its original form. The figure and range of figures, expressed in km/h, surrounded by a rectangle, show the set speed to which the vehicle is limited, 1/ and the range of set speeds within which the vehicle may be limited. MODEL C The above approval mark affixed to a vehicle shows that the vehicle has been approved in the Netherlands (E4), pursuant to Regulations Nos. 89 and 31. 2/ The first two digits of the approval number indicate that, at the dates when the respective approvals were given, Regulation No. 31 already included the 01 series of amendments, and Regulation No. 89 was in its original form. The figure and range of figures, expressed in km/h, surrounded by a rectangle, show the set speed to which the vehicle is limited, 1/ and the range of set speeds within which the vehicle may be limited. 1/ This figure may be inserted after application of the rest of the mark, when it is known where the individual vehicle will be registered. Variations of this part of the mark shall not be considered as changes in the vehicle type. 2/ The latter number is given as an example only.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "EXAMPLES OF ARRANGEMENTS OF APPROVAL MARKS",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R89",
@@ -5624,7 +6284,9 @@
   "title": null,
   "text": "Tests of speed limitation At the request of the applicant for approval, tests shall be made in accordance with either paragraphs 1.1., 1.2. or 1.3. below. For vehicles of Categories X and Y, all tests in this annex shall be conducted, and all respective requirements shall be fulfilled. In the absence of manual driving controls, tests shall be conducted using dedicated activation methods, which may include: (a) A test mode allowing to manually control or trigger the acceleration functions, or (b) Any other method subject to agreement between the vehicle manufacturer and the technical service, ensuring that the evaluation accurately reflects real-world ADS performance. Wherever this annex details a manual control being actuated or an action being applied on it, that shall be understood as an acceleration demand being made through the selected activation method above. The manufacturer shall demonstrate that the test activation method accurately replicates ADS performance, and a detailed description of the method used shall be included in the test report. The acceleration demand made shall be recorded in the test report alongside the results of each test. For vehicles equipped with an ADS, other than those of Categories X and Y, the tests in this annex shall be performed at least in the manual driving mode. Tests do not have to be performed in ADS mode providing the manufacturer can demonstrate to the technical service that the same SLF performance can be achieved when acceleration demands are made by the ADS. However, testing to verify this shall be performed at the request of the technical service.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -5641,7 +6303,9 @@
   "title": "MEASUREMENT ON TEST TRACK",
   "text": "MEASUREMENT ON TEST TRACK",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -5658,7 +6322,9 @@
   "title": "Preparation of the vehicle",
   "text": "Preparation of the vehicle",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -5675,7 +6341,9 @@
   "title": null,
   "text": "A vehicle representative of the vehicle type to be approved or an SLD representative of the type of SLD, as appropriate, shall be submitted to the technical service;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -5692,7 +6360,9 @@
   "title": null,
   "text": "The settings of the engine of the test vehicle, particularly the fuel feed (carburettor or injection system), shall conform to the specifications of the vehicle manufacturer,",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -5709,7 +6379,9 @@
   "title": null,
   "text": "The tyres shall be bedded and the pressure shall be as specified by the manufacturer for the vehicle;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -5726,7 +6398,9 @@
   "title": null,
   "text": "The vehicle mass shall be the unladen mass as declared by the manufacturer.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -5743,7 +6417,9 @@
   "title": "Characteristics of the test track",
   "text": "Characteristics of the test track",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -5760,7 +6436,9 @@
   "title": null,
   "text": "The test surface shall be suitable to enable stabilized speed to be maintained and shall be free from uneven patches. Gradients shall not exceed 2% and shall not vary by more than 1% extluding camber effects.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -5777,7 +6455,9 @@
   "title": null,
   "text": "The test surface shall be free from standing water, snow or ice.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -5794,7 +6474,9 @@
   "title": "Ambient weather conditions",
   "text": "Ambient weather conditions",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -5811,7 +6493,9 @@
   "title": null,
   "text": "The mean wind speed measured at a height at least 1 m above the ground shall be less than 6 m/s with gusts not exceeding 10 m/s.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -5828,7 +6512,9 @@
   "title": "Acceleration test method: (see the figure below)",
   "text": "Acceleration test method: (see the figure below)",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -5845,7 +6531,9 @@
   "title": null,
   "text": "The vehicle running at a speed which is 10 km/h below the set speed shall be accelerated as much as possible using a fully positive action on the accelerator control. This action shall be maintained at least 30 seconds after the vehicle speed has been stabilized. The instantaneous vehicle speed shall be recorded during the test in order to establish the curve of the speed versus the time and during the operation of the speed limiting function or of the SLD as appropriate. The accuracy of the speed measurement shall be ± 1%. The accuracy of the time measurement shall be less than 0.1 s.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -5862,7 +6550,9 @@
   "title": null,
   "text": "The test shall be considered satisfactory if the following conditions are met:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -5879,7 +6569,9 @@
   "title": null,
   "text": "The stabilized speed reached by the vehicle shall not exceed the set speed (Vstab ≤ Vset). However, a tolerance of 5% of the Vset value, or 5 km/h, whichever is the greater, is acceptable;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -5896,7 +6588,9 @@
   "title": null,
   "text": "After the stabilized speed is reached for the first time:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -5913,7 +6607,9 @@
   "title": null,
   "text": "Vmax shall not exceed Vstab by more than 5%; 1.1.4.2.2.2 the rate of change of speed shall not exceed 0.5 m/s2 when measured on a period greater than 0.1 s; 1.1.4.2.2.3. the stabilized speed conditions specified in paragraph 1.1.4.2.3. shall be attained within 10 s of first reaching Vstab;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -5930,7 +6626,9 @@
   "title": null,
   "text": "When stable speed control has been achieved: 1.1.4.2.3.1. speed shall not vary by more than 4% of Vstab or 2 km/h whichever is greater; 1.1.4.2.3.2. the rate of change of speed shall not exceed 0.2 m/s2 when measured on a period greater than 0.1 s;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -5947,7 +6645,9 @@
   "title": null,
   "text": "Vstab is the average speed calculated for a minimum time interval of 20 seconds beginning 10 seconds after first reaching Vstab;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -5964,7 +6664,9 @@
   "title": null,
   "text": "Tests in acceleration shall be carried out and the acceptance criteria verified for each gear ratio allowing in theory the set speed to be exceeded. Figure Vmax is the maximum speed reached by the vehicle in the first half period of the response curve.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -5981,7 +6683,9 @@
   "title": "Test method at steady speed",
   "text": "Test method at steady speed",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -5998,7 +6702,9 @@
   "title": null,
   "text": "The vehicle shall be driven at full acceleration up to the steady speed, then shall be maintained at this speed without any modification on the test basis of at least 400 metres. The vehicle’s average speed shall be measured on this test basis. The average speed measurement shall then be repeated on the same test basis, but run in the opposite direction, and under the same procedures. The stabilization speed for the whole tdst previously considered is the mean of the two average speeds measured for both test runs. The whole test including the calculation of the stabilization speed shall be carried out five times. The speed measurements shall be carried out with an accuracy of ± 1%, the time measurements with an accuracy of 0.1 s.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6015,7 +6721,9 @@
   "title": null,
   "text": "The tests shall be considered satisfactory if the following conditions are met:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6032,7 +6740,9 @@
   "title": null,
   "text": "On each test run Vstab shall not exceed Vset. However, a tolerance of 5% of the Vset value, or 5 km/h, whichever is the greater, is acceptable;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6049,7 +6759,9 @@
   "title": null,
   "text": "The difference between the stabilization speeds obtained during each test run shall be equal to or less than 3 km/h;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6066,7 +6778,9 @@
   "title": null,
   "text": "Tests in steady speed shall be carried out and the acceptance criteria verified for each gear ratio allowing in theory the set speed to be exceeded.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6083,7 +6797,9 @@
   "title": "TESTS ON CHASSIS DYNAMOMETER",
   "text": "TESTS ON CHASSIS DYNAMOMETER",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6100,7 +6816,9 @@
   "title": null,
   "text": "Characteristics of the chassis dynamometer The equivalent inertia of the vehicle mass shall be reproduced on the chassis dynamometer with an accuracy of ± 10%. The speed of the vehicle shall be measured with an accuracy of ± 1%. The time shall be measured with an accuracy of 0.1 s.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6117,7 +6835,9 @@
   "title": "Acceleration test method",
   "text": "Acceleration test method",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6134,7 +6854,9 @@
   "title": null,
   "text": "The power absorbed by the brake during the test shall be set to correspond with the vehicle’s resistance to progress at the tested speed(s). This power may be established by calculation and shall be set to an accuracy of ± 10%. At the request of the applicant, and with the agreement of the competent authority, the power absorbed may alternatively be set at 0.4 Pmax (Pmax is the maximum power of the engine). The vehicle running at a speed which is 10 km/h below the set speed Vset shall be accelerated at the maximum possibilities of the engine by using a fully positive action on the acceleration control. This action shall be maintained at least 20 seconds after the vehicle speed has been stabilized. The instantaneous vehicle speed shall be recorded during the test in order to draw the curve of the speed versus time during the operation of the speed limiting function or of the SLD as appropriate.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6151,7 +6873,9 @@
   "title": null,
   "text": "The test shall be considered satisfactory if the provisions of the preceding paragraph 1.1.4.2. and its subparagraphs are satisfied.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6168,7 +6892,9 @@
   "title": "Test method for steady speed test",
   "text": "Test method for steady speed test",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6185,7 +6911,9 @@
   "title": null,
   "text": "The vehicle shall be installed on the chassis dynamometer. The following acceptance criteria should be met for power absorbed by the chassis dynamometer varying progressively from the maximum power Pmax to a value equal to 0.2 Pmax. The speed of the vehicle shall be recorded in the full range of power defined above. The maximum speed of the vehicle shall be determined on this range. Test and record defined above should be made five times.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6202,7 +6930,9 @@
   "title": null,
   "text": "The tests shall be considered satisfactory if the provisions of the preceding paragraph 1.1.5.2. and its subparagraphs are satisfied.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6219,7 +6949,9 @@
   "title": null,
   "text": "TEST ON ENGINE TEST BENCH This test procedure can be used only when the applicant can demonstrate to the satisfaction of the technical services that this method is equivalent to the measurement on a test track.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6236,7 +6968,9 @@
   "title": null,
   "text": "TEST OF ENDURANCE The speed limiting function or the SLD, as appropriate, shall be submitted to the durability test prescribed below. However, this may be omitted if the applicant demonstrates resistance to those effects.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6253,7 +6987,9 @@
   "title": null,
   "text": "The device is cycled on a bench simulating the attitude and the movement which the SLD would experience on the vehicle.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6270,7 +7006,9 @@
   "title": null,
   "text": "A functioning cycle is maintained by means of a control system supplied by the manufacturer The diagram of the cycle is given below: Five conditionings are defined hereafter. The SLD samples of the type presented for approval shall be submitted to the conditionings according to the table below:\n||First SLD|Second SLD|Third SLD|Fourth SLD|\n|---|---|---|---|---|\n|Conditioning 1|X||||\n|Conditioning 2||X|||\n|Conditioning 3||X|||\n|Conditioning 4|||X||\n|Conditioning 5||||X|",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6287,7 +7025,9 @@
   "title": "Conditioning 1: tests at ambient temperature (20° C ± 2° C) Number of cycles: 50,000",
   "text": "Conditioning 1: tests at ambient temperature (20° C ± 2° C) Number of cycles: 50,000",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6304,7 +7044,9 @@
   "title": "Conditioning 2: tests at high temperatures",
   "text": "Conditioning 2: tests at high temperatures",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6321,7 +7063,9 @@
   "title": null,
   "text": "Electronic components The components shall be cycled in a climatic chamber A temperature of 65° C ± 5° C is maintained during the whole functioning. Number of cycles: 12,500.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6338,7 +7082,9 @@
   "title": null,
   "text": "Mechanical components The components shall be cycled in a climatic chamber. A temperature of 100° C ± 5° C is maintained during the whole functioning. Number of cycles: 12,500.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6355,7 +7101,9 @@
   "title": null,
   "text": "Conditioning 3: tests at low temperatures In the climatic chamber used for conditioning 2, a temperature of -20° C ± 5° C is maintained during the whole functioning. Number of cycles: 12,500.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6372,7 +7120,9 @@
   "title": null,
   "text": "Conditioning 4: tests in a salted atmosphere. (Only for components exposed to the ambient road environment.) The device shall be cycled in a salted atmosphere chamber. The concentration of sodium chloride is of 5% and internal temperature of the climatic chamber is of 35° C ± 2° C. Number of cycles: 12,500.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6389,7 +7139,9 @@
   "title": "Conditioning 5: vibration test",
   "text": "Conditioning 5: vibration test",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6406,7 +7158,9 @@
   "title": null,
   "text": "The SLD is mounted in a similar way to its mounting on the vehicle.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6423,7 +7177,9 @@
   "title": null,
   "text": "Sinusoidal vibrations shall be applied in all three planes. Logarithmic sweep shall be 1 octave per minute;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6440,7 +7196,9 @@
   "title": null,
   "text": "First test: frequency range 10-24 Hz, amplitude ± 2 mm;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6457,7 +7215,9 @@
   "title": null,
   "text": "Second test: frequency range 24-1,000 Hz for chassis and cab-mounted components, input 2.5 g. For engine-mounted components, input 5 g.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6474,7 +7234,9 @@
   "title": "Acceptance criteria of the endurance tests",
   "text": "Acceptance criteria of the endurance tests",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6491,7 +7253,9 @@
   "title": null,
   "text": "At the end of the endurance tests, no modification of the device’s performances shall be observed regarding the set speed;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6508,7 +7272,9 @@
   "title": null,
   "text": "However, if any breaking down of the device occurs during one of the endurance tests, a second device can be submitted to the considered endurance tests at the manufacturer’s request.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6525,7 +7291,9 @@
   "title": "TESTS OF ADJUSTABLE SPEED LIMITATION SYSTEM",
   "text": "TESTS OF ADJUSTABLE SPEED LIMITATION SYSTEM",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6542,7 +7310,9 @@
   "title": "Preparation of the vehicle",
   "text": "Preparation of the vehicle",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6559,7 +7329,9 @@
   "title": null,
   "text": "A vehicle representative of the vehicle type to be approved or an ASLD representative of the type of ASLD, as appropriate, shall be submitted to the technical service.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6576,7 +7348,9 @@
   "title": null,
   "text": "Where an ASLD is to be approved it shall be fitted by the manufacturer to a vehicle which is representative of the type for which the device is intended.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6593,7 +7367,9 @@
   "title": null,
   "text": "The settings of the engine of the test vehicle, particularly the fuel feed (carburettor or injection system), shall conform to the specifications of the vehicle manufacturer.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6610,7 +7386,9 @@
   "title": null,
   "text": "The tyres shall be bedded and the pressure shall be as specified by the manufacturer for the vehicle.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6627,7 +7405,9 @@
   "title": null,
   "text": "The vehicle mass shall be the minimum kerb weight declared by the manufacturer.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6644,7 +7424,9 @@
   "title": "Characteristics of the test track",
   "text": "Characteristics of the test track",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6661,7 +7443,9 @@
   "title": null,
   "text": "The test surface shall be suitable for enabling stabilised speed to be maintained and shall be free from uneven patches. Gradients shall not exceed 2 per cent.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6678,7 +7462,9 @@
   "title": null,
   "text": "The test surface shall be free from standing water, snow or ice. 1.3. <u>Ambient weather conditions</u>",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6695,7 +7481,9 @@
   "title": null,
   "text": "The mean wind speed measured at a height of at least 1 m above the ground shall be less than 6 m/s with gusts not exceeding 10 m/s. 1.4. <u>Test for the driver being informed that V</u> ~~adj~~ <u>is being exceeded</u>",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6712,7 +7500,9 @@
   "title": null,
   "text": "The positive action (as referred to in paragraphs 5.2.5.4.1. and 21.2.5.4.1) required to enable Vadj to be exceeded shall be applied when the vehicle is running at a speed 10 km/h below Vadj.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6729,7 +7519,9 @@
   "title": null,
   "text": "The vehicle shall be accelerated up to a speed at least 10 km/h greater than Vadj.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6746,7 +7538,9 @@
   "title": null,
   "text": "This speed shall be maintained for at least 30 seconds.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6763,7 +7557,9 @@
   "title": null,
   "text": "Instantaneous vehicle speed shall be recorded during the test and measured with an accuracy of ± 1 per cent.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6780,7 +7576,9 @@
   "title": null,
   "text": "The test shall be considered satisfactory if the following conditions are met:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6797,7 +7595,9 @@
   "title": null,
   "text": "The driver is informed by a warning signal when the actual speed of the vehicle is exceeding Vadj by more than 3 km/h.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6814,7 +7614,9 @@
   "title": null,
   "text": "The driver continues to be informed for the duration of the time that Vadj is exceeded by more than 3 km/h. 1.5. <u>Test of the adjustable speed limitation function/device.</u>",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6831,7 +7633,9 @@
   "title": null,
   "text": "With the ASLF/D deactivated, for each gear ratio selected for the chosen test speed Vadj, the technical service shall: (a) Either measure the forces required on the accelerator control; (b) Or measure the accelerator control position; To maintain Vadj and a speed (Vadj*) which is 20% or 20 km/h (whichever is the greater) faster than Vadj.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6848,7 +7652,9 @@
   "title": null,
   "text": "With the ASLF/D activated and set at Vadj, the vehicle shall be run at a speed of 10km/h below Vadj. The vehicle shall then be accelerated by either increasing the force on the accelerator control or adjusting the accelerator control position over a period of 1s ± 0.2s to that required to maintain Vadj*. This force or position shall then be maintained for a period of at least 30 seconds after the vehicle speed has stabilised.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6865,7 +7671,9 @@
   "title": null,
   "text": "The instantaneous vehicle speed shall be recorded during the test in order to establish the curve of the speed versus the time and during the operation of the ASLF/D as appropriate. The accuracy of the speed measurement shall be ± 1 per cent. The accuracy of the time measurement shall be less than 0.1 s.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6882,7 +7690,9 @@
   "title": null,
   "text": "The test shall be considered satisfactory if the following conditions are met:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6899,7 +7709,9 @@
   "title": null,
   "text": "The stabilized speed (Vstab) reached by the vehicle shall not exceed Vadj by more than 3 km/h",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6916,7 +7728,9 @@
   "title": null,
   "text": "After Vstab is reached for the first time:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6933,7 +7747,9 @@
   "title": null,
   "text": "Vmax shall not exceed Vstab by more than 5 per cent; 1.5.4.1.1.2. the rate of change of speed shall not exceed 0.5 m/s2 when measured over a period greater than 0.1 s; 1.5.4.1.1.3. the stabilized speed conditions specified in paragraph 1.5.4.1.2. shall be attained within 10 s of first reaching Vstab;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6950,7 +7766,9 @@
   "title": null,
   "text": "When stable speed control has been achieved: 1.5.4.1.2.1. speed shall not vary by more than 3 km/h of Vstab; 1.5.4.1.2.2. the rate of change of speed shall not exceed 0.2 m/s2 when measured over a period greater than 0.1 s;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6967,7 +7785,9 @@
   "title": null,
   "text": "Vstab is the average speed calculated for a minimum time interval of 20 seconds beginning 10 seconds after first reaching Vstab;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  },
  {
   "reg": "UN R89",
@@ -6984,6 +7804,8 @@
   "title": null,
   "text": "Tests in acceleration shall be carried out and the acceptance criteria verified for each gear ratio allowing in theory Vadj* to be achieved.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TESTS AND PERFORMANCE REQUIREMENTS FOR ASLD",
+  "section_kind": "test"
  }
 ]

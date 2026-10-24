@@ -14,7 +14,9 @@
   "title": null,
   "text": "UN R104 (version 0.9.0) Consolidated text of this version, rendered by Certivity for the hackathon. Cite pages of THIS file: the page number is printed at the bottom of every page. Role in the hackathon: base version.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -31,7 +33,9 @@
   "title": null,
   "text": "SCOPE This Regulation applies to retro-reflective markings for vehicles of category M2, M3, N, O2, O3 and O4.1 / 1/As defined in Annex 7 to the Consolidated Resolution on the Construction of Vehicles (R.E.3), (document TRANS/WP.29/78/Rev.1/Amend.2 as last amended by Amend.4).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -48,7 +52,9 @@
   "title": "DEFINITIONS",
   "text": "DEFINITIONS",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -65,7 +71,9 @@
   "title": null,
   "text": "For the purpose of these provisions, the following definitions shall apply:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -82,7 +90,9 @@
   "title": null,
   "text": "\"Sample unit\" means part or all of the retro-reflective material intended to be used to achieve the markings defined in paragraphs 2.1.1.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -99,7 +109,9 @@
   "title": null,
   "text": "\"Distinctive markings, graphics\" mean coloured markings, whose coefficient of retro-reflection is as defined in paragraphs 7.2.1. and 7.2.2. below.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -116,7 +128,9 @@
   "title": null,
   "text": "The definitions given in Regulation No. 48 and its series of amendments in force at the time of application for type approval shall apply to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -133,7 +147,9 @@
   "title": null,
   "text": "\"Retro-reflection\" means the reflection in which luminous flux is returned in directions close to the direction from which it came, this property being maintained even over wide variations of the direction of the luminous flux.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -150,7 +166,9 @@
   "title": null,
   "text": "\"Retro-reflective marking material\" means a surface or a device from which, when directionally illuminated, a relatively large portion of the incident radiation is retro-reflected.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -167,7 +185,9 @@
   "title": "Geometric definitions (see Annex 1, figure 1)",
   "text": "Geometric definitions (see Annex 1, figure 1)",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -184,7 +204,9 @@
   "title": null,
   "text": "\"Reference centre\" means a point on or near a retro-reflective area which is designated to be the centre of the device for the purpose of specifying its performance;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -201,7 +223,9 @@
   "title": null,
   "text": "\"Illumination axis (symbol I)\" means a line segment from the reference centre to the light source.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -218,7 +242,9 @@
   "title": null,
   "text": "\"Observation axis (symbol O)\" means a line segment from the reference centre to the photometer head;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -235,7 +261,9 @@
   "title": null,
   "text": "\"Observation angle (symbol α)\" means the angle between the illumination axis and the observation axis. The observation angle is always positive and, in the case of retro-reflection, is restricted to small angles;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -252,7 +280,9 @@
   "title": null,
   "text": "\"Observation on half-plane\" means the half-plane which originates on the illumination axis and which contains the observation axis;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -269,7 +299,9 @@
   "title": null,
   "text": "\"Reference axis (symbol R)\" means a designated line segment originating on the reference centre which is used to describe the angular position of the retro-reflective device;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -286,7 +318,9 @@
   "title": null,
   "text": "\"Entrance angle (symbol β)\" means the angle from the illumination axis to the reference axis. The entrance angle is usually not larger than 90° but, for completeness, its full range is defined as 0° < β < 180°. In order to specify the orientation in full, this angle is characterised by two components, β1 and β2;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -303,7 +337,9 @@
   "title": null,
   "text": "\"Rotation angle (symbol ε)\" means the angle indicating the orientation of the retro-reflecting material by an appropriate symbol with respect to rotation about the reference axis;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -320,7 +356,9 @@
   "title": null,
   "text": "\"First axis (symbol 1)\" means an axis through the reference centre and perpendicular to the observation half-plane;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -337,7 +375,9 @@
   "title": null,
   "text": "\"First component of the entrance angle (symbol β1)\" means the angle from the illumination axis to the plane containing the reference axis and the first axis; range: -180° < β1 < 180°;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -354,7 +394,9 @@
   "title": null,
   "text": "\"Second component of the entrance angle (symbol β2)\" means the angle from the plane containing the observation half-plane to the reference axis; range -90° < β2 < 90°;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -371,7 +413,9 @@
   "title": null,
   "text": "\"Second axis (symbol 2)\" means an axis through the reference centre and perpendicular to both the first axis and the reference axis. The positive direction of the second axis lies in the observation half-plane when -90° < β1 < 90° as shown in Annex 1, figure 1.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -388,7 +432,9 @@
   "title": "Definition of photometric terms",
   "text": "Definition of photometric terms",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -405,7 +451,9 @@
   "title": null,
   "text": "\"Coefficient of retro-reflection (symbol R')\" means the quotient of the coefficient of luminous intensity R of a plane retro-reflecting surface and its area A The coefficient of retro-reflection R' is expressed in candelas per m2 per lx (cd.m-2 .lx-1 ) (Luminance / Illumination);",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -422,7 +470,9 @@
   "title": null,
   "text": "\"Angular diameter of the retro-reflector sample (symbol η1)\" means the angle subtended by the greatest dimension of the retro-reflective sample, either at the centre of the source of illumination or at the centre of the receiver (ß1 = ß2 = 0°);",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -439,7 +489,9 @@
   "title": null,
   "text": "\"Angular diameter of the receiver (symbol η2)\" means the angle subtended by the greatest dimension of the receiver as seen from the reference centre (β1 = β2 = 0°);",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -456,7 +508,9 @@
   "title": null,
   "text": "\"Luminance factor (symbol ß)\" means the ratio of the luminance of the body to the luminance of a perfect diffuser under identical conditions of illumination and observation;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -473,7 +527,9 @@
   "title": null,
   "text": "\"Colour of the reflected light of the device\" The definitions of the colour of the reflected light are given in paragraphs 2.30. of Regulation No. 48.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -490,7 +546,9 @@
   "title": null,
   "text": "Description of Goniometer A goniometer which can be used in making retro-reflection measurements in the CIE geometry is illustrated in Annex 1, figure 2. In this illustration, the photometer head (O) is arbitrarily shown to be vertically above the source (I). The first axis is shown to be fixed and horizontal and is situated perpendicular to the observation halfplane. Any arrangement of the components which is equivalent to the one shown can be used.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -507,7 +565,9 @@
   "title": null,
   "text": "Definition of \"type\" Marking materials of the different types means materials which differ in such essential respects as:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -524,7 +584,9 @@
   "title": null,
   "text": "The trade name or mark: (a) Reflective marking material bearing the same trade name or mark but produced by different manufacturers shall be considered as being of different types; (b) Reflective marking material produced by the same manufacturer differing only by the trade name or mark shall be considered as being of the same type. 2.6.2. the characteristics of the retro-reflective material; 2.6.3. the parts affecting the properties of the retro-reflective materials or devices.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "definition"
  },
  {
   "reg": "UN R104",
@@ -541,7 +603,9 @@
   "title": "APPLICATION FOR APPROVAL",
   "text": "APPLICATION FOR APPROVAL",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -558,7 +622,9 @@
   "title": null,
   "text": "The application for approval of a retro-reflective marking material shall be submitted by the holder of the trade name or trade mark, or if necessary by his duly accredited representative, and shall be accompanied by:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -575,7 +641,9 @@
   "title": null,
   "text": "Drawings, in triplicate, sufficiently detailed to permit identification of the type. The drawings shall show geometrically the orientation in which the marking materials are to be fitted to a vehicle. They shall also show the position intended for the approval number and the identification symbol in relation to the circle of the approval mark;",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -592,7 +660,9 @@
   "title": null,
   "text": "A brief description giving the technical specifications of the retro-reflective marking materials;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -609,7 +679,9 @@
   "title": null,
   "text": "Samples of the retro-reflective marking materials, as specified in Annex 4;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -626,7 +698,9 @@
   "title": null,
   "text": "In the case of a type of reflective marking material differing only by the trade name or mark from a type that has already been approved it shall be sufficient to submit:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -643,7 +717,9 @@
   "title": null,
   "text": "A declaration by the reflective marking material manufacturer that the type submitted is identical with (except in the trade name or mark) and has been produced by the same manufacturer as the type already approved, the latter being identified by its approval code;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -660,7 +736,9 @@
   "title": null,
   "text": "Two samples bearing the new trade name or mark or equivalent documentation.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -677,7 +755,9 @@
   "title": "TRADE NAMES AND OTHER MARKS",
   "text": "TRADE NAMES AND OTHER MARKS",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -694,7 +774,9 @@
   "title": null,
   "text": "Every marking material submitted for approval shall bear:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -711,7 +793,9 @@
   "title": null,
   "text": "The trade name or trade mark of the applicant;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -728,7 +812,9 @@
   "title": null,
   "text": "An orientation mark \"TOP\" which must be inscribed on any marking material whose retro-reflective system is not omnirotational at least: (a) on strips in a 0.5 m distance, (b) on areas within 100 x 100 mm2 .",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -745,7 +831,9 @@
   "title": null,
   "text": "The marks shall be clearly legible on the outside of the marking material and shall be indelible.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -762,7 +850,9 @@
   "title": "APPROVAL",
   "text": "APPROVAL",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -779,7 +869,9 @@
   "title": null,
   "text": "If the retro-reflective marking material submitted for approval in accordance with paragraph 4 above meets the requirements of this Regulation, approval for this type of marking material shall be granted.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -796,7 +888,9 @@
   "title": null,
   "text": "An approval number shall be assigned to each type approved. Its first two digits (at present 00 for the Regulation in its original form) shall indicate the series of amendments incorporating the most recent major technical amendments made to the Regulation at the time of issue of the approval. The same Contracting Party may not assign the same number to another type of retro-reflective marking material.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -813,7 +907,9 @@
   "title": null,
   "text": "Notice of approval or refusal or extension of approval of a type of marking material under this Regulation shall be communicated to the Parties to the 1958 Agreement which apply this Regulation by means of a communication form conforming to the model in Annex 2 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -830,7 +926,9 @@
   "title": null,
   "text": "Every marking material conforming to a type approved under this Regulation shall bear, in addition to the marks prescribed in paragraph 4.1., a clearly legible and indelible international approval mark consisting of:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -847,7 +945,9 @@
   "title": null,
   "text": "A circle surrounding the letter \"E\" followed by the distinguishing number of the country which has granted approval.2 / > 2/1 for Germany, 2 for France, 3 for Italy, 4 for the Netherlands, 5 for Sweden, 6 for Belgium, 7 for Hungary, 8 for the Czech Republic, 9 for Spain, 10 for Yugoslavia, 11 for the United Kingdom, 12 for Austria, 13 for Luxembourg, 14 for Switzerland, 15 (vacant), 16 for Norway, 17 for Finland, 18 for Denmark, 19 for Romania, 20 for Poland, 21 for Portugal, 22 for the Russian Federation, 23 for Greece, 24 for Ireland, 25 for Croatia, 26 for Slovenia, 27 for Slovakia, 28 for Belarus, 29 for Estonia, 30 (vacant), 31 for Bosnia and Herzegovina, 32 for Latvia, 33 (vacant), 34 for Bulgaria, 35 (vacant), 36 for Lithuania,37 for Turkey, 38 (vacant), 39 Azerbaijan, 40 for The former Yugoslav Republic of Macedonia, 41 (vacant), 42 for the European Community (Approvals are granted by its Member States using their respective UNECE symbol), 43 for Japan, 44 (vacant), 45 for Australia, 46 for Ukraine, 47 for Republic of South Africa, 48 for New Zealand, 49 for Cyprus, 50 for Malta, 51 for Republic of Korea, 52 for Malaysia, 53 for Thailand, 54 and 55 (vacant), 56 for Montenegro, 57 (vacant) and 58 for Tunisia. Subsequent numbers shall be assigned to other countries in the chronological order in which they ratify or accede to the Agreement Concerning the Adoption of Uniform Technical Prescriptions for Wheeled Vehicles, Equipment and Parts which can be Fitted and/or be Used on Wheeled Vehicles and the Conditions for Reciprocal Recognition of Approvals Granted on the Basis of these Prescriptions, and the numbers thus assigned shall be communicated by the Secretary-General of the United Nations to the Contracting Parties to the Agreement.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -864,7 +964,9 @@
   "title": null,
   "text": "The number of this Regulation, followed by the letter \"R\", a dash and the approval number according to paragraph 5.2.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -881,7 +983,9 @@
   "title": null,
   "text": "The following additional symbols indicating the class of material:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -898,7 +1002,9 @@
   "title": null,
   "text": "\"C\" for material for contour/strip marking;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -915,7 +1021,9 @@
   "title": null,
   "text": "\"D\" for material for distinctive markings/graphics intended for a limited area;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -932,7 +1040,9 @@
   "title": null,
   "text": "\"E\" for material for distinctive markings/graphics for extended area;",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -949,7 +1059,9 @@
   "title": null,
   "text": "\"D/E\" for materials for distinctive markings or graphics as base or background in printing process for fully coloured logos and markings of class \"E\" in use which fulfil the requirements of class \"D\" materials.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -966,7 +1078,9 @@
   "title": null,
   "text": "\"F\" for materials for extremities marking with red and white retro-reflective alternative stripes.\"",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -983,7 +1097,9 @@
   "title": null,
   "text": "The approval mark shall be visible and clearly legible on the outside of the marking material and shall be indelible and positioned at least once (a) at 0.5 m intervals on strips, (b) on areas within 100 x 100 mm2 .",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1000,7 +1116,9 @@
   "title": null,
   "text": "Annex 3 to this Regulation gives an example of the arrangement of the approval mark.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1017,7 +1135,9 @@
   "title": null,
   "text": "GENERAL SPECIFICATIONS The requirements contained in sections 5. \"General specifications\" and 6. \"Individual specifications\" and in the Annexes referenced in the said sections of Regulations Nos. 48 or 86, and their series of amendments in force at the time of application for the retro-reflective marking material type approval shall apply to this Regulation. The requirements pertinent to each retro-reflective marking material and to the category/ies of vehicle on which the retro-reflective marking material is intended to be installed shall be applied, where its verification at the moment of retro-reflective marking material type approval is feasible.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1034,7 +1154,9 @@
   "title": null,
   "text": "Retro-reflective marking materials shall be that way constructed that they function satisfactorily and will continue to do so in normal use. In addition, they shall not have any defect in design or manufacture that is detrimental to their efficient operation or to their maintenance in good condition.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1051,7 +1173,9 @@
   "title": null,
   "text": "Retro-reflective marking materials or parts thereof shall not be capable of being easily dismantled.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1068,7 +1192,9 @@
   "title": null,
   "text": "The means of attachment of the marking materials shall be durable and stable.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1085,7 +1211,9 @@
   "title": null,
   "text": "The outer surface of the retro-reflective marking materials shall be easy to be cleaned. The surface shall therefore not be rough and any protuberances they may exhibit shall not prevent easy cleaning.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1102,7 +1230,9 @@
   "title": "SPECIAL SPECIFICATIONS",
   "text": "SPECIAL SPECIFICATIONS",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1119,7 +1249,9 @@
   "title": null,
   "text": "Retro-reflective marking materials shall also satisfy the conditions as to shape and dimensions, and the colorimetric, photometric, physical and mechanical requirements set forth in Annexes 5 to 8 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1136,7 +1268,9 @@
   "title": null,
   "text": "Advertising, consisting of retro-reflective logos, distinctive markings or letters/characters has to be decent. It may consist of marking materials of class \"D\" if the total retro-reflective area is less than 2 m2 ; if the total retroreflective area is at least 2 m2 class \"E\" shall be used.3 / 3/Nothing in this Regulation shall preclude the national authorities to prohibit the use of retro-reflective advertising, logos, distinctive markings, letters/characters as defined in paragraph 2.1.2. of this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1153,7 +1287,9 @@
   "title": null,
   "text": "For class \"D\" marking materials the maximum values of the coefficient of retro-reflection are less or equal to the value defined in Annex 7, table 2, and are intended to be used in distinctive markings, graphics.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1170,7 +1306,9 @@
   "title": null,
   "text": "For class \"E\" marking materials the maximum values of the coefficient of retro-reflection are less or equal to 33 per cent of the values defined in Annex 7, table 2.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1187,7 +1325,9 @@
   "title": null,
   "text": "White retro-reflective marking materials intended as base or background in printing processes for fully coloured logos and markings of class \"E\" in use, without unprinted blank areas, may fulfil the requirements in Annex 7, table 2, for class \"D\" materials and must be marked as class \"D/E\".",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1204,7 +1344,9 @@
   "title": null,
   "text": "Depending on the nature of retro-reflective marking material, the competent authorities may authorize laboratories to omit certain unnecessary tests, provided that such omission is mentioned under \"Remarks\" on the form notifying approval.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1221,7 +1363,9 @@
   "title": "MODIFICATIONS AND EXTENSION OF APPROVAL FOR RETROREFLECTIVE MARKING MATERIALS",
   "text": "MODIFICATIONS AND EXTENSION OF APPROVAL FOR RETROREFLECTIVE MARKING MATERIALS",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -1238,7 +1382,9 @@
   "title": null,
   "text": "Every modification of the retro-reflective marking material shall be notified to the administrative department which granted the type approval. The department may then: 8.1.1. either consider that the modifications made are unlikely to have appreciable adverse effects and that in any case the type of device still complies with the requirements; 8.1.2. or require a further test report from the technical service responsible for conducting the tests.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -1255,7 +1401,9 @@
   "title": null,
   "text": "Confirmation or refusal of approval, specifying the alterations, shall be notified by the procedure specified in paragraph 5.3. above to the parties to the Agreement applying this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -1272,7 +1420,9 @@
   "title": null,
   "text": "The Competent Authority issuing the extension of approval shall assign a series number to each communication form drawn up for such an extension.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -1289,7 +1439,9 @@
   "title": null,
   "text": "CONFORMITY OF PRODUCTION The conformity of production procedures shall comply with those set out in the Agreement, Appendix 2 (E/ECE/324-E/ECE/TRANS/505/Rev.2), with the following requirements:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1306,7 +1458,9 @@
   "title": null,
   "text": "Any retro-reflective marking material approved to this Regulation shall be so manufactured as to conform to the type approved by meeting the requirements set forth in paragraphs 6 and 7 above.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -1323,7 +1477,9 @@
   "title": null,
   "text": "The conformity of production shall not be contested if the mean value of the photometric measurements of five specimens taken at random deviates unfavourably by not more than 20 per cent from the prescribed values given in Annex 7 of this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -1340,7 +1496,9 @@
   "title": null,
   "text": "The conformity of production shall not be contested, if the mean value of the colorimetric properties of five specimens taken at random meet the specifications of Annex 6 of this Regulation, to be judged by visual inspection.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -1357,7 +1515,9 @@
   "title": null,
   "text": "The authority which has granted type approval may at any time verify the conformity control methods applied in each production facility. The normal frequency of these verifications shall be once every two years.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -1374,7 +1534,9 @@
   "title": "PENALTIES FOR NON-CONFORMITY OF PRODUCTION",
   "text": "PENALTIES FOR NON-CONFORMITY OF PRODUCTION",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -1391,7 +1553,9 @@
   "title": null,
   "text": "The approval granted in respect of a type of retro-reflective marking material pursuant to this Regulation may be withdrawn if the requirements set forth above are not met or if a retro-reflective marking material bearing the approval mark does not conform to the type approved.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -1408,7 +1572,9 @@
   "title": null,
   "text": "If a Contracting Party to the Agreement applying this Regulation withdraws an approval it has previously granted, it shall forthwith so notify the other Contracting Parties applying this Regulation, by means of a communication form conforming to the model in Annex 2 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -1425,7 +1591,9 @@
   "title": null,
   "text": "PRODUCTION DEFINITELY DISCONTINUED If the holder of an approval completely ceases to manufacture a retro-reflective marking material approved in accordance with this Regulation, he shall so inform the authority which granted the approval. Upon receiving the relevant communication, that authority shall inform the other parties applying this Regulation by means of a communication form conforming to the model in Annex 2 to this Regulation.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1442,7 +1610,9 @@
   "title": null,
   "text": "NAMES AND ADDRESSES OF TECHNICAL SERVICES RESPONSIBLE FOR CONDUCTING APPROVAL TESTS AND OF ADMINISTRATIVE DEPARTMENTS The Contracting Parties to the Agreement applying this Regulation shall communicate to the United Nations Secretariat the names and addresses of the Technical Services responsible for conducting approval tests and of the Administrative Departments which grant approval and to which forms certifying approval or extension or refusal or withdrawal of approval, or production definitely discontinued issued in other countries, are to be sent. Annex 1 Figure 1 THE CIE CO-ORDINATE SYSTE\n|1: First Axis|I: Illumination Axis|α: Observation angle|\n|---|---|---|\n|2:|Second Axis|O: R:|Observation Axis Reference Axis|ß1, ß2: ε:|Entrance angles Rotation angle|\n|---|---|---|---|---|---|\nThe CIE angular system for specifying and measuring retro-reflective marking materials. The first axis is perpendicular to the plane containing the observation axis and the illumination axis. The second axis is perpendicular both to the first axis and to the reference axis. All axes, angles, and directions of rotation are shown positive.\n|Notes:|(a)|The principle fixed axis is the illumination axis.|\n|---|---|---|\n||(b)|The first axis is fixed perpendicular to the plane containing the observation and illumination axis.|\n||(c)|The reference axis is fixed in the retro-reflective material and moveable with ß1and ß2.|\nFigure 2 GONIOMETER MECHANISM EMBODYING THE CIE ANGULAR SYSTEM\n|1:|First Axis|I:|Illumination Axis|α:|Observation angle|\n|---|---|---|---|---|---|\n|2:|Second Axis|O:|Observation Axis|ß1, ß2:|Entrance angles|\n|||R:|Reference Axis|ε:|Rotation angle|\n|||P:|Retro-reflective material|||\nRepresentation of a Goniometer mechanism embodying the CIE angular system for specifying and measuring retro-reflective materials. All angles and directions of rotation are shown positive.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1459,7 +1629,9 @@
   "title": null,
   "text": "(maximum format: A4 (210 x 297 mm)) issued by: Name of administration: .................................. .................................. concerning: 2/ APPROVAL GRANTED APPROVAL EXTENDED APPROVAL REFUSED APPROVAL WITHDRAWN PRODUCTION DEFINITELY DISCONTINUED of retro-reflective markings of heavy and long vehicles and their trailers, pursuant to Regulation No. 104 Approval No: ...... Extension No:..... 1 Name of the administration. 2 Strike out what does not apply.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -1476,7 +1648,9 @@
   "title": null,
   "text": "Trade name mark of the marking material:......................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -1493,7 +1667,9 @@
   "title": null,
   "text": "Class of the marking material: C/D/E/F2 2 Strike out what does not apply.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -1510,7 +1686,9 @@
   "title": null,
   "text": "Name and address of the manufacturer:.........................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -1527,7 +1705,9 @@
   "title": null,
   "text": "If applicable, name and address of manufacturer's representative:....................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -1544,7 +1724,9 @@
   "title": null,
   "text": "Date on which the marking material was submitted for approval tests:.................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -1561,7 +1743,9 @@
   "title": null,
   "text": "Technical service responsible for carrying out the approval test:..................... 7. Date of test report issued by the technical service:................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -1578,7 +1762,9 @@
   "title": null,
   "text": "Number of test report issued by the technical service:.............................. 9. Remarks:................................................................",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -1595,7 +1781,9 @@
   "title": null,
   "text": "Approval granted/refused/extended/withdrawn 2/ 2 Strike out what does not apply.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -1612,7 +1800,9 @@
   "title": null,
   "text": "Reason(s) for the extension (if applicable):...................................... 12. Place:................................................................... 13. Date:.................................................................... 14. Signature:................................................................ Name: 15. Annexed is a list of documents making up the approval file, deposited with the Competent Authority which granted approval; a copy can be obtained on request.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "COMMUNICATION",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -1629,7 +1819,9 @@
   "title": null,
   "text": "a = 12 mm min. The retro-reflective marking material bearing the above approval mark has been approved in Germany (E1) under approval number 0001148. The first two digits of the approval number indicate that the approval was granted in accordance with the requirements of Regulation No. 104 in its original form. Symbol \"C\" indicates the class of the retro-reflective material which is intended for contour/strip marking. Symbol \"D\" shall indicate material for distinctive markings/graphics intended for a limited area and symbol \"E\" material for distinctive markings/graphics for extended area. Note: The approval number and the additional symbol must be placed close to the circle and either above or below the letter \"E\" or to the left or right of that letter. The digits of the approval number must be on the same side of the letter \"E\" and face in the same direction. The approval number and the additional symbol must be placed diametrically opposite one another. The use of Roman numerals as approval numbers should be avoided so as to prevent any confusion with other symbols. Symbol \"F\" shall indicate material intended for extremities marking.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "ARRANGEMENT OF THE APPROVAL MARK",
+  "section_kind": "administrative"
  },
  {
   "reg": "UN R104",
@@ -1646,7 +1838,9 @@
   "title": "TEST SAMPLES",
   "text": "TEST SAMPLES",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TEST PROCEDURE",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -1663,7 +1857,9 @@
   "title": null,
   "text": "Five test samples representing either strips or planes of retro-reflective marking materials have to be submitted to the test laboratory. In the case of strips, at least a length of 3 meters shall be provided; in the case of planes, at least a surface of 500 mm x 500 mm shall be provided.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TEST PROCEDURE",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -1680,7 +1876,9 @@
   "title": null,
   "text": "The test samples shall be representative of current production, manufactured in accordance with the recommendation of the manufacturer(s) of the retro-reflective marking materials. 1 1Test samples of retro-reflective marking materials shall be applied to edged and degreased aluminum panels of 2 mm thickness and shall be conditioned for 24 hours at 23°C ± 2°C at 50% ± 5% relative humidity prior to testing",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TEST PROCEDURE",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -1697,7 +1895,9 @@
   "title": null,
   "text": "After verification of the general specifications (paragraph 6 of the Regulation) and the specifications of shape and dimensions (Annex 5), the samples shall be subjected to the heat resistance test described in Annex 8 to this Regulation, prior to the tests described in Annexes 6 and 7.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "TEST PROCEDURE",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -1714,7 +1914,9 @@
   "title": null,
   "text": "The photometric and colorimetric measurements may be made on five samples. The mean values should be taken.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TEST PROCEDURE",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -1731,7 +1933,9 @@
   "title": null,
   "text": "For other tests, samples which have not undergone any testing should be used.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "TEST PROCEDURE",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -1748,7 +1952,9 @@
   "title": "SIDE AND REAR MARKING WITH STRIPS",
   "text": "SIDE AND REAR MARKING WITH STRIPS",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "SPECIFICATION OF MARKING DIMENSIONS",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1765,7 +1971,9 @@
   "title": null,
   "text": "General The markings shall be made of strips of retro-reflective material.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "SPECIFICATION OF MARKING DIMENSIONS",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1782,7 +1990,9 @@
   "title": "Dimensions",
   "text": "Dimensions",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "SPECIFICATION OF MARKING DIMENSIONS",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1799,7 +2009,9 @@
   "title": null,
   "text": "The width of a side and/or rear marking material shall be 50 mm +10/-0 mm.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "SPECIFICATION OF MARKING DIMENSIONS",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1816,7 +2028,9 @@
   "title": null,
   "text": "The minimum length of an element of a retro-reflective marking material shall be such that at least one approval mark is visible.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "SPECIFICATION OF MARKING DIMENSIONS",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1833,7 +2047,9 @@
   "title": "Side, rear and/or front marking with strips (Class F)",
   "text": "Side, rear and/or front marking with strips (Class F)",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "SPECIFICATION OF MARKING DIMENSIONS",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1850,7 +2066,9 @@
   "title": null,
   "text": "General The markings shall be made of strips of retro-reflective material.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "SPECIFICATION OF MARKING DIMENSIONS",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1867,7 +2085,9 @@
   "title": "Dimensions",
   "text": "Dimensions",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "SPECIFICATION OF MARKING DIMENSIONS",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1884,7 +2104,9 @@
   "title": null,
   "text": "Class F retro-reflective materials shall consist of red and white diagonal stripes each 100 mm wide sloping outwards and downwards at 45 ̊. The basic standard area is a square of 141 mm in length subdivided diagonally into a white half and red half, which represents one standard area as shown in Figure 3.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "SPECIFICATION OF MARKING DIMENSIONS",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1901,7 +2123,9 @@
   "title": null,
   "text": "The minimum length of an element of a retro-reflective marking material shall incorporate a minimum of 9 standard areas as described in paragraph 2.2.1. above on large vehicles with available mounting space, but may be reduced to a minimum of 4 standard areas on vehicles with limited mounting space. Figure 3. **Retro-reflective material marking of class F**",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "SPECIFICATION OF MARKING DIMENSIONS",
+  "section_kind": "requirement"
  },
  {
   "reg": "UN R104",
@@ -1918,7 +2142,9 @@
   "title": null,
   "text": "Retro-reflective marking materials (class C) shall be white, yellow or red. Retro-reflective distinctive markings and/or graphics (classes D and E) may be of any colour. Retro-reflective marking materials (class F) shall be white and red.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "COLORIMETRIC SPECIFICATIONS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -1937,7 +2163,9 @@
   "tables": [
    "1"
   ],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "COLORIMETRIC SPECIFICATIONS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -1954,7 +2182,9 @@
   "title": null,
   "text": "For class F materials, when measured with a spectrophotometer in accordance with the provisions of CIE document No. 15 (1971) and illuminated with the CIE Standard illuminant D65 at an angle of 45º to the normal and viewed along the normal (45/0 geometry), the colour of the material in new condition shall be within the limits according to paragraph 2.31. of Regulation No. 48.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "COLORIMETRIC SPECIFICATIONS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -1971,7 +2201,9 @@
   "title": null,
   "text": "Luminance factor for red colour shall be ≥ 0.03. For white colour, it shall be ≥ 0.25.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "COLORIMETRIC SPECIFICATIONS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -1988,7 +2220,9 @@
   "title": null,
   "text": "When illuminated with a CIE Standard illuminant A and measured as recommended by CIE publication No. 54, 1982, the coefficient of retro-reflection R' in candelas per m2 per lux (cd/m2 /lux) of the retro-reflective areas in new condition shall be at least as indicated in table 1 for yellow, white and red materials.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "PHOTOMETRIC SPECIFICATIONS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2007,7 +2241,9 @@
   "tables": [
    "1"
   ],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "PHOTOMETRIC SPECIFICATIONS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2024,7 +2260,9 @@
   "title": null,
   "text": "Maximum values for the coefficient of retro-reflection Photometric specifications for distinctive markings or graphics of class D: <u>TABLE 2</u>\n|Maximum values for the Coeff|icient of Re|tro-refle|ction R'|[cd.m|^-2.lx^-1]|\n|---|---|---|---|---|---|\n|Observation angle α [°]|Entr|ance An|gle β (°)|||\n|α = 0,33° (20')|β1|0|0|0|0|\n||β2|5|30|40|60|\n|Any colour||150|65|37|5|\nNote: If the sample is provided with an orientation mark, the specified values must only be observed for this orientation. Test samples without an orientation mark must be observed for values at 0° and 90° orientations as well.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "PHOTOMETRIC SPECIFICATIONS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2041,7 +2279,9 @@
   "title": "Resistance to weathering",
   "text": "Resistance to weathering",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2058,7 +2298,9 @@
   "title": null,
   "text": "Procedure - For each test, two specimens of a sample unit (see paragraph 2.1.4. of this Regulation) are taken. One specimen shall be stored in a dark and dry container for subsequent use as \"reference unexposed specimen\". The second specimen shall be subjected to a source of illumination in accordance with ISO Standard 105 - B02 - 1978, Section 4.3.1; the retro-reflective material shall be exposed until blue standard No. 7 has faded to No. 4 on the grey scale. After the test, the specimen shall be washed in a dilute neutral detergent solution, dried and examined for conformity with the requirements specified in paragraphs 1.2. to 1.4.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2075,7 +2317,9 @@
   "title": null,
   "text": "Visual appearance No area of the exposed specimen shall show any evidence of cracking, scaling, splitting, blistering, delamination, distortion, chalking, staining or corrosion.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2092,7 +2336,9 @@
   "title": null,
   "text": "Colour fastness - The colours of the exposed specimen shall still meet the requirements specified in Annex 6.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2109,7 +2355,9 @@
   "title": null,
   "text": "Effect on the coefficient of retro-reflection of the retro-reflective material:",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2126,7 +2374,9 @@
   "title": null,
   "text": "For this check, measurements shall be made only at an observation angle of α = 20' and an entrance angle of ß2 = 5° by the method given in Annex 7.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2143,7 +2393,9 @@
   "title": null,
   "text": "The coefficient of retro-reflection of the exposed specimen when dry shall be not less than 80 per cent of the value in Annex 7, tables 1 and 2.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2160,7 +2412,9 @@
   "title": "Resistance to corrosion",
   "text": "Resistance to corrosion",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2177,7 +2431,9 @@
   "title": null,
   "text": "A specimen of the sample unit shall be subjected to the action of a saline mist for 48 hours comprising two periods of exposure of 24 hours each, separated by an interval of 2 hours during which the specimen is allowed to dry. The saline mist shall be produced by atomizing at a temperature of 35 ± 2° C a saline solution obtained by dissolving 5 parts by weight of sodium chloride in 95 parts of distilled water containing not more than 0.02 per cent of impurities.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2194,7 +2450,9 @@
   "title": null,
   "text": "Immediately after completion of the test, the sample shall show no sign of corrosion liable to impair the efficiency of the marking.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2211,7 +2469,9 @@
   "title": null,
   "text": "The coefficient of retro-reflection R' of the retro-reflective areas, when measured after a recovery period of 48 hours as specified in paragraph 1 of Annex 7, at an entrance angle of ß2 = 5° and an observation angle of α = 20', shall be not less than the value in Annex 7, table 1 or more than the value in table 2 respectively. Before measuring, the surface shall be cleaned to remove salt deposits from the saline mist.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2228,7 +2488,9 @@
   "title": null,
   "text": "Resistance to fuels A section of a sample unit not less than 300 mm long shall be immersed in a mixture of n-heptane and toluol, 70 per cent and 30 per cent by volume, for one minute. After removal, the surface shall be wiped dry with a soft cloth and shall not show any visible change which would reduce its effective performance.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2245,7 +2507,9 @@
   "title": "Resistance to heat",
   "text": "Resistance to heat",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2262,7 +2526,9 @@
   "title": null,
   "text": "A section of a sample unit not less than 300 mm long shall be kept for 12 hours (in the case of moulded plastics reflectors this time shall be 48 hours) in a dry atmosphere at a temperature of 65 ± 2°C after which the sample shall be allowed to cool for 1 hour at 23 ± 2°C. It shall then be kept for 12 hours at a temperature of -20 ± 2°C.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2279,7 +2545,9 @@
   "title": null,
   "text": "The sample shall be examined after a recovery time of 4 hours under normal laboratory conditions.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2296,7 +2564,9 @@
   "title": null,
   "text": "After this test, no cracking or appreciable distortion of the surface particularly of the optical units, shall be evident.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2313,7 +2583,9 @@
   "title": "Resistance to cleaning",
   "text": "Resistance to cleaning",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2330,7 +2602,9 @@
   "title": "Manual cleaning",
   "text": "Manual cleaning",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2347,7 +2621,9 @@
   "title": null,
   "text": "A test sample smeared with a mixture of detergent lubricating oil and graphite shall be easily cleaned without damage to the retro-reflective surface when wiped with a mild aliphatic solvent such as n-heptane, followed by washing with a neutral detergent.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2364,7 +2640,9 @@
   "title": "Power washing",
   "text": "Power washing",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2381,7 +2659,9 @@
   "title": null,
   "text": "When subjected to a continuous spraying action for 60 seconds on the test component in its normal mounting conditions, a test sample shall show no damage to the retro-reflective surface or delamination from the substrate or separation from the sample mounting surface under the following set-up parameters: (a) Water/wash solution pressure 8 ± 0.2 MPa; (b) Water/wash solution temperature 60° - 5 °C; (c) Water/wash solution flow rate 7 ± 1 l/min; (d) The tip of the cleaning wand to be positioned at distance of 600 ± 20 mm away from the retro-reflective surface; (e) Cleaning wand to be held at no greater angle than 45 degrees from perpendicular to the retro-reflective surface; (f) 40 degree nozzle creating wide fan pattern.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2398,7 +2678,9 @@
   "title": "Stability of photometric properties",
   "text": "Stability of photometric properties",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2415,7 +2697,9 @@
   "title": null,
   "text": "The approval granting authority has the right to test the optical properties stability of a retro-reflecting material in use (when used for marking or as distinctive markings/graphics).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2432,7 +2716,9 @@
   "title": null,
   "text": "The Administrative Departments of Contracting Parties, in which the approval was granted, may undertake the same tests. If \"systematic failures in use\" occur for a type of retro-reflective material, the tested material samples shall be transferred for appraisal to the authority which granted approval.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2449,7 +2735,9 @@
   "title": null,
   "text": "If other criteria are missing, the notation \"systematic failures in use\" for a type of retro-reflective material is to be established according to paragraph 6 of this Regulation.",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2466,7 +2754,9 @@
   "title": "Resistance to penetration of water",
   "text": "Resistance to penetration of water",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2483,7 +2773,9 @@
   "title": null,
   "text": "Sample unit of retro-reflective marking shall be immersed for 10 minutes in water at a temperature of 50 ± 5 °C, the highest point of the upper part of the retro-reflective surface being 20 mm below the surface of the water. This test shall be repeated after turning the sample unit through 180°, so that the retro-reflecting surface is at the bottom and the rear face is covered by about 20 mm of water. The sample unit(s) shall then be immediately immersed in the same conditions in water at a temperature of 25 ± 5 °C.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2500,7 +2792,9 @@
   "title": null,
   "text": "No water must penetrate to the reflecting surface of the sample unit. If visual inspection clearly reveals the presence of water, the retro-reflective marking shall not be considered to have passed the test.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2517,7 +2811,9 @@
   "title": null,
   "text": "If visual inspection does not reveal the presence of water or in case of doubt, the coefficient of retro-reflection R' shall be measured in conformity with Annex 7, the sample unit being first lightly shaken to remove excess water from the outside.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2534,7 +2830,9 @@
   "title": null,
   "text": "Bonding strength (in the case of adhesive materials of Class C).",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2551,7 +2849,9 @@
   "title": null,
   "text": "The adhesion of retro-reflective materials shall be determined after 24 hours curing time by utilising a 90 degree peel on a tensile strength testing machine.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2568,7 +2868,9 @@
   "title": null,
   "text": "The retro-reflective materials shall not be easily removable without damaging the material.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2585,7 +2887,9 @@
   "title": null,
   "text": "The retro-reflective materials shall need a force of at least 10 N per 25 mm width at a constant speed of 300 mm per minute to be removed from their substrate.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2602,7 +2906,9 @@
   "title": "Flexing",
   "text": "Flexing",
   "tables": [],
-  "has_shall": false
+  "has_shall": false,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2619,7 +2925,9 @@
   "title": null,
   "text": "For samples that are to be adhered to a flexible substrate, i.e. tarpaulin, the following shall apply:",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2636,7 +2944,9 @@
   "title": null,
   "text": "A specimen of the sample unit that measures 50 mm by 300 mm shall be bent once lengthwise, around a 3.2 mm mandrel with adhesive contacting the mandrel for a period of 1 second. The test temperature shall be 23 °C ± 2 °C. Note: For ease of testing, spread talcum powder on the adhesive to prevent sticking to the mandrel.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  },
  {
   "reg": "UN R104",
@@ -2653,6 +2963,8 @@
   "title": null,
   "text": "After this test, specimen shall not have cracking of the surface and shall not show any visible change that would reduce its effective performance.",
   "tables": [],
-  "has_shall": true
+  "has_shall": true,
+  "doc_title": "RESISTANCE TO EXTERNAL AGENTS",
+  "section_kind": "test"
  }
 ]
