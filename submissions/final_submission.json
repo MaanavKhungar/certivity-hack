@@ -1,0 +1,3246 @@
+{
+ "team_id": "team-05",
+ "case_id": "heldout-front-bumper",
+ "requirements": [
+  {
+   "id": "R-0001",
+   "text": "For vehicles with a lower bumper height of less than 425 mm, the bumper shall meet the lower legform to bumper requirements of paragraph 4.1.1.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 85,
+    "paragraph": "4.1"
+   }
+  },
+  {
+   "id": "R-0002",
+   "text": "For vehicles with a lower bumper height greater than or equal to 425 mm and less than 500 mm, the bumper shall meet either the requirements of paragraph 4.1.1 (lower legform) or 4.1.2 (upper legform), at the choice of the manufacturer.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 85,
+    "paragraph": "4.1"
+   }
+  },
+  {
+   "id": "R-0003",
+   "text": "For vehicles with a lower bumper height greater than or equal to 500 mm, the bumper shall meet the upper legform to bumper requirements of paragraph 4.1.2.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 85,
+    "paragraph": "4.1"
+   }
+  },
+  {
+   "id": "R-0004",
+   "text": "Where the lower legform to bumper test applies, compliance with the performance requirements of paragraph 5.1.1 shall be verified using the flexible lower legform impactor specified in paragraph 6.3.1.1 and the test procedures specified in paragraph 7.1.1.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 85,
+    "paragraph": "4.1.1"
+   }
+  },
+  {
+   "id": "R-0005",
+   "text": "Where the upper legform to bumper test applies, compliance with the performance requirements of paragraph 5.1.2 shall be verified using the upper legform impactor specified in paragraph 6.3.1.2 and the test procedures specified in paragraph 7.1.2.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 85,
+    "paragraph": "4.1.2"
+   }
+  },
+  {
+   "id": "R-0006",
+   "text": "When tested in accordance with paragraph 7.1.1 (flexible lower legform to bumper), the absolute value of the maximum dynamic medial collateral ligament (MCL) elongation at the knee shall not exceed 22 mm.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 85,
+    "paragraph": "5.1.1"
+   }
+  },
+  {
+   "id": "R-0007",
+   "text": "When tested in accordance with paragraph 7.1.1 (flexible lower legform to bumper), the maximum dynamic anterior cruciate ligament (ACL) and posterior cruciate ligament (PCL) elongation shall not exceed 13 mm.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 85,
+    "paragraph": "5.1.1"
+   }
+  },
+  {
+   "id": "R-0008",
+   "text": "When tested in accordance with paragraph 7.1.1 (flexible lower legform to bumper), the absolute value of dynamic bending moments at the tibia shall not exceed 340 Nm; however, the manufacturer may nominate bumper test widths up to a maximum of 264 mm in total where the absolute value of the tibia bending moment shall not exceed 380 Nm (a Contracting Party may restrict application of this relaxation zone).",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 85,
+    "paragraph": "5.1.1"
+   }
+  },
+  {
+   "id": "R-0009",
+   "text": "When tested in accordance with paragraph 7.1.2 (upper legform to bumper), the instantaneous sum of the impact forces with respect to time shall not exceed 7.5 kN.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 85,
+    "paragraph": "5.1.2"
+   }
+  },
+  {
+   "id": "R-0010",
+   "text": "When tested in accordance with paragraph 7.1.2 (upper legform to bumper), the bending moment on the test impactor shall not exceed 510 Nm.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 85,
+    "paragraph": "5.1.2"
+   }
+  },
+  {
+   "id": "R-0011",
+   "text": "Where the vehicle is tested as a DPPS (deployable pedestrian protection system triggered by the pedestrian impact sensors), the headform test conditions and requirements in Annex 1 shall apply.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 85,
+    "paragraph": "5.2"
+   }
+  },
+  {
+   "id": "R-0012",
+   "text": "Where parts of the bumper module (e.g. upper grille/fascia) lie within the child headform test area, when tested with the child headform in accordance with paragraphs 7.2, 7.3 and, if applicable, Annex 1, the HIC shall comply with paragraph 5.2.3.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 85,
+    "paragraph": "5.2.1"
+   }
+  },
+  {
+   "id": "R-0013",
+   "text": "Where headform tests apply to the front structure, the HIC recorded shall not exceed 1,000 over a minimum of one half of the child headform test area and 1,000 over two thirds of the combined child and adult headform test areas, and the HIC for the remaining areas shall not exceed 1,700 for both headforms.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 85,
+    "paragraph": "5.2.3"
+   }
+  },
+  {
+   "id": "R-0014",
+   "text": "In case there is only a child headform test area, the HIC recorded shall not exceed 1,000 over two thirds of the test area and shall not exceed 1,700 for the remaining area.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 85,
+    "paragraph": "5.2.3"
+   }
+  },
+  {
+   "id": "R-0015",
+   "text": "Either a complete vehicle or a cut-body, adjusted to the conditions of paragraph 6.2.1, shall be used for the test.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 87,
+    "paragraph": "6.2.1"
+   }
+  },
+  {
+   "id": "R-0016",
+   "text": "The vehicle shall be tested in its normal ride attitude, either securely mounted on raised supports or at rest on a flat horizontal surface with the parking brake applied.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 87,
+    "paragraph": "6.2.1.1"
+   }
+  },
+  {
+   "id": "R-0017",
+   "text": "In case a cut-body is used, it shall include all parts of the vehicle front structure (including the complete bumper module), all under-bonnet components and all components behind the windscreen that may be involved in a frontal impact with a vulnerable road user, to demonstrate the performance and interactions of all contributory vehicle components.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 87,
+    "paragraph": "6.2.1.2"
+   }
+  },
+  {
+   "id": "R-0018",
+   "text": "In case a cut-body is used, it shall be securely mounted in the normal vehicle ride attitude.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 87,
+    "paragraph": "6.2.1.2"
+   }
+  },
+  {
+   "id": "R-0019",
+   "text": "All devices designed to protect vulnerable road users when impacted by the vehicle (e.g. a deployable system triggered by the pedestrian impact sensors) shall be correctly activated before and/or be active during the relevant test.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 87,
+    "paragraph": "6.2.2"
+   }
+  },
+  {
+   "id": "R-0020",
+   "text": "The manufacturer shall show that any device designed to protect vulnerable road users will act as intended in a pedestrian impact.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 87,
+    "paragraph": "6.2.2"
+   }
+  },
+  {
+   "id": "R-0021",
+   "text": "Where vehicle components (other than active pedestrian protection devices) could change shape or position and have more than one fixed shape or position (e.g. an openable charging flap or cover), the vehicle shall comply with the components in each fixed shape or position.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 87,
+    "paragraph": "6.2.3"
+   }
+  },
+  {
+   "id": "R-0022",
+   "text": "When tested as a DPPS, the vehicle shall be adjusted as specified in the test procedure defined in Annex 1.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 87,
+    "paragraph": "6.2.4"
+   }
+  },
+  {
+   "id": "R-0023",
+   "text": "In the flexible lower legform to bumper test, the selected target points shall be in the bumper test area.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 100,
+    "paragraph": "7.1.1.1"
+   }
+  },
+  {
+   "id": "R-0024",
+   "text": "In the flexible lower legform to bumper test, the direction of the impact velocity vector shall be in the horizontal plane and parallel to the longitudinal vertical plane of the vehicle, with a tolerance of ± 2° at the time of first contact, and the impactor axis perpendicular to the horizontal plane with a roll and pitch tolerance of ± 2°.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 100,
+    "paragraph": "7.1.1.2"
+   }
+  },
+  {
+   "id": "R-0025",
+   "text": "In the flexible lower legform to bumper test, the bottom of the impactor shall be 75 ± 10 mm above the ground reference plane at the time of first contact with the bumper.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 100,
+    "paragraph": "7.1.1.3"
+   }
+  },
+  {
+   "id": "R-0026",
+   "text": "In the flexible lower legform to bumper test, the impact velocity of the impactor when striking the bumper shall be 11.1 ± 0.2 m/s.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 100,
+    "paragraph": "7.1.1.4"
+   }
+  },
+  {
+   "id": "R-0027",
+   "text": "In the upper legform to bumper test, the selected target points shall be in the bumper test area as defined in paragraph 3.10.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 102,
+    "paragraph": "7.1.2.1"
+   }
+  },
+  {
+   "id": "R-0028",
+   "text": "In the upper legform to bumper test, the direction of impact shall be parallel to the longitudinal axis of the vehicle with the axis of the upper legform vertical at the time of first contact, with a tolerance of ± 2°.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 102,
+    "paragraph": "7.1.2.2"
+   }
+  },
+  {
+   "id": "R-0029",
+   "text": "In the upper legform to bumper test, at the time of first contact the impactor centre line shall be vertically midway between the upper bumper reference line and the lower bumper reference line with a ± 10 mm tolerance, and positioned laterally at the selected impact location with a tolerance of ± 10 mm.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 102,
+    "paragraph": "7.1.2.2"
+   }
+  },
+  {
+   "id": "R-0030",
+   "text": "In the upper legform to bumper test, the impact velocity of the upper legform impactor when striking the bumper shall be 11.1 ± 0.2 m/s.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 102,
+    "paragraph": "7.1.2.3"
+   }
+  },
+  {
+   "id": "R-0031",
+   "text": "Where child headform tests apply, they shall be made to the front structure within the boundaries defined in paragraph 3.13.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 102,
+    "paragraph": "7.3.1"
+   }
+  },
+  {
+   "id": "R-0032",
+   "text": "Where child headform tests apply, the headform velocity at the time of impact shall be 9.7 ± 0.2 m/s.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 103,
+    "paragraph": "7.3.4"
+   }
+  },
+  {
+   "id": "R-0033",
+   "text": "Where child headform tests apply, the direction of impact shall be in the longitudinal vertical plane of the vehicle, downward and rearward, at an angle of 50 ± 2° to the horizontal.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 103,
+    "paragraph": "7.3.5"
+   }
+  },
+  {
+   "id": "R-0034",
+   "text": "For a vehicle fitted with a Deployable Pedestrian Protection System (DPPS) triggered by the pedestrian impact sensors, the vehicle manufacturer shall specify the lowest speed of activation (lower deployment velocity threshold) of the DPPS.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 118,
+    "paragraph": "Annex 1 1.7.1"
+   }
+  },
+  {
+   "id": "R-0035",
+   "text": "For the DPPS system deployment verification, sensor activation tests with the FlexPLI, as specified in paragraph 6.3.1.1 of the Regulation, shall be performed within the detection test area at the DPPS lower deployment velocity threshold, and the DPPS sensing system shall activate the system in these tests.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 118,
+    "paragraph": "Annex 1 1.7.1.1"
+   }
+  },
+  {
+   "id": "R-0036",
+   "text": "For the DPPS sensing system verification, a test with the FlexPLI shall be performed at nominal velocity (11.1 m/s) at the vehicle centreline (Y0), and the DPPS sensing system shall activate the system in this test.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 118,
+    "paragraph": "Annex 1 1.7.2"
+   }
+  },
+  {
+   "id": "R-0037",
+   "text": "If the DPPS is not activated during any of the sensing system verification tests, all headform tests shall be conducted with the DPPS in the undeployed position according to paragraphs 7.2 to 7.4 of the Regulation.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 118,
+    "paragraph": "Annex 1 1.7.4"
+   }
+  },
+  {
+   "id": "R-0038",
+   "text": "For DPPS sensing system verification tests with a stationary vehicle, the vehicle shall be set to the normal running condition as specified by the manufacturer for a vehicle speed corresponding to the particular use case.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 118,
+    "paragraph": "Annex 1 1.7.5"
+   }
+  },
+  {
+   "id": "R-0039",
+   "text": "The DPPS Total Response Time (TRT) shall be confirmed by using the FlexPLI at a vehicle speed of 11.1 m/s and at the vehicle centreline (Y0).",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 118,
+    "paragraph": "Annex 1 2.1"
+   }
+  },
+  {
+   "id": "R-0040",
+   "text": "The DPPS Sensing Time (ST) shall be measured either independently or during a TRT measurement test, at the vehicle speed specified in the Regulation and at the vehicle centreline (Y0).",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 118,
+    "paragraph": "Annex 1 2.2"
+   }
+  },
+  {
+   "id": "R-0041",
+   "text": "If the measured DPPS Sensing Time (ST) is within a tolerance of -5 ms/+3 ms of the value specified by the manufacturer, the manufacturer's value shall be used; otherwise, the measured value shall be used for the test.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 118,
+    "paragraph": "Annex 1 2.2.1"
+   }
+  },
+  {
+   "id": "R-0042",
+   "text": "For dynamic DPPS testing, only the Sensing Time (ST) shall be verified.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 118,
+    "paragraph": "Annex 1 2.2.1"
+   }
+  },
+  {
+   "id": "R-0043",
+   "text": "For ST/TRT verification tests with a stationary vehicle, the vehicle shall be set to the normal running condition as specified by the manufacturer.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 118,
+    "paragraph": "Annex 1 2.2.2"
+   }
+  },
+  {
+   "id": "R-0044",
+   "text": "For DPPS sensing and TRT/ST verification tests with the FlexPLI where the moving vehicle impacts the stationary impactor, the tolerances shall be: target speed ±0.6 m/s and impact accuracy ±50 mm.",
+   "source": {
+    "regulation": "UN GTR 9",
+    "version": "0.3.0",
+    "page": 118,
+    "paragraph": "Annex 1 3"
+   }
+  },
+  {
+   "id": "R-0045",
+   "text": "An approval mark as described in paragraph 5.3. shall be affixed to every ESA conforming to a type approved under this Regulation.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 8,
+    "paragraph": "5.2.2"
+   }
+  },
+  {
+   "id": "R-0046",
+   "text": "The ESA approval mark shall comprise a circle containing the letter \"E\", followed by the distinguishing number of the country granting the approval.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 8,
+    "paragraph": "5.3.1"
+   }
+  },
+  {
+   "id": "R-0047",
+   "text": "The ESA approval mark shall comprise the number of this Regulation (10), followed by the letter \"R\", a dash and the approval number, to the right of the circle.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 8,
+    "paragraph": "5.3.2"
+   }
+  },
+  {
+   "id": "R-0048",
+   "text": "Markings on ESAs in conformity with paragraph 5.3. need not be visible when the ESA is installed in the vehicle.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 8,
+    "paragraph": "5.5"
+   }
+  },
+  {
+   "id": "R-0049",
+   "text": "The ESA(s) shall be designed, constructed and fitted in such a way as to enable the vehicle, in normal conditions of use, to comply with the requirements of this Regulation.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 8,
+    "paragraph": "6.1.1"
+   }
+  },
+  {
+   "id": "R-0050",
+   "text": "The ESA(s) shall be tested for radiated and conducted emissions and for immunity to radiated and conducted disturbances.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 9,
+    "paragraph": "6.1.1.2"
+   }
+  },
+  {
+   "id": "R-0051",
+   "text": "The broadband electromagnetic radiation generated by the ESA representative of its type shall be measured by the method described in Annex 7.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 10,
+    "paragraph": "6.5.1"
+   }
+  },
+  {
+   "id": "R-0052",
+   "text": "ESA broadband radiated emission limit (Annex 7 method): 62 to 52 dB microvolts/m in the 30 to 75 MHz band, decreasing logarithmically with frequency above 30 MHz, and 52 to 63 dB microvolts/m in the 75 to 400 MHz band, increasing logarithmically with frequency above 75 MHz (Appendix 6).",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 10,
+    "paragraph": "6.5.2.1"
+   }
+  },
+  {
+   "id": "R-0053",
+   "text": "ESA broadband radiated emission limit (Annex 7 method): constant 63 dB microvolts/m in the 400 to 1,000 MHz band.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 10,
+    "paragraph": "6.5.2.1"
+   }
+  },
+  {
+   "id": "R-0054",
+   "text": "On the ESA representative of its type, the measured broadband emission values, expressed in dB microvolts/m, shall be below the type approval limits.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 10,
+    "paragraph": "6.5.2.2"
+   }
+  },
+  {
+   "id": "R-0055",
+   "text": "The narrowband electromagnetic radiation generated by the ESA representative of its type shall be measured by the method described in Annex 8.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 10,
+    "paragraph": "6.6.1"
+   }
+  },
+  {
+   "id": "R-0056",
+   "text": "ESA narrowband radiated emission limit (Annex 8 method): 52 to 42 dB microvolts/m in the 30 to 75 MHz band, decreasing logarithmically with frequency above 30 MHz, and 42 to 53 dB microvolts/m in the 75 to 400 MHz band, increasing logarithmically with frequency above 75 MHz (Appendix 7).",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 10,
+    "paragraph": "6.6.2.1"
+   }
+  },
+  {
+   "id": "R-0057",
+   "text": "ESA narrowband radiated emission limit (Annex 8 method): constant 53 dB microvolts/m in the 400 to 1,000 MHz band.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 10,
+    "paragraph": "6.6.2.1"
+   }
+  },
+  {
+   "id": "R-0058",
+   "text": "On the ESA representative of its type, the measured narrowband emission value, expressed in dB microvolts/m, shall be below the type approval limits.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 10,
+    "paragraph": "6.6.2.2"
+   }
+  },
+  {
+   "id": "R-0059",
+   "text": "Where an ESA does not include an electronic oscillator with an operating frequency greater than 9 kHz, it shall be deemed to comply with paragraph 6.6.2. and Annex 8 (narrowband emissions).",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 12,
+    "paragraph": "6.10.1"
+   }
+  },
+  {
+   "id": "R-0060",
+   "text": "The emission of transient conducted disturbances by the ESA on 12/24 V supply lines shall be tested by the method(s) according to ISO 7637-2 as described in Annex 10, for the levels given in Table 1.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 10,
+    "paragraph": "6.7.1"
+   }
+  },
+  {
+   "id": "R-0061",
+   "text": "Maximum allowed positive transient pulse amplitude emitted by the ESA on supply lines: +75 V for 12 V systems, +150 V for 24 V systems.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 10,
+    "paragraph": "6.7.1. Table 1"
+   }
+  },
+  {
+   "id": "R-0062",
+   "text": "Maximum allowed negative transient pulse amplitude emitted by the ESA on supply lines: -100 V for 12 V systems, -450 V for 24 V systems.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 10,
+    "paragraph": "6.7.1. Table 1"
+   }
+  },
+  {
+   "id": "R-0063",
+   "text": "ESAs that are not switched, contain no switches or do not include inductive load need not be tested for transient conducted emission on 12/24 V supply lines and shall be deemed to comply with paragraph 6.7.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 13,
+    "paragraph": "6.10.5"
+   }
+  },
+  {
+   "id": "R-0064",
+   "text": "The immunity to electromagnetic radiation of the ESA representative of its type shall be tested by the method(s) chosen from those described in Annex 9 (stripline, TEM cell, BCI, ALSE/absorber chamber, reverberation chamber).",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 11,
+    "paragraph": "6.8.1"
+   }
+  },
+  {
+   "id": "R-0065",
+   "text": "ESA radiated immunity test severity in over 90 per cent of the 20 to 6,000 MHz band (Table 2a), per chosen method: Stripline 60 V/m (20-400 MHz); TEM cell 75 V/m (20-200 MHz); BCI 60 mA (20-400 MHz); ALSE 30 V/m (80-2,000 MHz) and 10 V/m (2,000-6,000 MHz); Reverberation chamber 21 V/m (LUF-2,000 MHz) and 7 V/m (2,000-6,000 MHz).",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 11,
+    "paragraph": "6.8.2.1. Table 2a"
+   }
+  },
+  {
+   "id": "R-0066",
+   "text": "ESA radiated immunity minimum test level over the whole 20 to 6,000 MHz band (Table 2b), per chosen method: Stripline 50 V/m (20-400 MHz); TEM cell 62.5 V/m (20-200 MHz); BCI 50 mA (20-400 MHz); ALSE 25 V/m (80-2,000 MHz) and 8 V/m (2,000-6,000 MHz); Reverberation chamber 18 V/m (LUF-2,000 MHz) and 6 V/m (2,000-6,000 MHz).",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 11,
+    "paragraph": "6.8.2.1. Table 2b"
+   }
+  },
+  {
+   "id": "R-0067",
+   "text": "During the radiated immunity tests performed in accordance with Annex 9, there shall be no degradation of performance of the ESA's \"immunity related functions\".",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 12,
+    "paragraph": "6.8.2.2"
+   }
+  },
+  {
+   "id": "R-0068",
+   "text": "ESAs with no immunity related functions need not be tested for immunity to radiated disturbances and shall be deemed to comply with paragraph 6.8. and Annex 9.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 13,
+    "paragraph": "6.10.3"
+   }
+  },
+  {
+   "id": "R-0069",
+   "text": "For ESAs containing receivers, loss of function of the receiver during the immunity test, when the test signal is within the receiver bandwidth (RF exclusion band) as specified for the radio service/product in the harmonized international EMC standard, does not necessarily lead to fail criteria.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 13,
+    "paragraph": "6.10.6"
+   }
+  },
+  {
+   "id": "R-0070",
+   "text": "ESAs that are RF transmitters (e.g. radar sensor, active keyless-entry aerial) shall be tested in the transmit mode.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 13,
+    "paragraph": "6.10.7"
+   }
+  },
+  {
+   "id": "R-0071",
+   "text": "For RF transmitting ESAs, wanted emissions within the necessary bandwidth and out-of-band emissions are disregarded for the purpose of this Regulation.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 13,
+    "paragraph": "6.10.7"
+   }
+  },
+  {
+   "id": "R-0072",
+   "text": "For RF transmitting ESAs, spurious emissions (harmonic, parasitic, intermodulation and frequency conversion products) are subject to the emission requirements of this Regulation.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 13,
+    "paragraph": "6.10.7"
+   }
+  },
+  {
+   "id": "R-0073",
+   "text": "The immunity of the ESA to transient disturbances conducted along 12/24 V supply lines shall be tested according to ISO 16750-2 for the starting profile and ISO 7637-2 for pulses 1, 2a, 2b, 3a and 3b, as described in Annex 10, with the test levels given in Tables 3a and 3b.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 12,
+    "paragraph": "6.9.1"
+   }
+  },
+  {
+   "id": "R-0074",
+   "text": "The starting profile shall be assessed according to the functional status classification defined in ISO 16750-1, and the Functional Performance Status Classification (FPSC) of ISO 7637-1 shall be applied for pulses 1, 2a, 2b, 3a and 3b.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 12,
+    "paragraph": "6.9.1"
+   }
+  },
+  {
+   "id": "R-0075",
+   "text": "Where the ESA could be installed in vehicles with internal combustion engines started with a 12 V/24 V starter motor: starting profile immunity at level II (12 V and 24 V systems), 10 pulses; functional status B for ESAs related to immunity related functions which shall be operational during engine start phases, C for other ESAs related to immunity related functions, and D for ESAs not related to immunity related functions.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 12,
+    "paragraph": "6.9.1. Table 3a"
+   }
+  },
+  {
+   "id": "R-0076",
+   "text": "Test pulse 1 immunity: -75 V (12 V system) / -450 V (24 V system), 500 pulses; FPSC III for ESAs related and not related to immunity related functions.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 12,
+    "paragraph": "6.9.1. Table 3b"
+   }
+  },
+  {
+   "id": "R-0077",
+   "text": "Test pulse 2a immunity: +37 V (12 V and 24 V systems), 500 pulses; FPSC I for ESAs related to immunity related functions, III for ESAs not related.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 12,
+    "paragraph": "6.9.1. Table 3b"
+   }
+  },
+  {
+   "id": "R-0078",
+   "text": "Test pulse 2b immunity: +10 V (12 V system) / +20 V (24 V system), 10 pulses; FPSC II for ESAs related to immunity related functions, III for ESAs not related.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 12,
+    "paragraph": "6.9.1. Table 3b"
+   }
+  },
+  {
+   "id": "R-0079",
+   "text": "Test pulse 3a immunity: -112 V (12 V system) / -150 V (24 V system), 1 h; FPSC I for ESAs related to immunity related functions, III for ESAs not related.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 12,
+    "paragraph": "6.9.1. Table 3b"
+   }
+  },
+  {
+   "id": "R-0080",
+   "text": "Test pulse 3b immunity: +75 V (12 V system) / +150 V (24 V system), 1 h; FPSC I for ESAs related to immunity related functions, III for ESAs not related.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 12,
+    "paragraph": "6.9.1. Table 3b"
+   }
+  },
+  {
+   "id": "R-0081",
+   "text": "The ESA immunity test conditions shall be according to ISO 11452-1.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 98,
+    "paragraph": "Annex 9 2.1"
+   }
+  },
+  {
+   "id": "R-0082",
+   "text": "During the immunity test the ESA under test shall be switched on and stimulated to be in normal operation condition, and arranged as defined in Annex 9 unless individual test methods dictate otherwise.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 98,
+    "paragraph": "Annex 9 2.2"
+   }
+  },
+  {
+   "id": "R-0083",
+   "text": "ESA immunity measurements shall be made in the 20 to 6,000 MHz frequency range, with frequency step size and dwell time chosen according to ISO 11452-1.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 98,
+    "paragraph": "Annex 9 3.1"
+   }
+  },
+  {
+   "id": "R-0084",
+   "text": "In the 20 to 400 MHz frequency range, the ESA immunity test signal shall be AM with 1 kHz modulation and 80 per cent modulation depth, unless otherwise agreed between Technical Service and ESA manufacturer.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 98,
+    "paragraph": "Annex 9 3.1"
+   }
+  },
+  {
+   "id": "R-0085",
+   "text": "In the 2,700 to 3,100 MHz frequency range, the ESA immunity test signal shall be PM2 (pulse modulation type 2), Ton 3 µs, period 3,333 µs, unless otherwise agreed between Technical Service and ESA manufacturer.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 98,
+    "paragraph": "Annex 9 3.1"
+   }
+  },
+  {
+   "id": "R-0086",
+   "text": "In the 380 to 2,700 MHz and 3,100 to 6,000 MHz frequency ranges, the ESA immunity test signal shall be PM3 (pulse modulation type 3), Ton 500 µs, period 1,000 µs, unless otherwise agreed between Technical Service and ESA manufacturer.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 98,
+    "paragraph": "Annex 9 3.1"
+   }
+  },
+  {
+   "id": "R-0087",
+   "text": "The ESAs (12/24 V) shall be immune to test pulse 1 according to ISO 7637-2 applied to the supply lines and to other connections of the ESA which may be operationally connected to supply lines.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 108,
+    "paragraph": "Annex 10 2"
+   }
+  },
+  {
+   "id": "R-0088",
+   "text": "The ESAs (12/24 V) shall be immune to test pulse 2a according to ISO 7637-2 applied to the supply lines and to other connections of the ESA which may be operationally connected to supply lines.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 108,
+    "paragraph": "Annex 10 2"
+   }
+  },
+  {
+   "id": "R-0089",
+   "text": "The ESAs (12/24 V) shall be immune to test pulse 2b according to ISO 7637-2 applied to the supply lines and to other connections of the ESA which may be operationally connected to supply lines.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 108,
+    "paragraph": "Annex 10 2"
+   }
+  },
+  {
+   "id": "R-0090",
+   "text": "The ESAs (12/24 V) shall be immune to test pulse 3a according to ISO 7637-2 applied to the supply lines and to other connections of the ESA which may be operationally connected to supply lines.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 108,
+    "paragraph": "Annex 10 2"
+   }
+  },
+  {
+   "id": "R-0091",
+   "text": "The ESAs (12/24 V) shall be immune to test pulse 3b according to ISO 7637-2 applied to the supply lines and to other connections of the ESA which may be operationally connected to supply lines.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 108,
+    "paragraph": "Annex 10 2"
+   }
+  },
+  {
+   "id": "R-0092",
+   "text": "The ESAs (12/24 V) shall be immune to the starting profile according to ISO 16750-2 applied to the supply lines and to other connections operationally connected to supply lines; ESAs exclusively reserved for mounting on electric vehicles (without 12 V/24 V starter motor) are not subject to the starting profile.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 108,
+    "paragraph": "Annex 10 2"
+   }
+  },
+  {
+   "id": "R-0093",
+   "text": "Emission of transient conducted disturbances generated by the ESAs on 12/24 V supply lines shall be measured according to ISO 7637-2 on supply lines and on other connections of the ESA which may be operationally connected to supply lines.",
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "page": 108,
+    "paragraph": "Annex 10 3"
+   }
+  },
+  {
+   "id": "R-0094",
+   "text": "Where the lower bumper height at the test position is less than 425 mm, the bumper shall meet the flexible lower legform to bumper requirements of paragraph 5.1.1.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 18,
+    "paragraph": "5.1"
+   }
+  },
+  {
+   "id": "R-0095",
+   "text": "Where the lower bumper height at the test position is greater than or equal to 425 mm and less than 500 mm, the bumper shall meet either the flexible lower legform requirements of paragraph 5.1.1. or the upper legform to bumper requirements of paragraph 5.1.2., at the choice of the manufacturer.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 18,
+    "paragraph": "5.1"
+   }
+  },
+  {
+   "id": "R-0096",
+   "text": "Where the lower bumper height at the test position is greater than or equal to 500 mm, the bumper shall meet the upper legform to bumper requirements of paragraph 5.1.2.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 18,
+    "paragraph": "5.1"
+   }
+  },
+  {
+   "id": "R-0097",
+   "text": "Flexible lower legform to bumper: when tested in accordance with Annex 5, paragraph 1, the absolute value of the maximum dynamic medial collateral ligament elongation at the knee shall not exceed 22 mm.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 18,
+    "paragraph": "5.1.1"
+   }
+  },
+  {
+   "id": "R-0098",
+   "text": "Flexible lower legform to bumper: when tested in accordance with Annex 5, paragraph 1, the maximum dynamic anterior cruciate ligament and posterior cruciate ligament elongation shall not exceed 13 mm.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 18,
+    "paragraph": "5.1.1"
+   }
+  },
+  {
+   "id": "R-0099",
+   "text": "Flexible lower legform to bumper: when tested in accordance with Annex 5, paragraph 1, the absolute value of dynamic bending moments at the tibia shall not exceed 340 Nm; however, the manufacturer may nominate bumper test widths up to a maximum of 264 mm in total where the absolute value of the tibia bending moment shall not exceed 380 Nm (relaxation zone, which a Contracting Party may restrict in its domestic legislation).",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 18,
+    "paragraph": "5.1.1"
+   }
+  },
+  {
+   "id": "R-0100",
+   "text": "Upper legform to bumper: when tested in accordance with Annex 5, paragraph 2, the instantaneous sum of the impact forces with respect to time shall not exceed 7.5 kN.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 19,
+    "paragraph": "5.1.2"
+   }
+  },
+  {
+   "id": "R-0101",
+   "text": "Upper legform to bumper: when tested in accordance with Annex 5, paragraph 2, the bending moment on the test impactor shall not exceed 510 Nm.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 19,
+    "paragraph": "5.1.2"
+   }
+  },
+  {
+   "id": "R-0102",
+   "text": "Where parts of the bumper module (e.g. bumper top edge, grille, decorative lighting surround) lie within the bonnet top test area, when tested with the child and adult headforms in accordance with Annex 5, paragraphs 3, 4 and 5, the HIC recorded shall not exceed 1,000 over two thirds of the combined bonnet top test area and windscreen test area, and shall not exceed 1,000 over two thirds of the bonnet top test area.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 19,
+    "paragraph": "5.2.1"
+   }
+  },
+  {
+   "id": "R-0103",
+   "text": "Where parts of the bumper module lie within the headform test area, the HIC for the remaining test areas (outside the two-thirds HIC 1,000 area) shall not exceed 1,700 for both child and adult headforms when tested in accordance with Annex 5, paragraphs 3, 4 and 5.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 19,
+    "paragraph": "5.2.1"
+   }
+  },
+  {
+   "id": "R-0104",
+   "text": "In case there is only a child headform test area and parts of the bumper module lie within it, the HIC recorded shall not exceed 1,000 over two thirds of the test area and shall not exceed 1,700 for the remaining area.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 19,
+    "paragraph": "5.2.1"
+   }
+  },
+  {
+   "id": "R-0105",
+   "text": "Where parts of the bumper module lie within the child headform test area, when tested in accordance with Annex 5, paragraphs 3 and 4, the child headform HIC recorded shall not exceed 1,000 over a minimum of one half of the child headform test area and shall not exceed 1,700 for the remaining areas.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 19,
+    "paragraph": "5.2.2"
+   }
+  },
+  {
+   "id": "R-0106",
+   "text": "Where a complete vehicle is used, the vehicle carrying the bumper module shall be in its normal ride attitude during the test, either securely mounted on raised supports or at rest on a flat horizontal surface with the parking brake applied.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 26,
+    "paragraph": "Annex 3 3.1.1"
+   }
+  },
+  {
+   "id": "R-0107",
+   "text": "Where a cut-body is used, the cut-body shall include in the test all parts of the vehicle front structure (including the complete bumper module with fascia, absorber, beam, lower stiffener and all attachments), all under-bonnet components and all components behind the windscreen that may be involved in a frontal impact with a vulnerable road user.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 26,
+    "paragraph": "Annex 3 3.1.2"
+   }
+  },
+  {
+   "id": "R-0108",
+   "text": "Where a cut-body is used, the cut-body shall be securely mounted in the normal vehicle ride attitude.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 26,
+    "paragraph": "Annex 3 3.1.2"
+   }
+  },
+  {
+   "id": "R-0109",
+   "text": "Where a deployable pedestrian protection system triggered by the bumper pedestrian impact sensors is fitted, all devices designed to protect vulnerable road users when impacted by the vehicle shall be correctly activated before and/or be active during the relevant test.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 26,
+    "paragraph": "Annex 3 3.2"
+   }
+  },
+  {
+   "id": "R-0110",
+   "text": "Where a deployable pedestrian protection system is fitted, the manufacturer shall show that the devices (including the pedestrian impact sensors in the bumper) will act as intended in a pedestrian impact.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 26,
+    "paragraph": "Annex 3 3.2"
+   }
+  },
+  {
+   "id": "R-0111",
+   "text": "Where a component of the bumper module, other than an active device to protect pedestrians, could change shape or position and has more than one fixed shape or position, the vehicle shall comply with the requirements with the component in each fixed shape or position.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 26,
+    "paragraph": "Annex 3 3.3"
+   }
+  },
+  {
+   "id": "R-0112",
+   "text": "For the flexible lower legform to bumper test, the selected measuring points shall be in the bumper test area as defined in paragraph 2.14 of the Regulation.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 33,
+    "paragraph": "Annex 5 1.4"
+   }
+  },
+  {
+   "id": "R-0113",
+   "text": "A minimum of three flexible lower legform to bumper tests shall be carried out, one each to the middle and the outer thirds of the bumper test area, at positions judged to be the most likely to cause injury.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 33,
+    "paragraph": "Annex 5 1.5"
+   }
+  },
+  {
+   "id": "R-0114",
+   "text": "Flexible lower legform to bumper tests shall be made to different types of bumper structure, where they vary throughout the area to be assessed, with selected test points a minimum of 84 mm apart measured horizontally and perpendicular to the longitudinal median plane of the vehicle.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 33,
+    "paragraph": "Annex 5 1.5"
+   }
+  },
+  {
+   "id": "R-0115",
+   "text": "In the flexible lower legform to bumper test, the direction of the impact velocity vector shall be in the horizontal plane and parallel to the longitudinal vertical plane of the vehicle, with a tolerance of ±2° at the time of first contact.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 33,
+    "paragraph": "Annex 5 1.6"
+   }
+  },
+  {
+   "id": "R-0116",
+   "text": "In the flexible lower legform to bumper test, the bottom of the impactor (without parts needed for launching and/or protection) shall be at 75 mm ± 10 mm above the ground reference plane at the time of first contact with the bumper.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 33,
+    "paragraph": "Annex 5 1.7"
+   }
+  },
+  {
+   "id": "R-0117",
+   "text": "In the flexible lower legform to bumper test, the impact velocity of the impactor when striking the bumper shall be 11.1 m/s ± 0.2 m/s.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 33,
+    "paragraph": "Annex 5 1.12"
+   }
+  },
+  {
+   "id": "R-0118",
+   "text": "Where the upper legform to bumper test applies (lower bumper reference line of 500 mm or higher, or at the manufacturer's choice between 425 mm and 500 mm), the selected measuring points shall be in the bumper test area as defined in paragraph 2.14 of the Regulation.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 36,
+    "paragraph": "Annex 5 2.4"
+   }
+  },
+  {
+   "id": "R-0119",
+   "text": "Where the upper legform to bumper test applies, a minimum of three upper legform to bumper tests shall be carried out, one each to the middle and the outer thirds of the bumper test area, at positions judged to be the most likely to cause injury.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 36,
+    "paragraph": "Annex 5 2.5"
+   }
+  },
+  {
+   "id": "R-0120",
+   "text": "Where the upper legform to bumper test applies, tests shall be made to different types of bumper structure, where they vary throughout the area to be assessed, with selected measuring points a minimum of 84 mm apart measured horizontally and perpendicular to the longitudinal median plane of the vehicle.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 36,
+    "paragraph": "Annex 5 2.5"
+   }
+  },
+  {
+   "id": "R-0121",
+   "text": "Where the upper legform to bumper test applies, the direction of impact shall be parallel to the longitudinal axis of the vehicle with the axis of the upper legform vertical at the time of first contact, with a tolerance of ±2°.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 36,
+    "paragraph": "Annex 5 2.6"
+   }
+  },
+  {
+   "id": "R-0122",
+   "text": "Where the upper legform to bumper test applies, at the time of first contact the impactor centre line shall be vertically midway between the upper bumper reference line and the lower bumper reference line (±10 mm) and positioned laterally at the selected impact location (±10 mm).",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 36,
+    "paragraph": "Annex 5 2.6"
+   }
+  },
+  {
+   "id": "R-0123",
+   "text": "Where the upper legform to bumper test applies, the impact velocity of the upper legform impactor when striking the bumper shall be 11.1 m/s ± 0.2 m/s.",
+   "source": {
+    "regulation": "UN R127",
+    "version": "4.3.0",
+    "page": 36,
+    "paragraph": "Annex 5 2.7"
+   }
+  },
+  {
+   "id": "R-0124",
+   "text": "The lamp shall comprise a space of sufficient size for the approval marking and the other markings defined in paragraphs 3.3.3.2. to 3.3.3.6.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 6,
+    "paragraph": "3.3.1.1"
+   }
+  },
+  {
+   "id": "R-0125",
+   "text": "All markings on the lamp shall be clearly legible and indelible.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 6,
+    "paragraph": "3.3.1.1.1"
+   }
+  },
+  {
+   "id": "R-0126",
+   "text": "With regard to the size of the approval marking, the value for 'a' shall be at least 5 mm.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 6,
+    "paragraph": "3.3.1.2"
+   }
+  },
+  {
+   "id": "R-0127",
+   "text": "The approval marking shall consist of the approval mark, i.e. a circle surrounding the letter 'E' followed by the distinguishing number of the country which has granted approval.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 7,
+    "paragraph": "3.3.2.1"
+   }
+  },
+  {
+   "id": "R-0128",
+   "text": "The approval marking shall include the four to six-digit sequential number, being part of the approval number prescribed in paragraph 3.2.3.2.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 7,
+    "paragraph": "3.3.2.2"
+   }
+  },
+  {
+   "id": "R-0129",
+   "text": "The four to six-digit sequential number shall be placed close to the approval mark.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 7,
+    "paragraph": "3.3.2.2"
+   }
+  },
+  {
+   "id": "R-0130",
+   "text": "The approval marking shall include the symbols identifying the light-signalling lamp function(s) for which approval has been granted, as prescribed in paragraph 3.2.4.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 7,
+    "paragraph": "3.3.2.3"
+   }
+  },
+  {
+   "id": "R-0131",
+   "text": "The approval marking shall include the number of this Regulation (148) followed by the letter 'R' and the two digits indicating the series of amendments in force at the time of issue of the approval.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 7,
+    "paragraph": "3.3.2.4"
+   }
+  },
+  {
+   "id": "R-0132",
+   "text": "If the lamp cannot be mounted on either side of the vehicle indiscriminately, the approval marking shall include a horizontal arrow showing in which position the lamp is to be mounted.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 7,
+    "paragraph": "3.3.2.5.1"
+   }
+  },
+  {
+   "id": "R-0133",
+   "text": "In the case of a direction indicator of category 1, 1a, 1b (or 11, 11a, 11b, 11c) that cannot be mounted on either side indiscriminately, the horizontal arrow shall be directed outwards from the vehicle.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 7,
+    "paragraph": "3.3.2.5.1.1"
+   }
+  },
+  {
+   "id": "R-0134",
+   "text": "In the case of a direction indicator of category 5 or 6, the horizontal arrow shall be directed towards the front of the vehicle.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 7,
+    "paragraph": "3.3.2.5.1.2"
+   }
+  },
+  {
+   "id": "R-0135",
+   "text": "For a direction indicator of category 6, an indication 'R' or 'L' shall be shown on the lamp, indicating the right or left side of the vehicle.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 7,
+    "paragraph": "3.3.2.5.1.3"
+   }
+  },
+  {
+   "id": "R-0136",
+   "text": "If the lamp has a reduced light distribution (see paragraph 1.1. of Annex 3), it shall bear a vertical arrow starting from a horizontal segment and directed downwards.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 8,
+    "paragraph": "3.3.2.5.3"
+   }
+  },
+  {
+   "id": "R-0137",
+   "text": "The lamp shall bear the approval marking.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 8,
+    "paragraph": "3.3.3.1"
+   }
+  },
+  {
+   "id": "R-0138",
+   "text": "The lamp shall bear the trade name or mark of the applicant.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 8,
+    "paragraph": "3.3.3.2"
+   }
+  },
+  {
+   "id": "R-0139",
+   "text": "In case the lamp has replaceable light source(s) (not required for lamps with non-replaceable light sources), the lamp shall bear a marking indicating the category or categories of light source(s) prescribed.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 8,
+    "paragraph": "3.3.3.3"
+   }
+  },
+  {
+   "id": "R-0140",
+   "text": "Where the lamp has been approved for LED substitute light source(s), the lamp shall also bear a marking indicating the category or categories of the LED substitute light source(s).",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 8,
+    "paragraph": "3.3.3.3"
+   }
+  },
+  {
+   "id": "R-0141",
+   "text": "In the case of a lamp with non-replaceable light sources, an electronic light source control gear, a variable luminous intensity control and/or a secondary operating mode, the lamp shall bear marking of the rated voltage(s) (i.e. 6 V, 12 V or 24 V) or the range of voltage.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 8,
+    "paragraph": "3.3.3.4"
+   }
+  },
+  {
+   "id": "R-0142",
+   "text": "In case replaceable light source module(s) are used, the light source module shall bear the trade name or mark of the applicant.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 8,
+    "paragraph": "3.3.3.5"
+   }
+  },
+  {
+   "id": "R-0143",
+   "text": "In case replaceable light source module(s) are used, the light source module shall bear its specific identification code, comprising the starting letters 'MD' followed by the approval mark without the circle as prescribed in paragraph 3.3.2.1.1.; the approval mark need not be the same as the one on the lamp, but both marks shall be from the same applicant.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 8,
+    "paragraph": "3.3.3.5"
+   }
+  },
+  {
+   "id": "R-0144",
+   "text": "In case several non-identical light source modules are used, the module specific identification code shall be followed by additional symbols or characters.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 8,
+    "paragraph": "3.3.3.5"
+   }
+  },
+  {
+   "id": "R-0145",
+   "text": "In case replaceable light source module(s) are used, the light source module shall bear the rated voltage(s) or the range of voltage.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 8,
+    "paragraph": "3.3.3.5"
+   }
+  },
+  {
+   "id": "R-0146",
+   "text": "In case replaceable light source module(s) are used, the lamp shall bear the specific identification code of the module as prescribed in paragraph 3.3.3.5. (a)(ii).",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 8,
+    "paragraph": "3.3.3.5"
+   }
+  },
+  {
+   "id": "R-0147",
+   "text": "In case replaceable light source module(s) are used, the lamp shall bear the rated voltage(s) or the range of voltage.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 8,
+    "paragraph": "3.3.3.5"
+   }
+  },
+  {
+   "id": "R-0148",
+   "text": "An electronic light source control gear or variable luminous intensity control being part of the lamp but not included in the lamp body shall be marked with its identification number.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 8,
+    "paragraph": "3.3.3.6"
+   }
+  },
+  {
+   "id": "R-0149",
+   "text": "An electronic light source control gear or variable luminous intensity control being part of the lamp but not included in the lamp body shall be marked with the name of the manufacturer.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 8,
+    "paragraph": "3.3.3.6"
+   }
+  },
+  {
+   "id": "R-0150",
+   "text": "The approval marking shall be placed on an inner or outer part (transparent or not) of the lamp which is not designed to be separated from the transparent part of the lamp emitting the light.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 8,
+    "paragraph": "3.3.4.1"
+   }
+  },
+  {
+   "id": "R-0151",
+   "text": "The approval marking, as well as the category or categories of LED substitute light source(s) prescribed, if any, shall be visible when the lamp is fitted on the vehicle or when a movable part such as the hood, boot lid or a door is opened.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 8,
+    "paragraph": "3.3.4.2"
+   }
+  },
+  {
+   "id": "R-0152",
+   "text": "If the outer lens of the lamp is designed to be separated from the main body, the approval marking shall be placed on both the detachable lens and the main body.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 8,
+    "paragraph": "3.3.4.3"
+   }
+  },
+  {
+   "id": "R-0153",
+   "text": "The approval marking and the markings in paragraphs 3.3.3.2., 3.3.3.3., 3.3.3.4., 3.3.3.5. (b) and 3.3.3.6. shall be affixed on the lamp.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 9,
+    "paragraph": "3.3.4.5"
+   }
+  },
+  {
+   "id": "R-0154",
+   "text": "In case replaceable light source modules are used, the markings in paragraph 3.3.3.5. (a) shall be affixed on the light source module (component).",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 9,
+    "paragraph": "3.3.4.6"
+   }
+  },
+  {
+   "id": "R-0155",
+   "text": "The markings in paragraphs 3.3.3.2., 3.3.3.3. (a), 3.3.3.4., 3.3.3.5. and 3.3.3.6. do not need to be visible when the lamp is fitted on the vehicle (paragraph 3.3.4.2. does not apply to them).",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 9,
+    "paragraph": "3.3.4.7"
+   }
+  },
+  {
+   "id": "R-0156",
+   "text": "Where grouped, combined or reciprocally incorporated lamps have been found to comply with several UN Regulations, a single approval mark with the four to six-digit sequential number may be affixed, located anywhere on the lamps, provided that it is visible after installation and no part of the lamps that transmits light can be removed without at the same time removing the approval mark.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 9,
+    "paragraph": "3.3.5.1.2"
+   }
+  },
+  {
+   "id": "R-0157",
+   "text": "In case a single approval mark is used for grouped, combined or reciprocally incorporated lamps, the size of the components of the single approval mark shall not be less than the minimum size required for the smallest of the individual marks by the pertinent UN Regulations under which approval has been granted.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 9,
+    "paragraph": "3.3.5.2"
+   }
+  },
+  {
+   "id": "R-0158",
+   "text": "The requirements of sections 5 'General specifications' and 6 'Individual specifications' (and the Annexes referenced in those sections) of UN Regulation No. 48, in the series of amendments in force at the time of application for lamp type approval, shall apply to the lamp. The requirements pertinent to the lamp and to the vehicle category M1 shall be applied where their verification at the moment of lamp type approval is feasible.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 10,
+    "paragraph": "4.2"
+   }
+  },
+  {
+   "id": "R-0159",
+   "text": "The lamp shall be so designed and constructed that in normal conditions of use, and notwithstanding the vibrations to which it may be subjected in such use, its satisfactory operation remains assured and it retains the characteristics prescribed by UN Regulation No. 148.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 10,
+    "paragraph": "4.3"
+   }
+  },
+  {
+   "id": "R-0160",
+   "text": "On request of the applicant, the internal structure of the optical components and/or the texture of the outer lens inside the apparent surface of the lamp (function) may incorporate only one manufacturer logo built by transparent or non-transparent components, provided that all requirements for the specific function of UN Regulation No. 148 are fulfilled and the conditions of paragraph 4.5.5. (a) to (d) are met.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 11,
+    "paragraph": "4.5.5"
+   }
+  },
+  {
+   "id": "R-0161",
+   "text": "Where a logo is incorporated in the lamp, irrespective of the marking requirements of paragraph 3.3., only the logo of the brand name of the vehicle manufacturer or the body manufacturer is allowed, and this shall be confirmed by the applicant by a statement (paragraph 3.1.2.2. (f)).",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 11,
+    "paragraph": "4.5.5"
+   }
+  },
+  {
+   "id": "R-0162",
+   "text": "Where a logo is incorporated in the lamp, the enclosed light emitting surface of the logo (incorporating transparent and non-transparent components of the logo) in the direction of the reference axis shall not exceed 100 cm2.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 11,
+    "paragraph": "4.5.5"
+   }
+  },
+  {
+   "id": "R-0163",
+   "text": "Where a logo is incorporated in the lamp, notwithstanding paragraph 5.5.2. of UN Regulation No. 48, the logo light emitting surface (incorporating transparent and non-transparent components of the logo) does not have to be symmetrical by itself.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 11,
+    "paragraph": "4.5.5"
+   }
+  },
+  {
+   "id": "R-0164",
+   "text": "A direction indicator lamp shall not incorporate a logo (in case the side lamp provides a direction indicator function, no logo is permitted in that function).",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 11,
+    "paragraph": "4.5.5"
+   }
+  },
+  {
+   "id": "R-0165",
+   "text": "In a single lamp containing more than one light source, a group of light sources wired so that the failure of any one of them causes all of them to stop emitting light shall be considered to be one light source.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 11,
+    "paragraph": "4.6.1.1"
+   }
+  },
+  {
+   "id": "R-0166",
+   "text": "In case of failure of any one light source in a single lamp containing more than one light source (e.g. side marker lamp or category 5/6 side direction indicator), at least one of the following shall apply: (a) the light intensity complies with the minimum intensity required in the pertinent table of standard light distribution in Annex 3 and, when all light sources are illuminated, the maximum intensities are not exceeded; or (b) a signal for activation of a tell-tale indicating failure, as indicated in the relevant paragraphs 6.x.8. of UN Regulation No. 48, is produced, in which case the lamp is only for use on a vehicle fitted with a tell-tale indicating failure (noted in the communication form).",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 11,
+    "paragraph": "4.6.1.2"
+   }
+  },
+  {
+   "id": "R-0167",
+   "text": "In case the lamp is a front direction indicator lamp of category 1, 1a or 1b containing more than one light source, instead of paragraph 4.6.1.2. and in addition to paragraph 4.6.1.1., a signal for activation of the tell-tale prescribed in paragraph 6.5.8. of UN Regulation No. 48 shall be produced on the basis of either: (a) any one light source has failed; (b) in the case of a lamp designed for only two light sources, the intensity in the axis of reference is less than 50 per cent of the minimum intensity required; or (c) as a consequence of a failure of one or more light sources, the intensity in one of the directions H=0°, V=0°; H=20° outwards, V=+5°; H=10° inwards, V=0° (paragraph 2.1. of Annex 3) is less than the minimum intensity required.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 11,
+    "paragraph": "4.6.1.4"
+   }
+  },
+  {
+   "id": "R-0168",
+   "text": "The lamp shall only be equipped with replaceable light source(s) approved according to UN Regulations Nos. 37, 99 and/or 128 (provided that no restriction on the use is made at the time of application for type approval), and/or light source module(s), and/or non-replaceable light source(s).",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 12,
+    "paragraph": "4.7.1"
+   }
+  },
+  {
+   "id": "R-0169",
+   "text": "In case of replaceable UN approved light source(s), the design of the lamp shall be such that the light source(s) can be fixed in no other position but the correct one.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 12,
+    "paragraph": "4.7.2.2"
+   }
+  },
+  {
+   "id": "R-0170",
+   "text": "In case of replaceable UN approved light source(s), the light source holder shall conform to the characteristics given in IEC Publication 60061, applying the holder data sheet relevant to the prescribed light source category.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 12,
+    "paragraph": "4.7.2.2"
+   }
+  },
+  {
+   "id": "R-0171",
+   "text": "In case of replaceable UN approved light source(s) where a category of LED substitute light source is also prescribed, the light source holder shall additionally conform to the IEC 60061 holder data sheet relevant to the category of LED substitute light source.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 12,
+    "paragraph": "4.7.2.2"
+   }
+  },
+  {
+   "id": "R-0172",
+   "text": "The light-signalling device shall not generate radiated or power line disturbances which cause a malfunction of other electric/electronic systems of the vehicle.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 13,
+    "paragraph": "4.7.2.3"
+   }
+  },
+  {
+   "id": "R-0173",
+   "text": "In case of replaceable light source module(s), the design of the light source module shall be such that it can only be fitted in the designated and correct position.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 13,
+    "paragraph": "4.7.2.4"
+   }
+  },
+  {
+   "id": "R-0174",
+   "text": "In case of replaceable light source module(s), the design of the light source module shall be such that it can only be removed with the use of tool(s).",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 13,
+    "paragraph": "4.7.2.4"
+   }
+  },
+  {
+   "id": "R-0175",
+   "text": "In case of replaceable light source module(s), the light source module shall be tamperproof.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 13,
+    "paragraph": "4.7.2.4"
+   }
+  },
+  {
+   "id": "R-0176",
+   "text": "In case of replaceable light source module(s), regardless of the use of tool(s), the light source module shall not be interchangeable with any replaceable UN approved light source and/or with any other replaceable light source module having different characteristics located in the same lamp housing.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 13,
+    "paragraph": "4.7.2.4"
+   }
+  },
+  {
+   "id": "R-0177",
+   "text": "In case of replaceable light source module(s), when the light source module is removed and replaced by another module provided by the applicant bearing the same light source module identification code, the photometric requirements of the device shall be met.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 13,
+    "paragraph": "4.7.2.4"
+   }
+  },
+  {
+   "id": "R-0178",
+   "text": "In the case of replaceable UN approved light sources, all photometric and colorimetric measurements shall be made using standard light sources as specified in R.E.5.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 13,
+    "paragraph": "4.8.1.1"
+   }
+  },
+  {
+   "id": "R-0179",
+   "text": "In the case of a lamp equipped with light source module(s) or non-replaceable light source(s), all photometric and colorimetric measurements shall be made with the light source(s) present in the lamp.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 13,
+    "paragraph": "4.8.1.2"
+   }
+  },
+  {
+   "id": "R-0180",
+   "text": "Where the lamp may be installed on the vehicle in more than one position or in a field of different positions, the photometric measurements shall be repeated for each position or for the extreme positions of the field of the reference axis specified by the manufacturer.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 13,
+    "paragraph": "4.8.1.5"
+   }
+  },
+  {
+   "id": "R-0181",
+   "text": "Where the lamp, at the discretion of the applicant, also has to be approved with LED substitute light source(s), all photometric and colorimetric measurements shall be repeated using the prescribed LED substitute light source(s).",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 13,
+    "paragraph": "4.8.1.6"
+   }
+  },
+  {
+   "id": "R-0182",
+   "text": "If not otherwise specified, the luminous intensities shall be measured with the light source continuously lit.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 14,
+    "paragraph": "4.8.1.7"
+   }
+  },
+  {
+   "id": "R-0183",
+   "text": "In case measurement results are challenged, the intensity requirement for a particular direction of observation shall be deemed satisfied if it is met in a direction deviating by not more than one-quarter of a degree from the direction of observation.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 14,
+    "paragraph": "4.8.1.8.3"
+   }
+  },
+  {
+   "id": "R-0184",
+   "text": "The limits of the apparent surface in the direction of the reference axis of the light-signalling lamp shall be determined; however, in the case of a category 5 or 6 direction indicator, the limits of the light emitting surface shall be determined.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 14,
+    "paragraph": "4.8.1.9"
+   }
+  },
+  {
+   "id": "R-0185",
+   "text": "Unless otherwise specified, the voltage supplied at the lamp for testing shall be 6.75 V (6 V systems), 13.5 V (12 V systems) or 28 V (24 V systems).",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 14,
+    "paragraph": "4.8.2"
+   }
+  },
+  {
+   "id": "R-0186",
+   "text": "In case of a lamp not controlled by an electronic light source control gear or variable intensity control and equipped with light source module(s) or non-replaceable light source(s), the lamp shall be operated for testing as specified by the applicant.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 14,
+    "paragraph": "4.8.2.2"
+   }
+  },
+  {
+   "id": "R-0187",
+   "text": "In case of a lamp not controlled by an electronic light source control gear or variable intensity control and equipped with replaceable UN approved light source(s), the light sources shall be operated at the reference/objective luminous flux, or alternatively at a different luminous flux with a proportional correction of the measured luminous intensities.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 14,
+    "paragraph": "4.8.2.2"
+   }
+  },
+  {
+   "id": "R-0188",
+   "text": "If not otherwise specified, the intensity of light emitted by each of the two samples on the reference axis (HV) shall be not less than the minimum specified in the table of the pertinent function in paragraph 5.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 14,
+    "paragraph": "4.8.3.1"
+   }
+  },
+  {
+   "id": "R-0189",
+   "text": "If not otherwise specified, the intensity of light emitted by each of the two samples shall, in no direction where the lamp is visible, exceed the maximum specified in the table of the pertinent function in paragraph 5.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 14,
+    "paragraph": "4.8.3.1"
+   }
+  },
+  {
+   "id": "R-0190",
+   "text": "If not otherwise specified, the intensity of light emitted by each of the two samples outside the reference axis shall be not less than the product of the minimum specified in the table of the pertinent function in paragraph 5. by the percentage specified in the pertinent light distribution figure in Annex 3 for each direction, or not less than the intensity value specified in that light distribution figure for each direction.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 14,
+    "paragraph": "4.8.3.1"
+   }
+  },
+  {
+   "id": "R-0191",
+   "text": "If not otherwise specified, the intensity of light emitted by each of the two samples within the angles of geometric visibility defined in the tables in Annex 2 shall be not less than the minimum specified in the table of the pertinent function in paragraph 5.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 14,
+    "paragraph": "4.8.3.1"
+   }
+  },
+  {
+   "id": "R-0192",
+   "text": "The provisions of the relevant paragraphs of Annex 3 on local variations of luminous intensity shall be observed.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 14,
+    "paragraph": "4.8.3.1"
+   }
+  },
+  {
+   "id": "R-0193",
+   "text": "Tests for compliance of the luminous intensities shall be carried out according to Annex 8.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 16,
+    "paragraph": "4.8.3.6"
+   }
+  },
+  {
+   "id": "R-0194",
+   "text": "The colour of the light emitted shall be measured inside the field of the light distribution grid defined for the specific function in the relevant paragraph of Annex 3, applying the test procedure of paragraph 4.8.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 16,
+    "paragraph": "4.9"
+   }
+  },
+  {
+   "id": "R-0195",
+   "text": "Outside the field of the light distribution grid, no sharp variation of colour of the light emitted shall be observed.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 16,
+    "paragraph": "4.9"
+   }
+  },
+  {
+   "id": "R-0196",
+   "text": "For lamps (functions) using different light source technologies, the colorimetric characteristics shall be checked for each light source technology separately according to the applicable provisions of paragraphs 4.8.1. and 4.8.2.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 16,
+    "paragraph": "4.9.1"
+   }
+  },
+  {
+   "id": "R-0197",
+   "text": "Side marker lamps (SM1, SM2): the light emitted by each of the two samples supplied shall meet the luminous intensity and standard light distribution requirements in Table 9.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 22,
+    "paragraph": "5.7.1"
+   }
+  },
+  {
+   "id": "R-0198",
+   "text": "Side marker lamp of category SM1: minimum luminous intensity in the axis of reference 4.0 cd (par. 4.8.3.1.(a)); minimum luminous intensity within the standard light distribution 6∙10^-1 cd (par. 4.8.3.1.(c)); maximum luminous intensity 2.50∙10^1 cd (par. 4.8.3.1.(b)); standard light distribution per Figure A3-VII; angles of geometric visibility as defined in Table A2-3 with a minimum luminous intensity of 6∙10^-1 cd (par. 4.8.3.1.(d)).",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 22,
+    "paragraph": "5.7.1. Table 9"
+   }
+  },
+  {
+   "id": "R-0199",
+   "text": "Side marker lamp of category SM2: minimum luminous intensity in the axis of reference 6∙10^-1 cd (par. 4.8.3.1.(a)); minimum luminous intensity within the standard light distribution 6∙10^-1 cd (par. 4.8.3.1.(c)); maximum luminous intensity 2.50∙10^1 cd (par. 4.8.3.1.(b)); standard light distribution per Figure A3-VIII; angles of geometric visibility as defined in Table A2-3 with a minimum luminous intensity of 6∙10^-1 cd (par. 4.8.3.1.(d)).",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 22,
+    "paragraph": "5.7.1. Table 9"
+   }
+  },
+  {
+   "id": "R-0200",
+   "text": "Side marker lamps: the colour of the light emitted shall be amber; however, it can be red only if the rearmost side marker lamp is grouped, combined or reciprocally incorporated with the rear position lamp, rear end-outline marker lamp, rear fog lamp or stop lamp, or is grouped with or has part of the light emitting surface in common with the rear retroreflector.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 23,
+    "paragraph": "5.7.7"
+   }
+  },
+  {
+   "id": "R-0201",
+   "text": "Direction indicator lamps (if the side corner lamp provides a direction indicator function): the light emitted by each of the two samples supplied shall meet the requirements in Table 8, with the minimum luminous intensities fulfilled in the reference axis in the case of direction indicators of categories 1, 1a and 1b.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 20,
+    "paragraph": "5.6.1"
+   }
+  },
+  {
+   "id": "R-0202",
+   "text": "Direction indicator lamps of categories 5 and 6: the light emitted by each of the two samples supplied shall meet the requirements in Table 8, with the minimum luminous intensities fulfilled in direction A according to Annex 2.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 20,
+    "paragraph": "5.6.1"
+   }
+  },
+  {
+   "id": "R-0203",
+   "text": "Direction indicator of category 1: minimum luminous intensity 1.75∙10^2 cd; maximum luminous intensity 1.20∙10^3 cd as a single lamp or 6.00∙10^2 cd as a lamp marked \"D\"; standard light distribution per Figure A3-I; angles of geometric visibility per Table A2-1 with minimum luminous intensity 3∙10^-1 cd.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 20,
+    "paragraph": "5.6.1. Table 8"
+   }
+  },
+  {
+   "id": "R-0204",
+   "text": "Direction indicator of category 1a: minimum luminous intensity 2.50∙10^2 cd; maximum luminous intensity 1.20∙10^3 cd as a single lamp or 6.00∙10^2 cd as a lamp marked \"D\"; standard light distribution per Figure A3-I; angles of geometric visibility per Table A2-1 with minimum luminous intensity 3∙10^-1 cd.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 20,
+    "paragraph": "5.6.1. Table 8"
+   }
+  },
+  {
+   "id": "R-0205",
+   "text": "Direction indicator of category 1b: minimum luminous intensity 4.00∙10^2 cd; maximum luminous intensity 1.20∙10^3 cd as a single lamp or 6.00∙10^2 cd as a lamp marked \"D\"; standard light distribution per Figure A3-I; angles of geometric visibility per Table A2-1 with minimum luminous intensity 7∙10^-1 cd.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 20,
+    "paragraph": "5.6.1. Table 8"
+   }
+  },
+  {
+   "id": "R-0206",
+   "text": "Direction indicator of category 5: minimum luminous intensity 6∙10^-1 cd; maximum luminous intensity 2.80∙10^2 cd as a single lamp or 1.40∙10^2 cd as a lamp marked \"D\"; standard light distribution per Table A2-2; angles of geometric visibility per Table A2-2 with minimum luminous intensity 6∙10^-1 cd.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 20,
+    "paragraph": "5.6.1. Table 8"
+   }
+  },
+  {
+   "id": "R-0207",
+   "text": "Direction indicator of category 6: minimum luminous intensity 5.0∙10^1 cd; maximum luminous intensity 2.80∙10^2 cd as a single lamp or 1.40∙10^2 cd as a lamp marked \"D\"; standard light distribution per Figure A3-IV; no geometric visibility minimum intensity requirement (N.A.).",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 20,
+    "paragraph": "5.6.1. Table 8"
+   }
+  },
+  {
+   "id": "R-0208",
+   "text": "Direction indicator lamps: the intensities shall be measured with the light source(s) continuously alight; however, depending on the construction of the lamp (e.g. use of LEDs or need to avoid overheating), measurement in flashing mode is allowed, switching with a frequency of f = 1.5 ± 0.5 Hz with pulse width greater than 0.3 s measured at 95 per cent peak light intensity; in all other cases the voltage required in paragraph 4.8. shall be switched with rise and fall times shorter than 0.01 s and no overshoot.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 21,
+    "paragraph": "5.6.4"
+   }
+  },
+  {
+   "id": "R-0209",
+   "text": "Direction indicator lamps measured in flashing mode: the reported luminous intensity shall be represented by the maximum intensity.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 21,
+    "paragraph": "5.6.4"
+   }
+  },
+  {
+   "id": "R-0210",
+   "text": "Direction indicator lamps: the colour of the light emitted shall be amber.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 22,
+    "paragraph": "5.6.7"
+   }
+  },
+  {
+   "id": "R-0211",
+   "text": "Lamps shall be so manufactured as to conform to the type approved under this Regulation, including the requirements of paragraph 5.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 27,
+    "paragraph": "6.1"
+   }
+  },
+  {
+   "id": "R-0212",
+   "text": "Conformity of production: no measured value of a production lamp shall deviate unfavourably by more than 20 per cent from the values prescribed in this Regulation; for the minimum values required throughout the fields specified in Annexes 2 and 3 the measured values shall correspond to the values in Table 12.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 27,
+    "paragraph": "6.1.3"
+   }
+  },
+  {
+   "id": "R-0213",
+   "text": "Conformity of production equivalent minimum values (required minimum / 20 per cent equivalent / 30 per cent equivalent): 7∙10^-1 cd / 5∙10^-1 cd / 3∙10^-1 cd; 6∙10^-1 cd / 4∙10^-1 cd / 2∙10^-1 cd; 3∙10^-1 cd / 2∙10^-1 cd / 1∙10^-1 cd; 7∙10^-2 cd / 5∙10^-2 cd / 3∙10^-2 cd; 5∙10^-2 cd / 3∙10^-2 cd / 2∙10^-2 cd.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 27,
+    "paragraph": "6.1.3. Table 12"
+   }
+  },
+  {
+   "id": "R-0214",
+   "text": "The luminous intensities of the side signalling lamp in the various directions of measurement shall be at least the values shown in Figures A3-I to A3-XV, given as a percentage of the minimum intensities required and mathematically rounded down to three significant digits, the direction H = 0°, V = 0° corresponding to the reference axis passing through the centre of reference; however, where the direction indicator or side marker lamp is intended to be installed at a mounting height (H plane specified by the manufacturer) equal to or less than 750 mm above the ground, the photometric intensity is verified only up to an angle of 5° downwards.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 35,
+    "paragraph": "Annex 3 1.1"
+   }
+  },
+  {
+   "id": "R-0215",
+   "text": "Within the field of light distribution shown as a grid, the light intensity of the side signalling lamp in each direction of a part of the field formed by the grid lines shall meet at least the lowest minimum value shown (as a percentage) on the grid lines surrounding the questioned direction.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 35,
+    "paragraph": "Annex 3 1.2"
+   }
+  },
+  {
+   "id": "R-0216",
+   "text": "In case the lamp (function) uses incandescent technology only, the luminous intensities measured after photometric stability shall comply with the minimum and maximum requirements.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 47,
+    "paragraph": "Annex 8 1.1"
+   }
+  },
+  {
+   "id": "R-0217",
+   "text": "For the side marker and direction indicator lamp (functions) using light source technologies other than incandescent technology only, the luminous intensities measured after 1 min and either after 30 minutes of operation or after photometric stability has occurred shall comply with the minimum and maximum requirements.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 47,
+    "paragraph": "Annex 8 1.2.2"
+   }
+  },
+  {
+   "id": "R-0218",
+   "text": "In case the lamp has a direction indicator function, the direction indicator shall be operated in flashing mode (f = 1.5 Hz, duty factor 50 per cent) for the luminous intensity measurements after 1 min and after 30 min or photometric stability.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 47,
+    "paragraph": "Annex 8 1.2.2"
+   }
+  },
+  {
+   "id": "R-0219",
+   "text": "Depending on the light source technology, the luminous intensity distribution of the lamp (function) shall, in addition to paragraph 1 of Annex 8, comply at the point in time after switch ON listed in Table A8-1, referenced to the reference coordinate of the lamp (function).",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 47,
+    "paragraph": "Annex 8 2.1"
+   }
+  },
+  {
+   "id": "R-0220",
+   "text": "In case the side corner lamp is a side marker lamp, the additional luminous intensity check shall be made at 4 seconds after switch ON, reference coordinate HV.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 47,
+    "paragraph": "Annex 8 2.1. Table A8-1"
+   }
+  },
+  {
+   "id": "R-0221",
+   "text": "In case the side corner lamp is a direction indicator of category 1 (1a, 1b), the additional luminous intensity check shall be made at 0.2 seconds after switch ON, reference coordinate HV.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 47,
+    "paragraph": "Annex 8 2.1. Table A8-1"
+   }
+  },
+  {
+   "id": "R-0222",
+   "text": "In case the side corner lamp is a direction indicator of category 5 or 6, the additional luminous intensity check shall be made at 0.2 seconds after switch ON, reference coordinate H5, V0.",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 47,
+    "paragraph": "Annex 8 2.1. Table A8-1"
+   }
+  },
+  {
+   "id": "R-0223",
+   "text": "The provisions of UN R26 shall not apply to those parts of the bumper module's external surface which, with the vehicle in the laden condition and with all doors, windows and access lids etc. in the closed position, are below the floor line.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 4,
+    "paragraph": "5.1.2"
+   }
+  },
+  {
+   "id": "R-0224",
+   "text": "The provisions of UN R26 shall not apply to those parts of the bumper module's external surface which, with the vehicle in the laden condition and with all doors, windows and access lids etc. in the closed position, are so located that, in their static condition as well as when in operation, they cannot be contacted by a sphere 100 mm in diameter.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 4,
+    "paragraph": "5.1.3"
+   }
+  },
+  {
+   "id": "R-0225",
+   "text": "The external surface of the bumper module shall not exhibit, directed outwards, any pointed or sharp parts or any projections of such shape, dimensions, direction or hardness as to be likely to increase the risk or seriousness of bodily injury to a person hit by the external surface or brushing against it in the event of a collision.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 4,
+    "paragraph": "5.2"
+   }
+  },
+  {
+   "id": "R-0226",
+   "text": "The external surface of the bumper module shall not exhibit, directed outwards, any part likely to catch on pedestrians, cyclists or motor cyclists.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 4,
+    "paragraph": "5.3"
+   }
+  },
+  {
+   "id": "R-0227",
+   "text": "No protruding part of the bumper module's external surface (fascia, grille, lamp housings, covers, flaps, sensor covers) shall have a radius of curvature less than 2.5 mm; this does not apply to parts which protrude less than 5 mm, but the outward facing angles of such parts shall be blunted, save where such parts protrude less than 1.5 mm.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 4,
+    "paragraph": "5.4"
+   }
+  },
+  {
+   "id": "R-0228",
+   "text": "Protruding parts of the bumper module's external surface made of a material of hardness not exceeding 60 Shore A may have a radius of curvature less than 2.5 mm, the hardness being measured with the component as installed on the vehicle (or by comparable measurements where the Shore A procedure is impossible).",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 4,
+    "paragraph": "5.5"
+   }
+  },
+  {
+   "id": "R-0229",
+   "text": "Where an added ornament (e.g. emblem/logo) on the fascia projects more than 10 mm from its support (a base being regarded as belonging to the ornament), it shall retract, become detached or bend over under a force of 10 daN exerted at its most salient point in any direction in a plane approximately parallel to the mounting surface, applied with a flat-ended ram of not more than 50 mm diameter (or an equivalent method); this does not apply to ornaments on radiator grilles, to which only the general requirements of paragraph 5 apply.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 5,
+    "paragraph": "6.1.1"
+   }
+  },
+  {
+   "id": "R-0230",
+   "text": "After an added ornament (projecting more than 10 mm, not on the radiator grille) has retracted, become detached or bent over under the 10 daN force, the remaining projections shall not project more than 10 mm.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 5,
+    "paragraph": "6.1.1"
+   }
+  },
+  {
+   "id": "R-0231",
+   "text": "The remaining projections of an added ornament after it has retracted, become detached or bent over shall in any case satisfy the provisions of paragraph 5.2.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 5,
+    "paragraph": "6.1.1"
+   }
+  },
+  {
+   "id": "R-0232",
+   "text": "The requirements of paragraph 5.4 shall not apply to gaps between fixed or movable elements of the bumper module, including those forming part of air intake or outlet grilles and radiator grilles, provided that the distance between consecutive elements, determined according to paragraph 4 of Annex 3, does not exceed 40 mm and the grilles and gaps have a functional purpose.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 5,
+    "paragraph": "6.3.1"
+   }
+  },
+  {
+   "id": "R-0233",
+   "text": "For grille elements and gaps with a distance between consecutive elements of between 40 mm and 25 mm (determined according to paragraph 4 of Annex 3), the radii of curvature shall be 1 mm or more.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 5,
+    "paragraph": "6.3.1"
+   }
+  },
+  {
+   "id": "R-0234",
+   "text": "If the distance between two consecutive elements of a grille or gap is equal to or less than 25 mm (determined according to paragraph 4 of Annex 3), the radii of curvature of the external faces of the elements shall not be less than 0.5 mm.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 5,
+    "paragraph": "6.3.1"
+   }
+  },
+  {
+   "id": "R-0235",
+   "text": "The junction of the front with the side faces of each element forming a grille or gap shall be blunted.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 5,
+    "paragraph": "6.3.2"
+   }
+  },
+  {
+   "id": "R-0236",
+   "text": "The ends of the bumper shall be turned in towards the external surface in order to minimize the risk of fouling; this is considered satisfied if either the bumper is recessed or integrated within the bodywork or the end of the bumper is turned in so that it is not contactable by a 100 mm sphere and the gap between the bumper end and the surrounding bodywork does not exceed 20 mm.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 6,
+    "paragraph": "6.5.1"
+   }
+  },
+  {
+   "id": "R-0237",
+   "text": "If the line of the bumper which corresponds to the outline contour of the car vertical projection is on a rigid surface, that surface shall have a minimum radius of curvature of 5 mm at all its points lying from the contour line to 20 mm inward, within the part of that zone situated between and in front of the tangential points with the contour line of two vertical planes each forming an angle of 15° with the longitudinal plane of symmetry of the vehicle.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 6,
+    "paragraph": "6.5.2"
+   }
+  },
+  {
+   "id": "R-0238",
+   "text": "If the line of the bumper which corresponds to the outline contour of the car vertical projection is on a rigid surface, that surface shall have a minimum radius of curvature of 2.5 mm in all cases other than the 5 mm zone (contour line to 20 mm inward between the 15° tangent planes).",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 6,
+    "paragraph": "6.5.2"
+   }
+  },
+  {
+   "id": "R-0239",
+   "text": "The requirement of paragraph 6.5.2 shall not apply to parts on or of the bumper or to bumper insets which have a projection of less than 5 mm (e.g. joint covers), but the outward facing angles of such parts shall be blunted, save where such parts protrude less than 1.5 mm.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 7,
+    "paragraph": "6.5.3"
+   }
+  },
+  {
+   "id": "R-0240",
+   "text": "The requirement of paragraph 6.5.2 does not apply to the bumper cover (fascia); the provisions of paragraph 5 remain applicable to the bumper cover.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 7,
+    "paragraph": "6.5.4"
+   }
+  },
+  {
+   "id": "R-0241",
+   "text": "The projection of the fuel tank filler cap / cover (EV charging inlet flap integrated in the fascia) shall not exceed 30 mm.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 7,
+    "paragraph": "6.6.1"
+   }
+  },
+  {
+   "id": "R-0242",
+   "text": "Where the lower stiffener or other visible bumper component is made of sheet metal with exposed edges on the external surface, sheet-metal edges shall not be permitted unless they are folded back (by approximately 180°, or towards the bodywork so that they cannot be contacted by a sphere of 100 mm diameter) or are fitted with a shield meeting the requirements of this Regulation applicable to it.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 8,
+    "paragraph": "6.8.1"
+   }
+  },
+  {
+   "id": "R-0243",
+   "text": "Folds in body panels (e.g. the fascia) may have a radius of curvature of less than 2.5 mm provided that it is not less than one-tenth of the height \"H\" of the projection, measured in accordance with paragraph 1 of Annex 3.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 8,
+    "paragraph": "6.9.1"
+   }
+  },
+  {
+   "id": "R-0244",
+   "text": "Where movable air intake or outlet flaps (e.g. active grille shutters) are fitted, they shall meet the requirements of paragraphs 5.2, 5.3 and 5.4 in all positions of use.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 8,
+    "paragraph": "6.12.1"
+   }
+  },
+  {
+   "id": "R-0245",
+   "text": "The supporting bracket provided by the vehicle manufacturer for the front registration plate shall comply with the requirements of paragraph 5.4 if it is contactable by a 100 mm diameter sphere when a registration plate is fitted in accordance with the vehicle manufacturer's recommendation.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 9,
+    "paragraph": "6.15.1"
+   }
+  },
+  {
+   "id": "R-0246",
+   "text": "Where the keyless-entry aerial (or another transmitting/receiving aerial of the module) projects from the external surface, it shall be fitted so that, if its unattached end is less than 2 m from the road surface in any position of use specified by the aerial manufacturer, the unattached end is inside the zone bounded by the vertical planes 10 cm inside the extreme outer edge of the vehicle as defined in paragraph 2.7.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 9,
+    "paragraph": "6.17.1"
+   }
+  },
+  {
+   "id": "R-0247",
+   "text": "Aerials of the bumper module shall be so fitted, and if necessary their unattached ends so restricted, that no part of the aerials protrudes beyond the extreme outer edge of the vehicle as defined in paragraph 2.7.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 9,
+    "paragraph": "6.17.2"
+   }
+  },
+  {
+   "id": "R-0248",
+   "text": "Shafts of aerials may have radii of curvature of less than 2.5 mm; however, the unattached ends shall be fitted with fixed cappings with radii of curvature not less than 2.5 mm.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 9,
+    "paragraph": "6.17.3"
+   }
+  },
+  {
+   "id": "R-0249",
+   "text": "The bases of aerials projecting from the external surface shall not project more than 40 mm when determined according to the procedure of paragraph 2 of Annex 3.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 9,
+    "paragraph": "6.17.4"
+   }
+  },
+  {
+   "id": "R-0250",
+   "text": "Where, due to the absence of a flexible shaft or part, the base of an aerial cannot be identified, the 40 mm base requirement is deemed met if, after a horizontal force of not more than 50 daN in forward and rearward direction is applied by a flat-ended ram of not more than 50 mm diameter at the most salient part of the aerial, either (a) the aerial bends towards the support and does not project more than 40 mm, or (b) the aerial breaks off and the remaining part shows no sharp or dangerous part contactable by the 100 mm sphere and does not project more than 40 mm.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 9,
+    "paragraph": "6.17.4.1"
+   }
+  },
+  {
+   "id": "R-0251",
+   "text": "The dimension of the projection of a component mounted on a convex external surface (e.g. a lamp, sensor cover, flap or aerial on the fascia) may be determined either directly or by reference to a drawing of an appropriate section of the component in its installed condition.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 15,
+    "paragraph": "Annex 3 2.1"
+   }
+  },
+  {
+   "id": "R-0252",
+   "text": "If the dimension of the projection of a component mounted on a surface other than convex cannot be determined by simple measurement, it shall be determined as the maximum variation of the distance of the centre of a 100 mm diameter sphere from the nominal line of the panel when the sphere is moved over and is in constant contact with that component.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 15,
+    "paragraph": "Annex 3 2.2"
+   }
+  },
+  {
+   "id": "R-0253",
+   "text": "The dimension of a gap or of the space between elements of the radiator grille shall be determined as the distance between two planes passing through the points of contact of the sphere and perpendicular to the line joining those points of contact.",
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "page": 15,
+    "paragraph": "Annex 3 4.1"
+   }
+  },
+  {
+   "id": "R-0254",
+   "text": "After each impact test made in accordance with the conditions and procedure specified in Annex 3, the lighting and signalling devices (including the side signalling lamp integrated in the front bumper) shall continue to operate correctly.",
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "page": 3,
+    "paragraph": "6.1.1"
+   }
+  },
+  {
+   "id": "R-0255",
+   "text": "After each impact test made in accordance with the conditions and procedure specified in Annex 3, the lighting and signalling devices (including the side signalling lamp integrated in the front bumper) shall remain visible.",
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "page": 3,
+    "paragraph": "6.1.1"
+   }
+  },
+  {
+   "id": "R-0256",
+   "text": "After each impact test according to Annex 3, the requirement that the vehicle's propulsion, suspension, steering and braking systems remain in adjustment and operate in a normal manner does not apply to sensors, cameras, radar devices, etc. being part of driver assist systems; these may become damaged, disoriented or broken due to an impact carried out according to Annex 3 as long as the basic braking and steering performance are still intact.",
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "page": 3,
+    "paragraph": "6.1.5"
+   }
+  },
+  {
+   "id": "R-0257",
+   "text": "In both vehicle-loading conditions (unladen weight and laden test weight), the front protective device between the vehicle corners (as defined in paragraph 3.1.5.) shall be intersected by the horizontal plane passing through the impactor reference line at the reference height of 445 mm.",
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "page": 7,
+    "paragraph": "Annex 3 2.3.5"
+   }
+  },
+  {
+   "id": "R-0258",
+   "text": "In the low-speed impact tests of Annex 3, the first contact of the impactor with the vehicle shall be by the impact contour on the front protective device.",
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "page": 7,
+    "paragraph": "Annex 3 2.3.5"
+   }
+  },
+  {
+   "id": "R-0259",
+   "text": "In the low-speed impact tests of Annex 3, the effective mass of the impactor shall be equal to the mass corresponding to the unladen weight of the vehicle to be tested.",
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "page": 7,
+    "paragraph": "Annex 3 2.3.3"
+   }
+  },
+  {
+   "id": "R-0260",
+   "text": "The front protective device shall withstand the longitudinal impact test consisting of two impacts on the front surface of the vehicle: one with the vehicle at unladen weight (paragraph 3.1.3.) and one with the vehicle at laden test weight (paragraph 3.1.4.).",
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "page": 7,
+    "paragraph": "Annex 3 2.7.1"
+   }
+  },
+  {
+   "id": "R-0261",
+   "text": "For the longitudinal impacts on the front surface, the location of the first impact is free, but for the second impact the median plane of the impactor shall be at least 300 mm from the first, provided that the extremities of the impactor do not pass outside the zone defined by two planes parallel to the longitudinal median plane passing through the vehicle corners.",
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "page": 7,
+    "paragraph": "Annex 3 2.7.2"
+   }
+  },
+  {
+   "id": "R-0262",
+   "text": "For the longitudinal impact test, the impactor is placed with plane A vertical and the reference line horizontal at the reference height of 445 mm, with the vehicle's longitudinal median plane perpendicular to plane A and a point between the vehicle corners touching the impactor.",
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "page": 7,
+    "paragraph": "Annex 3 2.7.3"
+   }
+  },
+  {
+   "id": "R-0263",
+   "text": "In the longitudinal impact test, the front of the vehicle is impacted at a speed of 4 km/h +0.25/-0 km/h.",
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "page": 7,
+    "paragraph": "Annex 3 2.7.5"
+   }
+  },
+  {
+   "id": "R-0264",
+   "text": "The front protective device shall withstand the corner impact test consisting of an impact at one front corner with the vehicle at unladen weight (paragraph 3.1.3.) and an impact at the other front corner with the vehicle at laden test weight (paragraph 3.1.4.).",
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "page": 8,
+    "paragraph": "Annex 3 2.8.1"
+   }
+  },
+  {
+   "id": "R-0265",
+   "text": "For the corner impact test, the impactor is placed with plane A vertical and the reference line horizontal at the reference height of 445 mm.",
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "page": 8,
+    "paragraph": "Annex 3 2.8.2"
+   }
+  },
+  {
+   "id": "R-0266",
+   "text": "In the corner impact test, plane A of the impactor shall make an angle of 60 ± 5° with the longitudinal median plane of the vehicle, with a vehicle corner touching the impactor.",
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "page": 8,
+    "paragraph": "Annex 3 2.8.3"
+   }
+  },
+  {
+   "id": "R-0267",
+   "text": "In the corner impact test, the point of first contact shall be in the vertical median plane of the impactor within a tolerance of ± 25 mm.",
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "page": 8,
+    "paragraph": "Annex 3 2.8.3"
+   }
+  },
+  {
+   "id": "R-0268",
+   "text": "In the corner impact test, the front corner of the vehicle is impacted at a speed of 2.5 km/h +0.1/-0 km/h.",
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "page": 8,
+    "paragraph": "Annex 3 2.8.4"
+   }
+  },
+  {
+   "id": "R-0269",
+   "text": "The protective devices and the mountings attaching them to the vehicle structure may be repaired or replaced between the tests.",
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "page": 8,
+    "paragraph": "Annex 3 3.1"
+   }
+  },
+  {
+   "id": "R-0270",
+   "text": "If the protective devices include self-restoring materials (e.g. energy-absorbing foam), the permitted recovery time between tests shall be as stated by the manufacturer.",
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "page": 8,
+    "paragraph": "Annex 3 3.2"
+   }
+  },
+  {
+   "id": "R-0271",
+   "text": "If the test has been carried out at an impact speed or with an impact mass exceeding those indicated in paragraphs 2.7.5. and 2.8.4. of Annex 3 and the vehicle has satisfied the prescribed conditions, the test is considered satisfactory.",
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "page": 8,
+    "paragraph": "Annex 3 3.5"
+   }
+  },
+  {
+   "id": "R-0272",
+   "text": "Other equivalent test methods are permitted provided that the conditions referred to in this Regulation can be observed and their equivalence can be demonstrated.",
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "page": 8,
+    "paragraph": "Annex 3 4.1"
+   }
+  },
+  {
+   "id": "R-0273",
+   "text": "The side-marker lamp shall be so fitted that, under normal conditions of use as defined in paragraphs 2.3.10., 2.3.10.1. and 2.3.10.2. and notwithstanding any vibrations to which it may be subjected, it retains the characteristics prescribed by UN R48 and enables the vehicle to comply with the requirements of UN R48.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 19,
+    "paragraph": "5.1"
+   }
+  },
+  {
+   "id": "R-0274",
+   "text": "It shall not be possible for the side-marker lamp to be inadvertently maladjusted.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 19,
+    "paragraph": "5.1"
+   }
+  },
+  {
+   "id": "R-0275",
+   "text": "The reference axis of the side-marker lamp, when fitted to the vehicle, shall be parallel to the bearing plane of the vehicle on the road, with a tolerance of ±3°.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 19,
+    "paragraph": "5.3"
+   }
+  },
+  {
+   "id": "R-0276",
+   "text": "The reference axis of the side-marker lamp, when fitted to the vehicle, shall be perpendicular to the median longitudinal plane of the vehicle, with a tolerance of ±3°.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 19,
+    "paragraph": "5.3"
+   }
+  },
+  {
+   "id": "R-0277",
+   "text": "Any specific fitting instructions laid down by the manufacturer for the light-signalling device shall be complied with.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 19,
+    "paragraph": "5.3"
+   }
+  },
+  {
+   "id": "R-0278",
+   "text": "In the absence of specific instructions, the height and orientation of the lamps shall be verified with the vehicle unladen and placed on a flat, horizontal surface, in the condition defined in paragraphs 2.3.10., 2.3.10.1. and 2.3.10.2.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 19,
+    "paragraph": "5.4"
+   }
+  },
+  {
+   "id": "R-0279",
+   "text": "In the absence of specific instructions, side-marker lamps constituting a pair shall be fitted to the vehicle symmetrically in relation to the median longitudinal plane, the estimate being based on the exterior geometrical form of the lamp and not on the edge of its illuminating surface.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 19,
+    "paragraph": "5.5.1"
+   }
+  },
+  {
+   "id": "R-0280",
+   "text": "In the absence of specific instructions, side-marker lamps constituting a pair shall be symmetrical to one another in relation to the median longitudinal plane; this requirement is not valid with regard to the interior structure of the lamp.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 19,
+    "paragraph": "5.5.2"
+   }
+  },
+  {
+   "id": "R-0281",
+   "text": "In the absence of specific instructions, side-marker lamps constituting a pair shall satisfy the same colorimetric requirements.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 19,
+    "paragraph": "5.5.3"
+   }
+  },
+  {
+   "id": "R-0282",
+   "text": "In the absence of specific instructions, side-marker lamps constituting a pair shall have substantially identical photometric characteristics; this shall not apply to a matched pair of a function.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 19,
+    "paragraph": "5.5.4"
+   }
+  },
+  {
+   "id": "R-0283",
+   "text": "On vehicles whose external shape is asymmetrical, the pair requirements of paragraph 5.5 shall be satisfied so far as is possible.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 19,
+    "paragraph": "5.6"
+   }
+  },
+  {
+   "id": "R-0284",
+   "text": "The side-marker lamp may be grouped, combined or reciprocally incorporated with other lamps provided that all requirements regarding colour, position, orientation, geometric visibility, electrical connections and other requirements, if any, are fulfilled.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 19,
+    "paragraph": "5.7.1"
+   }
+  },
+  {
+   "id": "R-0285",
+   "text": "Where the side-marker lamp is grouped, combined or reciprocally incorporated with other functions, its photometric and colorimetric requirements shall be fulfilled when all other functions with which it is grouped, combined or reciprocally incorporated are switched OFF.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 20,
+    "paragraph": "5.7.1.1"
+   }
+  },
+  {
+   "id": "R-0286",
+   "text": "Where the lamp is a single lamp as defined in paragraph 2.4.11.1.(a) whose apparent surface is composed of two or more distinct parts (e.g. segmented), it shall be installed so that either (a) the total area of the projection of the distinct parts of the apparent surface in the direction of the reference axis on a plane tangent to the exterior surface of the outer lens and perpendicular to the reference axis occupies not less than 60 per cent of the smallest quadrilateral circumscribing that projection, or (b) the minimum distance between the facing edges of two adjacent/tangential distinct parts of the apparent surface in the direction of the reference axis does not exceed 75 mm measured perpendicularly to the reference axis.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 20,
+    "paragraph": "5.7.2.1"
+   }
+  },
+  {
+   "id": "R-0287",
+   "text": "Where the single lamp is composed of two lamps marked \"D\" (paragraph 2.4.11.1.(b) or (c)), it shall be installed so that either (a) the projection of the apparent surfaces of the two lamps in the direction of the reference axis occupies not less than 60 per cent of the smallest quadrilateral circumscribing those projections, or (b) the minimum distance between the facing edges of the apparent surfaces of the two lamps in the direction of the reference axis does not exceed 75 mm measured perpendicularly to the reference axis.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 20,
+    "paragraph": "5.7.2.2"
+   }
+  },
+  {
+   "id": "R-0288",
+   "text": "The maximum height of the lamp above the ground shall be measured from the highest point and the minimum height from the lowest point of the apparent surface in the direction of the reference axis; where the height clearly meets the requirements, the exact edges need not be determined.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 21,
+    "paragraph": "5.8"
+   }
+  },
+  {
+   "id": "R-0289",
+   "text": "For the purposes of reducing the geometric visibility angles, the height of the lamp above the ground shall be measured from the H plane.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 21,
+    "paragraph": "5.8.1"
+   }
+  },
+  {
+   "id": "R-0290",
+   "text": "The position of the lamp as regards width shall be determined from the edge of the apparent surface in the direction of the reference axis furthest from the median longitudinal plane when referred to the overall width, and from the inner edges of the apparent surface when referred to the distance between lamps; where the position clearly meets the requirements, the exact edges need not be determined.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 21,
+    "paragraph": "5.8.3"
+   }
+  },
+  {
+   "id": "R-0291",
+   "text": "In the absence of specific instructions, the photometric characteristics (e.g. intensity, colour, apparent surface) of the side-marker lamp shall not be intentionally varied during the period when the lamp is switched ON.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 21,
+    "paragraph": "5.9"
+   }
+  },
+  {
+   "id": "R-0292",
+   "text": "Amber side-marker lamps complying with paragraph 6.18.7. shall be flashing lamps.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 21,
+    "paragraph": "5.9.1"
+   }
+  },
+  {
+   "id": "R-0293",
+   "text": "The photometric characteristics of the side-marker lamp may vary (a) in relation to the ambient light, (b) as a consequence of other lamps being switched ON or OFF, or (c) when the lamp is being used to provide another lighting function, provided that any variation is in compliance with the technical provisions for the lamp concerned.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 21,
+    "paragraph": "5.9.2"
+   }
+  },
+  {
+   "id": "R-0294",
+   "text": "The electrical connections shall be such that the side-marker lamps can only be switched ON and OFF simultaneously with the front and rear position lamps, the end-outline marker lamps (if they exist) and the rear registration plate lamp; this does not apply while (a) side-marker lamps combined or reciprocally incorporated with position lamps are switched ON as parking lamps, (b) side-marker lamps flash in conjunction with direction indicators, (c) daytime running lamps are switched ON, or (d) the front position lamp function is substituted under paragraph 5.12.1.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 22,
+    "paragraph": "5.11"
+   }
+  },
+  {
+   "id": "R-0295",
+   "text": "There shall be no obstacle on the inside of the angles of geometric visibility of the side-marker lamp to the propagation of light from any part of its apparent surface observed from infinity; however, no account is taken of obstacles already present when the lamp was type-approved.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 27,
+    "paragraph": "5.28.1"
+   }
+  },
+  {
+   "id": "R-0296",
+   "text": "If, when the lamp is installed, any part of its apparent surface is hidden by further parts of the vehicle (e.g. the bumper fascia), proof shall be furnished that the part of the lamp not hidden by obstacles still conforms to the photometric values prescribed for the approval of the device.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 27,
+    "paragraph": "5.28.3"
+   }
+  },
+  {
+   "id": "R-0297",
+   "text": "When the vertical angle of geometric visibility below the horizontal may be reduced to 5° (lamp at less than 750 mm above the ground measured according to paragraph 5.8.1.), the photometric field of measurements of the installed optical unit may be reduced to 5° below the horizontal.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 28,
+    "paragraph": "5.28.4"
+   }
+  },
+  {
+   "id": "R-0298",
+   "text": "An LED module does not need to be replaceable, if so stated in the communication sheet of the component type approval.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 28,
+    "paragraph": "5.29"
+   }
+  },
+  {
+   "id": "R-0299",
+   "text": "The side-marker lamp shall, where applicable, be type approved according to the corresponding device Regulation as specified in the relevant subparagraphs of paragraph 6 of UN R48 when installed on a vehicle.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 28,
+    "paragraph": "5.30"
+   }
+  },
+  {
+   "id": "R-0300",
+   "text": "In case the lamp is approved for one or more replaceable light source categories according to UN Regulations Nos. 37, 99 or 128, it shall be fitted with light sources approved according to these light source categories only; this does not concern light source modules, LED modules and non-replaceable light sources, except when they are required to be approved by the applicable Regulation.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 28,
+    "paragraph": "5.31"
+   }
+  },
+  {
+   "id": "R-0301",
+   "text": "A device type approved according to any preceding series of amendments to UN Regulation No. 148 is deemed equivalent to one approved according to the latest series when the change indexes related to each individual lamp (function) do not differ, and may then be fitted without any update of the device type approval documents and device markings.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 28,
+    "paragraph": "5.33"
+   }
+  },
+  {
+   "id": "R-0302",
+   "text": "The use of a lamp approved for and equipped with LED substitute light source(s) is allowed exclusively where the statement indicated in paragraph 3.2.8. is present and positive, and the lamp shall bear the marking related to the use of LED substitute light source(s).",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 28,
+    "paragraph": "5.34"
+   }
+  },
+  {
+   "id": "R-0303",
+   "text": "Alternatively, at the discretion of the manufacturer for M1 vehicles, the geometric visibility of front direction-indicator lamps and side-marker lamps shall be ensured over the horizontal angles shown in the figure of paragraph 6.5.5.2., the value of 5° for the dead angle of visibility to the rear of the side direction-indicator being an upper limit (d ≤ 2.50 m); for direction-indicator lamps of categories 1, 1a and 1b mounted below 750 mm (measured according to paragraph 5.8.1.) the inward angle of 45° may be reduced to 20° under the H plane.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 43,
+    "paragraph": "6.5.5.2"
+   }
+  },
+  {
+   "id": "R-0304",
+   "text": "Where the alternative visibility of paragraph 6.5.5.2. is used for M1 vehicles, front direction-indicator lamps and side-marker lamps shall be visible over vertical angles of 15° above and below the horizontal; where a lamp is mounted below 750 mm (measured according to paragraph 5.8.1.), the downward angle may be reduced to 5°.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 43,
+    "paragraph": "6.5.5.2"
+   }
+  },
+  {
+   "id": "R-0305",
+   "text": "Where the alternative visibility of paragraph 6.5.5.2. is used, to be considered visible the lamp (front direction-indicator or side-marker lamp, except side direction-indicators of categories 5 and 6) shall provide an unobstructed view of the apparent surface of at least 12.5 cm², the illuminating surface area of any retro-reflector that does not transmit light being excluded.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 43,
+    "paragraph": "6.5.5.2"
+   }
+  },
+  {
+   "id": "R-0306",
+   "text": "Where the side signalling lamp is used as a direction-indicator lamp, its orientation shall be according to the specifications for installation by the manufacturer, if any.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 43,
+    "paragraph": "6.5.6"
+   }
+  },
+  {
+   "id": "R-0307",
+   "text": "Where the side signalling lamp is used as a direction-indicator lamp, it shall switch ON independently of the other lamps.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 43,
+    "paragraph": "6.5.7"
+   }
+  },
+  {
+   "id": "R-0308",
+   "text": "Where the side signalling lamp is used as a direction-indicator lamp, all direction-indicator lamps on one side of the vehicle shall be switched ON and OFF automatically as defined by applicable UN Regulations and/or by means of one control.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 43,
+    "paragraph": "6.5.7"
+   }
+  },
+  {
+   "id": "R-0309",
+   "text": "Where the side signalling lamp is used as a direction-indicator lamp, all direction-indicator lamps on one side of the vehicle shall flash in phase.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 43,
+    "paragraph": "6.5.7"
+   }
+  },
+  {
+   "id": "R-0310",
+   "text": "On M1 vehicles less than 6 m in length with an arrangement complying with paragraph 6.5.5.2., the amber side-marker lamps, when mounted, shall also flash at the same frequency (in phase) with the direction-indicator lamps.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 43,
+    "paragraph": "6.5.7"
+   }
+  },
+  {
+   "id": "R-0311",
+   "text": "On M1 category vehicles less than 6 m in length, side-marker lamps shall be used if they supplement the reduced geometric visibility requirements of front position lamps conforming to paragraph 6.9.5.2. and rear position lamps conforming to paragraph 6.10.5.2.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 58,
+    "paragraph": "6.18.1"
+   }
+  },
+  {
+   "id": "R-0312",
+   "text": "The SM1 type of side-marker lamp shall be used; however, the SM2 type of side-marker lamp may be used on M1 category vehicles, both where the side-marker lamp is mandatory and where it is optional.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 58,
+    "paragraph": "6.18.1"
+   }
+  },
+  {
+   "id": "R-0313",
+   "text": "The minimum number of side-marker lamps per side shall be such that the rules for longitudinal positioning are complied with.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 59,
+    "paragraph": "6.18.2"
+   }
+  },
+  {
+   "id": "R-0314",
+   "text": "Side-marker lamps shall be type-approved according to the 00 or subsequent series of amendments to UN Regulation No. 91, or to the 00 or subsequent series of amendments to UN Regulation No. 148.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 59,
+    "paragraph": "6.18.2"
+   }
+  },
+  {
+   "id": "R-0315",
+   "text": "Side-marker lamp position in height: above the ground not less than 250 mm nor more than 1,500 mm (2,100 mm if the shape of the bodywork makes it impossible to keep within 1,500 mm).",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 59,
+    "paragraph": "6.18.4.2"
+   }
+  },
+  {
+   "id": "R-0316",
+   "text": "Side-marker lamp position in length: at least one side-marker lamp shall be fitted to the middle third of the vehicle, the foremost side-marker lamp being not further than 3 m from the front; the distance between two adjacent side-marker lamps shall not exceed 3 m (may be increased to 4 m if the structure, design or operational use of the vehicle makes compliance impossible); the distance between the rearmost side-marker lamp and the rear of the vehicle shall not exceed 1 m. However, for vehicles the length of which does not exceed 6 m it is sufficient to have one side-marker lamp fitted within the first third and/or within the last third of the vehicle length, and for M1 vehicles the length of which exceeds 6 m but does not exceed 7 m it is sufficient to have one side-marker lamp fitted not further than 3 m from the front and one within the last third of the vehicle length.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 59,
+    "paragraph": "6.18.4.3"
+   }
+  },
+  {
+   "id": "R-0317",
+   "text": "Side-marker lamp geometric visibility, horizontal angle: 45° to the front and to the rear; however, for vehicles on which the installation of side-marker lamps is optional this value can be reduced to 30°.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 59,
+    "paragraph": "6.18.5"
+   }
+  },
+  {
+   "id": "R-0318",
+   "text": "If the vehicle is equipped with side-marker lamps used to supplement the reduced geometric visibility of front and rear direction-indicator lamps conforming to paragraph 6.5.5.2. and/or position lamps conforming to paragraphs 6.9.5.2. and 6.10.5.2., the horizontal angles of geometric visibility of the side-marker lamps are 45° towards the front and rear ends of the vehicle and 30° towards the centre of the vehicle.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 59,
+    "paragraph": "6.18.5"
+   }
+  },
+  {
+   "id": "R-0319",
+   "text": "Side-marker lamp geometric visibility, vertical angle: 10° above and below the horizontal; however, where the lamp is mounted below 750 mm (measured according to paragraph 5.8.1.), the downward angle of 10° may be reduced to 5°.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 59,
+    "paragraph": "6.18.5"
+   }
+  },
+  {
+   "id": "R-0320",
+   "text": "Side-marker lamp orientation: towards the side.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 59,
+    "paragraph": "6.18.6"
+   }
+  },
+  {
+   "id": "R-0321",
+   "text": "On M1 category vehicles less than 6 m in length, amber side-marker lamps may be wired to flash, provided that this flashing is in phase and at the same frequency with the direction-indicator lamps at the same side of the vehicle.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 59,
+    "paragraph": "6.18.7"
+   }
+  },
+  {
+   "id": "R-0322",
+   "text": "Side-marker lamp tell-tale is optional; if it exists, its function shall be carried out by the tell-tale required for the front and rear position lamps.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 60,
+    "paragraph": "6.18.8"
+   }
+  },
+  {
+   "id": "R-0323",
+   "text": "A tell-tale indicating failure of the side-marker lamp is mandatory if required by the component regulation.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 60,
+    "paragraph": "6.18.8"
+   }
+  },
+  {
+   "id": "R-0324",
+   "text": "When an optional side-marker lamp is grouped or combined with a position lamp that is reciprocally incorporated or grouped with the direction indicator, the electrical connection of the side-marker lamp on the relevant side of the vehicle may be such that it is switched OFF during the entire period (both ON and OFF cycle) of activation of the direction-indicator lamp.",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 60,
+    "paragraph": "6.18.9"
+   }
+  }
+ ]
+}
