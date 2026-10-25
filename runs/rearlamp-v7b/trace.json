@@ -1,0 +1,1897 @@
+{
+ "summary": {
+  "expected": 190,
+  "covered": 190,
+  "covered_extract": 190,
+  "by_hop": {
+   "0": 190
+  },
+  "items_without_expected": 146,
+  "items": 171
+ },
+ "per_item": {
+  "T-R10-23": 0,
+  "T-R10-4.2": 0,
+  "T-R10-5": 1,
+  "T-R10-6": 25,
+  "T-R10-9": 0,
+  "T-R10-Annex_1": 0,
+  "T-R10-Annex_10": 2,
+  "T-R10-Annex_7": 0,
+  "T-R10-Annex_8": 0,
+  "T-R10-Annex_9": 4,
+  "T-R10-2.1": 0,
+  "T-R10-3.2.10": 0,
+  "T-R10-4": 0,
+  "T-R10-7": 0,
+  "T-R10-Annex_2A": 0,
+  "T-R10-Annex_4": 0,
+  "T-R10-Annex_5": 0,
+  "T-R10-Annex_6": 0,
+  "T-R10-2": 0,
+  "T-R10-3": 0,
+  "T-R10-Annex_11": 0,
+  "T-R10-Annex_12": 0,
+  "T-R10-Annex_13": 0,
+  "T-R10-Annex_15": 0,
+  "T-R10-Annex_16": 0,
+  "T-R10-Annex_17": 0,
+  "T-R10-Annex_18": 0,
+  "T-R10-Annex_19": 0,
+  "T-R10-Annex_21": 0,
+  "T-R10-Annex_22": 0,
+  "T-R10-Annex_2B": 0,
+  "T-R148-3.3": 25,
+  "T-R148-4": 25,
+  "T-R148-5": 6,
+  "T-R148-6": 2,
+  "T-R148-Annex_2": 0,
+  "T-R148-Annex_3": 2,
+  "T-R148-Annex_4": 0,
+  "T-R148-Annex_5": 0,
+  "T-R148-Annex_7": 0,
+  "T-R148-Annex_8": 3,
+  "T-R148-2.1": 0,
+  "T-R148-3": 0,
+  "T-R148-3.1": 0,
+  "T-R148-3.1.2.2": 0,
+  "T-R148-3.1.2.8": 0,
+  "T-R148-3.2.3.2": 0,
+  "T-R148-3.2.4": 0,
+  "T-R148-Annex_1": 0,
+  "T-R148-Annex_6": 0,
+  "T-R148-7.1.1": 0,
+  "T-R149-4.13": 0,
+  "T-R149-Annex_14": 0,
+  "T-R150-3.3": 7,
+  "T-R150-4": 10,
+  "T-R150-5": 10,
+  "T-R150-Annex_10": 0,
+  "T-R150-Annex_2": 1,
+  "T-R150-Annex_3": 0,
+  "T-R150-Annex_4_Part_1": 2,
+  "T-R150-Annex_4_Part_3": 0,
+  "T-R150-Annex_5": 1,
+  "T-R150-Annex_6_Part_1": 1,
+  "T-R150-Annex_6_Part_2": 1,
+  "T-R150-Annex_6_Part_3": 0,
+  "T-R150-Annex_6_Part_4": 4,
+  "T-R150-Annex_6_Part_5": 0,
+  "T-R150-Annex_6_Part_6": 2,
+  "T-R150-Annex_7_Part_1": 0,
+  "T-R150-Annex_7_Part_2": 0,
+  "T-R150-1": 0,
+  "T-R150-2": 0,
+  "T-R150-3.1": 0,
+  "T-R150-3.2.5": 0,
+  "T-R150-3.5.1": 0,
+  "T-R150-3.6": 0,
+  "T-R150-Annex_1": 0,
+  "T-R150-Annex_4": 0,
+  "T-R150-Annex_8": 0,
+  "T-R150-Annex_9": 0,
+  "T-R19-Annex_1": 0,
+  "T-R26-5": 0,
+  "T-R26-6": 0,
+  "T-R26-8": 0,
+  "T-R26-Annex_3": 0,
+  "T-R26-1": 0,
+  "T-R26-2": 0,
+  "T-R26-3": 0,
+  "T-R26-4": 0,
+  "T-R48-5": 22,
+  "T-R48-6.10": 15,
+  "T-R48-6.14": 5,
+  "T-R48-6.23": 0,
+  "T-R48-6.4": 5,
+  "T-R48-6.7": 9,
+  "T-R48-8": 0,
+  "T-R48-Annex_3": 0,
+  "T-R48-Annex_4": 0,
+  "T-R48-Annex_9": 0,
+  "T-R48-2.1.2": 0,
+  "T-R48-2.1.5": 0,
+  "T-R48-2.10.2": 0,
+  "T-R48-2.10.3": 0,
+  "T-R48-2.10.4": 0,
+  "T-R48-2.10.7": 0,
+  "T-R48-2.2.1": 0,
+  "T-R48-2.3.10": 0,
+  "T-R48-2.3.3": 0,
+  "T-R48-2.3.5": 0,
+  "T-R48-2.4.11.1": 0,
+  "T-R48-2.5.1": 0,
+  "T-R48-2.5.10": 0,
+  "T-R48-2.5.2": 0,
+  "T-R48-2.9.1.2": 0,
+  "T-R48-4.1": 0,
+  "T-R48-6": 0,
+  "T-R48-6.18.7": 0,
+  "T-R48-6.2.6.1.1": 0,
+  "T-R48-6.27": 0,
+  "T-R48-6.28.5": 0,
+  "T-R48-6.5.2": 0,
+  "T-R48-6.5.3": 0,
+  "T-R48-6.5.4": 0,
+  "T-R48-6.5.5": 0,
+  "T-R48-6.5.6": 0,
+  "T-R48-Annex_1": 0,
+  "T-R48-Annex_16": 0,
+  "T-R48-Annex_17": 0,
+  "T-R48-Annex_5": 0,
+  "T-R48-Annex_6": 0,
+  "T-R48-6.11.8": 0,
+  "T-R48-6.12.8": 0,
+  "T-R48-6.13.8": 0,
+  "T-R48-6.18.8": 0,
+  "T-R48-6.19.7": 0,
+  "T-R48-6.19.8": 0,
+  "T-R48-6.5.8": 0,
+  "T-R48-6.9.8": 0,
+  "T-R48-2.3.9": 0,
+  "T-R48-2.5.11": 0,
+  "T-R48-2.5.12": 0,
+  "T-R48-2.5.13": 0,
+  "T-R48-2.5.14": 0,
+  "T-R48-2.5.15": 0,
+  "T-R48-2.5.16": 0,
+  "T-R48-2.5.17": 0,
+  "T-R48-2.5.3": 0,
+  "T-R48-2.5.4": 0,
+  "T-R48-2.5.5": 0,
+  "T-R48-2.5.6": 0,
+  "T-R48-2.5.7": 0,
+  "T-R48-2.5.8": 0,
+  "T-R48-2.6.1": 0,
+  "T-R48-2.9.3": 0,
+  "T-R48-3.2.6": 0,
+  "T-R48-3.2.7": 0,
+  "T-R48-6.21.7.5": 0,
+  "T-R48-6.22.4": 0,
+  "T-R48-6.22.7.4": 0,
+  "T-R48-6.28.9": 0,
+  "T-R48-Annex_11": 0,
+  "T-R48-Annex_12": 0,
+  "T-R48-Annex_13": 0,
+  "T-R48-Annex_8": 0,
+  "T-R48-2.11": 0,
+  "T-R48-6.22.5": 0,
+  "T-R48-6.22.9.3": 0,
+  "T-R48-Annex_14": 0,
+  "T-R53-5.6.2": 0,
+  "T-R53-6.3.8": 0,
+  "T-R6-5.6": 0
+ },
+ "rows": [
+  {
+   "expected_id": "G-0001",
+   "regulation": "UN R150",
+   "paragraph": "3.3.1.1",
+   "item": "T-R150-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0002",
+   "regulation": "UN R150",
+   "paragraph": "3.3.1.2",
+   "item": "T-R150-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0003",
+   "regulation": "UN R150",
+   "paragraph": "3.3.2.2",
+   "item": "T-R150-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0004",
+   "regulation": "UN R150",
+   "paragraph": "3.3.3.1",
+   "item": "T-R150-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0005",
+   "regulation": "UN R150",
+   "paragraph": "3.3.4.1",
+   "item": "T-R150-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0006",
+   "regulation": "UN R150",
+   "paragraph": "3.3.5.1",
+   "item": "T-R150-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0008",
+   "regulation": "UN R150",
+   "paragraph": "3.3.6.2",
+   "item": "T-R150-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0009",
+   "regulation": "UN R150",
+   "paragraph": "4.1.1",
+   "item": "T-R150-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0010",
+   "regulation": "UN R150",
+   "paragraph": "4.1.1",
+   "item": "T-R150-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0011",
+   "regulation": "UN R150",
+   "paragraph": "4.1.2",
+   "item": "T-R150-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0012",
+   "regulation": "UN R150",
+   "paragraph": "4.1.4",
+   "item": "T-R150-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0013",
+   "regulation": "UN R150",
+   "paragraph": "4.1.4",
+   "item": "T-R150-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0014",
+   "regulation": "UN R150",
+   "paragraph": "4.1.5",
+   "item": "T-R150-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0015",
+   "regulation": "UN R150",
+   "paragraph": "4.1.6.1",
+   "item": "T-R150-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0016",
+   "regulation": "UN R150",
+   "paragraph": "4.1.6.2",
+   "item": "T-R150-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0017",
+   "regulation": "UN R150",
+   "paragraph": "4.2.1.2",
+   "item": "T-R150-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0018",
+   "regulation": "UN R150",
+   "paragraph": "4.2.1.2",
+   "item": "T-R150-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0019",
+   "regulation": "UN R150",
+   "paragraph": "5.1.1",
+   "item": "T-R150-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0020",
+   "regulation": "UN R150",
+   "paragraph": "5.1.1",
+   "item": "T-R150-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0021",
+   "regulation": "UN R150",
+   "paragraph": "5.1.1",
+   "item": "T-R150-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0022",
+   "regulation": "UN R150",
+   "paragraph": "5.1.3.2.2",
+   "item": "T-R150-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0023",
+   "regulation": "UN R150",
+   "paragraph": "5.1.4.3",
+   "item": "T-R150-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0024",
+   "regulation": "UN R150",
+   "paragraph": "5.1.4.3",
+   "item": "T-R150-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0026",
+   "regulation": "UN R150",
+   "paragraph": "5.1.4.4.1",
+   "item": "T-R150-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0029",
+   "regulation": "UN R150",
+   "paragraph": "5.1.4.4.1. Table 3",
+   "item": "T-R150-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0036",
+   "regulation": "UN R150",
+   "paragraph": "5.1.4.4.1. Table 3",
+   "item": "T-R150-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0037",
+   "regulation": "UN R150",
+   "paragraph": "5.1.5.2",
+   "item": "T-R150-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0038",
+   "regulation": "UN R150",
+   "paragraph": "Annex 2 1.2",
+   "item": "T-R150-Annex_2",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0039",
+   "regulation": "UN R150",
+   "paragraph": "Annex 4 Part 1 1.2",
+   "item": "T-R150-Annex_4_Part_1",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0042",
+   "regulation": "UN R150",
+   "paragraph": "Annex 4 Part 1 1.3",
+   "item": "T-R150-Annex_4_Part_1",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0043",
+   "regulation": "UN R150",
+   "paragraph": "Annex 5 1.1",
+   "item": "T-R150-Annex_5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0044",
+   "regulation": "UN R150",
+   "paragraph": "Annex 6 Part 1 3",
+   "item": "T-R150-Annex_6_Part_1",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0045",
+   "regulation": "UN R150",
+   "paragraph": "Annex 6 Part 2 1.2",
+   "item": "T-R150-Annex_6_Part_2",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0048",
+   "regulation": "UN R150",
+   "paragraph": "Annex 6 Part 4 1",
+   "item": "T-R150-Annex_6_Part_4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0049",
+   "regulation": "UN R150",
+   "paragraph": "Annex 6 Part 4 1",
+   "item": "T-R150-Annex_6_Part_4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0050",
+   "regulation": "UN R150",
+   "paragraph": "Annex 6 Part 4 3",
+   "item": "T-R150-Annex_6_Part_4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0051",
+   "regulation": "UN R150",
+   "paragraph": "Annex 6 Part 4 4.1",
+   "item": "T-R150-Annex_6_Part_4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0052",
+   "regulation": "UN R150",
+   "paragraph": "Annex 6 Part 6 3",
+   "item": "T-R150-Annex_6_Part_6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0053",
+   "regulation": "UN R150",
+   "paragraph": "Annex 6 Part 6 3. Table A6-1",
+   "item": "T-R150-Annex_6_Part_6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0054",
+   "regulation": "UN R48",
+   "paragraph": "5.1",
+   "item": "T-R48-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0055",
+   "regulation": "UN R48",
+   "paragraph": "5.1",
+   "item": "T-R48-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0056",
+   "regulation": "UN R48",
+   "paragraph": "5.1",
+   "item": "T-R48-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0057",
+   "regulation": "UN R48",
+   "paragraph": "5.3",
+   "item": "T-R48-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0059",
+   "regulation": "UN R48",
+   "paragraph": "5.3",
+   "item": "T-R48-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0060",
+   "regulation": "UN R48",
+   "paragraph": "5.3",
+   "item": "T-R48-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0061",
+   "regulation": "UN R48",
+   "paragraph": "5.5.4",
+   "item": "T-R48-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0062",
+   "regulation": "UN R48",
+   "paragraph": "5.5.5",
+   "item": "T-R48-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0064",
+   "regulation": "UN R48",
+   "paragraph": "5.5.5",
+   "item": "T-R48-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0065",
+   "regulation": "UN R48",
+   "paragraph": "5.7.1",
+   "item": "T-R48-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0066",
+   "regulation": "UN R48",
+   "paragraph": "5.7.1.1",
+   "item": "T-R48-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0067",
+   "regulation": "UN R48",
+   "paragraph": "5.7.1.1",
+   "item": "T-R48-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0068",
+   "regulation": "UN R48",
+   "paragraph": "5.7.2.1",
+   "item": "T-R48-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0071",
+   "regulation": "UN R48",
+   "paragraph": "5.9",
+   "item": "T-R48-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0072",
+   "regulation": "UN R48",
+   "paragraph": "5.9.2",
+   "item": "T-R48-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0073",
+   "regulation": "UN R48",
+   "paragraph": "5.10.1",
+   "item": "T-R48-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0074",
+   "regulation": "UN R48",
+   "paragraph": "5.10.4.3",
+   "item": "T-R48-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0075",
+   "regulation": "UN R48",
+   "paragraph": "5.11",
+   "item": "T-R48-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0076",
+   "regulation": "UN R48",
+   "paragraph": "5.18",
+   "item": "T-R48-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0077",
+   "regulation": "UN R48",
+   "paragraph": "5.28.1",
+   "item": "T-R48-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0078",
+   "regulation": "UN R48",
+   "paragraph": "5.28.4",
+   "item": "T-R48-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0079",
+   "regulation": "UN R48",
+   "paragraph": "5.30",
+   "item": "T-R48-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0080",
+   "regulation": "UN R48",
+   "paragraph": "6.4.2.3",
+   "item": "T-R48-6.4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0081",
+   "regulation": "UN R48",
+   "paragraph": "6.4.4.2",
+   "item": "T-R48-6.4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0082",
+   "regulation": "UN R48",
+   "paragraph": "6.4.4.3",
+   "item": "T-R48-6.4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0084",
+   "regulation": "UN R48",
+   "paragraph": "6.4.7.1",
+   "item": "T-R48-6.4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0085",
+   "regulation": "UN R48",
+   "paragraph": "6.4.7.1",
+   "item": "T-R48-6.4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0086",
+   "regulation": "UN R48",
+   "paragraph": "6.7.2",
+   "item": "T-R48-6.7",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0087",
+   "regulation": "UN R48",
+   "paragraph": "6.7.2",
+   "item": "T-R48-6.7",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0088",
+   "regulation": "UN R48",
+   "paragraph": "6.7.4.1",
+   "item": "T-R48-6.7",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0093",
+   "regulation": "UN R48",
+   "paragraph": "6.7.4.2.1",
+   "item": "T-R48-6.7",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0094",
+   "regulation": "UN R48",
+   "paragraph": "6.7.4.2.1",
+   "item": "T-R48-6.7",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0095",
+   "regulation": "UN R48",
+   "paragraph": "6.7.4.2.1",
+   "item": "T-R48-6.7",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0096",
+   "regulation": "UN R48",
+   "paragraph": "6.7.5",
+   "item": "T-R48-6.7",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0098",
+   "regulation": "UN R48",
+   "paragraph": "6.7.5",
+   "item": "T-R48-6.7",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0100",
+   "regulation": "UN R48",
+   "paragraph": "6.7.7.1",
+   "item": "T-R48-6.7",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0101",
+   "regulation": "UN R48",
+   "paragraph": "6.10.4.1",
+   "item": "T-R48-6.10",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0103",
+   "regulation": "UN R48",
+   "paragraph": "6.10.4.2",
+   "item": "T-R48-6.10",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0104",
+   "regulation": "UN R48",
+   "paragraph": "6.10.4.2",
+   "item": "T-R48-6.10",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0105",
+   "regulation": "UN R48",
+   "paragraph": "6.10.4.2",
+   "item": "T-R48-6.10",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0106",
+   "regulation": "UN R48",
+   "paragraph": "6.10.5.1",
+   "item": "T-R48-6.10",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0107",
+   "regulation": "UN R48",
+   "paragraph": "6.10.5.1",
+   "item": "T-R48-6.10",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0108",
+   "regulation": "UN R48",
+   "paragraph": "6.10.5.1",
+   "item": "T-R48-6.10",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0109",
+   "regulation": "UN R48",
+   "paragraph": "6.10.5.2",
+   "item": "T-R48-6.10",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0110",
+   "regulation": "UN R48",
+   "paragraph": "6.10.5.2",
+   "item": "T-R48-6.10",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0111",
+   "regulation": "UN R48",
+   "paragraph": "6.10.5.2",
+   "item": "T-R48-6.10",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0112",
+   "regulation": "UN R48",
+   "paragraph": "6.10.5.2",
+   "item": "T-R48-6.10",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0113",
+   "regulation": "UN R48",
+   "paragraph": "6.10.7",
+   "item": "T-R48-6.10",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0114",
+   "regulation": "UN R48",
+   "paragraph": "6.10.8",
+   "item": "T-R48-6.10",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0115",
+   "regulation": "UN R48",
+   "paragraph": "6.10.8",
+   "item": "T-R48-6.10",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0116",
+   "regulation": "UN R48",
+   "paragraph": "6.10.8",
+   "item": "T-R48-6.10",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0117",
+   "regulation": "UN R48",
+   "paragraph": "6.14.2",
+   "item": "T-R48-6.14",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0119",
+   "regulation": "UN R48",
+   "paragraph": "6.14.4.1",
+   "item": "T-R48-6.14",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0121",
+   "regulation": "UN R48",
+   "paragraph": "6.14.5",
+   "item": "T-R48-6.14",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0122",
+   "regulation": "UN R48",
+   "paragraph": "6.14.5",
+   "item": "T-R48-6.14",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0123",
+   "regulation": "UN R48",
+   "paragraph": "6.14.7",
+   "item": "T-R48-6.14",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0124",
+   "regulation": "UN R10",
+   "paragraph": "5.2.2",
+   "item": "T-R10-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0127",
+   "regulation": "UN R10",
+   "paragraph": "6.1.1",
+   "item": "T-R10-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0128",
+   "regulation": "UN R10",
+   "paragraph": "6.1.1.2",
+   "item": "T-R10-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0129",
+   "regulation": "UN R10",
+   "paragraph": "6.5.2.1",
+   "item": "T-R10-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0130",
+   "regulation": "UN R10",
+   "paragraph": "6.5.2.1",
+   "item": "T-R10-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0131",
+   "regulation": "UN R10",
+   "paragraph": "6.5.2.2",
+   "item": "T-R10-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0132",
+   "regulation": "UN R10",
+   "paragraph": "6.6.2.1",
+   "item": "T-R10-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0133",
+   "regulation": "UN R10",
+   "paragraph": "6.6.2.1",
+   "item": "T-R10-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0134",
+   "regulation": "UN R10",
+   "paragraph": "6.6.2.2",
+   "item": "T-R10-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0135",
+   "regulation": "UN R10",
+   "paragraph": "6.7.1",
+   "item": "T-R10-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0136",
+   "regulation": "UN R10",
+   "paragraph": "6.8.2.1",
+   "item": "T-R10-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0137",
+   "regulation": "UN R10",
+   "paragraph": "6.8.2.1",
+   "item": "T-R10-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0138",
+   "regulation": "UN R10",
+   "paragraph": "6.8.2.1",
+   "item": "T-R10-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0139",
+   "regulation": "UN R10",
+   "paragraph": "6.8.2.2",
+   "item": "T-R10-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0140",
+   "regulation": "UN R10",
+   "paragraph": "6.9.1",
+   "item": "T-R10-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0141",
+   "regulation": "UN R10",
+   "paragraph": "6.9.1",
+   "item": "T-R10-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0142",
+   "regulation": "UN R10",
+   "paragraph": "6.9.1",
+   "item": "T-R10-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0143",
+   "regulation": "UN R10",
+   "paragraph": "6.9.1",
+   "item": "T-R10-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0144",
+   "regulation": "UN R10",
+   "paragraph": "6.9.1",
+   "item": "T-R10-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0145",
+   "regulation": "UN R10",
+   "paragraph": "6.9.1",
+   "item": "T-R10-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0146",
+   "regulation": "UN R10",
+   "paragraph": "6.9.1",
+   "item": "T-R10-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0147",
+   "regulation": "UN R10",
+   "paragraph": "6.9.1",
+   "item": "T-R10-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0148",
+   "regulation": "UN R10",
+   "paragraph": "6.9.1",
+   "item": "T-R10-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0149",
+   "regulation": "UN R10",
+   "paragraph": "6.9.1",
+   "item": "T-R10-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0150",
+   "regulation": "UN R10",
+   "paragraph": "6.10.1",
+   "item": "T-R10-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0151",
+   "regulation": "UN R10",
+   "paragraph": "6.10.5",
+   "item": "T-R10-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0152",
+   "regulation": "UN R10",
+   "paragraph": "Annex 9 3.1",
+   "item": "T-R10-Annex_9",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0153",
+   "regulation": "UN R10",
+   "paragraph": "Annex 9 3.1",
+   "item": "T-R10-Annex_9",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0154",
+   "regulation": "UN R10",
+   "paragraph": "Annex 9 3.1",
+   "item": "T-R10-Annex_9",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0155",
+   "regulation": "UN R10",
+   "paragraph": "Annex 9 3.1",
+   "item": "T-R10-Annex_9",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0157",
+   "regulation": "UN R10",
+   "paragraph": "Annex 10 2",
+   "item": "T-R10-Annex_10",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0158",
+   "regulation": "UN R10",
+   "paragraph": "Annex 10 2",
+   "item": "T-R10-Annex_10",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0161",
+   "regulation": "UN R148",
+   "paragraph": "3.3.1.1",
+   "item": "T-R148-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0162",
+   "regulation": "UN R148",
+   "paragraph": "3.3.1.1.1",
+   "item": "T-R148-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0163",
+   "regulation": "UN R148",
+   "paragraph": "3.3.1.2",
+   "item": "T-R148-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0164",
+   "regulation": "UN R148",
+   "paragraph": "3.3.2.2",
+   "item": "T-R148-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0165",
+   "regulation": "UN R148",
+   "paragraph": "3.3.2.5.1",
+   "item": "T-R148-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0167",
+   "regulation": "UN R148",
+   "paragraph": "3.3.2.5.1.1",
+   "item": "T-R148-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0168",
+   "regulation": "UN R148",
+   "paragraph": "3.3.2.5.1.1",
+   "item": "T-R148-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0169",
+   "regulation": "UN R148",
+   "paragraph": "3.3.3.1",
+   "item": "T-R148-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0170",
+   "regulation": "UN R148",
+   "paragraph": "3.3.3.2",
+   "item": "T-R148-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0171",
+   "regulation": "UN R148",
+   "paragraph": "3.3.3.4",
+   "item": "T-R148-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0172",
+   "regulation": "UN R148",
+   "paragraph": "3.3.3.5",
+   "item": "T-R148-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0173",
+   "regulation": "UN R148",
+   "paragraph": "3.3.3.5",
+   "item": "T-R148-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0174",
+   "regulation": "UN R148",
+   "paragraph": "3.3.3.5",
+   "item": "T-R148-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0175",
+   "regulation": "UN R148",
+   "paragraph": "3.3.3.5",
+   "item": "T-R148-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0176",
+   "regulation": "UN R148",
+   "paragraph": "3.3.3.5",
+   "item": "T-R148-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0177",
+   "regulation": "UN R148",
+   "paragraph": "3.3.3.5",
+   "item": "T-R148-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0178",
+   "regulation": "UN R148",
+   "paragraph": "3.3.3.5",
+   "item": "T-R148-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0179",
+   "regulation": "UN R148",
+   "paragraph": "3.3.3.5",
+   "item": "T-R148-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0180",
+   "regulation": "UN R148",
+   "paragraph": "3.3.4.1",
+   "item": "T-R148-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0181",
+   "regulation": "UN R148",
+   "paragraph": "3.3.4.2",
+   "item": "T-R148-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0182",
+   "regulation": "UN R148",
+   "paragraph": "3.3.4.3",
+   "item": "T-R148-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0183",
+   "regulation": "UN R148",
+   "paragraph": "3.3.4.4",
+   "item": "T-R148-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0184",
+   "regulation": "UN R148",
+   "paragraph": "3.3.4.5",
+   "item": "T-R148-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0185",
+   "regulation": "UN R148",
+   "paragraph": "3.3.4.6",
+   "item": "T-R148-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0187",
+   "regulation": "UN R148",
+   "paragraph": "3.3.5.2",
+   "item": "T-R148-3.3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0188",
+   "regulation": "UN R148",
+   "paragraph": "4.3",
+   "item": "T-R148-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0189",
+   "regulation": "UN R148",
+   "paragraph": "4.5.3",
+   "item": "T-R148-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0190",
+   "regulation": "UN R148",
+   "paragraph": "4.5.3.1",
+   "item": "T-R148-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0192",
+   "regulation": "UN R148",
+   "paragraph": "4.5.5",
+   "item": "T-R148-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0193",
+   "regulation": "UN R148",
+   "paragraph": "4.5.5",
+   "item": "T-R148-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0195",
+   "regulation": "UN R148",
+   "paragraph": "4.5.5",
+   "item": "T-R148-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0196",
+   "regulation": "UN R148",
+   "paragraph": "4.5.5",
+   "item": "T-R148-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0197",
+   "regulation": "UN R148",
+   "paragraph": "4.5.5",
+   "item": "T-R148-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0199",
+   "regulation": "UN R148",
+   "paragraph": "4.6.1.2",
+   "item": "T-R148-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0201",
+   "regulation": "UN R148",
+   "paragraph": "4.7.1",
+   "item": "T-R148-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0202",
+   "regulation": "UN R148",
+   "paragraph": "4.7.2.3",
+   "item": "T-R148-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0203",
+   "regulation": "UN R148",
+   "paragraph": "4.7.2.4",
+   "item": "T-R148-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0204",
+   "regulation": "UN R148",
+   "paragraph": "4.7.2.4",
+   "item": "T-R148-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0205",
+   "regulation": "UN R148",
+   "paragraph": "4.7.2.4",
+   "item": "T-R148-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0206",
+   "regulation": "UN R148",
+   "paragraph": "4.7.2.4",
+   "item": "T-R148-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0207",
+   "regulation": "UN R148",
+   "paragraph": "4.7.2.4",
+   "item": "T-R148-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0208",
+   "regulation": "UN R148",
+   "paragraph": "4.8.1.2",
+   "item": "T-R148-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0209",
+   "regulation": "UN R148",
+   "paragraph": "4.8.2",
+   "item": "T-R148-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0210",
+   "regulation": "UN R148",
+   "paragraph": "4.8.3.1",
+   "item": "T-R148-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0211",
+   "regulation": "UN R148",
+   "paragraph": "4.8.3.1",
+   "item": "T-R148-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0212",
+   "regulation": "UN R148",
+   "paragraph": "4.8.3.1",
+   "item": "T-R148-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0213",
+   "regulation": "UN R148",
+   "paragraph": "4.8.3.1",
+   "item": "T-R148-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0214",
+   "regulation": "UN R148",
+   "paragraph": "4.8.3.1",
+   "item": "T-R148-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0215",
+   "regulation": "UN R148",
+   "paragraph": "4.9",
+   "item": "T-R148-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0217",
+   "regulation": "UN R148",
+   "paragraph": "4.9",
+   "item": "T-R148-4",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0218",
+   "regulation": "UN R148",
+   "paragraph": "5.2.1",
+   "item": "T-R148-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0219",
+   "regulation": "UN R148",
+   "paragraph": "5.2.7",
+   "item": "T-R148-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0220",
+   "regulation": "UN R148",
+   "paragraph": "5.5.1",
+   "item": "T-R148-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0221",
+   "regulation": "UN R148",
+   "paragraph": "5.5.7",
+   "item": "T-R148-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0222",
+   "regulation": "UN R148",
+   "paragraph": "5.8.1",
+   "item": "T-R148-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0225",
+   "regulation": "UN R148",
+   "paragraph": "5.8.7",
+   "item": "T-R148-5",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0226",
+   "regulation": "UN R148",
+   "paragraph": "6.1.3",
+   "item": "T-R148-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0227",
+   "regulation": "UN R148",
+   "paragraph": "6.1.3",
+   "item": "T-R148-6",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0228",
+   "regulation": "UN R148",
+   "paragraph": "Annex 3 1.2",
+   "item": "T-R148-Annex_3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0229",
+   "regulation": "UN R148",
+   "paragraph": "Annex 3 1.2",
+   "item": "T-R148-Annex_3",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0230",
+   "regulation": "UN R148",
+   "paragraph": "Annex 8 1.2.1",
+   "item": "T-R148-Annex_8",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0232",
+   "regulation": "UN R148",
+   "paragraph": "Annex 8 1.2.2",
+   "item": "T-R148-Annex_8",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  },
+  {
+   "expected_id": "G-0234",
+   "regulation": "UN R148",
+   "paragraph": "Annex 8 2.1",
+   "item": "T-R148-Annex_8",
+   "origin": "selected",
+   "hop": 0,
+   "mode": "extract"
+  }
+ ]
+}

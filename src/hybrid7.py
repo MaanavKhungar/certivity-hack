@@ -8,6 +8,8 @@ A        select regulations: cards -> likelihood, supersession + light-source ru
 B        per candidate: applies gate, parts -> defined terms, open options, section keys;
          table of contents now carries section-kind hints and annex references (pipeline v2);
          nested selections collapsed                                                    [hybrid.stage_b + here]
+T        traversal: selected sections + references (same PDF up to 3 hops, other PDFs 1 hop), with origin per
+         item; written to traversal.json (C does not read it yet)                        [traverse.py]
 C        per section chunk: v3 extraction rules + mapping + references + R175 style examples  [hybrid.stage_c]
 C2       per section chunk: second reader adds obligations C missed or merged           [here, idea from pipeline v2]
 Post     dedupe, page/paragraph from parsed nodes                                       [hybrid.assemble]
@@ -27,6 +29,7 @@ import hybrid as H
 import pipeline as rp
 import reqagent
 from extend_profile import product_blocks
+import traverse
 
 # ------------------------------------------------------------------------------------------------ B additions -----
 H.B_SYSTEM += """
@@ -167,6 +170,10 @@ def main(argv=None):
     A = H.stage_a(blocks, profile, a.threshold, log)
     B = H.stage_b(A, blocks, a.sure, log)
     collapse_nested(B)
+    T = traverse.traverse(A["C"], B)
+    (run / "traversal.json").write_text(json.dumps(T, indent=1, ensure_ascii=False))
+    log("stage T: " + ", ".join(f"{r} {s['items']} items ({s['extract']} extract)" for r, s in T["summary"].items())
+        + f"; {len(T['unresolved'])} unresolved, {len(T['skipped'])} skipped")
     jobs = H.section_jobs(A, B, profile)
     log(f"stage C: {len(jobs)} section calls")
     examples = H.style_examples()
@@ -203,6 +210,7 @@ def main(argv=None):
     subprocess.run([sys.executable, str(H.PKG / "tools/validate.py"), str(run / "submission.json"), "--strict"])
     expected = case / "expected.json"
     if expected.exists():
+        (run / "trace.json").write_text(json.dumps(traverse.trace(T, json.loads(expected.read_text())), indent=1, ensure_ascii=False))
         subprocess.run([sys.executable, str(H.PKG / "tools/score_local.py"), str(run / "submission.json"), "--expected", str(expected)])
         summary = H.evaluate_run(run, sub, expected)
         import judge
