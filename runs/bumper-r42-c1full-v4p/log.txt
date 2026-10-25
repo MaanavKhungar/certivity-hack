@@ -1,0 +1,5 @@
+UN R42 base (0.2.0): 110 nodes, 21,957 chars -> 2 batches (0 oversized), running 2
+  B-001 §0, §1, §2, §3, §4, §5, §6, §7, §8, §9, §10, §11     47 nodes ->   7 reqs
+  B-002 Annex 1, Annex 2, Annex 3                            63 nodes ->  16 reqs
+C1: 23 requirements, 0 flagged; coverage {'processed': 110, 'failed': 0, 'not_processed': 0}; calls 2 (+0 cached)
+T (2 hops): 53 shared context nodes, 0 requirements with incomplete context, diagnostics ['hop_limit']

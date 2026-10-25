@@ -1,0 +1,1425 @@
+{
+ "regulation": "UN R42",
+ "role": "base",
+ "hops": 2,
+ "requirements": [
+  {
+   "id": "R42-base-0001",
+   "text": "After each impact test made in accordance with the conditions and procedure specified in Annex 3, the lighting and signalling devices (including the side signalling lamp integrated in the front bumper, and the decorative lighting if fitted) shall continue to operate correctly.",
+   "table": null,
+   "regulation": "UN R42",
+   "version": "0.2.0",
+   "role": "base",
+   "source_node_ids": [
+    "R42|base|6.1.1"
+   ],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 3,
+    "page_end": 3,
+    "paragraph": "6.1.1"
+   },
+   "batch": "B-001",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R42|base|6.1.1",
+    "R42|base|6.1",
+    "R42|base|6"
+   ],
+   "edges": [
+    {
+     "from": "R42|base|6.1.1",
+     "to": [
+      "R42|base|6.1"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|6.1",
+     "to": [
+      "R42|base|6"
+     ],
+     "relation": "parent",
+     "hop": 0
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R42-base-0002",
+   "text": "After each impact test made in accordance with the conditions and procedure specified in Annex 3, the lighting and signalling devices (including the side signalling lamp integrated in the front bumper, and the decorative lighting if fitted) shall remain visible.",
+   "table": null,
+   "regulation": "UN R42",
+   "version": "0.2.0",
+   "role": "base",
+   "source_node_ids": [
+    "R42|base|6.1.1"
+   ],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 3,
+    "page_end": 3,
+    "paragraph": "6.1.1"
+   },
+   "batch": "B-001",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R42|base|6.1.1",
+    "R42|base|6.1",
+    "R42|base|6"
+   ],
+   "edges": [
+    {
+     "from": "R42|base|6.1.1",
+     "to": [
+      "R42|base|6.1"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|6.1",
+     "to": [
+      "R42|base|6"
+     ],
+     "relation": "parent",
+     "hop": 0
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R42-base-0003",
+   "text": "After each impact test made in accordance with the conditions and procedure specified in Annex 3, the vehicle's bonnet (hood) shall be operable in the normal manner.",
+   "table": null,
+   "regulation": "UN R42",
+   "version": "0.2.0",
+   "role": "base",
+   "source_node_ids": [
+    "R42|base|6.1.2"
+   ],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 3,
+    "page_end": 3,
+    "paragraph": "6.1.2"
+   },
+   "batch": "B-001",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R42|base|6.1.2",
+    "R42|base|6.1",
+    "R42|base|6"
+   ],
+   "edges": [
+    {
+     "from": "R42|base|6.1.2",
+     "to": [
+      "R42|base|6.1"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|6.1",
+     "to": [
+      "R42|base|6"
+     ],
+     "relation": "parent",
+     "hop": 0
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R42-base-0004",
+   "text": "After each impact test made in accordance with the conditions and procedure specified in Annex 3, the vehicle's cooling system (behind the grille and bumper) shall have neither leaks nor constricted fluid passages which prevent normal functioning.",
+   "table": null,
+   "regulation": "UN R42",
+   "version": "0.2.0",
+   "role": "base",
+   "source_node_ids": [
+    "R42|base|6.1.3"
+   ],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 3,
+    "page_end": 3,
+    "paragraph": "6.1.3"
+   },
+   "batch": "B-001",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R42|base|6.1.3",
+    "R42|base|6.1",
+    "R42|base|6"
+   ],
+   "edges": [
+    {
+     "from": "R42|base|6.1.3",
+     "to": [
+      "R42|base|6.1"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|6.1",
+     "to": [
+      "R42|base|6"
+     ],
+     "relation": "parent",
+     "hop": 0
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R42-base-0005",
+   "text": "After each impact test made in accordance with the conditions and procedure specified in Annex 3, the sealing devices and caps of the vehicle's cooling system shall be operable in the normal manner.",
+   "table": null,
+   "regulation": "UN R42",
+   "version": "0.2.0",
+   "role": "base",
+   "source_node_ids": [
+    "R42|base|6.1.3"
+   ],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 3,
+    "page_end": 3,
+    "paragraph": "6.1.3"
+   },
+   "batch": "B-001",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R42|base|6.1.3",
+    "R42|base|6.1",
+    "R42|base|6"
+   ],
+   "edges": [
+    {
+     "from": "R42|base|6.1.3",
+     "to": [
+      "R42|base|6.1"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|6.1",
+     "to": [
+      "R42|base|6"
+     ],
+     "relation": "parent",
+     "hop": 0
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R42-base-0006",
+   "text": "After each impact test made in accordance with the conditions and procedure specified in Annex 3, the vehicle's propulsion, suspension (including tyres), steering and braking systems shall remain in adjustment and shall operate in a normal manner (where the EV charging inlet/flap is present in the bumper, this includes the propulsion/energy-supply parts in the impact zone); this requirement does not apply to sensors, cameras, radar devices, etc. being part of driver assist systems (e.g. the bumper's camera, radar, radar/LIDAR and PDC sensors), which may become damaged, disoriented or broken due to an impact carried out according to Annex 3 as long as the basic braking and steering performance are still intact.",
+   "table": null,
+   "regulation": "UN R42",
+   "version": "0.2.0",
+   "role": "base",
+   "source_node_ids": [
+    "R42|base|6.1.5"
+   ],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 3,
+    "page_end": 3,
+    "paragraph": "6.1.5"
+   },
+   "batch": "B-001",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R42|base|6.1.5",
+    "R42|base|6.1",
+    "R42|base|6",
+    "R42|base|Annex 3 1",
+    "R42|base|Annex 3 2",
+    "R42|base|Annex 3 2.2",
+    "R42|base|Annex 3 2.2.1",
+    "R42|base|Annex 3 2.2.2",
+    "R42|base|Annex 3 2.2.3",
+    "R42|base|Annex 3 2.2.4",
+    "R42|base|Annex 3 2.2.5",
+    "R42|base|Annex 3 2.3",
+    "R42|base|Annex 3 2.3.1",
+    "R42|base|Annex 3 2.3.2",
+    "R42|base|Annex 3 2.3.3",
+    "R42|base|Annex 3 2.3.4",
+    "R42|base|Annex 3 2.3.5",
+    "R42|base|Annex 3 2.3.6",
+    "R42|base|Annex 3 2.4",
+    "R42|base|Annex 3 2.5",
+    "R42|base|Annex 3 2.5.1",
+    "R42|base|Annex 3 2.6",
+    "R42|base|Annex 3 2.6.1",
+    "R42|base|Annex 3 2.6.2",
+    "R42|base|Annex 3 2.6.3",
+    "R42|base|Annex 3 2.7",
+    "R42|base|Annex 3 2.7.1",
+    "R42|base|Annex 3 2.7.2",
+    "R42|base|Annex 3 2.7.3",
+    "R42|base|Annex 3 2.7.4",
+    "R42|base|Annex 3 2.7.5",
+    "R42|base|Annex 3 2.8",
+    "R42|base|Annex 3 2.8.1",
+    "R42|base|Annex 3 2.8.2",
+    "R42|base|Annex 3 2.8.3",
+    "R42|base|Annex 3 2.8.4",
+    "R42|base|Annex 3 3",
+    "R42|base|Annex 3 3.1",
+    "R42|base|Annex 3 3.2",
+    "R42|base|Annex 3 3.3",
+    "R42|base|Annex 3 3.4",
+    "R42|base|Annex 3 3.5",
+    "R42|base|Annex 3 3.6",
+    "R42|base|Annex 3 4",
+    "R42|base|Annex 3 4.1",
+    "R42|base|3.1.5",
+    "R42|base|3.1.3",
+    "R42|base|3.1.4"
+   ],
+   "edges": [
+    {
+     "from": "R42|base|6.1.5",
+     "to": [
+      "R42|base|6.1"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|6.1",
+     "to": [
+      "R42|base|6"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|6.1.5",
+     "to": [
+      "R42|base|Annex 3 1",
+      "R42|base|Annex 3 2",
+      "R42|base|Annex 3 2.2",
+      "R42|base|Annex 3 2.2.1",
+      "R42|base|Annex 3 2.2.2",
+      "R42|base|Annex 3 2.2.3",
+      "R42|base|Annex 3 2.2.4",
+      "R42|base|Annex 3 2.2.5",
+      "R42|base|Annex 3 2.3",
+      "R42|base|Annex 3 2.3.1",
+      "R42|base|Annex 3 2.3.2",
+      "R42|base|Annex 3 2.3.3",
+      "R42|base|Annex 3 2.3.4",
+      "R42|base|Annex 3 2.3.5",
+      "R42|base|Annex 3 2.3.6",
+      "R42|base|Annex 3 2.4",
+      "R42|base|Annex 3 2.5",
+      "R42|base|Annex 3 2.5.1",
+      "R42|base|Annex 3 2.6",
+      "R42|base|Annex 3 2.6.1",
+      "R42|base|Annex 3 2.6.2",
+      "R42|base|Annex 3 2.6.3",
+      "R42|base|Annex 3 2.7",
+      "R42|base|Annex 3 2.7.1",
+      "R42|base|Annex 3 2.7.2",
+      "R42|base|Annex 3 2.7.3",
+      "R42|base|Annex 3 2.7.4",
+      "R42|base|Annex 3 2.7.5",
+      "R42|base|Annex 3 2.8",
+      "R42|base|Annex 3 2.8.1",
+      "R42|base|Annex 3 2.8.2",
+      "R42|base|Annex 3 2.8.3",
+      "R42|base|Annex 3 2.8.4",
+      "R42|base|Annex 3 3",
+      "R42|base|Annex 3 3.1",
+      "R42|base|Annex 3 3.2",
+      "R42|base|Annex 3 3.3",
+      "R42|base|Annex 3 3.4",
+      "R42|base|Annex 3 3.5",
+      "R42|base|Annex 3 3.6",
+      "R42|base|Annex 3 4",
+      "R42|base|Annex 3 4.1"
+     ],
+     "target": "UN R42 Annex 3",
+     "relation": "reference",
+     "ref": "Annex 3",
+     "hop": 1,
+     "cross_regulation": false
+    },
+    {
+     "from": "R42|base|Annex 3 2.3.5",
+     "to": [
+      "R42|base|3.1.5"
+     ],
+     "target": "UN R42 3.1.5",
+     "relation": "reference",
+     "ref": "paragraph 3.1.5.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R42|base|Annex 3 2.7.1",
+     "to": [
+      "R42|base|3.1.3"
+     ],
+     "target": "UN R42 3.1.3",
+     "relation": "reference",
+     "ref": "paragraph 3.1.3.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R42|base|Annex 3 2.7.1",
+     "to": [
+      "R42|base|3.1.4"
+     ],
+     "target": "UN R42 3.1.4",
+     "relation": "reference",
+     "ref": "paragraph 3.1.4.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R42|base|Annex 3 2.8.1",
+     "to": [
+      "R42|base|3.1.3"
+     ],
+     "target": "UN R42 3.1.3",
+     "relation": "reference",
+     "ref": "paragraph 3.1.3.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R42|base|Annex 3 2.8.1",
+     "to": [
+      "R42|base|3.1.4"
+     ],
+     "target": "UN R42 3.1.4",
+     "relation": "reference",
+     "ref": "paragraph 3.1.4.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R42|base|Annex 3 3.5",
+     "to": [
+      "R42|base|Annex 3 2.7.5"
+     ],
+     "target": "UN R42 2.7.5",
+     "relation": "reference",
+     "ref": "paragraphs 2.7.5. and 2.8.4.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R42|base|Annex 3 3.5",
+     "to": [
+      "R42|base|Annex 3 2.8.4"
+     ],
+     "target": "UN R42 2.8.4",
+     "relation": "reference",
+     "ref": "paragraphs 2.7.5. and 2.8.4.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R42|base|Annex 3 3.6",
+     "to": [
+      "R42|base|Annex 3 2.7.5"
+     ],
+     "target": "UN R42 2.7.5",
+     "relation": "reference",
+     "ref": "paragraphs 2.7.5. and 2.8.4.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R42|base|Annex 3 3.6",
+     "to": [
+      "R42|base|Annex 3 2.8.4"
+     ],
+     "target": "UN R42 2.8.4",
+     "relation": "reference",
+     "ref": "paragraphs 2.7.5. and 2.8.4.",
+     "hop": 2,
+     "cross_regulation": false
+    }
+   ],
+   "diagnostics": [
+    {
+     "type": "hop_limit",
+     "note": "3 nodes reached at hop 2 were not scanned for further references"
+    }
+   ],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R42-base-0007",
+   "text": "Every vehicle bearing an approval mark under this Regulation shall conform to the vehicle type approved, particularly as regards features which influence the behaviour of the parts of the structure and the components affected by impact (e.g. the front protective device's dimensions, lines and materials).",
+   "table": null,
+   "regulation": "UN R42",
+   "version": "0.2.0",
+   "role": "base",
+   "source_node_ids": [
+    "R42|base|8.1"
+   ],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 4,
+    "page_end": 4,
+    "paragraph": "8.1"
+   },
+   "batch": "B-001",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R42|base|8.1",
+    "R42|base|8"
+   ],
+   "edges": [
+    {
+     "from": "R42|base|8.1",
+     "to": [
+      "R42|base|8"
+     ],
+     "relation": "parent",
+     "hop": 0
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R42-base-0008",
+   "text": "In the impact tests of Annex 3, the first contact of the impactor with the vehicle shall be by the impact contour on the front protective device (bumper), the impactor reference line being at the reference height of 445 mm.",
+   "table": null,
+   "regulation": "UN R42",
+   "version": "0.2.0",
+   "role": "base",
+   "source_node_ids": [
+    "R42|base|Annex 3 2.3.5",
+    "R42|base|Annex 3 2.3.6"
+   ],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "Annex 3 2.3.5"
+   },
+   "batch": "B-002",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R42|base|Annex 3 2.3.5",
+    "R42|base|Annex 3 2.3.6",
+    "R42|base|Annex 3 2.3",
+    "R42|base|Annex 3 2",
+    "R42|base|3.1.5"
+   ],
+   "edges": [
+    {
+     "from": "R42|base|Annex 3 2.3.5",
+     "to": [
+      "R42|base|Annex 3 2.3"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|Annex 3 2.3",
+     "to": [
+      "R42|base|Annex 3 2"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|Annex 3 2.3.6",
+     "to": [
+      "R42|base|Annex 3 2.3"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|Annex 3 2.3",
+     "to": [
+      "R42|base|Annex 3 2"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|Annex 3 2.3.5",
+     "to": [
+      "R42|base|3.1.5"
+     ],
+     "target": "UN R42 3.1.5",
+     "relation": "reference",
+     "ref": "paragraph 3.1.5.",
+     "hop": 1,
+     "cross_regulation": false
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R42-base-0009",
+   "text": "In both vehicle-loading conditions (unladen weight and laden test weight), the front protective device between the vehicle corners (as defined in paragraph 3.1.5.) shall be intersected by the horizontal plane passing through the impactor reference line at the reference height of 445 mm.",
+   "table": null,
+   "regulation": "UN R42",
+   "version": "0.2.0",
+   "role": "base",
+   "source_node_ids": [
+    "R42|base|Annex 3 2.3.5",
+    "R42|base|Annex 3 2.3.6"
+   ],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "Annex 3 2.3.5"
+   },
+   "batch": "B-002",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R42|base|Annex 3 2.3.5",
+    "R42|base|Annex 3 2.3.6",
+    "R42|base|Annex 3 2.3",
+    "R42|base|Annex 3 2",
+    "R42|base|3.1.5"
+   ],
+   "edges": [
+    {
+     "from": "R42|base|Annex 3 2.3.5",
+     "to": [
+      "R42|base|Annex 3 2.3"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|Annex 3 2.3",
+     "to": [
+      "R42|base|Annex 3 2"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|Annex 3 2.3.6",
+     "to": [
+      "R42|base|Annex 3 2.3"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|Annex 3 2.3",
+     "to": [
+      "R42|base|Annex 3 2"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|Annex 3 2.3.5",
+     "to": [
+      "R42|base|3.1.5"
+     ],
+     "target": "UN R42 3.1.5",
+     "relation": "reference",
+     "ref": "paragraph 3.1.5.",
+     "hop": 1,
+     "cross_regulation": false
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R42-base-0010",
+   "text": "The effective mass of the impactor used to test the front protective device shall be equal to the mass corresponding to the unladen weight of the vehicle tested.",
+   "table": null,
+   "regulation": "UN R42",
+   "version": "0.2.0",
+   "role": "base",
+   "source_node_ids": [
+    "R42|base|Annex 3 2.3.3"
+   ],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "Annex 3 2.3.3"
+   },
+   "batch": "B-002",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R42|base|Annex 3 2.3.3",
+    "R42|base|Annex 3 2.3",
+    "R42|base|Annex 3 2"
+   ],
+   "edges": [
+    {
+     "from": "R42|base|Annex 3 2.3.3",
+     "to": [
+      "R42|base|Annex 3 2.3"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|Annex 3 2.3",
+     "to": [
+      "R42|base|Annex 3 2"
+     ],
+     "relation": "parent",
+     "hop": 0
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R42-base-0011",
+   "text": "The front protective device shall be subjected to a longitudinal impact test consisting of two impacts on the front surface of the vehicle: one with the vehicle at unladen weight (paragraph 3.1.3.) and one with the vehicle at laden test weight (paragraph 3.1.4.).",
+   "table": null,
+   "regulation": "UN R42",
+   "version": "0.2.0",
+   "role": "base",
+   "source_node_ids": [
+    "R42|base|Annex 3 2.7.1"
+   ],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "Annex 3 2.7.1"
+   },
+   "batch": "B-002",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R42|base|Annex 3 2.7.1",
+    "R42|base|Annex 3 2.7",
+    "R42|base|Annex 3 2",
+    "R42|base|3.1.3",
+    "R42|base|3.1.4"
+   ],
+   "edges": [
+    {
+     "from": "R42|base|Annex 3 2.7.1",
+     "to": [
+      "R42|base|Annex 3 2.7"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|Annex 3 2.7",
+     "to": [
+      "R42|base|Annex 3 2"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|Annex 3 2.7.1",
+     "to": [
+      "R42|base|3.1.3"
+     ],
+     "target": "UN R42 3.1.3",
+     "relation": "reference",
+     "ref": "paragraph 3.1.3.",
+     "hop": 1,
+     "cross_regulation": false
+    },
+    {
+     "from": "R42|base|Annex 3 2.7.1",
+     "to": [
+      "R42|base|3.1.4"
+     ],
+     "target": "UN R42 3.1.4",
+     "relation": "reference",
+     "ref": "paragraph 3.1.4.",
+     "hop": 1,
+     "cross_regulation": false
+    },
+    {
+     "from": "R42|base|3.1.4",
+     "to": [
+      "R42|base|3.1.3"
+     ],
+     "target": "UN R42 3.1.3",
+     "relation": "reference",
+     "ref": "paragraph 3.1.3.",
+     "hop": 2,
+     "cross_regulation": false
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R42-base-0012",
+   "text": "For the two longitudinal impacts on the front surface, the location of the first impact is free, but for the second impact the median plane of the impactor shall be at least 300 mm from the first, provided that the extremities of the impactor do not pass outside the zone defined by two planes parallel to the longitudinal median plane passing through the vehicle corners.",
+   "table": null,
+   "regulation": "UN R42",
+   "version": "0.2.0",
+   "role": "base",
+   "source_node_ids": [
+    "R42|base|Annex 3 2.7.2"
+   ],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "Annex 3 2.7.2"
+   },
+   "batch": "B-002",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R42|base|Annex 3 2.7.2",
+    "R42|base|Annex 3 2.7",
+    "R42|base|Annex 3 2"
+   ],
+   "edges": [
+    {
+     "from": "R42|base|Annex 3 2.7.2",
+     "to": [
+      "R42|base|Annex 3 2.7"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|Annex 3 2.7",
+     "to": [
+      "R42|base|Annex 3 2"
+     ],
+     "relation": "parent",
+     "hop": 0
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R42-base-0013",
+   "text": "In the front longitudinal impact test, the impactor is placed with plane A vertical and the reference line horizontal at 445 mm, and the vehicle is aligned so that a point between the vehicle corners touches the impactor with the vehicle's longitudinal median plane perpendicular to plane A.",
+   "table": null,
+   "regulation": "UN R42",
+   "version": "0.2.0",
+   "role": "base",
+   "source_node_ids": [
+    "R42|base|Annex 3 2.7.3",
+    "R42|base|Annex 3 2.7.4"
+   ],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "Annex 3 2.7.3"
+   },
+   "batch": "B-002",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R42|base|Annex 3 2.7.3",
+    "R42|base|Annex 3 2.7.4",
+    "R42|base|Annex 3 2.7",
+    "R42|base|Annex 3 2"
+   ],
+   "edges": [
+    {
+     "from": "R42|base|Annex 3 2.7.3",
+     "to": [
+      "R42|base|Annex 3 2.7"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|Annex 3 2.7",
+     "to": [
+      "R42|base|Annex 3 2"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|Annex 3 2.7.4",
+     "to": [
+      "R42|base|Annex 3 2.7"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|Annex 3 2.7",
+     "to": [
+      "R42|base|Annex 3 2"
+     ],
+     "relation": "parent",
+     "hop": 0
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R42-base-0014",
+   "text": "In the front longitudinal impact test, the vehicle is impacted at a speed of 4 km/h +0.25/-0 km/h.",
+   "table": null,
+   "regulation": "UN R42",
+   "version": "0.2.0",
+   "role": "base",
+   "source_node_ids": [
+    "R42|base|Annex 3 2.7.5"
+   ],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "Annex 3 2.7.5"
+   },
+   "batch": "B-002",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R42|base|Annex 3 2.7.5",
+    "R42|base|Annex 3 2.7",
+    "R42|base|Annex 3 2"
+   ],
+   "edges": [
+    {
+     "from": "R42|base|Annex 3 2.7.5",
+     "to": [
+      "R42|base|Annex 3 2.7"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|Annex 3 2.7",
+     "to": [
+      "R42|base|Annex 3 2"
+     ],
+     "relation": "parent",
+     "hop": 0
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R42-base-0015",
+   "text": "The front protective device shall be subjected to a corner impact test consisting of an impact at one front corner with the vehicle at unladen weight (paragraph 3.1.3.) and an impact at the other front corner with the vehicle at the weight given in paragraph 3.1.4. (laden test weight).",
+   "table": null,
+   "regulation": "UN R42",
+   "version": "0.2.0",
+   "role": "base",
+   "source_node_ids": [
+    "R42|base|Annex 3 2.8.1"
+   ],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "Annex 3 2.8.1"
+   },
+   "batch": "B-002",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R42|base|Annex 3 2.8.1",
+    "R42|base|Annex 3 2.8",
+    "R42|base|Annex 3 2",
+    "R42|base|3.1.3",
+    "R42|base|3.1.4"
+   ],
+   "edges": [
+    {
+     "from": "R42|base|Annex 3 2.8.1",
+     "to": [
+      "R42|base|Annex 3 2.8"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|Annex 3 2.8",
+     "to": [
+      "R42|base|Annex 3 2"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|Annex 3 2.8.1",
+     "to": [
+      "R42|base|3.1.3"
+     ],
+     "target": "UN R42 3.1.3",
+     "relation": "reference",
+     "ref": "paragraph 3.1.3.",
+     "hop": 1,
+     "cross_regulation": false
+    },
+    {
+     "from": "R42|base|Annex 3 2.8.1",
+     "to": [
+      "R42|base|3.1.4"
+     ],
+     "target": "UN R42 3.1.4",
+     "relation": "reference",
+     "ref": "paragraph 3.1.4.",
+     "hop": 1,
+     "cross_regulation": false
+    },
+    {
+     "from": "R42|base|3.1.4",
+     "to": [
+      "R42|base|3.1.3"
+     ],
+     "target": "UN R42 3.1.3",
+     "relation": "reference",
+     "ref": "paragraph 3.1.3.",
+     "hop": 2,
+     "cross_regulation": false
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R42-base-0016",
+   "text": "In the front corner impact test, with plane A of the impactor vertical and the reference line horizontal at 445 mm and a vehicle corner touching the impactor, plane A of the impactor shall make an angle of 60 ± 5° with the longitudinal median plane of the vehicle.",
+   "table": null,
+   "regulation": "UN R42",
+   "version": "0.2.0",
+   "role": "base",
+   "source_node_ids": [
+    "R42|base|Annex 3 2.8.2",
+    "R42|base|Annex 3 2.8.3"
+   ],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "Annex 3 2.8.2"
+   },
+   "batch": "B-002",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R42|base|Annex 3 2.8.2",
+    "R42|base|Annex 3 2.8.3",
+    "R42|base|Annex 3 2.8",
+    "R42|base|Annex 3 2"
+   ],
+   "edges": [
+    {
+     "from": "R42|base|Annex 3 2.8.2",
+     "to": [
+      "R42|base|Annex 3 2.8"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|Annex 3 2.8",
+     "to": [
+      "R42|base|Annex 3 2"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|Annex 3 2.8.3",
+     "to": [
+      "R42|base|Annex 3 2.8"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|Annex 3 2.8",
+     "to": [
+      "R42|base|Annex 3 2"
+     ],
+     "relation": "parent",
+     "hop": 0
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R42-base-0017",
+   "text": "In the front corner impact test, the point of first contact on the vehicle shall be in the vertical median plane of the impactor within a tolerance of ± 25 mm.",
+   "table": null,
+   "regulation": "UN R42",
+   "version": "0.2.0",
+   "role": "base",
+   "source_node_ids": [
+    "R42|base|Annex 3 2.8.3"
+   ],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "Annex 3 2.8.3"
+   },
+   "batch": "B-002",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R42|base|Annex 3 2.8.3",
+    "R42|base|Annex 3 2.8",
+    "R42|base|Annex 3 2"
+   ],
+   "edges": [
+    {
+     "from": "R42|base|Annex 3 2.8.3",
+     "to": [
+      "R42|base|Annex 3 2.8"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|Annex 3 2.8",
+     "to": [
+      "R42|base|Annex 3 2"
+     ],
+     "relation": "parent",
+     "hop": 0
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R42-base-0018",
+   "text": "In the front corner impact test, the vehicle is impacted at a speed of 2.5 km/h +0.1/-0 km/h.",
+   "table": null,
+   "regulation": "UN R42",
+   "version": "0.2.0",
+   "role": "base",
+   "source_node_ids": [
+    "R42|base|Annex 3 2.8.4"
+   ],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "Annex 3 2.8.4"
+   },
+   "batch": "B-002",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R42|base|Annex 3 2.8.4",
+    "R42|base|Annex 3 2.8",
+    "R42|base|Annex 3 2"
+   ],
+   "edges": [
+    {
+     "from": "R42|base|Annex 3 2.8.4",
+     "to": [
+      "R42|base|Annex 3 2.8"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|Annex 3 2.8",
+     "to": [
+      "R42|base|Annex 3 2"
+     ],
+     "relation": "parent",
+     "hop": 0
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R42-base-0019",
+   "text": "The front protective device and the mountings attaching it to the vehicle structure may be repaired or replaced between the impact tests.",
+   "table": null,
+   "regulation": "UN R42",
+   "version": "0.2.0",
+   "role": "base",
+   "source_node_ids": [
+    "R42|base|Annex 3 3.1"
+   ],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "Annex 3 3.1"
+   },
+   "batch": "B-002",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R42|base|Annex 3 3.1",
+    "R42|base|Annex 3 3"
+   ],
+   "edges": [
+    {
+     "from": "R42|base|Annex 3 3.1",
+     "to": [
+      "R42|base|Annex 3 3"
+     ],
+     "relation": "parent",
+     "hop": 0
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R42-base-0020",
+   "text": "If the front protective device includes self-restoring materials (e.g. a recoverable EPP absorber), the permitted recovery time between tests shall be as stated by the manufacturer.",
+   "table": null,
+   "regulation": "UN R42",
+   "version": "0.2.0",
+   "role": "base",
+   "source_node_ids": [
+    "R42|base|Annex 3 3.2"
+   ],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "Annex 3 3.2"
+   },
+   "batch": "B-002",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R42|base|Annex 3 3.2",
+    "R42|base|Annex 3 3"
+   ],
+   "edges": [
+    {
+     "from": "R42|base|Annex 3 3.2",
+     "to": [
+      "R42|base|Annex 3 3"
+     ],
+     "relation": "parent",
+     "hop": 0
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R42-base-0021",
+   "text": "If the manufacturer so requests, a vehicle of the same type may be used for each impact test.",
+   "table": null,
+   "regulation": "UN R42",
+   "version": "0.2.0",
+   "role": "base",
+   "source_node_ids": [
+    "R42|base|Annex 3 3.3"
+   ],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "Annex 3 3.3"
+   },
+   "batch": "B-002",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R42|base|Annex 3 3.3",
+    "R42|base|Annex 3 3"
+   ],
+   "edges": [
+    {
+     "from": "R42|base|Annex 3 3.3",
+     "to": [
+      "R42|base|Annex 3 3"
+     ],
+     "relation": "parent",
+     "hop": 0
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R42-base-0022",
+   "text": "If the impact test has been carried out at an impact speed or with an impact mass exceeding those indicated in paragraphs 2.7.5. and 2.8.4. of Annex 3, and the vehicle has satisfied the prescribed conditions, the test is considered satisfactory.",
+   "table": null,
+   "regulation": "UN R42",
+   "version": "0.2.0",
+   "role": "base",
+   "source_node_ids": [
+    "R42|base|Annex 3 3.5"
+   ],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "Annex 3 3.5"
+   },
+   "batch": "B-002",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R42|base|Annex 3 3.5",
+    "R42|base|Annex 3 3",
+    "R42|base|Annex 3 2.7.5",
+    "R42|base|Annex 3 2.8.4"
+   ],
+   "edges": [
+    {
+     "from": "R42|base|Annex 3 3.5",
+     "to": [
+      "R42|base|Annex 3 3"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R42|base|Annex 3 3.5",
+     "to": [
+      "R42|base|Annex 3 2.7.5"
+     ],
+     "target": "UN R42 2.7.5",
+     "relation": "reference",
+     "ref": "paragraphs 2.7.5. and 2.8.4.",
+     "hop": 1,
+     "cross_regulation": false
+    },
+    {
+     "from": "R42|base|Annex 3 3.5",
+     "to": [
+      "R42|base|Annex 3 2.8.4"
+     ],
+     "target": "UN R42 2.8.4",
+     "relation": "reference",
+     "ref": "paragraphs 2.7.5. and 2.8.4.",
+     "hop": 1,
+     "cross_regulation": false
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R42-base-0023",
+   "text": "Other equivalent test methods are permitted for verifying the front protective device, provided that the conditions referred to in this Regulation can be observed and their equivalence can be demonstrated.",
+   "table": null,
+   "regulation": "UN R42",
+   "version": "0.2.0",
+   "role": "base",
+   "source_node_ids": [
+    "R42|base|Annex 3 4.1"
+   ],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "Annex 3 4.1"
+   },
+   "batch": "B-002",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R42|base|Annex 3 4.1",
+    "R42|base|Annex 3 4"
+   ],
+   "edges": [
+    {
+     "from": "R42|base|Annex 3 4.1",
+     "to": [
+      "R42|base|Annex 3 4"
+     ],
+     "relation": "parent",
+     "hop": 0
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  }
+ ]
+}

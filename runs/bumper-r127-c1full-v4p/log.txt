@@ -1,0 +1,7 @@
+UN R127 base (4.3.0): 326 nodes, 101,383 chars -> 4 batches (0 oversized), running 4
+  B-004 Annex 6                                              58 nodes ->   0 reqs
+  B-002 §6, §7, §8, §9, §10, §11                             39 nodes ->   0 reqs
+  B-001 §0, §1, §2, §3, §4, §5                               87 nodes ->  14 reqs
+  B-003 Annex 1, Annex 2, Annex 3, Annex 4, Annex 5         142 nodes ->  31 reqs
+C1: 45 requirements, 0 flagged; coverage {'processed': 326, 'failed': 0, 'not_processed': 0}; calls 4 (+0 cached)
+T (2 hops): 292 shared context nodes, 11 requirements with incomplete context, diagnostics ['hop_limit', 'unresolved']

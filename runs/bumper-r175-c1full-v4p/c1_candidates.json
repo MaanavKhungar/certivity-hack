@@ -1,0 +1,1778 @@
+{
+ "candidates": [
+  {
+   "batch": "B-001",
+   "index_in_response": 0,
+   "text": "If the bumper sensors (ultrasonic PDC, radar, radar/LIDAR and/or camera) serve as ACPE forward detection means: the ACPE shall be able to limit unintended acceleration of the vehicle when an accelerator control misapplication by the driver has been detected, at least when an obstacle exists in front of the vehicle and the driving direction is selected to be forward.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|5.1.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|5.1.1"
+    ],
+    "table": null,
+    "text": "If the bumper sensors (ultrasonic PDC, radar, radar/LIDAR and/or camera) serve as ACPE forward detection means: the ACPE shall be able to limit unintended acceleration of the vehicle when an accelerator control misapplication by the driver has been detected, at least when an obstacle exists in front of the vehicle and the driving direction is selected to be forward."
+   },
+   "id": "R175-base-0001",
+   "source_node_ids": [
+    "R175|base|5.1.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 4,
+    "page_end": 4,
+    "paragraph": "5.1.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 1,
+   "text": "If the bumper sensors serve as ACPE forward detection means: if the ACPE is not ready to perform an intervention 6 seconds after the initiation of the vehicle powertrain, this status shall be indicated to the driver, and this information shall exist until the system has been successfully initialised.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|5.1.4.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|5.1.4.1"
+    ],
+    "table": null,
+    "text": "If the bumper sensors serve as ACPE forward detection means: if the ACPE is not ready to perform an intervention 6 seconds after the initiation of the vehicle powertrain, this status shall be indicated to the driver, and this information shall exist until the system has been successfully initialised."
+   },
+   "id": "R175-base-0002",
+   "source_node_ids": [
+    "R175|base|5.1.4.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 4,
+    "page_end": 4,
+    "paragraph": "5.1.4.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 2,
+   "text": "If the bumper sensors serve as ACPE forward detection means: the ACPE shall limit vehicle acceleration to prevent or mitigate a collision with an obstacle located between 1.0 m and 1.5 m in front of the vehicle, in the vehicle path, at the time the accelerator control is applied, provided: the road is flat, horizontal and dry affording good adhesion; the weather does not affect vehicle performance (e.g. no storm, not below 0 °C); the vehicle state allows the acceleration inhibition (tyres, brakes, no severe uneven load, no trailer, mass between maximum mass and mass in running order, powertrain management operational); ambient illumination is at least 1000 lux with no extreme blinding of the sensors (e.g. direct blinding sunlight, highly radar-reflective environment); the target vehicle is not extreme in Radar Cross Section or shape/silhouette (e.g. below the fifth percentile of RCS of all M1 vehicles); no significant weather conditions affect sensing (e.g. heavy rain, dense fog, snow, dirt); no overhead obstructions are close to the vehicle; the obstacle is stationary, unobstructed and clearly separated from other objects; the lateral offset between obstacle and vehicle centrelines is not more than 0.2 m; the travel direction is straight; and the obstacle is an M1 vehicle or a wall-like structure at least 2.0 m wide and 1.0 m high.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|5.1.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|5.1.5"
+    ],
+    "table": null,
+    "text": "If the bumper sensors serve as ACPE forward detection means: the ACPE shall limit vehicle acceleration to prevent or mitigate a collision with an obstacle located between 1.0 m and 1.5 m in front of the vehicle, in the vehicle path, at the time the accelerator control is applied, provided: the road is flat, horizontal and dry affording good adhesion; the weather does not affect vehicle performance (e.g. no storm, not below 0 °C); the vehicle state allows the acceleration inhibition (tyres, brakes, no severe uneven load, no trailer, mass between maximum mass and mass in running order, powertrain management operational); ambient illumination is at least 1000 lux with no extreme blinding of the sensors (e.g. direct blinding sunlight, highly radar-reflective environment); the target vehicle is not extreme in Radar Cross Section or shape/silhouette (e.g. below the fifth percentile of RCS of all M1 vehicles); no significant weather conditions affect sensing (e.g. heavy rain, dense fog, snow, dirt); no overhead obstructions are close to the vehicle; the obstacle is stationary, unobstructed and clearly separated from other objects; the lateral offset between obstacle and vehicle centrelines is not more than 0.2 m; the travel direction is straight; and the obstacle is an M1 vehicle or a wall-like structure at least 2.0 m wide and 1.0 m high."
+   },
+   "id": "R175-base-0003",
+   "source_node_ids": [
+    "R175|base|5.1.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 4,
+    "page_end": 5,
+    "paragraph": "5.1.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 3,
+   "text": "If the bumper sensors serve as ACPE forward detection means: when conditions deviate from those listed in paragraph 5.1.5 (e.g. sensing conditions, weather, illumination), the system shall not deactivate or unreasonably switch the control strategy; this shall be demonstrated by the manufacturer in accordance with Annex 3 and may be followed by Technical Service testing in deviating conditions.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|5.1.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|5.1.5"
+    ],
+    "table": null,
+    "text": "If the bumper sensors serve as ACPE forward detection means: when conditions deviate from those listed in paragraph 5.1.5 (e.g. sensing conditions, weather, illumination), the system shall not deactivate or unreasonably switch the control strategy; this shall be demonstrated by the manufacturer in accordance with Annex 3 and may be followed by Technical Service testing in deviating conditions."
+   },
+   "id": "R175-base-0004",
+   "source_node_ids": [
+    "R175|base|5.1.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 4,
+    "page_end": 5,
+    "paragraph": "5.1.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 4,
+   "text": "If the bumper sensors serve as ACPE forward detection means: in the case that a collision is not prevented, the collision speed shall be no greater than 8 km/h higher than the vehicle speed at the point where the triggering conditions of paragraph 5.1.2 are met.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|5.1.6"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|5.1.6"
+    ],
+    "table": null,
+    "text": "If the bumper sensors serve as ACPE forward detection means: in the case that a collision is not prevented, the collision speed shall be no greater than 8 km/h higher than the vehicle speed at the point where the triggering conditions of paragraph 5.1.2 are met."
+   },
+   "id": "R175-base-0005",
+   "source_node_ids": [
+    "R175|base|5.1.6"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 5,
+    "page_end": 5,
+    "paragraph": "5.1.6"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 5,
+   "text": "If the bumper sensors serve as ACPE forward detection means: in the case that a collision is not prevented, the collision speed shall not be greater than 70 % of the speed the vehicle would have had in the same position and circumstances without ACPE intervention; however, for vehicles that do not exceed 8 km/h without ACPE in the test scenarios but cannot achieve a 30 % speed reduction due to a low engine power to test mass ratio, the speed reduction shall be at least 15 %.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|5.1.6.1",
+    "R175|base|5.1.6"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|5.1.6.1",
+     "R175|base|5.1.6"
+    ],
+    "table": null,
+    "text": "If the bumper sensors serve as ACPE forward detection means: in the case that a collision is not prevented, the collision speed shall not be greater than 70 % of the speed the vehicle would have had in the same position and circumstances without ACPE intervention; however, for vehicles that do not exceed 8 km/h without ACPE in the test scenarios but cannot achieve a 30 % speed reduction due to a low engine power to test mass ratio, the speed reduction shall be at least 15 %."
+   },
+   "id": "R175-base-0006",
+   "source_node_ids": [
+    "R175|base|5.1.6.1",
+    "R175|base|5.1.6"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 5,
+    "page_end": 5,
+    "paragraph": "5.1.6.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 6,
+   "text": "If the bumper sensors serve as ACPE forward detection means: during any intervention the vehicle acceleration shall continue to be limited by the ACPE; the intervention may be ended when the obstacle is no longer detected or the driver has interrupted the function.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|5.1.7"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|5.1.7"
+    ],
+    "table": null,
+    "text": "If the bumper sensors serve as ACPE forward detection means: during any intervention the vehicle acceleration shall continue to be limited by the ACPE; the intervention may be ended when the obstacle is no longer detected or the driver has interrupted the function."
+   },
+   "id": "R175-base-0007",
+   "source_node_ids": [
+    "R175|base|5.1.7"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 5,
+    "page_end": 5,
+    "paragraph": "5.1.7"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 7,
+   "text": "If the bumper sensors serve as ACPE forward detection means: the effectiveness of the ACPE shall not be adversely affected by magnetic or electrical fields, demonstrated by fulfilling the technical requirements and respecting the transitional provisions of the 06 or later series of amendments to UN Regulation No. 10.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|5.1.8"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|5.1.8"
+    ],
+    "table": null,
+    "text": "If the bumper sensors serve as ACPE forward detection means: the effectiveness of the ACPE shall not be adversely affected by magnetic or electrical fields, demonstrated by fulfilling the technical requirements and respecting the transitional provisions of the 06 or later series of amendments to UN Regulation No. 10."
+   },
+   "id": "R175-base-0008",
+   "source_node_ids": [
+    "R175|base|5.1.8"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 5,
+    "page_end": 5,
+    "paragraph": "5.1.8"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 8,
+   "text": "If the bumper sensors serve as ACPE forward detection means: conformity with the safety aspects of electronic control systems shall be shown by meeting the requirements of Annex 3.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|5.1.9"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|5.1.9"
+    ],
+    "table": null,
+    "text": "If the bumper sensors serve as ACPE forward detection means: conformity with the safety aspects of electronic control systems shall be shown by meeting the requirements of Annex 3."
+   },
+   "id": "R175-base-0009",
+   "source_node_ids": [
+    "R175|base|5.1.9"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 5,
+    "page_end": 5,
+    "paragraph": "5.1.9"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 9,
+   "text": "If the bumper sensors serve as ACPE forward detection means: a failure warning as specified in paragraph 5.4.3 shall be given to the driver when there is a failure in the ACPE (including its detection sensors) that prevents the requirements of the Regulation being met.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|5.3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|5.3.1"
+    ],
+    "table": null,
+    "text": "If the bumper sensors serve as ACPE forward detection means: a failure warning as specified in paragraph 5.4.3 shall be given to the driver when there is a failure in the ACPE (including its detection sensors) that prevents the requirements of the Regulation being met."
+   },
+   "id": "R175-base-0010",
+   "source_node_ids": [
+    "R175|base|5.3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 6,
+    "page_end": 6,
+    "paragraph": "5.3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 10,
+   "text": "If the bumper sensors serve as ACPE forward detection means: it is not required to provide a failure warning signal to indicate that the ACPE is temporarily not available, for example due to inclement weather conditions.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|5.3.1.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|5.3.1.1"
+    ],
+    "table": null,
+    "text": "If the bumper sensors serve as ACPE forward detection means: it is not required to provide a failure warning signal to indicate that the ACPE is temporarily not available, for example due to inclement weather conditions."
+   },
+   "id": "R175-base-0011",
+   "source_node_ids": [
+    "R175|base|5.3.1.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "5.3.1.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 11,
+   "text": "If the bumper sensors serve as ACPE forward detection means: there shall not be an appreciable time interval between each ACPE self-check.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|5.3.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|5.3.2"
+    ],
+    "table": null,
+    "text": "If the bumper sensors serve as ACPE forward detection means: there shall not be an appreciable time interval between each ACPE self-check."
+   },
+   "id": "R175-base-0012",
+   "source_node_ids": [
+    "R175|base|5.3.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "5.3.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 12,
+   "text": "If the bumper sensors serve as ACPE forward detection means: in the case of an electrically detectable failure there shall not be a delay in illuminating the failure warning signal; however, if the vehicle speed is greater than 10 km/h when the failure is detected, the warning may be suppressed until the vehicle speed is next below 10 km/h.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|5.3.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|5.3.2"
+    ],
+    "table": null,
+    "text": "If the bumper sensors serve as ACPE forward detection means: in the case of an electrically detectable failure there shall not be a delay in illuminating the failure warning signal; however, if the vehicle speed is greater than 10 km/h when the failure is detected, the warning may be suppressed until the vehicle speed is next below 10 km/h."
+   },
+   "id": "R175-base-0013",
+   "source_node_ids": [
+    "R175|base|5.3.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "5.3.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 13,
+   "text": "If the bumper sensors serve as ACPE forward detection means: a failure warning shall also be given to the driver in the case of a detected non-electrical failure condition (e.g. sensor blindness or sensor misalignment), unless a deactivation warning is given as per paragraph 5.2.3.1.3.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|5.3.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|5.3.3"
+    ],
+    "table": null,
+    "text": "If the bumper sensors serve as ACPE forward detection means: a failure warning shall also be given to the driver in the case of a detected non-electrical failure condition (e.g. sensor blindness or sensor misalignment), unless a deactivation warning is given as per paragraph 5.2.3.1.3."
+   },
+   "id": "R175-base-0014",
+   "source_node_ids": [
+    "R175|base|5.3.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "5.3.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 14,
+   "text": "If the bumper sensors serve as ACPE forward detection means: the ACPE performance tests are performed at an ambient temperature between 0 °C and 45 °C.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|6.1.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|6.1.3"
+    ],
+    "table": null,
+    "text": "If the bumper sensors serve as ACPE forward detection means: the ACPE performance tests are performed at an ambient temperature between 0 °C and 45 °C."
+   },
+   "id": "R175-base-0015",
+   "source_node_ids": [
+    "R175|base|6.1.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "6.1.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 15,
+   "text": "If the bumper sensors serve as ACPE forward detection means: the ACPE performance tests are performed with natural ambient illumination homogeneous in the test area and in excess of 1000 lux.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|6.1.6"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|6.1.6"
+    ],
+    "table": null,
+    "text": "If the bumper sensors serve as ACPE forward detection means: the ACPE performance tests are performed with natural ambient illumination homogeneous in the test area and in excess of 1000 lux."
+   },
+   "id": "R175-base-0016",
+   "source_node_ids": [
+    "R175|base|6.1.6"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "6.1.6"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 16,
+   "text": "If the bumper sensors serve as ACPE forward detection means: at the request of the manufacturer and with the agreement of the Technical Service, tests may be conducted under deviating (suboptimal) conditions, e.g. on a not dry surface or below the specified minimum ambient temperature, whilst the performance requirements are still to be met.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|6.1.7"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|6.1.7"
+    ],
+    "table": null,
+    "text": "If the bumper sensors serve as ACPE forward detection means: at the request of the manufacturer and with the agreement of the Technical Service, tests may be conducted under deviating (suboptimal) conditions, e.g. on a not dry surface or below the specified minimum ambient temperature, whilst the performance requirements are still to be met."
+   },
+   "id": "R175-base-0017",
+   "source_node_ids": [
+    "R175|base|6.1.7"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "6.1.7"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 17,
+   "text": "If the bumper sensors serve as ACPE forward detection means and if requested by the vehicle manufacturer: the vehicle may be driven a maximum of 100 km on a mixture of urban and rural roads with other traffic and roadside furniture to initialise the sensor system before testing.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|6.3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|6.3.1"
+    ],
+    "table": null,
+    "text": "If the bumper sensors serve as ACPE forward detection means and if requested by the vehicle manufacturer: the vehicle may be driven a maximum of 100 km on a mixture of urban and rural roads with other traffic and roadside furniture to initialise the sensor system before testing."
+   },
+   "id": "R175-base-0018",
+   "source_node_ids": [
+    "R175|base|6.3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "6.3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 18,
+   "text": "If the bumper sensors serve as ACPE forward detection means: the ACPE shall detect, in the vehicle detection tests, a target that is a regular high-volume series production passenger car of Category M1 or a soft target representative of a passenger vehicle in terms of its identification characteristics applicable to the ACPE sensor system according to ISO 19206-1:2018 or ISO 19206-3:2021 at the choice of the manufacturer.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|6.4.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|6.4.1"
+    ],
+    "table": null,
+    "text": "If the bumper sensors serve as ACPE forward detection means: the ACPE shall detect, in the vehicle detection tests, a target that is a regular high-volume series production passenger car of Category M1 or a soft target representative of a passenger vehicle in terms of its identification characteristics applicable to the ACPE sensor system according to ISO 19206-1:2018 or ISO 19206-3:2021 at the choice of the manufacturer."
+   },
+   "id": "R175-base-0019",
+   "source_node_ids": [
+    "R175|base|6.4.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "6.4.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 19,
+   "text": "If the bumper sensors serve as ACPE forward detection means: the accelerator control misapplication test shall be performed in the forward direction with and without an expected ACPE intervention, with the vehicle at least 1.0 m (+0.1 m) and 1.5 m (-0.1 m) from the target at the start, a lateral offset between target and vehicle centrelines of 0.0 m to 0.2 m, steering in neutral, and the triggering conditions of paragraph 5.1.2 achieved before the vehicle reaches 0.5 km/h.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|6.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|6.5"
+    ],
+    "table": null,
+    "text": "If the bumper sensors serve as ACPE forward detection means: the accelerator control misapplication test shall be performed in the forward direction with and without an expected ACPE intervention, with the vehicle at least 1.0 m (+0.1 m) and 1.5 m (-0.1 m) from the target at the start, a lateral offset between target and vehicle centrelines of 0.0 m to 0.2 m, steering in neutral, and the triggering conditions of paragraph 5.1.2 achieved before the vehicle reaches 0.5 km/h."
+   },
+   "id": "R175-base-0020",
+   "source_node_ids": [
+    "R175|base|6.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 9,
+    "paragraph": "6.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 20,
+   "text": "If the bumper sensors serve as ACPE forward detection means: forward driving direction, distance to target 1.0 m (tolerance +0.1 m longitudinal, ±0.2 m lateral), target present: the ACPE shall intervene.",
+   "table": "1",
+   "cited_ids": [
+    "R175|base|6.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|6.5"
+    ],
+    "table": "1",
+    "text": "If the bumper sensors serve as ACPE forward detection means: forward driving direction, distance to target 1.0 m (tolerance +0.1 m longitudinal, ±0.2 m lateral), target present: the ACPE shall intervene."
+   },
+   "id": "R175-base-0021",
+   "source_node_ids": [
+    "R175|base|6.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 9,
+    "paragraph": "6.5. Table 1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 21,
+   "text": "If the bumper sensors serve as ACPE forward detection means: forward driving direction, distance to speed measuring point 1.0 m (tolerance +0.1 m longitudinal), no target present: test without ACPE intervention or with ACPE deactivated (may be combined with other no-target tests).",
+   "table": "1",
+   "cited_ids": [
+    "R175|base|6.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|6.5"
+    ],
+    "table": "1",
+    "text": "If the bumper sensors serve as ACPE forward detection means: forward driving direction, distance to speed measuring point 1.0 m (tolerance +0.1 m longitudinal), no target present: test without ACPE intervention or with ACPE deactivated (may be combined with other no-target tests)."
+   },
+   "id": "R175-base-0022",
+   "source_node_ids": [
+    "R175|base|6.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 9,
+    "paragraph": "6.5. Table 1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 22,
+   "text": "If the bumper sensors serve as ACPE forward detection means: forward driving direction, distance to target 1.5 m (tolerance -0.1 m longitudinal, ±0.2 m lateral), target present: the ACPE shall intervene.",
+   "table": "1",
+   "cited_ids": [
+    "R175|base|6.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|6.5"
+    ],
+    "table": "1",
+    "text": "If the bumper sensors serve as ACPE forward detection means: forward driving direction, distance to target 1.5 m (tolerance -0.1 m longitudinal, ±0.2 m lateral), target present: the ACPE shall intervene."
+   },
+   "id": "R175-base-0023",
+   "source_node_ids": [
+    "R175|base|6.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 9,
+    "paragraph": "6.5. Table 1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 23,
+   "text": "If the bumper sensors serve as ACPE forward detection means: forward driving direction, distance to speed measuring point 1.5 m (tolerance -0.1 m longitudinal), no target present: test without ACPE intervention or with ACPE deactivated (may be combined with other no-target tests).",
+   "table": "1",
+   "cited_ids": [
+    "R175|base|6.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|6.5"
+    ],
+    "table": "1",
+    "text": "If the bumper sensors serve as ACPE forward detection means: forward driving direction, distance to speed measuring point 1.5 m (tolerance -0.1 m longitudinal), no target present: test without ACPE intervention or with ACPE deactivated (may be combined with other no-target tests)."
+   },
+   "id": "R175-base-0024",
+   "source_node_ids": [
+    "R175|base|6.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 9,
+    "paragraph": "6.5. Table 1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 0,
+   "text": "Where the bumper sensors (ultrasonic PDC, radar, radar/LIDAR, camera) and their harness form part of the ACPE 'The System', The System shall respect, under non-fault and fault conditions, all the appropriate performance requirements specified elsewhere in UN R175, and the disclosed information shall show this.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 1"
+    ],
+    "table": null,
+    "text": "Where the bumper sensors (ultrasonic PDC, radar, radar/LIDAR, camera) and their harness form part of the ACPE 'The System', The System shall respect, under non-fault and fault conditions, all the appropriate performance requirements specified elsewhere in UN R175, and the disclosed information shall show this."
+   },
+   "id": "R175-base-0025",
+   "source_node_ids": [
+    "R175|base|Annex 3 1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 12,
+    "page_end": 12,
+    "paragraph": "Annex 3 1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 1,
+   "text": "Where the bumper sensors form part of the ACPE 'The System', The System shall be designed to operate in such a way that it does not induce safety critical risks, and the disclosed information shall show this.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 1"
+    ],
+    "table": null,
+    "text": "Where the bumper sensors form part of the ACPE 'The System', The System shall be designed to operate in such a way that it does not induce safety critical risks, and the disclosed information shall show this."
+   },
+   "id": "R175-base-0026",
+   "source_node_ids": [
+    "R175|base|Annex 3 1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 12,
+    "page_end": 12,
+    "paragraph": "Annex 3 1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 2,
+   "text": "Where the bumper sensors form part of the ACPE 'The System', a documentation package shall be provided which gives access to the basic design of The System and the means by which it is linked to other vehicle systems or by which it directly controls output variables.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.1"
+    ],
+    "table": null,
+    "text": "Where the bumper sensors form part of the ACPE 'The System', a documentation package shall be provided which gives access to the basic design of The System and the means by which it is linked to other vehicle systems or by which it directly controls output variables."
+   },
+   "id": "R175-base-0027",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 13,
+    "page_end": 13,
+    "paragraph": "Annex 3 3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 3,
+   "text": "The function(s) of the ACPE 'The System' and the safety concept, as laid down by the manufacturer, shall be explained in the documentation.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.1"
+    ],
+    "table": null,
+    "text": "The function(s) of the ACPE 'The System' and the safety concept, as laid down by the manufacturer, shall be explained in the documentation."
+   },
+   "id": "R175-base-0028",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 13,
+    "page_end": 13,
+    "paragraph": "Annex 3 3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 4,
+   "text": "For periodic technical inspections, the documentation shall describe how the current operational status of the ACPE 'The System' (including the bumper sensors where they form part of it) can be checked.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.1"
+    ],
+    "table": null,
+    "text": "For periodic technical inspections, the documentation shall describe how the current operational status of the ACPE 'The System' (including the bumper sensors where they form part of it) can be checked."
+   },
+   "id": "R175-base-0029",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 13,
+    "page_end": 13,
+    "paragraph": "Annex 3 3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 5,
+   "text": "A description shall be provided which gives a simple explanation of all the control functions of the ACPE 'The System' and the methods employed to achieve the objectives, including a statement of the mechanism(s) by which control is exercised.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.2"
+    ],
+    "table": null,
+    "text": "A description shall be provided which gives a simple explanation of all the control functions of the ACPE 'The System' and the methods employed to achieve the objectives, including a statement of the mechanism(s) by which control is exercised."
+   },
+   "id": "R175-base-0030",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 14,
+    "page_end": 14,
+    "paragraph": "Annex 3 3.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 6,
+   "text": "Any described function of the ACPE 'The System' that can be over-ridden shall be identified and a further description of the changed rationale of the function's operation provided.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.2"
+    ],
+    "table": null,
+    "text": "Any described function of the ACPE 'The System' that can be over-ridden shall be identified and a further description of the changed rationale of the function's operation provided."
+   },
+   "id": "R175-base-0031",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 14,
+    "page_end": 14,
+    "paragraph": "Annex 3 3.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 7,
+   "text": "A list of all input and sensed variables of the ACPE 'The System' (e.g. signals of the bumper ultrasonic, radar, LIDAR and camera sensors where used) shall be provided and the working range of these defined.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.2.1"
+    ],
+    "table": null,
+    "text": "A list of all input and sensed variables of the ACPE 'The System' (e.g. signals of the bumper ultrasonic, radar, LIDAR and camera sensors where used) shall be provided and the working range of these defined."
+   },
+   "id": "R175-base-0032",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 14,
+    "page_end": 14,
+    "paragraph": "Annex 3 3.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 8,
+   "text": "A list of all output variables controlled by the ACPE 'The System' shall be provided, indicating in each case whether the control is direct or via another vehicle system, and the range of control exercised on each such variable shall be defined.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.2.2"
+    ],
+    "table": null,
+    "text": "A list of all output variables controlled by the ACPE 'The System' shall be provided, indicating in each case whether the control is direct or via another vehicle system, and the range of control exercised on each such variable shall be defined."
+   },
+   "id": "R175-base-0033",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 14,
+    "page_end": 14,
+    "paragraph": "Annex 3 3.2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 9,
+   "text": "Limits defining the boundaries of functional operation of the ACPE 'The System' shall be stated where appropriate to system performance.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.2.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.2.3"
+    ],
+    "table": null,
+    "text": "Limits defining the boundaries of functional operation of the ACPE 'The System' shall be stated where appropriate to system performance."
+   },
+   "id": "R175-base-0034",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.2.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 14,
+    "page_end": 14,
+    "paragraph": "Annex 3 3.2.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 10,
+   "text": "A list shall be provided collating all the units of the ACPE 'The System' (including bumper sensors where they form part of it) and mentioning the other vehicle systems needed to achieve the control function, together with an outline schematic showing these units in combination with both the equipment distribution and the interconnections made clear.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.3.1"
+    ],
+    "table": null,
+    "text": "A list shall be provided collating all the units of the ACPE 'The System' (including bumper sensors where they form part of it) and mentioning the other vehicle systems needed to achieve the control function, together with an outline schematic showing these units in combination with both the equipment distribution and the interconnections made clear."
+   },
+   "id": "R175-base-0035",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 14,
+    "page_end": 14,
+    "paragraph": "Annex 3 3.3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 11,
+   "text": "The function of each unit of the ACPE 'The System' (e.g. each bumper sensor used as forward detection means) shall be outlined and the signals linking it with other units or other vehicle systems shall be shown, e.g. by a labelled block diagram or other schematic or a description aided by such a diagram.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.3.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.3.2"
+    ],
+    "table": null,
+    "text": "The function of each unit of the ACPE 'The System' (e.g. each bumper sensor used as forward detection means) shall be outlined and the signals linking it with other units or other vehicle systems shall be shown, e.g. by a labelled block diagram or other schematic or a description aided by such a diagram."
+   },
+   "id": "R175-base-0036",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.3.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 14,
+    "page_end": 14,
+    "paragraph": "Annex 3 3.3.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 12,
+   "text": "Interconnections within the ACPE 'The System' shall be shown by a circuit diagram for the electric transmission links (e.g. the bumper wiring harness), by a piping diagram for pneumatic or hydraulic equipment and by a simplified diagrammatic layout for mechanical linkages.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.3.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.3.3"
+    ],
+    "table": null,
+    "text": "Interconnections within the ACPE 'The System' shall be shown by a circuit diagram for the electric transmission links (e.g. the bumper wiring harness), by a piping diagram for pneumatic or hydraulic equipment and by a simplified diagrammatic layout for mechanical linkages."
+   },
+   "id": "R175-base-0037",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.3.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 14,
+    "page_end": 14,
+    "paragraph": "Annex 3 3.3.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 13,
+   "text": "The transmission links both to and from other systems shall also be shown for the ACPE 'The System'.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.3.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.3.3"
+    ],
+    "table": null,
+    "text": "The transmission links both to and from other systems shall also be shown for the ACPE 'The System'."
+   },
+   "id": "R175-base-0038",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.3.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 14,
+    "page_end": 14,
+    "paragraph": "Annex 3 3.3.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 14,
+   "text": "There shall be a clear correspondence between the transmission links of the ACPE 'The System' and the signals and/or operating data carried between units.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.3.4"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.3.4"
+    ],
+    "table": null,
+    "text": "There shall be a clear correspondence between the transmission links of the ACPE 'The System' and the signals and/or operating data carried between units."
+   },
+   "id": "R175-base-0039",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.3.4"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 14,
+    "page_end": 14,
+    "paragraph": "Annex 3 3.3.4"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 15,
+   "text": "Priorities of signals and/or operating data on multiplexed data paths of the ACPE 'The System' shall be stated wherever priority may be an issue affecting performance or safety as far as UN R175 is concerned.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.3.4"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.3.4"
+    ],
+    "table": null,
+    "text": "Priorities of signals and/or operating data on multiplexed data paths of the ACPE 'The System' shall be stated wherever priority may be an issue affecting performance or safety as far as UN R175 is concerned."
+   },
+   "id": "R175-base-0040",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.3.4"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 14,
+    "page_end": 14,
+    "paragraph": "Annex 3 3.3.4"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 16,
+   "text": "Each unit of the ACPE 'The System' (including each bumper sensor forming part of it) shall be clearly and unambiguously identifiable (e.g. by marking for hardware and marking or software output for software content) to provide corresponding hardware and documentation association.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.3.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.3.5"
+    ],
+    "table": null,
+    "text": "Each unit of the ACPE 'The System' (including each bumper sensor forming part of it) shall be clearly and unambiguously identifiable (e.g. by marking for hardware and marking or software output for software content) to provide corresponding hardware and documentation association."
+   },
+   "id": "R175-base-0041",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.3.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 15,
+    "page_end": 15,
+    "paragraph": "Annex 3 3.3.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 17,
+   "text": "Where functions are combined within a single unit or single computer but shown in multiple blocks in the block diagram, only a single hardware identification marking shall be used for that unit.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.3.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.3.5"
+    ],
+    "table": null,
+    "text": "Where functions are combined within a single unit or single computer but shown in multiple blocks in the block diagram, only a single hardware identification marking shall be used for that unit."
+   },
+   "id": "R175-base-0042",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.3.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 15,
+    "page_end": 15,
+    "paragraph": "Annex 3 3.3.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 18,
+   "text": "The manufacturer shall, by the use of the unit identification, affirm that the equipment supplied conforms to the corresponding document.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.3.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.3.5"
+    ],
+    "table": null,
+    "text": "The manufacturer shall, by the use of the unit identification, affirm that the equipment supplied conforms to the corresponding document."
+   },
+   "id": "R175-base-0043",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.3.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 15,
+    "page_end": 15,
+    "paragraph": "Annex 3 3.3.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 19,
+   "text": "The unit identification shall define the hardware and software version, and where the software changes such as to alter the function of the unit as far as UN R175 is concerned, the identification shall also be changed.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.3.5.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.3.5.1"
+    ],
+    "table": null,
+    "text": "The unit identification shall define the hardware and software version, and where the software changes such as to alter the function of the unit as far as UN R175 is concerned, the identification shall also be changed."
+   },
+   "id": "R175-base-0044",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.3.5.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 15,
+    "page_end": 15,
+    "paragraph": "Annex 3 3.3.5.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 20,
+   "text": "The manufacturer shall provide a statement which affirms that the strategy chosen to achieve the ACPE 'The System' objectives will not, under non-fault conditions, prejudice the safe operation of the vehicle.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.4.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.4.1"
+    ],
+    "table": null,
+    "text": "The manufacturer shall provide a statement which affirms that the strategy chosen to achieve the ACPE 'The System' objectives will not, under non-fault conditions, prejudice the safe operation of the vehicle."
+   },
+   "id": "R175-base-0045",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.4.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 15,
+    "page_end": 15,
+    "paragraph": "Annex 3 3.4.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 21,
+   "text": "In respect of software employed in the ACPE 'The System' (including sensor software where the sensors form part of it), the outline architecture shall be explained and the design methods and tools used shall be identified.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.4.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.4.2"
+    ],
+    "table": null,
+    "text": "In respect of software employed in the ACPE 'The System' (including sensor software where the sensors form part of it), the outline architecture shall be explained and the design methods and tools used shall be identified."
+   },
+   "id": "R175-base-0046",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.4.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 15,
+    "page_end": 15,
+    "paragraph": "Annex 3 3.4.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 22,
+   "text": "The manufacturer shall show evidence of the means by which the realisation of the system logic of the ACPE 'The System' was determined during the design and development process.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.4.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.4.2"
+    ],
+    "table": null,
+    "text": "The manufacturer shall show evidence of the means by which the realisation of the system logic of the ACPE 'The System' was determined during the design and development process."
+   },
+   "id": "R175-base-0047",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.4.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 15,
+    "page_end": 15,
+    "paragraph": "Annex 3 3.4.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 23,
+   "text": "The manufacturer shall provide an explanation of the design provisions built into the ACPE 'The System' so as to generate safe operation under fault conditions (e.g. fall-back to a partial system, change-over to a back-up system, removal of the high level function).",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.4.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.4.3"
+    ],
+    "table": null,
+    "text": "The manufacturer shall provide an explanation of the design provisions built into the ACPE 'The System' so as to generate safe operation under fault conditions (e.g. fall-back to a partial system, change-over to a back-up system, removal of the high level function)."
+   },
+   "id": "R175-base-0048",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.4.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 15,
+    "page_end": 15,
+    "paragraph": "Annex 3 3.4.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 24,
+   "text": "In case of a failure of the ACPE 'The System' (e.g. a failure or blockage of a bumper sensor forming part of it), the driver shall be warned, for example by warning signal or message display, and unless the system is deactivated by the driver (e.g. ignition switch to 'off' or switching off the function by a special switch), the warning shall be present as long as the fault condition persists.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.4.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.4.3"
+    ],
+    "table": null,
+    "text": "In case of a failure of the ACPE 'The System' (e.g. a failure or blockage of a bumper sensor forming part of it), the driver shall be warned, for example by warning signal or message display, and unless the system is deactivated by the driver (e.g. ignition switch to 'off' or switching off the function by a special switch), the warning shall be present as long as the fault condition persists."
+   },
+   "id": "R175-base-0049",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.4.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 15,
+    "page_end": 15,
+    "paragraph": "Annex 3 3.4.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 25,
+   "text": "The documentation shall be supported by an analysis which shows, in overall terms, how the ACPE 'The System' will behave on the occurrence of any individual hazard or fault (e.g. of a bumper sensor or harness) which will have a bearing on vehicle control performance or safety, and the chosen analytical approach(es) shall be established, maintained and made open for inspection at type approval.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.4.4"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.4.4"
+    ],
+    "table": null,
+    "text": "The documentation shall be supported by an analysis which shows, in overall terms, how the ACPE 'The System' will behave on the occurrence of any individual hazard or fault (e.g. of a bumper sensor or harness) which will have a bearing on vehicle control performance or safety, and the chosen analytical approach(es) shall be established, maintained and made open for inspection at type approval."
+   },
+   "id": "R175-base-0050",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.4.4"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 15,
+    "page_end": 16,
+    "paragraph": "Annex 3 3.4.4"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 26,
+   "text": "The safety approach at concept (vehicle) level shall include consideration of interactions with other vehicle systems and shall be based on a Hazard / Risk analysis appropriate to system safety.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.4.4"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.4.4"
+    ],
+    "table": null,
+    "text": "The safety approach at concept (vehicle) level shall include consideration of interactions with other vehicle systems and shall be based on a Hazard / Risk analysis appropriate to system safety."
+   },
+   "id": "R175-base-0051",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.4.4"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 15,
+    "page_end": 16,
+    "paragraph": "Annex 3 3.4.4"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 27,
+   "text": "The safety approach at system level shall be based on a Failure Mode and Effect Analysis (FMEA), a Fault Tree Analysis (FTA) or any similar process appropriate to system safety.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.4.4"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.4.4"
+    ],
+    "table": null,
+    "text": "The safety approach at system level shall be based on a Failure Mode and Effect Analysis (FMEA), a Fault Tree Analysis (FTA) or any similar process appropriate to system safety."
+   },
+   "id": "R175-base-0052",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.4.4"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 15,
+    "page_end": 16,
+    "paragraph": "Annex 3 3.4.4"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 28,
+   "text": "Validation plans and results shall be available for the ACPE 'The System', the validation using, for example, Hardware in the Loop (HIL) testing, vehicle on-road operational testing or any means appropriate for validation.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.4.4"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.4.4"
+    ],
+    "table": null,
+    "text": "Validation plans and results shall be available for the ACPE 'The System', the validation using, for example, Hardware in the Loop (HIL) testing, vehicle on-road operational testing or any means appropriate for validation."
+   },
+   "id": "R175-base-0053",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.4.4"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 15,
+    "page_end": 16,
+    "paragraph": "Annex 3 3.4.4"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 29,
+   "text": "The documentation shall itemize the parameters being monitored in the ACPE 'The System' and shall set out, for each fault condition, the warning signal to be given to the driver and/or to service/technical inspection personnel.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.4.4.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.4.4.1"
+    ],
+    "table": null,
+    "text": "The documentation shall itemize the parameters being monitored in the ACPE 'The System' and shall set out, for each fault condition, the warning signal to be given to the driver and/or to service/technical inspection personnel."
+   },
+   "id": "R175-base-0054",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.4.4.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 16,
+    "page_end": 16,
+    "paragraph": "Annex 3 3.4.4.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 30,
+   "text": "The documentation shall describe the measures in place to ensure the ACPE 'The System' does not prejudice the safe operation of the vehicle when its performance is affected by environmental conditions, e.g. climatic, temperature, dust ingress, water ingress, ice packing (relevant to the bumper sensors and, if fitted, the heated sensor window).",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 3.4.4.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 3.4.4.2"
+    ],
+    "table": null,
+    "text": "The documentation shall describe the measures in place to ensure the ACPE 'The System' does not prejudice the safe operation of the vehicle when its performance is affected by environmental conditions, e.g. climatic, temperature, dust ingress, water ingress, ice packing (relevant to the bumper sensors and, if fitted, the heated sensor window)."
+   },
+   "id": "R175-base-0055",
+   "source_node_ids": [
+    "R175|base|Annex 3 3.4.4.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 16,
+    "page_end": 16,
+    "paragraph": "Annex 3 3.4.4.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 31,
+   "text": "The ACPE 'The System' shall operate as declared by the manufacturer when selected functions are tested under non-fault conditions, including, for complex electronic systems, scenarios in which a declared function is overridden.",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 4.1.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 4.1.1"
+    ],
+    "table": null,
+    "text": "The ACPE 'The System' shall operate as declared by the manufacturer when selected functions are tested under non-fault conditions, including, for complex electronic systems, scenarios in which a declared function is overridden."
+   },
+   "id": "R175-base-0056",
+   "source_node_ids": [
+    "R175|base|Annex 3 4.1.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 16,
+    "page_end": 16,
+    "paragraph": "Annex 3 4.1.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 32,
+   "text": "When the reaction of the ACPE 'The System' is checked under the influence of a failure in any individual unit (simulated by applying corresponding output signals to electrical units or mechanical elements), the verification results shall correspond with the documented summary of the failure analysis, to a level of overall effect such that the safety concept and execution are confirmed as adequate, including aspects of vehicle controllability and user information (HMI).",
+   "table": null,
+   "cited_ids": [
+    "R175|base|Annex 3 4.1.2",
+    "R175|base|Annex 3 4.1.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R175|base|Annex 3 4.1.2",
+     "R175|base|Annex 3 4.1.2.1"
+    ],
+    "table": null,
+    "text": "When the reaction of the ACPE 'The System' is checked under the influence of a failure in any individual unit (simulated by applying corresponding output signals to electrical units or mechanical elements), the verification results shall correspond with the documented summary of the failure analysis, to a level of overall effect such that the safety concept and execution are confirmed as adequate, including aspects of vehicle controllability and user information (HMI)."
+   },
+   "id": "R175-base-0057",
+   "source_node_ids": [
+    "R175|base|Annex 3 4.1.2",
+    "R175|base|Annex 3 4.1.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R175",
+    "version": "0.1.0",
+    "role": "base",
+    "page": 16,
+    "page_end": 16,
+    "paragraph": "Annex 3 4.1.2"
+   },
+   "possible_duplicate_of": null
+  }
+ ],
+ "flagged": []
+}

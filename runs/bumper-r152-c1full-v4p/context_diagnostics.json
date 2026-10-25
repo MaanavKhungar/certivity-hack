@@ -1,0 +1,507 @@
+{
+ "per_requirement": [
+  {
+   "requirement": "R152-base-0001",
+   "type": "unresolved",
+   "target": "UN R13 Annex 6",
+   "in_corpus": false,
+   "from": "R152|base|5.1.7",
+   "ref": "Annex 6 to UN Regulation No.13",
+   "hop": 2
+  },
+  {
+   "requirement": "R152-base-0001",
+   "type": "unresolved",
+   "target": "UN R13 Annex 13",
+   "in_corpus": false,
+   "from": "R152|base|5.1.7",
+   "ref": "Annex 13 to UN Regulation No. 13",
+   "hop": 2
+  },
+  {
+   "requirement": "R152-base-0001",
+   "type": "hop_limit",
+   "note": "119 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0002",
+   "type": "unresolved",
+   "target": "UN R13 Annex 6",
+   "in_corpus": false,
+   "from": "R152|base|5.1.7",
+   "ref": "Annex 6 to UN Regulation No.13",
+   "hop": 2
+  },
+  {
+   "requirement": "R152-base-0002",
+   "type": "unresolved",
+   "target": "UN R13 Annex 13",
+   "in_corpus": false,
+   "from": "R152|base|5.1.7",
+   "ref": "Annex 13 to UN Regulation No. 13",
+   "hop": 2
+  },
+  {
+   "requirement": "R152-base-0002",
+   "type": "hop_limit",
+   "note": "119 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0003",
+   "type": "unresolved",
+   "target": "UN R13 Annex 6",
+   "in_corpus": false,
+   "from": "R152|base|5.1.7",
+   "ref": "Annex 6 to UN Regulation No.13",
+   "hop": 2
+  },
+  {
+   "requirement": "R152-base-0003",
+   "type": "unresolved",
+   "target": "UN R13 Annex 13",
+   "in_corpus": false,
+   "from": "R152|base|5.1.7",
+   "ref": "Annex 13 to UN Regulation No. 13",
+   "hop": 2
+  },
+  {
+   "requirement": "R152-base-0003",
+   "type": "hop_limit",
+   "note": "119 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0004",
+   "type": "unresolved",
+   "target": "UN R13 Annex 6",
+   "in_corpus": false,
+   "from": "R152|base|5.1.7",
+   "ref": "Annex 6 to UN Regulation No.13",
+   "hop": 2
+  },
+  {
+   "requirement": "R152-base-0004",
+   "type": "unresolved",
+   "target": "UN R13 Annex 13",
+   "in_corpus": false,
+   "from": "R152|base|5.1.7",
+   "ref": "Annex 13 to UN Regulation No. 13",
+   "hop": 2
+  },
+  {
+   "requirement": "R152-base-0004",
+   "type": "hop_limit",
+   "note": "114 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0007",
+   "type": "hop_limit",
+   "note": "7 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0008",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0009",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0011",
+   "type": "hop_limit",
+   "note": "5 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0012",
+   "type": "hop_limit",
+   "note": "5 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0013",
+   "type": "hop_limit",
+   "note": "8 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0016",
+   "type": "hop_limit",
+   "note": "114 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0017",
+   "type": "hop_limit",
+   "note": "114 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0018",
+   "type": "hop_limit",
+   "note": "2 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0019",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0020",
+   "type": "unresolved",
+   "target": "UN R152 1.8",
+   "in_corpus": true,
+   "from": "R152|base|6.11.2",
+   "ref": "paragraph 1.8.",
+   "hop": 2
+  },
+  {
+   "requirement": "R152-base-0020",
+   "type": "hop_limit",
+   "note": "64 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0021",
+   "type": "unresolved",
+   "target": "UN R152 1.8",
+   "in_corpus": true,
+   "from": "R152|base|6.11.2",
+   "ref": "paragraph 1.8.",
+   "hop": 2
+  },
+  {
+   "requirement": "R152-base-0021",
+   "type": "hop_limit",
+   "note": "64 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0022",
+   "type": "unresolved",
+   "target": "UN R152 1.8",
+   "in_corpus": true,
+   "from": "R152|base|6.11.2",
+   "ref": "paragraph 1.8.",
+   "hop": 2
+  },
+  {
+   "requirement": "R152-base-0022",
+   "type": "hop_limit",
+   "note": "64 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0023",
+   "type": "hop_limit",
+   "note": "116 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0024",
+   "type": "hop_limit",
+   "note": "116 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0025",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0026",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0027",
+   "type": "unresolved",
+   "target": "UN R152 1.8",
+   "in_corpus": true,
+   "from": "R152|base|6.11.2",
+   "ref": "paragraph 1.8.",
+   "hop": 2
+  },
+  {
+   "requirement": "R152-base-0027",
+   "type": "hop_limit",
+   "note": "64 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0028",
+   "type": "unresolved",
+   "target": "UN R152 1.8",
+   "in_corpus": true,
+   "from": "R152|base|6.11.2",
+   "ref": "paragraph 1.8.",
+   "hop": 2
+  },
+  {
+   "requirement": "R152-base-0028",
+   "type": "hop_limit",
+   "note": "64 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0029",
+   "type": "unresolved",
+   "target": "UN R152 1.8",
+   "in_corpus": true,
+   "from": "R152|base|6.11.2",
+   "ref": "paragraph 1.8.",
+   "hop": 2
+  },
+  {
+   "requirement": "R152-base-0029",
+   "type": "hop_limit",
+   "note": "64 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0030",
+   "type": "hop_limit",
+   "note": "116 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0031",
+   "type": "hop_limit",
+   "note": "116 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0032",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0033",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0034",
+   "type": "unresolved",
+   "target": "UN R152 1.8",
+   "in_corpus": true,
+   "from": "R152|base|6.11.2",
+   "ref": "paragraph 1.8.",
+   "hop": 2
+  },
+  {
+   "requirement": "R152-base-0034",
+   "type": "hop_limit",
+   "note": "64 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0035",
+   "type": "unresolved",
+   "target": "UN R152 1.8",
+   "in_corpus": true,
+   "from": "R152|base|6.11.2",
+   "ref": "paragraph 1.8.",
+   "hop": 2
+  },
+  {
+   "requirement": "R152-base-0035",
+   "type": "hop_limit",
+   "note": "64 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0036",
+   "type": "unresolved",
+   "target": "UN R152 1.8",
+   "in_corpus": true,
+   "from": "R152|base|6.11.2",
+   "ref": "paragraph 1.8.",
+   "hop": 2
+  },
+  {
+   "requirement": "R152-base-0036",
+   "type": "hop_limit",
+   "note": "64 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0038",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0045",
+   "type": "hop_limit",
+   "note": "125 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0046",
+   "type": "hop_limit",
+   "note": "125 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0047",
+   "type": "hop_limit",
+   "note": "125 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0056",
+   "type": "hop_limit",
+   "note": "125 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0057",
+   "type": "hop_limit",
+   "note": "125 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0058",
+   "type": "hop_limit",
+   "note": "125 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0059",
+   "type": "hop_limit",
+   "note": "125 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0060",
+   "type": "hop_limit",
+   "note": "12 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0061",
+   "type": "hop_limit",
+   "note": "12 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0062",
+   "type": "hop_limit",
+   "note": "12 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0063",
+   "type": "hop_limit",
+   "note": "124 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0064",
+   "type": "hop_limit",
+   "note": "124 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0065",
+   "type": "hop_limit",
+   "note": "124 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0066",
+   "type": "hop_limit",
+   "note": "124 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0068",
+   "type": "hop_limit",
+   "note": "123 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0069",
+   "type": "hop_limit",
+   "note": "123 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0070",
+   "type": "hop_limit",
+   "note": "123 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0071",
+   "type": "hop_limit",
+   "note": "123 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0073",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0079",
+   "type": "hop_limit",
+   "note": "27 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0080",
+   "type": "hop_limit",
+   "note": "8 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0081",
+   "type": "hop_limit",
+   "note": "8 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0082",
+   "type": "hop_limit",
+   "note": "25 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0083",
+   "type": "unresolved",
+   "target": "UN R13 Annex 6",
+   "in_corpus": false,
+   "from": "R152|base|5.1.7",
+   "ref": "Annex 6 to UN Regulation No.13",
+   "hop": 2
+  },
+  {
+   "requirement": "R152-base-0083",
+   "type": "unresolved",
+   "target": "UN R13 Annex 13",
+   "in_corpus": false,
+   "from": "R152|base|5.1.7",
+   "ref": "Annex 13 to UN Regulation No. 13",
+   "hop": 2
+  },
+  {
+   "requirement": "R152-base-0083",
+   "type": "hop_limit",
+   "note": "115 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0104",
+   "type": "hop_limit",
+   "note": "21 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0105",
+   "type": "hop_limit",
+   "note": "19 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0106",
+   "type": "hop_limit",
+   "note": "20 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0107",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R152-base-0110",
+   "type": "hop_limit",
+   "note": "128 nodes reached at hop 2 were not scanned for further references"
+  }
+ ],
+ "regulation_hints": [
+  {
+   "regulation": "UN R10",
+   "in_corpus": true,
+   "from": "UN R152",
+   "paragraph": "5.1.2",
+   "text": "ts and respecting the transitional provisions of the 06 series of amendments to UN Regulation No. 10."
+  },
+  {
+   "regulation": "UN R13",
+   "in_corpus": false,
+   "from": "UN R152",
+   "paragraph": "5.1.7",
+   "text": "nex 6 to UN Regulation No.13-H in its 01 series of amendments or of Annex 13 to UN Regulation No. 13 in its 11 series of amendments."
+  },
+  {
+   "regulation": "UN R121",
+   "in_corpus": false,
+   "from": "UN R152",
+   "paragraph": "5.4.1.3",
+   "text": "d so as to comply with the relevant requirements and transitional provisions of UN Regulation No. 121 in its 01 series of amendments or any l"
+  }
+ ],
+ "summary": {
+  "hop_limit": 61,
+  "unresolved": 19
+ }
+}

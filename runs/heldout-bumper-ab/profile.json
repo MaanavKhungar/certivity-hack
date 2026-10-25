@@ -1,0 +1,383 @@
+{
+ "case_id": "heldout-front-bumper",
+ "spec_file": "spec.md",
+ "image_files": [
+  "exploded_view.png"
+ ],
+ "deterministic": {
+  "product": "Bumper (front)",
+  "product_description": "Bumper (front) — exterior body/trim module combining fascia, energy-management structure, and integrated sensing, lighting, and electronics.",
+  "vehicle_category": "M1",
+  "vehicle_category_note": "M1 — passenger car (UNECE / EU 2018/858).",
+  "functions": [
+   "Styling / exterior appearance",
+   "Impact & energy management (crash and pedestrian protection)",
+   "Sensing & driver assistance carrier (radar, LIDAR, camera, PDC, thermal)",
+   "Lighting integration (signalling, decorative, functional)",
+   "Thermal / airflow management",
+   "Feature integration (towing cover, keyless-entry aerial, EV charge port)"
+  ],
+  "parts": [
+   {
+    "part_id": "P-01",
+    "name": "Cover part (fascia)"
+   },
+   {
+    "part_id": "P-02",
+    "name": "(Radiator) Grill"
+   },
+   {
+    "part_id": "P-03",
+    "name": "Absorber"
+   },
+   {
+    "part_id": "P-04",
+    "name": "Lower stiffener (underrun protection)"
+   },
+   {
+    "part_id": "P-05",
+    "name": "License plate area / holder"
+   },
+   {
+    "part_id": "P-06",
+    "name": "Towing device cover"
+   },
+   {
+    "part_id": "P-07",
+    "name": "Camera"
+   },
+   {
+    "part_id": "P-08",
+    "name": "Radar sensor"
+   },
+   {
+    "part_id": "P-09",
+    "name": "Radar / LIDAR sensor (incl. heating)"
+   },
+   {
+    "part_id": "P-10",
+    "name": "PDC sensor"
+   },
+   {
+    "part_id": "P-11",
+    "name": "Pedestrian impact sensors"
+   },
+   {
+    "part_id": "P-12",
+    "name": "Temperature / thermal sensor"
+   },
+   {
+    "part_id": "P-13",
+    "name": "Lighting — decorative"
+   },
+   {
+    "part_id": "P-14",
+    "name": "(Side) Lighting — signalling"
+   },
+   {
+    "part_id": "P-15",
+    "name": "Aerial (keyless entry)"
+   },
+   {
+    "part_id": "P-16",
+    "name": "\"Fuel filler cap\" (for EVs)"
+   }
+  ],
+  "materials": {
+   "Cover part (fascia)": "PP / PP-EPDM (talc-filled), painted",
+   "Grill": "PP, ABS or PC/ABS",
+   "Absorber": "Expanded polypropylene (EPP) foam",
+   "Lower stiffener / beam": "Steel, aluminium, or PP-GF",
+   "License plate holder": "PP / ABS",
+   "Towing device cover": "Painted PP",
+   "Sensor brackets / housings": "PP, PA, or PA-GF",
+   "Sensor lenses / radomes": "PC or PMMA",
+   "Lighting housings / lenses": "PC (lens), PP/PA (housing)",
+   "Fasteners / clips": "PA, POM, or steel"
+  },
+  "spec_sections": [
+   "function",
+   "main parts",
+   "materials",
+   "product type",
+   "spec: bumper",
+   "vehicle category"
+  ]
+ },
+ "model": {
+  "product": "Bumper (front)",
+  "vehicle_category": "M1",
+  "mounting": "front exterior",
+  "parts": [
+   {
+    "part_id": "P-01",
+    "name": "Cover part (fascia)",
+    "function": "Outer painted skin of the bumper module; styling, aerodynamics and carrier for the integrated sensors, lamps, grille, license plate holder and covers; first contact surface in pedestrian and low-speed impacts",
+    "regulated_function": "external projection",
+    "material": "PP / PP-EPDM (talc-filled), painted",
+    "evidence_spec": "Cover part (fascia)",
+    "evidence_drawing": "Large white fascia in the centre of the exploded view, callout 'Cover part', with openings for grille, fog/air intakes and sensor/lighting apertures"
+   },
+   {
+    "part_id": "P-02",
+    "name": "(Radiator) Grill",
+    "function": "Front grille admitting cooling air to the radiator; styling element; may carry camera, radar and decorative lighting",
+    "regulated_function": "external projection",
+    "material": "PP, ABS or PC/ABS",
+    "evidence_spec": "(Radiator) Grill",
+    "evidence_drawing": "Dark grille with horizontal slats at left, callout '(Radiator) Grill'; separate lower side grille inserts shown below it"
+   },
+   {
+    "part_id": "P-03",
+    "name": "Absorber",
+    "function": "Energy-absorbing foam behind the fascia; manages pedestrian leg impact and low-speed impact energy",
+    "regulated_function": "bumper",
+    "material": "Expanded polypropylene (EPP) foam",
+    "evidence_spec": "Absorber",
+    "evidence_drawing": "Elongated foam/beam element at upper right, callout 'Absorber', mounted in front of a crossbeam with crash boxes"
+   },
+   {
+    "part_id": "P-04",
+    "name": "Lower stiffener (underrun protection)",
+    "function": "Lower load path below the main beam supporting the pedestrian's lower leg (reduces knee bending) and stiffening the lower fascia",
+    "regulated_function": "bumper",
+    "material": "Steel, aluminium, or PP-GF",
+    "evidence_spec": "Lower stiffener (underrun protection)",
+    "evidence_drawing": "Long lower ribbed part below the fascia, callout 'Lower stiffener (underrun protection)'"
+   },
+   {
+    "part_id": "P-05",
+    "name": "License plate area / holder",
+    "function": "Provides the space and mounting surface for the front registration plate",
+    "regulated_function": "space for mounting and fixing of front registration plate",
+    "material": "PP / ABS",
+    "evidence_spec": "License plate area / holder",
+    "evidence_drawing": "Callout 'License plate area/holder' pointing to the grille / lower-centre region where the plate mounts"
+   },
+   {
+    "part_id": "P-06",
+    "name": "Towing device cover",
+    "function": "Removable cover closing the access opening to the front towing eye/hook mounting",
+    "regulated_function": "external projection",
+    "material": "Painted PP",
+    "evidence_spec": "Towing device cover",
+    "evidence_drawing": "Small cover near the fascia's left side, callout 'Towing device cover'"
+   },
+   {
+    "part_id": "P-07",
+    "name": "Camera",
+    "function": "Front-view camera for driver assistance / surround view, mounted in the grille area",
+    "regulated_function": "electrical/electronic sub-assembly (ESA)",
+    "material": "Housing PP, PA or PA-GF; lens PC or PMMA",
+    "evidence_spec": "Camera",
+    "evidence_drawing": "Small camera unit with connector near top of grille, callout 'Camera'"
+   },
+   {
+    "part_id": "P-08",
+    "name": "Radar sensor",
+    "function": "Corner/front radar sensor for driver assistance functions (e.g. collision warning, emergency braking, blind-spot/cross-traffic)",
+    "regulated_function": "electrical/electronic sub-assembly (ESA)",
+    "material": "Bracket/housing PP, PA or PA-GF; radome PC or PMMA",
+    "evidence_spec": "Radar sensor",
+    "evidence_drawing": "Rectangular sensor with bracket at right side of the fascia, callout 'Radar sensor'"
+   },
+   {
+    "part_id": "P-09",
+    "name": "Radar / LIDAR sensor (incl. heating)",
+    "function": "Central long-range radar/LIDAR with heater for de-icing/defogging of the sensor window, supporting ADAS functions",
+    "regulated_function": "electrical/electronic sub-assembly (ESA)",
+    "material": "Bracket/housing PP, PA or PA-GF; radome/window PC or PMMA",
+    "evidence_spec": "Radar / LIDAR sensor (incl. heating)",
+    "evidence_drawing": "Small sensor block with bracket at left of the grille, callout 'Radar/LIDAR sensor incl. heating'"
+   },
+   {
+    "part_id": "P-10",
+    "name": "PDC sensor",
+    "function": "Ultrasonic park distance control sensor mounted in the fascia",
+    "regulated_function": "electrical/electronic sub-assembly (ESA)",
+    "material": "Housing/bracket PP, PA or PA-GF",
+    "evidence_spec": "PDC sensor",
+    "evidence_drawing": "Small cylindrical sensor with bracket above the fascia, callout 'PDC sensor'; further sensor brackets distributed on the fascia"
+   },
+   {
+    "part_id": "P-11",
+    "name": "Pedestrian impact sensors",
+    "function": "Sensors (with pressure tube/signal line) on the bumper beam/absorber detecting a pedestrian impact to trigger a deployable pedestrian protection system (e.g. active bonnet)",
+    "regulated_function": "electrical/electronic sub-assembly (ESA)",
+    "material": null,
+    "evidence_spec": "Pedestrian impact sensors",
+    "evidence_drawing": "Small sensors with a connecting tube/line above the absorber at upper right, callout 'Pedestrian impact sensors'"
+   },
+   {
+    "part_id": "P-12",
+    "name": "Temperature / thermal sensor",
+    "function": "Ambient temperature sensor or thermal (infrared) imaging sensor in the front module",
+    "regulated_function": "electrical/electronic sub-assembly (ESA)",
+    "material": "Housing PP, PA or PA-GF",
+    "evidence_spec": "Temperature / thermal sensor",
+    "evidence_drawing": "Small dark sensor below the central air guide, callout 'Temperature/thermal sensor'"
+   },
+   {
+    "part_id": "P-13",
+    "name": "Lighting — decorative",
+    "function": "Illuminated surround/frame of the grille for styling; non-signalling light",
+    "regulated_function": "electrical/electronic sub-assembly (ESA)",
+    "material": "PC (lens), PP/PA (housing)",
+    "evidence_spec": "Lighting — decorative",
+    "evidence_drawing": "Light-guide frame at far left surrounding the grille shape, callout 'Lighting (decorative)'"
+   },
+   {
+    "part_id": "P-14",
+    "name": "(Side) Lighting — signalling",
+    "function": "Signalling lamp integrated in the side area of the fascia (side marking / side signalling)",
+    "regulated_function": "side marker lamp",
+    "material": "PC (lens), PP/PA (housing)",
+    "evidence_spec": "(Side) Lighting — signalling",
+    "evidence_drawing": "Highlighted (red-dashed) strip of LED-like segments on the side of the fascia, callout '(Side) Lighting (signalling)'"
+   },
+   {
+    "part_id": "P-15",
+    "name": "Aerial (keyless entry)",
+    "function": "Antenna for keyless entry / passive entry system",
+    "regulated_function": "electrical/electronic sub-assembly (ESA)",
+    "material": null,
+    "evidence_spec": "Aerial (keyless entry)",
+    "evidence_drawing": "Small grey flat element above the fascia, callout 'Aerial (keyless entry)'"
+   },
+   {
+    "part_id": "P-16",
+    "name": "\"Fuel filler cap\" (for EVs)",
+    "function": "Flap/cover for the EV charging inlet integrated in the bumper fascia",
+    "regulated_function": "vehicle inlet / coupling system for charging the REESS",
+    "material": null,
+    "evidence_spec": "\"Fuel filler cap\" (for EVs)",
+    "evidence_drawing": "Dashed rectangle on the fascia front face, callout '„Fuel filler cap“ (for Evs)'"
+   },
+   {
+    "part_id": "P-17",
+    "name": "Wiring harness",
+    "function": "Bumper harness connecting sensors, lamps, aerial and heater to the vehicle electrical system",
+    "regulated_function": "electrical/electronic sub-assembly (ESA)",
+    "material": null,
+    "evidence_spec": "integrated sensing, lighting, and electronics",
+    "evidence_drawing": "Wiring harness with branches and connectors shown at bottom right (no callout)"
+   },
+   {
+    "part_id": "P-18",
+    "name": "Sensor brackets / air guides / mounting brackets",
+    "function": "Brackets holding sensors, lamps and fascia to the body; air-guide ducts directing cooling air",
+    "regulated_function": null,
+    "material": "PP, PA, or PA-GF",
+    "evidence_spec": "Sensor brackets / housings",
+    "evidence_drawing": "Numerous black brackets, air ducts and side mounting brackets around the fascia and grille (no callouts)"
+   },
+   {
+    "part_id": "P-19",
+    "name": "Front crossbeam with crash boxes",
+    "function": "Main structural bumper beam with deformation elements behind the absorber",
+    "regulated_function": "bumper",
+    "material": "Steel, aluminium, or PP-GF",
+    "evidence_spec": "Lower stiffener / beam",
+    "evidence_drawing": "Long beam with end crash boxes below the absorber at upper right (no separate callout)"
+   },
+   {
+    "part_id": "P-20",
+    "name": "Fasteners / clips",
+    "function": "Attachment of fascia, grille and components",
+    "regulated_function": null,
+    "material": "PA, POM, or steel",
+    "evidence_spec": "Fasteners / clips",
+    "evidence_drawing": "Small clips and screws scattered in the exploded view"
+   }
+  ],
+  "has_electronics": true,
+  "electronic_subassemblies": [
+   "Camera",
+   "Radar sensor",
+   "Radar / LIDAR sensor (incl. heating)",
+   "PDC sensor (ultrasonic)",
+   "Pedestrian impact sensors",
+   "Temperature / thermal sensor",
+   "Decorative lighting (LED + driver)",
+   "Side signalling lamp (LED + driver)",
+   "Aerial (keyless entry)",
+   "Bumper wiring harness"
+  ],
+  "light_sources": "Not specified in the spec; drawing suggests LED segments / light guides, likely non-replaceable LED light sources — confirm; if replaceable light sources are used, light-source regulations (R37/R99/R128) apply",
+  "regulated_functions": [
+   "external projection",
+   "bumper",
+   "space for mounting and fixing of front registration plate",
+   "electrical/electronic sub-assembly (ESA)",
+   "side marker lamp",
+   "vehicle inlet / coupling system for charging the REESS"
+  ],
+  "search_terms": [
+   "bumper",
+   "front bumper",
+   "bumper test area",
+   "lower bumper reference line",
+   "upper bumper reference line",
+   "lower legform impact",
+   "upper legform",
+   "pedestrian protection",
+   "pedestrian safety",
+   "deployable pedestrian protection system",
+   "active bonnet",
+   "front protective device",
+   "protective devices",
+   "external projection",
+   "exterior projection",
+   "radius of curvature",
+   "grille",
+   "towing device",
+   "towing hook",
+   "front registration plate",
+   "space for mounting front registration plate",
+   "side marker lamp",
+   "side direction indicator",
+   "lamp",
+   "light-signalling device",
+   "installation of lighting and light-signalling devices",
+   "decorative lighting",
+   "non-replaceable light source",
+   "LED module",
+   "light source module",
+   "electrical/electronic sub-assembly",
+   "ESA",
+   "electromagnetic compatibility",
+   "immunity",
+   "radiated emissions",
+   "broadband",
+   "narrowband",
+   "radar",
+   "LIDAR",
+   "camera",
+   "ultrasonic sensor",
+   "parking aid",
+   "advanced emergency braking system",
+   "keyless entry",
+   "vehicle inlet",
+   "charging inlet",
+   "REESS",
+   "electric power train",
+   "front underrun protection"
+  ],
+  "drawing_observations": [
+   "Exploded view of a complete front bumper module with labelled callouts: Lighting (decorative), Radar/LIDAR sensor incl. heating, Camera, (Radiator) Grill, License plate area/holder, Temperature/thermal sensor, Towing device cover, PDC sensor, „Fuel filler cap“ (for EVs), Aerial (keyless entry), Radar sensor, (Side) Lighting (signalling), Cover part, Lower stiffener (underrun protection), Absorber, Pedestrian impact sensors",
+   "Decorative lighting is a light-guide frame surrounding the grille outline",
+   "Side signalling lighting is shown as a red-dashed strip of segments on the lateral part of the fascia",
+   "EV charging flap is indicated only by a dashed rectangle on the fascia, i.e. optional/variant-dependent",
+   "Absorber sits on a crossbeam with crash boxes; pedestrian impact sensors with a connecting line are mounted on/above the absorber",
+   "Lower stiffener is a separate long ribbed part below the fascia",
+   "Multiple black brackets, air ducts and side grille inserts surround the fascia",
+   "A wiring harness with several branches and connectors is shown at bottom right without a callout",
+   "Callouts are part identifiers only; no numeric requirements are given in the drawing"
+  ],
+  "_model": "claude-opus-5-5",
+  "_usage": {
+   "input": 4489,
+   "output": 5957
+  }
+ }
+}

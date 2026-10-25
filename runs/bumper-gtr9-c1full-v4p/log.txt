@@ -1,0 +1,12 @@
+UN GTR 9 base (0.3.0): 586 nodes, 303,781 chars -> 9 batches (0 oversized), running 9
+  B-004 §186, §187, §188, §189, §190, §191, §192, §193, §1   47 nodes ->   0 reqs
+  B-008 §8                                                   60 nodes ->   0 reqs
+  B-005 §233, §234, §235, §236, §237, §238, §239, §240, §2   71 nodes ->   0 reqs
+  B-001 §0, §1, §2, §3, §4, §5, §6, §7, §8, §9, §10, §11,    67 nodes ->   0 reqs
+  B-002 §66, §67, §68, §69, §70, §71, §72, §73, §74, §75,    66 nodes ->   0 reqs
+  B-003 §132, §133, §134, §135, §136, §137, §138, §139, §1   54 nodes ->   0 reqs
+  B-006 §304, §1, §2, §3                                     56 nodes ->   0 reqs
+  B-007 §4, §5, §6, §7                                       96 nodes ->  34 reqs
+  B-009 Annex 1, Annex 2                                     69 nodes ->  56 reqs
+C1: 90 requirements, 0 flagged; coverage {'processed': 586, 'failed': 0, 'not_processed': 0}; calls 9 (+0 cached)
+T (2 hops): 231 shared context nodes, 0 requirements with incomplete context, diagnostics ['hop_limit']

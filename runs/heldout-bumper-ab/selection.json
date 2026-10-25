@@ -1,0 +1,2037 @@
+{
+ "stageA": {
+  "product_summary": "Front bumper module for an M1 passenger car. It combines a painted PP fascia, grille, EPP absorber, crossbeam with crash boxes and a lower stiffener. It also carries a licence-plate holder, a towing-eye cover and an optional EV charge-flap. Integrated electronics include camera, radar, LIDAR, PDC, pedestrian-impact and thermal sensors, a keyless-entry aerial, a wiring harness, decorative lighting and side signalling lamps (likely non-replaceable LEDs).",
+  "regulations": {
+   "UN GTR 9": {
+    "regulation": "UN GTR No. 9",
+    "likelihood": 0.45,
+    "binds_through": "direct",
+    "reason": "The fascia, absorber, beam and lower stiffener are assessed by legform tests, and the bumper DPPS contact sensors fall under GTR 9. Under the 1958 Agreement this is normally implemented via R127, so GTR 9 is cited less often."
+   },
+   "UN R10": {
+    "regulation": "UN R10",
+    "likelihood": 0.9,
+    "binds_through": "technology",
+    "reason": "The bumper carries many ESAs: camera, radars, LIDAR heater, PDC, impact sensors, keyless aerial and LED lamps with drivers. These fall under R10 EMC requirements for ESAs and vehicles."
+   },
+   "UN R100": {
+    "regulation": "UN R100 (version 5.0.0)",
+    "likelihood": 0.25,
+    "binds_through": "technology",
+    "reason": "An EV charging-inlet flap is integrated in the fascia, and the inlet is part of the HV bus. The bumper only provides the cover/opening, and the variant is optional."
+   },
+   "UN R101": {
+    "regulation": "UN R101",
+    "likelihood": 0.04,
+    "binds_through": "none",
+    "reason": "This is a whole-vehicle CO2/energy-consumption approval. The bumper only indirectly affects aerodynamics and mass."
+   },
+   "UN R102": {
+    "regulation": "UN R102",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Close-coupling devices for N2/N3/O3/O4 vehicles are unrelated to an M1 front bumper."
+   },
+   "UN R103": {
+    "regulation": "UN R103",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Replacement pollution control devices are not part of the bumper."
+   },
+   "UN R104": {
+    "regulation": "UN R104",
+    "likelihood": 0.02,
+    "binds_through": "none",
+    "reason": "Retro-reflective marking materials are for heavy vehicles; M1 is out of scope, and R104 is replaced by R150."
+   },
+   "UN R107": {
+    "regulation": "UN R107 (version 11.1.0, 07 series of amendments)",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Bus general construction does not apply to an M1 bumper."
+   },
+   "UN R114": {
+    "regulation": "UN R114",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Replacement airbag systems are not part of the bumper."
+   },
+   "UN R116": {
+    "regulation": "UN R116",
+    "likelihood": 0.12,
+    "binds_through": "technology",
+    "reason": "The keyless-entry aerial is part of the locking/key system. However, R116 is being superseded by R161/R162/R163, and the aerial plays only a peripheral role."
+   },
+   "UN R123": {
+    "regulation": "UN R123",
+    "likelihood": 0.02,
+    "binds_through": "none",
+    "reason": "The bumper has no AFS headlamp, and R123 is replaced by R149."
+   },
+   "UN R127": {
+    "regulation": "UN R127",
+    "likelihood": 0.9,
+    "binds_through": "direct",
+    "reason": "The bumper fascia, absorber, beam, lower stiffener (lower leg support) and attachments are explicitly assessed by legform tests. The pedestrian impact sensors trigger active pedestrian-protection provisions."
+   },
+   "UN R128": {
+    "regulation": "UN R128",
+    "likelihood": 0.08,
+    "binds_through": "technology",
+    "reason": "The decorative and signalling lamps appear to use non-replaceable LEDs. R128 would apply only if replaceable LED light sources are used.",
+    "excluded": "light-source regulation; light sources not confirmed replaceable"
+   },
+   "UN R131": {
+    "regulation": "UN R131",
+    "likelihood": 0.02,
+    "binds_through": "none",
+    "reason": "Heavy-vehicle AEBS; M1 is covered by R152 instead."
+   },
+   "UN R132": {
+    "regulation": "UN R132",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Retrofit emission control devices are unrelated to the bumper."
+   },
+   "UN R137": {
+    "regulation": "UN R137",
+    "likelihood": 0.35,
+    "binds_through": "technology",
+    "reason": "The crossbeam with crash boxes forms part of the front structure affecting the full-width frontal crash test. This is a vehicle approval with only indirect bumper relevance."
+   },
+   "UN R13H": {
+    "regulation": "UN R13H",
+    "likelihood": 0.04,
+    "binds_through": "none",
+    "reason": "Braking performance is a vehicle system. The bumper radar only feeds automatically commanded braking."
+   },
+   "UN R148": {
+    "regulation": "UN R148",
+    "likelihood": 0.8,
+    "binds_through": "direct",
+    "reason": "The integrated side signalling lamp (side marker or side direction indicator) is a light-signalling device approved under R148."
+   },
+   "UN R149": {
+    "regulation": "UN R149",
+    "likelihood": 0.12,
+    "binds_through": "none",
+    "reason": "No headlamp, fog or cornering lamp is specified in the bumper, though bumpers often carry fog lamps."
+   },
+   "UN R150": {
+    "regulation": "UN R150",
+    "likelihood": 0.15,
+    "binds_through": "technology",
+    "reason": "Side or front retro-reflectors are sometimes integrated in bumpers, but none is specified here."
+   },
+   "UN R152": {
+    "regulation": "UN R152",
+    "likelihood": 0.5,
+    "binds_through": "technology",
+    "reason": "The front radar, LIDAR and camera in the bumper are the AEBS detection sensors. Their position and radome affect AEBS performance."
+   },
+   "UN R155": {
+    "regulation": "UN R155",
+    "likelihood": 0.25,
+    "binds_through": "technology",
+    "reason": "Bumper ECUs/sensors and the keyless-entry interface are part of the vehicle E/E architecture assessed for cyber security."
+   },
+   "UN R156": {
+    "regulation": "UN R156",
+    "likelihood": 0.2,
+    "binds_through": "technology",
+    "reason": "The software-updatable radar/camera ECUs fall under the vehicle SUMS indirectly."
+   },
+   "UN R157": {
+    "regulation": "UN R157",
+    "likelihood": 0.15,
+    "binds_through": "technology",
+    "reason": "The front sensors may contribute to an ALKS sensing system, if fitted."
+   },
+   "UN R161": {
+    "regulation": "UN R161",
+    "likelihood": 0.2,
+    "binds_through": "technology",
+    "reason": "The keyless-entry aerial belongs to the electronic key/locking system covered by R161."
+   },
+   "UN R162": {
+    "regulation": "UN R162",
+    "likelihood": 0.1,
+    "binds_through": "technology",
+    "reason": "Keyless systems may interact with the immobilizer, but the bumper aerial is mainly for entry."
+   },
+   "UN R163": {
+    "regulation": "UN R163",
+    "likelihood": 0.08,
+    "binds_through": "technology",
+    "reason": "Alarm-system linkage via the keyless aerial is marginal."
+   },
+   "UN R164": {
+    "regulation": "UN R164",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Studded tyres are unrelated to the bumper."
+   },
+   "UN R171": {
+    "regulation": "UN R171",
+    "likelihood": 0.28,
+    "binds_through": "technology",
+    "reason": "The front radar/camera provide environment perception for a level-2 DCAS."
+   },
+   "UN R174": {
+    "regulation": "UN R174",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Safety-belt reminders are unrelated to the bumper."
+   },
+   "UN R175": {
+    "regulation": "UN R175",
+    "likelihood": 0.3,
+    "binds_through": "technology",
+    "reason": "The PDC ultrasonic sensors and front radar/camera can serve as the forward detection means for ACPE on M1 vehicles."
+   },
+   "UN R19": {
+    "regulation": "UN R19",
+    "likelihood": 0.04,
+    "binds_through": "none",
+    "reason": "No fog lamp is specified, and R19 is replaced by R149."
+   },
+   "UN R23": {
+    "regulation": "UN R23",
+    "likelihood": 0.02,
+    "binds_through": "none",
+    "reason": "There are no reversing or manoeuvring lamps on a front bumper, and R23 is replaced by R148.",
+    "excluded": "replaced by a consolidated regulation that applies"
+   },
+   "UN R26": {
+    "regulation": "UN R26",
+    "likelihood": 0.9,
+    "binds_through": "direct",
+    "reason": "The bumper fascia, grille, towing-device cover, registration-plate bracket and exterior aerial are external surface elements subject to projection and radius requirements for M1."
+   },
+   "UN R3": {
+    "regulation": "UN R3",
+    "likelihood": 0.04,
+    "binds_through": "none",
+    "reason": "No retro-reflector is specified, and R3 is replaced by R150."
+   },
+   "UN R32": {
+    "regulation": "UN R32",
+    "likelihood": 0.02,
+    "binds_through": "none",
+    "reason": "The rear-impact structure is not affected by a front bumper."
+   },
+   "UN R37": {
+    "regulation": "UN R37 (version 3.48.0)",
+    "likelihood": 0.04,
+    "binds_through": "none",
+    "reason": "The lamps use LED technology; filament light sources are not expected."
+   },
+   "UN R38": {
+    "regulation": "UN R38",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Rear fog lamps are not on a front bumper.",
+    "excluded": "replaced by a consolidated regulation that applies"
+   },
+   "UN R39": {
+    "regulation": "UN R39",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Speedometer equipment is unrelated to the bumper."
+   },
+   "UN R40": {
+    "regulation": "UN R40",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Motorcycle emissions are unrelated to the bumper."
+   },
+   "UN R42": {
+    "regulation": "UN R42",
+    "likelihood": 0.7,
+    "binds_through": "direct",
+    "reason": "Front protective devices (bumpers) of M1 vehicles are tested in low-speed pendulum/barrier impacts. Beam, absorber and fascia height and corners are the regulated features."
+   },
+   "UN R43": {
+    "regulation": "UN R43",
+    "likelihood": 0.04,
+    "binds_through": "none",
+    "reason": "The sensor radomes and lamp lenses are not safety glazing; lighting glazing is excluded."
+   },
+   "UN R48": {
+    "regulation": "UN R48",
+    "likelihood": 0.85,
+    "binds_through": "installation",
+    "reason": "The side signalling lamp's position, visibility and switching must comply with R48. Decorative lighting must also not conflict with R48 rules on lamps and colours."
+   },
+   "UN R49": {
+    "regulation": "UN R49 (version 7.3.1, 07 series of amendments)",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Heavy-duty engine emissions are unrelated to the bumper."
+   },
+   "UN R51": {
+    "regulation": "UN R51 (version 3.10.0)",
+    "likelihood": 0.02,
+    "binds_through": "none",
+    "reason": "Vehicle sound emission is unrelated to the bumper."
+   },
+   "UN R53": {
+    "regulation": "UN R53",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "This regulation covers L3 motorcycle lighting installation only."
+   },
+   "UN R6": {
+    "regulation": "UN R6",
+    "likelihood": 0.07,
+    "binds_through": "none",
+    "reason": "The side signalling may be a direction indicator, but R6 is replaced by R148 for new approvals.",
+    "excluded": "replaced by a consolidated regulation that applies"
+   },
+   "UN R62": {
+    "regulation": "UN R62",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "This applies to L-category handlebar vehicles only."
+   },
+   "UN R64": {
+    "regulation": "UN R64",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Temporary spare units and run-flat tyres are unrelated to the bumper."
+   },
+   "UN R67": {
+    "regulation": "UN R67",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "LPG equipment is not part of the bumper."
+   },
+   "UN R7": {
+    "regulation": "UN R7",
+    "likelihood": 0.04,
+    "binds_through": "none",
+    "reason": "No position lamp function is specified, and R7 is replaced by R148.",
+    "excluded": "replaced by a consolidated regulation that applies"
+   },
+   "UN R79": {
+    "regulation": "UN R79",
+    "likelihood": 0.28,
+    "binds_through": "technology",
+    "reason": "The front camera/radar provide inputs to ACSF/LKA/ESF steering functions under R79."
+   },
+   "UN R83": {
+    "regulation": "UN R83 (version 9.0.0)",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Vehicle emissions are unrelated to the bumper."
+   },
+   "UN R89": {
+    "regulation": "UN R89",
+    "likelihood": 0.02,
+    "binds_through": "none",
+    "reason": "Speed limitation is unrelated to bumper hardware."
+   },
+   "UN R92": {
+    "regulation": "UN R92",
+    "likelihood": 0.01,
+    "binds_through": "none",
+    "reason": "Motorcycle silencers are unrelated to the bumper."
+   },
+   "UN R94": {
+    "regulation": "UN R94 (version 5.1.0)",
+    "likelihood": 0.35,
+    "binds_through": "technology",
+    "reason": "The front crossbeam and crash boxes form part of the front structure affecting the offset frontal crash. This is a vehicle-level approval with indirect relevance."
+   }
+  },
+  "candidates": {
+   "UN GTR 9": {
+    "regulation": "UN GTR No. 9",
+    "likelihood": 0.45,
+    "binds_through": "direct",
+    "reason": "The fascia, absorber, beam and lower stiffener are assessed by legform tests, and the bumper DPPS contact sensors fall under GTR 9. Under the 1958 Agreement this is normally implemented via R127, so GTR 9 is cited less often.",
+    "via": "screening"
+   },
+   "UN R10": {
+    "regulation": "UN R10",
+    "likelihood": 0.9,
+    "binds_through": "technology",
+    "reason": "The bumper carries many ESAs: camera, radars, LIDAR heater, PDC, impact sensors, keyless aerial and LED lamps with drivers. These fall under R10 EMC requirements for ESAs and vehicles.",
+    "via": "screening"
+   },
+   "UN R127": {
+    "regulation": "UN R127",
+    "likelihood": 0.9,
+    "binds_through": "direct",
+    "reason": "The bumper fascia, absorber, beam, lower stiffener (lower leg support) and attachments are explicitly assessed by legform tests. The pedestrian impact sensors trigger active pedestrian-protection provisions.",
+    "via": "screening"
+   },
+   "UN R137": {
+    "regulation": "UN R137",
+    "likelihood": 0.35,
+    "binds_through": "technology",
+    "reason": "The crossbeam with crash boxes forms part of the front structure affecting the full-width frontal crash test. This is a vehicle approval with only indirect bumper relevance.",
+    "via": "screening"
+   },
+   "UN R148": {
+    "regulation": "UN R148",
+    "likelihood": 0.8,
+    "binds_through": "direct",
+    "reason": "The integrated side signalling lamp (side marker or side direction indicator) is a light-signalling device approved under R148.",
+    "via": "screening"
+   },
+   "UN R152": {
+    "regulation": "UN R152",
+    "likelihood": 0.5,
+    "binds_through": "technology",
+    "reason": "The front radar, LIDAR and camera in the bumper are the AEBS detection sensors. Their position and radome affect AEBS performance.",
+    "via": "screening"
+   },
+   "UN R175": {
+    "regulation": "UN R175",
+    "likelihood": 0.3,
+    "binds_through": "technology",
+    "reason": "The PDC ultrasonic sensors and front radar/camera can serve as the forward detection means for ACPE on M1 vehicles.",
+    "via": "screening"
+   },
+   "UN R26": {
+    "regulation": "UN R26",
+    "likelihood": 0.9,
+    "binds_through": "direct",
+    "reason": "The bumper fascia, grille, towing-device cover, registration-plate bracket and exterior aerial are external surface elements subject to projection and radius requirements for M1.",
+    "via": "screening"
+   },
+   "UN R42": {
+    "regulation": "UN R42",
+    "likelihood": 0.7,
+    "binds_through": "direct",
+    "reason": "Front protective devices (bumpers) of M1 vehicles are tested in low-speed pendulum/barrier impacts. Beam, absorber and fascia height and corners are the regulated features.",
+    "via": "screening"
+   },
+   "UN R48": {
+    "regulation": "UN R48",
+    "likelihood": 0.85,
+    "binds_through": "installation",
+    "reason": "The side signalling lamp's position, visibility and switching must comply with R48. Decorative lighting must also not conflict with R48 rules on lamps and colours.",
+    "via": "screening"
+   },
+   "UN R94": {
+    "regulation": "UN R94 (version 5.1.0)",
+    "likelihood": 0.35,
+    "binds_through": "technology",
+    "reason": "The front crossbeam and crash boxes form part of the front structure affecting the offset frontal crash. This is a vehicle-level approval with indirect relevance.",
+    "via": "screening"
+   }
+  },
+  "bm25": [
+   [
+    "UN GTR 9",
+    177.6
+   ],
+   [
+    "UN R10",
+    177.4
+   ],
+   [
+    "UN R127",
+    159.6
+   ],
+   [
+    "UN R94",
+    156.7
+   ],
+   [
+    "UN R26",
+    153.9
+   ],
+   [
+    "UN R48",
+    150.2
+   ],
+   [
+    "UN R100",
+    140.3
+   ],
+   [
+    "UN R107",
+    139.1
+   ]
+  ]
+ },
+ "stageB": {
+  "UN GTR 9": {
+   "applies": true,
+   "how_it_applies": "GTR 9 is a whole-vehicle pedestrian-protection requirement for category 1-1 (≈M1) vehicles above 500 kg GVM. It does not approve components, but the front bumper is the structure assessed by the legform-to-bumper tests. The fascia, EPP absorber, bumper beam, lower stiffener and every attachment within the bumper test area together determine compliance with the FlexPLI limits (tibia bending moment, MCL elongation) or, for high bumpers, the upper legform limits (force sum, bending moment). The bumper's geometry (corners of bumper, bumper beam ends, lower and upper bumper reference lines, lower bumper height) defines the bumper test area and decides which legform test applies. The integrated pedestrian impact sensors point to a Deployable Pedestrian Protection System (active bonnet). If they are one, the bumper carries the DPPS sensing system and Annex 1 applies: detection within the detection test area, sensing time and total response time verification with the FlexPLI, and headform testing in deployed or undeployed state. Annex 2 also applies: HBM simulation to determine head impact time, against which the TRT is compared. The upper grille and fascia may also lie inside the headform test area (WAD ≥ 1000) on low-bonnet vehicles. The bumper supplier is affected through the vehicle front structure; the obligation sits with the vehicle manufacturer.",
+   "part_mapping": [
+    {
+     "part": "P-01 Cover part (fascia)",
+     "defined_term": "Bumper (front, lower, outer structure); defines corner of bumper and upper/lower bumper reference lines",
+     "class_or_variant": "Lower legform (FlexPLI) test or upper legform test, depending on lower bumper height",
+     "confirmed": true
+    },
+    {
+     "part": "P-03 Absorber (EPP)",
+     "defined_term": "Bumper (structure intended to protect the vehicle in low-speed frontal collisions)",
+     "class_or_variant": "Legform-to-bumper test energy management",
+     "confirmed": true
+    },
+    {
+     "part": "P-19 Front crossbeam with crash boxes",
+     "defined_term": "Bumper beam (lateral ends bound the bumper test area)",
+     "class_or_variant": "Bumper test area definition",
+     "confirmed": true
+    },
+    {
+     "part": "P-04 Lower stiffener (underrun protection)",
+     "defined_term": "Bumper (lower structure; determines lower bumper reference line / lower bumper height)",
+     "class_or_variant": "FlexPLI test (lower bumper height < 425 mm) or upper legform test",
+     "confirmed": true
+    },
+    {
+     "part": "P-11 Pedestrian impact sensors",
+     "defined_term": "Deployable Pedestrian Protection System (DPPS) sensing system; sensing time / total response time; detection test area",
+     "class_or_variant": "Vehicles with DPPS (Annex 1)",
+     "confirmed": false
+    },
+    {
+     "part": "P-02 (Radiator) Grill",
+     "defined_term": "Bumper attachment / vehicle front surface; possibly within child headform test area (WAD1000–1700) or the bonnet leading edge region",
+     "class_or_variant": "Legform test; possibly child headform test",
+     "confirmed": false
+    },
+    {
+     "part": "P-05 License plate area / holder",
+     "defined_term": "Bumper attachment within bumper test area",
+     "class_or_variant": "Legform test",
+     "confirmed": true
+    },
+    {
+     "part": "P-06 Towing device cover",
+     "defined_term": "Bumper attachment within bumper test area",
+     "class_or_variant": "Legform test",
+     "confirmed": true
+    },
+    {
+     "part": "P-07/P-08/P-09/P-10/P-12 Camera, radar, radar/LIDAR, PDC and thermal sensors with brackets",
+     "defined_term": "Bumper attachments (hard points within bumper test area)",
+     "class_or_variant": "Legform test",
+     "confirmed": true
+    },
+    {
+     "part": "P-13 Decorative lighting / P-14 Side signalling lighting",
+     "defined_term": "Bumper attachments; side lamps may lie at the corner of bumper",
+     "class_or_variant": "Legform test",
+     "confirmed": true
+    },
+    {
+     "part": "P-16 EV charging flap",
+     "defined_term": "Bumper attachment within bumper test area",
+     "class_or_variant": "Legform test",
+     "confirmed": true
+    },
+    {
+     "part": "P-15 Aerial, P-17 Wiring harness, P-20 Fasteners",
+     "defined_term": "No specific defined term (part of the bumper with attachments only)",
+     "class_or_variant": null,
+     "confirmed": true
+    }
+   ],
+   "open_options": [
+    {
+     "feature": "Lower bumper height of the bumper (lower bumper reference line)",
+     "options": [
+      "below 425 mm – FlexPLI lower legform test",
+      "425–500 mm – FlexPLI or upper legform test at the manufacturer's choice",
+      "500 mm or more – upper legform test"
+     ]
+    },
+    {
+     "feature": "Pedestrian impact sensors as part of a DPPS (active bonnet)",
+     "options": [
+      "DPPS sensing system triggering a deployable bonnet/actuators (Annex 1 and Annex 2 apply)",
+      "no DPPS function (sensors used for other purposes) – only passive legform/headform tests"
+     ]
+    },
+    {
+     "feature": "DPPS fulfilment of the Annex 1 prerequisites (detection in detection test area, HIT vs TRT)",
+     "options": [
+      "prerequisites met – headform tests in deployed condition (static or dynamic option)",
+      "prerequisites not met – headform tests in undeployed condition"
+     ]
+    },
+    {
+     "feature": "Position of upper grille / upper fascia relative to the headform test area",
+     "options": [
+      "upper grille/fascia within WAD1000 or more (child headform test applies to these parts)",
+      "entirely below the bonnet leading edge / WAD1000 (only legform tests)"
+     ]
+    }
+   ],
+   "selected_sections": [
+    {
+     "key": "6.1",
+     "reason": "General test conditions for the legform and headform tests performed on the vehicle front including the bumper."
+    },
+    {
+     "key": "6.2",
+     "reason": "Preparation of the vehicle (normal ride attitude, primary reference marks ±25 mm), which sets the bumper position for testing."
+    },
+    {
+     "key": "7.1",
+     "reason": "Legform-to-bumper test procedures (FlexPLI and upper legform, bumper test area). These are the core tests on the bumper module."
+    },
+    {
+     "key": "7.2",
+     "reason": "Headform test procedures, which apply if the upper grille/fascia lies in the headform test area (open option)."
+    },
+    {
+     "key": "Annex 1",
+     "reason": "DPPS test procedure. Applies if the pedestrian impact sensors form a DPPS sensing system (open option)."
+    },
+    {
+     "key": "Annex 2",
+     "reason": "HIT determination simulation, needed to compare HIT with the TRT of the DPPS triggered by the bumper sensors."
+    }
+   ],
+   "include": true,
+   "unresolved_keys": []
+  },
+  "UN R10": {
+   "applies": true,
+   "how_it_applies": "UN R10 does not regulate the bumper's mechanical parts, but the module carries several electrical/electronic sub-assemblies (ESAs, para 2.8): camera, radar, radar/LIDAR with heater, PDC sensor, pedestrian impact sensors, temperature/thermal sensor, decorative and signalling LED lighting, the keyless-entry aerial and the bumper wiring harness. Each ESA must meet the ESA emission limits (broadband 6.5/Annex 7, narrowband 6.6/Annex 8) and the transient emission limits (6.7/Annex 10). ESAs with immunity-related functions must also meet the immunity requirements (6.8/Annex 9, 6.9/Annex 10). These include the camera (indirect vision/ADAS), radars and LIDAR feeding braking and blind-spot functions, the pedestrian impact sensors feeding occupant/road-user protection, and the side signalling lamp if it is a direction indicator. These ESAs are approved as a component or separate technical unit, or validated within the M1 vehicle approval. Further conditions apply as follows. (1) An ESA that is, or is part of, a light source needs an R37/R99/R128 approval or a non-interchangeability report (4.2). (2) The ESA must carry the approval mark (5). (3) Conformity of production applies (9). (4) If the charge-port area includes the vehicle inlet or charging electronics rather than only a mechanical flap, the para 7 charging-mode ESA requirements also apply. Para 7 covers harmonics, flicker, conducted RF, burst, surge and immunity.",
+   "part_mapping": [
+    {
+     "part": "P-01 Cover part (fascia)",
+     "defined_term": "Not covered (non-electrical part)",
+     "class_or_variant": null,
+     "confirmed": true
+    },
+    {
+     "part": "P-02 (Radiator) Grill",
+     "defined_term": "Not covered (non-electrical part)",
+     "class_or_variant": null,
+     "confirmed": true
+    },
+    {
+     "part": "P-03 Absorber",
+     "defined_term": "Not covered (non-electrical part)",
+     "class_or_variant": null,
+     "confirmed": true
+    },
+    {
+     "part": "P-04 Lower stiffener",
+     "defined_term": "Not covered (non-electrical part)",
+     "class_or_variant": null,
+     "confirmed": true
+    },
+    {
+     "part": "P-05 License plate holder",
+     "defined_term": "Not covered (non-electrical part)",
+     "class_or_variant": null,
+     "confirmed": true
+    },
+    {
+     "part": "P-06 Towing device cover",
+     "defined_term": "Not covered (non-electrical part)",
+     "class_or_variant": null,
+     "confirmed": true
+    },
+    {
+     "part": "P-07 Camera",
+     "defined_term": "Electrical/electronic sub-assembly (ESA) (2.8); immunity related function (2.12, indirect vision/driver assistance)",
+     "class_or_variant": "ESA component or STU approval",
+     "confirmed": true
+    },
+    {
+     "part": "P-08 Radar sensor",
+     "defined_term": "ESA (2.8); immunity related function (2.12, e.g. braking/blind spot)",
+     "class_or_variant": "ESA component or STU approval; possibly intentional RF transmitter",
+     "confirmed": true
+    },
+    {
+     "part": "P-09 Radar/LIDAR sensor incl. heating",
+     "defined_term": "ESA (2.8); immunity related function (2.12)",
+     "class_or_variant": "ESA component or STU approval",
+     "confirmed": true
+    },
+    {
+     "part": "P-10 PDC sensor",
+     "defined_term": "ESA (2.8)",
+     "class_or_variant": "ESA component or STU approval",
+     "confirmed": true
+    },
+    {
+     "part": "P-11 Pedestrian impact sensors",
+     "defined_term": "ESA (2.8); immunity related function (2.12, road user protection)",
+     "class_or_variant": "ESA component or STU approval",
+     "confirmed": true
+    },
+    {
+     "part": "P-12 Temperature/thermal sensor",
+     "defined_term": "ESA (2.8)",
+     "class_or_variant": "ESA component or STU approval",
+     "confirmed": true
+    },
+    {
+     "part": "P-13 Lighting decorative",
+     "defined_term": "ESA (2.8); possibly ESA that is (part of) a light source",
+     "class_or_variant": "ESA component or STU approval",
+     "confirmed": true
+    },
+    {
+     "part": "P-14 (Side) Lighting signalling",
+     "defined_term": "ESA (2.8); immunity related function if direction indicator (2.12); possibly ESA that is (part of) a light source",
+     "class_or_variant": "ESA component or STU approval",
+     "confirmed": true
+    },
+    {
+     "part": "P-15 Aerial (keyless entry)",
+     "defined_term": "ESA (2.8); immunity related function if part of anti-theft/alarm; intentional RF transmitter",
+     "class_or_variant": "ESA component or STU approval",
+     "confirmed": false
+    },
+    {
+     "part": "P-16 EV charge port flap",
+     "defined_term": "Coupling system for charging the REESS (2.14) only if inlet/electronics are included; otherwise not covered",
+     "class_or_variant": "Configuration REESS charging mode coupled to the power grid",
+     "confirmed": false
+    },
+    {
+     "part": "P-17 Wiring harness",
+     "defined_term": "Vehicle wiring harness (2.11), part of the ESAs' associated connections",
+     "class_or_variant": null,
+     "confirmed": true
+    },
+    {
+     "part": "P-19 Crossbeam / P-18 brackets / P-20 fasteners",
+     "defined_term": "Not covered (non-electrical parts)",
+     "class_or_variant": null,
+     "confirmed": true
+    }
+   ],
+   "open_options": [
+    {
+     "feature": "Light source of decorative and signalling lamps",
+     "options": [
+      "non-replaceable LED / light source module",
+      "replaceable light source (R37/R99/R128 approved)",
+      "ESA forming part of a light source not interchangeable with approved light sources (Technical Service report)"
+     ]
+    },
+    {
+     "feature": "Function of side signalling lamp",
+     "options": [
+      "side direction indicator (immunity related)",
+      "side marker lamp",
+      "other signalling function"
+     ]
+    },
+    {
+     "feature": "EV charge-port area content",
+     "options": [
+      "mechanical flap only",
+      "flap with integrated vehicle inlet / charging electronics (coupling system for charging the REESS)"
+     ]
+    },
+    {
+     "feature": "ESA operation during REESS charging mode",
+     "options": [
+      "ESAs inactive during charging",
+      "ESAs active during charging"
+     ]
+    },
+    {
+     "feature": "Keyless aerial / radar transmitting",
+     "options": [
+      "intentional RF transmitter",
+      "passive receive-only antenna"
+     ]
+    },
+    {
+     "feature": "Keyless aerial function",
+     "options": [
+      "part of anti-theft / alarm system (immunity related)",
+      "comfort entry only"
+     ]
+    },
+    {
+     "feature": "Supply voltage of ESAs",
+     "options": [
+      "12 V",
+      "24 V",
+      "other / high-voltage supply"
+     ]
+    },
+    {
+     "feature": "Approval route of the ESAs",
+     "options": [
+      "ESA component approval",
+      "ESA separate technical unit approval",
+      "replacement part identical to OE (no approval)",
+      "aftermarket non-immunity-related (declaration only)"
+     ]
+    }
+   ],
+   "selected_sections": [
+    {
+     "key": "1",
+     "reason": "Scope: ESAs fitted to M1 vehicles are covered."
+    },
+    {
+     "key": "4.2",
+     "reason": "Granting conditions, including the light-source condition (4.2.4) for LED lighting ESAs and the RF transmitter guidelines."
+    },
+    {
+     "key": "5",
+     "reason": "Approval marking that the ESA must carry."
+    },
+    {
+     "key": "Annex 1",
+     "reason": "Approval mark arrangement for the ESA marking."
+    },
+    {
+     "key": "6",
+     "reason": "Main specifications in configurations other than charging mode."
+    },
+    {
+     "key": "Annex 7",
+     "reason": "Broadband ESA emission test method."
+    },
+    {
+     "key": "Annex 8",
+     "reason": "Narrowband ESA emission test method."
+    },
+    {
+     "key": "Annex 9",
+     "reason": "ESA immunity test methods."
+    },
+    {
+     "key": "Annex 10",
+     "reason": "Conducted transient immunity and emission on 12/24 V supply lines (6.7/6.9)."
+    },
+    {
+     "key": "23",
+     "reason": "ISO 16750 reference used by the transient tests; its large page range may contain requirement text."
+    },
+    {
+     "key": "9",
+     "reason": "Conformity of production for the approved ESAs."
+    },
+    {
+     "key": "7",
+     "reason": "Charging-mode requirements; applies if the charge-port area contains an inlet or charging electronics, or if ESAs are active during charging."
+    },
+    {
+     "key": "Annex 17",
+     "reason": "ESA harmonics test (open option)."
+    },
+    {
+     "key": "Annex 18",
+     "reason": "ESA flicker test (open option)."
+    },
+    {
+     "key": "Annex 19",
+     "reason": "ESA conducted RF emission on AC/DC power lines (open option)."
+    },
+    {
+     "key": "Annex 21 Appendix 1",
+     "reason": "ESA burst immunity criteria (open option)."
+    },
+    {
+     "key": "Annex 22",
+     "reason": "ESA surge immunity test (open option)."
+    }
+   ],
+   "include": true,
+   "unresolved_keys": []
+  },
+  "UN R127": {
+   "applies": true,
+   "how_it_applies": "UN R127 is a whole-vehicle approval for pedestrian safety on M1 and N1 vehicles; there is no separate component approval. The product is the front bumper module of an M1 car, which is the core subject of the regulation. Under para. 2.11, 'Bumper' covers the front, lower, outer structure including all low-speed collision structures and any attachments. That takes in the fascia, absorber, lower stiffener, beam, grille, plate holder, covers, sensors and lamps. The module therefore has to be designed so the vehicle passes the bumper tests of para. 5.1 with Annex 5. The flexible lower legform test applies, or the upper legform test if the lower bumper reference line is high. The upper parts (grille, decorative light frame) may also contribute to the bonnet leading edge or front structure. The pedestrian impact sensors trigger an active pedestrian protection device, whose deployment is evaluated in the headform tests (para. 5.2 and Annex 5). The approval mark goes on the vehicle, not the bumper, so the approval marking provisions are not product obligations.",
+   "part_mapping": [
+    {
+     "part": "Cover part (fascia)",
+     "defined_term": "Bumper (2.11); Bumper test area (2.14); Upper/Lower bumper reference line (2.38/2.26)",
+     "class_or_variant": "Flexible lower legform impactor test / Upper legform to bumper test",
+     "confirmed": true
+    },
+    {
+     "part": "(Radiator) Grill",
+     "defined_term": "Front structure (2.22); attachment to Bumper (2.11); possibly Bonnet leading edge (2.5)",
+     "class_or_variant": "Flexible lower legform impactor test; possibly headform test if within WAD ≥1000",
+     "confirmed": false
+    },
+    {
+     "part": "Absorber (EPP foam)",
+     "defined_term": "Bumper (2.11) – foam excluded from Bumper beam (2.12)",
+     "class_or_variant": "Flexible lower legform impactor test",
+     "confirmed": true
+    },
+    {
+     "part": "Lower stiffener (underrun protection)",
+     "defined_term": "Bumper (2.11); determines Lower bumper reference line (2.26)",
+     "class_or_variant": "Flexible lower legform impactor test",
+     "confirmed": true
+    },
+    {
+     "part": "Front crossbeam with crash boxes",
+     "defined_term": "Bumper beam (2.12); corner of bumper / beam ends define Bumper test area (2.14)",
+     "class_or_variant": "Flexible lower legform impactor test",
+     "confirmed": true
+    },
+    {
+     "part": "License plate area / holder",
+     "defined_term": "Attachment to Bumper (2.11) within Bumper test area (2.14)",
+     "class_or_variant": "Flexible lower legform impactor test",
+     "confirmed": true
+    },
+    {
+     "part": "Towing device cover",
+     "defined_term": "Attachment to Bumper (2.11)",
+     "class_or_variant": "Flexible lower legform impactor test",
+     "confirmed": true
+    },
+    {
+     "part": "Camera, radar, radar/LIDAR, PDC, temperature sensors, aerial",
+     "defined_term": "Attachments to Bumper (2.11); Front structure (2.22)",
+     "class_or_variant": "Flexible lower legform impactor test",
+     "confirmed": true
+    },
+    {
+     "part": "Pedestrian impact sensors",
+     "defined_term": "Active device to protect pedestrians (sensing/triggering part); Bumper (2.11) attachment",
+     "class_or_variant": "Headform tests with deployed device; bumper tests",
+     "confirmed": false
+    },
+    {
+     "part": "Lighting – decorative (grille surround)",
+     "defined_term": "Front structure (2.22); possibly Bonnet leading edge (2.5) / Bumper attachment",
+     "class_or_variant": "Bumper or headform test depending on position",
+     "confirmed": false
+    },
+    {
+     "part": "(Side) Lighting – signalling",
+     "defined_term": "Attachment to Bumper (2.11); near Corner of bumper (2.17)",
+     "class_or_variant": "Flexible lower legform impactor test",
+     "confirmed": true
+    },
+    {
+     "part": "EV charging flap ('fuel filler cap')",
+     "defined_term": "Attachment to Bumper (2.11) / Front structure (2.22)",
+     "class_or_variant": "Flexible lower legform impactor test",
+     "confirmed": false
+    }
+   ],
+   "open_options": [
+    {
+     "feature": "Height of lower bumper reference line at the test position (determines the applicable bumper test)",
+     "options": [
+      "below 425 mm – flexible lower legform test",
+      "425 mm to below 500 mm – flexible lower legform test or upper legform test at manufacturer choice",
+      "500 mm or above – upper legform to bumper test"
+     ]
+    },
+    {
+     "feature": "Pedestrian impact sensors triggering a deployable/active pedestrian protection system",
+     "options": [
+      "active deployable system triggered by bumper sensors",
+      "sensors only, no deployable device (passive front structure)"
+     ]
+    },
+    {
+     "feature": "Upper bumper parts (grille, decorative light frame, upper fascia) within bonnet leading edge / headform test area (WAD ≥ 1000)",
+     "options": [
+      "within headform test area",
+      "entirely below / forward of headform test area"
+     ]
+    }
+   ],
+   "selected_sections": [
+    {
+     "key": "5",
+     "reason": "Specifications: lower legform and upper legform bumper test requirements and limits apply directly to the bumper module."
+    },
+    {
+     "key": "7",
+     "reason": "Conformity of production of the pedestrian protection performance."
+    },
+    {
+     "key": "Annex 3",
+     "reason": "General test conditions and vehicle preparation for the bumper impact tests."
+    },
+    {
+     "key": "Annex 5",
+     "reason": "Test procedures referenced by para. 5.1/5.2."
+    }
+   ],
+   "include": true,
+   "unresolved_keys": []
+  },
+  "UN R137": {
+   "applies": true,
+   "how_it_applies": "R137 is a whole-vehicle approval for M1 (≤3,500 kg) and N1, based on a 50 km/h full-width frontal impact against a rigid barrier. The bumper is not approved on its own. However, its crossbeam with crash boxes, EPP absorber and lower stiffener are part of the vehicle front structure, and that front structure is part of the vehicle-type definition (2.4). Through the crash pulse they directly influence whether the vehicle meets the dummy performance criteria and the post-crash requirements of para. 5. Any change to these parts can trigger re-test or extension. On EV variants, the charging-inlet flap in the fascia marks a vehicle inlet, which is part of the coupling system for charging the REESS. If that circuit is high voltage, the post-crash electrical-safety requirements of para. 5.2.8 and Annex 9 apply to it: IPXXB physical protection, isolation resistance and voltage/low-energy limits. These matter especially because the inlet sits in the front impact zone. The following parts carry no specific R137 obligations: the sensors, camera, PDC, aerial, decorative and signalling lamps, license plate holder and towing cover. They only need not compromise the frontal-impact result.",
+   "part_mapping": [
+    {
+     "part": "Front crossbeam with crash boxes (P-19)",
+     "defined_term": "Vehicle type (2.4) – front structure forward of the driver's R point",
+     "class_or_variant": "M1 vehicles ≤ 3,500 kg",
+     "confirmed": true
+    },
+    {
+     "part": "Absorber (P-03)",
+     "defined_term": "Vehicle type (2.4) – front structure (energy management in frontal impact)",
+     "class_or_variant": "M1 vehicles ≤ 3,500 kg",
+     "confirmed": true
+    },
+    {
+     "part": "Lower stiffener (underrun protection) (P-04)",
+     "defined_term": "Vehicle type (2.4) – front structure",
+     "class_or_variant": "M1 vehicles ≤ 3,500 kg",
+     "confirmed": true
+    },
+    {
+     "part": "Cover part / fascia and grille (P-01, P-02)",
+     "defined_term": "Vehicle type (2.4) – vehicle length/front structure (vehicle state for test, Annex 3 1.4)",
+     "class_or_variant": null,
+     "confirmed": true
+    },
+    {
+     "part": "\"Fuel filler cap\" / EV charging inlet flap (P-16)",
+     "defined_term": "Coupling system for charging the REESS (2.21) / vehicle inlet, part of electric power train (2.14) and high voltage bus (2.27)",
+     "class_or_variant": "Vehicles with high voltage electric power train",
+     "confirmed": false
+    },
+    {
+     "part": "Wiring harness (P-17)",
+     "defined_term": "Electric power train wiring harness (2.14) / solid insulator (2.28), only if it carries high voltage",
+     "class_or_variant": "Vehicles with high voltage electric power train",
+     "confirmed": false
+    },
+    {
+     "part": "(Side) Lighting – signalling (P-14)",
+     "defined_term": "Vehicle width (2.3) – lamps excluded from width measurement",
+     "class_or_variant": null,
+     "confirmed": true
+    }
+   ],
+   "open_options": [
+    {
+     "feature": "EV charging inlet integrated in bumper",
+     "options": [
+      "present (EV/PHEV variant)",
+      "absent (ICE variant, flap not fitted)"
+     ]
+    },
+    {
+     "feature": "Voltage class of the charging inlet circuit",
+     "options": [
+      "high voltage (AC > 30 V rms or DC > 60 V) – post-crash electrical safety applies",
+      "not high voltage / specific voltage condition"
+     ]
+    },
+    {
+     "feature": "Crossbeam material",
+     "options": [
+      "steel",
+      "aluminium",
+      "PP-GF"
+     ]
+    }
+   ],
+   "selected_sections": [
+    {
+     "key": "5",
+     "reason": "Specifications: dummy injury limits, structural/door, fuel leakage and post-crash electrical safety requirements that the vehicle with this front structure must meet"
+    },
+    {
+     "key": "8",
+     "reason": "Conformity of production of the approved vehicle type, including the front structure"
+    },
+    {
+     "key": "Annex 3",
+     "reason": "Frontal impact test procedure in which the bumper structure is loaded"
+    },
+    {
+     "key": "Annex 4",
+     "reason": "Performance criteria whose results depend on the front-structure energy management"
+    },
+    {
+     "key": "Annex 7",
+     "reason": "Trolley test that may be used to verify changes to the front structure"
+    },
+    {
+     "key": "Annex 9",
+     "reason": "Post-crash electrical safety tests applicable to a high-voltage charging inlet in the bumper (EV variant)"
+    }
+   ],
+   "include": true,
+   "unresolved_keys": []
+  },
+  "UN R148": {
+   "applies": true,
+   "how_it_applies": "UN R148 type-approves light-signalling lamps as components. The bumper's '(Side) Lighting – signalling' segment strip on the lateral fascia is such a lamp: most likely a side marker lamp (SM1/SM2), but possibly a side or front direction indicator, front position lamp, parking lamp or DRL. That lamp, including any LED control gear declared part of it, needs an R148 approval and marking. Its installation on the M1 vehicle then falls under R48 (outside this regulation). The decorative grille-surround light guide is not a light-signalling function listed in R148, unless it also performs a signalling function. The other parts (sensors, absorber, stiffener, grille, plate holder, covers, EV flap) are outside R148. The front registration plate holder carries no lamp, and R148 covers only rear-registration plate lamps.",
+   "part_mapping": [
+    {
+     "part": "P-14 (Side) Lighting – signalling",
+     "defined_term": "Side marker lamp",
+     "class_or_variant": "SM1 or SM2 (SM2 allowed for M1 only)",
+     "confirmed": false
+    },
+    {
+     "part": "P-14 (Side) Lighting – signalling",
+     "defined_term": "Direction indicator lamp (side or front)",
+     "class_or_variant": "5 / 6 (side) or 1 / 1a / 1b (front)",
+     "confirmed": false
+    },
+    {
+     "part": "P-14 (Side) Lighting – signalling",
+     "defined_term": "Front position lamp / parking lamp / daytime running lamp",
+     "class_or_variant": "A / 77R / RL",
+     "confirmed": false
+    },
+    {
+     "part": "P-14 LED driver electronics",
+     "defined_term": "Electronic light source control gear, being part of the lamp",
+     "class_or_variant": null,
+     "confirmed": false
+    },
+    {
+     "part": "P-13 Lighting – decorative",
+     "defined_term": "Not an R148 light-signalling device (decorative lighting); in scope only if it also serves as a front position lamp or DRL",
+     "class_or_variant": null,
+     "confirmed": false
+    },
+    {
+     "part": "P-05 License plate area / holder",
+     "defined_term": "Not in scope (R148 covers rear-registration plate illuminating lamps only; front holder has no lamp)",
+     "class_or_variant": null,
+     "confirmed": true
+    }
+   ],
+   "open_options": [
+    {
+     "feature": "Signalling function of the side lamp",
+     "options": [
+      "side marker lamp SM1",
+      "side marker lamp SM2 (M1 only)",
+      "side direction indicator category 5",
+      "side direction indicator category 6",
+      "front direction indicator 1/1a/1b",
+      "front position lamp A (also end-outline marker AM)",
+      "parking lamp 77R",
+      "daytime running lamp RL",
+      "combination of several of these functions (grouped/combined/reciprocally incorporated)"
+     ]
+    },
+    {
+     "feature": "Decorative grille light guide used as a signalling function",
+     "options": [
+      "purely decorative (outside R148)",
+      "also acts as front position lamp",
+      "also acts as daytime running lamp"
+     ]
+    },
+    {
+     "feature": "Light source type",
+     "options": [
+      "non-replaceable LED light sources",
+      "replaceable light source module (MD code)",
+      "replaceable light source to R37/R99/R128 (incl. LED substitute)"
+     ]
+    },
+    {
+     "feature": "Electronic light source control gear",
+     "options": [
+      "integrated in the lamp body",
+      "external but declared part of the lamp (to be marked)",
+      "none / supplied from vehicle"
+     ]
+    },
+    {
+     "feature": "Direction indicator activation mode (if indicator)",
+     "options": [
+      "non-sequential",
+      "sequential activation"
+     ]
+    },
+    {
+     "feature": "Lamp arrangement",
+     "options": [
+      "single lamp",
+      "assembly of two independent lamps (D)",
+      "part of interdependent lamp system (Y)"
+     ]
+    },
+    {
+     "feature": "Vehicle manufacturer logo in the lamp",
+     "options": [
+      "with logo",
+      "without logo"
+     ]
+    },
+    {
+     "feature": "Failure detection",
+     "options": [
+      "lamp-internal failure provisions",
+      "relies on vehicle tell-tale signal"
+     ]
+    }
+   ],
+   "selected_sections": [
+    {
+     "key": "3.3",
+     "reason": "Approval mark and other markings the lamp must carry: D/Y symbols, side arrows, control gear marking, module code."
+    },
+    {
+     "key": "4",
+     "reason": "General technical requirements, including the applicable R48 sections 5/6 and vibration robustness."
+    },
+    {
+     "key": "5",
+     "reason": "Specific technical requirements header for the lamp function."
+    },
+    {
+     "key": "6",
+     "reason": "Conformity of production requirements."
+    },
+    {
+     "key": "Annex 2",
+     "reason": "Angles of geometric visibility for the lamp."
+    },
+    {
+     "key": "Annex 3",
+     "reason": "Standard light distributions used for photometry."
+    },
+    {
+     "key": "Annex 4",
+     "reason": "Minimum COP control procedures."
+    },
+    {
+     "key": "Annex 6",
+     "reason": "Heat resistance test, if the lamp is a DRL."
+    },
+    {
+     "key": "Annex 7",
+     "reason": "Arrangement of approval markings, including grouped lamps and module code."
+    },
+    {
+     "key": "Annex 8",
+     "reason": "Testing procedures with respect to light sources, for luminous intensity compliance."
+    }
+   ],
+   "include": true,
+   "unresolved_keys": []
+  },
+  "UN R152": {
+   "applies": true,
+   "how_it_applies": "UN R152 is a vehicle-level 'if-fitted' regulation for the AEBS of M1/N1 vehicles; the bumper itself receives no approval or mark. It applies indirectly through the product's technology. The front bumper carries the forward-looking perception hardware (radar sensor, central radar/LIDAR with heating, camera) and the fascia, grille or radome areas the sensors look through. If these sensors feed the vehicle's AEBS, they form part of 'the System' (Annex 3) and are features significantly influencing AEBS performance (definition 2.4). The bumper module must therefore support: the general and specific performance requirements (5.1/5.2: warning and emergency braking against car, pedestrian and bicycle targets); self-check and failure detection, e.g. sensor blockage, heater or sensor faults (5.1, 5.5, 6.8); robustness (6.10); PTI verifiability (5.6); false-reaction strategies and safety-concept documentation (Annex 3 and its Appendices); and consistent production (8). Possible virtual testing using sensor models also applies (6.11/Annex 4). The structural, lighting, aerial, PDC, thermal, pedestrian-impact-sensor and charge-flap parts are not AEBS elements and are not addressed by R152.",
+   "part_mapping": [
+    {
+     "part": "Radar sensor (P-08)",
+     "defined_term": "Advanced Emergency Braking System (AEBS) – detection element of 'The System' (2.1, Annex 3 2.1)",
+     "class_or_variant": "Car-to-car / pedestrian / bicycle scenario (depending on system capability)",
+     "confirmed": false
+    },
+    {
+     "part": "Radar / LIDAR sensor incl. heating (P-09)",
+     "defined_term": "AEBS – detection element of 'The System' (Annex 3 2.1); heating supports self-check/robustness (2.11, 6.10)",
+     "class_or_variant": "Car-to-car / pedestrian / bicycle scenario",
+     "confirmed": false
+    },
+    {
+     "part": "Camera (P-07)",
+     "defined_term": "AEBS – detection element of 'The System' (Annex 3 2.1) if used for forward collision detection",
+     "class_or_variant": "Pedestrian / bicycle / car-to-car scenario",
+     "confirmed": false
+    },
+    {
+     "part": "Cover part (fascia), grille, sensor radomes/brackets (P-01, P-02, P-18)",
+     "defined_term": "Vehicle features significantly influencing AEBS performance (2.4 Vehicle Type with regard to its AEBS)",
+     "class_or_variant": null,
+     "confirmed": false
+    },
+    {
+     "part": "Bumper wiring harness (P-17)",
+     "defined_term": "Part of 'The System' signal/power links (Annex 3 3.3 system layout and schematics)",
+     "class_or_variant": null,
+     "confirmed": false
+    },
+    {
+     "part": "Pedestrian impact sensors (P-11)",
+     "defined_term": "Not an AEBS element (passive/deployable pedestrian protection, not forward collision avoidance)",
+     "class_or_variant": null,
+     "confirmed": true
+    },
+    {
+     "part": "PDC sensor, temperature sensor, lighting, aerial, absorber, stiffener, plate holder, towing cover, EV flap",
+     "defined_term": "Not addressed by R152",
+     "class_or_variant": null,
+     "confirmed": true
+    }
+   ],
+   "open_options": [
+    {
+     "feature": "Use of the integrated radar / LIDAR / camera for the AEBS function",
+     "options": [
+      "sensors feed the AEBS",
+      "sensors used only for other ADAS functions (no AEBS)"
+     ]
+    },
+    {
+     "feature": "AEBS scenarios supported by the sensor set",
+     "options": [
+      "car-to-car only",
+      "car-to-car + pedestrian",
+      "car-to-car + pedestrian + bicycle"
+     ]
+    },
+    {
+     "feature": "Sensor coverage by the fascia",
+     "options": [
+      "radar behind painted fascia/grille (bumper acts as radome)",
+      "dedicated radome/window in the fascia",
+      "sensor exposed through an opening"
+     ]
+    },
+    {
+     "feature": "Sensor blockage / heater failure detection",
+     "options": [
+      "self-check detects blockage and heater failure in the sensor",
+      "no blockage detection in the sensor (handled elsewhere)"
+     ]
+    },
+    {
+     "feature": "Camera type",
+     "options": [
+      "forward ADAS camera used for collision detection",
+      "surround-view/parking camera only"
+     ]
+    },
+    {
+     "feature": "Sensor fusion",
+     "options": [
+      "radar only",
+      "radar + camera",
+      "radar + LIDAR + camera fusion"
+     ]
+    }
+   ],
+   "selected_sections": [
+    {
+     "key": "5",
+     "reason": "AEBS specifications that the sensor carrier must enable"
+    },
+    {
+     "key": "6",
+     "reason": "Test procedure for the vehicle with the integrated sensors"
+    },
+    {
+     "key": "8",
+     "reason": "Conformity of production of the AEBS including sensor installation"
+    },
+    {
+     "key": "Annex 3",
+     "reason": "Safety requirements for electronic control systems including the sensors"
+    },
+    {
+     "key": "Annex 4",
+     "reason": "Virtual testing method, if used, including sensor models"
+    }
+   ],
+   "include": true,
+   "unresolved_keys": []
+  },
+  "UN R175": {
+   "applies": true,
+   "how_it_applies": "UN R175 approves the whole M1 vehicle, including EVs with single-gear transmissions, for its ACPE system. It does not approve bumpers as separate components. It reaches this bumper only through its technology: the PDC (ultrasonic), radar, radar/LIDAR (heated) and camera sensors are the typical forward detection means an ACPE uses to detect an obstacle ahead of a stationary vehicle. If the vehicle's ACPE uses them, they become part of 'The System' under Annex 3. They must then support the ACPE performance tests against vehicle and wall-like targets (§5, §6), the continuous self-check and failure detection (§5.3), possible deactivation behaviour (§5.2) and PTI status checks (§5.5). The supplier must also provide documentation, schematics and the fault strategy for the vehicle manufacturer's safety concept (Annex 3). The fascia, grille, absorber, stiffener, plate holder, lighting, aerial and charge flap carry no R175 obligations. The bumper's mounting position, the radomes and any paint over the sensors can still affect detection performance, and changing them may require an extension of approval. Rearward ACPE is not covered by a front bumper.",
+   "part_mapping": [
+    {
+     "part": "PDC sensor (ultrasonic, P-10)",
+     "defined_term": "ACPE forward detection means (part of The System, Annex 3)",
+     "class_or_variant": "Forward direction ACPE",
+     "confirmed": false
+    },
+    {
+     "part": "Radar sensor (P-08)",
+     "defined_term": "ACPE forward detection means (part of The System, Annex 3)",
+     "class_or_variant": "Forward direction ACPE",
+     "confirmed": false
+    },
+    {
+     "part": "Radar / LIDAR sensor incl. heating (P-09)",
+     "defined_term": "ACPE forward detection means / The System; heater supports sensor availability for the self-check",
+     "class_or_variant": "Forward direction ACPE",
+     "confirmed": false
+    },
+    {
+     "part": "Camera (P-07)",
+     "defined_term": "ACPE forward detection means (part of The System, Annex 3)",
+     "class_or_variant": "Forward direction ACPE",
+     "confirmed": false
+    },
+    {
+     "part": "Wiring harness (P-17)",
+     "defined_term": "The System – transmission links (Annex 3 §2)",
+     "class_or_variant": null,
+     "confirmed": false
+    },
+    {
+     "part": "Cover part / sensor radomes and brackets (P-01, P-18)",
+     "defined_term": "Vehicle features significantly influencing ACPE performance (Vehicle type with regard to its ACPE)",
+     "class_or_variant": "Forward direction ACPE",
+     "confirmed": false
+    }
+   ],
+   "open_options": [
+    {
+     "feature": "Which bumper sensors serve as ACPE forward detection means",
+     "options": [
+      "Ultrasonic PDC sensors",
+      "Radar sensor",
+      "Radar/LIDAR sensor",
+      "Camera",
+      "Combination of several",
+      "None (ACPE detection located elsewhere, so no R175 obligations for the bumper)"
+     ]
+    },
+    {
+     "feature": "Sensor self-diagnosis capability (blockage/failure detection)",
+     "options": [
+      "Sensor reports failure/blockage to the ACPE ECU",
+      "No internal diagnosis (detected by the ECU only)"
+     ]
+    },
+    {
+     "feature": "Sensor window heating",
+     "options": [
+      "Heated sensor window",
+      "Unheated sensor window"
+     ]
+    }
+   ],
+   "selected_sections": [
+    {
+     "key": "5",
+     "reason": "ACPE performance specifications; the forward detection by the bumper sensors must enable acceleration control in front of an obstacle."
+    },
+    {
+     "key": "6",
+     "reason": "Test procedure against which forward detection performance is verified."
+    },
+    {
+     "key": "8",
+     "reason": "Conformity of production of the ACPE, including the sensor installation."
+    },
+    {
+     "key": "Annex 3",
+     "reason": "Safety requirements for the electronic control system of which the sensors are part."
+    }
+   ],
+   "include": true,
+   "unresolved_keys": []
+  },
+  "UN R26": {
+   "applies": true,
+   "how_it_applies": "UN R26 applies to the external projections of M1 vehicles. The front bumper module forms part of the vehicle's 'external surface' (§2.3) and falls under the defined terms 'Bumper' (§2.11) and 'Bumper cover' (§2.12). Approval is granted to the vehicle type, not the bumper alone, but the bumper supplier must design the module to comply. This means:\n- the general radius and projection rules of §5 for every exposed part above the floor line;\n- §6.5 (bumpers);\n- §6.3 (grille slats and gap dimensions);\n- §6.15 (registration plate bracket);\n- §6.1 (ornaments, if a badge or ornament is fitted);\n- §6.9 (body-panel folds);\n- §6.8 (sheet-metal edges, if a metal stiffener or beam edge is exposed);\n- §6.12 (air intake/outlet flaps, if active flaps are fitted);\n- §6.17 (aerials, for the keyless-entry aerial).\nThe measurement methods of Annex 3 (§2.8, §2.9 and the gap method) apply. The towing device cover is an ordinary external-surface part; only the towing ball itself is excluded from scope. Lamp housings (decorative and side signalling), sensor faces and radomes, and the EV charging flap are part of the external surface and are covered by §5. Conformity of production (§8) applies to series parts.",
+   "part_mapping": [
+    {
+     "part": "P-01 Cover part (fascia)",
+     "defined_term": "Bumper cover (§2.12) / External surface (§2.3)",
+     "class_or_variant": "Vehicle type approval (M1 external projections)",
+     "confirmed": true
+    },
+    {
+     "part": "P-03 Absorber",
+     "defined_term": "Bumper (§2.11) – structure protecting in low-speed collision",
+     "class_or_variant": "Vehicle type approval (M1 external projections)",
+     "confirmed": true
+    },
+    {
+     "part": "P-19 Front crossbeam with crash boxes",
+     "defined_term": "Bumper (§2.11)",
+     "class_or_variant": "Vehicle type approval (M1 external projections)",
+     "confirmed": true
+    },
+    {
+     "part": "P-04 Lower stiffener (underrun protection)",
+     "defined_term": "Bumper (§2.11); sheet-metal edges (§6.8) if a metal stiffener is visible",
+     "class_or_variant": "Vehicle type approval (M1 external projections)",
+     "confirmed": true
+    },
+    {
+     "part": "P-02 (Radiator) Grill",
+     "defined_term": "Grilles and gaps (§6.3), External surface (§2.3)",
+     "class_or_variant": "Vehicle type approval (M1 external projections)",
+     "confirmed": true
+    },
+    {
+     "part": "P-05 License plate area / holder",
+     "defined_term": "Registration plate brackets (§6.15)",
+     "class_or_variant": "Vehicle type approval (M1 external projections)",
+     "confirmed": true
+    },
+    {
+     "part": "P-06 Towing device cover",
+     "defined_term": "External surface (§2.3); the towing ball itself is excluded (§1)",
+     "class_or_variant": "Vehicle type approval (M1 external projections)",
+     "confirmed": true
+    },
+    {
+     "part": "P-13 Lighting — decorative",
+     "defined_term": "External surface (§2.3) – lighting devices; ornament (§6.1) if projecting",
+     "class_or_variant": "Vehicle type approval (M1 external projections)",
+     "confirmed": true
+    },
+    {
+     "part": "P-14 (Side) Lighting — signalling",
+     "defined_term": "External surface (§2.3) – light-signalling devices",
+     "class_or_variant": "Vehicle type approval (M1 external projections)",
+     "confirmed": true
+    },
+    {
+     "part": "P-15 Aerial (keyless entry)",
+     "defined_term": "Aerial (§2.10)",
+     "class_or_variant": "Vehicle type approval (M1 external projections); separate technical unit approval possible",
+     "confirmed": true
+    },
+    {
+     "part": "P-07/P-08/P-09/P-10/P-12 Camera, radar, Radar/LIDAR, PDC and thermal sensors (exposed faces/radomes)",
+     "defined_term": "External surface (§2.3) – components mounted on panel; dimension of the projection (§2.8)",
+     "class_or_variant": "Vehicle type approval (M1 external projections)",
+     "confirmed": true
+    },
+    {
+     "part": "P-16 EV charging flap ('fuel filler cap')",
+     "defined_term": "External surface (§2.3)",
+     "class_or_variant": "Vehicle type approval (M1 external projections)",
+     "confirmed": false
+    },
+    {
+     "part": "P-18 Air guides / side grille inserts",
+     "defined_term": "Grilles and gaps (§6.3) / Air intake and outlet flaps (§6.12)",
+     "class_or_variant": "Vehicle type approval (M1 external projections)",
+     "confirmed": false
+    },
+    {
+     "part": "P-11 Pedestrian impact sensors, P-17 wiring harness, P-20 fasteners",
+     "defined_term": "Not part of the external surface (concealed behind the fascia)",
+     "class_or_variant": null,
+     "confirmed": true
+    }
+   ],
+   "open_options": [
+    {
+     "feature": "Emblem / badge / ornament on the grille or fascia",
+     "options": [
+      "no ornament",
+      "rigid ornament/emblem",
+      "emblem that retracts, detaches or bends under load"
+     ]
+    },
+    {
+     "feature": "Lower stiffener / beam material and visibility",
+     "options": [
+      "PP-GF plastic part",
+      "steel or aluminium part with edges visible on the external surface",
+      "metal part fully concealed or below the floor line"
+     ]
+    },
+    {
+     "feature": "Air intake flaps / active grille shutters in the bumper",
+     "options": [
+      "fixed grille or air openings only",
+      "movable air intake/outlet flaps (active shutters)"
+     ]
+    },
+    {
+     "feature": "Keyless-entry aerial position",
+     "options": [
+      "concealed behind the fascia (not projecting)",
+      "exposed or projecting from the external surface"
+     ]
+    },
+    {
+     "feature": "EV charging inlet flap",
+     "options": [
+      "not present (ICE variant)",
+      "flap present in the fascia"
+     ]
+    },
+    {
+     "feature": "Sensor faces / lamp lenses relative to the fascia",
+     "options": [
+      "flush with the fascia surface",
+      "projecting from the fascia surface"
+     ]
+    },
+    {
+     "feature": "Registration plate holder",
+     "options": [
+      "integrated plate area in the fascia",
+      "separate add-on plate bracket"
+     ]
+    }
+   ],
+   "selected_sections": [
+    {
+     "key": "5",
+     "reason": "General radius/projection requirements for the whole external surface of the bumper, grille, lamps, sensors and covers"
+    },
+    {
+     "key": "6",
+     "reason": "Parent of the particular specifications applying to bumper components"
+    },
+    {
+     "key": "8",
+     "reason": "Conformity of production for series bumper parts"
+    },
+    {
+     "key": "Annex 3",
+     "reason": "Measurement methods for projections and gaps referenced by §2.8, §2.9 and §6.17.4"
+    }
+   ],
+   "include": true,
+   "unresolved_keys": []
+  },
+  "UN R42": {
+   "applies": true,
+   "how_it_applies": "UN R42 approves an M1 vehicle type for the behaviour of its front and rear protective devices in low-speed collisions. It is not a component approval: the bumper cannot be approved on its own. However, this front bumper module for M1 is the vehicle's front protective device. Its fascia, EPP absorber, crossbeam with crash boxes and lower stiffener therefore decide whether the vehicle passes. The tests are the Annex 3 front longitudinal and corner (60°) impacts with a pendulum or moving barrier, run at unladen and laden test weight. The bumper must provide protective elements at the reference height in both load states. After the tests, the vehicle's safety-related parts must still work properly. In this module that covers: the lamps (side signalling lamp and decorative lighting), the bonnet latch area, the cooling system behind the grille, and propulsion parts such as the EV charging inlet. Changes to the bumper's lines, dimensions or materials can create a new vehicle type or require an extension. Only the front protective device provisions are relevant; the rear protective device is outside this product.",
+   "part_mapping": [
+    {
+     "part": "P-01 Cover part (fascia)",
+     "defined_term": "protective_devices",
+     "class_or_variant": "Front protective device",
+     "confirmed": true
+    },
+    {
+     "part": "P-03 Absorber (EPP)",
+     "defined_term": "protective_devices",
+     "class_or_variant": "Front protective device",
+     "confirmed": true
+    },
+    {
+     "part": "P-19 Front crossbeam with crash boxes",
+     "defined_term": "protective_devices",
+     "class_or_variant": "Front protective device",
+     "confirmed": true
+    },
+    {
+     "part": "P-04 Lower stiffener (underrun protection)",
+     "defined_term": "protective_devices",
+     "class_or_variant": "Front protective device (contributes to coverage of reference height at unladen/laden weight)",
+     "confirmed": false
+    },
+    {
+     "part": "Lateral ends of fascia/beam (corner zones)",
+     "defined_term": "vehicle_corner",
+     "class_or_variant": "Corner impact test (60° tangent plane)",
+     "confirmed": true
+    },
+    {
+     "part": "P-02 (Radiator) Grill",
+     "defined_term": "vehicle_type",
+     "class_or_variant": "Front structure/lines; cooling system behind it must remain functional after impact",
+     "confirmed": true
+    },
+    {
+     "part": "P-14 (Side) Lighting — signalling",
+     "defined_term": "protective_devices",
+     "class_or_variant": "Lighting and signalling device that must still function properly after the impact tests",
+     "confirmed": true
+    },
+    {
+     "part": "P-13 Lighting — decorative",
+     "defined_term": "protective_devices",
+     "class_or_variant": "Lighting device in the impact zone (post-test functioning)",
+     "confirmed": false
+    },
+    {
+     "part": "P-16 EV charging flap/inlet",
+     "defined_term": "protective_devices",
+     "class_or_variant": "Propulsion/energy-supply part in the impact zone (post-test functioning)",
+     "confirmed": false
+    },
+    {
+     "part": "P-05 License plate area / holder, P-06 Towing device cover",
+     "defined_term": "vehicle_type",
+     "class_or_variant": "Front structure lines/dimensions",
+     "confirmed": true
+    },
+    {
+     "part": "P-07..P-12, P-15 sensors/aerial, P-17 harness",
+     "defined_term": "vehicle_type",
+     "class_or_variant": "Front-end parts in the impact zone; no specific R42 function",
+     "confirmed": true
+    }
+   ],
+   "open_options": [
+    {
+     "feature": "EV charging inlet/flap present in fascia (variant-dependent, shown dashed)",
+     "options": [
+      "present (charging inlet in impact zone)",
+      "absent"
+     ]
+    },
+    {
+     "feature": "Lower stiffener / beam material",
+     "options": [
+      "steel",
+      "aluminium",
+      "PP-GF"
+     ]
+    },
+    {
+     "feature": "Decorative lighting fitted",
+     "options": [
+      "fitted",
+      "not fitted"
+     ]
+    }
+   ],
+   "selected_sections": [
+    {
+     "key": "1",
+     "reason": "Scope: M1 front protective devices in low-speed collision"
+    },
+    {
+     "key": "2",
+     "reason": "Purpose: protective devices must allow small shocks without serious damage to safety parts"
+    },
+    {
+     "key": "6",
+     "reason": "Requirements: reference height coverage and post-impact functioning of lamps, bonnet, cooling, propulsion etc."
+    },
+    {
+     "key": "8",
+     "reason": "Conformity of production of the approved front structure/bumper"
+    },
+    {
+     "key": "Annex 3",
+     "reason": "Low-speed impact test procedure referenced from §6.1"
+    }
+   ],
+   "include": true,
+   "unresolved_keys": []
+  },
+  "UN R48": {
+   "applies": true,
+   "how_it_applies": "UN R48 governs how lighting and light-signalling devices are installed on M1 vehicles, which covers their number, position, visibility, colour, switching and tell-tales. The bumper itself is not approved under R48, but it carries lamps: a side signalling lamp, decorative grille-surround lighting and, per the spec, 'functional' lighting. These lamps must be installable so the vehicle meets R48. The bumper geometry fixes key installation parameters: mounting height, distance from the outer edge, geometric visibility angles and apparent surface. Every installed lamp needs component approval under R148/R149/R150 and an R48-compliant installation. R48 does not recognise purely decorative exterior lighting as a lamp function. The grille surround light therefore has to be one of the listed functions (e.g. front position lamp or daytime running lamp), or be shown not to emit a light signal that conflicts with paras 5.x on colour, red-to-front and lamp list. The front camera may also act as the sensor for automatic main-beam or dipped-beam switching. The non-lighting parts are outside R48: absorber, stiffener, radars, PDC sensor, aerial, charge flap and plate holder (R48 has no front plate lamp).",
+   "part_mapping": [
+    {
+     "part": "P-14 (Side) Lighting — signalling",
+     "defined_term": "2.5.15 Side marker lamp",
+     "class_or_variant": "Amber, side-facing lamp; may also be or combine with a direction-indicator lamp (category 5/6), front position lamp or DRL",
+     "confirmed": false
+    },
+    {
+     "part": "P-14 (Side) Lighting — signalling",
+     "defined_term": "2.5.3 Direction-indicator lamp",
+     "class_or_variant": "Front (category 1/1a/1b) or side repeater (category 5/6); possibly sequential activation (2.7.6.5)",
+     "confirmed": false
+    },
+    {
+     "part": "P-13 Lighting — decorative (grille surround light guide)",
+     "defined_term": "2.5.6 Front position lamp / 2.5.16 Daytime running lamp",
+     "class_or_variant": "Only legal if it performs a listed light-signalling function. Otherwise it is not an R48 lamp and must not be fitted as an exterior light signal.",
+     "confirmed": false
+    },
+    {
+     "part": "P-13 / P-14 lamp construction",
+     "defined_term": "2.4.2–2.4.5 Independent / grouped / combined / reciprocally incorporated lamps",
+     "class_or_variant": "Depends on shared lamp body, apparent surfaces and light sources",
+     "confirmed": false
+    },
+    {
+     "part": "P-13 / P-14 light sources",
+     "defined_term": "2.9.1.3 Light source module / 2.9.1.7 LED module",
+     "class_or_variant": "LED; replaceable or non-replaceable not specified",
+     "confirmed": false
+    },
+    {
+     "part": "Functional lighting (spec: 'Lighting integration ... functional')",
+     "defined_term": "2.5.10 Front fog lamp / 2.5.17 Cornering lamp / 2.5.19 Manoeuvring lamp / 2.5.18 Exterior courtesy lamp",
+     "class_or_variant": "Lamp functions typically integrated in front bumpers; which one is not specified",
+     "confirmed": false
+    },
+    {
+     "part": "Retro-reflectors possibly integrated in fascia / side lamp",
+     "defined_term": "2.5.8 Retro-reflector (front or side, non-triangular)",
+     "class_or_variant": "Class IA/IB",
+     "confirmed": false
+    },
+    {
+     "part": "P-07 Camera",
+     "defined_term": "Sensor for automatic main-beam control / adaptive main-beam / automatic dipped-beam switching (6.1.9, 6.2.7, Annex 12/13)",
+     "class_or_variant": null,
+     "confirmed": false
+    },
+    {
+     "part": "P-01 Cover part (fascia) / P-02 Grill",
+     "defined_term": "Vehicle body carrying lamps (position, geometric visibility, apparent surface, 5.28)",
+     "class_or_variant": "Fixed (not movable) component",
+     "confirmed": true
+    },
+    {
+     "part": "P-17 Wiring harness",
+     "defined_term": "Electrical connections of lamps (5.11–5.12, per-function 'electrical connections')",
+     "class_or_variant": null,
+     "confirmed": true
+    }
+   ],
+   "open_options": [
+    {
+     "feature": "Function of the side signalling lamp",
+     "options": [
+      "side-marker lamp (amber)",
+      "side direction-indicator (category 5 or 6)",
+      "front direction-indicator",
+      "front position lamp",
+      "daytime running lamp",
+      "parking lamp",
+      "end-outline marker lamp",
+      "combination of these"
+     ]
+    },
+    {
+     "feature": "Function of the decorative grille-surround lighting",
+     "options": [
+      "front position lamp",
+      "daytime running lamp",
+      "part of another listed signalling function",
+      "non-signalling decorative light (not permitted as an exterior lamp under R48)"
+     ]
+    },
+    {
+     "feature": "Functional lighting integrated in the bumper",
+     "options": [
+      "none",
+      "front fog lamp",
+      "cornering lamp",
+      "manoeuvring lamp",
+      "exterior courtesy lamp",
+      "headlamp (main/dipped beam)"
+     ]
+    },
+    {
+     "feature": "Lamp construction",
+     "options": [
+      "independent lamps",
+      "grouped lamps",
+      "combined lamps",
+      "reciprocally incorporated lamps",
+      "interdependent 'Y' lamp system",
+      "'D' lamps"
+     ]
+    },
+    {
+     "feature": "Light source",
+     "options": [
+      "non-replaceable LED / LED module",
+      "replaceable light source (LED substitute or filament)"
+     ]
+    },
+    {
+     "feature": "Direction indicator activation",
+     "options": [
+      "standard",
+      "sequential activation"
+     ]
+    },
+    {
+     "feature": "Illuminated manufacturer logo",
+     "options": [
+      "no logo",
+      "logo integrated in lamp"
+     ]
+    },
+    {
+     "feature": "Integrated retro-reflectors",
+     "options": [
+      "none",
+      "front retro-reflector",
+      "side retro-reflector"
+     ]
+    },
+    {
+     "feature": "Camera used for automatic lighting control",
+     "options": [
+      "no",
+      "automatic main-beam control / adaptive main-beam sensor",
+      "automatic dipped-beam / DRL switching sensor"
+     ]
+    },
+    {
+     "feature": "Concealable lamp (covered when not in use)",
+     "options": [
+      "not concealable",
+      "concealable"
+     ]
+    }
+   ],
+   "selected_sections": [
+    {
+     "key": "1",
+     "reason": "Scope: M1 vehicle with lamps installed in the bumper"
+    },
+    {
+     "key": "5",
+     "reason": "General installation specifications (colours, red-to-front prohibition, tell-tales, electrical connections, logos, lamps not listed)"
+    },
+    {
+     "key": "6",
+     "reason": "Individual specifications for each installed lamp function"
+    },
+    {
+     "key": "8",
+     "reason": "Conformity of production of the lighting installation"
+    },
+    {
+     "key": "Annex 3",
+     "reason": "Lamp surfaces, axes, reference centre and geometric visibility used to assess installed lamps"
+    },
+    {
+     "key": "Annex 4",
+     "reason": "No red light visible to the front from front-mounted bumper lamps"
+    },
+    {
+     "key": "Annex 5",
+     "reason": "Loading conditions for orientation if a fog lamp or headlamp is installed"
+    },
+    {
+     "key": "Annex 6",
+     "reason": "Inclination measurement if a dipped-beam headlamp is installed in bumper"
+    },
+    {
+     "key": "Annex 8",
+     "reason": "Headlamp levelling controls if a headlamp is installed"
+    },
+    {
+     "key": "Annex 9",
+     "reason": "CoP checks: lamp visibility, fog lamp alignment, intensities"
+    },
+    {
+     "key": "Annex 12",
+     "reason": "Test drive if the camera is used for automatic or adaptive main-beam control"
+    },
+    {
+     "key": "Annex 13",
+     "reason": "Automatic switching conditions referenced from DRL (6.19.7) and dipped-beam provisions"
+    },
+    {
+     "key": "Annex 14",
+     "reason": "Observation area for manoeuvring and exterior courtesy lamps (open option)"
+    }
+   ],
+   "include": true,
+   "unresolved_keys": []
+  },
+  "UN R94": {
+   "applies": true,
+   "how_it_applies": "UN R94 is a whole-vehicle frontal offset crash approval (56 km/h, 40% overlap deformable barrier) that applies to the M1 vehicle carrying this bumper. The bumper is never approved on its own. However, its structural parts lie in the vehicle's front structure forward of the driver's R point, which is a vehicle-type criterion (para. 2.6). These parts are the crossbeam with crash boxes, the EPP absorber, the lower stiffener and the fascia. They shape the crash pulse, energy absorption and intrusion, and so directly affect the para. 5.2 dummy injury criteria (Annex 4), intrusion, door and fuel-leakage results. Changing them can require extension or retesting of the vehicle approval. The bumper must therefore be designed and produced so the vehicle meets these requirements, with production consistent under para. 8. If the EV variant integrates a high-voltage charging inlet behind the bumper flap, that inlet is part of the coupling system for charging the REESS / high-voltage bus. It is then subject to the post-crash electrical safety checks: IPXXB protection, isolation resistance, low voltage or energy (Annex 11). The bumper's other electronics run at low voltage (camera, radars, PDC, impact and thermal sensors, lamps, aerial, harness). These and the styling features carry no R94 obligations, and the pedestrian impact sensors are not occupant airbags. Hydrogen safety (Annex 12) is not relevant to this product.",
+   "part_mapping": [
+    {
+     "part": "Front crossbeam with crash boxes (P-19)",
+     "defined_term": "Vehicle type – front structure (2.6)",
+     "class_or_variant": "Front structure forward of driver's R-point transverse plane",
+     "confirmed": true
+    },
+    {
+     "part": "Absorber (P-03)",
+     "defined_term": "Vehicle type – front structure (2.6)",
+     "class_or_variant": "Energy-absorbing element of front structure",
+     "confirmed": true
+    },
+    {
+     "part": "Lower stiffener (underrun protection) (P-04)",
+     "defined_term": "Vehicle type – front structure (2.6)",
+     "class_or_variant": "Lower load path of front structure",
+     "confirmed": true
+    },
+    {
+     "part": "Cover part (fascia) (P-01)",
+     "defined_term": "Vehicle type – front structure / length (2.6)",
+     "class_or_variant": "Determines vehicle length and first barrier contact",
+     "confirmed": true
+    },
+    {
+     "part": "(Radiator) Grill (P-02) and brackets (P-18)",
+     "defined_term": "Vehicle type – front structure (2.6)",
+     "class_or_variant": null,
+     "confirmed": true
+    },
+    {
+     "part": "(Side) Lighting – signalling (P-14)",
+     "defined_term": "Vehicle width (2.3)",
+     "class_or_variant": "Side marker lamps / direction indicators excluded from vehicle width for overlap calculation",
+     "confirmed": false
+    },
+    {
+     "part": "\"Fuel filler cap\" (for EVs) with charging inlet (P-16)",
+     "defined_term": "Coupling system for charging the REESS (2.23) / High voltage bus (2.29)",
+     "class_or_variant": "Vehicle with high voltage electric power train",
+     "confirmed": false
+    },
+    {
+     "part": "Bumper wiring harness (P-17)",
+     "defined_term": "Electric power train wiring harness (2.16) only if HV",
+     "class_or_variant": "Low-voltage harness – not part of the HV bus (specific voltage condition, 2.40)",
+     "confirmed": false
+    },
+    {
+     "part": "Pedestrian impact sensors (P-11)",
+     "defined_term": "None (not part of the protective system, 2.1)",
+     "class_or_variant": null,
+     "confirmed": true
+    },
+    {
+     "part": "Camera, radar, LIDAR, PDC, thermal sensor, aerial, decorative lighting (P-07–P-10, P-12, P-13, P-15)",
+     "defined_term": "None",
+     "class_or_variant": null,
+     "confirmed": true
+    }
+   ],
+   "open_options": [
+    {
+     "feature": "EV charging flap: high-voltage charging inlet integrated in the bumper module",
+     "options": [
+      "Only a flap/cover in the fascia, no HV parts in the bumper",
+      "HV vehicle inlet (AC and/or DC) integrated behind the flap in the bumper module",
+      "No charging flap (non-EV variant)"
+     ]
+    },
+    {
+     "feature": "Lower stiffener / crossbeam material",
+     "options": [
+      "Steel",
+      "Aluminium",
+      "PP-GF"
+     ]
+    }
+   ],
+   "selected_sections": [
+    {
+     "key": "5",
+     "reason": "Specifications for the frontal crash performance the vehicle must meet, which the bumper's front structure influences."
+    },
+    {
+     "key": "8",
+     "reason": "Conformity of production; the bumper structure must be produced consistently with the approved front structure."
+    },
+    {
+     "key": "Annex 3",
+     "reason": "Frontal offset test procedure that loads the bumper structure."
+    },
+    {
+     "key": "Annex 4",
+     "reason": "Performance criteria the vehicle must meet, influenced by the bumper's energy absorption."
+    },
+    {
+     "key": "Annex 11",
+     "reason": "Post-crash electrical safety if a HV charging inlet is integrated (open option)."
+    }
+   ],
+   "include": true,
+   "unresolved_keys": []
+  }
+ }
+}
