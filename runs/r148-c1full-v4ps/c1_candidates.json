@@ -1,0 +1,3364 @@
+{
+ "candidates": [
+  {
+   "batch": "B-001",
+   "index_in_response": 0,
+   "text": "Every lamp belonging to an approved type shall comprise a space of sufficient size for the approval marking and the other markings defined in paragraphs 3.3.3.2. to 3.3.3.6.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.1.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.1.1"
+    ],
+    "table": null,
+    "text": "Every lamp belonging to an approved type shall comprise a space of sufficient size for the approval marking and the other markings defined in paragraphs 3.3.3.2. to 3.3.3.6."
+   },
+   "id": "R148-base-0001",
+   "source_node_ids": [
+    "R148|base|3.3.1.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 6,
+    "page_end": 6,
+    "paragraph": "3.3.1.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 1,
+   "text": "All markings on the lamp shall be clearly legible and indelible.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.1.1.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.1.1.1"
+    ],
+    "table": null,
+    "text": "All markings on the lamp shall be clearly legible and indelible."
+   },
+   "id": "R148-base-0002",
+   "source_node_ids": [
+    "R148|base|3.3.1.1.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 6,
+    "page_end": 6,
+    "paragraph": "3.3.1.1.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 2,
+   "text": "The dimension \"a\" of the approval marking shall be at least 5 mm.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.1.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.1.2"
+    ],
+    "table": null,
+    "text": "The dimension \"a\" of the approval marking shall be at least 5 mm."
+   },
+   "id": "R148-base-0003",
+   "source_node_ids": [
+    "R148|base|3.3.1.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 6,
+    "page_end": 7,
+    "paragraph": "3.3.1.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 3,
+   "text": "The approval marking shall include the approval mark: a circle surrounding the letter \"E\" followed by the distinguishing number of the country which has granted approval.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.2.1",
+    "R148|base|3.3.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.2.1",
+     "R148|base|3.3.2"
+    ],
+    "table": null,
+    "text": "The approval marking shall include the approval mark: a circle surrounding the letter \"E\" followed by the distinguishing number of the country which has granted approval."
+   },
+   "id": "R148-base-0004",
+   "source_node_ids": [
+    "R148|base|3.3.2.1",
+    "R148|base|3.3.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "3.3.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 4,
+   "text": "The approval marking shall include the four to six-digit sequential number that is part of the approval number prescribed in paragraph 3.2.3.2.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.2.2",
+    "R148|base|3.3.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.2.2",
+     "R148|base|3.3.2"
+    ],
+    "table": null,
+    "text": "The approval marking shall include the four to six-digit sequential number that is part of the approval number prescribed in paragraph 3.2.3.2."
+   },
+   "id": "R148-base-0005",
+   "source_node_ids": [
+    "R148|base|3.3.2.2",
+    "R148|base|3.3.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "3.3.2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 5,
+   "text": "The four to six-digit sequential number shall be placed close to the approval mark.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.2.2"
+    ],
+    "table": null,
+    "text": "The four to six-digit sequential number shall be placed close to the approval mark."
+   },
+   "id": "R148-base-0006",
+   "source_node_ids": [
+    "R148|base|3.3.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "3.3.2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 6,
+   "text": "The approval marking shall include the symbols identifying the light signalling lamps prescribed in paragraph 3.2.4. (for the rear position lamp, the stop lamp and the reversing lamp).",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.2.3",
+    "R148|base|3.3.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.2.3",
+     "R148|base|3.3.2"
+    ],
+    "table": null,
+    "text": "The approval marking shall include the symbols identifying the light signalling lamps prescribed in paragraph 3.2.4. (for the rear position lamp, the stop lamp and the reversing lamp)."
+   },
+   "id": "R148-base-0007",
+   "source_node_ids": [
+    "R148|base|3.3.2.3",
+    "R148|base|3.3.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "3.3.2.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 7,
+   "text": "The approval marking shall include the number of this Regulation (148) followed by the letter 'R' and the two digits indicating the series of amendments in force at the time of issue of the approval.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.2.4",
+    "R148|base|3.3.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.2.4",
+     "R148|base|3.3.2"
+    ],
+    "table": null,
+    "text": "The approval marking shall include the number of this Regulation (148) followed by the letter 'R' and the two digits indicating the series of amendments in force at the time of issue of the approval."
+   },
+   "id": "R148-base-0008",
+   "source_node_ids": [
+    "R148|base|3.3.2.4",
+    "R148|base|3.3.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "3.3.2.4"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 8,
+   "text": "If the lamp cannot be mounted on either side of the vehicle indiscriminately (side-specific lamp), the approval marking shall include a horizontal arrow showing in which position the lamp is to be mounted.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.2.5.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.2.5.1"
+    ],
+    "table": null,
+    "text": "If the lamp cannot be mounted on either side of the vehicle indiscriminately (side-specific lamp), the approval marking shall include a horizontal arrow showing in which position the lamp is to be mounted."
+   },
+   "id": "R148-base-0009",
+   "source_node_ids": [
+    "R148|base|3.3.2.5.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "3.3.2.5.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 9,
+   "text": "For a side-specific rear position lamp (and rear end-outline marker lamp), the horizontal mounting arrow shall be directed outwards from the vehicle.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.2.5.1.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.2.5.1.1"
+    ],
+    "table": null,
+    "text": "For a side-specific rear position lamp (and rear end-outline marker lamp), the horizontal mounting arrow shall be directed outwards from the vehicle."
+   },
+   "id": "R148-base-0010",
+   "source_node_ids": [
+    "R148|base|3.3.2.5.1.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "3.3.2.5.1.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 10,
+   "text": "For a side-specific reversing lamp with reduced light distribution of two reversing lamps, the horizontal mounting arrow shall be directed outwards from the vehicle.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.2.5.1.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.2.5.1.1"
+    ],
+    "table": null,
+    "text": "For a side-specific reversing lamp with reduced light distribution of two reversing lamps, the horizontal mounting arrow shall be directed outwards from the vehicle."
+   },
+   "id": "R148-base-0011",
+   "source_node_ids": [
+    "R148|base|3.3.2.5.1.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "3.3.2.5.1.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 11,
+   "text": "If the rear position lamp or stop lamp may be used as part of an assembly of two independent lamps, the additional letter \"D\" shall be placed to the right side of the symbol prescribed in paragraph 3.2.4.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.2.5.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.2.5.2"
+    ],
+    "table": null,
+    "text": "If the rear position lamp or stop lamp may be used as part of an assembly of two independent lamps, the additional letter \"D\" shall be placed to the right side of the symbol prescribed in paragraph 3.2.4."
+   },
+   "id": "R148-base-0012",
+   "source_node_ids": [
+    "R148|base|3.3.2.5.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "3.3.2.5.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 12,
+   "text": "If the rear position lamp or stop lamp is used as part of an interdependent lamp system, the additional letter \"Y\" shall be placed to the right side of the symbol prescribed in paragraph 3.2.4.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.2.5.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.2.5.2"
+    ],
+    "table": null,
+    "text": "If the rear position lamp or stop lamp is used as part of an interdependent lamp system, the additional letter \"Y\" shall be placed to the right side of the symbol prescribed in paragraph 3.2.4."
+   },
+   "id": "R148-base-0013",
+   "source_node_ids": [
+    "R148|base|3.3.2.5.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "3.3.2.5.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 13,
+   "text": "If the reversing lamp has reduced light distribution (see paragraph 1.1. of Annex 3), the marking shall include a vertical arrow starting from a horizontal segment and directed downwards.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.2.5.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.2.5.3"
+    ],
+    "table": null,
+    "text": "If the reversing lamp has reduced light distribution (see paragraph 1.1. of Annex 3), the marking shall include a vertical arrow starting from a horizontal segment and directed downwards."
+   },
+   "id": "R148-base-0014",
+   "source_node_ids": [
+    "R148|base|3.3.2.5.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "3.3.2.5.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 14,
+   "text": "The lamp shall bear the approval marking.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.3.1"
+    ],
+    "table": null,
+    "text": "The lamp shall bear the approval marking."
+   },
+   "id": "R148-base-0015",
+   "source_node_ids": [
+    "R148|base|3.3.3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "3.3.3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 15,
+   "text": "The lamp shall bear the trade name or mark of the applicant.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.3.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.3.2"
+    ],
+    "table": null,
+    "text": "The lamp shall bear the trade name or mark of the applicant."
+   },
+   "id": "R148-base-0016",
+   "source_node_ids": [
+    "R148|base|3.3.3.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "3.3.3.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 16,
+   "text": "A lamp with non-replaceable light sources (and/or an electronic light source control gear and/or a variable luminous intensity control) shall bear a marking of the rated voltage(s) (i.e. 6 V, 12 V or 24 V) or the range of voltage.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.3.4"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.3.4"
+    ],
+    "table": null,
+    "text": "A lamp with non-replaceable light sources (and/or an electronic light source control gear and/or a variable luminous intensity control) shall bear a marking of the rated voltage(s) (i.e. 6 V, 12 V or 24 V) or the range of voltage."
+   },
+   "id": "R148-base-0017",
+   "source_node_ids": [
+    "R148|base|3.3.3.4"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "3.3.3.4"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 17,
+   "text": "If replaceable light source module(s) are used, each light source module shall bear the trade name or mark of the applicant.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.3.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.3.5"
+    ],
+    "table": null,
+    "text": "If replaceable light source module(s) are used, each light source module shall bear the trade name or mark of the applicant."
+   },
+   "id": "R148-base-0018",
+   "source_node_ids": [
+    "R148|base|3.3.3.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "3.3.3.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 18,
+   "text": "If replaceable light source module(s) are used, each light source module shall bear its specific identification code, comprising the starting letters \"MD\" followed by the approval mark without the circle as prescribed in paragraph 3.3.2.1.1.; the approval mark does not have to be the same as the one on the lamp, but both marks shall be from the same applicant.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.3.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.3.5"
+    ],
+    "table": null,
+    "text": "If replaceable light source module(s) are used, each light source module shall bear its specific identification code, comprising the starting letters \"MD\" followed by the approval mark without the circle as prescribed in paragraph 3.3.2.1.1.; the approval mark does not have to be the same as the one on the lamp, but both marks shall be from the same applicant."
+   },
+   "id": "R148-base-0019",
+   "source_node_ids": [
+    "R148|base|3.3.3.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "3.3.3.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 19,
+   "text": "If several non-identical replaceable light source modules are used, the module identification code shall be followed by additional symbols or characters.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.3.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.3.5"
+    ],
+    "table": null,
+    "text": "If several non-identical replaceable light source modules are used, the module identification code shall be followed by additional symbols or characters."
+   },
+   "id": "R148-base-0020",
+   "source_node_ids": [
+    "R148|base|3.3.3.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "3.3.3.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 20,
+   "text": "If replaceable light source module(s) are used, each light source module shall bear the rated voltage(s) or the range of voltage.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.3.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.3.5"
+    ],
+    "table": null,
+    "text": "If replaceable light source module(s) are used, each light source module shall bear the rated voltage(s) or the range of voltage."
+   },
+   "id": "R148-base-0021",
+   "source_node_ids": [
+    "R148|base|3.3.3.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "3.3.3.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 21,
+   "text": "If replaceable light source module(s) are used, the lamp shall bear the specific identification code of the module as prescribed in paragraph 3.3.3.5. (a)(ii).",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.3.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.3.5"
+    ],
+    "table": null,
+    "text": "If replaceable light source module(s) are used, the lamp shall bear the specific identification code of the module as prescribed in paragraph 3.3.3.5. (a)(ii)."
+   },
+   "id": "R148-base-0022",
+   "source_node_ids": [
+    "R148|base|3.3.3.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "3.3.3.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 22,
+   "text": "If replaceable light source module(s) are used, the lamp shall bear the rated voltage(s) or the range of voltage.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.3.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.3.5"
+    ],
+    "table": null,
+    "text": "If replaceable light source module(s) are used, the lamp shall bear the rated voltage(s) or the range of voltage."
+   },
+   "id": "R148-base-0023",
+   "source_node_ids": [
+    "R148|base|3.3.3.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "3.3.3.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 23,
+   "text": "An electronic light source control gear or variable luminous intensity control being part of the lamp but not included in the lamp body shall be marked with its identification number.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.3.6"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.3.6"
+    ],
+    "table": null,
+    "text": "An electronic light source control gear or variable luminous intensity control being part of the lamp but not included in the lamp body shall be marked with its identification number."
+   },
+   "id": "R148-base-0024",
+   "source_node_ids": [
+    "R148|base|3.3.3.6"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "3.3.3.6"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 24,
+   "text": "An electronic light source control gear or variable luminous intensity control being part of the lamp but not included in the lamp body shall be marked with the name of the manufacturer.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.3.6"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.3.6"
+    ],
+    "table": null,
+    "text": "An electronic light source control gear or variable luminous intensity control being part of the lamp but not included in the lamp body shall be marked with the name of the manufacturer."
+   },
+   "id": "R148-base-0025",
+   "source_node_ids": [
+    "R148|base|3.3.3.6"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "3.3.3.6"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 25,
+   "text": "The approval marking shall be placed on an inner or outer part (transparent or not) of the lamp which is not designed to be separated from the transparent part of the lamp emitting the light.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.4.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.4.1"
+    ],
+    "table": null,
+    "text": "The approval marking shall be placed on an inner or outer part (transparent or not) of the lamp which is not designed to be separated from the transparent part of the lamp emitting the light."
+   },
+   "id": "R148-base-0026",
+   "source_node_ids": [
+    "R148|base|3.3.4.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "3.3.4.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 26,
+   "text": "The approval marking shall be visible when the lamp is fitted on the vehicle or when a movable part such as the hood, boot lid or a door is opened.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.4.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.4.2"
+    ],
+    "table": null,
+    "text": "The approval marking shall be visible when the lamp is fitted on the vehicle or when a movable part such as the hood, boot lid or a door is opened."
+   },
+   "id": "R148-base-0027",
+   "source_node_ids": [
+    "R148|base|3.3.4.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "3.3.4.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 27,
+   "text": "The approval marking, the trade name or mark of the applicant, the rated voltage marking, and where applicable the module identification code and voltage markings of paragraph 3.3.3.5. (b) and the control gear markings of paragraph 3.3.3.6., shall be affixed on the lamp.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.4.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.4.5"
+    ],
+    "table": null,
+    "text": "The approval marking, the trade name or mark of the applicant, the rated voltage marking, and where applicable the module identification code and voltage markings of paragraph 3.3.3.5. (b) and the control gear markings of paragraph 3.3.3.6., shall be affixed on the lamp."
+   },
+   "id": "R148-base-0028",
+   "source_node_ids": [
+    "R148|base|3.3.4.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 9,
+    "page_end": 9,
+    "paragraph": "3.3.4.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 28,
+   "text": "If replaceable light source module(s) are used, the markings of paragraph 3.3.3.5. (a) shall be affixed on the light source module.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.4.6"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.4.6"
+    ],
+    "table": null,
+    "text": "If replaceable light source module(s) are used, the markings of paragraph 3.3.3.5. (a) shall be affixed on the light source module."
+   },
+   "id": "R148-base-0029",
+   "source_node_ids": [
+    "R148|base|3.3.4.6"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 9,
+    "page_end": 9,
+    "paragraph": "3.3.4.6"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 29,
+   "text": "The trade name or mark, the rated voltage marking, the light source module markings and the control gear markings (paragraphs 3.3.3.2., 3.3.3.4., 3.3.3.5. and 3.3.3.6.) do not need to be visible when the lamp is fitted on the vehicle (paragraph 3.3.4.2. does not apply to them).",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.4.7"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.4.7"
+    ],
+    "table": null,
+    "text": "The trade name or mark, the rated voltage marking, the light source module markings and the control gear markings (paragraphs 3.3.3.2., 3.3.3.4., 3.3.3.5. and 3.3.3.6.) do not need to be visible when the lamp is fitted on the vehicle (paragraph 3.3.4.2. does not apply to them)."
+   },
+   "id": "R148-base-0030",
+   "source_node_ids": [
+    "R148|base|3.3.4.7"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 9,
+    "page_end": 9,
+    "paragraph": "3.3.4.7"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 30,
+   "text": "Where the grouped, combined or reciprocally incorporated lamps (e.g. the R148 lamp functions together with the R150 retro-reflector) have been found to comply with the requirements of several UN Regulations, a single approval mark with the four to six-digit sequential number may be affixed, located anywhere on the lamps, subject to paragraphs 3.3.5.1.1. and 3.3.5.1.2.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.5.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.5.1"
+    ],
+    "table": null,
+    "text": "Where the grouped, combined or reciprocally incorporated lamps (e.g. the R148 lamp functions together with the R150 retro-reflector) have been found to comply with the requirements of several UN Regulations, a single approval mark with the four to six-digit sequential number may be affixed, located anywhere on the lamps, subject to paragraphs 3.3.5.1.1. and 3.3.5.1.2."
+   },
+   "id": "R148-base-0031",
+   "source_node_ids": [
+    "R148|base|3.3.5.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 9,
+    "page_end": 9,
+    "paragraph": "3.3.5.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 31,
+   "text": "If a single approval mark is used for the grouped, combined or reciprocally incorporated lamps, it shall be visible after their installation.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.5.1.1",
+    "R148|base|3.3.5.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.5.1.1",
+     "R148|base|3.3.5.1"
+    ],
+    "table": null,
+    "text": "If a single approval mark is used for the grouped, combined or reciprocally incorporated lamps, it shall be visible after their installation."
+   },
+   "id": "R148-base-0032",
+   "source_node_ids": [
+    "R148|base|3.3.5.1.1",
+    "R148|base|3.3.5.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 9,
+    "page_end": 9,
+    "paragraph": "3.3.5.1.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 32,
+   "text": "If a single approval mark is used for the grouped, combined or reciprocally incorporated lamps, no part of the lamps that transmits light shall be removable without at the same time removing the approval mark.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.5.1.2",
+    "R148|base|3.3.5.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.5.1.2",
+     "R148|base|3.3.5.1"
+    ],
+    "table": null,
+    "text": "If a single approval mark is used for the grouped, combined or reciprocally incorporated lamps, no part of the lamps that transmits light shall be removable without at the same time removing the approval mark."
+   },
+   "id": "R148-base-0033",
+   "source_node_ids": [
+    "R148|base|3.3.5.1.2",
+    "R148|base|3.3.5.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 9,
+    "page_end": 9,
+    "paragraph": "3.3.5.1.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 33,
+   "text": "The size of the components of a single approval mark shall not be less than the minimum size required for the smallest of the individual marks by the pertinent UN Regulations under which approval has been granted.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|3.3.5.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|3.3.5.2"
+    ],
+    "table": null,
+    "text": "The size of the components of a single approval mark shall not be less than the minimum size required for the smallest of the individual marks by the pertinent UN Regulations under which approval has been granted."
+   },
+   "id": "R148-base-0034",
+   "source_node_ids": [
+    "R148|base|3.3.5.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 9,
+    "page_end": 9,
+    "paragraph": "3.3.5.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 34,
+   "text": "The requirements of sections 5 \"General specifications\" and 6 \"Individual specifications\" (and referenced Annexes) of UN Regulation No. 48, in the series of amendments in force at the time of application, pertinent to each lamp function and to vehicle category M1, shall apply where their verification at the moment of lamp type approval is feasible.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.2"
+    ],
+    "table": null,
+    "text": "The requirements of sections 5 \"General specifications\" and 6 \"Individual specifications\" (and referenced Annexes) of UN Regulation No. 48, in the series of amendments in force at the time of application, pertinent to each lamp function and to vehicle category M1, shall apply where their verification at the moment of lamp type approval is feasible."
+   },
+   "id": "R148-base-0035",
+   "source_node_ids": [
+    "R148|base|4.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 10,
+    "page_end": 10,
+    "paragraph": "4.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 35,
+   "text": "The lamp shall be so designed and constructed that in normal conditions of use, and notwithstanding the vibrations to which it may be subjected in such use, its satisfactory operation remains assured and it retains the characteristics prescribed by this Regulation.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.3"
+    ],
+    "table": null,
+    "text": "The lamp shall be so designed and constructed that in normal conditions of use, and notwithstanding the vibrations to which it may be subjected in such use, its satisfactory operation remains assured and it retains the characteristics prescribed by this Regulation."
+   },
+   "id": "R148-base-0036",
+   "source_node_ids": [
+    "R148|base|4.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 10,
+    "page_end": 10,
+    "paragraph": "4.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 36,
+   "text": "A lamp approved as a rear position lamp is deemed also approved as a rear end-outline marker lamp.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.5.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.5.1"
+    ],
+    "table": null,
+    "text": "A lamp approved as a rear position lamp is deemed also approved as a rear end-outline marker lamp."
+   },
+   "id": "R148-base-0037",
+   "source_node_ids": [
+    "R148|base|4.5.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 10,
+    "page_end": 10,
+    "paragraph": "4.5.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 37,
+   "text": "Rear position lamps which are grouped, combined or reciprocally incorporated may also be used as end-outline marker lamps.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.5.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.5.2"
+    ],
+    "table": null,
+    "text": "Rear position lamps which are grouped, combined or reciprocally incorporated may also be used as end-outline marker lamps."
+   },
+   "id": "R148-base-0038",
+   "source_node_ids": [
+    "R148|base|4.5.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 10,
+    "page_end": 10,
+    "paragraph": "4.5.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 38,
+   "text": "A rear position lamp reciprocally incorporated with another function using a common light source and designed to operate permanently with an additional system to regulate the intensity of the light emitted is permitted.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.5.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.5.3"
+    ],
+    "table": null,
+    "text": "A rear position lamp reciprocally incorporated with another function using a common light source and designed to operate permanently with an additional system to regulate the intensity of the light emitted is permitted."
+   },
+   "id": "R148-base-0039",
+   "source_node_ids": [
+    "R148|base|4.5.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 10,
+    "page_end": 10,
+    "paragraph": "4.5.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 39,
+   "text": "If the rear position lamp is reciprocally incorporated with the stop lamp, these functions shall either be provided by multiple light sources or be intended for use in a vehicle equipped with a tell-tale indicating failure for the lamps.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.5.3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.5.3.1"
+    ],
+    "table": null,
+    "text": "If the rear position lamp is reciprocally incorporated with the stop lamp, these functions shall either be provided by multiple light sources or be intended for use in a vehicle equipped with a tell-tale indicating failure for the lamps."
+   },
+   "id": "R148-base-0040",
+   "source_node_ids": [
+    "R148|base|4.5.3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 10,
+    "page_end": 11,
+    "paragraph": "4.5.3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 40,
+   "text": "On request of the applicant, the internal structure of the optical components and/or the texture of the outer lens inside the apparent surface of the rear position lamp may incorporate only one manufacturer logo built by transparent or non-transparent components, provided that all requirements for the rear position lamp function are fulfilled and the conditions of paragraph 4.5.5. (a) to (c) are met.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.5.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.5.5"
+    ],
+    "table": null,
+    "text": "On request of the applicant, the internal structure of the optical components and/or the texture of the outer lens inside the apparent surface of the rear position lamp may incorporate only one manufacturer logo built by transparent or non-transparent components, provided that all requirements for the rear position lamp function are fulfilled and the conditions of paragraph 4.5.5. (a) to (c) are met."
+   },
+   "id": "R148-base-0041",
+   "source_node_ids": [
+    "R148|base|4.5.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 11,
+    "page_end": 11,
+    "paragraph": "4.5.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 41,
+   "text": "If a logo is incorporated in the rear position lamp, only the logo of the brand name of the vehicle manufacturer or the body manufacturer is allowed, irrespective of the marking requirements of paragraph 3.3., confirmed by a statement of the applicant.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.5.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.5.5"
+    ],
+    "table": null,
+    "text": "If a logo is incorporated in the rear position lamp, only the logo of the brand name of the vehicle manufacturer or the body manufacturer is allowed, irrespective of the marking requirements of paragraph 3.3., confirmed by a statement of the applicant."
+   },
+   "id": "R148-base-0042",
+   "source_node_ids": [
+    "R148|base|4.5.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 11,
+    "page_end": 11,
+    "paragraph": "4.5.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 42,
+   "text": "If a logo is incorporated in the rear position lamp, the enclosed light emitting surface of the logo (incorporating transparent and non-transparent components) in the direction of the reference axis shall not exceed 100 cm2.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.5.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.5.5"
+    ],
+    "table": null,
+    "text": "If a logo is incorporated in the rear position lamp, the enclosed light emitting surface of the logo (incorporating transparent and non-transparent components) in the direction of the reference axis shall not exceed 100 cm2."
+   },
+   "id": "R148-base-0043",
+   "source_node_ids": [
+    "R148|base|4.5.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 11,
+    "page_end": 11,
+    "paragraph": "4.5.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 43,
+   "text": "If a logo is incorporated in the rear position lamp, notwithstanding paragraph 5.5.2. of UN Regulation No. 48, the logo light emitting surface (incorporating transparent and non-transparent components) does not have to be symmetrical by itself.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.5.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.5.5"
+    ],
+    "table": null,
+    "text": "If a logo is incorporated in the rear position lamp, notwithstanding paragraph 5.5.2. of UN Regulation No. 48, the logo light emitting surface (incorporating transparent and non-transparent components) does not have to be symmetrical by itself."
+   },
+   "id": "R148-base-0044",
+   "source_node_ids": [
+    "R148|base|4.5.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 11,
+    "page_end": 11,
+    "paragraph": "4.5.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 44,
+   "text": "The stop lamp and the reversing lamp shall not incorporate a logo.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.5.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.5.5"
+    ],
+    "table": null,
+    "text": "The stop lamp and the reversing lamp shall not incorporate a logo."
+   },
+   "id": "R148-base-0045",
+   "source_node_ids": [
+    "R148|base|4.5.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 11,
+    "page_end": 11,
+    "paragraph": "4.5.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 45,
+   "text": "In a single lamp containing more than one light source, a group of light sources (e.g. LEDs) wired so that the failure of any one of them causes all of them to stop emitting light shall be considered to be one light source.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.6.1.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.6.1.1"
+    ],
+    "table": null,
+    "text": "In a single lamp containing more than one light source, a group of light sources (e.g. LEDs) wired so that the failure of any one of them causes all of them to stop emitting light shall be considered to be one light source."
+   },
+   "id": "R148-base-0046",
+   "source_node_ids": [
+    "R148|base|4.6.1.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 11,
+    "page_end": 11,
+    "paragraph": "4.6.1.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 46,
+   "text": "In case of failure of any one light source in a single lamp (function) containing more than one light source, at least one of the following shall apply: (a) the light intensity complies with the minimum intensity required in the pertinent table of standard light distribution in Annex 3, and with all light sources illuminated the maximum intensities are not exceeded; or (b) a signal for activation of a tell-tale indicating failure, as indicated in the relevant paragraphs (6.4.8., 6.7.8., 6.9.8., 6.10.8., 6.11.8., 6.12.8., 6.13.8., 6.18.8.) of UN Regulation No. 48, is produced, in which case the lamp is only for use on a vehicle fitted with a tell-tale indicating failure.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.6.1.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.6.1.2"
+    ],
+    "table": null,
+    "text": "In case of failure of any one light source in a single lamp (function) containing more than one light source, at least one of the following shall apply: (a) the light intensity complies with the minimum intensity required in the pertinent table of standard light distribution in Annex 3, and with all light sources illuminated the maximum intensities are not exceeded; or (b) a signal for activation of a tell-tale indicating failure, as indicated in the relevant paragraphs (6.4.8., 6.7.8., 6.9.8., 6.10.8., 6.11.8., 6.12.8., 6.13.8., 6.18.8.) of UN Regulation No. 48, is produced, in which case the lamp is only for use on a vehicle fitted with a tell-tale indicating failure."
+   },
+   "id": "R148-base-0047",
+   "source_node_ids": [
+    "R148|base|4.6.1.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 11,
+    "page_end": 11,
+    "paragraph": "4.6.1.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 47,
+   "text": "In case of failure of the variable intensity control of a rear position lamp of category R2 emitting more than the maximum value of category R1, the requirements of steady luminous intensity of category R1 shall be fulfilled automatically.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.6.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.6.2"
+    ],
+    "table": null,
+    "text": "In case of failure of the variable intensity control of a rear position lamp of category R2 emitting more than the maximum value of category R1, the requirements of steady luminous intensity of category R1 shall be fulfilled automatically."
+   },
+   "id": "R148-base-0048",
+   "source_node_ids": [
+    "R148|base|4.6.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 12,
+    "page_end": 12,
+    "paragraph": "4.6.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 48,
+   "text": "In case of failure of the variable intensity control of a stop lamp of category S2 emitting more than the maximum value of category S1, the requirements of steady luminous intensity of category S1 shall be fulfilled automatically.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.6.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.6.2"
+    ],
+    "table": null,
+    "text": "In case of failure of the variable intensity control of a stop lamp of category S2 emitting more than the maximum value of category S1, the requirements of steady luminous intensity of category S1 shall be fulfilled automatically."
+   },
+   "id": "R148-base-0049",
+   "source_node_ids": [
+    "R148|base|4.6.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 12,
+    "page_end": 12,
+    "paragraph": "4.6.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 49,
+   "text": "The lamp shall only be equipped with replaceable light source(s) approved according to UN Regulations Nos. 37, 99 and/or 128 (with no restriction on use), and/or light source module(s), and/or non-replaceable light source(s).",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.7.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.7.1"
+    ],
+    "table": null,
+    "text": "The lamp shall only be equipped with replaceable light source(s) approved according to UN Regulations Nos. 37, 99 and/or 128 (with no restriction on use), and/or light source module(s), and/or non-replaceable light source(s)."
+   },
+   "id": "R148-base-0050",
+   "source_node_ids": [
+    "R148|base|4.7.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 12,
+    "page_end": 12,
+    "paragraph": "4.7.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 50,
+   "text": "The lamp shall not generate radiated or power line disturbances which cause a malfunction of other electric/electronic systems of the vehicle.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.7.2.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.7.2.3"
+    ],
+    "table": null,
+    "text": "The lamp shall not generate radiated or power line disturbances which cause a malfunction of other electric/electronic systems of the vehicle."
+   },
+   "id": "R148-base-0051",
+   "source_node_ids": [
+    "R148|base|4.7.2.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 13,
+    "page_end": 13,
+    "paragraph": "4.7.2.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 51,
+   "text": "If replaceable light source module(s) are used, the design of the light source module shall be such that it can only be fitted in the designated and correct position.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.7.2.4"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.7.2.4"
+    ],
+    "table": null,
+    "text": "If replaceable light source module(s) are used, the design of the light source module shall be such that it can only be fitted in the designated and correct position."
+   },
+   "id": "R148-base-0052",
+   "source_node_ids": [
+    "R148|base|4.7.2.4"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 13,
+    "page_end": 13,
+    "paragraph": "4.7.2.4"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 52,
+   "text": "If replaceable light source module(s) are used, the design of the light source module shall be such that it can only be removed with the use of tool(s).",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.7.2.4"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.7.2.4"
+    ],
+    "table": null,
+    "text": "If replaceable light source module(s) are used, the design of the light source module shall be such that it can only be removed with the use of tool(s)."
+   },
+   "id": "R148-base-0053",
+   "source_node_ids": [
+    "R148|base|4.7.2.4"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 13,
+    "page_end": 13,
+    "paragraph": "4.7.2.4"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 53,
+   "text": "If replaceable light source module(s) are used, the light source module shall be tamperproof.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.7.2.4"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.7.2.4"
+    ],
+    "table": null,
+    "text": "If replaceable light source module(s) are used, the light source module shall be tamperproof."
+   },
+   "id": "R148-base-0054",
+   "source_node_ids": [
+    "R148|base|4.7.2.4"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 13,
+    "page_end": 13,
+    "paragraph": "4.7.2.4"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 54,
+   "text": "If replaceable light source module(s) are used, regardless of the use of tool(s), the light source module shall not be interchangeable with any replaceable UN approved light source and/or with any other replaceable light source module having different characteristics located in the same lamp housing.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.7.2.4"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.7.2.4"
+    ],
+    "table": null,
+    "text": "If replaceable light source module(s) are used, regardless of the use of tool(s), the light source module shall not be interchangeable with any replaceable UN approved light source and/or with any other replaceable light source module having different characteristics located in the same lamp housing."
+   },
+   "id": "R148-base-0055",
+   "source_node_ids": [
+    "R148|base|4.7.2.4"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 13,
+    "page_end": 13,
+    "paragraph": "4.7.2.4"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 55,
+   "text": "If replaceable light source module(s) are used, when the light source module is removed and replaced by another module provided by the applicant bearing the same light source module identification code, the photometric requirements of the device shall be met.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.7.2.4"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.7.2.4"
+    ],
+    "table": null,
+    "text": "If replaceable light source module(s) are used, when the light source module is removed and replaced by another module provided by the applicant bearing the same light source module identification code, the photometric requirements of the device shall be met."
+   },
+   "id": "R148-base-0056",
+   "source_node_ids": [
+    "R148|base|4.7.2.4"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 13,
+    "page_end": 13,
+    "paragraph": "4.7.2.4"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 56,
+   "text": "For a lamp equipped with non-replaceable light sources or light source module(s), all photometric and colorimetric measurements shall be made with the light source(s) present in the lamp.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.8.1.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.8.1.2"
+    ],
+    "table": null,
+    "text": "For a lamp equipped with non-replaceable light sources or light source module(s), all photometric and colorimetric measurements shall be made with the light source(s) present in the lamp."
+   },
+   "id": "R148-base-0057",
+   "source_node_ids": [
+    "R148|base|4.8.1.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 13,
+    "page_end": 13,
+    "paragraph": "4.8.1.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 57,
+   "text": "If not otherwise specified, the luminous intensities shall be measured with the light source continuously lit.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.8.1.7"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.8.1.7"
+    ],
+    "table": null,
+    "text": "If not otherwise specified, the luminous intensities shall be measured with the light source continuously lit."
+   },
+   "id": "R148-base-0058",
+   "source_node_ids": [
+    "R148|base|4.8.1.7"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 14,
+    "page_end": 14,
+    "paragraph": "4.8.1.7"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 58,
+   "text": "Where measurement results are challenged, the intensity requirement for a particular direction of observation shall be deemed satisfied if it is met in a direction deviating by not more than one-quarter of a degree from the direction of observation.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.8.1.8.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.8.1.8.3"
+    ],
+    "table": null,
+    "text": "Where measurement results are challenged, the intensity requirement for a particular direction of observation shall be deemed satisfied if it is met in a direction deviating by not more than one-quarter of a degree from the direction of observation."
+   },
+   "id": "R148-base-0059",
+   "source_node_ids": [
+    "R148|base|4.8.1.8.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 14,
+    "page_end": 14,
+    "paragraph": "4.8.1.8.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 59,
+   "text": "Unless otherwise specified, the lamp shall be tested with a voltage at the lamp of 6.75 V (6 V systems), 13.5 V (12 V systems) or 28 V (24 V systems).",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.8.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.8.2"
+    ],
+    "table": null,
+    "text": "Unless otherwise specified, the lamp shall be tested with a voltage at the lamp of 6.75 V (6 V systems), 13.5 V (12 V systems) or 28 V (24 V systems)."
+   },
+   "id": "R148-base-0060",
+   "source_node_ids": [
+    "R148|base|4.8.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 14,
+    "page_end": 14,
+    "paragraph": "4.8.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 60,
+   "text": "For a lamp with non-replaceable light sources or light source module(s) not controlled by an electronic light source control gear or variable intensity control, the lamp shall be operated for testing as specified by the applicant.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.8.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.8.2.2"
+    ],
+    "table": null,
+    "text": "For a lamp with non-replaceable light sources or light source module(s) not controlled by an electronic light source control gear or variable intensity control, the lamp shall be operated for testing as specified by the applicant."
+   },
+   "id": "R148-base-0061",
+   "source_node_ids": [
+    "R148|base|4.8.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 14,
+    "page_end": 14,
+    "paragraph": "4.8.2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 61,
+   "text": "For a lamp controlled by an electronic light source control gear or a variable intensity control, the lamp shall be operated for testing as specified by the applicant.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.8.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.8.2.1"
+    ],
+    "table": null,
+    "text": "For a lamp controlled by an electronic light source control gear or a variable intensity control, the lamp shall be operated for testing as specified by the applicant."
+   },
+   "id": "R148-base-0062",
+   "source_node_ids": [
+    "R148|base|4.8.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 14,
+    "page_end": 14,
+    "paragraph": "4.8.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 62,
+   "text": "If not otherwise specified, the intensity of light emitted by each of the two samples on the reference axis (HV) shall be not less than the minimum specified in the table of the pertinent function (rear position lamp, stop lamp, reversing lamp) in paragraph 5.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.8.3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.8.3.1"
+    ],
+    "table": null,
+    "text": "If not otherwise specified, the intensity of light emitted by each of the two samples on the reference axis (HV) shall be not less than the minimum specified in the table of the pertinent function (rear position lamp, stop lamp, reversing lamp) in paragraph 5."
+   },
+   "id": "R148-base-0063",
+   "source_node_ids": [
+    "R148|base|4.8.3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 14,
+    "page_end": 15,
+    "paragraph": "4.8.3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 63,
+   "text": "If not otherwise specified, the intensity of light emitted by each of the two samples shall, in no direction where the lamp is visible, exceed the maximum specified in the table of the pertinent function in paragraph 5.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.8.3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.8.3.1"
+    ],
+    "table": null,
+    "text": "If not otherwise specified, the intensity of light emitted by each of the two samples shall, in no direction where the lamp is visible, exceed the maximum specified in the table of the pertinent function in paragraph 5."
+   },
+   "id": "R148-base-0064",
+   "source_node_ids": [
+    "R148|base|4.8.3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 14,
+    "page_end": 15,
+    "paragraph": "4.8.3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 64,
+   "text": "If not otherwise specified, the intensity of light emitted by each of the two samples outside the reference axis shall be not less than the product of the minimum specified in the table of the pertinent function in paragraph 5. by the percentage specified in the pertinent light distribution figure of Annex 3 for each direction, or not less than the intensity value specified in that figure for each direction.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.8.3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.8.3.1"
+    ],
+    "table": null,
+    "text": "If not otherwise specified, the intensity of light emitted by each of the two samples outside the reference axis shall be not less than the product of the minimum specified in the table of the pertinent function in paragraph 5. by the percentage specified in the pertinent light distribution figure of Annex 3 for each direction, or not less than the intensity value specified in that figure for each direction."
+   },
+   "id": "R148-base-0065",
+   "source_node_ids": [
+    "R148|base|4.8.3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 14,
+    "page_end": 15,
+    "paragraph": "4.8.3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 65,
+   "text": "If not otherwise specified, the intensity of light emitted by each of the two samples within the angles of geometric visibility defined in the tables in Annex 2 shall be not less than the minimum specified in the table of the pertinent function in paragraph 5.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.8.3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.8.3.1"
+    ],
+    "table": null,
+    "text": "If not otherwise specified, the intensity of light emitted by each of the two samples within the angles of geometric visibility defined in the tables in Annex 2 shall be not less than the minimum specified in the table of the pertinent function in paragraph 5."
+   },
+   "id": "R148-base-0066",
+   "source_node_ids": [
+    "R148|base|4.8.3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 14,
+    "page_end": 15,
+    "paragraph": "4.8.3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 66,
+   "text": "The provisions of the relevant paragraphs of Annex 3 on local variations of intensity shall be observed.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.8.3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.8.3.1"
+    ],
+    "table": null,
+    "text": "The provisions of the relevant paragraphs of Annex 3 on local variations of intensity shall be observed."
+   },
+   "id": "R148-base-0067",
+   "source_node_ids": [
+    "R148|base|4.8.3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 14,
+    "page_end": 15,
+    "paragraph": "4.8.3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 67,
+   "text": "If an assembly of two independent lamps of the same function, to be type approved as lamps marked \"D\", is deemed to be a single lamp, it shall comply with the maximum intensity requirements when all lamps together are lit.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.8.3.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.8.3.2"
+    ],
+    "table": null,
+    "text": "If an assembly of two independent lamps of the same function, to be type approved as lamps marked \"D\", is deemed to be a single lamp, it shall comply with the maximum intensity requirements when all lamps together are lit."
+   },
+   "id": "R148-base-0068",
+   "source_node_ids": [
+    "R148|base|4.8.3.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 15,
+    "page_end": 15,
+    "paragraph": "4.8.3.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 68,
+   "text": "If an assembly of two independent lamps of the same function, to be type approved as lamps marked \"D\", is deemed to be a single lamp, it shall comply with the minimum intensity requirements if either lamp has failed.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.8.3.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.8.3.2"
+    ],
+    "table": null,
+    "text": "If an assembly of two independent lamps of the same function, to be type approved as lamps marked \"D\", is deemed to be a single lamp, it shall comply with the minimum intensity requirements if either lamp has failed."
+   },
+   "id": "R148-base-0069",
+   "source_node_ids": [
+    "R148|base|4.8.3.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 15,
+    "page_end": 15,
+    "paragraph": "4.8.3.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 69,
+   "text": "If the lamp is part of an interdependent lamp system, the system shall meet the requirements when all its interdependent lamps are operated together.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.8.3.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.8.3.3"
+    ],
+    "table": null,
+    "text": "If the lamp is part of an interdependent lamp system, the system shall meet the requirements when all its interdependent lamps are operated together."
+   },
+   "id": "R148-base-0070",
+   "source_node_ids": [
+    "R148|base|4.8.3.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 15,
+    "page_end": 15,
+    "paragraph": "4.8.3.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 70,
+   "text": "If the rear position lamp (R2) or stop lamp (S2) has a variable intensity control, the control shall not generate signals which cause luminous intensities outside the range specified in paragraph 5.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.8.3.4.1",
+    "R148|base|4.8.3.4"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.8.3.4.1",
+     "R148|base|4.8.3.4"
+    ],
+    "table": null,
+    "text": "If the rear position lamp (R2) or stop lamp (S2) has a variable intensity control, the control shall not generate signals which cause luminous intensities outside the range specified in paragraph 5."
+   },
+   "id": "R148-base-0071",
+   "source_node_ids": [
+    "R148|base|4.8.3.4.1",
+    "R148|base|4.8.3.4"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 15,
+    "page_end": 15,
+    "paragraph": "4.8.3.4.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 71,
+   "text": "If the rear position lamp (R2) or stop lamp (S2) has a variable intensity control, the control shall not generate signals which cause luminous intensities exceeding the respective steady luminous intensity maximum specified in paragraph 5.: for systems depending only on daytime and night-time conditions, under night-time conditions; for other systems, under standard conditions (good visibility, MOR > 2,000 m, and clean lens).",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.8.3.4.2",
+    "R148|base|4.8.3.4"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.8.3.4.2",
+     "R148|base|4.8.3.4"
+    ],
+    "table": null,
+    "text": "If the rear position lamp (R2) or stop lamp (S2) has a variable intensity control, the control shall not generate signals which cause luminous intensities exceeding the respective steady luminous intensity maximum specified in paragraph 5.: for systems depending only on daytime and night-time conditions, under night-time conditions; for other systems, under standard conditions (good visibility, MOR > 2,000 m, and clean lens)."
+   },
+   "id": "R148-base-0072",
+   "source_node_ids": [
+    "R148|base|4.8.3.4.2",
+    "R148|base|4.8.3.4"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 15,
+    "page_end": 16,
+    "paragraph": "4.8.3.4.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 72,
+   "text": "Tests for compliance of the luminous intensities shall be carried out according to Annex 8.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.8.3.6"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.8.3.6"
+    ],
+    "table": null,
+    "text": "Tests for compliance of the luminous intensities shall be carried out according to Annex 8."
+   },
+   "id": "R148-base-0073",
+   "source_node_ids": [
+    "R148|base|4.8.3.6"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 16,
+    "page_end": 16,
+    "paragraph": "4.8.3.6"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 73,
+   "text": "The colour of the light emitted by each function shall be measured inside the field of the light distribution grid defined for that function in Annex 3, applying the test procedure of paragraph 4.8., with the non-replaceable light sources present in the lamp.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.9"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.9"
+    ],
+    "table": null,
+    "text": "The colour of the light emitted by each function shall be measured inside the field of the light distribution grid defined for that function in Annex 3, applying the test procedure of paragraph 4.8., with the non-replaceable light sources present in the lamp."
+   },
+   "id": "R148-base-0074",
+   "source_node_ids": [
+    "R148|base|4.9"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 16,
+    "page_end": 16,
+    "paragraph": "4.9"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 74,
+   "text": "Outside the field of the light distribution grid defined for the specific function, no sharp variation of colour of the light emitted shall be observed.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|4.9"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|4.9"
+    ],
+    "table": null,
+    "text": "Outside the field of the light distribution grid defined for the specific function, no sharp variation of colour of the light emitted shall be observed."
+   },
+   "id": "R148-base-0075",
+   "source_node_ids": [
+    "R148|base|4.9"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 16,
+    "page_end": 16,
+    "paragraph": "4.9"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 0,
+   "text": "The light emitted by each of the two samples of the rear position lamp shall meet the requirements in Table 4. However, a luminous intensity of 6.0∙10^1 cd shall be permitted for rear position lamps reciprocally incorporated with stop lamps below a plane forming an angle of 5° with and downward from the horizontal plane.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|5.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|5.2.1"
+    ],
+    "table": null,
+    "text": "The light emitted by each of the two samples of the rear position lamp shall meet the requirements in Table 4. However, a luminous intensity of 6.0∙10^1 cd shall be permitted for rear position lamps reciprocally incorporated with stop lamps below a plane forming an angle of 5° with and downward from the horizontal plane."
+   },
+   "id": "R148-base-0076",
+   "source_node_ids": [
+    "R148|base|5.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 17,
+    "page_end": 17,
+    "paragraph": "5.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 1,
+   "text": "If the rear position lamp is category R1 (steady): minimum luminous intensity 4∙10^0 cd (par. 4.8.3.1.(a)); maximum luminous intensity 1.7∙10^1 cd when used as a single lamp, or 8.5∙10^0 cd for a lamp marked \"D\" (par. 4.8.3.1.(b)); standard light distribution according to Figure A3-I; minimum luminous intensity of 5∙10^-2 cd within the angles of geometric visibility defined in Table A2-1.",
+   "table": "4",
+   "cited_ids": [
+    "R148|base|5.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|5.2.1"
+    ],
+    "table": "4",
+    "text": "If the rear position lamp is category R1 (steady): minimum luminous intensity 4∙10^0 cd (par. 4.8.3.1.(a)); maximum luminous intensity 1.7∙10^1 cd when used as a single lamp, or 8.5∙10^0 cd for a lamp marked \"D\" (par. 4.8.3.1.(b)); standard light distribution according to Figure A3-I; minimum luminous intensity of 5∙10^-2 cd within the angles of geometric visibility defined in Table A2-1."
+   },
+   "id": "R148-base-0077",
+   "source_node_ids": [
+    "R148|base|5.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 17,
+    "page_end": 17,
+    "paragraph": "5.2.1. Table 4"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 2,
+   "text": "If the rear position lamp is category R2 (variable intensity): minimum luminous intensity 4∙10^0 cd (par. 4.8.3.1.(a)); maximum luminous intensity 4.2∙10^1 cd when used as a single lamp, or 2.1∙10^1 cd for a lamp marked \"D\" (par. 4.8.3.1.(b)); standard light distribution according to Figure A3-I; minimum luminous intensity of 5∙10^-2 cd within the angles of geometric visibility defined in Table A2-1.",
+   "table": "4",
+   "cited_ids": [
+    "R148|base|5.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|5.2.1"
+    ],
+    "table": "4",
+    "text": "If the rear position lamp is category R2 (variable intensity): minimum luminous intensity 4∙10^0 cd (par. 4.8.3.1.(a)); maximum luminous intensity 4.2∙10^1 cd when used as a single lamp, or 2.1∙10^1 cd for a lamp marked \"D\" (par. 4.8.3.1.(b)); standard light distribution according to Figure A3-I; minimum luminous intensity of 5∙10^-2 cd within the angles of geometric visibility defined in Table A2-1."
+   },
+   "id": "R148-base-0078",
+   "source_node_ids": [
+    "R148|base|5.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 17,
+    "page_end": 17,
+    "paragraph": "5.2.1. Table 4"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 3,
+   "text": "The colour of light emitted by the rear position lamp shall be red.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|5.2.7"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|5.2.7"
+    ],
+    "table": null,
+    "text": "The colour of light emitted by the rear position lamp shall be red."
+   },
+   "id": "R148-base-0079",
+   "source_node_ids": [
+    "R148|base|5.2.7"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 17,
+    "page_end": 17,
+    "paragraph": "5.2.7"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 4,
+   "text": "The light emitted by each of the two samples of the stop lamp shall meet the requirements in Table 7.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|5.5.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|5.5.1"
+    ],
+    "table": null,
+    "text": "The light emitted by each of the two samples of the stop lamp shall meet the requirements in Table 7."
+   },
+   "id": "R148-base-0080",
+   "source_node_ids": [
+    "R148|base|5.5.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 19,
+    "page_end": 20,
+    "paragraph": "5.5.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 5,
+   "text": "If the stop lamp is category S1 (steady): minimum luminous intensity 6.0∙10^1 cd (par. 4.8.3.1.(a)); maximum luminous intensity 2.60∙10^2 cd when used as a single lamp, or 1.30∙10^2 cd for a lamp marked \"D\" (par. 4.8.3.1.(b)); standard light distribution according to Figure A3-I; minimum luminous intensity of 3∙10^-1 cd within the angles of geometric visibility defined in Table A2-1.",
+   "table": "7",
+   "cited_ids": [
+    "R148|base|5.5.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|5.5.1"
+    ],
+    "table": "7",
+    "text": "If the stop lamp is category S1 (steady): minimum luminous intensity 6.0∙10^1 cd (par. 4.8.3.1.(a)); maximum luminous intensity 2.60∙10^2 cd when used as a single lamp, or 1.30∙10^2 cd for a lamp marked \"D\" (par. 4.8.3.1.(b)); standard light distribution according to Figure A3-I; minimum luminous intensity of 3∙10^-1 cd within the angles of geometric visibility defined in Table A2-1."
+   },
+   "id": "R148-base-0081",
+   "source_node_ids": [
+    "R148|base|5.5.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 19,
+    "page_end": 20,
+    "paragraph": "5.5.1. Table 7"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 6,
+   "text": "If the stop lamp is category S2 (variable intensity): minimum luminous intensity 6.0∙10^1 cd (par. 4.8.3.1.(a)); maximum luminous intensity 7.30∙10^2 cd when used as a single lamp, or 3.65∙10^2 cd for a lamp marked \"D\" (par. 4.8.3.1.(b)); standard light distribution according to Figure A3-I; minimum luminous intensity within the angles of geometric visibility defined in Table A2-1 of 3∙10^-1 cd (day) and 7∙10^-2 cd (night).",
+   "table": "7",
+   "cited_ids": [
+    "R148|base|5.5.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|5.5.1"
+    ],
+    "table": "7",
+    "text": "If the stop lamp is category S2 (variable intensity): minimum luminous intensity 6.0∙10^1 cd (par. 4.8.3.1.(a)); maximum luminous intensity 7.30∙10^2 cd when used as a single lamp, or 3.65∙10^2 cd for a lamp marked \"D\" (par. 4.8.3.1.(b)); standard light distribution according to Figure A3-I; minimum luminous intensity within the angles of geometric visibility defined in Table A2-1 of 3∙10^-1 cd (day) and 7∙10^-2 cd (night)."
+   },
+   "id": "R148-base-0082",
+   "source_node_ids": [
+    "R148|base|5.5.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 19,
+    "page_end": 20,
+    "paragraph": "5.5.1. Table 7"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 7,
+   "text": "The colour of light emitted by the stop lamp shall be red.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|5.5.7"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|5.5.7"
+    ],
+    "table": null,
+    "text": "The colour of light emitted by the stop lamp shall be red."
+   },
+   "id": "R148-base-0083",
+   "source_node_ids": [
+    "R148|base|5.5.7"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 20,
+    "page_end": 20,
+    "paragraph": "5.5.7"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 8,
+   "text": "The light emitted by each of the two samples of the reversing lamp shall meet the requirements in Table 10. However, where the reversing lamp is intended to be installed on a vehicle exclusively in a pair of devices (reduced light distribution), the photometric intensity may be verified only up to an angle of 30° inwards, where a photometric value of at least 2.5∙10^1 cd shall be satisfied.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|5.8.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|5.8.1"
+    ],
+    "table": null,
+    "text": "The light emitted by each of the two samples of the reversing lamp shall meet the requirements in Table 10. However, where the reversing lamp is intended to be installed on a vehicle exclusively in a pair of devices (reduced light distribution), the photometric intensity may be verified only up to an angle of 30° inwards, where a photometric value of at least 2.5∙10^1 cd shall be satisfied."
+   },
+   "id": "R148-base-0084",
+   "source_node_ids": [
+    "R148|base|5.8.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 23,
+    "page_end": 23,
+    "paragraph": "5.8.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 9,
+   "text": "Reversing lamp category AR: minimum luminous intensity 8.0∙10^1 cd (par. 4.8.3.1.(a)); maximum luminous intensity (par. 4.8.3.1.(b)) 3.00∙10^2 cd in or above the h-plane, 6.00∙10^2 cd below the h-plane down to 5°D, and 8.00∙10^3 cd below 5°D; standard light distribution according to Figure A3-V; no requirement for angles of geometric visibility.",
+   "table": "10",
+   "cited_ids": [
+    "R148|base|5.8.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|5.8.1"
+    ],
+    "table": "10",
+    "text": "Reversing lamp category AR: minimum luminous intensity 8.0∙10^1 cd (par. 4.8.3.1.(a)); maximum luminous intensity (par. 4.8.3.1.(b)) 3.00∙10^2 cd in or above the h-plane, 6.00∙10^2 cd below the h-plane down to 5°D, and 8.00∙10^3 cd below 5°D; standard light distribution according to Figure A3-V; no requirement for angles of geometric visibility."
+   },
+   "id": "R148-base-0085",
+   "source_node_ids": [
+    "R148|base|5.8.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 23,
+    "page_end": 23,
+    "paragraph": "5.8.1. Table 10"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 10,
+   "text": "The colour of light emitted by the reversing lamp shall be white.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|5.8.7"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|5.8.7"
+    ],
+    "table": null,
+    "text": "The colour of light emitted by the reversing lamp shall be white."
+   },
+   "id": "R148-base-0086",
+   "source_node_ids": [
+    "R148|base|5.8.7"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 23,
+    "page_end": 23,
+    "paragraph": "5.8.7"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 11,
+   "text": "Lamps shall be so manufactured as to conform to the type approved under UN R148, with compliance with the requirements of paragraph 5 verified in conformity of production.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|6.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|6.1"
+    ],
+    "table": null,
+    "text": "Lamps shall be so manufactured as to conform to the type approved under UN R148, with compliance with the requirements of paragraph 5 verified in conformity of production."
+   },
+   "id": "R148-base-0087",
+   "source_node_ids": [
+    "R148|base|6.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 27,
+    "page_end": 27,
+    "paragraph": "6.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 12,
+   "text": "In conformity of production, no measured value of the lamp shall deviate unfavourably by more than 20 per cent from the values prescribed in UN R148; for the minimum values required throughout the fields specified in Annexes 2 and 3 the measured values shall correspond to the values shown in Table 12.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|6.1.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|6.1.3"
+    ],
+    "table": null,
+    "text": "In conformity of production, no measured value of the lamp shall deviate unfavourably by more than 20 per cent from the values prescribed in UN R148; for the minimum values required throughout the fields specified in Annexes 2 and 3 the measured values shall correspond to the values shown in Table 12."
+   },
+   "id": "R148-base-0088",
+   "source_node_ids": [
+    "R148|base|6.1.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 27,
+    "page_end": 27,
+    "paragraph": "6.1.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 13,
+   "text": "For conformity of production, measured values for minimum values required throughout the fields of Annexes 2 and 3 shall correspond to: required minimum 3∙10^-1 cd → 2∙10^-1 cd (20 per cent equivalent) / 1∙10^-1 cd (30 per cent equivalent); required minimum 7∙10^-2 cd → 5∙10^-2 cd (20 per cent) / 3∙10^-2 cd (30 per cent); required minimum 5∙10^-2 cd → 3∙10^-2 cd (20 per cent) / 2∙10^-2 cd (30 per cent).",
+   "table": "12",
+   "cited_ids": [
+    "R148|base|6.1.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|6.1.3"
+    ],
+    "table": "12",
+    "text": "For conformity of production, measured values for minimum values required throughout the fields of Annexes 2 and 3 shall correspond to: required minimum 3∙10^-1 cd → 2∙10^-1 cd (20 per cent equivalent) / 1∙10^-1 cd (30 per cent equivalent); required minimum 7∙10^-2 cd → 5∙10^-2 cd (20 per cent) / 3∙10^-2 cd (30 per cent); required minimum 5∙10^-2 cd → 3∙10^-2 cd (20 per cent) / 2∙10^-2 cd (30 per cent)."
+   },
+   "id": "R148-base-0089",
+   "source_node_ids": [
+    "R148|base|6.1.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 27,
+    "page_end": 27,
+    "paragraph": "6.1.3. Table 12"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-003",
+   "index_in_response": 0,
+   "text": "The rear position lamp (R1, R2) shall provide minimum horizontal angles of geometric visibility of 45° inboard / 80° outboard (angles shown for a lamp mounted on the right side of the vehicle); reduced angles of 20° inboard / 80° outboard are used only below the H-plane for lamps mounted with the H-plane below 750 mm.",
+   "table": "A2-1",
+   "cited_ids": [
+    "R148|base|Annex 2 0"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|Annex 2 0"
+    ],
+    "table": "A2-1",
+    "text": "The rear position lamp (R1, R2) shall provide minimum horizontal angles of geometric visibility of 45° inboard / 80° outboard (angles shown for a lamp mounted on the right side of the vehicle); reduced angles of 20° inboard / 80° outboard are used only below the H-plane for lamps mounted with the H-plane below 750 mm."
+   },
+   "id": "R148-base-0090",
+   "source_node_ids": [
+    "R148|base|Annex 2 0"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 32,
+    "page_end": 35,
+    "paragraph": "Annex 2 0. Table A2-1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-003",
+   "index_in_response": 1,
+   "text": "The rear position lamp (R1, R2) shall provide minimum vertical angles of geometric visibility of 15° above / 15° below the H-plane; for lamps to be installed with the H-plane at a mounting height of less than 750 mm, 15° above / 5° below.",
+   "table": "A2-1",
+   "cited_ids": [
+    "R148|base|Annex 2 0"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|Annex 2 0"
+    ],
+    "table": "A2-1",
+    "text": "The rear position lamp (R1, R2) shall provide minimum vertical angles of geometric visibility of 15° above / 15° below the H-plane; for lamps to be installed with the H-plane at a mounting height of less than 750 mm, 15° above / 5° below."
+   },
+   "id": "R148-base-0091",
+   "source_node_ids": [
+    "R148|base|Annex 2 0"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 32,
+    "page_end": 35,
+    "paragraph": "Annex 2 0. Table A2-1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-003",
+   "index_in_response": 2,
+   "text": "The stop lamp (S1, S2) shall provide minimum horizontal angles of geometric visibility of 45° inboard / 45° outboard (angles shown for a lamp mounted on the right side of the vehicle); reduced angles of 20° inboard / 45° outboard are used only below the H-plane for lamps mounted with the H-plane below 750 mm.",
+   "table": "A2-1",
+   "cited_ids": [
+    "R148|base|Annex 2 0"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|Annex 2 0"
+    ],
+    "table": "A2-1",
+    "text": "The stop lamp (S1, S2) shall provide minimum horizontal angles of geometric visibility of 45° inboard / 45° outboard (angles shown for a lamp mounted on the right side of the vehicle); reduced angles of 20° inboard / 45° outboard are used only below the H-plane for lamps mounted with the H-plane below 750 mm."
+   },
+   "id": "R148-base-0092",
+   "source_node_ids": [
+    "R148|base|Annex 2 0"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 32,
+    "page_end": 35,
+    "paragraph": "Annex 2 0. Table A2-1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-003",
+   "index_in_response": 3,
+   "text": "The stop lamp (S1, S2) shall provide minimum vertical angles of geometric visibility of 15° above / 15° below the H-plane; for lamps to be installed with the H-plane at a mounting height of less than 750 mm, 15° above / 5° below.",
+   "table": "A2-1",
+   "cited_ids": [
+    "R148|base|Annex 2 0"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|Annex 2 0"
+    ],
+    "table": "A2-1",
+    "text": "The stop lamp (S1, S2) shall provide minimum vertical angles of geometric visibility of 15° above / 15° below the H-plane; for lamps to be installed with the H-plane at a mounting height of less than 750 mm, 15° above / 5° below."
+   },
+   "id": "R148-base-0093",
+   "source_node_ids": [
+    "R148|base|Annex 2 0"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 32,
+    "page_end": 35,
+    "paragraph": "Annex 2 0. Table A2-1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-003",
+   "index_in_response": 4,
+   "text": "The rear position lamp and the stop lamp (S1, S2) shall meet, in each direction of measurement relative to the reference axis (H = 0°, V = 0°), the minimum intensities given in Figure A3-I (standard light distribution) as a percentage of the minimum intensities required (Tables 4 and 7), the resulting values being mathematically rounded down to three significant digits.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|Annex 3 2.1",
+    "R148|base|Annex 3 1.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|Annex 3 2.1",
+     "R148|base|Annex 3 1.1"
+    ],
+    "table": null,
+    "text": "The rear position lamp and the stop lamp (S1, S2) shall meet, in each direction of measurement relative to the reference axis (H = 0°, V = 0°), the minimum intensities given in Figure A3-I (standard light distribution) as a percentage of the minimum intensities required (Tables 4 and 7), the resulting values being mathematically rounded down to three significant digits."
+   },
+   "id": "R148-base-0094",
+   "source_node_ids": [
+    "R148|base|Annex 3 2.1",
+    "R148|base|Annex 3 1.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 36,
+    "page_end": 36,
+    "paragraph": "Annex 3 2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-003",
+   "index_in_response": 5,
+   "text": "Where the rear position lamp or the stop lamp (S1, S2) is intended to be installed at a mounting height (using the H plane specified by the manufacturer) equal to or less than 750 mm above the ground, its photometric intensity is verified only up to an angle of 5° downwards.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|Annex 3 1.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|Annex 3 1.1"
+    ],
+    "table": null,
+    "text": "Where the rear position lamp or the stop lamp (S1, S2) is intended to be installed at a mounting height (using the H plane specified by the manufacturer) equal to or less than 750 mm above the ground, its photometric intensity is verified only up to an angle of 5° downwards."
+   },
+   "id": "R148-base-0095",
+   "source_node_ids": [
+    "R148|base|Annex 3 1.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 35,
+    "page_end": 35,
+    "paragraph": "Annex 3 1.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-003",
+   "index_in_response": 6,
+   "text": "Within the field of light distribution shown as a grid, the light intensity of the rear position lamp and of the stop lamp in each direction of a part of the field formed by the grid lines shall meet at least the lowest minimum value shown as a percentage on the grid lines surrounding the questioned direction.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|Annex 3 1.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|Annex 3 1.2"
+    ],
+    "table": null,
+    "text": "Within the field of light distribution shown as a grid, the light intensity of the rear position lamp and of the stop lamp in each direction of a part of the field formed by the grid lines shall meet at least the lowest minimum value shown as a percentage on the grid lines surrounding the questioned direction."
+   },
+   "id": "R148-base-0096",
+   "source_node_ids": [
+    "R148|base|Annex 3 1.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 35,
+    "page_end": 36,
+    "paragraph": "Annex 3 1.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-003",
+   "index_in_response": 7,
+   "text": "For the reversing lamp, if visual examination appears to reveal substantial local variations of intensity, no intensity measured between two of the directions of measurement shall be below 50 per cent of the lower minimum intensity of the two prescribed for these directions of measurement.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|Annex 3 1.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|Annex 3 1.2"
+    ],
+    "table": null,
+    "text": "For the reversing lamp, if visual examination appears to reveal substantial local variations of intensity, no intensity measured between two of the directions of measurement shall be below 50 per cent of the lower minimum intensity of the two prescribed for these directions of measurement."
+   },
+   "id": "R148-base-0097",
+   "source_node_ids": [
+    "R148|base|Annex 3 1.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 35,
+    "page_end": 36,
+    "paragraph": "Annex 3 1.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-003",
+   "index_in_response": 8,
+   "text": "The reversing lamp shall meet, at the measuring points expressed in degrees of angle with the axis of reference, the minimum luminous intensities in cd given in Figure A3-V (standard light distribution for reversing lamps).",
+   "table": null,
+   "cited_ids": [
+    "R148|base|Annex 3 2.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|Annex 3 2.5"
+    ],
+    "table": null,
+    "text": "The reversing lamp shall meet, at the measuring points expressed in degrees of angle with the axis of reference, the minimum luminous intensities in cd given in Figure A3-V (standard light distribution for reversing lamps)."
+   },
+   "id": "R148-base-0098",
+   "source_node_ids": [
+    "R148|base|Annex 3 2.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 38,
+    "page_end": 38,
+    "paragraph": "Annex 3 2.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-003",
+   "index_in_response": 9,
+   "text": "Mass-produced lamps shall not differ from the approved type, from a mechanical and geometric standpoint, by more than inevitable manufacturing deviations within the requirements of this Regulation.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|Annex 4 1.1",
+    "R148|base|Annex 5 1.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|Annex 4 1.1",
+     "R148|base|Annex 5 1.1"
+    ],
+    "table": null,
+    "text": "Mass-produced lamps shall not differ from the approved type, from a mechanical and geometric standpoint, by more than inevitable manufacturing deviations within the requirements of this Regulation."
+   },
+   "id": "R148-base-0099",
+   "source_node_ids": [
+    "R148|base|Annex 4 1.1",
+    "R148|base|Annex 5 1.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 42,
+    "page_end": 43,
+    "paragraph": "Annex 4 1.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-003",
+   "index_in_response": 10,
+   "text": "When the photometric performances of any mass-produced lamp chosen at random are tested according to paragraph 4.8., no measured value shall deviate from the values prescribed in paragraph 6.1.3. of this Regulation.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|Annex 5 1.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|Annex 5 1.2"
+    ],
+    "table": null,
+    "text": "When the photometric performances of any mass-produced lamp chosen at random are tested according to paragraph 4.8., no measured value shall deviate from the values prescribed in paragraph 6.1.3. of this Regulation."
+   },
+   "id": "R148-base-0100",
+   "source_node_ids": [
+    "R148|base|Annex 5 1.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 43,
+    "page_end": 43,
+    "paragraph": "Annex 5 1.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-003",
+   "index_in_response": 11,
+   "text": "Mass-produced lamps shall comply with the chromaticity coordinates when tested under the conditions of paragraph 4.9. of this Regulation.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|Annex 4 1.3",
+    "R148|base|Annex 5 1.4"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|Annex 4 1.3",
+     "R148|base|Annex 5 1.4"
+    ],
+    "table": null,
+    "text": "Mass-produced lamps shall comply with the chromaticity coordinates when tested under the conditions of paragraph 4.9. of this Regulation."
+   },
+   "id": "R148-base-0101",
+   "source_node_ids": [
+    "R148|base|Annex 4 1.3",
+    "R148|base|Annex 5 1.4"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 42,
+    "page_end": 44,
+    "paragraph": "Annex 4 1.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-003",
+   "index_in_response": 12,
+   "text": "For the reversing lamp using light source technology other than incandescent (LED), the luminous intensities measured after 1 minute and after 10 minutes of operation shall comply with the minimum and maximum requirements; the distribution after 1 and 10 minutes may be calculated from the distribution measured after photometric stability by applying at each test point the ratio of the intensities measured at HV after 1 minute, after 10 minutes and after photometric stability.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|Annex 8 1.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|Annex 8 1.2.1"
+    ],
+    "table": null,
+    "text": "For the reversing lamp using light source technology other than incandescent (LED), the luminous intensities measured after 1 minute and after 10 minutes of operation shall comply with the minimum and maximum requirements; the distribution after 1 and 10 minutes may be calculated from the distribution measured after photometric stability by applying at each test point the ratio of the intensities measured at HV after 1 minute, after 10 minutes and after photometric stability."
+   },
+   "id": "R148-base-0102",
+   "source_node_ids": [
+    "R148|base|Annex 8 1.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 47,
+    "page_end": 47,
+    "paragraph": "Annex 8 1.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-003",
+   "index_in_response": 13,
+   "text": "For the rear position lamp and the stop lamp using light source technology other than incandescent (LED), the luminous intensities measured after 1 minute and either after 30 minutes of operation or after photometric stability has occurred shall comply with the minimum and maximum requirements; the distribution after 1 minute may be calculated from the distribution after 30 minutes or after photometric stabilization by applying at each test point the ratio of the intensities measured at HV.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|Annex 8 1.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|Annex 8 1.2.2"
+    ],
+    "table": null,
+    "text": "For the rear position lamp and the stop lamp using light source technology other than incandescent (LED), the luminous intensities measured after 1 minute and either after 30 minutes of operation or after photometric stability has occurred shall comply with the minimum and maximum requirements; the distribution after 1 minute may be calculated from the distribution after 30 minutes or after photometric stabilization by applying at each test point the ratio of the intensities measured at HV."
+   },
+   "id": "R148-base-0103",
+   "source_node_ids": [
+    "R148|base|Annex 8 1.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 47,
+    "page_end": 47,
+    "paragraph": "Annex 8 1.2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-003",
+   "index_in_response": 14,
+   "text": "The luminous intensity distribution of the rear position lamp shall additionally comply at 4 seconds after switch ON (reference coordinate HV); a lamp (function) using LED technology only is deemed to comply at all points in time if the values measured according to Annex 8 paragraph 1.2. are compliant.",
+   "table": "A8-1",
+   "cited_ids": [
+    "R148|base|Annex 8 2.1",
+    "R148|base|Annex 8 2.1.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|Annex 8 2.1",
+     "R148|base|Annex 8 2.1.2"
+    ],
+    "table": "A8-1",
+    "text": "The luminous intensity distribution of the rear position lamp shall additionally comply at 4 seconds after switch ON (reference coordinate HV); a lamp (function) using LED technology only is deemed to comply at all points in time if the values measured according to Annex 8 paragraph 1.2. are compliant."
+   },
+   "id": "R148-base-0104",
+   "source_node_ids": [
+    "R148|base|Annex 8 2.1",
+    "R148|base|Annex 8 2.1.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 47,
+    "page_end": 48,
+    "paragraph": "Annex 8 2.1. Table A8-1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-003",
+   "index_in_response": 15,
+   "text": "The luminous intensity distribution of the stop lamp shall additionally comply at 0.2 seconds after switch ON (reference coordinate HV); a lamp (function) using LED technology only is deemed to comply at all points in time if the values measured according to Annex 8 paragraph 1.2. are compliant.",
+   "table": "A8-1",
+   "cited_ids": [
+    "R148|base|Annex 8 2.1",
+    "R148|base|Annex 8 2.1.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|Annex 8 2.1",
+     "R148|base|Annex 8 2.1.2"
+    ],
+    "table": "A8-1",
+    "text": "The luminous intensity distribution of the stop lamp shall additionally comply at 0.2 seconds after switch ON (reference coordinate HV); a lamp (function) using LED technology only is deemed to comply at all points in time if the values measured according to Annex 8 paragraph 1.2. are compliant."
+   },
+   "id": "R148-base-0105",
+   "source_node_ids": [
+    "R148|base|Annex 8 2.1",
+    "R148|base|Annex 8 2.1.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 47,
+    "page_end": 48,
+    "paragraph": "Annex 8 2.1. Table A8-1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-003",
+   "index_in_response": 16,
+   "text": "The luminous intensity distribution of the reversing lamp shall additionally comply at 0.2 seconds after switch ON (reference coordinate HV); a lamp (function) using LED technology only is deemed to comply at all points in time if the values measured according to Annex 8 paragraph 1.2. are compliant.",
+   "table": "A8-1",
+   "cited_ids": [
+    "R148|base|Annex 8 2.1",
+    "R148|base|Annex 8 2.1.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|Annex 8 2.1",
+     "R148|base|Annex 8 2.1.2"
+    ],
+    "table": "A8-1",
+    "text": "The luminous intensity distribution of the reversing lamp shall additionally comply at 0.2 seconds after switch ON (reference coordinate HV); a lamp (function) using LED technology only is deemed to comply at all points in time if the values measured according to Annex 8 paragraph 1.2. are compliant."
+   },
+   "id": "R148-base-0106",
+   "source_node_ids": [
+    "R148|base|Annex 8 2.1",
+    "R148|base|Annex 8 2.1.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 47,
+    "page_end": 48,
+    "paragraph": "Annex 8 2.1. Table A8-1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-003",
+   "index_in_response": 17,
+   "text": "In case of doubt (e.g. unexpected run-up behaviour), each lamp function shall comply with its minimum intensity requirements at all points in time starting at the corresponding point in time listed in Table A8-1 and ending when photometric stability is reached.",
+   "table": null,
+   "cited_ids": [
+    "R148|base|Annex 8 2.1.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R148|base|Annex 8 2.1.5"
+    ],
+    "table": null,
+    "text": "In case of doubt (e.g. unexpected run-up behaviour), each lamp function shall comply with its minimum intensity requirements at all points in time starting at the corresponding point in time listed in Table A8-1 and ending when photometric stability is reached."
+   },
+   "id": "R148-base-0107",
+   "source_node_ids": [
+    "R148|base|Annex 8 2.1.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "role": "base",
+    "page": 48,
+    "page_end": 48,
+    "paragraph": "Annex 8 2.1.5"
+   },
+   "possible_duplicate_of": null
+  }
+ ],
+ "flagged": []
+}

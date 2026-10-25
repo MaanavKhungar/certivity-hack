@@ -1,0 +1,2144 @@
+{
+ "candidates": [
+  {
+   "batch": "B-001",
+   "index_in_response": 0,
+   "text": "Because the ESA is (part of) a light source (LED modules), the documentation specified in paragraph 3.2.10 shall be provided; if it is missing, approval of this ESA according to Regulation No. 10 shall not be granted.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|4.2.4"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|4.2.4"
+    ],
+    "table": null,
+    "text": "Because the ESA is (part of) a light source (LED modules), the documentation specified in paragraph 3.2.10 shall be provided; if it is missing, approval of this ESA according to Regulation No. 10 shall not be granted."
+   },
+   "id": "R10-base-0001",
+   "source_node_ids": [
+    "R10|base|4.2.4"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "4.2.4"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 1,
+   "text": "An approval mark as described in paragraph 5.3 shall be affixed to every ESA (rear lamp) conforming to a type approved under Regulation No. 10.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|5.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|5.2.2"
+    ],
+    "table": null,
+    "text": "An approval mark as described in paragraph 5.3 shall be affixed to every ESA (rear lamp) conforming to a type approved under Regulation No. 10."
+   },
+   "id": "R10-base-0002",
+   "source_node_ids": [
+    "R10|base|5.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "5.2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 2,
+   "text": "The international approval mark on the ESA shall be affixed in a conspicuous and easily accessible place specified on the approval communication form.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|5.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|5.3"
+    ],
+    "table": null,
+    "text": "The international approval mark on the ESA shall be affixed in a conspicuous and easily accessible place specified on the approval communication form."
+   },
+   "id": "R10-base-0003",
+   "source_node_ids": [
+    "R10|base|5.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "5.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 3,
+   "text": "The approval mark on the ESA shall comprise a circle containing the letter \"E\", followed by the distinguishing number of the country granting the approval.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|5.3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|5.3.1"
+    ],
+    "table": null,
+    "text": "The approval mark on the ESA shall comprise a circle containing the letter \"E\", followed by the distinguishing number of the country granting the approval."
+   },
+   "id": "R10-base-0004",
+   "source_node_ids": [
+    "R10|base|5.3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "5.3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 4,
+   "text": "The approval mark on the ESA shall comprise the number of this Regulation (10), followed by the letter \"R\", a dash and the approval number, placed to the right of the circle specified in paragraph 5.3.1.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|5.3.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|5.3.2"
+    ],
+    "table": null,
+    "text": "The approval mark on the ESA shall comprise the number of this Regulation (10), followed by the letter \"R\", a dash and the approval number, placed to the right of the circle specified in paragraph 5.3.1."
+   },
+   "id": "R10-base-0005",
+   "source_node_ids": [
+    "R10|base|5.3.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "5.3.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 5,
+   "text": "The approval marking on the ESA in conformity with paragraph 5.3 need not be visible when the ESA (rear lamp) is installed in the vehicle.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|5.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|5.5"
+    ],
+    "table": null,
+    "text": "The approval marking on the ESA in conformity with paragraph 5.3 need not be visible when the ESA (rear lamp) is installed in the vehicle."
+   },
+   "id": "R10-base-0006",
+   "source_node_ids": [
+    "R10|base|5.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "5.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 6,
+   "text": "The ESA (rear lamp with LED modules on PCB) shall be designed, constructed and fitted in such a way as to enable the vehicle, in normal conditions of use, to comply with the requirements of Regulation No. 10.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.1.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.1.1"
+    ],
+    "table": null,
+    "text": "The ESA (rear lamp with LED modules on PCB) shall be designed, constructed and fitted in such a way as to enable the vehicle, in normal conditions of use, to comply with the requirements of Regulation No. 10."
+   },
+   "id": "R10-base-0007",
+   "source_node_ids": [
+    "R10|base|6.1.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "6.1.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 7,
+   "text": "The ESA shall be tested for radiated and conducted emissions and for immunity to radiated and conducted disturbances.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.1.1.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.1.1.2"
+    ],
+    "table": null,
+    "text": "The ESA shall be tested for radiated and conducted emissions and for immunity to radiated and conducted disturbances."
+   },
+   "id": "R10-base-0008",
+   "source_node_ids": [
+    "R10|base|6.1.1.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 9,
+    "page_end": 9,
+    "paragraph": "6.1.1.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 8,
+   "text": "The broadband electromagnetic radiation generated by the ESA representative of its type shall be measured by the method described in Annex 7.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.5.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.5.1"
+    ],
+    "table": null,
+    "text": "The broadband electromagnetic radiation generated by the ESA representative of its type shall be measured by the method described in Annex 7."
+   },
+   "id": "R10-base-0009",
+   "source_node_ids": [
+    "R10|base|6.5.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 10,
+    "page_end": 10,
+    "paragraph": "6.5.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 9,
+   "text": "When measured using the method of Annex 7, the ESA broadband emission limits shall be 62 to 52 dBµV/m in the 30 to 75 MHz band, decreasing logarithmically with frequency above 30 MHz, and 52 to 63 dBµV/m in the 75 to 400 MHz band, increasing logarithmically with frequency above 75 MHz, as shown in Appendix 6.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.5.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.5.2.1"
+    ],
+    "table": null,
+    "text": "When measured using the method of Annex 7, the ESA broadband emission limits shall be 62 to 52 dBµV/m in the 30 to 75 MHz band, decreasing logarithmically with frequency above 30 MHz, and 52 to 63 dBµV/m in the 75 to 400 MHz band, increasing logarithmically with frequency above 75 MHz, as shown in Appendix 6."
+   },
+   "id": "R10-base-0010",
+   "source_node_ids": [
+    "R10|base|6.5.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 10,
+    "page_end": 10,
+    "paragraph": "6.5.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 10,
+   "text": "When measured using the method of Annex 7, the ESA broadband emission limit shall remain constant at 63 dBµV/m in the 400 to 1,000 MHz band.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.5.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.5.2.1"
+    ],
+    "table": null,
+    "text": "When measured using the method of Annex 7, the ESA broadband emission limit shall remain constant at 63 dBµV/m in the 400 to 1,000 MHz band."
+   },
+   "id": "R10-base-0011",
+   "source_node_ids": [
+    "R10|base|6.5.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 10,
+    "page_end": 10,
+    "paragraph": "6.5.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 11,
+   "text": "On the ESA representative of its type, the measured broadband emission values, expressed in dBµV/m, shall be below the type approval limits.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.5.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.5.2.2"
+    ],
+    "table": null,
+    "text": "On the ESA representative of its type, the measured broadband emission values, expressed in dBµV/m, shall be below the type approval limits."
+   },
+   "id": "R10-base-0012",
+   "source_node_ids": [
+    "R10|base|6.5.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 10,
+    "page_end": 10,
+    "paragraph": "6.5.2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 12,
+   "text": "ESA broadband reference limit E (dBµV/m) at frequency F (MHz) for a 120 kHz bandwidth: 30-75 MHz: E = 62 - 25.13 log(F/30); 75-400 MHz: E = 52 + 15.13 log(F/75); 400-1,000 MHz: E = 63.",
+   "table": "Appendix 6",
+   "cited_ids": [
+    "R10|base|23"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|23"
+    ],
+    "table": "Appendix 6",
+    "text": "ESA broadband reference limit E (dBµV/m) at frequency F (MHz) for a 120 kHz bandwidth: 30-75 MHz: E = 62 - 25.13 log(F/30); 75-400 MHz: E = 52 + 15.13 log(F/75); 400-1,000 MHz: E = 63."
+   },
+   "id": "R10-base-0013",
+   "source_node_ids": [
+    "R10|base|23"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 29,
+    "page_end": 44,
+    "paragraph": "23. Table Appendix 6"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 13,
+   "text": "If the LED drive electronics include an electronic oscillator with an operating frequency greater than 9 kHz (active driver), the narrowband electromagnetic radiation generated by the ESA representative of its type shall be measured by the method described in Annex 8.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.6.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.6.1"
+    ],
+    "table": null,
+    "text": "If the LED drive electronics include an electronic oscillator with an operating frequency greater than 9 kHz (active driver), the narrowband electromagnetic radiation generated by the ESA representative of its type shall be measured by the method described in Annex 8."
+   },
+   "id": "R10-base-0014",
+   "source_node_ids": [
+    "R10|base|6.6.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 10,
+    "page_end": 10,
+    "paragraph": "6.6.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 14,
+   "text": "If the LED drive electronics include an electronic oscillator above 9 kHz (active driver), when measured using the method of Annex 8 the ESA narrowband emission limits shall be 52 to 42 dBµV/m in the 30 to 75 MHz band, decreasing logarithmically with frequency above 30 MHz, and 42 to 53 dBµV/m in the 75 to 400 MHz band, increasing logarithmically with frequency above 75 MHz, as shown in Appendix 7.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.6.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.6.2.1"
+    ],
+    "table": null,
+    "text": "If the LED drive electronics include an electronic oscillator above 9 kHz (active driver), when measured using the method of Annex 8 the ESA narrowband emission limits shall be 52 to 42 dBµV/m in the 30 to 75 MHz band, decreasing logarithmically with frequency above 30 MHz, and 42 to 53 dBµV/m in the 75 to 400 MHz band, increasing logarithmically with frequency above 75 MHz, as shown in Appendix 7."
+   },
+   "id": "R10-base-0015",
+   "source_node_ids": [
+    "R10|base|6.6.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 10,
+    "page_end": 10,
+    "paragraph": "6.6.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 15,
+   "text": "If the LED drive electronics include an electronic oscillator above 9 kHz (active driver), when measured using the method of Annex 8 the ESA narrowband emission limit shall remain constant at 53 dBµV/m in the 400 to 1,000 MHz band.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.6.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.6.2.1"
+    ],
+    "table": null,
+    "text": "If the LED drive electronics include an electronic oscillator above 9 kHz (active driver), when measured using the method of Annex 8 the ESA narrowband emission limit shall remain constant at 53 dBµV/m in the 400 to 1,000 MHz band."
+   },
+   "id": "R10-base-0016",
+   "source_node_ids": [
+    "R10|base|6.6.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 10,
+    "page_end": 10,
+    "paragraph": "6.6.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 16,
+   "text": "If the LED drive electronics include an electronic oscillator above 9 kHz (active driver), on the ESA representative of its type the measured narrowband emission value, expressed in dBµV/m, shall be below the type approval limits.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.6.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.6.2.2"
+    ],
+    "table": null,
+    "text": "If the LED drive electronics include an electronic oscillator above 9 kHz (active driver), on the ESA representative of its type the measured narrowband emission value, expressed in dBµV/m, shall be below the type approval limits."
+   },
+   "id": "R10-base-0017",
+   "source_node_ids": [
+    "R10|base|6.6.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 10,
+    "page_end": 10,
+    "paragraph": "6.6.2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 17,
+   "text": "If the LED drive electronics include an electronic oscillator above 9 kHz (active driver), ESA narrowband reference limit E (dBµV/m) at frequency F (MHz) for a 120 kHz bandwidth: 30-75 MHz: E = 52 - 25.13 log(F/30); 75-400 MHz: E = 42 + 15.13 log(F/75); 400-1,000 MHz: E = 53.",
+   "table": "Appendix 7",
+   "cited_ids": [
+    "R10|base|23"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|23"
+    ],
+    "table": "Appendix 7",
+    "text": "If the LED drive electronics include an electronic oscillator above 9 kHz (active driver), ESA narrowband reference limit E (dBµV/m) at frequency F (MHz) for a 120 kHz bandwidth: 30-75 MHz: E = 52 - 25.13 log(F/30); 75-400 MHz: E = 42 + 15.13 log(F/75); 400-1,000 MHz: E = 53."
+   },
+   "id": "R10-base-0018",
+   "source_node_ids": [
+    "R10|base|23"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 29,
+    "page_end": 44,
+    "paragraph": "23. Table Appendix 7"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 18,
+   "text": "If the ESA does not include an electronic oscillator with an operating frequency greater than 9 kHz (e.g. passive resistor/linear LED drive), it shall be deemed to comply with the narrowband emission requirements of paragraph 6.6.2 and Annex 8.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.10.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.10.1"
+    ],
+    "table": null,
+    "text": "If the ESA does not include an electronic oscillator with an operating frequency greater than 9 kHz (e.g. passive resistor/linear LED drive), it shall be deemed to comply with the narrowband emission requirements of paragraph 6.6.2 and Annex 8."
+   },
+   "id": "R10-base-0019",
+   "source_node_ids": [
+    "R10|base|6.10.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 12,
+    "page_end": 13,
+    "paragraph": "6.10.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 19,
+   "text": "The emission of transient conducted disturbances generated by the ESA on 12/24 V supply lines shall be tested by the method(s) according to ISO 7637-2 as described in Annex 10 for the levels given in Table 1.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.7.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.7.1"
+    ],
+    "table": null,
+    "text": "The emission of transient conducted disturbances generated by the ESA on 12/24 V supply lines shall be tested by the method(s) according to ISO 7637-2 as described in Annex 10 for the levels given in Table 1."
+   },
+   "id": "R10-base-0020",
+   "source_node_ids": [
+    "R10|base|6.7.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 10,
+    "page_end": 11,
+    "paragraph": "6.7.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 20,
+   "text": "The transient conducted emission pulse amplitude of the ESA shall not exceed: positive +75 V and negative -100 V for vehicles with 12 V systems; positive +150 V and negative -450 V for vehicles with 24 V systems.",
+   "table": "1",
+   "cited_ids": [
+    "R10|base|6.7.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.7.1"
+    ],
+    "table": "1",
+    "text": "The transient conducted emission pulse amplitude of the ESA shall not exceed: positive +75 V and negative -100 V for vehicles with 12 V systems; positive +150 V and negative -450 V for vehicles with 24 V systems."
+   },
+   "id": "R10-base-0021",
+   "source_node_ids": [
+    "R10|base|6.7.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 10,
+    "page_end": 11,
+    "paragraph": "6.7.1. Table 1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 21,
+   "text": "If the ESA is not switched, contains no switches or does not include an inductive load, it need not be tested for transient conducted emission on 12/24 V supply lines and shall be deemed to comply with paragraph 6.7.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.10.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.10.5"
+    ],
+    "table": null,
+    "text": "If the ESA is not switched, contains no switches or does not include an inductive load, it need not be tested for transient conducted emission on 12/24 V supply lines and shall be deemed to comply with paragraph 6.7."
+   },
+   "id": "R10-base-0022",
+   "source_node_ids": [
+    "R10|base|6.10.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 13,
+    "page_end": 13,
+    "paragraph": "6.10.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 22,
+   "text": "The immunity to electromagnetic radiation of the ESA representative of its type shall be tested by the method(s) chosen from those described in Annex 9 (stripline, TEM cell, BCI, ALSE or reverberation chamber).",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.8.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.8.1"
+    ],
+    "table": null,
+    "text": "The immunity to electromagnetic radiation of the ESA representative of its type shall be tested by the method(s) chosen from those described in Annex 9 (stripline, TEM cell, BCI, ALSE or reverberation chamber)."
+   },
+   "id": "R10-base-0023",
+   "source_node_ids": [
+    "R10|base|6.8.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 11,
+    "page_end": 11,
+    "paragraph": "6.8.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 23,
+   "text": "The ESA shall be subjected, in over 90 per cent of the 20 to 6,000 MHz frequency band, to the test severity of Table 2a for the chosen method: stripline 60 V/m (20-400 MHz); TEM cell 75 V/m (20-200 MHz); BCI 60 mA (20-400 MHz); ALSE 30 V/m (80-2,000 MHz) and 10 V/m (2,000-6,000 MHz); reverberation chamber 21 V/m (LUF-2,000 MHz) and 7 V/m (2,000-6,000 MHz).",
+   "table": "2a",
+   "cited_ids": [
+    "R10|base|6.8.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.8.2.1"
+    ],
+    "table": "2a",
+    "text": "The ESA shall be subjected, in over 90 per cent of the 20 to 6,000 MHz frequency band, to the test severity of Table 2a for the chosen method: stripline 60 V/m (20-400 MHz); TEM cell 75 V/m (20-200 MHz); BCI 60 mA (20-400 MHz); ALSE 30 V/m (80-2,000 MHz) and 10 V/m (2,000-6,000 MHz); reverberation chamber 21 V/m (LUF-2,000 MHz) and 7 V/m (2,000-6,000 MHz)."
+   },
+   "id": "R10-base-0024",
+   "source_node_ids": [
+    "R10|base|6.8.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 11,
+    "page_end": 12,
+    "paragraph": "6.8.2.1. Table 2a"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 24,
+   "text": "The ESA shall be subjected, over the whole 20 to 6,000 MHz frequency band, to at least the minimum test level of Table 2b for the chosen method: stripline 50 V/m (20-400 MHz); TEM cell 62.5 V/m (20-200 MHz); BCI 50 mA (20-400 MHz); ALSE 25 V/m (80-2,000 MHz) and 8 V/m (2,000-6,000 MHz); reverberation chamber 18 V/m (LUF-2,000 MHz) and 6 V/m (2,000-6,000 MHz).",
+   "table": "2b",
+   "cited_ids": [
+    "R10|base|6.8.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.8.2.1"
+    ],
+    "table": "2b",
+    "text": "The ESA shall be subjected, over the whole 20 to 6,000 MHz frequency band, to at least the minimum test level of Table 2b for the chosen method: stripline 50 V/m (20-400 MHz); TEM cell 62.5 V/m (20-200 MHz); BCI 50 mA (20-400 MHz); ALSE 25 V/m (80-2,000 MHz) and 8 V/m (2,000-6,000 MHz); reverberation chamber 18 V/m (LUF-2,000 MHz) and 6 V/m (2,000-6,000 MHz)."
+   },
+   "id": "R10-base-0025",
+   "source_node_ids": [
+    "R10|base|6.8.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 11,
+    "page_end": 12,
+    "paragraph": "6.8.2.1. Table 2b"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 25,
+   "text": "During the radiated immunity tests performed in accordance with Annex 9, there shall be no degradation of performance of the ESA's immunity related functions (stop lamp and rear position lamp).",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.8.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.8.2.2"
+    ],
+    "table": null,
+    "text": "During the radiated immunity tests performed in accordance with Annex 9, there shall be no degradation of performance of the ESA's immunity related functions (stop lamp and rear position lamp)."
+   },
+   "id": "R10-base-0026",
+   "source_node_ids": [
+    "R10|base|6.8.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 12,
+    "page_end": 12,
+    "paragraph": "6.8.2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 26,
+   "text": "The immunity of the ESA to transient disturbances conducted along 12/24 V supply lines shall be tested by the method(s) according to ISO 16750-2 for the starting profile and ISO 7637-2 for pulses 1, 2a, 2b, 3a and 3b, as described in Annex 10, with the test levels given in Tables 3a and 3b.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.9.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.9.1"
+    ],
+    "table": null,
+    "text": "The immunity of the ESA to transient disturbances conducted along 12/24 V supply lines shall be tested by the method(s) according to ISO 16750-2 for the starting profile and ISO 7637-2 for pulses 1, 2a, 2b, 3a and 3b, as described in Annex 10, with the test levels given in Tables 3a and 3b."
+   },
+   "id": "R10-base-0027",
+   "source_node_ids": [
+    "R10|base|6.9.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 12,
+    "page_end": 12,
+    "paragraph": "6.9.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 27,
+   "text": "The starting profile immunity test of the ESA shall be assessed according to the functional status classification defined in ISO 16750-1.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.9.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.9.1"
+    ],
+    "table": null,
+    "text": "The starting profile immunity test of the ESA shall be assessed according to the functional status classification defined in ISO 16750-1."
+   },
+   "id": "R10-base-0028",
+   "source_node_ids": [
+    "R10|base|6.9.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 12,
+    "page_end": 12,
+    "paragraph": "6.9.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 28,
+   "text": "The Functional Performance Status Classification (FPSC) of ISO 7637-1 shall be applied to the ESA for pulses 1, 2a, 2b, 3a and 3b.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.9.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.9.1"
+    ],
+    "table": null,
+    "text": "The Functional Performance Status Classification (FPSC) of ISO 7637-1 shall be applied to the ESA for pulses 1, 2a, 2b, 3a and 3b."
+   },
+   "id": "R10-base-0029",
+   "source_node_ids": [
+    "R10|base|6.9.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 12,
+    "page_end": 12,
+    "paragraph": "6.9.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 29,
+   "text": "If the ESA could be installed in vehicles with internal combustion engines started with a 12 V/24 V starter motor, it shall withstand the starting profile at immunity test level II (12 V system and 24 V system), 10 pulses, with functional status B for immunity related functions (stop lamp, rear position lamp) if the ESA shall be operational during engine start phases or C for other ESA, and functional status D for functions not related to immunity related functions (e.g. reversing lamp).",
+   "table": "3a",
+   "cited_ids": [
+    "R10|base|6.9.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.9.1"
+    ],
+    "table": "3a",
+    "text": "If the ESA could be installed in vehicles with internal combustion engines started with a 12 V/24 V starter motor, it shall withstand the starting profile at immunity test level II (12 V system and 24 V system), 10 pulses, with functional status B for immunity related functions (stop lamp, rear position lamp) if the ESA shall be operational during engine start phases or C for other ESA, and functional status D for functions not related to immunity related functions (e.g. reversing lamp)."
+   },
+   "id": "R10-base-0030",
+   "source_node_ids": [
+    "R10|base|6.9.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 12,
+    "page_end": 12,
+    "paragraph": "6.9.1. Table 3a"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 30,
+   "text": "The ESA shall withstand test pulse 1 at -75 V (12 V system) or -450 V (24 V system), 500 pulses, with FPSC III for immunity related functions and FPSC III for functions not related to immunity related functions.",
+   "table": "3b",
+   "cited_ids": [
+    "R10|base|6.9.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.9.1"
+    ],
+    "table": "3b",
+    "text": "The ESA shall withstand test pulse 1 at -75 V (12 V system) or -450 V (24 V system), 500 pulses, with FPSC III for immunity related functions and FPSC III for functions not related to immunity related functions."
+   },
+   "id": "R10-base-0031",
+   "source_node_ids": [
+    "R10|base|6.9.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 12,
+    "page_end": 12,
+    "paragraph": "6.9.1. Table 3b"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 31,
+   "text": "The ESA shall withstand test pulse 2a at +37 V (12 V system) or +37 V (24 V system), 500 pulses, with FPSC I for immunity related functions (stop lamp, rear position lamp) and FPSC III for functions not related to immunity related functions.",
+   "table": "3b",
+   "cited_ids": [
+    "R10|base|6.9.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.9.1"
+    ],
+    "table": "3b",
+    "text": "The ESA shall withstand test pulse 2a at +37 V (12 V system) or +37 V (24 V system), 500 pulses, with FPSC I for immunity related functions (stop lamp, rear position lamp) and FPSC III for functions not related to immunity related functions."
+   },
+   "id": "R10-base-0032",
+   "source_node_ids": [
+    "R10|base|6.9.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 12,
+    "page_end": 12,
+    "paragraph": "6.9.1. Table 3b"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 32,
+   "text": "The ESA shall withstand test pulse 2b at +10 V (12 V system) or +20 V (24 V system), 10 pulses, with FPSC II for immunity related functions (stop lamp, rear position lamp) and FPSC III for functions not related to immunity related functions.",
+   "table": "3b",
+   "cited_ids": [
+    "R10|base|6.9.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.9.1"
+    ],
+    "table": "3b",
+    "text": "The ESA shall withstand test pulse 2b at +10 V (12 V system) or +20 V (24 V system), 10 pulses, with FPSC II for immunity related functions (stop lamp, rear position lamp) and FPSC III for functions not related to immunity related functions."
+   },
+   "id": "R10-base-0033",
+   "source_node_ids": [
+    "R10|base|6.9.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 12,
+    "page_end": 12,
+    "paragraph": "6.9.1. Table 3b"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 33,
+   "text": "The ESA shall withstand test pulse 3a at -112 V (12 V system) or -150 V (24 V system), test duration 1 h, with FPSC I for immunity related functions (stop lamp, rear position lamp) and FPSC III for functions not related to immunity related functions.",
+   "table": "3b",
+   "cited_ids": [
+    "R10|base|6.9.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.9.1"
+    ],
+    "table": "3b",
+    "text": "The ESA shall withstand test pulse 3a at -112 V (12 V system) or -150 V (24 V system), test duration 1 h, with FPSC I for immunity related functions (stop lamp, rear position lamp) and FPSC III for functions not related to immunity related functions."
+   },
+   "id": "R10-base-0034",
+   "source_node_ids": [
+    "R10|base|6.9.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 12,
+    "page_end": 12,
+    "paragraph": "6.9.1. Table 3b"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 34,
+   "text": "The ESA shall withstand test pulse 3b at +75 V (12 V system) or +150 V (24 V system), test duration 1 h, with FPSC I for immunity related functions (stop lamp, rear position lamp) and FPSC III for functions not related to immunity related functions.",
+   "table": "3b",
+   "cited_ids": [
+    "R10|base|6.9.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.9.1"
+    ],
+    "table": "3b",
+    "text": "The ESA shall withstand test pulse 3b at +75 V (12 V system) or +150 V (24 V system), test duration 1 h, with FPSC I for immunity related functions (stop lamp, rear position lamp) and FPSC III for functions not related to immunity related functions."
+   },
+   "id": "R10-base-0035",
+   "source_node_ids": [
+    "R10|base|6.9.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 12,
+    "page_end": 12,
+    "paragraph": "6.9.1. Table 3b"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 35,
+   "text": "ESAs approved under Regulation No. 10 shall be so manufactured as to conform to the type approved by meeting the requirements set forth in paragraph 6.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|9.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|9.1"
+    ],
+    "table": null,
+    "text": "ESAs approved under Regulation No. 10 shall be so manufactured as to conform to the type approved by meeting the requirements set forth in paragraph 6."
+   },
+   "id": "R10-base-0036",
+   "source_node_ids": [
+    "R10|base|9.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 25,
+    "page_end": 25,
+    "paragraph": "9.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 36,
+   "text": "For conformity of production, the broadband and narrowband electromagnetic disturbance levels measured on an ESA taken from the series shall not exceed by more than 4 dB (60 per cent) the reference limits prescribed in paragraphs 6.5.2.1 and 6.6.2.1 (as appropriate).",
+   "table": null,
+   "cited_ids": [
+    "R10|base|9.3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|9.3.1"
+    ],
+    "table": null,
+    "text": "For conformity of production, the broadband and narrowband electromagnetic disturbance levels measured on an ESA taken from the series shall not exceed by more than 4 dB (60 per cent) the reference limits prescribed in paragraphs 6.5.2.1 and 6.6.2.1 (as appropriate)."
+   },
+   "id": "R10-base-0037",
+   "source_node_ids": [
+    "R10|base|9.3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 26,
+    "page_end": 26,
+    "paragraph": "9.3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 37,
+   "text": "For conformity of production, an ESA taken from the series shall not exhibit any degradation relating to the direct control of the vehicle which could be observed by the driver or other road user when subjected to a field strength up to 80 per cent of the reference limits prescribed in paragraph 6.8.2.1.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|9.3.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|9.3.2"
+    ],
+    "table": null,
+    "text": "For conformity of production, an ESA taken from the series shall not exhibit any degradation relating to the direct control of the vehicle which could be observed by the driver or other road user when subjected to a field strength up to 80 per cent of the reference limits prescribed in paragraph 6.8.2.1."
+   },
+   "id": "R10-base-0038",
+   "source_node_ids": [
+    "R10|base|9.3.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 26,
+    "page_end": 26,
+    "paragraph": "9.3.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 38,
+   "text": "For conformity of production, a component or STU taken from the series shall show no degradation of performance of immunity related functions up to the conducted transient levels given in paragraph 6.9.1.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|9.3.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|9.3.3"
+    ],
+    "table": null,
+    "text": "For conformity of production, a component or STU taken from the series shall show no degradation of performance of immunity related functions up to the conducted transient levels given in paragraph 6.9.1."
+   },
+   "id": "R10-base-0039",
+   "source_node_ids": [
+    "R10|base|9.3.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 26,
+    "page_end": 26,
+    "paragraph": "9.3.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 39,
+   "text": "For conformity of production, a component or STU taken from the series shall not exceed the transient conducted emission levels given in paragraph 6.7.1.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|9.3.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|9.3.3"
+    ],
+    "table": null,
+    "text": "For conformity of production, a component or STU taken from the series shall not exceed the transient conducted emission levels given in paragraph 6.7.1."
+   },
+   "id": "R10-base-0040",
+   "source_node_ids": [
+    "R10|base|9.3.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 26,
+    "page_end": 26,
+    "paragraph": "9.3.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 0,
+   "text": "The broadband electromagnetic emission test of the ESA (LED modules on PCB with drive circuitry) shall be performed according to CISPR 25, unless otherwise stated in Annex 7 (applicable unless the emission exceptions of paragraph 6.10 apply, e.g. for passive drive electronics).",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 7 1.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 7 1.2"
+    ],
+    "table": null,
+    "text": "The broadband electromagnetic emission test of the ESA (LED modules on PCB with drive circuitry) shall be performed according to CISPR 25, unless otherwise stated in Annex 7 (applicable unless the emission exceptions of paragraph 6.10 apply, e.g. for passive drive electronics)."
+   },
+   "id": "R10-base-0041",
+   "source_node_ids": [
+    "R10|base|Annex 7 1.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 91,
+    "page_end": 91,
+    "paragraph": "Annex 7 1.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 1,
+   "text": "During the broadband emission test the ESA under test shall be in normal operation mode, preferably in maximum load.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 7 2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 7 2.1"
+    ],
+    "table": null,
+    "text": "During the broadband emission test the ESA under test shall be in normal operation mode, preferably in maximum load."
+   },
+   "id": "R10-base-0042",
+   "source_node_ids": [
+    "R10|base|Annex 7 2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 91,
+    "page_end": 91,
+    "paragraph": "Annex 7 2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 2,
+   "text": "For an ESA other than one involved in \"REESS charging mode coupled to the power grid\", the broadband emission test shall be performed according to the ALSE method described in Clause 6.4 of CISPR 25.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 7 3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 7 3.1"
+    ],
+    "table": null,
+    "text": "For an ESA other than one involved in \"REESS charging mode coupled to the power grid\", the broadband emission test shall be performed according to the ALSE method described in Clause 6.4 of CISPR 25."
+   },
+   "id": "R10-base-0043",
+   "source_node_ids": [
+    "R10|base|Annex 7 3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 91,
+    "page_end": 91,
+    "paragraph": "Annex 7 3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 3,
+   "text": "The broadband emission limits for the ESA apply throughout the frequency range 30 to 1,000 MHz for measurements performed in an ALSE or OATS.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 7 4.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 7 4.1"
+    ],
+    "table": null,
+    "text": "The broadband emission limits for the ESA apply throughout the frequency range 30 to 1,000 MHz for measurements performed in an ALSE or OATS."
+   },
+   "id": "R10-base-0044",
+   "source_node_ids": [
+    "R10|base|Annex 7 4.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 92,
+    "page_end": 92,
+    "paragraph": "Annex 7 4.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 4,
+   "text": "Broadband emission measurements of the ESA may be performed with either quasi-peak or peak detectors; the limits of paragraph 6.5 are for quasi-peak detectors, and if peak detectors are used a correction factor of 20 dB as defined in CISPR 12 shall be applied.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 7 4.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 7 4.2"
+    ],
+    "table": null,
+    "text": "Broadband emission measurements of the ESA may be performed with either quasi-peak or peak detectors; the limits of paragraph 6.5 are for quasi-peak detectors, and if peak detectors are used a correction factor of 20 dB as defined in CISPR 12 shall be applied."
+   },
+   "id": "R10-base-0045",
+   "source_node_ids": [
+    "R10|base|Annex 7 4.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 92,
+    "page_end": 92,
+    "paragraph": "Annex 7 4.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 5,
+   "text": "The narrowband electromagnetic emission test of the ESA (such as might emanate from a microprocessor-based system) shall be performed according to CISPR 25, unless otherwise stated in Annex 8 (applicable unless the emission exceptions of paragraph 6.10 apply, e.g. for drive electronics without oscillator or microcontroller).",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 8 1.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 8 1.2"
+    ],
+    "table": null,
+    "text": "The narrowband electromagnetic emission test of the ESA (such as might emanate from a microprocessor-based system) shall be performed according to CISPR 25, unless otherwise stated in Annex 8 (applicable unless the emission exceptions of paragraph 6.10 apply, e.g. for drive electronics without oscillator or microcontroller)."
+   },
+   "id": "R10-base-0046",
+   "source_node_ids": [
+    "R10|base|Annex 8 1.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 96,
+    "page_end": 96,
+    "paragraph": "Annex 8 1.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 6,
+   "text": "During the narrowband emission test the ESA under test shall be in normal operation mode, preferably in maximum load.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 8 2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 8 2"
+    ],
+    "table": null,
+    "text": "During the narrowband emission test the ESA under test shall be in normal operation mode, preferably in maximum load."
+   },
+   "id": "R10-base-0047",
+   "source_node_ids": [
+    "R10|base|Annex 8 2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 96,
+    "page_end": 96,
+    "paragraph": "Annex 8 2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 7,
+   "text": "The narrowband emission test of the ESA shall be performed according to the ALSE method described in paragraph 6.4 of CISPR 25.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 8 3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 8 3.1"
+    ],
+    "table": null,
+    "text": "The narrowband emission test of the ESA shall be performed according to the ALSE method described in paragraph 6.4 of CISPR 25."
+   },
+   "id": "R10-base-0048",
+   "source_node_ids": [
+    "R10|base|Annex 8 3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 96,
+    "page_end": 96,
+    "paragraph": "Annex 8 3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 8,
+   "text": "The narrowband emission limits for the ESA apply throughout the frequency range 30 to 1,000 MHz for measurements performed in an ALSE or OATS.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 8 4.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 8 4.1"
+    ],
+    "table": null,
+    "text": "The narrowband emission limits for the ESA apply throughout the frequency range 30 to 1,000 MHz for measurements performed in an ALSE or OATS."
+   },
+   "id": "R10-base-0049",
+   "source_node_ids": [
+    "R10|base|Annex 8 4.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 96,
+    "page_end": 96,
+    "paragraph": "Annex 8 4.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 9,
+   "text": "Narrowband emission measurements of the ESA shall be performed with an average detector.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 8 4.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 8 4.2"
+    ],
+    "table": null,
+    "text": "Narrowband emission measurements of the ESA shall be performed with an average detector."
+   },
+   "id": "R10-base-0050",
+   "source_node_ids": [
+    "R10|base|Annex 8 4.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 96,
+    "page_end": 96,
+    "paragraph": "Annex 8 4.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 10,
+   "text": "For immunity to electromagnetic radiation, the ESA may comply with the requirements of any combination of the following test methods at the manufacturer's discretion, provided the results cover the full frequency range of 20 to 6,000 MHz: absorber chamber test (ISO 11452-2), TEM cell testing (ISO 11452-3), bulk current injection testing (ISO 11452-4), stripline testing (ISO 11452-5), reverberation chamber test (ISO 11452-11); frequency range and general test conditions shall be based on ISO 11452-1.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 1.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 1.2.1"
+    ],
+    "table": null,
+    "text": "For immunity to electromagnetic radiation, the ESA may comply with the requirements of any combination of the following test methods at the manufacturer's discretion, provided the results cover the full frequency range of 20 to 6,000 MHz: absorber chamber test (ISO 11452-2), TEM cell testing (ISO 11452-3), bulk current injection testing (ISO 11452-4), stripline testing (ISO 11452-5), reverberation chamber test (ISO 11452-11); frequency range and general test conditions shall be based on ISO 11452-1."
+   },
+   "id": "R10-base-0051",
+   "source_node_ids": [
+    "R10|base|Annex 9 1.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 97,
+    "page_end": 98,
+    "paragraph": "Annex 9 1.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 11,
+   "text": "The test conditions for the ESA radiated immunity test shall be according to ISO 11452-1.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 2.1"
+    ],
+    "table": null,
+    "text": "The test conditions for the ESA radiated immunity test shall be according to ISO 11452-1."
+   },
+   "id": "R10-base-0052",
+   "source_node_ids": [
+    "R10|base|Annex 9 2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 98,
+    "page_end": 98,
+    "paragraph": "Annex 9 2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 12,
+   "text": "During the radiated immunity test the ESA under test shall be switched on and stimulated to be in normal operation condition, and arranged as defined in Annex 9 unless individual test methods dictate otherwise.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 2.2"
+    ],
+    "table": null,
+    "text": "During the radiated immunity test the ESA under test shall be switched on and stimulated to be in normal operation condition, and arranged as defined in Annex 9 unless individual test methods dictate otherwise."
+   },
+   "id": "R10-base-0053",
+   "source_node_ids": [
+    "R10|base|Annex 9 2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 98,
+    "page_end": 98,
+    "paragraph": "Annex 9 2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 13,
+   "text": "ESA radiated immunity measurements shall be made in the 20 to 6,000 MHz frequency range with frequency steps, step size and dwell time chosen according to ISO 11452-1.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 3.1"
+    ],
+    "table": null,
+    "text": "ESA radiated immunity measurements shall be made in the 20 to 6,000 MHz frequency range with frequency steps, step size and dwell time chosen according to ISO 11452-1."
+   },
+   "id": "R10-base-0054",
+   "source_node_ids": [
+    "R10|base|Annex 9 3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 98,
+    "page_end": 99,
+    "paragraph": "Annex 9 3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 14,
+   "text": "In the 20 to 400 MHz frequency range the immunity test signal modulation shall be AM with 1 kHz modulation and 80 per cent modulation depth, if not otherwise agreed between Technical Service and ESA manufacturer.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 3.1"
+    ],
+    "table": null,
+    "text": "In the 20 to 400 MHz frequency range the immunity test signal modulation shall be AM with 1 kHz modulation and 80 per cent modulation depth, if not otherwise agreed between Technical Service and ESA manufacturer."
+   },
+   "id": "R10-base-0055",
+   "source_node_ids": [
+    "R10|base|Annex 9 3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 98,
+    "page_end": 99,
+    "paragraph": "Annex 9 3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 15,
+   "text": "In the 2,700 to 3,100 MHz frequency range the immunity test signal modulation shall be PM2 (pulse modulation type 2), Ton 3 µs, period 3,333 µs, if not otherwise agreed between Technical Service and ESA manufacturer.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 3.1"
+    ],
+    "table": null,
+    "text": "In the 2,700 to 3,100 MHz frequency range the immunity test signal modulation shall be PM2 (pulse modulation type 2), Ton 3 µs, period 3,333 µs, if not otherwise agreed between Technical Service and ESA manufacturer."
+   },
+   "id": "R10-base-0056",
+   "source_node_ids": [
+    "R10|base|Annex 9 3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 98,
+    "page_end": 99,
+    "paragraph": "Annex 9 3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 16,
+   "text": "In the 380 to 2,700 MHz and 3,100 to 6,000 MHz frequency ranges the immunity test signal modulation shall be PM3 (pulse modulation type 3), Ton 500 µs, period 1,000 µs, if not otherwise agreed between Technical Service and ESA manufacturer.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 3.1"
+    ],
+    "table": null,
+    "text": "In the 380 to 2,700 MHz and 3,100 to 6,000 MHz frequency ranges the immunity test signal modulation shall be PM3 (pulse modulation type 3), Ton 500 µs, period 1,000 µs, if not otherwise agreed between Technical Service and ESA manufacturer."
+   },
+   "id": "R10-base-0057",
+   "source_node_ids": [
+    "R10|base|Annex 9 3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 98,
+    "page_end": 99,
+    "paragraph": "Annex 9 3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 17,
+   "text": "Where the absorber chamber test is used, the substitution method shall be used to establish the test field conditions according to ISO 11452-2 and the test shall be performed with vertical polarization.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 4.1.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 4.1.2"
+    ],
+    "table": null,
+    "text": "Where the absorber chamber test is used, the substitution method shall be used to establish the test field conditions according to ISO 11452-2 and the test shall be performed with vertical polarization."
+   },
+   "id": "R10-base-0058",
+   "source_node_ids": [
+    "R10|base|Annex 9 4.1.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 99,
+    "page_end": 99,
+    "paragraph": "Annex 9 4.1.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 18,
+   "text": "Where TEM cell testing is used, the test shall be performed according to ISO 11452-3, with maximum field coupling to the ESA or to the wiring harness inside the TEM cell.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 4.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 4.2.2"
+    ],
+    "table": null,
+    "text": "Where TEM cell testing is used, the test shall be performed according to ISO 11452-3, with maximum field coupling to the ESA or to the wiring harness inside the TEM cell."
+   },
+   "id": "R10-base-0059",
+   "source_node_ids": [
+    "R10|base|Annex 9 4.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 100,
+    "page_end": 100,
+    "paragraph": "Annex 9 4.2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 19,
+   "text": "Where bulk current injection testing is used, the test shall be performed according to ISO 11452-4 on a test bench with either the substitution method and injection probe at 150 mm from the ESA or the closed loop method and injection probe at 900 mm from the ESA; alternatively the ESA may be tested installed in the vehicle according to ISO 11451-4 with the substitution method and injection probe at 150 mm from the ESA.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 4.3.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 4.3.2"
+    ],
+    "table": null,
+    "text": "Where bulk current injection testing is used, the test shall be performed according to ISO 11452-4 on a test bench with either the substitution method and injection probe at 150 mm from the ESA or the closed loop method and injection probe at 900 mm from the ESA; alternatively the ESA may be tested installed in the vehicle according to ISO 11451-4 with the substitution method and injection probe at 150 mm from the ESA."
+   },
+   "id": "R10-base-0060",
+   "source_node_ids": [
+    "R10|base|Annex 9 4.3.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 100,
+    "page_end": 100,
+    "paragraph": "Annex 9 4.3.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 20,
+   "text": "Where stripline testing is used, the test shall be performed according to ISO 11452-5.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 4.4.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 4.4.2"
+    ],
+    "table": null,
+    "text": "Where stripline testing is used, the test shall be performed according to ISO 11452-5."
+   },
+   "id": "R10-base-0061",
+   "source_node_ids": [
+    "R10|base|Annex 9 4.4.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 101,
+    "page_end": 101,
+    "paragraph": "Annex 9 4.4.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 21,
+   "text": "Where the reverberation chamber test is used, the test shall be performed according to ISO 11452-11 using a test setup with ground plane, unless otherwise specified.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 4.5.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 4.5.2"
+    ],
+    "table": null,
+    "text": "Where the reverberation chamber test is used, the test shall be performed according to ISO 11452-11 using a test setup with ground plane, unless otherwise specified."
+   },
+   "id": "R10-base-0062",
+   "source_node_ids": [
+    "R10|base|Annex 9 4.5.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 101,
+    "page_end": 101,
+    "paragraph": "Annex 9 4.5.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 22,
+   "text": "The ESA shall be tested for immunity to transient disturbances conducted along 12/24 V supply lines by applying test pulse 1 according to ISO 7637-2 to the supply lines and to other connections of the ESA which may be operationally connected to supply lines.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 10 2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 10 2"
+    ],
+    "table": null,
+    "text": "The ESA shall be tested for immunity to transient disturbances conducted along 12/24 V supply lines by applying test pulse 1 according to ISO 7637-2 to the supply lines and to other connections of the ESA which may be operationally connected to supply lines."
+   },
+   "id": "R10-base-0063",
+   "source_node_ids": [
+    "R10|base|Annex 10 2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 108,
+    "page_end": 108,
+    "paragraph": "Annex 10 2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 23,
+   "text": "The ESA shall be tested for immunity to transient disturbances conducted along 12/24 V supply lines by applying test pulse 2a according to ISO 7637-2 to the supply lines and to other connections of the ESA which may be operationally connected to supply lines.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 10 2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 10 2"
+    ],
+    "table": null,
+    "text": "The ESA shall be tested for immunity to transient disturbances conducted along 12/24 V supply lines by applying test pulse 2a according to ISO 7637-2 to the supply lines and to other connections of the ESA which may be operationally connected to supply lines."
+   },
+   "id": "R10-base-0064",
+   "source_node_ids": [
+    "R10|base|Annex 10 2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 108,
+    "page_end": 108,
+    "paragraph": "Annex 10 2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 24,
+   "text": "The ESA shall be tested for immunity to transient disturbances conducted along 12/24 V supply lines by applying test pulse 2b according to ISO 7637-2 to the supply lines and to other connections of the ESA which may be operationally connected to supply lines.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 10 2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 10 2"
+    ],
+    "table": null,
+    "text": "The ESA shall be tested for immunity to transient disturbances conducted along 12/24 V supply lines by applying test pulse 2b according to ISO 7637-2 to the supply lines and to other connections of the ESA which may be operationally connected to supply lines."
+   },
+   "id": "R10-base-0065",
+   "source_node_ids": [
+    "R10|base|Annex 10 2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 108,
+    "page_end": 108,
+    "paragraph": "Annex 10 2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 25,
+   "text": "The ESA shall be tested for immunity to transient disturbances conducted along 12/24 V supply lines by applying test pulse 3a according to ISO 7637-2 to the supply lines and to other connections of the ESA which may be operationally connected to supply lines.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 10 2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 10 2"
+    ],
+    "table": null,
+    "text": "The ESA shall be tested for immunity to transient disturbances conducted along 12/24 V supply lines by applying test pulse 3a according to ISO 7637-2 to the supply lines and to other connections of the ESA which may be operationally connected to supply lines."
+   },
+   "id": "R10-base-0066",
+   "source_node_ids": [
+    "R10|base|Annex 10 2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 108,
+    "page_end": 108,
+    "paragraph": "Annex 10 2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 26,
+   "text": "The ESA shall be tested for immunity to transient disturbances conducted along 12/24 V supply lines by applying test pulse 3b according to ISO 7637-2 to the supply lines and to other connections of the ESA which may be operationally connected to supply lines.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 10 2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 10 2"
+    ],
+    "table": null,
+    "text": "The ESA shall be tested for immunity to transient disturbances conducted along 12/24 V supply lines by applying test pulse 3b according to ISO 7637-2 to the supply lines and to other connections of the ESA which may be operationally connected to supply lines."
+   },
+   "id": "R10-base-0067",
+   "source_node_ids": [
+    "R10|base|Annex 10 2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 108,
+    "page_end": 108,
+    "paragraph": "Annex 10 2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 27,
+   "text": "The starting profile according to ISO 16750-2 shall be applied to the ESA supply lines and to other connections of the ESA which may be operationally connected to supply lines; ESAs exclusively reserved for mounting on electric vehicles (without 12 V/24 V starter motor) are not subject to the starting profile.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 10 2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 10 2"
+    ],
+    "table": null,
+    "text": "The starting profile according to ISO 16750-2 shall be applied to the ESA supply lines and to other connections of the ESA which may be operationally connected to supply lines; ESAs exclusively reserved for mounting on electric vehicles (without 12 V/24 V starter motor) are not subject to the starting profile."
+   },
+   "id": "R10-base-0068",
+   "source_node_ids": [
+    "R10|base|Annex 10 2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 108,
+    "page_end": 108,
+    "paragraph": "Annex 10 2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 28,
+   "text": "Emission of transient conducted disturbances generated by the ESA on 12/24 V supply lines shall be measured according to ISO 7637-2 on the supply lines and on other connections of the ESA which may be operationally connected to supply lines.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 10 3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 10 3"
+    ],
+    "table": null,
+    "text": "Emission of transient conducted disturbances generated by the ESA on 12/24 V supply lines shall be measured according to ISO 7637-2 on the supply lines and on other connections of the ESA which may be operationally connected to supply lines."
+   },
+   "id": "R10-base-0069",
+   "source_node_ids": [
+    "R10|base|Annex 10 3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 108,
+    "page_end": 108,
+    "paragraph": "Annex 10 3"
+   },
+   "possible_duplicate_of": null
+  }
+ ],
+ "flagged": []
+}

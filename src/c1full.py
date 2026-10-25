@@ -367,8 +367,9 @@ def split(ns, depth: int, limit: int) -> list[tuple[list, bool]]:
     return out
 
 
-def batches(S: Source, reg: str, role: str, limit: int) -> list[dict]:
-    ns = S.C.by_reg[(reg, role)]
+def batches(S: Source, reg: str, role: str, limit: int, keep: set | None = None) -> list[dict]:
+    """keep: only these node ids become PRIMARY (--sections); headings of kept nodes still come in as SCOPE."""
+    ns = [n for n in S.C.by_reg[(reg, role)] if keep is None or S.q(n) in keep]
     out = []
     for (doc, top), sec in runs(ns, lambda n: (n.doc, n.label.split(".")[0] if n.doc == "main" else "")):
         name = f"§{top}" if doc == "main" else doc
@@ -630,6 +631,7 @@ def main(argv=None):
     ap.add_argument("--prompt", choices=sorted(SYSTEMS), default="v3", help="C1 system prompt version")
     ap.add_argument("--test-case", action="store_true", help="also ask for a test_case per requirement (same call)")
     ap.add_argument("--max-batches", type=int, help="smoke test: run only the first N batches")
+    ap.add_argument("--sections", action="store_true", help="--product: C1 reads only the sections stage B selected for this regulation (from --selection)")
     ap.add_argument("--plan-only", action="store_true", help="write the batch plan and sizes, make no calls")
     a = ap.parse_args(argv)
     reqagent.load_env()
@@ -645,7 +647,17 @@ def main(argv=None):
     if (reg, role) not in S.C.by_reg:
         sys.exit(f"{reg} {role} is not in {pdf_dir}")
     nodes = S.C.by_reg[(reg, role)]
-    plan = batches(S, reg, role, a.chunk_chars)
+    keep = None
+    if a.sections:
+        b_reg = json.loads(Path(a.selection).read_text())["stageB"].get(reg) or {}
+        keys = [x["key"] for x in b_reg.get("selected_sections", [])]
+        if not b_reg.get("include") or not keys:
+            sys.exit(f"--sections: stage B in {a.selection} does not include {reg} or selects no section")
+        keep = {S.q(n) for k in keys for n in rp.section_nodes(S.C, reg, k)} if role == "base" else None
+        if keep is None:
+            sys.exit("--sections: stage B section keys refer to the base version; use --role base")
+        log(f"--sections: {len(keep)} of {len(nodes)} nodes in stage B's {len(keys)} selected sections: {', '.join(keys)}")
+    plan = batches(S, reg, role, a.chunk_chars, keep)
     todo = plan[:a.max_batches] if a.max_batches else plan
     manifest = {"regulation": reg, "role": role, "version": nodes[0].version,
                 "input_file": f"{reg.replace(' ', '_')}_{role}.json", "corpus_sha256": S.fingerprint(reg, role),
@@ -655,6 +667,7 @@ def main(argv=None):
                 "settings": {"chunk_chars": a.chunk_chars, "hops": a.hops, "max_target_nodes": MAX_TARGET_NODES,
                              "max_context_nodes": MAX_CONTEXT_NODES, "retries": RETRIES},
                 "nodes": len(nodes), "chars": size(nodes), "batches": plan,
+                "sections_filter": {"selection": a.selection, "kept_nodes": len(keep)} if keep is not None else None,
                 "limitations": ["traversal context is complete only within the declared hop/size policy",
                                 "definitions are found by a regex over main-body section 2 only",
                                 "references into another regulation resolve to that regulation's base version",
@@ -672,11 +685,11 @@ def main(argv=None):
     product = product_block(Path(a.selection), Path(a.profile), reg) if a.product else ""
     results = c1(S, reg, role, todo, a.test_case, a.workers, log, a.prompt, product)
     valid, flagged = validate(S, reg, role, plan, results, a.test_case)
-    status = {}
+    status = {S.q(n): "filtered" for n in nodes} if keep is not None else {}
     for b in plan:
         for q in b["primary"]:
             status[q] = {"ok": "processed", "empty_output": "processed", "failed": "failed"}.get(b["status"], "not_processed")
-    manifest["coverage"] = {k: sum(v == k for v in status.values()) for k in ("processed", "failed", "not_processed")}
+    manifest["coverage"] = {k: sum(v == k for v in status.values()) for k in ("processed", "failed", "not_processed", "filtered")}
     manifest["node_status"] = status
     manifest["calls"] = {"model_calls": sum(b.get("attempts", 0) for b in todo if not b.get("cache_hit")),
                          "cache_hits": sum(bool(b.get("cache_hit")) for b in todo),
