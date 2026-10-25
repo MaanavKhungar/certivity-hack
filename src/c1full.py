@@ -264,6 +264,23 @@ SYSTEMS["v8"] = SYSTEMS["v4"]
 PRODUCT_RULES["v8"] = WITH_PRODUCT_V4.replace(OPEN_OPTIONS_V4, SCOPE_V8).replace(V4_SKIP_VARIANTS, """- SKIP requirements for other device classes, categories or colours than the product's, and other vehicle categories'
   special cases.""")
 
+# v9: v8 + what the rear lamp's labels show v8 still gets wrong: noise from multi-device arrangements / control
+# variants the product data does not mention and from laboratory measurement details and alternative test methods
+# (16-23 % correct); misses from lists whose items each impose their own obligation being merged.
+V9_EXTRA = """
+- SKIP arrangements of several devices and control variants the product data does not mention: assemblies of two or
+  more devices approved or treated as one unit, interdependent systems, variable or adaptive output control,
+  sequential activation. Physical options of the device itself (a decorative element or logo, a replaceable or
+  non-replaceable source or module, an additional device of the same function, its markings) stay in.
+- SKIP how the laboratory measures or runs a test (measuring distance, receiver aperture, stray light and masking,
+  the light sources or supply settings used for measuring, sample conditioning and handling) and ALTERNATIVE test
+  methods, sites, set-ups or detectors the laboratory may choose between. Keep the level, severity or duration the
+  product must withstand and the pass criterion.
+- When a paragraph lists items (a), (b), (c) ... that each impose a different obligation on the product, write ONE
+  requirement PER ITEM, each repeating the lead-in, the subject and the condition."""
+SYSTEMS["v9"] = SYSTEMS["v4"]
+PRODUCT_RULES["v9"] = PRODUCT_RULES["v8"] + V9_EXTRA
+
 # v5 product filter: v4 + (1) open options the product data already settles are not open, (2) no set-up details of
 # alternative test methods and no sample allocation, (3) no rows/values for variants the product does not have
 V5_EXTRA = """
