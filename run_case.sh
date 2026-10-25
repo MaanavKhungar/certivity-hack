@@ -12,7 +12,7 @@ REGS=$(../../.venv/bin/python -c "import json;print('\n'.join(r for r,o in json.
 RUNS=()
 while read -r R; do
   N="$NAME-c1full-$(echo $R | sed 's/UN //; s/ //g')"; RUNS+=("../runs/$N")
-  ../../.venv/bin/python c1full.py "$R" --role base --run-name "$N" --product --prompt v7 \
+  ../../.venv/bin/python c1full.py "$R" --role base --run-name "$N" --product --prompt ${PROMPT:-v7} \
       --selection "$SEL" --profile "$PROF" --workers 6 > "../runs/$N.console.txt" 2>&1 &
 done <<< "$REGS"
 wait

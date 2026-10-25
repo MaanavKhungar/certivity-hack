@@ -235,6 +235,35 @@ assert OPEN_OPTIONS_V4 in WITH_PRODUCT_V4
 SYSTEMS["v7"] = SYSTEMS["v4"]
 PRODUCT_RULES["v7"] = WITH_PRODUCT_V4.replace(OPEN_OPTIONS_V4, SCOPE_V7)
 
+# v8: v7 split by kind of feature. Rear lamp (expected answers): v7 lost 30 requirements the expert lists for OPTIONS of
+# the product's own devices that the specification does not name (light source modules and their markings, a logo,
+# optional additional lamps of the same function); bumper: v7's gain came from skipping other DEVICE TYPES / FUNCTIONS
+# the specification never names (other lamp functions) and other parts of the vehicle. So: unnamed device types are
+# out, options and variants of the device types the product has stay in as conditional requirements.
+SCOPE_V8 = """- The product consists of the parts, functions and device types the product data names. A device TYPE, function or
+  part that the product data never names (e.g. another lamp function, another sensor or component, a signal the
+  product does not provide) is NOT part of the product, even if the earlier analysis lists it as possible: SKIP its
+  requirements and sections.
+- For the device types the product HAS, OUTPUT the requirements for their options and variants that the regulation
+  provides for every such device, each with its condition ("in case of ...", "where ... is fitted"): e.g. a
+  replaceable or non-replaceable source or module and its markings, a decorative element or logo, an additional or
+  optional device of the same function, a different mounting. Also OUTPUT the conditionals of the listed open_options.
+- SKIP requirements that apply only in a configuration or operating mode the product does not take part in. A
+  configuration involves the product only when the product's OWN electrical/electronic parts operate in it; housing,
+  covering or giving access to another system's connector, port or device (e.g. a flap or cover over it) does not
+  involve the product in that system's operating modes.
+- SKIP tests, measurements and obligations of the whole vehicle when the product is a component and the regulation
+  states the component (sub-assembly, device) counterpart separately: keep the component's.
+- SKIP requirements about another part or zone of the vehicle than the product (e.g. a test target, impact zone or
+  surface that the product is not), even when the regulation applies to the product."""
+V4_SKIP_VARIANTS = """- SKIP requirements that depend on a variant or feature the product data does not mention and no open option
+  introduces: e.g. variable luminous intensity, interdependent lamp systems, lamps on movable components, other
+  device classes, categories or colours, other vehicle categories' special cases, optional additional lamps."""
+assert V4_SKIP_VARIANTS in WITH_PRODUCT_V4
+SYSTEMS["v8"] = SYSTEMS["v4"]
+PRODUCT_RULES["v8"] = WITH_PRODUCT_V4.replace(OPEN_OPTIONS_V4, SCOPE_V8).replace(V4_SKIP_VARIANTS, """- SKIP requirements for other device classes, categories or colours than the product's, and other vehicle categories'
+  special cases.""")
+
 # v5 product filter: v4 + (1) open options the product data already settles are not open, (2) no set-up details of
 # alternative test methods and no sample allocation, (3) no rows/values for variants the product does not have
 V5_EXTRA = """
