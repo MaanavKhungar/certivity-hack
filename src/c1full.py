@@ -155,15 +155,123 @@ SYSTEMS = {"v1": SYSTEM, "v2": SYSTEM.replace(GRANULARITY_V1, GRANULARITY_V2),
            "v3": SYSTEM.replace(GRANULARITY_V1, GRANULARITY_V3)}
 assert SYSTEMS["v2"] != SYSTEM != SYSTEMS["v3"]
 
+# --product: C1 also decides applicability (an experiment outside the product-free design; default runs stay product-free)
+NO_PRODUCT = """list every engineering requirement it states, so that an engineer can later decide which of them bind a given product
+and design and test against them. There is no product here: do not leave out requirements because of a product type,
+class, colour or variant. Keep each requirement's own conditions in its text instead."""
+WITH_PRODUCT = """list the engineering requirements it states that bind ONE specific product, so that its engineer can design and test
+against them. You receive the product (summary, profile, and an earlier analysis of how this regulation applies to
+it: parts mapped to the regulation's terms, relevant sections, open options).
+
+Product filter, applied after you have identified a requirement with the rules below:
+- OUTPUT it when it binds this product or one of its parts: its device types, categories, colours and functions,
+  its markings, construction, performance and the tests it must pass, and obligations on the product that an
+  installation regulation sets for its functions.
+- OUTPUT conditional requirements whose condition the product may meet: in particular every listed open option
+  (e.g. replaceable or non-replaceable light source), each with its condition. When unsure whether a requirement
+  binds the product, OUTPUT it: a missed requirement costs more than an extra one.
+- SKIP it only when it clearly does not bind this product: it is for a device type, category, colour or function the
+  product does not have and none of its open options introduces, or it binds only the vehicle, the vehicle
+  manufacturer or another device. Keep each output requirement's own conditions in its text."""
+assert NO_PRODUCT in SYSTEM
+
+# v4 product filter: v3's filter let through variants and features the product data never mentions (86% of the
+# unmatched requirements on dev sat on paragraphs the experts did not use at all)
+WITH_PRODUCT_V4 = """list the engineering requirements it states that bind ONE specific product, so that its engineer can design and test
+against them. You receive the product (summary, profile, and an earlier analysis of how this regulation applies to
+it: parts mapped to the regulation's terms, relevant sections, open options).
+
+Product filter, applied after you have identified a requirement with the rules below. Decide from the product data,
+not from what the regulation allows in general:
+- OUTPUT it when it binds a part, function, device type, category or colour the product HAS according to the
+  product data: its construction, performance, markings, the tests it must pass, and, in an installation regulation,
+  the provisions for the product's OWN functions (number, position, height/width/length, geometric visibility,
+  orientation, electrical connections, switching, tell-tales, alignment, and the general installation provisions
+  that apply to every lamp).
+- OUTPUT conditional requirements whose condition is one of the listed open_options (e.g. replaceable or
+  non-replaceable light source), each with its condition. These are the only conditionals the product data leaves open.
+- SKIP requirements that depend on a variant or feature the product data does not mention and no open option
+  introduces: e.g. variable luminous intensity, interdependent lamp systems, lamps on movable components, other
+  device classes, categories or colours, other vehicle categories' special cases, optional additional lamps.
+- SKIP, in an installation regulation, sections for other signals or functions that merely reuse the product's lamps
+  (e.g. an emergency stop signal, an answer-back or other comfort signal, hazard or other warning signals) unless
+  the product data says the product provides them, and requirements for other lamps or for the vehicle as a whole.
+- SKIP statements that only point to other paragraphs ("shall conform to paragraphs 4 and 5", "visibility as
+  specified in paragraph X") and tables that only summarise a test sequence the detailed paragraphs state.
+- SKIP approval-mark format and marking provisions that only apply to a feature the product does not have (e.g.
+  light-source category markings when every light source is non-replaceable).
+Keep each output requirement's own conditions in its text."""
+
+# v4 granularity: v3, but table rows that are ALTERNATIVE test methods are not one requirement per row
+TABLE_RULE_V3 = "values with their header relationships; rows that are DIFFERENT tests or conditions are ONE requirement PER ROW."
+TABLE_RULE_V4 = """values with their header relationships; rows that are DIFFERENT tests or conditions that ALL apply (each pulse, each
+  test of a sequence) are ONE requirement PER ROW. Rows that are ALTERNATIVE test methods or set-ups (only one is used,
+  e.g. different test chambers or injection methods for the same immunity test) get no requirement per row: write the
+  paragraph's obligations (the method to use, and the severity or level each table sets) instead."""
+assert TABLE_RULE_V3 in SYSTEM
+SYSTEMS["v4"] = SYSTEMS["v3"].replace(TABLE_RULE_V3, TABLE_RULE_V4)
+PRODUCT_RULES = {"v4": WITH_PRODUCT_V4}                 # other versions use WITH_PRODUCT
+
+# v5 product filter: v4 + (1) open options the product data already settles are not open, (2) no set-up details of
+# alternative test methods and no sample allocation, (3) no rows/values for variants the product does not have
+V5_EXTRA = """
+- An open_option is only open when the product data does NOT settle it. If the product summary or profile states the
+  answer (e.g. it says "non-replaceable LED light sources", or names the drive electronics, the lamp's watertightness
+  or the reflector's construction), follow the stated option: write the requirements of that option without a
+  condition and SKIP those that apply only to the other option(s). Keep both sides only for features the product data
+  is silent about.
+- SKIP the set-up and procedure details of ALTERNATIVE test methods (which chamber, standard part, antenna position or
+  set-up to use when the regulation offers several methods and the laboratory picks one), and the allocation of
+  samples to tests or groups ("samples of the second group shall be subjected to ..."). Keep the test the product must
+  pass, its severity or level, and its pass criterion.
+- In tables and lists that give values per category, class or variant, write only the rows of variants the product
+  has or that a still-open option introduces; do not write rows for other variants. Do not write the same obligation
+  twice (e.g. once from the paragraph and once from the table row that repeats it)."""
+assert WITH_PRODUCT_V4.endswith("Keep each output requirement's own conditions in its text.")
+WITH_PRODUCT_V5 = WITH_PRODUCT_V4.replace("\nKeep each output requirement's own conditions in its text.",
+                                          V5_EXTRA + "\nKeep each output requirement's own conditions in its text.")
+
+# v6: v5 + a priority per requirement (same call); the submission can then keep "core" only
+PRIORITY_NOTE = """
+- priority: "core" when an expert engineer writing this product's requirement list would include it: an obligation
+  the product is designed, built or tested against (construction, performance, photometry/colour, the tests it must
+  pass with their severities and pass criteria, its markings, the installation provisions for its own functions).
+  "peripheral" when it is valid but such a list usually leaves it out: approval-mark layout and administrative
+  marking details, type-approval references, conformity of production, procedure details of a test, conditions for
+  an open option that the product data makes unlikely, general statements that repeat or introduce other paragraphs."""
+SYSTEMS["v5"] = SYSTEMS["v4"]
+SYSTEMS["v6"] = SYSTEMS["v4"] + PRIORITY_NOTE
+PRODUCT_RULES.update({"v5": WITH_PRODUCT_V5, "v6": WITH_PRODUCT_V5})
+PRIORITY_VERSIONS = {"v6"}                               # versions whose schema carries "priority"
+
+
+def system_prompt(version: str, product: bool) -> str:
+    if not product:
+        return SYSTEMS[version]
+    return SYSTEMS[version].replace(NO_PRODUCT, PRODUCT_RULES.get(version, WITH_PRODUCT))
+
+
+def product_block(selection: Path, profile: Path, reg: str) -> str:
+    """The same product inputs bb2's D2 used: stage A summary, stage B mapping of this regulation, the profile."""
+    sel = json.loads(selection.read_text())
+    b = sel["stageB"].get(reg, {})
+    prof = json.loads(profile.read_text())
+    prof = prof.get("model") or prof.get("deterministic") or prof
+    return ("## Product\n" + sel["stageA"]["product_summary"] + "\n\n## Product profile\n" +
+            json.dumps(prof, indent=1, ensure_ascii=False) + "\n\n## How this regulation applies to the product (earlier analysis)\n" +
+            json.dumps({k: b.get(k) for k in ("how_it_applies", "part_mapping", "open_options")}, indent=1, ensure_ascii=False) + "\n\n")
+
 TEST_CASE_NOTE = """
 - test_case: one short sentence on how a test engineer would verify the requirement, or null."""
 
 
-def schema(test_case: bool) -> dict:
+def schema(test_case: bool, priority: bool = False) -> dict:
     props = {"source_node_ids": {"type": "array", "items": {"type": "string"}},
              "table": {"type": ["string", "null"]}, "text": {"type": "string"}}
     if test_case:
         props["test_case"] = {"type": ["string", "null"]}
+    if priority:
+        props["priority"] = {"type": "string", "enum": ["core", "peripheral"]}
     return {"type": "object", "additionalProperties": False, "required": ["requirements"],
             "properties": {"requirements": {"type": "array", "items": {
                 "type": "object", "additionalProperties": False, "required": list(props), "properties": props}}}}
@@ -303,9 +411,9 @@ def render(S: Source, n) -> str:
     return f"[{S.q(n)}] p.{pages} {tv.label_of(n)}\n{n.text}"
 
 
-def prompt(S: Source, reg: str, role: str, b: dict, contents: str) -> str:
+def prompt(S: Source, reg: str, role: str, b: dict, contents: str, product: str = "") -> str:
     prim = [S.by_q[q] for q in b["primary"]]
-    txt = (f"## Regulation\n{reg}, version {prim[0].version} ({role})\n\n## Table of contents\n{contents}\n\n"
+    txt = product + (f"## Regulation\n{reg}, version {prim[0].version} ({role})\n\n## Table of contents\n{contents}\n\n"
            f"## Batch {b['name']}\n")
     if b["scope"]:
         txt += "\n## SCOPE paragraphs (context only: do not extract, do not cite)\n\n" + \
@@ -319,15 +427,15 @@ def cached(system, user, sch, tag) -> bool:
     return (rp.CACHE / f"{tag}_{hashlib.sha256(payload.encode()).hexdigest()[:24]}.json").exists()
 
 
-def c1(S, reg, role, plan, test_case, workers, log, prompt_version="v3") -> dict:
-    system = SYSTEMS[prompt_version] + (TEST_CASE_NOTE if test_case else "")
-    sch = schema(test_case)
+def c1(S, reg, role, plan, test_case, workers, log, prompt_version="v3", product="") -> dict:
+    system = system_prompt(prompt_version, bool(product)) + (TEST_CASE_NOTE if test_case else "")
+    sch = schema(test_case, prompt_version in PRIORITY_VERSIONS)
     contents = reqagent.toc([{"depth": n.depth, "title": n.title, "text": n.text, "page_start": n.page_start,
                               "doc": n.doc, "label": n.label} for n in S.C.by_reg[(reg, role)]])
 
     def one(b):
-        user = [{"type": "text", "text": prompt(S, reg, role, b, contents)}]
-        tag = f"C1F_{short(reg)}_{role}_{b['id']}"
+        user = [{"type": "text", "text": prompt(S, reg, role, b, contents, product)}]
+        tag = f"C1F{'P' if product else ''}_{short(reg)}_{role}_{b['id']}"
         b["cache_hit"] = cached(system, user, sch, tag)
         b["attempts"], b["errors"] = 0, []
         for attempt in range(RETRIES + 1):
@@ -371,6 +479,8 @@ def validate(S, reg, role, plan, results, test_case) -> tuple[list, list]:
                     "cited_ids": ids, "raw": r}
             if test_case:
                 cand["test_case"] = r.get("test_case")
+            if "priority" in r:
+                cand["priority"] = r["priority"]
             if not ok:
                 reason = "cites only scope (context-only) nodes" if other and all(q in scope for q in other) else \
                          "cites no primary node of its batch" if not other or any(q in S.by_q for q in other) else "unknown node id"
@@ -514,6 +624,9 @@ def main(argv=None):
     ap.add_argument("--hops", type=int, default=N_HOPS)
     ap.add_argument("--chunk-chars", type=int, default=CHUNK_CHARS)
     ap.add_argument("--workers", type=int, default=8)
+    ap.add_argument("--product", action="store_true", help="experiment: C1 also skips requirements that do not bind the product")
+    ap.add_argument("--selection", default=str(reqagent.REPO / "runs/rearlamp-v7b/selection.json"), help="--product: stage A/B product analysis")
+    ap.add_argument("--profile", default=str(reqagent.REPO / "data/product/dev-rear-lamp.profile.json"), help="--product: product profile")
     ap.add_argument("--prompt", choices=sorted(SYSTEMS), default="v3", help="C1 system prompt version")
     ap.add_argument("--test-case", action="store_true", help="also ask for a test_case per requirement (same call)")
     ap.add_argument("--max-batches", type=int, help="smoke test: run only the first N batches")
@@ -536,7 +649,8 @@ def main(argv=None):
     todo = plan[:a.max_batches] if a.max_batches else plan
     manifest = {"regulation": reg, "role": role, "version": nodes[0].version,
                 "input_file": f"{reg.replace(' ', '_')}_{role}.json", "corpus_sha256": S.fingerprint(reg, role),
-                "model": rp.MODEL, "effort": "high", "prompt": a.prompt, "prompt_sha256": hashlib.sha256(SYSTEMS[a.prompt].encode()).hexdigest()[:16],
+                "model": rp.MODEL, "effort": "high", "prompt": a.prompt, "prompt_sha256": hashlib.sha256(system_prompt(a.prompt, a.product).encode()).hexdigest()[:16],
+                "product_filter": {"selection": a.selection, "profile": a.profile} if a.product else None,
                 "test_case": a.test_case,
                 "settings": {"chunk_chars": a.chunk_chars, "hops": a.hops, "max_target_nodes": MAX_TARGET_NODES,
                              "max_context_nodes": MAX_CONTEXT_NODES, "retries": RETRIES},
@@ -555,7 +669,8 @@ def main(argv=None):
         (run / "log.txt").write_text("\n".join(lines) + "\n")
         return
 
-    results = c1(S, reg, role, todo, a.test_case, a.workers, log, a.prompt)
+    product = product_block(Path(a.selection), Path(a.profile), reg) if a.product else ""
+    results = c1(S, reg, role, todo, a.test_case, a.workers, log, a.prompt, product)
     valid, flagged = validate(S, reg, role, plan, results, a.test_case)
     status = {}
     for b in plan:
@@ -579,7 +694,7 @@ def main(argv=None):
         out.append({"id": r["id"], "text": r["text"], "table": r["table"], **({"test_case": r.get("test_case")} if a.test_case else {}),
                     "regulation": reg, "version": r["source"]["version"], "role": role, "source_node_ids": r["source_node_ids"],
                     "source": r["source"], "batch": r["batch"], "validation": r["validation"],
-                    "possible_duplicate_of": r["possible_duplicate_of"], **ctx})
+                    "possible_duplicate_of": r["possible_duplicate_of"], **({"priority": r["priority"]} if "priority" in r else {}), **ctx})
         diags += [{"requirement": r["id"], **d} for d in ctx["diagnostics"]]
     dump("requirements_with_context.json", {"regulation": reg, "role": role, "hops": a.hops, "requirements": out})
     dump("context_nodes.json", {q: context_record(S, q, n) for q, n in T.nodes.items()})

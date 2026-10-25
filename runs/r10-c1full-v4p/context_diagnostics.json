@@ -1,0 +1,421 @@
+{
+ "per_requirement": [
+  {
+   "requirement": "R10-base-0006",
+   "type": "unresolved",
+   "target": "UN R10 Annex 3",
+   "in_corpus": true,
+   "from": "R10|base|5.3.1",
+   "ref": "Annex 3",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0006",
+   "type": "unresolved",
+   "target": "UN R10 Annex 3",
+   "in_corpus": true,
+   "from": "R10|base|5.3.1",
+   "ref": "Annex 3",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0007",
+   "type": "unresolved",
+   "target": "UN R10 Annex 3",
+   "in_corpus": true,
+   "from": "R10|base|5.3.1",
+   "ref": "Annex 3",
+   "hop": 1
+  },
+  {
+   "requirement": "R10-base-0007",
+   "type": "unresolved",
+   "target": "UN R10 Annex 3",
+   "in_corpus": true,
+   "from": "R10|base|5.3.1",
+   "ref": "Annex 3",
+   "hop": 1
+  },
+  {
+   "requirement": "R10-base-0008",
+   "type": "unresolved",
+   "target": "UN R10 Annex 3",
+   "in_corpus": true,
+   "from": "R10|base|5.3.1",
+   "ref": "Annex 3",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0008",
+   "type": "unresolved",
+   "target": "UN R10 Annex 3",
+   "in_corpus": true,
+   "from": "R10|base|5.3.1",
+   "ref": "Annex 3",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0009",
+   "type": "unresolved",
+   "target": "UN R10 Annex 3",
+   "in_corpus": true,
+   "from": "R10|base|5.3.1",
+   "ref": "Annex 3",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0009",
+   "type": "unresolved",
+   "target": "UN R10 Annex 3",
+   "in_corpus": true,
+   "from": "R10|base|5.3.1",
+   "ref": "Annex 3",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0012",
+   "type": "unresolved",
+   "target": "UN R10 Annex 7 Appendix 8",
+   "in_corpus": true,
+   "from": "R10|base|Annex 7 3.2.2",
+   "ref": "Appendix 8",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0012",
+   "type": "unresolved",
+   "target": "UN R10 Annex 7 Appendix 8",
+   "in_corpus": true,
+   "from": "R10|base|Annex 7 3.2.2",
+   "ref": "Appendix 8",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0012",
+   "type": "hop_limit",
+   "note": "37 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R10-base-0013",
+   "type": "unresolved",
+   "target": "UN R10 Annex 7 Appendix 8",
+   "in_corpus": true,
+   "from": "R10|base|Annex 7 3.2.2",
+   "ref": "Appendix 8",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0013",
+   "type": "unresolved",
+   "target": "UN R10 Annex 7 Appendix 8",
+   "in_corpus": true,
+   "from": "R10|base|Annex 7 3.2.2",
+   "ref": "Appendix 8",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0013",
+   "type": "hop_limit",
+   "note": "36 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R10-base-0014",
+   "type": "unresolved",
+   "target": "UN R10 Annex 7 Appendix 8",
+   "in_corpus": true,
+   "from": "R10|base|Annex 7 3.2.2",
+   "ref": "Appendix 8",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0014",
+   "type": "unresolved",
+   "target": "UN R10 Annex 7 Appendix 8",
+   "in_corpus": true,
+   "from": "R10|base|Annex 7 3.2.2",
+   "ref": "Appendix 8",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0014",
+   "type": "hop_limit",
+   "note": "36 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R10-base-0016",
+   "type": "hop_limit",
+   "note": "43 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R10-base-0017",
+   "type": "hop_limit",
+   "note": "42 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R10-base-0018",
+   "type": "hop_limit",
+   "note": "42 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R10-base-0020",
+   "type": "hop_limit",
+   "note": "54 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R10-base-0023",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R10-base-0036",
+   "type": "unresolved",
+   "target": "UN R10 2.1.2",
+   "in_corpus": true,
+   "from": "R10|base|7.8.2.2",
+   "ref": "paragraph 2.1.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0036",
+   "type": "unresolved",
+   "target": "UN R10 2.1.2",
+   "in_corpus": true,
+   "from": "R10|base|7.9.2.2",
+   "ref": "paragraph 2.1.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0036",
+   "type": "unresolved",
+   "target": "UN R10 6.3.3.4",
+   "in_corpus": true,
+   "from": "R10|base|7.11.2.1",
+   "ref": "paragraph 6.3.3.4.",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0036",
+   "type": "hop_limit",
+   "note": "452 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R10-base-0037",
+   "type": "hop_limit",
+   "note": "153 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R10-base-0038",
+   "type": "unresolved",
+   "target": "UN R10 Annex 3A",
+   "in_corpus": true,
+   "from": "R10|base|4.2.1.2",
+   "ref": "Annex 3A",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0038",
+   "type": "unresolved",
+   "target": "UN R10 Annex 3B",
+   "in_corpus": true,
+   "from": "R10|base|4.2.2.2",
+   "ref": "Annex 3B",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0038",
+   "type": "unresolved",
+   "target": "UN R10 Annex 3A",
+   "in_corpus": true,
+   "from": "R10|base|4.3",
+   "ref": "Annex 3A",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0038",
+   "type": "unresolved",
+   "target": "UN R10 Annex 6 Appendix 8",
+   "in_corpus": true,
+   "from": "R10|base|Annex 6 2.3.2",
+   "ref": "Appendix 8",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0038",
+   "type": "unresolved",
+   "target": "UN R10 Annex 6 Appendix 8",
+   "in_corpus": true,
+   "from": "R10|base|Annex 6 2.4.2",
+   "ref": "Appendix 8",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0038",
+   "type": "unresolved",
+   "target": "UN R10 Annex 6 Appendix 8",
+   "in_corpus": true,
+   "from": "R10|base|Annex 6 2.4.2",
+   "ref": "Appendix 8",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0038",
+   "type": "unresolved",
+   "target": "UN R10 Annex 6 Appendix 8",
+   "in_corpus": true,
+   "from": "R10|base|Annex 6 2.4.3",
+   "ref": "Appendix 8",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0038",
+   "type": "hop_limit",
+   "note": "231 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R10-base-0039",
+   "type": "hop_limit",
+   "note": "84 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R10-base-0040",
+   "type": "hop_limit",
+   "note": "84 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R10-base-0041",
+   "type": "unresolved",
+   "target": "UN R10 Annex 3",
+   "in_corpus": true,
+   "from": "R10|base|5.3.1",
+   "ref": "Annex 3",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0041",
+   "type": "unresolved",
+   "target": "UN R10 Annex 3",
+   "in_corpus": true,
+   "from": "R10|base|5.3.1",
+   "ref": "Annex 3",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0041",
+   "type": "hop_limit",
+   "note": "77 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R10-base-0042",
+   "type": "unresolved",
+   "target": "UN R10 Annex 3",
+   "in_corpus": true,
+   "from": "R10|base|5.3.1",
+   "ref": "Annex 3",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0042",
+   "type": "unresolved",
+   "target": "UN R10 Annex 3",
+   "in_corpus": true,
+   "from": "R10|base|5.3.1",
+   "ref": "Annex 3",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0042",
+   "type": "hop_limit",
+   "note": "77 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R10-base-0043",
+   "type": "unresolved",
+   "target": "UN R10 Annex 3",
+   "in_corpus": true,
+   "from": "R10|base|5.3.1",
+   "ref": "Annex 3",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0043",
+   "type": "unresolved",
+   "target": "UN R10 Annex 3",
+   "in_corpus": true,
+   "from": "R10|base|5.3.1",
+   "ref": "Annex 3",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0043",
+   "type": "hop_limit",
+   "note": "77 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R10-base-0044",
+   "type": "unresolved",
+   "target": "UN R10 Annex 3",
+   "in_corpus": true,
+   "from": "R10|base|5.3.1",
+   "ref": "Annex 3",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0044",
+   "type": "unresolved",
+   "target": "UN R10 Annex 3",
+   "in_corpus": true,
+   "from": "R10|base|5.3.1",
+   "ref": "Annex 3",
+   "hop": 2
+  },
+  {
+   "requirement": "R10-base-0044",
+   "type": "hop_limit",
+   "note": "77 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R10-base-0049",
+   "type": "hop_limit",
+   "note": "22 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R10-base-0052",
+   "type": "hop_limit",
+   "note": "51 nodes reached at hop 2 were not scanned for further references"
+  }
+ ],
+ "regulation_hints": [
+  {
+   "regulation": "UN R37",
+   "in_corpus": true,
+   "from": "UN R10",
+   "paragraph": "3.2.10",
+   "text": "this ESA is not mechanically interchangeable with any light source according to Regulation No. 37, Regulation No. 99 or Regulation No. 12"
+  },
+  {
+   "regulation": "UN R99",
+   "in_corpus": false,
+   "from": "UN R10",
+   "paragraph": "3.2.10",
+   "text": "hanically interchangeable with any light source according to Regulation No. 37, Regulation No. 99 or Regulation No. 128."
+  },
+  {
+   "regulation": "UN R128",
+   "in_corpus": true,
+   "from": "UN R10",
+   "paragraph": "3.2.10",
+   "text": "able with any light source according to Regulation No. 37, Regulation No. 99 or Regulation No. 128."
+  },
+  {
+   "regulation": "UN R144",
+   "in_corpus": false,
+   "from": "UN R10",
+   "paragraph": "Annex 6 2.1.1.6",
+   "text": "If the vehicle is equipped with an AECS according to UN Regulation No. 144, it shall be tested over the air for th"
+  }
+ ],
+ "summary": {
+  "hop_limit": 19,
+  "unresolved": 32
+ }
+}

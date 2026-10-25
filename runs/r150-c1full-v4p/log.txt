@@ -1,0 +1,7 @@
+UN R150 base (1.2.1): 498 nodes, 127,305 chars -> 4 batches (0 oversized), running 4
+  B-001 §0, §1, §2, §3, §4                                  105 nodes ->  33 reqs
+  B-003 Annex 1, Annex 2, Annex 3, Annex 4 Part 1, Annex 4  155 nodes ->  13 reqs
+  B-004 Annex 6 Part 3, Annex 6 Part 4, Annex 6 Part 5, An  107 nodes ->  23 reqs
+  B-002 §5, §6                                              131 nodes ->  19 reqs
+C1: 88 requirements, 0 flagged; coverage {'processed': 498, 'failed': 0, 'not_processed': 0}; calls 4 (+0 cached)
+T (2 hops): 453 shared context nodes, 26 requirements with incomplete context, diagnostics ['hop_limit', 'unresolved']

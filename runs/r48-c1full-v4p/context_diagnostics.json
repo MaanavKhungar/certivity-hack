@@ -1,0 +1,191 @@
+{
+ "per_requirement": [
+  {
+   "requirement": "R48-base-0001",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0002",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0006",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0007",
+   "type": "hop_limit",
+   "note": "34 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0015",
+   "type": "unresolved",
+   "target": "UN R48 2.14.11.1",
+   "in_corpus": true,
+   "from": "R48|base|5.7.2.1",
+   "ref": "paragraph 2.14.11.1.",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0017",
+   "type": "unresolved",
+   "target": "UN R48 2.14.11.1",
+   "in_corpus": true,
+   "from": "R48|base|5.7.2.1",
+   "ref": "paragraph 2.14.11.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0018",
+   "type": "unresolved",
+   "target": "UN R48 2.14.11.1",
+   "in_corpus": true,
+   "from": "R48|base|5.7.2.1",
+   "ref": "paragraph 2.14.11.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0025",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0026",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0053",
+   "type": "unresolved",
+   "target": "UN R48 2.1.6",
+   "in_corpus": true,
+   "from": "R48|base|5.33",
+   "ref": "paragraph 2.1.6.",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0089",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0103",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0104",
+   "type": "unresolved",
+   "target": "UN R48 2.1.6",
+   "in_corpus": true,
+   "from": "R48|base|Annex 9 1.1",
+   "ref": "paragraph 2.1.6.",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0104",
+   "type": "hop_limit",
+   "note": "39 nodes reached at hop 2 were not scanned for further references"
+  }
+ ],
+ "regulation_hints": [
+  {
+   "regulation": "UN R107",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "2.1.5",
+   "text": "tration plates, the service-door-lighting system according to the provisions of UN Regulation No. 107 on vehicles of categories M2 and M3 and"
+  },
+  {
+   "regulation": "UN R128",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "5.27.3",
+   "text": "control being part of the device, or only light source(s) approved according to UN Regulation No. 128."
+  },
+  {
+   "regulation": "UN R148",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "5.30.1",
+   "text": "urer logo, the lamp shall be type approved according to the requirements of the UN Regulation No. 148."
+  },
+  {
+   "regulation": "UN R148",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "5.33",
+   "text": "t to one approved according to the latest series of amendments to the pertinent UN Regulations Nos. 148 and/or 149 and/or 150, when the change "
+  },
+  {
+   "regulation": "UN R23",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.4.2.3",
+   "text": "hall be type-approved according to the 00 or subsequent series of amendments to UN Regulation No. 23, or to the 00 or subsequent series of a"
+  },
+  {
+   "regulation": "UN R148",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.4.2.3",
+   "text": "nts to UN Regulation No. 23, or to the 00 or subsequent series of amendments to UN Regulation No. 148."
+  },
+  {
+   "regulation": "UN R7",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.7.2",
+   "text": "hall be type-approved according to the 02 or subsequent series of amendments to UN Regulation No. 7, or to the 00 or subsequent series of a"
+  },
+  {
+   "regulation": "UN R148",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.7.2",
+   "text": "ents to UN Regulation No. 7, or to the 00 or subsequent series of amendments to UN Regulation No. 148."
+  },
+  {
+   "regulation": "UN R13",
+   "in_corpus": false,
+   "from": "UN R48",
+   "paragraph": "6.7.7.1",
+   "text": " simultaneously when the braking system provides the relevant signal defined in UN Regulations Nos. 13 and 13-H."
+  },
+  {
+   "regulation": "UN R7",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.10.2",
+   "text": "er Two, type-approved according to the 02 or subsequent series of amendments to UN Regulation No. 7, or to the 00 or subsequent series of a"
+  },
+  {
+   "regulation": "UN R148",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.10.2",
+   "text": "ents to UN Regulation No. 7, or to the 00 or subsequent series of amendments to UN Regulation No. 148."
+  },
+  {
+   "regulation": "UN R3",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.14.2",
+   "text": "Class IA or IB retro-reflectors in the 02 or subsequent series of amendments to UN Regulation No. 3, or in the 00 or subsequent series of a"
+  },
+  {
+   "regulation": "UN R150",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.14.2",
+   "text": "ents to UN Regulation No. 3, or in the 00 or subsequent series of amendments to UN Regulation No. 150. Additional retro-reflecting devices an"
+  }
+ ],
+ "summary": {
+  "hop_limit": 9,
+  "unresolved": 5
+ }
+}

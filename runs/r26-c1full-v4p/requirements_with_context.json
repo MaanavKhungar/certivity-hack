@@ -1,0 +1,1383 @@
+{
+ "regulation": "UN R26",
+ "role": "base",
+ "hops": 2,
+ "requirements": [
+  {
+   "id": "R26-base-0001",
+   "text": "The external projection provisions of UN R26 do not apply to those parts of the lamp's external surface (outer lens, exposed housing rim or seal) which, with the vehicle in the laden condition and all doors, windows and access lids closed, are either at a height of more than 2 m, or below the floor line, or so located that, in their static condition as well as in operation, they cannot be contacted by a sphere 100 mm in diameter.",
+   "table": null,
+   "regulation": "UN R26",
+   "version": "4.0.0",
+   "role": "base",
+   "source_node_ids": [
+    "R26|base|5.1.1",
+    "R26|base|5.1.2",
+    "R26|base|5.1.3",
+    "R26|base|5.1"
+   ],
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "role": "base",
+    "page": 4,
+    "page_end": 4,
+    "paragraph": "5.1.1"
+   },
+   "batch": "B-001",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R26|base|5.1.1",
+    "R26|base|5.1.2",
+    "R26|base|5.1.3",
+    "R26|base|5.1",
+    "R26|base|5",
+    "R26|base|2.3",
+    "R26|base|2.4"
+   ],
+   "edges": [
+    {
+     "from": "R26|base|5.1.1",
+     "to": [
+      "R26|base|5.1"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R26|base|5.1",
+     "to": [
+      "R26|base|5"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R26|base|5.1.2",
+     "to": [
+      "R26|base|5.1"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R26|base|5.1",
+     "to": [
+      "R26|base|5"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R26|base|5.1.3",
+     "to": [
+      "R26|base|5.1"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R26|base|5.1",
+     "to": [
+      "R26|base|5"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R26|base|5.1",
+     "to": [
+      "R26|base|5"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R26|base|5.1.1",
+     "to": [
+      "R26|base|2.3"
+     ],
+     "relation": "definition",
+     "term": "external surface",
+     "hop": 0
+    },
+    {
+     "from": "R26|base|5.1.1",
+     "to": [
+      "R26|base|2.4"
+     ],
+     "relation": "definition",
+     "term": "floor line",
+     "hop": 0
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R26-base-0002",
+   "text": "The lamp's external surface (outer lens, exposed housing rim/bezel or seal), as installed on the M1 vehicle, shall not exhibit, directed outwards, any pointed or sharp parts or any projections of such shape, dimensions, direction or hardness as to be likely to increase the risk or seriousness of bodily injury to a person hit by the external surface or brushing against it in the event of a collision.",
+   "table": null,
+   "regulation": "UN R26",
+   "version": "4.0.0",
+   "role": "base",
+   "source_node_ids": [
+    "R26|base|5.2"
+   ],
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "role": "base",
+    "page": 4,
+    "page_end": 4,
+    "paragraph": "5.2"
+   },
+   "batch": "B-001",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R26|base|5.2",
+    "R26|base|5",
+    "R26|base|2.3"
+   ],
+   "edges": [
+    {
+     "from": "R26|base|5.2",
+     "to": [
+      "R26|base|5"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R26|base|5.2",
+     "to": [
+      "R26|base|2.3"
+     ],
+     "relation": "definition",
+     "term": "external surface",
+     "hop": 0
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R26-base-0003",
+   "text": "The lamp's external surface, as installed on the M1 vehicle, shall not exhibit, directed outwards, any part likely to catch on pedestrians, cyclists or motor cyclists.",
+   "table": null,
+   "regulation": "UN R26",
+   "version": "4.0.0",
+   "role": "base",
+   "source_node_ids": [
+    "R26|base|5.3"
+   ],
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "role": "base",
+    "page": 4,
+    "page_end": 4,
+    "paragraph": "5.3"
+   },
+   "batch": "B-001",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R26|base|5.3",
+    "R26|base|5",
+    "R26|base|2.3"
+   ],
+   "edges": [
+    {
+     "from": "R26|base|5.3",
+     "to": [
+      "R26|base|5"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R26|base|5.3",
+     "to": [
+      "R26|base|2.3"
+     ],
+     "relation": "definition",
+     "term": "external surface",
+     "hop": 0
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R26-base-0004",
+   "text": "No protruding part of the lamp's external surface (outer lens edges, exposed housing rim/bezel edges) shall have a radius of curvature less than 2.5 mm; this does not apply to parts which protrude less than 5 mm, but the outward facing angles of such parts shall be blunted, save where such parts protrude less than 1.5 mm.",
+   "table": null,
+   "regulation": "UN R26",
+   "version": "4.0.0",
+   "role": "base",
+   "source_node_ids": [
+    "R26|base|5.4"
+   ],
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "role": "base",
+    "page": 4,
+    "page_end": 4,
+    "paragraph": "5.4"
+   },
+   "batch": "B-001",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R26|base|5.4",
+    "R26|base|5",
+    "R26|base|2.3",
+    "R26|base|2.5"
+   ],
+   "edges": [
+    {
+     "from": "R26|base|5.4",
+     "to": [
+      "R26|base|5"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R26|base|5.4",
+     "to": [
+      "R26|base|2.3"
+     ],
+     "relation": "definition",
+     "term": "external surface",
+     "hop": 0
+    },
+    {
+     "from": "R26|base|5.4",
+     "to": [
+      "R26|base|2.5"
+     ],
+     "relation": "definition",
+     "term": "radius of curvature",
+     "hop": 0
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R26-base-0005",
+   "text": "If a protruding part of the lamp's external surface (e.g. an exposed seal/gasket of TPE or silicone, or an edge with radius < 2.5 mm) is made of a material of hardness not exceeding 60 Shore A, it may have a radius of curvature less than 2.5 mm; the hardness shall be measured with the component as installed on the vehicle, and where a Shore A measurement is impossible, comparable measurements shall be used for evaluation.",
+   "table": null,
+   "regulation": "UN R26",
+   "version": "4.0.0",
+   "role": "base",
+   "source_node_ids": [
+    "R26|base|5.5"
+   ],
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "role": "base",
+    "page": 4,
+    "page_end": 4,
+    "paragraph": "5.5"
+   },
+   "batch": "B-001",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R26|base|5.5",
+    "R26|base|5",
+    "R26|base|2.3",
+    "R26|base|2.5"
+   ],
+   "edges": [
+    {
+     "from": "R26|base|5.5",
+     "to": [
+      "R26|base|5"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R26|base|5.5",
+     "to": [
+      "R26|base|2.3"
+     ],
+     "relation": "definition",
+     "term": "external surface",
+     "hop": 0
+    },
+    {
+     "from": "R26|base|5.5",
+     "to": [
+      "R26|base|2.5"
+     ],
+     "relation": "definition",
+     "term": "radius of curvature",
+     "hop": 0
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R26-base-0006",
+   "text": "Production lamps fitted to the approved vehicle type shall be so manufactured that the vehicle conforms to the type approved by meeting the requirements of paragraphs 5. and 6. of UN R26.",
+   "table": null,
+   "regulation": "UN R26",
+   "version": "4.0.0",
+   "role": "base",
+   "source_node_ids": [
+    "R26|base|8.1"
+   ],
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "role": "base",
+    "page": 11,
+    "page_end": 11,
+    "paragraph": "8.1"
+   },
+   "batch": "B-001",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R26|base|8.1",
+    "R26|base|8",
+    "R26|base|5",
+    "R26|base|5.1",
+    "R26|base|5.1.1",
+    "R26|base|5.1.2",
+    "R26|base|5.1.3",
+    "R26|base|5.2",
+    "R26|base|5.3",
+    "R26|base|5.4",
+    "R26|base|5.5",
+    "R26|base|5.6",
+    "R26|base|6",
+    "R26|base|6.1",
+    "R26|base|6.1.1",
+    "R26|base|6.1.2",
+    "R26|base|6.2",
+    "R26|base|6.2.1",
+    "R26|base|6.2.2",
+    "R26|base|6.2.3",
+    "R26|base|6.3",
+    "R26|base|6.3.1",
+    "R26|base|6.3.2",
+    "R26|base|6.4",
+    "R26|base|6.4.1",
+    "R26|base|6.4.2",
+    "R26|base|6.4.3",
+    "R26|base|6.5",
+    "R26|base|6.5.1",
+    "R26|base|6.5.2",
+    "R26|base|6.5.3",
+    "R26|base|6.5.4",
+    "R26|base|6.6",
+    "R26|base|6.6.1",
+    "R26|base|6.6.2",
+    "R26|base|6.6.2.1",
+    "R26|base|6.6.2.2",
+    "R26|base|6.7",
+    "R26|base|6.7.1",
+    "R26|base|6.7.2",
+    "R26|base|6.7.3",
+    "R26|base|6.8",
+    "R26|base|6.8.1",
+    "R26|base|6.9",
+    "R26|base|6.9.1",
+    "R26|base|6.10",
+    "R26|base|6.10.1",
+    "R26|base|6.11",
+    "R26|base|6.11.1",
+    "R26|base|6.12",
+    "R26|base|6.12.1",
+    "R26|base|6.13",
+    "R26|base|6.13.1",
+    "R26|base|6.13.2",
+    "R26|base|6.13.2.1",
+    "R26|base|6.13.2.2",
+    "R26|base|6.14",
+    "R26|base|6.14.1",
+    "R26|base|6.14.1.1",
+    "R26|base|6.14.1.2",
+    "R26|base|6.15",
+    "R26|base|6.15.1",
+    "R26|base|6.16",
+    "R26|base|6.16.1",
+    "R26|base|6.16.2",
+    "R26|base|6.16.3",
+    "R26|base|6.17",
+    "R26|base|6.17.1",
+    "R26|base|6.17.2",
+    "R26|base|6.17.3",
+    "R26|base|6.17.4",
+    "R26|base|6.17.4.1",
+    "R26|base|6.17.4.2",
+    "R26|base|6.18",
+    "R26|base|6.18.1",
+    "R26|base|3",
+    "R26|base|3.1",
+    "R26|base|3.1.1",
+    "R26|base|3.1.2",
+    "R26|base|3.1.2.1",
+    "R26|base|3.1.2.2",
+    "R26|base|3.1.2.3",
+    "R26|base|3.1.3",
+    "R26|base|3.2",
+    "R26|base|3.2.1",
+    "R26|base|3.2.2",
+    "R26|base|3.2.2.1",
+    "R26|base|3.2.2.2",
+    "R26|base|4",
+    "R26|base|4.1",
+    "R26|base|4.1.1",
+    "R26|base|4.1.2",
+    "R26|base|4.1.3",
+    "R26|base|4.1.4",
+    "R26|base|4.1.4.2",
+    "R26|base|4.1.5",
+    "R26|base|4.1.6",
+    "R26|base|4.1.7",
+    "R26|base|4.1.8",
+    "R26|base|4.1.9",
+    "R26|base|4.2",
+    "R26|base|4.2.1",
+    "R26|base|4.2.2",
+    "R26|base|4.2.3",
+    "R26|base|4.2.4",
+    "R26|base|4.2.4.1",
+    "R26|base|4.2.4.2",
+    "R26|base|4.2.5",
+    "R26|base|4.2.6",
+    "R26|base|4.2.7",
+    "R26|base|4.2.8",
+    "R26|base|1",
+    "R26|base|1.1",
+    "R26|base|1.2",
+    "R26|base|2",
+    "R26|base|2.1",
+    "R26|base|2.2",
+    "R26|base|2.3",
+    "R26|base|2.4",
+    "R26|base|2.5",
+    "R26|base|2.6",
+    "R26|base|2.7",
+    "R26|base|2.7.1",
+    "R26|base|2.7.2",
+    "R26|base|2.7.3",
+    "R26|base|2.7.4",
+    "R26|base|2.7.5",
+    "R26|base|2.8",
+    "R26|base|2.9",
+    "R26|base|2.10",
+    "R26|base|2.11",
+    "R26|base|2.12"
+   ],
+   "edges": [
+    {
+     "from": "R26|base|8.1",
+     "to": [
+      "R26|base|8"
+     ],
+     "relation": "parent",
+     "hop": 0
+    },
+    {
+     "from": "R26|base|8.1",
+     "to": [
+      "R26|base|5",
+      "R26|base|5.1",
+      "R26|base|5.1.1",
+      "R26|base|5.1.2",
+      "R26|base|5.1.3",
+      "R26|base|5.2",
+      "R26|base|5.3",
+      "R26|base|5.4",
+      "R26|base|5.5",
+      "R26|base|5.6"
+     ],
+     "target": "UN R26 5",
+     "relation": "reference",
+     "ref": "paragraphs 5. and 6.",
+     "hop": 1,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|8.1",
+     "to": [
+      "R26|base|6",
+      "R26|base|6.1",
+      "R26|base|6.1.1",
+      "R26|base|6.1.2",
+      "R26|base|6.2",
+      "R26|base|6.2.1",
+      "R26|base|6.2.2",
+      "R26|base|6.2.3",
+      "R26|base|6.3",
+      "R26|base|6.3.1",
+      "R26|base|6.3.2",
+      "R26|base|6.4",
+      "R26|base|6.4.1",
+      "R26|base|6.4.2",
+      "R26|base|6.4.3",
+      "R26|base|6.5",
+      "R26|base|6.5.1",
+      "R26|base|6.5.2",
+      "R26|base|6.5.3",
+      "R26|base|6.5.4",
+      "R26|base|6.6",
+      "R26|base|6.6.1",
+      "R26|base|6.6.2",
+      "R26|base|6.6.2.1",
+      "R26|base|6.6.2.2",
+      "R26|base|6.7",
+      "R26|base|6.7.1",
+      "R26|base|6.7.2",
+      "R26|base|6.7.3",
+      "R26|base|6.8",
+      "R26|base|6.8.1",
+      "R26|base|6.9",
+      "R26|base|6.9.1",
+      "R26|base|6.10",
+      "R26|base|6.10.1",
+      "R26|base|6.11",
+      "R26|base|6.11.1",
+      "R26|base|6.12",
+      "R26|base|6.12.1",
+      "R26|base|6.13",
+      "R26|base|6.13.1",
+      "R26|base|6.13.2",
+      "R26|base|6.13.2.1",
+      "R26|base|6.13.2.2",
+      "R26|base|6.14",
+      "R26|base|6.14.1",
+      "R26|base|6.14.1.1",
+      "R26|base|6.14.1.2",
+      "R26|base|6.15",
+      "R26|base|6.15.1",
+      "R26|base|6.16",
+      "R26|base|6.16.1",
+      "R26|base|6.16.2",
+      "R26|base|6.16.3",
+      "R26|base|6.17",
+      "R26|base|6.17.1",
+      "R26|base|6.17.2",
+      "R26|base|6.17.3",
+      "R26|base|6.17.4",
+      "R26|base|6.17.4.1",
+      "R26|base|6.17.4.2",
+      "R26|base|6.18",
+      "R26|base|6.18.1"
+     ],
+     "target": "UN R26 6",
+     "relation": "reference",
+     "ref": "paragraphs 5. and 6.",
+     "hop": 1,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|5.6",
+     "to": [
+      "R26|base|5.1",
+      "R26|base|5.1.1",
+      "R26|base|5.1.2",
+      "R26|base|5.1.3"
+     ],
+     "target": "UN R26 5.1",
+     "relation": "reference",
+     "ref": "paragraphs 5.1. to 5.5.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|5.6",
+     "to": [
+      "R26|base|5.2"
+     ],
+     "target": "UN R26 5.2",
+     "relation": "reference",
+     "ref": "paragraphs 5.1. to 5.5.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|5.6",
+     "to": [
+      "R26|base|5.3"
+     ],
+     "target": "UN R26 5.3",
+     "relation": "reference",
+     "ref": "paragraphs 5.1. to 5.5.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|5.6",
+     "to": [
+      "R26|base|5.4"
+     ],
+     "target": "UN R26 5.4",
+     "relation": "reference",
+     "ref": "paragraphs 5.1. to 5.5.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|5.6",
+     "to": [
+      "R26|base|5.5"
+     ],
+     "target": "UN R26 5.5",
+     "relation": "reference",
+     "ref": "paragraphs 5.1. to 5.5.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|5.6",
+     "to": [
+      "R26|base|6",
+      "R26|base|6.1",
+      "R26|base|6.1.1",
+      "R26|base|6.1.2",
+      "R26|base|6.2",
+      "R26|base|6.2.1",
+      "R26|base|6.2.2",
+      "R26|base|6.2.3",
+      "R26|base|6.3",
+      "R26|base|6.3.1",
+      "R26|base|6.3.2",
+      "R26|base|6.4",
+      "R26|base|6.4.1",
+      "R26|base|6.4.2",
+      "R26|base|6.4.3",
+      "R26|base|6.5",
+      "R26|base|6.5.1",
+      "R26|base|6.5.2",
+      "R26|base|6.5.3",
+      "R26|base|6.5.4",
+      "R26|base|6.6",
+      "R26|base|6.6.1",
+      "R26|base|6.6.2",
+      "R26|base|6.6.2.1",
+      "R26|base|6.6.2.2",
+      "R26|base|6.7",
+      "R26|base|6.7.1",
+      "R26|base|6.7.2",
+      "R26|base|6.7.3",
+      "R26|base|6.8",
+      "R26|base|6.8.1",
+      "R26|base|6.9",
+      "R26|base|6.9.1",
+      "R26|base|6.10",
+      "R26|base|6.10.1",
+      "R26|base|6.11",
+      "R26|base|6.11.1",
+      "R26|base|6.12",
+      "R26|base|6.12.1",
+      "R26|base|6.13",
+      "R26|base|6.13.1",
+      "R26|base|6.13.2",
+      "R26|base|6.13.2.1",
+      "R26|base|6.13.2.2",
+      "R26|base|6.14",
+      "R26|base|6.14.1",
+      "R26|base|6.14.1.1",
+      "R26|base|6.14.1.2",
+      "R26|base|6.15",
+      "R26|base|6.15.1",
+      "R26|base|6.16",
+      "R26|base|6.16.1",
+      "R26|base|6.16.2",
+      "R26|base|6.16.3",
+      "R26|base|6.17",
+      "R26|base|6.17.1",
+      "R26|base|6.17.2",
+      "R26|base|6.17.3",
+      "R26|base|6.17.4",
+      "R26|base|6.17.4.1",
+      "R26|base|6.17.4.2",
+      "R26|base|6.18",
+      "R26|base|6.18.1"
+     ],
+     "target": "UN R26 6",
+     "relation": "reference",
+     "ref": "paragraph 6.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.1.1",
+     "to": [
+      "R26|base|5",
+      "R26|base|5.1",
+      "R26|base|5.1.1",
+      "R26|base|5.1.2",
+      "R26|base|5.1.3",
+      "R26|base|5.2",
+      "R26|base|5.3",
+      "R26|base|5.4",
+      "R26|base|5.5",
+      "R26|base|5.6"
+     ],
+     "target": "UN R26 5",
+     "relation": "reference",
+     "ref": "paragraph 5.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.1.1",
+     "to": [
+      "R26|base|5.2"
+     ],
+     "target": "UN R26 5.2",
+     "relation": "reference",
+     "ref": "paragraph 5.2.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.1.2",
+     "to": [
+      "R26|base|6.1.1"
+     ],
+     "target": "UN R26 6.1.1",
+     "relation": "reference",
+     "ref": "paragraph 6.1.1.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.2.1",
+     "to": [
+      "R26|base|3",
+      "R26|base|3.1",
+      "R26|base|3.1.1",
+      "R26|base|3.1.2",
+      "R26|base|3.1.2.1",
+      "R26|base|3.1.2.2",
+      "R26|base|3.1.2.3",
+      "R26|base|3.1.3",
+      "R26|base|3.2",
+      "R26|base|3.2.1",
+      "R26|base|3.2.2",
+      "R26|base|3.2.2.1",
+      "R26|base|3.2.2.2"
+     ],
+     "target": "UN R26 3",
+     "relation": "reference",
+     "ref": "paragraph 3.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.2.2",
+     "to": [
+      "R26|base|6.2.1"
+     ],
+     "target": "UN R26 6.2.1",
+     "relation": "reference",
+     "ref": "paragraph 6.2.1.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.2.3",
+     "to": [
+      "R26|base|6.2.1"
+     ],
+     "target": "UN R26 6.2.1",
+     "relation": "reference",
+     "ref": "paragraph 6.2.1.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.2.3",
+     "to": [
+      "R26|base|6.9.1"
+     ],
+     "target": "UN R26 6.9.1",
+     "relation": "reference",
+     "ref": "paragraph 6.9.1.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.3.1",
+     "to": [
+      "R26|base|5.4"
+     ],
+     "target": "UN R26 5.4",
+     "relation": "reference",
+     "ref": "paragraph 5.4.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.3.1",
+     "to": [
+      "R26|base|4",
+      "R26|base|4.1",
+      "R26|base|4.1.1",
+      "R26|base|4.1.2",
+      "R26|base|4.1.3",
+      "R26|base|4.1.4",
+      "R26|base|4.1.4.2",
+      "R26|base|4.1.5",
+      "R26|base|4.1.6",
+      "R26|base|4.1.7",
+      "R26|base|4.1.8",
+      "R26|base|4.1.9",
+      "R26|base|4.2",
+      "R26|base|4.2.1",
+      "R26|base|4.2.2",
+      "R26|base|4.2.3",
+      "R26|base|4.2.4",
+      "R26|base|4.2.4.1",
+      "R26|base|4.2.4.2",
+      "R26|base|4.2.5",
+      "R26|base|4.2.6",
+      "R26|base|4.2.7",
+      "R26|base|4.2.8"
+     ],
+     "target": "UN R26 4",
+     "relation": "reference",
+     "ref": "paragraph 4.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.4.1",
+     "to": [
+      "R26|base|5.4"
+     ],
+     "target": "UN R26 5.4",
+     "relation": "reference",
+     "ref": "paragraph 5.4.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.4.1",
+     "to": [
+      "R26|base|5.4"
+     ],
+     "target": "UN R26 5.4",
+     "relation": "reference",
+     "ref": "paragraph 5.4.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.4.2",
+     "to": [
+      "R26|base|5.4"
+     ],
+     "target": "UN R26 5.4",
+     "relation": "reference",
+     "ref": "Paragraph 5.4.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.4.3",
+     "to": [
+      "R26|base|6.4.1"
+     ],
+     "target": "UN R26 6.4.1",
+     "relation": "reference",
+     "ref": "paragraphs 6.4.1 and 6.4.2",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.4.3",
+     "to": [
+      "R26|base|6.4.2"
+     ],
+     "target": "UN R26 6.4.2",
+     "relation": "reference",
+     "ref": "paragraphs 6.4.1 and 6.4.2",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.5.3",
+     "to": [
+      "R26|base|6.5.2"
+     ],
+     "target": "UN R26 6.5.2",
+     "relation": "reference",
+     "ref": "paragraph 6.5.2.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.5.4",
+     "to": [
+      "R26|base|6.5.2"
+     ],
+     "target": "UN R26 6.5.2",
+     "relation": "reference",
+     "ref": "paragraph 6.5.2.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.5.4",
+     "to": [
+      "R26|base|5",
+      "R26|base|5.1",
+      "R26|base|5.1.1",
+      "R26|base|5.1.2",
+      "R26|base|5.1.3",
+      "R26|base|5.2",
+      "R26|base|5.3",
+      "R26|base|5.4",
+      "R26|base|5.5",
+      "R26|base|5.6"
+     ],
+     "target": "UN R26 5",
+     "relation": "reference",
+     "ref": "paragraph 5.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.6.2.2",
+     "to": [
+      "R26|base|5.4"
+     ],
+     "target": "UN R26 5.4",
+     "relation": "reference",
+     "ref": "paragraph 5.4.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.7.1",
+     "to": [
+      "R26|base|5.4"
+     ],
+     "target": "UN R26 5.4",
+     "relation": "reference",
+     "ref": "paragraph 5.4.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.8.1",
+     "to": [
+      "R26|base|5.4"
+     ],
+     "target": "UN R26 5.4",
+     "relation": "reference",
+     "ref": "paragraph 5.4.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.9.1",
+     "to": [
+      "R26|base|1",
+      "R26|base|1.1",
+      "R26|base|1.2"
+     ],
+     "target": "UN R26 1",
+     "relation": "reference",
+     "ref": "paragraph 1.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.12.1",
+     "to": [
+      "R26|base|5.2"
+     ],
+     "target": "UN R26 5.2",
+     "relation": "reference",
+     "ref": "paragraphs 5.2., 5.3. and 5.4.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.12.1",
+     "to": [
+      "R26|base|5.3"
+     ],
+     "target": "UN R26 5.3",
+     "relation": "reference",
+     "ref": "paragraphs 5.2., 5.3. and 5.4.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.12.1",
+     "to": [
+      "R26|base|5.4"
+     ],
+     "target": "UN R26 5.4",
+     "relation": "reference",
+     "ref": "paragraphs 5.2., 5.3. and 5.4.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.15.1",
+     "to": [
+      "R26|base|5.4"
+     ],
+     "target": "UN R26 5.4",
+     "relation": "reference",
+     "ref": "paragraph 5.4.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.16.2",
+     "to": [
+      "R26|base|6.3",
+      "R26|base|6.3.1",
+      "R26|base|6.3.2"
+     ],
+     "target": "UN R26 6.3",
+     "relation": "reference",
+     "ref": "paragraph 6.3.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.16.3",
+     "to": [
+      "R26|base|6.16.2"
+     ],
+     "target": "UN R26 6.16.2",
+     "relation": "reference",
+     "ref": "paragraph 6.16.2.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.16.3",
+     "to": [
+      "R26|base|2",
+      "R26|base|2.1",
+      "R26|base|2.2",
+      "R26|base|2.3",
+      "R26|base|2.4",
+      "R26|base|2.5",
+      "R26|base|2.6",
+      "R26|base|2.7",
+      "R26|base|2.7.1",
+      "R26|base|2.7.2",
+      "R26|base|2.7.3",
+      "R26|base|2.7.4",
+      "R26|base|2.7.5",
+      "R26|base|2.8",
+      "R26|base|2.9",
+      "R26|base|2.10",
+      "R26|base|2.11",
+      "R26|base|2.12"
+     ],
+     "target": "UN R26 2",
+     "relation": "reference",
+     "ref": "paragraph 2.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.16.3",
+     "to": [
+      "R26|base|2.2"
+     ],
+     "target": "UN R26 2.2",
+     "relation": "reference",
+     "ref": "paragraph 2.2.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.17.1",
+     "to": [
+      "R26|base|2.7",
+      "R26|base|2.7.1",
+      "R26|base|2.7.2",
+      "R26|base|2.7.3",
+      "R26|base|2.7.4",
+      "R26|base|2.7.5"
+     ],
+     "target": "UN R26 2.7",
+     "relation": "reference",
+     "ref": "paragraph 2.7.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.17.2",
+     "to": [
+      "R26|base|2.7",
+      "R26|base|2.7.1",
+      "R26|base|2.7.2",
+      "R26|base|2.7.3",
+      "R26|base|2.7.4",
+      "R26|base|2.7.5"
+     ],
+     "target": "UN R26 2.7",
+     "relation": "reference",
+     "ref": "paragraph 2.7.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.17.4",
+     "to": [
+      "R26|base|2",
+      "R26|base|2.1",
+      "R26|base|2.2",
+      "R26|base|2.3",
+      "R26|base|2.4",
+      "R26|base|2.5",
+      "R26|base|2.6",
+      "R26|base|2.7",
+      "R26|base|2.7.1",
+      "R26|base|2.7.2",
+      "R26|base|2.7.3",
+      "R26|base|2.7.4",
+      "R26|base|2.7.5",
+      "R26|base|2.8",
+      "R26|base|2.9",
+      "R26|base|2.10",
+      "R26|base|2.11",
+      "R26|base|2.12"
+     ],
+     "target": "UN R26 2",
+     "relation": "reference",
+     "ref": "paragraph 2.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.17.4.2",
+     "to": [
+      "R26|base|6.17.4",
+      "R26|base|6.17.4.1",
+      "R26|base|6.17.4.2"
+     ],
+     "target": "UN R26 6.17.4",
+     "relation": "reference",
+     "ref": "Paragraphs 6.17.4. and 6.17.4.1.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.17.4.2",
+     "to": [
+      "R26|base|6.17.4.1"
+     ],
+     "target": "UN R26 6.17.4.1",
+     "relation": "reference",
+     "ref": "Paragraphs 6.17.4. and 6.17.4.1.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.17.4.2",
+     "to": [
+      "R26|base|2",
+      "R26|base|2.1",
+      "R26|base|2.2",
+      "R26|base|2.3",
+      "R26|base|2.4",
+      "R26|base|2.5",
+      "R26|base|2.6",
+      "R26|base|2.7",
+      "R26|base|2.7.1",
+      "R26|base|2.7.2",
+      "R26|base|2.7.3",
+      "R26|base|2.7.4",
+      "R26|base|2.7.5",
+      "R26|base|2.8",
+      "R26|base|2.9",
+      "R26|base|2.10",
+      "R26|base|2.11",
+      "R26|base|2.12"
+     ],
+     "target": "UN R26 2",
+     "relation": "reference",
+     "ref": "paragraph 2.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.17.4.2",
+     "to": [
+      "R26|base|6.17.4.1"
+     ],
+     "target": "UN R26 6.17.4.1",
+     "relation": "reference",
+     "ref": "paragraph 6.17.4.1.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.18.1",
+     "to": [
+      "R26|base|5",
+      "R26|base|5.1",
+      "R26|base|5.1.1",
+      "R26|base|5.1.2",
+      "R26|base|5.1.3",
+      "R26|base|5.2",
+      "R26|base|5.3",
+      "R26|base|5.4",
+      "R26|base|5.5",
+      "R26|base|5.6"
+     ],
+     "target": "UN R26 5",
+     "relation": "reference",
+     "ref": "paragraphs 5. and 6.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|6.18.1",
+     "to": [
+      "R26|base|6",
+      "R26|base|6.1",
+      "R26|base|6.1.1",
+      "R26|base|6.1.2",
+      "R26|base|6.2",
+      "R26|base|6.2.1",
+      "R26|base|6.2.2",
+      "R26|base|6.2.3",
+      "R26|base|6.3",
+      "R26|base|6.3.1",
+      "R26|base|6.3.2",
+      "R26|base|6.4",
+      "R26|base|6.4.1",
+      "R26|base|6.4.2",
+      "R26|base|6.4.3",
+      "R26|base|6.5",
+      "R26|base|6.5.1",
+      "R26|base|6.5.2",
+      "R26|base|6.5.3",
+      "R26|base|6.5.4",
+      "R26|base|6.6",
+      "R26|base|6.6.1",
+      "R26|base|6.6.2",
+      "R26|base|6.6.2.1",
+      "R26|base|6.6.2.2",
+      "R26|base|6.7",
+      "R26|base|6.7.1",
+      "R26|base|6.7.2",
+      "R26|base|6.7.3",
+      "R26|base|6.8",
+      "R26|base|6.8.1",
+      "R26|base|6.9",
+      "R26|base|6.9.1",
+      "R26|base|6.10",
+      "R26|base|6.10.1",
+      "R26|base|6.11",
+      "R26|base|6.11.1",
+      "R26|base|6.12",
+      "R26|base|6.12.1",
+      "R26|base|6.13",
+      "R26|base|6.13.1",
+      "R26|base|6.13.2",
+      "R26|base|6.13.2.1",
+      "R26|base|6.13.2.2",
+      "R26|base|6.14",
+      "R26|base|6.14.1",
+      "R26|base|6.14.1.1",
+      "R26|base|6.14.1.2",
+      "R26|base|6.15",
+      "R26|base|6.15.1",
+      "R26|base|6.16",
+      "R26|base|6.16.1",
+      "R26|base|6.16.2",
+      "R26|base|6.16.3",
+      "R26|base|6.17",
+      "R26|base|6.17.1",
+      "R26|base|6.17.2",
+      "R26|base|6.17.3",
+      "R26|base|6.17.4",
+      "R26|base|6.17.4.1",
+      "R26|base|6.17.4.2",
+      "R26|base|6.18",
+      "R26|base|6.18.1"
+     ],
+     "target": "UN R26 6",
+     "relation": "reference",
+     "ref": "paragraphs 5. and 6.",
+     "hop": 2,
+     "cross_regulation": false
+    },
+    {
+     "from": "R26|base|8.1",
+     "to": [
+      "R26|base|2.2"
+     ],
+     "relation": "definition",
+     "term": "vehicle type",
+     "hop": 0
+    }
+   ],
+   "diagnostics": [
+    {
+     "type": "hop_limit",
+     "note": "57 nodes reached at hop 2 were not scanned for further references"
+    }
+   ],
+   "context_status": "resolved_within_policy"
+  },
+  {
+   "id": "R26-base-0007",
+   "text": "Where the lamp protrudes beyond the nominal line of the panel and is mounted on a surface other than convex, if the dimension of the lamp's projection cannot be determined by simple measurement, the projection dimension shall be determined as the maximum variation of the distance of the centre of a 100 mm diameter sphere from the nominal line of the panel when the sphere is moved over the lamp while in constant contact with it (see Annex 3, Figure 3).",
+   "table": null,
+   "regulation": "UN R26",
+   "version": "4.0.0",
+   "role": "base",
+   "source_node_ids": [
+    "R26|base|Annex 3 2.2"
+   ],
+   "source": {
+    "regulation": "UN R26",
+    "version": "4.0.0",
+    "role": "base",
+    "page": 15,
+    "page_end": 15,
+    "paragraph": "Annex 3 2.2"
+   },
+   "batch": "B-002",
+   "validation": "valid",
+   "possible_duplicate_of": null,
+   "context_node_ids": [
+    "R26|base|Annex 3 2.2",
+    "R26|base|Annex 3 2"
+   ],
+   "edges": [
+    {
+     "from": "R26|base|Annex 3 2.2",
+     "to": [
+      "R26|base|Annex 3 2"
+     ],
+     "relation": "parent",
+     "hop": 0
+    }
+   ],
+   "diagnostics": [],
+   "context_status": "resolved_within_policy"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "per_requirement": [
+  {
+   "requirement": "R26-base-0006",
+   "type": "hop_limit",
+   "note": "57 nodes reached at hop 2 were not scanned for further references"
+  }
+ ],
+ "regulation_hints": [],
+ "summary": {
+  "hop_limit": 1
+ }
+}

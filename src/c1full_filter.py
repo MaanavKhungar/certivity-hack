@@ -126,10 +126,12 @@ def main(argv=None):
 
     rows = []
 
-    def judged(name, sub):
+    def judged(name, sub, save_as=None):
         d = out / f"judge_{name.replace(' ', '_').replace('>=', 'ge')}"
         d.mkdir(exist_ok=True)
         (d / "submission.json").write_text(json.dumps(sub, indent=1, ensure_ascii=False))
+        if save_as:                                       # the filtered list as an uploadable file
+            (out / save_as).write_text(json.dumps(sub, indent=1, ensure_ascii=False))
         problems = rp.validate(sub)
         J = judge.judge(sub, exp, d)
         s = J["summary"]
@@ -144,7 +146,7 @@ def main(argv=None):
     judged("c1full v3, no filter", submission(allreqs, case.name, a.team))
     for t in [float(x) for x in a.thresholds.split(",")]:
         kept = [r for r in allreqs if not scores[r["id"]]["duplicate_of"] and (scores[r["id"]]["score"] or 0) >= t]
-        judged(f"c1full v3 -> D2 score >= {t}", submission(kept, case.name, a.team))
+        judged(f"c1full v3 -> D2 score >= {t}", submission(kept, case.name, a.team), f"submission_d2_ge{t}.json")
 
     log(f"\n## Filtered lists on {', '.join(regs)} (judge.py)\n\n| list | submitted | matched | expected | precision | recall | F2 | "
         + " | ".join(regs) + " (matched/submitted) |\n|---|---|---|---|---|---|---|" + "---|" * len(regs))

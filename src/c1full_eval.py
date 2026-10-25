@@ -124,19 +124,22 @@ def main(argv=None):
             pr = J["per_regulation"].get(r["reg"], {})
             rows.append((r["reg"], name, len(reqs), pr.get("matched", 0), len(E["requirements"]),
                          Counter(u["reason"] for u in pr.get("unmatched_expected", []))))
-    log("\n## Requirement-level recall (judge.py)\n\n| regulation | c1full set | submitted | matched | expected | recall | "
-        "baseline C1 recall | misses by reason |\n|---|---|---|---|---|---|---|---|")
+    f2 = lambda m, n, e: 5 * (m / n) * (m / e) / (4 * (m / n) + m / e) if m else 0.0
+    log("\n## Requirement-level scores (judge.py)\n\n| regulation | c1full set | submitted | matched | expected | precision | recall | F2 | "
+        "baseline C1 recall | misses by reason |\n|---|---|---|---|---|---|---|---|---|---|")
     tot = {}
     for reg, name, n, m, e, why in rows:
         b = base_j.get(reg)
         brec = f"{b['matched'] / b['expected']:.3f} ({b['matched']}/{b['expected']})" if b and b["expected"] else "–"
-        log(f"| {reg} | {name} | {n} | {m} | {e} | {m / e:.3f} | {brec} | {dict(why)} |")
-        t = tot.setdefault(name, [0, 0]); t[0] += m; t[1] += e
+        log(f"| {reg} | {name} | {n} | {m} | {e} | {m / n if n else 0:.3f} | {m / e:.3f} | {f2(m, n, e):.3f} | {brec} | {dict(why)} |")
+        t = tot.setdefault(name, [0, 0, 0]); t[0] += m; t[1] += e; t[2] += n
     bm = sum(base_j[r]["matched"] for r in {x[0] for x in rows} if r in base_j)
     be = sum(base_j[r]["expected"] for r in {x[0] for x in rows} if r in base_j)
-    for name, (m, e) in tot.items():
-        log(f"| **all** | {name} | | {m} | {e} | **{m / e:.3f}** | {f'{bm / be:.3f} ({bm}/{be})' if be else '–'} | |")
-    log("\nPrecision/F2 are not reported: c1full extracts the whole PDF, expected.json is product-specific.")
+    for name, (m, e, n) in tot.items():
+        log(f"| **all** | {name} | {n} | {m} | {e} | {m / n if n else 0:.3f} | **{m / e:.3f}** | **{f2(m, n, e):.3f}** | "
+            f"{f'{bm / be:.3f} ({bm}/{be})' if be else '–'} | |")
+    log("\nPrecision/F2 mean something only for product-filtered runs (c1full --product); a product-free run is scored "
+        "against a product-specific expected.json.")
     (out / "summary.md").write_text("\n".join(lines) + "\n")
 
 
