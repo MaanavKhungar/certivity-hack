@@ -24,6 +24,9 @@ def main(argv=None):
     ap.add_argument("--expected", help="expected.json: also judge the submission (evaluation only)")
     ap.add_argument("--agree-with", nargs="+", help="runs of an independent second C1 pass (same prompt, other batches): "
                     "keep only requirements the second pass confirms (self-consistency)")
+    ap.add_argument("--drop-sparse-annex-pages", type=int, default=0, metavar="N",
+                    help="drop requirements on pages where ALL requirements cite annexes and there are at most N of them "
+                         "(rear lamp: expert pages are dense; sparse annex-only pages were 2/3 noise)")
     ap.add_argument("--agree-level", choices=["page", "paragraph"], default="page",
                     help="page: the second pass cites the same page of the regulation; paragraph: the same paragraph")
     a = ap.parse_args(argv)
@@ -57,6 +60,19 @@ def main(argv=None):
             reqs.append({"id": rid, "text": r["text"],
                          "source": {k: r["source"][k] for k in ("regulation", "version", "page", "paragraph")}})
             mapping[rid] = {"run": d.name, "c1full_id": r["id"]}
+    if a.drop_sparse_annex_pages:
+        by_page = {}
+        for r in reqs:
+            by_page.setdefault((r["source"]["regulation"], r["source"]["page"]), []).append(r)
+        sparse = {k for k, rs in by_page.items() if len(rs) <= a.drop_sparse_annex_pages
+                  and all(str(r["source"]["paragraph"]).startswith("Annex") for r in rs)}
+        before = len(reqs)
+        reqs = [r for r in reqs if (r["source"]["regulation"], r["source"]["page"]) not in sparse]
+        old_ids = {r["id"]: f"R-{i + 1:04d}" for i, r in enumerate(reqs)}
+        mapping = {old_ids[k]: v for k, v in mapping.items() if k in old_ids}
+        for r in reqs:
+            r["id"] = old_ids[r["id"]]
+        print(f"sparse annex pages: dropped {len(sparse)} pages, {before - len(reqs)} requirements")
     sub = {"team_id": a.team, "case_id": a.case, "requirements": reqs}
     problems = rp.validate(sub)
     (out / "submission.json").write_text(json.dumps(sub, indent=1, ensure_ascii=False))
