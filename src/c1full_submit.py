@@ -22,10 +22,22 @@ def main(argv=None):
     ap.add_argument("--out", required=True)
     ap.add_argument("--core-only", action="store_true", help="keep only requirements C1 marked priority=core (v6)")
     ap.add_argument("--expected", help="expected.json: also judge the submission (evaluation only)")
+    ap.add_argument("--agree-with", nargs="+", help="runs of an independent second C1 pass (same prompt, other batches): "
+                    "keep only requirements the second pass confirms (self-consistency)")
+    ap.add_argument("--agree-level", choices=["page", "paragraph"], default="page",
+                    help="page: the second pass cites the same page of the regulation; paragraph: the same paragraph")
     a = ap.parse_args(argv)
     out = Path(a.out)
     out.mkdir(parents=True, exist_ok=True)
     reqs, mapping, per = [], {}, {}
+    confirmed = None                                      # (regulation, page) or (regulation, paragraph) of the 2nd pass
+    if a.agree_with:
+        para = lambda src: str(src["paragraph"]).split(". Table")[0]
+        key = (lambda src: (src["regulation"], src["page"])) if a.agree_level == "page" else \
+              (lambda src: (src["regulation"], para(src)))
+        confirmed = {key(r["source"]) for d in map(Path, a.agree_with)
+                     for r in json.loads((d / "requirements_with_context.json").read_text())["requirements"]}
+        dropped = 0
     for d in map(Path, a.runs):
         m = json.loads((d / "extraction_manifest.json").read_text())
         if not m.get("product_filter"):
@@ -35,6 +47,10 @@ def main(argv=None):
         rs = json.loads((d / "requirements_with_context.json").read_text())["requirements"]
         if a.core_only:
             rs = [r for r in rs if r.get("priority", "core") == "core"]
+        if confirmed is not None:
+            before = len(rs)
+            rs = [r for r in rs if key(r["source"]) in confirmed]
+            dropped += before - len(rs)
         per[m["regulation"]] = len(rs)
         for r in rs:
             rid = f"R-{len(reqs) + 1:04d}"
@@ -46,6 +62,8 @@ def main(argv=None):
     (out / "submission.json").write_text(json.dumps(sub, indent=1, ensure_ascii=False))
     (out / "submission_mapping.json").write_text(json.dumps(mapping, indent=1, ensure_ascii=False))
     print(f"{len(reqs)} requirements {per} -> {out / 'submission.json'}; validation: {'OK' if not problems else problems[:5]}")
+    if confirmed is not None:
+        print(f"self-consistency ({a.agree_level}): dropped {dropped} requirements the second pass does not confirm")
     if a.expected:
         import judge
         (out / "judge").mkdir(exist_ok=True)
