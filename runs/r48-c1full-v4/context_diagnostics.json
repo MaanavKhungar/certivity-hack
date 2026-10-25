@@ -1,0 +1,3308 @@
+{
+ "per_requirement": [
+  {
+   "requirement": "R48-base-0003",
+   "type": "hop_limit",
+   "note": "5 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0004",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0005",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0006",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0009",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0010",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0018",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0019",
+   "type": "hop_limit",
+   "note": "34 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0032",
+   "type": "unresolved",
+   "target": "UN R48 2.14.11.1",
+   "in_corpus": true,
+   "from": "R48|base|5.7.2.1",
+   "ref": "paragraph 2.14.11.1.",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0034",
+   "type": "unresolved",
+   "target": "UN R48 2.14.11.1",
+   "in_corpus": true,
+   "from": "R48|base|5.7.2.1",
+   "ref": "paragraph 2.14.11.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0035",
+   "type": "unresolved",
+   "target": "UN R48 2.14.11.1",
+   "in_corpus": true,
+   "from": "R48|base|5.7.2.1",
+   "ref": "paragraph 2.14.11.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0036",
+   "type": "unresolved",
+   "target": "UN R48 2.14.11.1",
+   "in_corpus": true,
+   "from": "R48|base|5.7.2.1",
+   "ref": "paragraph 2.14.11.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0037",
+   "type": "unresolved",
+   "target": "UN R48 2.14.11.1",
+   "in_corpus": true,
+   "from": "R48|base|5.7.2.1",
+   "ref": "paragraph 2.14.11.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0038",
+   "type": "unresolved",
+   "target": "UN R48 2.14.11.1",
+   "in_corpus": true,
+   "from": "R48|base|5.7.2.1",
+   "ref": "paragraph 2.14.11.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0039",
+   "type": "unresolved",
+   "target": "UN R48 2.14.11.1",
+   "in_corpus": true,
+   "from": "R48|base|5.7.2.1",
+   "ref": "paragraph 2.14.11.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0040",
+   "type": "unresolved",
+   "target": "UN R48 2.14.11.1",
+   "in_corpus": true,
+   "from": "R48|base|5.7.2.1",
+   "ref": "paragraph 2.14.11.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0046",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0047",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0048",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0049",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0051",
+   "type": "unresolved",
+   "target": "UN R48 5.6.11",
+   "in_corpus": true,
+   "from": "R48|base|5.9.3",
+   "ref": "paragraph 5.6.11.",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0051",
+   "type": "hop_limit",
+   "note": "7 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0052",
+   "type": "hop_limit",
+   "note": "8 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0053",
+   "type": "hop_limit",
+   "note": "8 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0057",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0058",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0059",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0062",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0063",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0108",
+   "type": "hop_limit",
+   "note": "42 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0112",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0113",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0114",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0116",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0116",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|Annex 6 5.5.5",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0116",
+   "type": "hop_limit",
+   "note": "32 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0117",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0117",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|Annex 6 5.5.5",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0117",
+   "type": "hop_limit",
+   "note": "32 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0118",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0118",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|Annex 6 5.5.5",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0118",
+   "type": "hop_limit",
+   "note": "32 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0121",
+   "type": "unresolved",
+   "target": "UN R48 6.21.1.2.1.1",
+   "in_corpus": true,
+   "from": "R48|base|Annex 1 10.8",
+   "ref": "paragraphs 6.21.1.2.1. and 6.21.1.2.1.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0121",
+   "type": "hop_limit",
+   "note": "35 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0154",
+   "type": "unresolved",
+   "target": "UN R48 2.1.6",
+   "in_corpus": true,
+   "from": "R48|base|5.33",
+   "ref": "paragraph 2.1.6.",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0155",
+   "type": "unresolved",
+   "target": "UN R48 3.2.8",
+   "in_corpus": true,
+   "from": "R48|base|5.34",
+   "ref": "paragraph 3.2.8.",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0159",
+   "type": "hop_limit",
+   "note": "2 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0160",
+   "type": "hop_limit",
+   "note": "2 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0194",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0195",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0196",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0197",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0210",
+   "type": "unresolved",
+   "target": "UN R48 6.22.9.3.1.2",
+   "in_corpus": true,
+   "from": "R48|base|Annex 12 2.2",
+   "ref": "paragraph 6.22.9.3.1.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0210",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0211",
+   "type": "unresolved",
+   "target": "UN R48 6.22.9.3.1.2",
+   "in_corpus": true,
+   "from": "R48|base|Annex 12 2.2",
+   "ref": "paragraph 6.22.9.3.1.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0211",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0226",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0226",
+   "type": "hop_limit",
+   "note": "26 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0227",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0227",
+   "type": "hop_limit",
+   "note": "26 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0228",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0228",
+   "type": "hop_limit",
+   "note": "26 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0229",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0229",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0230",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0230",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0231",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0231",
+   "type": "hop_limit",
+   "note": "26 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0232",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0232",
+   "type": "hop_limit",
+   "note": "2 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0233",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0233",
+   "type": "hop_limit",
+   "note": "2 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0234",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0234",
+   "type": "hop_limit",
+   "note": "2 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0235",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0235",
+   "type": "hop_limit",
+   "note": "2 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0236",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0236",
+   "type": "hop_limit",
+   "note": "2 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0237",
+   "type": "hop_limit",
+   "note": "33 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0238",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|Annex 6 5.5.5",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0238",
+   "type": "hop_limit",
+   "note": "8 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0245",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0246",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0247",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0248",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0249",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0250",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0251",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0252",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0254",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0256",
+   "type": "version_mismatch",
+   "target": "UN R149 4.13",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.2.8.2",
+   "ref": "paragraph 4.13. of the 01 and any subsequent series of amendments to UN Regulation No. 149",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0257",
+   "type": "version_mismatch",
+   "target": "UN R149 4.13",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.2.8.2",
+   "ref": "paragraph 4.13. of the 01 and any subsequent series of amendments to UN Regulation No. 149",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0258",
+   "type": "version_mismatch",
+   "target": "UN R149 4.13",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.2.8.2",
+   "ref": "paragraph 4.13. of the 01 and any subsequent series of amendments to UN Regulation No. 149",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0259",
+   "type": "version_mismatch",
+   "target": "UN R149 4.13",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.2.8.2",
+   "ref": "paragraph 4.13. of the 01 and any subsequent series of amendments to UN Regulation No. 149",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0260",
+   "type": "version_mismatch",
+   "target": "UN R149 4.13",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.2.8.2",
+   "ref": "paragraph 4.13. of the 01 and any subsequent series of amendments to UN Regulation No. 149",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0261",
+   "type": "version_mismatch",
+   "target": "UN R149 4.13",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.2.8.2",
+   "ref": "paragraph 4.13. of the 01 and any subsequent series of amendments to UN Regulation No. 149",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0282",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0282",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0283",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0283",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0284",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0284",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0285",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0285",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0286",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0286",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0287",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0288",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0288",
+   "type": "hop_limit",
+   "note": "71 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0289",
+   "type": "hop_limit",
+   "note": "27 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0291",
+   "type": "unresolved",
+   "target": "UN R19 10.1",
+   "in_corpus": true,
+   "from": "R48|base|6.3.7",
+   "ref": "paragraph 10.1. of Annex 1 of UN Regulation No. 19",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0291",
+   "type": "unresolved",
+   "target": "UN R48 6.21.1.2.1.1",
+   "in_corpus": true,
+   "from": "R48|base|Annex 1 10.8",
+   "ref": "paragraphs 6.21.1.2.1. and 6.21.1.2.1.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0291",
+   "type": "hop_limit",
+   "note": "35 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0292",
+   "type": "unresolved",
+   "target": "UN R19 10.1",
+   "in_corpus": true,
+   "from": "R48|base|6.3.7",
+   "ref": "paragraph 10.1. of Annex 1 of UN Regulation No. 19",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0292",
+   "type": "unresolved",
+   "target": "UN R48 6.21.1.2.1.1",
+   "in_corpus": true,
+   "from": "R48|base|Annex 1 10.8",
+   "ref": "paragraphs 6.21.1.2.1. and 6.21.1.2.1.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0292",
+   "type": "hop_limit",
+   "note": "35 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0310",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0311",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0312",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0313",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0314",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0315",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0321",
+   "type": "hop_limit",
+   "note": "16 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0322",
+   "type": "hop_limit",
+   "note": "16 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0323",
+   "type": "hop_limit",
+   "note": "16 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0324",
+   "type": "hop_limit",
+   "note": "16 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0325",
+   "type": "hop_limit",
+   "note": "16 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0326",
+   "type": "hop_limit",
+   "note": "16 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0327",
+   "type": "hop_limit",
+   "note": "16 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0328",
+   "type": "hop_limit",
+   "note": "16 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0329",
+   "type": "hop_limit",
+   "note": "16 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0330",
+   "type": "hop_limit",
+   "note": "16 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0331",
+   "type": "hop_limit",
+   "note": "16 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0332",
+   "type": "hop_limit",
+   "note": "16 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0333",
+   "type": "hop_limit",
+   "note": "16 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0334",
+   "type": "hop_limit",
+   "note": "15 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0335",
+   "type": "hop_limit",
+   "note": "15 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0336",
+   "type": "hop_limit",
+   "note": "15 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0347",
+   "type": "version_mismatch",
+   "target": "UN R148 5.6.3",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 5.6.3. of the 00 series of amendments to UN Regulation No. 148",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0347",
+   "type": "version_mismatch",
+   "target": "UN R148 4.6.1.4",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 4.6.1.4. of the 01 series of amendments to UN Regulation No. 148",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0347",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0348",
+   "type": "version_mismatch",
+   "target": "UN R148 5.6.3",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 5.6.3. of the 00 series of amendments to UN Regulation No. 148",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0348",
+   "type": "version_mismatch",
+   "target": "UN R148 4.6.1.4",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 4.6.1.4. of the 01 series of amendments to UN Regulation No. 148",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0348",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0349",
+   "type": "version_mismatch",
+   "target": "UN R148 5.6.3",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 5.6.3. of the 00 series of amendments to UN Regulation No. 148",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0349",
+   "type": "version_mismatch",
+   "target": "UN R148 4.6.1.4",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 4.6.1.4. of the 01 series of amendments to UN Regulation No. 148",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0349",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0354",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0355",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0356",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0357",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0358",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0359",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0360",
+   "type": "version_mismatch",
+   "target": "UN R148 5.6.3",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 5.6.3. of the 00 series of amendments to UN Regulation No. 148",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0360",
+   "type": "version_mismatch",
+   "target": "UN R148 4.6.1.4",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 4.6.1.4. of the 01 series of amendments to UN Regulation No. 148",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0361",
+   "type": "version_mismatch",
+   "target": "UN R148 5.6.3",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 5.6.3. of the 00 series of amendments to UN Regulation No. 148",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0361",
+   "type": "version_mismatch",
+   "target": "UN R148 4.6.1.4",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 4.6.1.4. of the 01 series of amendments to UN Regulation No. 148",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0362",
+   "type": "version_mismatch",
+   "target": "UN R148 5.6.3",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 5.6.3. of the 00 series of amendments to UN Regulation No. 148",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0362",
+   "type": "version_mismatch",
+   "target": "UN R148 4.6.1.4",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 4.6.1.4. of the 01 series of amendments to UN Regulation No. 148",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0363",
+   "type": "version_mismatch",
+   "target": "UN R148 5.6.3",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 5.6.3. of the 00 series of amendments to UN Regulation No. 148",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0363",
+   "type": "version_mismatch",
+   "target": "UN R148 4.6.1.4",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 4.6.1.4. of the 01 series of amendments to UN Regulation No. 148",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0364",
+   "type": "version_mismatch",
+   "target": "UN R148 5.6.3",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 5.6.3. of the 00 series of amendments to UN Regulation No. 148",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0364",
+   "type": "version_mismatch",
+   "target": "UN R148 4.6.1.4",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 4.6.1.4. of the 01 series of amendments to UN Regulation No. 148",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0365",
+   "type": "version_mismatch",
+   "target": "UN R148 5.6.3",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 5.6.3. of the 00 series of amendments to UN Regulation No. 148",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0365",
+   "type": "version_mismatch",
+   "target": "UN R148 4.6.1.4",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 4.6.1.4. of the 01 series of amendments to UN Regulation No. 148",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0366",
+   "type": "version_mismatch",
+   "target": "UN R148 5.6.3",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 5.6.3. of the 00 series of amendments to UN Regulation No. 148",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0366",
+   "type": "version_mismatch",
+   "target": "UN R148 4.6.1.4",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 4.6.1.4. of the 01 series of amendments to UN Regulation No. 148",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0372",
+   "type": "version_mismatch",
+   "target": "UN R148 5.6.3",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 5.6.3. of the 00 series of amendments to UN Regulation No. 148",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0372",
+   "type": "version_mismatch",
+   "target": "UN R148 4.6.1.4",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 4.6.1.4. of the 01 series of amendments to UN Regulation No. 148",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0372",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0373",
+   "type": "version_mismatch",
+   "target": "UN R148 5.6.3",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 5.6.3. of the 00 series of amendments to UN Regulation No. 148",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0373",
+   "type": "version_mismatch",
+   "target": "UN R148 4.6.1.4",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 4.6.1.4. of the 01 series of amendments to UN Regulation No. 148",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0373",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0374",
+   "type": "version_mismatch",
+   "target": "UN R148 5.6.3",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 5.6.3. of the 00 series of amendments to UN Regulation No. 148",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0374",
+   "type": "version_mismatch",
+   "target": "UN R148 4.6.1.4",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 4.6.1.4. of the 01 series of amendments to UN Regulation No. 148",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0374",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0375",
+   "type": "version_mismatch",
+   "target": "UN R148 5.6.3",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 5.6.3. of the 00 series of amendments to UN Regulation No. 148",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0375",
+   "type": "version_mismatch",
+   "target": "UN R148 4.6.1.4",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 4.6.1.4. of the 01 series of amendments to UN Regulation No. 148",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0375",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0377",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0379",
+   "type": "hop_limit",
+   "note": "5 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0381",
+   "type": "hop_limit",
+   "note": "18 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0384",
+   "type": "hop_limit",
+   "note": "29 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0385",
+   "type": "hop_limit",
+   "note": "29 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0386",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0430",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0447",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0469",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0484",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0518",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0521",
+   "type": "unresolved",
+   "target": "UN R48 2.14.11.1",
+   "in_corpus": true,
+   "from": "R48|base|5.7.2.1",
+   "ref": "paragraph 2.14.11.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0521",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0522",
+   "type": "unresolved",
+   "target": "UN R48 2.14.11.1",
+   "in_corpus": true,
+   "from": "R48|base|5.7.2.1",
+   "ref": "paragraph 2.14.11.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0522",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0523",
+   "type": "unresolved",
+   "target": "UN R48 2.14.11.1",
+   "in_corpus": true,
+   "from": "R48|base|5.7.2.1",
+   "ref": "paragraph 2.14.11.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0523",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0524",
+   "type": "unresolved",
+   "target": "UN R48 2.14.11.1",
+   "in_corpus": true,
+   "from": "R48|base|5.7.2.1",
+   "ref": "paragraph 2.14.11.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0524",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0562",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0563",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0564",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0574",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0575",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0576",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0577",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0587",
+   "type": "hop_limit",
+   "note": "2 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0588",
+   "type": "hop_limit",
+   "note": "2 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0589",
+   "type": "hop_limit",
+   "note": "2 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0590",
+   "type": "hop_limit",
+   "note": "2 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0610",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0611",
+   "type": "hop_limit",
+   "note": "2 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0614",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0615",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0649",
+   "type": "hop_limit",
+   "note": "2 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0650",
+   "type": "hop_limit",
+   "note": "2 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0651",
+   "type": "hop_limit",
+   "note": "2 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0671",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0672",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0679",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0679",
+   "type": "version_mismatch",
+   "target": "UN R149 4.13",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.2.8.2",
+   "ref": "paragraph 4.13. of the 01 and any subsequent series of amendments to UN Regulation No. 149",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0679",
+   "type": "hop_limit",
+   "note": "98 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0680",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0680",
+   "type": "version_mismatch",
+   "target": "UN R149 4.13",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.2.8.2",
+   "ref": "paragraph 4.13. of the 01 and any subsequent series of amendments to UN Regulation No. 149",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0680",
+   "type": "hop_limit",
+   "note": "98 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0681",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0681",
+   "type": "version_mismatch",
+   "target": "UN R149 4.13",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.2.8.2",
+   "ref": "paragraph 4.13. of the 01 and any subsequent series of amendments to UN Regulation No. 149",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0681",
+   "type": "hop_limit",
+   "note": "98 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0682",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0682",
+   "type": "version_mismatch",
+   "target": "UN R149 4.13",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.2.8.2",
+   "ref": "paragraph 4.13. of the 01 and any subsequent series of amendments to UN Regulation No. 149",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0682",
+   "type": "hop_limit",
+   "note": "98 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0683",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0683",
+   "type": "version_mismatch",
+   "target": "UN R149 4.13",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.2.8.2",
+   "ref": "paragraph 4.13. of the 01 and any subsequent series of amendments to UN Regulation No. 149",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0683",
+   "type": "hop_limit",
+   "note": "98 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0684",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0684",
+   "type": "version_mismatch",
+   "target": "UN R149 4.13",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.2.8.2",
+   "ref": "paragraph 4.13. of the 01 and any subsequent series of amendments to UN Regulation No. 149",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0684",
+   "type": "hop_limit",
+   "note": "98 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0685",
+   "type": "hop_limit",
+   "note": "8 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0687",
+   "type": "hop_limit",
+   "note": "8 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0688",
+   "type": "hop_limit",
+   "note": "8 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0689",
+   "type": "hop_limit",
+   "note": "7 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0690",
+   "type": "hop_limit",
+   "note": "7 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0691",
+   "type": "hop_limit",
+   "note": "8 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0692",
+   "type": "hop_limit",
+   "note": "8 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0694",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0694",
+   "type": "version_mismatch",
+   "target": "UN R149 4.13",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.2.8.2",
+   "ref": "paragraph 4.13. of the 01 and any subsequent series of amendments to UN Regulation No. 149",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0694",
+   "type": "hop_limit",
+   "note": "98 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0695",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0695",
+   "type": "version_mismatch",
+   "target": "UN R149 4.13",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.2.8.2",
+   "ref": "paragraph 4.13. of the 01 and any subsequent series of amendments to UN Regulation No. 149",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0695",
+   "type": "hop_limit",
+   "note": "98 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0696",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0696",
+   "type": "version_mismatch",
+   "target": "UN R149 4.13",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.2.8.2",
+   "ref": "paragraph 4.13. of the 01 and any subsequent series of amendments to UN Regulation No. 149",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0696",
+   "type": "hop_limit",
+   "note": "98 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0697",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0697",
+   "type": "version_mismatch",
+   "target": "UN R149 4.13",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.2.8.2",
+   "ref": "paragraph 4.13. of the 01 and any subsequent series of amendments to UN Regulation No. 149",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0697",
+   "type": "hop_limit",
+   "note": "98 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0698",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.22.6.1.1",
+   "ref": "Annex 7",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0698",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.22.6.1.1",
+   "ref": "Annex 7",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0698",
+   "type": "hop_limit",
+   "note": "27 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0699",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.22.6.1.1",
+   "ref": "Annex 7",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0699",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.22.6.1.1",
+   "ref": "Annex 7",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0699",
+   "type": "hop_limit",
+   "note": "27 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0700",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.22.6.1.1",
+   "ref": "Annex 7",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0700",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.22.6.1.1",
+   "ref": "Annex 7",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0700",
+   "type": "hop_limit",
+   "note": "27 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0701",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.22.6.1.1",
+   "ref": "Annex 7",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0701",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.22.6.1.1",
+   "ref": "Annex 7",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0701",
+   "type": "hop_limit",
+   "note": "27 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0702",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.22.6.1.1",
+   "ref": "Annex 7",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0702",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.22.6.1.1",
+   "ref": "Annex 7",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0702",
+   "type": "hop_limit",
+   "note": "27 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0703",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.22.6.1.1",
+   "ref": "Annex 7",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0703",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.22.6.1.1",
+   "ref": "Annex 7",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0703",
+   "type": "hop_limit",
+   "note": "27 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0704",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.22.6.1.1",
+   "ref": "Annex 7",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0704",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.22.6.1.1",
+   "ref": "Annex 7",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0704",
+   "type": "hop_limit",
+   "note": "27 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0705",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0706",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0707",
+   "type": "hop_limit",
+   "note": "27 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0711",
+   "type": "hop_limit",
+   "note": "66 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0715",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0716",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0717",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0718",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0719",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0725",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0728",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0740",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0751",
+   "type": "hop_limit",
+   "note": "10 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0752",
+   "type": "hop_limit",
+   "note": "10 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0756",
+   "type": "unresolved",
+   "target": "UN R48 6.22.9.3.1.2",
+   "in_corpus": true,
+   "from": "R48|base|Annex 12 2.2",
+   "ref": "paragraph 6.22.9.3.1.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0756",
+   "type": "hop_limit",
+   "note": "44 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0757",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0758",
+   "type": "hop_limit",
+   "note": "2 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0759",
+   "type": "hop_limit",
+   "note": "2 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0766",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0767",
+   "type": "hop_limit",
+   "note": "7 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0768",
+   "type": "hop_limit",
+   "note": "18 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0797",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0798",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0799",
+   "type": "hop_limit",
+   "note": "18 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0820",
+   "type": "version_mismatch",
+   "target": "UN R148 5.10.2",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.26.9.2",
+   "ref": "paragraph 5.10.2. of the 00 series of amendments to UN Regulation No. 148",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0820",
+   "type": "version_mismatch",
+   "target": "UN R148 5.10.1.2",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.26.9.2",
+   "ref": "paragraph 5.10.1.2. of the 01 and subsequent series of amendments to UN Regulation No. 148",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0820",
+   "type": "hop_limit",
+   "note": "83 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0830",
+   "type": "version_mismatch",
+   "target": "UN R148 5.10.2",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.26.9.2",
+   "ref": "paragraph 5.10.2. of the 00 series of amendments to UN Regulation No. 148",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0830",
+   "type": "version_mismatch",
+   "target": "UN R148 5.10.1.2",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.26.9.2",
+   "ref": "paragraph 5.10.1.2. of the 01 and subsequent series of amendments to UN Regulation No. 148",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0830",
+   "type": "hop_limit",
+   "note": "82 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0831",
+   "type": "version_mismatch",
+   "target": "UN R148 5.10.2",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.26.9.2",
+   "ref": "paragraph 5.10.2. of the 00 series of amendments to UN Regulation No. 148",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0831",
+   "type": "version_mismatch",
+   "target": "UN R148 5.10.1.2",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.26.9.2",
+   "ref": "paragraph 5.10.1.2. of the 01 and subsequent series of amendments to UN Regulation No. 148",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0831",
+   "type": "unresolved",
+   "target": "UN R48 6.21.1.2.1.1",
+   "in_corpus": true,
+   "from": "R48|base|Annex 1 10.8",
+   "ref": "paragraphs 6.21.1.2.1. and 6.21.1.2.1.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0831",
+   "type": "hop_limit",
+   "note": "35 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0853",
+   "type": "version_mismatch",
+   "target": "UN R148 5.12.1.2",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.28.9.1",
+   "ref": "paragraph 5.12.1.2. (a) in the 01 series of amendments to UN Regulation No. 148",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0853",
+   "type": "version_mismatch",
+   "target": "UN R148 5.12.1.2",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.28.9.2",
+   "ref": "paragraph 5.12.1.2. (b) in the 01 series of amendments to UN Regulation No. 148",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0853",
+   "type": "hop_limit",
+   "note": "80 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0854",
+   "type": "version_mismatch",
+   "target": "UN R148 5.12.1.2",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.28.9.1",
+   "ref": "paragraph 5.12.1.2. (a) in the 01 series of amendments to UN Regulation No. 148",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0854",
+   "type": "version_mismatch",
+   "target": "UN R148 5.12.1.2",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.28.9.2",
+   "ref": "paragraph 5.12.1.2. (b) in the 01 series of amendments to UN Regulation No. 148",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0854",
+   "type": "hop_limit",
+   "note": "80 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0862",
+   "type": "version_mismatch",
+   "target": "UN R148 5.12.1.2",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.28.9.1",
+   "ref": "paragraph 5.12.1.2. (a) in the 01 series of amendments to UN Regulation No. 148",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0863",
+   "type": "version_mismatch",
+   "target": "UN R148 5.12.1.2",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.28.9.1",
+   "ref": "paragraph 5.12.1.2. (a) in the 01 series of amendments to UN Regulation No. 148",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0864",
+   "type": "version_mismatch",
+   "target": "UN R148 5.12.1.2",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.28.9.2",
+   "ref": "paragraph 5.12.1.2. (b) in the 01 series of amendments to UN Regulation No. 148",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0864",
+   "type": "version_mismatch",
+   "target": "UN R148 5.12.1.2",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.28.9.1",
+   "ref": "paragraph 5.12.1.2. (a) in the 01 series of amendments to UN Regulation No. 148",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0864",
+   "type": "unresolved",
+   "target": "UN R48 6.21.1.2.1.1",
+   "in_corpus": true,
+   "from": "R48|base|Annex 1 10.8",
+   "ref": "paragraphs 6.21.1.2.1. and 6.21.1.2.1.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0864",
+   "type": "hop_limit",
+   "note": "33 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0865",
+   "type": "target_truncated",
+   "target": "UN R48 6",
+   "kept": 300,
+   "of": 571,
+   "from": "R48|base|8.1",
+   "ref": "paragraphs 5. and 6.",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0865",
+   "type": "unresolved",
+   "target": "UN R48 2.14.11.1",
+   "in_corpus": true,
+   "from": "R48|base|5.7.2.1",
+   "ref": "paragraph 2.14.11.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0865",
+   "type": "unresolved",
+   "target": "UN R48 5.6.11",
+   "in_corpus": true,
+   "from": "R48|base|5.9.3",
+   "ref": "paragraph 5.6.11.",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0865",
+   "type": "unresolved",
+   "target": "UN R48 2.1.6",
+   "in_corpus": true,
+   "from": "R48|base|5.33",
+   "ref": "paragraph 2.1.6.",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0865",
+   "type": "unresolved",
+   "target": "UN R48 3.2.8",
+   "in_corpus": true,
+   "from": "R48|base|5.34",
+   "ref": "paragraph 3.2.8.",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0865",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0865",
+   "type": "version_mismatch",
+   "target": "UN R149 4.13",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.2.8.2",
+   "ref": "paragraph 4.13. of the 01 and any subsequent series of amendments to UN Regulation No. 149",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0865",
+   "type": "unresolved",
+   "target": "UN R19 10.1",
+   "in_corpus": true,
+   "from": "R48|base|6.3.7",
+   "ref": "paragraph 10.1. of Annex 1 of UN Regulation No. 19",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0865",
+   "type": "version_mismatch",
+   "target": "UN R148 5.6.3",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 5.6.3. of the 00 series of amendments to UN Regulation No. 148",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0865",
+   "type": "version_mismatch",
+   "target": "UN R148 4.6.1.4",
+   "note": "reference names a series of amendments; resolved to the corpus base version 1.6.0",
+   "from": "R48|base|6.5.8",
+   "ref": "paragraph 4.6.1.4. of the 01 series of amendments to UN Regulation No. 148",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0865",
+   "type": "hop_limit",
+   "note": "231 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0866",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0890",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|Annex 6 5.5.5",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0890",
+   "type": "hop_limit",
+   "note": "12 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0891",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|Annex 6 5.5.5",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0891",
+   "type": "hop_limit",
+   "note": "12 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0893",
+   "type": "hop_limit",
+   "note": "17 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0894",
+   "type": "hop_limit",
+   "note": "17 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0896",
+   "type": "hop_limit",
+   "note": "17 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0897",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|Annex 6 5.5.5",
+   "ref": "Annex 7",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0897",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0897",
+   "type": "hop_limit",
+   "note": "16 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0898",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|Annex 6 5.5.5",
+   "ref": "Annex 7",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0898",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0898",
+   "type": "hop_limit",
+   "note": "16 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0902",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|6.2.6.1.1",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0902",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0903",
+   "type": "hop_limit",
+   "note": "31 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0904",
+   "type": "unresolved",
+   "target": "UN R48 2.1.6",
+   "in_corpus": true,
+   "from": "R48|base|Annex 9 1.1",
+   "ref": "paragraph 2.1.6.",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0904",
+   "type": "hop_limit",
+   "note": "39 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0906",
+   "type": "hop_limit",
+   "note": "2 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0907",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|Annex 9 1.3.1",
+   "ref": "Annex 7",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0907",
+   "type": "unresolved",
+   "target": "UN R48 Annex 7",
+   "in_corpus": true,
+   "from": "R48|base|Annex 6 5.5.5",
+   "ref": "Annex 7",
+   "hop": 2
+  },
+  {
+   "requirement": "R48-base-0907",
+   "type": "hop_limit",
+   "note": "32 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0908",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0909",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0910",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0911",
+   "type": "unresolved",
+   "target": "UN R48 2.1.1.1",
+   "in_corpus": true,
+   "from": "R48|base|Annex 9 1.3.2.1",
+   "ref": "Paragraph 2.1.1.1.",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0911",
+   "type": "unresolved",
+   "target": "UN R48 2.1.1.6",
+   "in_corpus": true,
+   "from": "R48|base|Annex 9 1.3.2.1",
+   "ref": "Paragraph 2.1.1.6.",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0911",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0912",
+   "type": "unresolved",
+   "target": "UN R48 2.2.2",
+   "in_corpus": true,
+   "from": "R48|base|Annex 9 1.3.2.2",
+   "ref": "Paragraph 2.2.2.",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0912",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0913",
+   "type": "unresolved",
+   "target": "UN R48 2.3.1.1",
+   "in_corpus": true,
+   "from": "R48|base|Annex 9 1.3.2.3",
+   "ref": "Paragraph 2.3.1.1.",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0913",
+   "type": "unresolved",
+   "target": "UN R48 2.3.1.2",
+   "in_corpus": true,
+   "from": "R48|base|Annex 9 1.3.2.3",
+   "ref": "Paragraph 2.3.1.2.",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0913",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0914",
+   "type": "unresolved",
+   "target": "UN R48 2.4.1.1",
+   "in_corpus": true,
+   "from": "R48|base|Annex 9 1.3.2.4.1",
+   "ref": "Paragraph 2.4.1.1.",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0914",
+   "type": "unresolved",
+   "target": "UN R48 2.4.1.2",
+   "in_corpus": true,
+   "from": "R48|base|Annex 9 1.3.2.4.1",
+   "ref": "Paragraph 2.4.1.2.",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0914",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0915",
+   "type": "unresolved",
+   "target": "UN R48 2.4.2.1",
+   "in_corpus": true,
+   "from": "R48|base|Annex 9 1.3.2.4.2",
+   "ref": "Paragraph 2.4.2.1.",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0915",
+   "type": "unresolved",
+   "target": "UN R48 2.4.2.2",
+   "in_corpus": true,
+   "from": "R48|base|Annex 9 1.3.2.4.2",
+   "ref": "Paragraph 2.4.2.2.",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0915",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0932",
+   "type": "unresolved",
+   "target": "UN R48 6.22.9.3.1.2",
+   "in_corpus": true,
+   "from": "R48|base|Annex 12 2.2",
+   "ref": "paragraph 6.22.9.3.1.2.",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0933",
+   "type": "unresolved",
+   "target": "UN R48 6.22.9.3.1.2",
+   "in_corpus": true,
+   "from": "R48|base|Annex 12 2.2",
+   "ref": "paragraph 6.22.9.3.1.2.",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0934",
+   "type": "unresolved",
+   "target": "UN R48 6.22.9.3.1.2",
+   "in_corpus": true,
+   "from": "R48|base|Annex 12 2.2",
+   "ref": "paragraph 6.22.9.3.1.2.",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0935",
+   "type": "unresolved",
+   "target": "UN R48 6.22.9.3.1.2",
+   "in_corpus": true,
+   "from": "R48|base|Annex 12 2.2",
+   "ref": "paragraph 6.22.9.3.1.2.",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0936",
+   "type": "unresolved",
+   "target": "UN R48 6.22.9.3.1.2",
+   "in_corpus": true,
+   "from": "R48|base|Annex 12 2.2",
+   "ref": "paragraph 6.22.9.3.1.2.",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0937",
+   "type": "unresolved",
+   "target": "UN R48 6.22.9.3.1.2",
+   "in_corpus": true,
+   "from": "R48|base|Annex 12 2.2",
+   "ref": "paragraph 6.22.9.3.1.2.",
+   "hop": 1
+  },
+  {
+   "requirement": "R48-base-0949",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0950",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0951",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0952",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0953",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0954",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0955",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0956",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R48-base-0957",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  }
+ ],
+ "regulation_hints": [
+  {
+   "regulation": "UN R6",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "5.9.3",
+   "text": "ash by sequential activation of light sources as specified in paragraph 5.6. of UN Regulation No. 6. or paragraph 5.6.11. of UN Regulation "
+  },
+  {
+   "regulation": "UN R107",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "2.1.5",
+   "text": "tration plates, the service-door-lighting system according to the provisions of UN Regulation No. 107 on vehicles of categories M2 and M3 and"
+  },
+  {
+   "regulation": "UN R148",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "Annex 1 9.32.1",
+   "text": "ragraph (a) 5.12.1.2. (a) of UN Regulation No. 148 yes/no2 (b) 5.12.1.2. (b) of UN Regulation No. 148 yes/no2"
+  },
+  {
+   "regulation": "UN R37",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "5.23",
+   "text": "Lamps approved with light source(s) according to UN Regulation No. 37, except when such light sources are use"
+  },
+  {
+   "regulation": "UN R37",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "5.23.1",
+   "text": " module includes a holder for an approved replaceable light source according to Regulation No. 37, this light source shall be replaceable"
+  },
+  {
+   "regulation": "UN R128",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "5.27.3",
+   "text": "control being part of the device, or only light source(s) approved according to UN Regulation No. 128."
+  },
+  {
+   "regulation": "UN R148",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "5.30.1",
+   "text": "urer logo, the lamp shall be type approved according to the requirements of the UN Regulation No. 148."
+  },
+  {
+   "regulation": "UN R37",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "5.31",
+   "text": "n and approved for one or more replaceable light source categories according to Regulations Nos. 37, 99 or 128, shall be fitted with light sources app"
+  },
+  {
+   "regulation": "UN R99",
+   "in_corpus": false,
+   "from": "UN R48",
+   "paragraph": "5.31",
+   "text": "n and approved for one or more replaceable light source categories according to Regulations Nos. 37, 99 or 128, shall be fitted with light sources app"
+  },
+  {
+   "regulation": "UN R128",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "5.31",
+   "text": "n and approved for one or more replaceable light source categories according to Regulations Nos. 37, 99 or 128, shall be fitted with light sources app"
+  },
+  {
+   "regulation": "UN R148",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "5.33",
+   "text": "t to one approved according to the latest series of amendments to the pertinent UN Regulations Nos. 148 and/or 149 and/or 150, when the change "
+  },
+  {
+   "regulation": "UN R125",
+   "in_corpus": false,
+   "from": "UN R48",
+   "paragraph": "5.35.8",
+   "text": "rfere with information displayed by the Field of Vision Assistant as defined in UN Regulation No. 125."
+  },
+  {
+   "regulation": "UN R158",
+   "in_corpus": false,
+   "from": "UN R48",
+   "paragraph": "5.36.6",
+   "text": "jection will not negatively affect rear camera system performance as defined in UN Regulation No. 158."
+  },
+  {
+   "regulation": "UN R149",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.1.2",
+   "text": "cording to Classes A or B or RA of the 00 or subsequent series of amendments to UN Regulation No. 149."
+  },
+  {
+   "regulation": "UN R149",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.2.2",
+   "text": "e approved according to Class C of the 01 or subsequent series of amendments to UN Regulation No. 149"
+  },
+  {
+   "regulation": "UN R121",
+   "in_corpus": false,
+   "from": "UN R48",
+   "paragraph": "6.2.6.2.2",
+   "text": "reachable and identifiable by the driver in accordance with the requirements of UN Regulation No. 121. The number of positions on devices to "
+  },
+  {
+   "regulation": "UN R149",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.2.8.2",
+   "text": "dance with paragraph 4.13. of the 01 and any subsequent series of amendments to UN Regulation No. 149. In any case, once activated, it shall "
+  },
+  {
+   "regulation": "UN R19",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.3.2",
+   "text": "F3” and type-approved according to the 03 or subsequent series of amendments to UN Regulation No. 19, or to the 00 or subsequent series of a"
+  },
+  {
+   "regulation": "UN R149",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.3.2",
+   "text": "nts to UN Regulation No. 19, or to the 00 or subsequent series of amendments to UN Regulation No. 149."
+  },
+  {
+   "regulation": "UN R19",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.3.7",
+   "text": "dicated by the relevant symbol (\"/\") according to paragraph 10.1. of Annex 1 of UN Regulation No. 19. or item 9.5.1. of Annex 1 of UN Regula"
+  },
+  {
+   "regulation": "UN R19",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.3.9",
+   "text": "ommunication form under item “ _Luminous intensity is variable_ ” of Annex 1 to UN Regulations Nos. 19 or 149, the alignment and the luminous intensi"
+  },
+  {
+   "regulation": "UN R149",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.3.9",
+   "text": "ommunication form under item “ _Luminous intensity is variable_ ” of Annex 1 to UN Regulations Nos. 19 or 149, the alignment and the luminous intensi"
+  },
+  {
+   "regulation": "UN R23",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.4.2.3",
+   "text": "hall be type-approved according to the 00 or subsequent series of amendments to UN Regulation No. 23, or to the 00 or subsequent series of a"
+  },
+  {
+   "regulation": "UN R148",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.4.2.3",
+   "text": "nts to UN Regulation No. 23, or to the 00 or subsequent series of amendments to UN Regulation No. 148."
+  },
+  {
+   "regulation": "UN R6",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.5.2",
+   "text": "hall be type-approved according to the 01 or subsequent series of amendments to UN Regulation No. 6, or to the 00 or subsequent series of a"
+  },
+  {
+   "regulation": "UN R148",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.5.2",
+   "text": "ents to UN Regulation No. 6, or to the 00 or subsequent series of amendments to UN Regulation No. 148."
+  },
+  {
+   "regulation": "UN R6",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.5.8",
+   "text": " It shall be activated by the signal produced according to: paragraph 6.2.2. of UN Regulation No. 6, or paragraph 5.6.3. of the 00 series o"
+  },
+  {
+   "regulation": "UN R148",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.5.8",
+   "text": " UN Regulation No. 148, or paragraph 4.6.1.4. of the 01 series of amendments to UN Regulation No. 148, or another suitable way. If a motor ve"
+  },
+  {
+   "regulation": "UN R13",
+   "in_corpus": false,
+   "from": "UN R48",
+   "paragraph": "6.23.7.3.1",
+   "text": "d the braking system is providing the emergency braking logic signal defined in UN Regulations Nos. 13 and 13-H."
+  },
+  {
+   "regulation": "UN R13",
+   "in_corpus": false,
+   "from": "UN R48",
+   "paragraph": "6.23.7.3.2",
+   "text": " automatically switched OFF if the emergency braking logic signal as defined in UN Regulations Nos. 13 and 13-H is no longer provided or if the hazar"
+  },
+  {
+   "regulation": "UN R13",
+   "in_corpus": false,
+   "from": "UN R48",
+   "paragraph": "6.23.9.2",
+   "text": "vice braking system of either continuous or semi-continuous type, as defined in Regulation No.13, it shall be ensured that a constant po"
+  },
+  {
+   "regulation": "UN R7",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.7.2",
+   "text": "hall be type-approved according to the 02 or subsequent series of amendments to UN Regulation No. 7, or to the 00 or subsequent series of a"
+  },
+  {
+   "regulation": "UN R148",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.7.2",
+   "text": "ents to UN Regulation No. 7, or to the 00 or subsequent series of amendments to UN Regulation No. 148."
+  },
+  {
+   "regulation": "UN R13",
+   "in_corpus": false,
+   "from": "UN R48",
+   "paragraph": "6.7.7.1",
+   "text": " simultaneously when the braking system provides the relevant signal defined in UN Regulations Nos. 13 and 13-H."
+  },
+  {
+   "regulation": "UN R4",
+   "in_corpus": false,
+   "from": "UN R48",
+   "paragraph": "6.8.2",
+   "text": "hall be type-approved according to the 00 or subsequent series of amendments to UN Regulation No. 4, or to the 00 or subsequent series of a"
+  },
+  {
+   "regulation": "UN R148",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.8.2",
+   "text": "ents to UN Regulation No. 4, or to the 00 or subsequent series of amendments to UN Regulation No. 148."
+  },
+  {
+   "regulation": "UN R7",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.9.2",
+   "text": "er Two, type-approved according to the 02 or subsequent series of amendments to UN Regulation No. 7, or to the 00 or subsequent series of a"
+  },
+  {
+   "regulation": "UN R148",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.9.2",
+   "text": "ents to UN Regulation No. 7, or to the 00 or subsequent series of amendments to UN Regulation No. 148."
+  },
+  {
+   "regulation": "UN R7",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.10.2",
+   "text": "er Two, type-approved according to the 02 or subsequent series of amendments to UN Regulation No. 7, or to the 00 or subsequent series of a"
+  },
+  {
+   "regulation": "UN R148",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.10.2",
+   "text": "ents to UN Regulation No. 7, or to the 00 or subsequent series of amendments to UN Regulation No. 148."
+  },
+  {
+   "regulation": "UN R38",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.11.2",
+   "text": "or two, type-approved according to the 00 or subsequent series of amendments to UN Regulation No. 38, or to the 00 or subsequent series of a"
+  },
+  {
+   "regulation": "UN R148",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.11.2",
+   "text": "nts to UN Regulation No. 38, or to the 00 or subsequent series of amendments to UN Regulation No. 148."
+  },
+  {
+   "regulation": "UN R77",
+   "in_corpus": false,
+   "from": "UN R48",
+   "paragraph": "6.12.2",
+   "text": "hall be type-approved according to the 00 or subsequent series of amendments to UN Regulation No. 77, or to the 02 or subsequent series of a"
+  },
+  {
+   "regulation": "UN R7",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.12.2",
+   "text": "nts to UN Regulation No. 77, or to the 02 or subsequent series of amendments to UN Regulation No. 7, or to the 00 or subsequent series of a"
+  },
+  {
+   "regulation": "UN R148",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.12.2",
+   "text": "ents to UN Regulation No. 7, or to the 00 or subsequent series of amendments to UN Regulation No. 148."
+  },
+  {
+   "regulation": "UN R7",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.13.2",
+   "text": "hall be type-approved according to the 02 or subsequent series of amendments to UN Regulation No. 7, or to the 00 or subsequent series of a"
+  },
+  {
+   "regulation": "UN R148",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.13.2",
+   "text": "ents to UN Regulation No. 7, or to the 00 or subsequent series of amendments to UN Regulation No. 148."
+  },
+  {
+   "regulation": "UN R3",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.14.2",
+   "text": "Class IA or IB retro-reflectors in the 02 or subsequent series of amendments to UN Regulation No. 3, or in the 00 or subsequent series of a"
+  },
+  {
+   "regulation": "UN R150",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.14.2",
+   "text": "ents to UN Regulation No. 3, or in the 00 or subsequent series of amendments to UN Regulation No. 150. Additional retro-reflecting devices an"
+  },
+  {
+   "regulation": "UN R3",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.15.2",
+   "text": " or Class IIIB retro-reflectors in the 02 or subsequent series of amendments to UN Regulation No. 3, or in the 00 or subsequent series of a"
+  },
+  {
+   "regulation": "UN R150",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.15.2",
+   "text": "ents to UN Regulation No. 3, or in the 00 or subsequent series of amendments to UN Regulation No. 150. Additional retro-reflecting devices an"
+  },
+  {
+   "regulation": "UN R3",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.16.2",
+   "text": "Class IA or IB retro-reflectors in the 02 or subsequent series of amendments to UN Regulation No. 3, or in the 00 or subsequent series of a"
+  },
+  {
+   "regulation": "UN R150",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.16.2",
+   "text": "ents to UN Regulation No. 3, or in the 00 or subsequent series of amendments to UN Regulation No.150. Additional retro-reflecting devices an"
+  },
+  {
+   "regulation": "UN R3",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.17.2",
+   "text": "Class IA or IB retro-reflectors in the 02 or subsequent series of amendments to UN Regulation No. 3, or in the 00 or subsequent series of a"
+  },
+  {
+   "regulation": "UN R150",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.17.2",
+   "text": "ents to UN Regulation No. 3, or in the 00 or subsequent series of amendments to UN Regulation No. 150. Additional retro-reflecting devices an"
+  },
+  {
+   "regulation": "UN R91",
+   "in_corpus": false,
+   "from": "UN R48",
+   "paragraph": "6.18.2",
+   "text": "hall be type-approved according to the 00 or subsequent series of amendments to UN Regulation No. 91, or to the 00 or subsequent series of a"
+  },
+  {
+   "regulation": "UN R148",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.18.2",
+   "text": "nts to UN Regulation No. 91, or to the 00 or subsequent series of amendments to UN Regulation No. 148."
+  },
+  {
+   "regulation": "UN R87",
+   "in_corpus": false,
+   "from": "UN R48",
+   "paragraph": "6.19.2",
+   "text": "r. Two, type-approved according to the 00 or subsequent series of amendments to UN Regulation No. 87, or to the 00 or subsequent series of a"
+  },
+  {
+   "regulation": "UN R148",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.19.2",
+   "text": "nts to UN Regulation No. 87, or to the 00 or subsequent series of amendments to UN Regulation No. 148"
+  },
+  {
+   "regulation": "UN R119",
+   "in_corpus": false,
+   "from": "UN R48",
+   "paragraph": "6.20.2",
+   "text": "er Two, type-approved according to the 01 or subsequent series of amendments to UN Regulation No. 119, or to the 00 or subsequent series of a"
+  },
+  {
+   "regulation": "UN R149",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.20.2",
+   "text": "ts to UN Regulation No. 119, or to the 00 or subsequent series of amendments to UN Regulation No. 149."
+  },
+  {
+   "regulation": "UN R104",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.21.1.2.5",
+   "text": "ometric requirements of Class C of the 00 or subsequent series of amendments to UN Regulation No. 104, or the 00 or subsequent series of amen"
+  },
+  {
+   "regulation": "UN R150",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.21.1.2.5",
+   "text": "ments to UN Regulation No. 104, or the 00 or subsequent series of amendments to UN Regulation No. 150, may substitute part of the required co"
+  },
+  {
+   "regulation": "UN R3",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.21.1.2.5",
+   "text": "ass IVA type-approved according to the 02 or subsequent series of amendments to UN Regulation No. 3, or the 00 or subsequent series of amen"
+  },
+  {
+   "regulation": "UN R3",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.21.4.2.1.1",
+   "text": "ass IVA type-approved according to the 02 or subsequent series of amendments to UN Regulation No. 3, or the 00 or subsequent series of amen"
+  },
+  {
+   "regulation": "UN R150",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.21.4.2.1.1",
+   "text": "dments to UN Regulation No. 104 or the 00 or subsequent series of amendments to UN Regulation No. 150 are mounted followed by the required co"
+  },
+  {
+   "regulation": "UN R104",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.21.4.2.1.1",
+   "text": " Class C typeapproved according to the 00 or subsequent series of amendments to UN Regulation No. 104 or the 00 or subsequent series of amend"
+  },
+  {
+   "regulation": "UN R70",
+   "in_corpus": false,
+   "from": "UN R48",
+   "paragraph": "6.21.7.4",
+   "text": " plates type-approved according to the 01 or subsequent series of amendments to UN Regulation No. 70, or to the 00 or subsequent series of a"
+  },
+  {
+   "regulation": "UN R150",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.21.7.4",
+   "text": "nts to UN Regulation No. 70, or to the 00 or subsequent series of amendments to UN Regulation No. 150 are installed these may be considered, "
+  },
+  {
+   "regulation": "UN R149",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.22.2",
+   "text": "er One, type-approved according to the 01 or subsequent series of amendments to UN Regulation No. 149."
+  },
+  {
+   "regulation": "UN R149",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.22.6.1.2.1",
+   "text": " which is designed to project into the angular zone, as indicated in Annex 1 to UN Regulation No. 149."
+  },
+  {
+   "regulation": "UN R149",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.22.6.3",
+   "text": "according to the applicant's specification, as defined according to Annex 14 to UN Regulation No. 149."
+  },
+  {
+   "regulation": "UN R149",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.22.7.4.3",
+   "text": "ommunication sheet, complies with a \"data set\" of E1, E2 or E3, as specified in UN Regulation No. 149. Data set E1: the vehicle's speed excee"
+  },
+  {
+   "regulation": "UN R149",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.22.8.2",
+   "text": "nals or when a failure signal is received in accordance with paragraph 4.13. of UN Regulation No. 149. It shall remain activated while the fa"
+  },
+  {
+   "regulation": "UN R149",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.22.8.4",
+   "text": "that the driver has set the system into a state according to paragraph 4.12. of UN Regulation No. 149 is optional."
+  },
+  {
+   "regulation": "UN R149",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.22.9.1",
+   "text": "r item 9.2.2.3. of the communication form conforming to the model in Annex 1 to UN Regulation No. 149, if the total objective luminous flux o"
+  },
+  {
+   "regulation": "UN R149",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "3.2.6.2",
+   "text": "signals and their technical characteristics as defined according to Annex 14 to UN Regulation No. 149."
+  },
+  {
+   "regulation": "UN R37",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "2.1.2",
+   "text": "References to standard (étalon) light source(s) shall refer to Regulations Nos. 37, 99 and 128 respectively, and to their series of am"
+  },
+  {
+   "regulation": "UN R99",
+   "in_corpus": false,
+   "from": "UN R48",
+   "paragraph": "2.1.2",
+   "text": "References to standard (étalon) light source(s) shall refer to Regulations Nos. 37, 99 and 128 respectively, and to their series of am"
+  },
+  {
+   "regulation": "UN R128",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "2.1.2",
+   "text": "References to standard (étalon) light source(s) shall refer to Regulations Nos. 37, 99 and 128 respectively, and to their series of am"
+  },
+  {
+   "regulation": "UN R97",
+   "in_corpus": false,
+   "from": "UN R48",
+   "paragraph": "2.5.3",
+   "text": "rection-indicator lamp or lamps may also be used according to the provisions of UN Regulation No. 97, 116, 162 or 163."
+  },
+  {
+   "regulation": "UN R116",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "2.5.3",
+   "text": "rection-indicator lamp or lamps may also be used according to the provisions of UN Regulation No. 97, 116, 162 or 163."
+  },
+  {
+   "regulation": "UN R162",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "2.5.3",
+   "text": "rection-indicator lamp or lamps may also be used according to the provisions of UN Regulation No. 97, 116, 162 or 163."
+  },
+  {
+   "regulation": "UN R163",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "2.5.3",
+   "text": "rection-indicator lamp or lamps may also be used according to the provisions of UN Regulation No. 97, 116, 162 or 163."
+  },
+  {
+   "regulation": "UN R104",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "2.5.8.4",
+   "text": "Retro-reflecting materials approved as Class D or E or F according to UN Regulations Nos. 104 or [RRD] and used for other purposes in"
+  },
+  {
+   "regulation": "UN R97",
+   "in_corpus": false,
+   "from": "UN R48",
+   "paragraph": "2.5.20",
+   "text": "the status for Vehicle Alarm System (VAS), Alarm System (AS) and immobilizer of UN Regulation No. 97, 116, 162 or 163, when the vehicle is parked."
+  },
+  {
+   "regulation": "UN R116",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "2.5.20",
+   "text": "the status for Vehicle Alarm System (VAS), Alarm System (AS) and immobilizer of UN Regulation No. 97, 116, 162 or 163, when the vehicle is parked."
+  },
+  {
+   "regulation": "UN R162",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "2.5.20",
+   "text": "the status for Vehicle Alarm System (VAS), Alarm System (AS) and immobilizer of UN Regulation No. 97, 116, 162 or 163, when the vehicle is parked."
+  },
+  {
+   "regulation": "UN R163",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "2.5.20",
+   "text": "the status for Vehicle Alarm System (VAS), Alarm System (AS) and immobilizer of UN Regulation No. 97, 116, 162 or 163, when the vehicle is parked."
+  },
+  {
+   "regulation": "UN R88",
+   "in_corpus": false,
+   "from": "UN R48",
+   "paragraph": "2.11.2",
+   "text": "ght retro-reflected from a device excluding retro-reflective tires according to UN Regulation No. 88"
+  },
+  {
+   "regulation": "UN R149",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.22.9.6",
+   "text": "The means according to the provisions of paragraph 4.12. of UN Regulation No. 149, which allow the vehicle to be used tem"
+  },
+  {
+   "regulation": "UN R23",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.26.2",
+   "text": "hall be type-approved according to the 00 or subsequent series of amendments to UN Regulation No. 23, or to the 00 or subsequent series of a"
+  },
+  {
+   "regulation": "UN R148",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.26.2",
+   "text": "nts to UN Regulation No. 23, or to the 00 or subsequent series of amendments to UN Regulation No. 148."
+  },
+  {
+   "regulation": "UN R23",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.26.9.2",
+   "text": "med be satisfied if the installation conditions comply with paragraph 6.2.2. of UN Regulation No. 23 or paragraph 5.10.2. of the 00 series o"
+  },
+  {
+   "regulation": "UN R148",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.26.9.2",
+   "text": "No. 148 or paragraph 5.10.1.2. of the 01 and subsequent series of amendments to UN Regulation No. 148, as noted in the communication document"
+  },
+  {
+   "regulation": "UN R148",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.28.2",
+   "text": "hall be type approved according to the 01 or subsequent series of amendments to UN Regulation No. 148."
+  },
+  {
+   "regulation": "UN R148",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.28.9.1",
+   "text": "onditions comply with paragraph 5.12.1.2. (a) in the 01 series of amendments to UN Regulation No. 148. At the request of the applicant and wi"
+  },
+  {
+   "regulation": "UN R148",
+   "in_corpus": true,
+   "from": "UN R48",
+   "paragraph": "6.28.9.2",
+   "text": "d, the requirement of paragraph 5.12.1.2. (b) in the 01 series of amendments to UN Regulation No. 148 applies. The related indication shall b"
+  }
+ ],
+ "summary": {
+  "hop_limit": 223,
+  "target_truncated": 1,
+  "unresolved": 104,
+  "version_mismatch": 61
+ }
+}

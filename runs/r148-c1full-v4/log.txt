@@ -1,0 +1,7 @@
+UN R148 base (1.6.0): 381 nodes, 104,433 chars -> 4 batches (0 oversized), running 4
+  B-001 §0, §2, §3                                           77 nodes ->  44 reqs
+  B-004 Annex 1, Annex 2, Annex 3, Annex 4, Annex 5, Annex  113 nodes ->  64 reqs
+  B-002 §4                                                   63 nodes ->  63 reqs
+  B-003 §5, §6, §7                                          128 nodes -> 108 reqs
+C1: 279 requirements, 0 flagged; coverage {'processed': 381, 'failed': 0, 'not_processed': 0}; calls 4 (+0 cached)
+T (2 hops): 403 shared context nodes, 65 requirements with incomplete context, diagnostics ['hop_limit', 'unresolved', 'version_mismatch']

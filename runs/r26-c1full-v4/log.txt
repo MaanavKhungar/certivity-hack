@@ -1,0 +1,5 @@
+UN R26 base (4.0.0): 214 nodes, 43,141 chars -> 2 batches (0 oversized), running 2
+  B-002 Annex 1, Annex 2, Annex 3, Annex 4                   45 nodes ->   6 reqs
+  B-001 §0, §1, §2, §3, §4, §5, §6, §7, §8, §9, §10, §11,   169 nodes ->  79 reqs
+C1: 85 requirements, 0 flagged; coverage {'processed': 214, 'failed': 0, 'not_processed': 0}; calls 2 (+0 cached)
+T (2 hops): 143 shared context nodes, 5 requirements with incomplete context, diagnostics ['hop_limit', 'unresolved']

@@ -1,0 +1,180 @@
+{
+ "per_requirement": [
+  {
+   "requirement": "R26-base-0003",
+   "type": "unresolved",
+   "target": "UN R26 4.1.4.1",
+   "in_corpus": true,
+   "from": "R26|base|4.1.4.2",
+   "ref": "paragraph 4.1.4.1.",
+   "hop": 1
+  },
+  {
+   "requirement": "R26-base-0004",
+   "type": "unresolved",
+   "target": "UN R26 4.1.4.1",
+   "in_corpus": true,
+   "from": "R26|base|4.1.5",
+   "ref": "paragraph 4.1.4.1.",
+   "hop": 1
+  },
+  {
+   "requirement": "R26-base-0004",
+   "type": "unresolved",
+   "target": "UN R26 4.1.4.1",
+   "in_corpus": true,
+   "from": "R26|base|4.1.4.2",
+   "ref": "paragraph 4.1.4.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R26-base-0019",
+   "type": "hop_limit",
+   "note": "57 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R26-base-0020",
+   "type": "hop_limit",
+   "note": "60 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R26-base-0021",
+   "type": "hop_limit",
+   "note": "60 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R26-base-0022",
+   "type": "hop_limit",
+   "note": "60 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R26-base-0023",
+   "type": "hop_limit",
+   "note": "10 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R26-base-0025",
+   "type": "hop_limit",
+   "note": "13 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R26-base-0026",
+   "type": "hop_limit",
+   "note": "16 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R26-base-0027",
+   "type": "unresolved",
+   "target": "UN R26 4.1.4.1",
+   "in_corpus": true,
+   "from": "R26|base|4.1.4.2",
+   "ref": "paragraph 4.1.4.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R26-base-0027",
+   "type": "unresolved",
+   "target": "UN R26 4.1.4.1",
+   "in_corpus": true,
+   "from": "R26|base|4.1.5",
+   "ref": "paragraph 4.1.4.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R26-base-0027",
+   "type": "hop_limit",
+   "note": "69 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R26-base-0028",
+   "type": "unresolved",
+   "target": "UN R26 4.1.4.1",
+   "in_corpus": true,
+   "from": "R26|base|4.1.4.2",
+   "ref": "paragraph 4.1.4.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R26-base-0028",
+   "type": "unresolved",
+   "target": "UN R26 4.1.4.1",
+   "in_corpus": true,
+   "from": "R26|base|4.1.5",
+   "ref": "paragraph 4.1.4.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R26-base-0028",
+   "type": "hop_limit",
+   "note": "69 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R26-base-0029",
+   "type": "unresolved",
+   "target": "UN R26 4.1.4.1",
+   "in_corpus": true,
+   "from": "R26|base|4.1.4.2",
+   "ref": "paragraph 4.1.4.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R26-base-0029",
+   "type": "unresolved",
+   "target": "UN R26 4.1.4.1",
+   "in_corpus": true,
+   "from": "R26|base|4.1.5",
+   "ref": "paragraph 4.1.4.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R26-base-0029",
+   "type": "hop_limit",
+   "note": "69 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R26-base-0036",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R26-base-0041",
+   "type": "hop_limit",
+   "note": "59 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R26-base-0067",
+   "type": "hop_limit",
+   "note": "24 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R26-base-0068",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R26-base-0076",
+   "type": "hop_limit",
+   "note": "57 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R26-base-0077",
+   "type": "hop_limit",
+   "note": "57 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R26-base-0078",
+   "type": "hop_limit",
+   "note": "57 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R26-base-0079",
+   "type": "hop_limit",
+   "note": "57 nodes reached at hop 2 were not scanned for further references"
+  }
+ ],
+ "regulation_hints": [],
+ "summary": {
+  "hop_limit": 18,
+  "unresolved": 9
+ }
+}
