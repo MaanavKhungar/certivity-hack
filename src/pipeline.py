@@ -38,6 +38,10 @@ def call_json(system: str, user_content, schema: dict, *, max_tokens: int = 1600
     cp = CACHE / f"{tag}_{h}.json" if tag else CACHE / f"{h}.json"
     if use_cache and cp.exists():
         return json.loads(cp.read_text())["result"]
+    if use_cache and tag:                               # same request cached under another tag (e.g. renumbered job)
+        other = min(CACHE.glob(f"*_{h}.json"), key=lambda f: f.stat().st_mtime, default=None)   # first answer wins
+        if other is not None:
+            return json.loads(other.read_text())["result"]
     client = _client()
     t = time.time()
     with client.messages.stream(

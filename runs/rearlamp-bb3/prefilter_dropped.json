@@ -1,0 +1,650 @@
+[
+ {
+  "id": "C-0087",
+  "job": "J-024",
+  "text": "When the rear position lamp, stop lamp and reversing lamp (and the retro-reflector) form one unit of grouped, combined or reciprocally incorporated lamps, each of these lamps shall satisfy the provisions of UN R148 or of another UN Regulation (e.g. R150 for the retro-reflector).",
+  "test_case": "Check that each function in the unit holds a valid approval or passes the tests of its Regulation.",
+  "table": null,
+  "applies_because": "The product is a rear combination unit grouping R148 lamp functions with an R150 retro-reflector.",
+  "node_id": "R148|3.2.2",
+  "cited_role": "primary",
+  "item": "T-R148-3",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 4,
+   "paragraph": "3.2.2"
+  },
+  "drop_reason": "from a referenced section (hop >= 1)"
+ },
+ {
+  "id": "C-0088",
+  "job": "J-024",
+  "text": "A lamp that does not satisfy the provisions of any of those Regulations shall not be part of the unit of grouped, combined or reciprocally incorporated lamps.",
+  "test_case": "Review the unit's bill of functions against the approval reports and confirm there is no non-compliant lamp.",
+  "table": null,
+  "applies_because": "Every lamp function in the combination must be approvable for the unit to be approved.",
+  "node_id": "R148|3.2.2",
+  "cited_role": "primary",
+  "item": "T-R148-3",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 4,
+   "paragraph": "3.2.2"
+  },
+  "drop_reason": "from a referenced section (hop >= 1)"
+ },
+ {
+  "id": "C-0089",
+  "job": "J-024",
+  "text": "The lamp shall be identified by the approval symbols of its functions: R1 (rear position lamp, steady) or R2 (rear position lamp, variable intensity); S1 (stop lamp, steady) or S2 (stop lamp, variable intensity); AR (reversing lamp, letters A and R may be mingled).",
+  "test_case": "Inspect the approval marking for the correct symbols matching each function variant.",
+  "table": "1",
+  "applies_because": "The product contains rear position, stop and reversing lamp functions that are identified by these symbols.",
+  "node_id": "R148|3.2.4",
+  "cited_role": "primary",
+  "item": "T-R148-3.2.4",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 4,
+   "paragraph": "3.2.4. Table 1"
+  },
+  "drop_reason": "from a referenced section (hop >= 1)"
+ },
+ {
+  "id": "C-0212",
+  "job": "J-031",
+  "text": "Mass-produced rear combination lamps (rear position, stop and reversing lamp functions) shall conform mechanically and geometrically to the approved type, with differences not exceeding inevitable manufacturing deviations.",
+  "test_case": "Measure dimensions and inspect the construction of random production lamps against the approved drawings.",
+  "table": null,
+  "applies_because": "The lamp is series-produced under an R148 approval and must match the approved type mechanically and geometrically.",
+  "node_id": "R148|Annex 5 1.1",
+  "cited_role": "primary",
+  "item": "T-R148-Annex_5",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 43,
+   "paragraph": "Annex 5 1.1"
+  },
+  "drop_reason": "administrative section"
+ },
+ {
+  "id": "C-0213",
+  "job": "J-031",
+  "text": "For each function (rear position, stop and reversing lamp), when any production lamp chosen at random is tested for photometric performance according to paragraph 4.8, no measured luminous intensity value shall deviate unfavourably by more than the values permitted in paragraph 6.1.3, i.e. 20 per cent from the prescribed values, or the Table 12 equivalents for the minimum values in the fields of Annexes 2 and 3.",
+  "test_case": "Measure the luminous intensity of each function of a random production lamp at 13.5 V or the applicant-specified operation, with the non-replaceable LEDs present, and check that no value deviates unfavourably by more than 20 per cent.",
+  "table": null,
+  "applies_because": "Each LED lamp function of the product is subject to photometric conformity of production under R148.",
+  "node_id": "R148|Annex 5 1.2",
+  "cited_role": "primary",
+  "item": "T-R148-Annex_5",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 43,
+   "paragraph": "Annex 5 1.2"
+  },
+  "drop_reason": "administrative section"
+ },
+ {
+  "id": "C-0214",
+  "job": "J-031",
+  "text": "Production lamps shall comply with the prescribed chromaticity coordinates (red for the rear position and stop lamp, white for the reversing lamp) when tested under the conditions of paragraph 4.9.",
+  "test_case": "Measure the chromaticity coordinates of each function within its light distribution field, with the LEDs present in the lamp, and compare them with the colour boundaries.",
+  "table": null,
+  "applies_because": "The red and white light emitted by the production lamp functions must stay within the R148 colour limits.",
+  "node_id": "R148|Annex 5 1.4",
+  "cited_role": "primary",
+  "item": "T-R148-Annex_5",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 44,
+   "paragraph": "Annex 5 1.4"
+  },
+  "drop_reason": "administrative section"
+ },
+ {
+  "id": "C-0224",
+  "job": "J-037",
+  "text": "In case the lamp housing containing the retro-reflector is watertight, the retro-reflector shall be identified by the symbol \"IA\" (retro-reflector for motor vehicles, independent).",
+  "test_case": "Inspect the approval marking on the lamp and the approval documents for the symbol \"IA\".",
+  "table": "1",
+  "applies_because": "The rear retro-reflector is approved as Class IA when the lamp it sits in is watertight.",
+  "node_id": "R150|3.2.5",
+  "cited_role": "primary",
+  "item": "T-R150-3.2.5",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 5,
+   "paragraph": "3.2.5. Table 1"
+  },
+  "drop_reason": "from a referenced section (hop >= 1)"
+ },
+ {
+  "id": "C-0225",
+  "job": "J-037",
+  "text": "In case the retro-reflector is combined with signal lamps which are not watertight, the retro-reflector shall be identified by the symbol \"IB\".",
+  "test_case": "Inspect the approval marking on the lamp and the approval documents for the symbol \"IB\".",
+  "table": "1",
+  "applies_because": "The retro-reflector is integrated in a combined rear lamp, so it is Class IB if the housing is not watertight.",
+  "node_id": "R150|3.2.5",
+  "cited_role": "primary",
+  "item": "T-R150-3.2.5",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 5,
+   "paragraph": "3.2.5. Table 1"
+  },
+  "drop_reason": "from a referenced section (hop >= 1)"
+ },
+ {
+  "id": "C-0242",
+  "job": "J-037",
+  "text": "Retro-reflectors approved under this Regulation shall be manufactured so as to conform to the type approved by meeting the requirements of paragraphs 4 and 5.",
+  "test_case": "Perform periodic production tests of photometry, colorimetry and water penetration per Annex 2.",
+  "table": null,
+  "applies_because": "This is the conformity of production obligation for the series-produced retro-reflector.",
+  "node_id": "R150|3.5.1",
+  "cited_role": "primary",
+  "item": "T-R150-3.5.1",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 9,
+   "paragraph": "3.5.1"
+  },
+  "drop_reason": "from a referenced section (hop >= 1)"
+ },
+ {
+  "id": "C-0284",
+  "job": "J-041",
+  "text": "Mass-produced retro-reflectors shall conform to the approved type from a mechanical and geometric standpoint: differences shall not exceed inevitable manufacturing deviations.",
+  "test_case": "Compare the dimensions and geometry of randomly chosen production retro-reflectors against the approved drawings and the approval sample.",
+  "table": null,
+  "applies_because": "The R150 retro-reflector (P-05) built into the rear lamp is mass-produced under the approval and is subject to conformity of production.",
+  "node_id": "R150|Annex 3 1.1",
+  "cited_role": "primary",
+  "item": "T-R150-Annex_3",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 26,
+   "paragraph": "Annex 3 1.1"
+  },
+  "drop_reason": "administrative section"
+ },
+ {
+  "id": "C-0285",
+  "job": "J-041",
+  "text": "When the photometric performance of any mass-produced retro-reflector chosen at random is tested, no measured value of the coefficient of luminous intensity (CIL) shall deviate unfavourably by more than 20 per cent from the minimum values prescribed in this Regulation.",
+  "test_case": "Measure the CIL of randomly selected production retro-reflectors at the prescribed angles and check each value is at least 80 % of the prescribed minimum.",
+  "table": null,
+  "applies_because": "The production Class IA/IB red retro-reflector must keep its CIL within the permitted CoP deviation.",
+  "node_id": "R150|Annex 3 1.2.1",
+  "cited_role": "primary",
+  "item": "T-R150-Annex_3",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 26,
+   "paragraph": "Annex 3 1.2.1"
+  },
+  "drop_reason": "administrative section"
+ },
+ {
+  "id": "C-0286",
+  "job": "J-041",
+  "text": "Mass-produced retro-reflectors shall comply with the chromaticity coordinates prescribed for red.",
+  "test_case": "Measure the chromaticity coordinates of production retro-reflectors under the prescribed colorimetric conditions and check they lie within the red boundaries.",
+  "table": null,
+  "applies_because": "The retro-reflector of the rear lamp is red, either as a red optical unit or behind the red outer lens acting as filter, and production units must stay within the red colour limits.",
+  "node_id": "R150|Annex 3 1.3",
+  "cited_role": "primary",
+  "item": "T-R150-Annex_3",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 26,
+   "paragraph": "Annex 3 1.3"
+  },
+  "drop_reason": "administrative section"
+ },
+ {
+  "id": "C-0287",
+  "job": "J-041",
+  "text": "Mass-produced retro-reflectors shall pass the resistance to water penetration test of Annex 6, Part 2, paragraph 1: no water shall penetrate to the reflecting surface of the retro-reflecting optical unit.",
+  "test_case": "Immerse a production retro-reflector (part of the lamp) per Annex 6 Part 2 para. 1. Inspect for water at the reflecting surface and, in case of doubt, measure the CIL.",
+  "table": null,
+  "applies_because": "Conformity of production of the retro-reflector in the rear lamp includes the water penetration test on production samples.",
+  "node_id": "R150|Annex 3 6.1",
+  "cited_role": "primary",
+  "item": "T-R150-Annex_3",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 27,
+   "paragraph": "Annex 3 6.1"
+  },
+  "drop_reason": "administrative section"
+ },
+ {
+  "id": "C-0318",
+  "job": "J-060",
+  "text": "The approval number (sequential number) on the retro-reflector's approval marking must be placed close to the circle surrounding the letter \"E\", in any position relative to it.",
+  "test_case": "Visually inspect the marking on the retro-reflector or lamp and check that the approval number is adjacent to the E-circle.",
+  "table": null,
+  "applies_because": "The Class IA/IB retro-reflector of the rear lamp carries an R150 approval marking.",
+  "node_id": "R150|Annex 10 0",
+  "cited_role": "primary",
+  "item": "T-R150-Annex_10",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 51,
+   "paragraph": "Annex 10 0"
+  },
+  "drop_reason": "administrative section"
+ },
+ {
+  "id": "C-0319",
+  "job": "J-060",
+  "text": "The digits making up the approval number on the retro-reflector's approval marking must face the same way as the letter \"E\".",
+  "test_case": "Visually inspect the marking and check that the approval-number digits have the same orientation as the \"E\".",
+  "table": null,
+  "applies_because": "The R150 approval marking applies to the integral retro-reflector.",
+  "node_id": "R150|Annex 10 0",
+  "cited_role": "primary",
+  "item": "T-R150-Annex_10",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 51,
+   "paragraph": "Annex 10 0"
+  },
+  "drop_reason": "administrative section"
+ },
+ {
+  "id": "C-0320",
+  "job": "J-060",
+  "text": "The group of symbols indicating the class of the retro-reflector (IA or IB) must be placed diametrically opposite the approval number with respect to the E-circle.",
+  "test_case": "Visually inspect the marking and check that the class symbol (IA/IB) sits on the opposite side of the E-circle from the approval number.",
+  "table": null,
+  "applies_because": "The retro-reflector is approved as Class IA or IB, and its class symbol forms part of the marking.",
+  "node_id": "R150|Annex 10 0",
+  "cited_role": "primary",
+  "item": "T-R150-Annex_10",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 51,
+   "paragraph": "Annex 10 0"
+  },
+  "drop_reason": "administrative section"
+ },
+ {
+  "id": "C-0435",
+  "job": "J-069",
+  "text": "The parking lamp function may be performed by simultaneously switching ON the front and rear position lamps on the same side of the vehicle, in which case lamps meeting the rear position lamp requirements are deemed to meet the parking lamp requirements.",
+  "test_case": "If parking function is provided, verify same-side front and rear position lamps light together.",
+  "table": null,
+  "applies_because": "The rear position lamp may be used as an optional parking lamp on an M1 vehicle up to 6 m long.",
+  "node_id": "R48|6.12.9",
+  "cited_role": "primary",
+  "item": "T-R48-6",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 53,
+   "paragraph": "6.12.9"
+  },
+  "drop_reason": "from a referenced section (hop >= 1)"
+ },
+ {
+  "id": "C-0436",
+  "job": "J-069",
+  "text": "In case the rear position lamp is used as a parking lamp, the connection shall allow the parking lamps on the same side of the vehicle to be switched ON independently of any other lamps.",
+  "test_case": "Activate the parking function on one side and check that no other lamps are switched on.",
+  "table": null,
+  "applies_because": "This applies if the rear position lamp provides the parking function.",
+  "node_id": "R48|6.12.7",
+  "cited_role": "primary",
+  "item": "T-R48-6",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 53,
+   "paragraph": "6.12.7"
+  },
+  "drop_reason": "from a referenced section (hop >= 1)"
+ },
+ {
+  "id": "C-0437",
+  "job": "J-069",
+  "text": "In case the rear position lamp is used as a parking lamp, it shall be able to operate even if the device which starts the propulsion system is in a position which makes it impossible for the propulsion system to operate.",
+  "test_case": "Switch off the propulsion system and activate the parking function.",
+  "table": null,
+  "applies_because": "This applies if the rear position lamp provides the parking function.",
+  "node_id": "R48|6.12.7",
+  "cited_role": "primary",
+  "item": "T-R48-6",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 53,
+   "paragraph": "6.12.7"
+  },
+  "drop_reason": "from a referenced section (hop >= 1)"
+ },
+ {
+  "id": "C-0438",
+  "job": "J-069",
+  "text": "In case the rear position lamp is used as a parking lamp, a device which automatically switches OFF these lamps as a function of time is prohibited.",
+  "test_case": "Leave the parking lamps on for an extended period and verify they are not switched off by a timer.",
+  "table": null,
+  "applies_because": "This applies if the rear position lamp provides the parking function.",
+  "node_id": "R48|6.12.7",
+  "cited_role": "primary",
+  "item": "T-R48-6",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 53,
+   "paragraph": "6.12.7"
+  },
+  "drop_reason": "from a referenced section (hop >= 1)"
+ },
+ {
+  "id": "C-0439",
+  "job": "J-069",
+  "text": "Where a rear fog lamp is fitted, the distance between the rear fog lamp and each stop lamp shall be greater than 100 mm.",
+  "test_case": "Measure the distance between the rear fog lamp and the stop lamp apparent surfaces on the vehicle.",
+  "table": null,
+  "applies_because": "The stop lamp position in this lamp must keep this distance from any vehicle rear fog lamp.",
+  "node_id": "R48|6.11.9",
+  "cited_role": "primary",
+  "item": "T-R48-6",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 52,
+   "paragraph": "6.11.9"
+  },
+  "drop_reason": "from a referenced section (hop >= 1)"
+ },
+ {
+  "id": "C-0450",
+  "job": "J-070",
+  "text": "In case the rear position lamp is installed on an M1 vehicle less than 6 m in length using the reduced geometric visibility of paragraph 6.10.5.2, side-marker lamps shall be used on the vehicle to supplement this reduced geometric visibility.",
+  "test_case": "Check the vehicle installation: if the rear position lamp meets only 6.10.5.2 angles, verify rear side-marker lamps are fitted.",
+  "table": null,
+  "applies_because": "The rear position lamp may use the M1 alternative visibility of 6.10.5.2, which is only allowed with supplementing side-marker lamps.",
+  "node_id": "R48|6.18.1",
+  "cited_role": "primary",
+  "item": "T-R48-6",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 58,
+   "paragraph": "6.18.1"
+  },
+  "drop_reason": "from a referenced section (hop >= 1)"
+ },
+ {
+  "id": "C-0457",
+  "job": "J-070",
+  "text": "In case a lamp function of the rear lamp is used for an answer-back signal, the geometric visibility shall be in accordance with the individual specifications for that lamp, except that the geometric visibility may be reduced compared with those specifications.",
+  "test_case": "Check the geometric visibility of the lamp in answer-back mode against the individual specification of the function used.",
+  "table": null,
+  "applies_because": "The rear position or reversing lamp of this product may optionally provide the answer-back signal.",
+  "node_id": "R48|6.27.5",
+  "cited_role": "primary",
+  "item": "T-R48-6.27",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 80,
+   "paragraph": "6.27.5"
+  },
+  "drop_reason": "from a referenced section (hop >= 1)"
+ },
+ {
+  "id": "C-0458",
+  "job": "J-070",
+  "text": "In case a lamp function of the rear lamp is used for an answer-back signal, the answer-back signal shall only operate under the park condition of the vehicle.",
+  "test_case": "Attempt to activate the answer-back signal outside park condition and verify it does not operate.",
+  "table": null,
+  "applies_because": "The rear position or reversing lamp of this product may optionally provide the answer-back signal.",
+  "node_id": "R48|6.27.7.1",
+  "cited_role": "primary",
+  "item": "T-R48-6.27",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 80,
+   "paragraph": "6.27.7.1"
+  },
+  "drop_reason": "from a referenced section (hop >= 1)"
+ },
+ {
+  "id": "C-0459",
+  "job": "J-070",
+  "text": "If the answer-back signal provided by the rear lamp flashes, the flash frequency shall not exceed 2.0 Hz.",
+  "test_case": "Measure the flash frequency of the answer-back signal with a photodetector.",
+  "table": null,
+  "applies_because": "The rear position or reversing lamp of this product may optionally provide a flashing answer-back signal.",
+  "node_id": "R48|6.27.7.2",
+  "cited_role": "primary",
+  "item": "T-R48-6.27",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 80,
+   "paragraph": "6.27.7.2"
+  },
+  "drop_reason": "from a referenced section (hop >= 1)"
+ },
+ {
+  "id": "C-0460",
+  "job": "J-070",
+  "text": "For lamps of the rear lamp used for the answer-back signal, the individual specific requirements for electrical connections and the conditions of paragraphs 5.11 and 5.12 may not apply.",
+  "test_case": "Review the wiring concept to confirm that the deviation from 5.11 is limited to answer-back operation.",
+  "table": null,
+  "applies_because": "This permission relaxes the simultaneous-switching rule of 5.11 for the rear position lamp when it is used for an answer-back signal.",
+  "node_id": "R48|6.27.7.4",
+  "cited_role": "primary",
+  "item": "T-R48-6.27",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 80,
+   "paragraph": "6.27.7.4"
+  },
+  "drop_reason": "from a referenced section (hop >= 1)"
+ },
+ {
+  "id": "C-0461",
+  "job": "J-070",
+  "text": "In case the rear position lamp or reversing lamp is used for the answer-back signal, the maximum luminous intensity per lamp in answer-back mode shall not exceed 700 cd on or above the HH line.",
+  "test_case": "Measure the luminous intensity on a goniophotometer in answer-back mode on and above HH and verify it is at most 700 cd.",
+  "table": null,
+  "applies_because": "The rear position and reversing lamps of this product are approved lamps that may provide the answer-back signal.",
+  "node_id": "R48|6.27.9.1",
+  "cited_role": "primary",
+  "item": "T-R48-6.27",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 80,
+   "paragraph": "6.27.9.1"
+  },
+  "drop_reason": "from a referenced section (hop >= 1)"
+ },
+ {
+  "id": "C-0462",
+  "job": "J-070",
+  "text": "The stop lamp shall not be used to provide the answer-back signal.",
+  "test_case": "Inspect the vehicle function and wiring to verify the stop lamp is not activated by the answer-back signal.",
+  "table": null,
+  "applies_because": "The product contains a stop lamp, which is excluded from answer-back use.",
+  "node_id": "R48|6.27.9.1",
+  "cited_role": "primary",
+  "item": "T-R48-6.27",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 80,
+   "paragraph": "6.27.9.1"
+  },
+  "drop_reason": "from a referenced section (hop >= 1)"
+ },
+ {
+  "id": "C-0463",
+  "job": "J-070",
+  "text": "The answer-back signal may only be activated automatically in conjunction with the locking and unlocking of the door(s) and/or the detection of the vehicle user in proximity to the vehicle.",
+  "test_case": "Verify that activation occurs only on lock/unlock or user proximity detection.",
+  "table": null,
+  "applies_because": "This applies when the rear position or reversing lamp of this product provides the answer-back signal.",
+  "node_id": "R48|6.27.9.2",
+  "cited_role": "primary",
+  "item": "T-R48-6.27",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 80,
+   "paragraph": "6.27.9.2"
+  },
+  "drop_reason": "from a referenced section (hop >= 1)"
+ },
+ {
+  "id": "C-0464",
+  "job": "J-070",
+  "text": "The lamp used for the answer-back signal may flash and/or vary in luminous intensity and/or vary in apparent surface.",
+  "test_case": "Inspect the answer-back signal pattern to confirm it uses only flashing, intensity or apparent-surface variation.",
+  "table": null,
+  "applies_because": "This permission covers the LED rear position or reversing lamp when used for the answer-back signal.",
+  "node_id": "R48|6.27.9.3",
+  "cited_role": "primary",
+  "item": "T-R48-6.27",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 80,
+   "paragraph": "6.27.9.3"
+  },
+  "drop_reason": "from a referenced section (hop >= 1)"
+ },
+ {
+  "id": "C-0465",
+  "job": "J-070",
+  "text": "The duration of the optical indication of the answer-back signal shall not exceed 3 seconds, measured from the beginning to the end of the signal, irrespective of flashes, variations of intensity or variations in apparent surface.",
+  "test_case": "Record the answer-back light output over time and verify the total duration is at most 3 s.",
+  "table": null,
+  "applies_because": "This applies when the rear position or reversing lamp of this product provides the answer-back signal.",
+  "node_id": "R48|6.27.9.4",
+  "cited_role": "primary",
+  "item": "T-R48-6.27",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 80,
+   "paragraph": "6.27.9.4"
+  },
+  "drop_reason": "from a referenced section (hop >= 1)"
+ },
+ {
+  "id": "C-0471",
+  "job": "J-079",
+  "text": "In production, the position of the rear position lamp, stop lamp, reversing lamp and rear retro-reflector in width, height and length shall be such that the measured distances fulfil the individual specifications applicable to each lamp. The position is checked according to paragraphs 2.10.2, 2.10.3, 2.10.4, 2.3.3 and 5.4.",
+  "test_case": "On a production vehicle, unladen on a flat surface, measure the illuminating-surface edges of each function for height, distance from the extreme outer edge and spacing, and compare with paras 6.4, 6.7, 6.10 and 6.14.",
+  "table": null,
+  "applies_because": "Each function of the rear combination lamp is checked for position on production M1 vehicles during conformity of production.",
+  "node_id": "R48|Annex 9 1.1",
+  "cited_role": "primary",
+  "item": "T-R48-Annex_9",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 114,
+   "paragraph": "Annex 9 1.1"
+  },
+  "drop_reason": "administrative section"
+ },
+ {
+  "id": "C-0472",
+  "job": "J-079",
+  "text": "In production, the measured angles of geometric visibility of each lamp function shall fulfil the individual specifications applicable to that lamp. The angle limits may have an allowance corresponding to the ±3° mounting variation permitted in paragraph 5.3.",
+  "test_case": "On a production vehicle, check the visibility of each function's apparent surface over the specified horizontal and vertical angles, applying the ±3° allowance.",
+  "table": null,
+  "applies_because": "The apparent surfaces of the rear position, stop and reversing lamps and of the retro-reflector are checked for geometric visibility during conformity of production.",
+  "node_id": "R48|Annex 9 1.2.1",
+  "cited_role": "primary",
+  "item": "T-R48-Annex_9",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 114,
+   "paragraph": "Annex 9 1.2.1"
+  },
+  "drop_reason": "administrative section"
+ },
+ {
+  "id": "C-0473",
+  "job": "J-079",
+  "text": "In production, red light from the rear position lamp, stop lamp and red retro-reflector shall not be visible towards the front of the vehicle, as checked in accordance with paragraph 5.10.",
+  "test_case": "With the lamps lit, an observer moving within Zone 1, 25 m in front of the vehicle, verifies that no red apparent surface is directly visible; in case of doubt, red light emitted forwards is checked to be ≤0.25 cd per lamp.",
+  "table": null,
+  "applies_because": "The lamp emits red light at the rear of an M1 vehicle, so no red light may be visible from the front.",
+  "node_id": "R48|Annex 9 1.2.2",
+  "cited_role": "primary",
+  "item": "T-R48-Annex_9",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 114,
+   "paragraph": "Annex 9 1.2.2"
+  },
+  "drop_reason": "administrative section"
+ },
+ {
+  "id": "C-0474",
+  "job": "J-079",
+  "text": "When switched on from the vehicle electrical system, the rear position lamp, stop lamp and reversing lamp and their associated tell-tales shall function in accordance with paragraphs 5.11 to 5.14 and with the individual specifications applicable to each lamp.",
+  "test_case": "Activate each function in turn (position lamps switch, brake pedal, reverse gear) and verify that the correct lamps and tell-tales light and that the switching conditions are met.",
+  "table": null,
+  "applies_because": "The LED functions of the lamp are supplied by the vehicle electrical system, and their electrical connections are checked in conformity of production.",
+  "node_id": "R48|Annex 9 1.4",
+  "cited_role": "primary",
+  "item": "T-R48-Annex_9",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 115,
+   "paragraph": "Annex 9 1.4"
+  },
+  "drop_reason": "administrative section"
+ },
+ {
+  "id": "C-0475",
+  "job": "J-079",
+  "text": "The presence, number, colour (red for the rear position lamp, stop lamp and retro-reflector; white for the reversing lamp), arrangement and, where applicable, category of the lamps, together with their markings, shall fulfil paragraphs 5.15 and 5.16 and the individual specifications applicable to each lamp.",
+  "test_case": "Visually inspect production lamps on the vehicle for light colour, number of functions per side, arrangement and the R148/R150 approval markings and category symbols.",
+  "table": null,
+  "applies_because": "The colours, number, arrangement and approval markings of the lamp functions are verified by visual inspection in conformity of production.",
+  "node_id": "R48|Annex 9 1.6",
+  "cited_role": "primary",
+  "item": "T-R48-Annex_9",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 115,
+   "paragraph": "Annex 9 1.6"
+  },
+  "drop_reason": "administrative section"
+ }
+]

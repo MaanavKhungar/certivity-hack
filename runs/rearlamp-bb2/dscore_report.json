@@ -1,0 +1,224 @@
+{
+ "oof_auc": 0.5794233917661622,
+ "llm_expert_prob_auc": 0.6637783013217267,
+ "curve_oof": [
+  {
+   "threshold": 0.05,
+   "submitted": 345,
+   "matched": 122,
+   "precision": 0.354,
+   "recall": 0.642,
+   "f2": 0.552
+  },
+  {
+   "threshold": 0.1,
+   "submitted": 288,
+   "matched": 107,
+   "precision": 0.372,
+   "recall": 0.563,
+   "f2": 0.51
+  },
+  {
+   "threshold": 0.14,
+   "submitted": 247,
+   "matched": 97,
+   "precision": 0.393,
+   "recall": 0.511,
+   "f2": 0.482
+  },
+  {
+   "threshold": 0.2,
+   "submitted": 205,
+   "matched": 84,
+   "precision": 0.41,
+   "recall": 0.442,
+   "f2": 0.435
+  },
+  {
+   "threshold": 0.25,
+   "submitted": 192,
+   "matched": 81,
+   "precision": 0.422,
+   "recall": 0.426,
+   "f2": 0.425
+  },
+  {
+   "threshold": 0.3,
+   "submitted": 164,
+   "matched": 67,
+   "precision": 0.409,
+   "recall": 0.353,
+   "f2": 0.363
+  },
+  {
+   "threshold": 0.35,
+   "submitted": 139,
+   "matched": 57,
+   "precision": 0.41,
+   "recall": 0.3,
+   "f2": 0.317
+  },
+  {
+   "threshold": 0.4,
+   "submitted": 123,
+   "matched": 52,
+   "precision": 0.423,
+   "recall": 0.274,
+   "f2": 0.294
+  },
+  {
+   "threshold": 0.5,
+   "submitted": 99,
+   "matched": 41,
+   "precision": 0.414,
+   "recall": 0.216,
+   "f2": 0.239
+  }
+ ],
+ "per_regulation_auc": {
+  "UN R10": 0.6107954545454546,
+  "UN R148": 0.5261640798226164,
+  "UN R150": 0.6479963570127505,
+  "UN R26": null,
+  "UN R48": 0.626077097505669
+ },
+ "coef": [
+  [
+   "hop",
+   -0.7038297966413954
+  ],
+  [
+   "annex",
+   -0.6410355452420048
+  ],
+  [
+   "reg_prob",
+   0.5130590262499937
+  ],
+  [
+   "expert_prob",
+   0.46544697018429276
+  ],
+  [
+   "conditional",
+   -0.3488525842200752
+  ],
+  [
+   "kind_test",
+   0.317016262441993
+  ],
+  [
+   "same_paragraph",
+   0.3027284117957546
+  ],
+  [
+   "nature_definition_or_scope",
+   -0.2940975194017985
+  ],
+  [
+   "nature_test_severity_or_pass_criterion",
+   -0.2886506944245769
+  ],
+  [
+   "length",
+   0.2462352690428512
+  ],
+  [
+   "nature_design_or_performance",
+   0.187745992159742
+  ],
+  [
+   "part_not_indicated",
+   -0.14615980507084878
+  ],
+  [
+   "nature_marking",
+   0.14384640159656026
+  ],
+  [
+   "duplicate",
+   -0.13994372696905238
+  ],
+  [
+   "expert_section",
+   0.1267655530801993
+  ],
+  [
+   "depth",
+   0.10008519947333086
+  ],
+  [
+   "sim_expert",
+   -0.09553339306988458
+  ],
+  [
+   "bound_product",
+   0.09026117360677342
+  ],
+  [
+   "nature_test_procedure",
+   0.08190857059147554
+  ],
+  [
+   "nature_announcement_or_summary",
+   0.06823359664248878
+  ],
+  [
+   "nature_permission_or_exemption",
+   -0.062032327945890815
+  ],
+  [
+   "bound_manufacturer_or_paperwork",
+   -0.04454567807242801
+  ],
+  [
+   "kind_requirement",
+   -0.03241819057709278
+  ],
+  [
+   "bound_vehicle_installation",
+   0.02485358051366863
+  ],
+  [
+   "permission",
+   -0.006236676664024772
+  ],
+  [
+   "part_confirmed",
+   0.004845006968734599
+  ],
+  [
+   "part_open_option",
+   0.0031324507397353166
+  ]
+ ],
+ "single_feature_auc": {
+  "expert_prob": 0.6637783013217267,
+  "expert_section": 0.6152218184722278,
+  "duplicate": 0.46377231162400673,
+  "bound_product": 0.5578704628039771,
+  "bound_vehicle_installation": 0.48771113684462725,
+  "bound_manufacturer_or_paperwork": 0.4889989218544104,
+  "nature_design_or_performance": 0.552649442958112,
+  "nature_test_severity_or_pass_criterion": 0.457782613904085,
+  "nature_test_procedure": 0.4685740526294773,
+  "nature_permission_or_exemption": 0.4685640697999441,
+  "nature_marking": 0.5507626881763367,
+  "nature_announcement_or_summary": 0.506398993730783,
+  "nature_definition_or_scope": 0.4952681388012618,
+  "part_confirmed": 0.5541967815357585,
+  "part_open_option": 0.47191830052310024,
+  "part_not_indicated": 0.4574631633590225,
+  "annex": 0.3992433015213832,
+  "kind_requirement": 0.5771073753144591,
+  "kind_test": 0.45283113045561635,
+  "depth": 0.6021343289541988,
+  "conditional": 0.4184502655432656,
+  "permission": 0.47813760332228566,
+  "hop": 0.4668769716088328,
+  "reg_prob": 0.5738829213752346,
+  "same_paragraph": 0.544673162161083,
+  "length": 0.4608872738889111,
+  "sim_expert": 0.5067583755939784
+ }
+}

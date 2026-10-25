@@ -1,0 +1,9 @@
+A/B: reused ../runs/rearlamp-v7b/selection.json
+T: UN R10 31 items (16 extract), UN R148 20 items (15 extract), UN R149 2 items (0 extract), UN R150 27 items (24 extract), UN R19 1 items (0 extract), UN R26 8 items (6 extract), UN R48 79 items (25 extract), UN R53 2 items (0 extract), UN R6 1 items (0 extract)
+C1: 81 jobs
+C1: 475 candidates (2 rejected: unknown node id)
+prefilter: dropped 36 (hop >= 1 or administrative), 439 left
+exact duplicates removed: 0
+stage D: kept 400 of 439 (39 dropped or merged)
+final: 400 requirements, validation: OK
+final: submitted 400, matched 161, P 0.403, R 0.847, F2 0.694

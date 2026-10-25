@@ -135,7 +135,7 @@ class Run:
 
         def one(job):
             res = rp.call_json(reqagent.SYSTEM + H.C_EXTRA, [{"type": "text", "text": self.job_prompt(job, examples)}],
-                               H.C_SCHEMA, max_tokens=64000, tag=f"BB_C1_{job['regulation'].replace(' ', '_')}_{job['id']}")
+                               H.C_SCHEMA, max_tokens=64000, tag=f"BB_C1_{job['regulation'].replace(' ', '_')}_{re.sub(r'[^A-Za-z0-9]+', '-', job['name'])[:40]}")
             return job, res["requirements"]
 
         with ThreadPoolExecutor(workers) as pool:
@@ -423,6 +423,7 @@ def main(argv=None):
     ap.add_argument("--limit", type=int, help="evaluate only the first N candidates (smoke test)")
     ap.add_argument("--stop-after", choices=["t", "c1", "bundles"], help="stop after this step")
     ap.add_argument("--workers", type=int, default=8)
+    ap.add_argument("--prefilter", action="store_true", help="--final d: drop hop >= 1 / administrative candidates before D")
     ap.add_argument("--keep-share", type=float, default=0.8, help="D2: share of candidates kept per regulation")
     ap.add_argument("--threshold", type=float, help="D2: keep score >= threshold instead of a share")
     ap.add_argument("--final", choices=["d", "d2", "blackbox"], default="blackbox", help="what follows C1: stage D or the blackbox")
@@ -489,6 +490,10 @@ def main(argv=None):
         return
     if a.final == "d":                                   # C1 -> stage D (hybrid7 reviewer) -> submission, no blackbox
         import hybrid7
+        if a.prefilter:
+            cands, pre_dropped = prefilter(cands, R.items)
+            dump("prefilter_dropped.json", pre_dropped)
+            log(f"prefilter: dropped {len(pre_dropped)} (hop >= 1 or administrative), {len(cands)} left")
         seen, uniq = set(), []
         for c in cands:                                   # exact duplicates only (same paragraph, same text)
             k = (c["source"]["regulation"], c["source"]["paragraph"], rp._norm(c["text"]))

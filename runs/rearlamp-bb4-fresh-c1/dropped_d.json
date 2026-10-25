@@ -1,0 +1,812 @@
+[
+ {
+  "id": "C-0013",
+  "job": "J-003",
+  "text": "When measured by the method of Annex 7, the ESA broadband radiated emission limit in the 75 to 400 MHz band shall be 52 to 63 dBµV/m, increasing logarithmically with frequency above 75 MHz (Appendix 6).",
+  "test_case": "Perform the Annex 7 broadband measurement from 75 to 400 MHz and compare with the limit line.",
+  "table": null,
+  "applies_because": "The LED electronics are an ESA subject to broadband emission limits.",
+  "node_id": "R10|6.5.2.1",
+  "cited_role": "primary",
+  "item": "T-R10-6",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 10,
+   "paragraph": "6.5.2.1"
+  },
+  "drop_reason": "merged into C-0012"
+ },
+ {
+  "id": "C-0014",
+  "job": "J-003",
+  "text": "When measured by the method of Annex 7, the ESA broadband radiated emission limit in the 400 to 1,000 MHz band shall be constant at 63 dBµV/m.",
+  "test_case": "Perform the Annex 7 broadband measurement from 400 to 1,000 MHz and compare with 63 dBµV/m.",
+  "table": null,
+  "applies_because": "The LED electronics are an ESA subject to broadband emission limits.",
+  "node_id": "R10|6.5.2.1",
+  "cited_role": "primary",
+  "item": "T-R10-6",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 10,
+   "paragraph": "6.5.2.1"
+  },
+  "drop_reason": "merged into C-0012"
+ },
+ {
+  "id": "C-0017",
+  "job": "J-003",
+  "text": "In case the ESA includes an electronic oscillator above 9 kHz, the ESA narrowband radiated emission limit measured by the method of Annex 8 in the 75 to 400 MHz band shall be 42 to 53 dBµV/m, increasing logarithmically with frequency above 75 MHz (Appendix 7).",
+  "test_case": "Perform the Annex 8 narrowband measurement from 75 to 400 MHz and compare with the limit line.",
+  "table": null,
+  "applies_because": "An active LED driver makes the lamp subject to narrowband emission limits.",
+  "node_id": "R10|6.6.2.1",
+  "cited_role": "primary",
+  "item": "T-R10-6",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 10,
+   "paragraph": "6.6.2.1"
+  },
+  "drop_reason": "merged into C-0016"
+ },
+ {
+  "id": "C-0018",
+  "job": "J-003",
+  "text": "In case the ESA includes an electronic oscillator above 9 kHz, the ESA narrowband radiated emission limit measured by the method of Annex 8 in the 400 to 1,000 MHz band shall be constant at 53 dBµV/m.",
+  "test_case": "Perform the Annex 8 narrowband measurement from 400 to 1,000 MHz and compare with 53 dBµV/m.",
+  "table": null,
+  "applies_because": "An active LED driver makes the lamp subject to narrowband emission limits.",
+  "node_id": "R10|6.6.2.1",
+  "cited_role": "primary",
+  "item": "T-R10-6",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 10,
+   "paragraph": "6.6.2.1"
+  },
+  "drop_reason": "merged into C-0016"
+ },
+ {
+  "id": "C-0023",
+  "job": "J-003",
+  "text": "For a 12 V system ESA, the negative transient conducted emission pulse amplitude shall not exceed -100 V.",
+  "test_case": "Measure the ISO 7637-2 negative pulse amplitude on the 12 V supply line.",
+  "table": "1",
+  "applies_because": "This limit applies if the lamp is a 12 V supply variant.",
+  "node_id": "R10|6.7.1",
+  "cited_role": "primary",
+  "item": "T-R10-6",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 10,
+   "paragraph": "6.7.1. Table 1"
+  },
+  "drop_reason": "merged into C-0022"
+ },
+ {
+  "id": "C-0025",
+  "job": "J-003",
+  "text": "For a 24 V system ESA, the negative transient conducted emission pulse amplitude shall not exceed -450 V.",
+  "test_case": "Measure the ISO 7637-2 negative pulse amplitude on the 24 V supply line.",
+  "table": "1",
+  "applies_because": "This limit applies if the lamp is a 24 V supply variant.",
+  "node_id": "R10|6.7.1",
+  "cited_role": "primary",
+  "item": "T-R10-6",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 10,
+   "paragraph": "6.7.1. Table 1"
+  },
+  "drop_reason": "merged into C-0024"
+ },
+ {
+  "id": "C-0059",
+  "job": "J-006",
+  "text": "The broadband electromagnetic emissions of the ESA (rear lamp LED modules and drive circuitry) shall be measured according to CISPR 25, unless otherwise stated in Annex 7.",
+  "test_case": "Verify in the test report that broadband radiated emission testing of the lamp was performed to CISPR 25.",
+  "table": null,
+  "applies_because": "The rear lamp's LED PCB is an ESA approved under R10, and its broadband emission is measured by the Annex 7 method referenced in paragraph 6.5.1.",
+  "node_id": "R10|Annex 7 1.2",
+  "cited_role": "primary",
+  "item": "T-R10-Annex_7",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 91,
+   "paragraph": "Annex 7 1.2"
+  },
+  "drop_reason": "Measurement method"
+ },
+ {
+  "id": "C-0060",
+  "job": "J-006",
+  "text": "During the broadband emission test, the ESA under test shall be in normal operation mode, preferably at maximum load.",
+  "test_case": "Operate the lamp with all functions energised at nominal supply during the emission scan and record the operating mode in the report.",
+  "table": null,
+  "applies_because": "This defines the operating state in which the lamp's emissions must stay within limits, e.g. rear position, stop and reversing functions energised.",
+  "node_id": "R10|Annex 7 2.1",
+  "cited_role": "primary",
+  "item": "T-R10-Annex_7",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 91,
+   "paragraph": "Annex 7 2.1"
+  },
+  "drop_reason": "Test set-up and operating mode during the test"
+ },
+ {
+  "id": "C-0061",
+  "job": "J-006",
+  "text": "For an ESA other than one involved in 'REESS charging mode coupled to the power grid', the broadband emission test shall be performed according to the ALSE method described in Clause 6.4 of CISPR 25.",
+  "test_case": "Perform the radiated emission measurement in an ALSE per CISPR 25 Clause 6.4 and check the setup against the standard.",
+  "table": null,
+  "applies_because": "The rear lamp is a 12/24 V ESA not involved in REESS charging.",
+  "node_id": "R10|Annex 7 3.1",
+  "cited_role": "primary",
+  "item": "T-R10-Annex_7",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 91,
+   "paragraph": "Annex 7 3.1"
+  },
+  "drop_reason": "Measurement method"
+ },
+ {
+  "id": "C-0062",
+  "job": "J-006",
+  "text": "As an alternative to an absorber lined shielded enclosure (ALSE), the ESA may be measured on an open area test site (OATS) complying with CISPR 16-1-4.",
+  "test_case": "If an OATS is used, verify the site's CISPR 16-1-4 compliance documentation.",
+  "table": null,
+  "applies_because": "This permitted alternative measuring location applies to the lamp ESA test.",
+  "node_id": "R10|Annex 7 3.3",
+  "cited_role": "primary",
+  "item": "T-R10-Annex_7",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 92,
+   "paragraph": "Annex 7 3.3"
+  },
+  "drop_reason": "Choice of test site"
+ },
+ {
+  "id": "C-0064",
+  "job": "J-006",
+  "text": "The broadband limits are quasi-peak limits; if peak detectors are used, a correction factor of 20 dB as defined in CISPR 12 shall be applied.",
+  "test_case": "Where peak detection is used, verify that the limit was raised by 20 dB (per CISPR 12) when assessing compliance.",
+  "table": null,
+  "applies_because": "This defines how the lamp's measured emission levels are compared against the type approval limits.",
+  "node_id": "R10|Annex 7 4.2",
+  "cited_role": "primary",
+  "item": "T-R10-Annex_7",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 92,
+   "paragraph": "Annex 7 4.2"
+  },
+  "drop_reason": "Detector and receiver setting"
+ },
+ {
+  "id": "C-0065",
+  "job": "J-006",
+  "text": "The maximum of the readings relative to the limit (horizontal/vertical polarization) in each of the 14 frequency bands shall be taken as the characteristic reading at the frequency at which the measurements were made.",
+  "test_case": "Check that the test report takes the worst-case polarisation reading per band as the characteristic value compared with the limit.",
+  "table": null,
+  "applies_because": "This defines the reading of the lamp's emission that is assessed against the limit.",
+  "node_id": "R10|Annex 7 4.5",
+  "cited_role": "primary",
+  "item": "T-R10-Annex_7",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 93,
+   "paragraph": "Annex 7 4.5"
+  },
+  "drop_reason": "Measurement evaluation procedure"
+ },
+ {
+  "id": "C-0066",
+  "job": "J-008",
+  "text": "In case of an active electronic LED driver (not exempted under paragraph 6.10), the narrowband electromagnetic emissions of the rear lamp ESA shall be measured according to CISPR 25, unless otherwise stated in Annex 8.",
+  "test_case": "Perform the narrowband radiated emission test on the lamp according to CISPR 25 and Annex 8, and check the results against the paragraph 6.6.2.1 limits.",
+  "table": null,
+  "applies_because": "The rear lamp is an ESA (LED modules on PCB) whose narrowband emissions must meet paragraph 6.6 when tested by the Annex 8 method.",
+  "node_id": "R10|Annex 8 1.2",
+  "cited_role": "primary",
+  "item": "T-R10-Annex_8",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 96,
+   "paragraph": "Annex 8 1.2"
+  },
+  "drop_reason": "Measurement method"
+ },
+ {
+  "id": "C-0067",
+  "job": "J-008",
+  "text": "During the narrowband emission test, the rear lamp ESA shall be in normal operation mode, preferably at maximum load (e.g. rear position, stop and reversing functions energised).",
+  "test_case": "Verify in the test plan and setup that all lamp functions are energised at nominal supply during the emission measurement.",
+  "table": null,
+  "applies_because": "This defines the operating state in which the lamp's narrowband emission compliance is assessed.",
+  "node_id": "R10|Annex 8 2",
+  "cited_role": "primary",
+  "item": "T-R10-Annex_8",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 96,
+   "paragraph": "Annex 8 2"
+  },
+  "drop_reason": "Test set-up and operating mode during the test"
+ },
+ {
+  "id": "C-0069",
+  "job": "J-008",
+  "text": "The narrowband emissions of the rear lamp ESA shall be evaluated with an average detector.",
+  "test_case": "Check that the emission measurement report shows average-detector readings, and compare them with the paragraph 6.6.2.1 limits.",
+  "table": null,
+  "applies_because": "The detector type defines the measured quantity against which the lamp's narrowband limits are applied.",
+  "node_id": "R10|Annex 8 4.2",
+  "cited_role": "primary",
+  "item": "T-R10-Annex_8",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 96,
+   "paragraph": "Annex 8 4.2"
+  },
+  "drop_reason": "Detector setting"
+ },
+ {
+  "id": "C-0070",
+  "job": "J-009",
+  "text": "The rear lamp ESA may show compliance with the radiated immunity requirements using any combination of the following test methods, at the manufacturer's discretion, provided that together they cover the full frequency range of paragraph 3.1 of Annex 9 (20 to 6,000 MHz): absorber chamber test (ISO 11452-2), TEM cell test (ISO 11452-3), bulk current injection test (ISO 11452-4), stripline test (ISO 11452-5) or reverberation chamber test (ISO 11452-11).",
+  "test_case": "Review the immunity test plan and reports to confirm that the selected ISO 11452 methods together cover 20 to 6,000 MHz.",
+  "table": null,
+  "applies_because": "The rear lamp is an ESA with immunity-related functions (stop lamp, rear position lamp) and must undergo ESA immunity testing per Annex 9.",
+  "node_id": "R10|Annex 9 1.2.1",
+  "cited_role": "primary",
+  "item": "T-R10-Annex_9",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 97,
+   "paragraph": "Annex 9 1.2.1"
+  },
+  "drop_reason": "Choice of test method"
+ },
+ {
+  "id": "C-0071",
+  "job": "J-009",
+  "text": "During the immunity test, the rear lamp ESA shall be switched on and stimulated to be in normal operation condition, with the stop lamp and rear position lamp functions operating.",
+  "test_case": "Check in the test report and setup that the lamp is powered and its stop and rear position functions are activated and monitored throughout the exposure.",
+  "table": null,
+  "applies_because": "This defines the operating state in which the lamp's immunity-related functions must withstand the radiated disturbance.",
+  "node_id": "R10|Annex 9 2.2",
+  "cited_role": "primary",
+  "item": "T-R10-Annex_9",
+  "source": {
+   "regulation": "UN R10",
+   "version": "7.2.0",
+   "page": 98,
+   "paragraph": "Annex 9 2.2"
+  },
+  "drop_reason": "Test set-up and operating condition"
+ },
+ {
+  "id": "C-0115",
+  "job": "J-015",
+  "text": "Each lamp function submitted for approval (rear position lamp, stop lamp, reversing lamp) shall conform to the requirements of paragraphs 4 and 5 of UN R148.",
+  "test_case": "Review the approval test report to confirm that every applicable paragraph 4 and 5 requirement was verified for each function.",
+  "table": null,
+  "applies_because": "The rear combination lamp is submitted for R148 approval for its R, S and AR functions.",
+  "node_id": "R148|4.1",
+  "cited_role": "primary",
+  "item": "T-R148-4",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 10,
+   "paragraph": "4.1"
+  },
+  "drop_reason": "Pure announcement that paragraphs 4 and 5 apply"
+ },
+ {
+  "id": "C-0141",
+  "job": "J-015",
+  "text": "Photometric and colorimetric measurements of the lamp shall be made with its non-replaceable light sources or light source modules present in the lamp.",
+  "test_case": "Conduct the photometric and colour tests on the complete lamp with its own LEDs.",
+  "table": null,
+  "applies_because": "The lamp uses LED light sources fixed in the lamp.",
+  "node_id": "R148|4.8.1.2",
+  "cited_role": "primary",
+  "item": "T-R148-4",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 13,
+   "paragraph": "4.8.1.2"
+  },
+  "drop_reason": "Measurement set-up instruction"
+ },
+ {
+  "id": "C-0164",
+  "job": "J-016",
+  "text": "The light emitted by each of the two samples of the rear position lamp (R1 or R2) supplied shall meet the requirements in Table 4.",
+  "test_case": "Goniophotometric measurement of both samples against all Table 4 values.",
+  "table": null,
+  "applies_because": "The lamp contains a rear position lamp function of class R1 or R2.",
+  "node_id": "R148|5.2.1",
+  "cited_role": "primary",
+  "item": "T-R148-5",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 17,
+   "paragraph": "5.2.1"
+  },
+  "drop_reason": "Announcement of Table 4; the values are covered by other candidates"
+ },
+ {
+  "id": "C-0172",
+  "job": "J-016",
+  "text": "The rear position lamp shall comply with the failure provisions of paragraph 4.6.",
+  "test_case": "Simulate single LED failures and a variable intensity control failure and check the intensity or the tell-tale signal per 4.6.",
+  "table": null,
+  "applies_because": "The rear position lamp contains multiple LED light sources and possibly a variable intensity control.",
+  "node_id": "R148|5.2.6",
+  "cited_role": "primary",
+  "item": "T-R148-5",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 17,
+   "paragraph": "5.2.6"
+  },
+  "drop_reason": "Pure cross-reference announcement to paragraph 4.6"
+ },
+ {
+  "id": "C-0174",
+  "job": "J-016",
+  "text": "The light emitted by each of the two samples of the stop lamp (S1 or S2) supplied shall meet the requirements in Table 7.",
+  "test_case": "Goniophotometric measurement of both samples against all Table 7 values.",
+  "table": null,
+  "applies_because": "The lamp contains a stop lamp function of class S1 or S2.",
+  "node_id": "R148|5.5.1",
+  "cited_role": "primary",
+  "item": "T-R148-5",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 19,
+   "paragraph": "5.5.1"
+  },
+  "drop_reason": "Announcement of Table 7; the values are covered by other candidates"
+ },
+ {
+  "id": "C-0182",
+  "job": "J-016",
+  "text": "The stop lamp shall comply with the failure provisions of paragraph 4.6.",
+  "test_case": "Simulate single LED failures and a variable intensity control failure and check the intensity or the tell-tale signal per 4.6.",
+  "table": null,
+  "applies_because": "The stop lamp contains multiple LED light sources and possibly a variable intensity control.",
+  "node_id": "R148|5.5.6",
+  "cited_role": "primary",
+  "item": "T-R148-5",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 20,
+   "paragraph": "5.5.6"
+  },
+  "drop_reason": "Pure cross-reference announcement to paragraph 4.6"
+ },
+ {
+  "id": "C-0184",
+  "job": "J-016",
+  "text": "The light emitted by each of the two samples of the reversing lamp (AR) supplied shall meet the requirements in Table 10.",
+  "test_case": "Goniophotometric measurement of both samples against all Table 10 values.",
+  "table": null,
+  "applies_because": "The lamp contains a reversing lamp function of class AR.",
+  "node_id": "R148|5.8.1",
+  "cited_role": "primary",
+  "item": "T-R148-5",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 23,
+   "paragraph": "5.8.1"
+  },
+  "drop_reason": "Announcement of Table 10; the values are covered by other candidates"
+ },
+ {
+  "id": "C-0188",
+  "job": "J-016",
+  "text": "For the reversing lamp (AR), the luminous intensity shall not exceed 600 cd in directions below the H-plane down to 5°D.",
+  "test_case": "Goniophotometric scan between H and 5°D and compare the maximum with 600 cd.",
+  "table": "10",
+  "applies_because": "Table 10 maximum applies to the AR reversing lamp.",
+  "node_id": "R148|5.8.1",
+  "cited_role": "primary",
+  "item": "T-R148-5",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 23,
+   "paragraph": "5.8.1. Table 10"
+  },
+  "drop_reason": "merged into C-0187"
+ },
+ {
+  "id": "C-0189",
+  "job": "J-016",
+  "text": "For the reversing lamp (AR), the luminous intensity shall not exceed 8,000 cd in directions below 5°D.",
+  "test_case": "Goniophotometric scan below 5°D and compare the maximum with 8,000 cd.",
+  "table": "10",
+  "applies_because": "Table 10 maximum applies to the AR reversing lamp.",
+  "node_id": "R148|5.8.1",
+  "cited_role": "primary",
+  "item": "T-R148-5",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 23,
+   "paragraph": "5.8.1. Table 10"
+  },
+  "drop_reason": "merged into C-0187"
+ },
+ {
+  "id": "C-0190",
+  "job": "J-016",
+  "text": "The reversing lamp shall comply with the failure provisions of paragraph 4.6.",
+  "test_case": "Simulate single LED failures and check the minimum intensity or the tell-tale signal per 4.6.",
+  "table": null,
+  "applies_because": "The reversing lamp uses multiple LED light sources.",
+  "node_id": "R148|5.8.6",
+  "cited_role": "primary",
+  "item": "T-R148-5",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 23,
+   "paragraph": "5.8.6"
+  },
+  "drop_reason": "Pure cross-reference announcement to paragraph 4.6"
+ },
+ {
+  "id": "C-0195",
+  "job": "J-017",
+  "text": "Production lamps shall comply with the chromaticity coordinates of their light colour when tested under the conditions of paragraph 4.9: red for the rear position and stop lamp functions, white for the reversing lamp.",
+  "test_case": "Measure the chromaticity coordinates of each function of randomly selected production lamps per paragraph 4.9 and check them against the colour boundaries.",
+  "table": null,
+  "applies_because": "Conformity of production of the lamp covers its colorimetric characteristics.",
+  "node_id": "R148|Annex 4 1.3",
+  "cited_role": "supporting",
+  "item": "T-R148-Annex_4",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 42,
+   "paragraph": "Annex 4 1.3"
+  },
+  "drop_reason": "Duplicate of C-0213 (same paragraph, Annex 4 1.3)"
+ },
+ {
+  "id": "C-0216",
+  "job": "J-021",
+  "text": "Depending on the light source technology, the luminous intensity distribution of each lamp function shall, in addition to paragraph 1 of Annex 8, comply at the point in time after switch-on listed in Table A8-1.",
+  "test_case": "Check the intensity at the reference coordinate at the Table A8-1 time after switch-on, or show compliance via the LED provision of paragraph 2.1.2.",
+  "table": null,
+  "applies_because": "The lamp's rear position, stop and reversing functions are listed in Table A8-1.",
+  "node_id": "R148|Annex 8 2.1",
+  "cited_role": "primary",
+  "item": "T-R148-Annex_8",
+  "source": {
+   "regulation": "UN R148",
+   "version": "1.6.0",
+   "page": 47,
+   "paragraph": "Annex 8 2.1"
+  },
+  "drop_reason": "Announcement of Table A8-1; the rows are covered by C-0217 to C-0219"
+ },
+ {
+  "id": "C-0224",
+  "job": "J-022",
+  "text": "The size of the approval marking shall be based on the value of 'a' defined in Table 1.",
+  "test_case": "Measure the dimension 'a' of the approval marking on the sample.",
+  "table": null,
+  "applies_because": "The approval marking on the Class IA/IB retro-reflector must be sized to Table 1.",
+  "node_id": "R150|3.3.1.3",
+  "cited_role": "primary",
+  "item": "T-R150-3.3",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 7,
+   "paragraph": "3.3.1.3"
+  },
+  "drop_reason": "merged into C-0225"
+ },
+ {
+  "id": "C-0240",
+  "job": "J-023",
+  "text": "The requirements of sections 5 'General specifications' and 6 'Individual specifications', and of the Annexes they reference, in UN Regulation No. 48 (series of amendments in force at the time of application) shall apply to the retro-reflector. This covers those pertinent to the retro-reflector and to the M1 vehicle category on which it is intended to be installed, where verification at device type approval is feasible.",
+  "test_case": "Review the R48 general and individual specifications for rear retro-reflectors on M1 vehicles and check those verifiable at device level.",
+  "table": null,
+  "applies_because": "The red rear retro-reflector is intended for installation on M1 vehicles under UN R48.",
+  "node_id": "R150|4",
+  "cited_role": "primary",
+  "item": "T-R150-4",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 10,
+   "paragraph": "4"
+  },
+  "drop_reason": "Pure announcement that R48 provisions apply"
+ },
+ {
+  "id": "C-0253",
+  "job": "J-024",
+  "text": "The shape of the illuminating surfaces of the Class IA/IB retro-reflector shall not be easily confused with the triangular shape of trailer retro-reflectors when observed from a distance of 10 m.",
+  "test_case": "Visually inspect the retro-reflector from 10 m and confirm it does not look triangular.",
+  "table": null,
+  "applies_because": "P-05 is a non-triangular Class IA/IB rear retro-reflector.",
+  "node_id": "R150|Annex 5 1.1",
+  "cited_role": "supporting",
+  "item": "T-R150-Annex_5",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 33,
+   "paragraph": "Annex 5 1.1"
+  },
+  "drop_reason": "Duplicate of C-0282"
+ },
+ {
+  "id": "C-0256",
+  "job": "J-024",
+  "text": "The retro-reflector, as part of the lamp and stripped of all removable parts, shall withstand immersion for 10 min in water at 50 °C ± 5 °C with the top of the illuminating surface 20 mm below the water surface. This is repeated with the device turned through 180° so that the rear face is covered by about 20 mm of water, followed immediately by immersion under the same conditions in water at 25 °C ± 5 °C.",
+  "test_case": "Immerse the lamp and retro-reflector as specified, then inspect for water and measure RI.",
+  "table": null,
+  "applies_because": "Water penetration is the first-group test for Class IA/IB retro-reflectors, including those that are part of a lamp.",
+  "node_id": "R150|Annex 6 Part 2 1.1",
+  "cited_role": "supporting",
+  "item": "T-R150-Annex_6_Part_2",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 42,
+   "paragraph": "Annex 6 Part 2 1.1"
+  },
+  "drop_reason": "Duplicate of C-0283 (merged)"
+ },
+ {
+  "id": "C-0257",
+  "job": "J-024",
+  "text": "After the water penetration test, no water shall have penetrated to the reflecting surface of the retro-reflecting optical unit. Where visual inspection does not reveal water, or in case of doubt, the RI shall still satisfy paragraph 5.1.4 at 20' and β1 = β2 = 0°.",
+  "test_case": "Visually inspect the prism surface for water and, in case of doubt, re-measure RI at 20' and 0°/0°.",
+  "table": null,
+  "applies_because": "This is the pass criterion of the water penetration test for P-05.",
+  "node_id": "R150|Annex 6 Part 2 1.2",
+  "cited_role": "supporting",
+  "item": "T-R150-Annex_6_Part_2",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 42,
+   "paragraph": "Annex 6 Part 2 1.2"
+  },
+  "drop_reason": "Duplicate of C-0285/C-0286"
+ },
+ {
+  "id": "C-0267",
+  "job": "J-024",
+  "text": "Minimum RI for red Class IA/IB retro-reflectors: at divergence 20', 300 mcd/lx at β1 = 0°/β2 = 0°, 200 mcd/lx at β1 = ±10°/β2 = 0°, and 100 mcd/lx at β1 = ±5°/β2 = ±20°. At divergence 1°30', 5 mcd/lx at 0°/0°, 2.8 mcd/lx at ±10°/0°, and 2.5 mcd/lx at ±5°/±20°.",
+  "test_case": "Measure RI at each listed angle combination and compare with the minima.",
+  "table": "3",
+  "applies_because": "These are the Table 3 values for the red Class IA/IB row that applies to P-05.",
+  "node_id": "R150|5.1.4.4.1",
+  "cited_role": "primary",
+  "item": "T-R150-5",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 12,
+   "paragraph": "5.1.4.4.1. Table 3"
+  },
+  "drop_reason": "merged into C-0266"
+ },
+ {
+  "id": "C-0270",
+  "job": "J-024",
+  "text": "If the retro-reflector is not marked \"TOP\", at an illumination angle β1 = β2 = 0° and a divergence of 20' it shall be rotated about its axis of reference to the position of minimum RI, and that minimum RI shall conform to the value of paragraph 5. If the specified values are not attained at other angles in this position, the device may be rotated ±5° from it.",
+  "test_case": "Rotate the sample about its reference axis, find the minimum RI at 20' and 0°/0°, and verify compliance.",
+  "table": null,
+  "applies_because": "P-05 is photometrically assessed in this position unless it is marked TOP.",
+  "node_id": "R150|Annex 4 Part 1 1.2",
+  "cited_role": "supporting",
+  "item": "T-R150-Annex_4_Part_1",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 28,
+   "paragraph": "Annex 4 Part 1 1.2"
+  },
+  "drop_reason": "Duplicate of C-0277/C-0278"
+ },
+ {
+  "id": "C-0271",
+  "job": "J-024",
+  "text": "The night-time colour of the retro-reflector shall be tested by the method of paragraph 4.2.1: CIE Standard Illuminant A, angle of divergence 1/3°, illumination angle β1 = β2 = 0° (or the Annex 4 Part 1, paragraph 1.1 angle if a colourless surface reflection occurs).",
+  "test_case": "Measure chromaticity of the retro-reflected light under Illuminant A at 1/3° divergence.",
+  "table": null,
+  "applies_because": "This defines the colour measurement conditions for the red retro-reflector P-05.",
+  "node_id": "R150|5.1.5.1",
+  "cited_role": "primary",
+  "item": "T-R150-5",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 13,
+   "paragraph": "5.1.5.1"
+  },
+  "drop_reason": "Test method for colour; requirement covered by C-0249/C-0272"
+ },
+ {
+  "id": "C-0281",
+  "job": "J-026",
+  "text": "The retro-reflection (RI) of the retro-reflector shall meet its requirements when illuminated with CIE Standard Illuminant A (ISO 11664-2:2007(E)/CIE S 014-2/E:2006) and measured as described in Part 1 of Annex 4.",
+  "test_case": "Verify that the photometric test uses a source calibrated to CIE Standard Illuminant A (2856 K) and check RI results against the limits.",
+  "table": null,
+  "applies_because": "This defines the illuminant under which the retro-reflector's photometric performance is verified.",
+  "node_id": "R150|Annex 4 Part 1 3.3",
+  "cited_role": "primary",
+  "item": "T-R150-Annex_4_Part_1",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 30,
+   "paragraph": "Annex 4 Part 1 3.3"
+  },
+  "drop_reason": "Measurement illuminant/method"
+ },
+ {
+  "id": "C-0284",
+  "job": "J-030",
+  "text": "Immediately after the 50 °C immersions, the retro-reflector shall withstand immersion under the same conditions in water at 25 °C ± 5 °C.",
+  "test_case": "Transfer the sample immediately to a 25 °C ± 5 °C water bath and repeat the immersions under the same conditions.",
+  "table": null,
+  "applies_because": "The water penetration exposure of the Class IA/IB retro-reflector includes the subsequent 25 °C immersion.",
+  "node_id": "R150|Annex 6 Part 2 1.1",
+  "cited_role": "primary",
+  "item": "T-R150-Annex_6_Part_2",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 42,
+   "paragraph": "Annex 6 Part 2 1.1"
+  },
+  "drop_reason": "merged into C-0283"
+ },
+ {
+  "id": "C-0301",
+  "job": "J-032",
+  "text": "After a 48-hour recovery period following the corrosion test, the coefficient of retro-reflection RA of the retro-reflective areas shall be not less than the value in Table 9 or more than the value in Table 10 respectively. RA is measured as specified in Part 2 of Annex 6 at an entrance angle β2 = 5° and an observation angle α = 20'.",
+  "test_case": "After 48 h recovery and removal of salt deposits, measure the retro-reflection at β2 = 5° and α = 20' and compare it with the referenced limits.",
+  "table": null,
+  "applies_because": "This photometric pass criterion after the corrosion test applies to retro-reflective areas, which include the retro-reflector's prism area.",
+  "node_id": "R150|Annex 6 Part 4 4.2",
+  "cited_role": "primary",
+  "item": "T-R150-Annex_6_Part_4",
+  "source": {
+   "regulation": "UN R150",
+   "version": "1.2.1",
+   "page": 45,
+   "paragraph": "Annex 6 Part 4 4.2"
+  },
+  "drop_reason": "RA tables apply to retro-reflective marking materials, not Class IA/IB devices"
+ },
+ {
+  "id": "C-0348",
+  "job": "J-041",
+  "text": "The colours of the light emitted by the lamp functions shall be those listed in paragraph 5.15.",
+  "test_case": "Measure the chromaticity of each function.",
+  "table": null,
+  "applies_because": "Each lamp function has a prescribed colour.",
+  "node_id": "R48|5.15",
+  "cited_role": "primary",
+  "item": "T-R48-5",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 23,
+   "paragraph": "5.15"
+  },
+  "drop_reason": "Pure announcement; the specific colours are covered in C-0349 to C-0352."
+ },
+ {
+  "id": "C-0353",
+  "job": "J-041",
+  "text": "In case the lamp is installed on a movable component (e.g. tailgate or boot lid), the conditions of paragraphs 5.18, 5.19 and 5.20 shall be fulfilled.",
+  "test_case": "Identify any movable mounting and verify paragraphs 5.18 to 5.20.",
+  "table": null,
+  "applies_because": "Mounting part of the rear lamp on a movable component is possible on M1 vehicles.",
+  "node_id": "R48|5.17",
+  "cited_role": "primary",
+  "item": "T-R48-5",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 24,
+   "paragraph": "5.17"
+  },
+  "drop_reason": "Pure announcement that paras 5.18 to 5.20 apply; those are covered separately."
+ },
+ {
+  "id": "C-0431",
+  "job": "J-048",
+  "text": "The apparent surfaces of the red lamps (rear position lamp, stop lamp) and of the red rear retro-reflector shall not be directly visible to an observer moving within Zone 1 in a transverse plane situated 25 m in front of the vehicle (see Annex 4).",
+  "test_case": "With the lamp installed on the vehicle, sweep an observer eye position across Zone 1 at 25 m in front of the vehicle and check that no red apparent surface is directly visible.",
+  "table": null,
+  "applies_because": "The rear combination lamp emits red light and must not show red to the front when installed on the M1 vehicle.",
+  "node_id": "R48|5.10.4.1",
+  "cited_role": "supporting",
+  "item": "T-R48-5",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 22,
+   "paragraph": "5.10.4.1"
+  },
+  "drop_reason": "Duplicate of C-0342 (same paragraph 5.10.4.1)."
+ },
+ {
+  "id": "C-0432",
+  "job": "J-048",
+  "text": "For the check of no direct visibility of red light to the front, Zone 1 shall be bounded in height by horizontal planes 1 m and 2.2 m above the ground, and in width by vertical planes forming an angle of 15° outwards to the front from the vehicle's median longitudinal plane, passing through the foremost point(s) of contact of the vertical planes parallel to the median longitudinal plane that delimit the vehicle's overall width.",
+  "test_case": "Build the Zone 1 envelope (1 m to 2.2 m height, 15° outward from the widest front contact points) in CAD and verify by line-of-sight analysis that the red apparent surfaces are hidden by the vehicle body.",
+  "table": null,
+  "applies_because": "This zone defines where the red lamp surfaces of the rear lamp must not be directly visible from the front.",
+  "node_id": "R48|Annex 4 0",
+  "cited_role": "primary",
+  "item": "T-R48-Annex_4",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 106,
+   "paragraph": "Annex 4 0"
+  },
+  "drop_reason": "Zone 1 definition from Annex 4, already captured in C-0342."
+ },
+ {
+  "id": "C-0433",
+  "job": "J-048",
+  "text": "In case of doubt, the requirement of no direct visibility of red light to the front shall be deemed fulfilled if the luminous intensity of the red light emitted to the front, as verified during type approval of the lamp, is not more than 0.25 cd per lamp, taking into account the influence of the vehicle body if applicable.",
+  "test_case": "Measure the luminous intensity emitted toward the front by each red function on a goniophotometer, including vehicle body shielding where applicable, and confirm it is at most 0.25 cd per lamp.",
+  "table": null,
+  "applies_because": "This is a permitted alternative way for the red functions of the rear lamp to show compliance with the forward-visibility limit.",
+  "node_id": "R48|5.10.4.3",
+  "cited_role": "supporting",
+  "item": "T-R48-5",
+  "source": {
+   "regulation": "UN R48",
+   "version": "9.3.0",
+   "page": 22,
+   "paragraph": "5.10.4.3"
+  },
+  "drop_reason": "Duplicate of C-0343 (same paragraph 5.10.4.3)."
+ }
+]

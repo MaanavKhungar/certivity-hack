@@ -27,9 +27,11 @@ N_HOPS = 3                  # same-PDF reference hops; references into another P
 MAX_ITEM_NODES = 150        # nodes one reference may add (a paragraph with its sub-paragraphs, or an annex)
 MAX_ITEM_CHARS = 60_000
 MAX_ADDED_CHARS = 250_000   # per regulation, everything added by references
-EXTRACT_HOPS = 1            # mode rule: same-PDF items up to this hop are extracted, deeper ones are context
+EXTRACT_HOPS = 0            # mode rule: same-PDF items up to this hop are extracted, deeper ones are context
+                            # (0: referenced sections are context only; on the rear lamp no expected requirement came
+                            #  from them and their candidates were all noise)
 CROSS_MODE = "context"      # mode of items from another PDF
-CONTEXT_KINDS = {"administrative", "definition"}   # referenced items of these kinds are context only
+CONTEXT_KINDS = {"administrative", "definition"}   # items of these kinds are context only, also when B selected them
 
 LBL = r"\d+(?:\.\d+)+\.?|\d+\.(?!\d)"
 REF_PARA = re.compile(rf"\bparagraphs?\s+((?:{LBL})(?:\s*(?:\([a-z0-9]+\)\s*)?(?:,|and|or|to|-|–)\s*(?:{LBL}))*)", re.I)
@@ -211,7 +213,7 @@ class Traverser:
             self.added_chars[reg] = self.added_chars.get(reg, 0) + size
         kind = kept[0].section_kind or "requirement"
         if origin == "selected":
-            mode = "extract"
+            mode = "context" if kind in CONTEXT_KINDS else "extract"
         elif cross:
             mode = self.cross_mode
         else:
