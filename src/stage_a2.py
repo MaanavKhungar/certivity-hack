@@ -136,10 +136,17 @@ def run(case: Path, sel: dict, profile_base: dict, votes: int = 3, log=print) ->
             why.append(f"role {o['role']}")
         if not o["part_links"]:
             why.append("no part link")
-        if o["same_topic_as"] in out and preferred(r, o["same_topic_as"]) != r:
-            why.append(f"same topic as {o['same_topic_as']} (preferred)")
         if o["probability"] < MIN_PROB:
             why.append(f"probability {o['probability']:.2f} < {MIN_PROB}")
+        o["include"], o["excluded_because"] = not why, why
+    # a regulation covering the same topic as an included one (a GTR and the UN Regulation implementing it) is listed
+    # too: on the front bumper the expert listed both GTR 9 and UN R127 (platform: regulations 6/7 -> 7/7 with GTR 9)
+    for r, o in out.items():
+        why = list(o["excluded_because"])
+        partner = o["same_topic_as"]
+        if not o["include"] and partner in out and out[partner]["include"] and o["role"] in GOOD and o["part_links"]:
+            why = []
+            o["included_as_same_topic_as"] = partner
         o["include"], o["excluded_because"] = not why, why
     for r, o in sorted(out.items(), key=lambda kv: -kv[1]["probability"]):
         log(f"{'INCLUDE' if o['include'] else 'drop   '} {r:10} A {o['stage_a']:.2f} -> A2 {o['probability']:.2f}  {o['role']:<30} "
