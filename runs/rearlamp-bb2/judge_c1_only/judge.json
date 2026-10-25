@@ -1,0 +1,879 @@
+{
+ "summary": {
+  "precision": 0.333,
+  "recall": 0.832,
+  "f2": 0.64,
+  "matched": 158,
+  "submitted": 475,
+  "expected": 190
+ },
+ "per_regulation": {
+  "UN R10": {
+   "expected": 32,
+   "submitted": 86,
+   "matched": 22,
+   "matches": [
+    {
+     "expected_id": "G-0124",
+     "submitted_id": "R-0004"
+    },
+    {
+     "expected_id": "G-0127",
+     "submitted_id": "R-0009"
+    },
+    {
+     "expected_id": "G-0128",
+     "submitted_id": "R-0010"
+    },
+    {
+     "expected_id": "G-0130",
+     "submitted_id": "R-0014"
+    },
+    {
+     "expected_id": "G-0131",
+     "submitted_id": "R-0015"
+    },
+    {
+     "expected_id": "G-0133",
+     "submitted_id": "R-0019"
+    },
+    {
+     "expected_id": "G-0134",
+     "submitted_id": "R-0020"
+    },
+    {
+     "expected_id": "G-0135",
+     "submitted_id": "R-0021"
+    },
+    {
+     "expected_id": "G-0136",
+     "submitted_id": "R-0026"
+    },
+    {
+     "expected_id": "G-0139",
+     "submitted_id": "R-0037"
+    },
+    {
+     "expected_id": "G-0140",
+     "submitted_id": "R-0038"
+    },
+    {
+     "expected_id": "G-0145",
+     "submitted_id": "R-0040"
+    },
+    {
+     "expected_id": "G-0146",
+     "submitted_id": "R-0041"
+    },
+    {
+     "expected_id": "G-0147",
+     "submitted_id": "R-0042"
+    },
+    {
+     "expected_id": "G-0148",
+     "submitted_id": "R-0043"
+    },
+    {
+     "expected_id": "G-0149",
+     "submitted_id": "R-0044"
+    },
+    {
+     "expected_id": "G-0150",
+     "submitted_id": "R-0045"
+    },
+    {
+     "expected_id": "G-0151",
+     "submitted_id": "R-0046"
+    },
+    {
+     "expected_id": "G-0152",
+     "submitted_id": "R-0069"
+    },
+    {
+     "expected_id": "G-0153",
+     "submitted_id": "R-0070"
+    },
+    {
+     "expected_id": "G-0154",
+     "submitted_id": "R-0071"
+    },
+    {
+     "expected_id": "G-0155",
+     "submitted_id": "R-0072"
+    }
+   ],
+   "unmatched_expected": [
+    {
+     "expected_id": "G-0129",
+     "reason": "wrong_granularity",
+     "closest_submitted_id": "R-0012",
+     "note": "The 30-75 MHz and 75-400 MHz broadband limits are split across R-0012 and R-0013. No single submitted requirement states the full obligation."
+    },
+    {
+     "expected_id": "G-0132",
+     "reason": "wrong_granularity",
+     "closest_submitted_id": "R-0017",
+     "note": "The 30-75 MHz and 75-400 MHz narrowband limits are split across R-0017 and R-0018."
+    },
+    {
+     "expected_id": "G-0137",
+     "reason": "wrong_granularity",
+     "closest_submitted_id": "R-0030",
+     "note": "The Table 2a test severity is split per test method across R-0027 to R-0031. No submitted requirement states the overall obligation."
+    },
+    {
+     "expected_id": "G-0138",
+     "reason": "wrong_granularity",
+     "closest_submitted_id": "R-0035",
+     "note": "The Table 2b minimum test level is split per test method across R-0032 to R-0036."
+    },
+    {
+     "expected_id": "G-0141",
+     "reason": "merged",
+     "closest_submitted_id": "R-0038",
+     "note": "The ISO 16750-1 functional status classification for the starting profile is merged into R-0038, together with the test-method obligation."
+    },
+    {
+     "expected_id": "G-0142",
+     "reason": "merged",
+     "closest_submitted_id": "R-0038",
+     "note": "Applying the ISO 7637-1 FPSC to the pulses is merged into R-0038."
+    },
+    {
+     "expected_id": "G-0143",
+     "reason": "wording",
+     "closest_submitted_id": "R-0039",
+     "note": "R-0039 assigns the functional status classes differently: class C for other immunity-related functions and class D for non-immunity functions. The expected requirement says other ESAs reach class C. R-0039 also merges the 12 V and 24 V cases."
+    },
+    {
+     "expected_id": "G-0144",
+     "reason": "wording",
+     "closest_submitted_id": "R-0039",
+     "note": "The 24 V starting profile is merged into R-0039, which also uses a different class assignment than Table 3a as stated in the expected requirement."
+    },
+    {
+     "expected_id": "G-0157",
+     "reason": "wrong_granularity",
+     "closest_submitted_id": "R-0079",
+     "note": "Application of pulses 1, 2a, 2b, 3a and 3b is split into five separate requirements, R-0079 to R-0083."
+    },
+    {
+     "expected_id": "G-0158",
+     "reason": "wrong_granularity",
+     "closest_submitted_id": "R-0084",
+     "note": "The starting profile application (R-0084) and the electric-vehicle exemption (R-0085) are split. R-0084 lacks the exemption condition."
+    }
+   ]
+  },
+  "UN R148": {
+   "expected": 63,
+   "submitted": 137,
+   "matched": 55,
+   "matches": [
+    {
+     "expected_id": "G-0161",
+     "submitted_id": "R-0090"
+    },
+    {
+     "expected_id": "G-0162",
+     "submitted_id": "R-0091"
+    },
+    {
+     "expected_id": "G-0163",
+     "submitted_id": "R-0092"
+    },
+    {
+     "expected_id": "G-0164",
+     "submitted_id": "R-0095"
+    },
+    {
+     "expected_id": "G-0165",
+     "submitted_id": "R-0098"
+    },
+    {
+     "expected_id": "G-0167",
+     "submitted_id": "R-0099"
+    },
+    {
+     "expected_id": "G-0168",
+     "submitted_id": "R-0100"
+    },
+    {
+     "expected_id": "G-0169",
+     "submitted_id": "R-0104"
+    },
+    {
+     "expected_id": "G-0170",
+     "submitted_id": "R-0105"
+    },
+    {
+     "expected_id": "G-0171",
+     "submitted_id": "R-0107"
+    },
+    {
+     "expected_id": "G-0172",
+     "submitted_id": "R-0108"
+    },
+    {
+     "expected_id": "G-0174",
+     "submitted_id": "R-0109"
+    },
+    {
+     "expected_id": "G-0177",
+     "submitted_id": "R-0110"
+    },
+    {
+     "expected_id": "G-0178",
+     "submitted_id": "R-0111"
+    },
+    {
+     "expected_id": "G-0179",
+     "submitted_id": "R-0112"
+    },
+    {
+     "expected_id": "G-0180",
+     "submitted_id": "R-0114"
+    },
+    {
+     "expected_id": "G-0181",
+     "submitted_id": "R-0115"
+    },
+    {
+     "expected_id": "G-0182",
+     "submitted_id": "R-0116"
+    },
+    {
+     "expected_id": "G-0183",
+     "submitted_id": "R-0117"
+    },
+    {
+     "expected_id": "G-0184",
+     "submitted_id": "R-0118"
+    },
+    {
+     "expected_id": "G-0185",
+     "submitted_id": "R-0119"
+    },
+    {
+     "expected_id": "G-0187",
+     "submitted_id": "R-0124"
+    },
+    {
+     "expected_id": "G-0188",
+     "submitted_id": "R-0127"
+    },
+    {
+     "expected_id": "G-0189",
+     "submitted_id": "R-0130"
+    },
+    {
+     "expected_id": "G-0190",
+     "submitted_id": "R-0131"
+    },
+    {
+     "expected_id": "G-0193",
+     "submitted_id": "R-0132"
+    },
+    {
+     "expected_id": "G-0195",
+     "submitted_id": "R-0133"
+    },
+    {
+     "expected_id": "G-0196",
+     "submitted_id": "R-0134"
+    },
+    {
+     "expected_id": "G-0197",
+     "submitted_id": "R-0135"
+    },
+    {
+     "expected_id": "G-0199",
+     "submitted_id": "R-0137"
+    },
+    {
+     "expected_id": "G-0201",
+     "submitted_id": "R-0140"
+    },
+    {
+     "expected_id": "G-0202",
+     "submitted_id": "R-0141"
+    },
+    {
+     "expected_id": "G-0203",
+     "submitted_id": "R-0142"
+    },
+    {
+     "expected_id": "G-0205",
+     "submitted_id": "R-0143"
+    },
+    {
+     "expected_id": "G-0206",
+     "submitted_id": "R-0144"
+    },
+    {
+     "expected_id": "G-0207",
+     "submitted_id": "R-0145"
+    },
+    {
+     "expected_id": "G-0208",
+     "submitted_id": "R-0146"
+    },
+    {
+     "expected_id": "G-0210",
+     "submitted_id": "R-0154"
+    },
+    {
+     "expected_id": "G-0211",
+     "submitted_id": "R-0155"
+    },
+    {
+     "expected_id": "G-0212",
+     "submitted_id": "R-0156"
+    },
+    {
+     "expected_id": "G-0213",
+     "submitted_id": "R-0157"
+    },
+    {
+     "expected_id": "G-0214",
+     "submitted_id": "R-0158"
+    },
+    {
+     "expected_id": "G-0215",
+     "submitted_id": "R-0168"
+    },
+    {
+     "expected_id": "G-0217",
+     "submitted_id": "R-0169"
+    },
+    {
+     "expected_id": "G-0219",
+     "submitted_id": "R-0176"
+    },
+    {
+     "expected_id": "G-0220",
+     "submitted_id": "R-0177"
+    },
+    {
+     "expected_id": "G-0221",
+     "submitted_id": "R-0182"
+    },
+    {
+     "expected_id": "G-0225",
+     "submitted_id": "R-0188"
+    },
+    {
+     "expected_id": "G-0226",
+     "submitted_id": "R-0190"
+    },
+    {
+     "expected_id": "G-0227",
+     "submitted_id": "R-0191"
+    },
+    {
+     "expected_id": "G-0228",
+     "submitted_id": "R-0204"
+    },
+    {
+     "expected_id": "G-0229",
+     "submitted_id": "R-0205"
+    },
+    {
+     "expected_id": "G-0230",
+     "submitted_id": "R-0215"
+    },
+    {
+     "expected_id": "G-0232",
+     "submitted_id": "R-0216"
+    },
+    {
+     "expected_id": "G-0234",
+     "submitted_id": "R-0218"
+    }
+   ],
+   "unmatched_expected": [
+    {
+     "expected_id": "G-0173",
+     "reason": "merged",
+     "closest_submitted_id": "R-0109",
+     "note": "Module identification code obligation is merged in R-0109 with MD format, additional symbols and same-applicant rules."
+    },
+    {
+     "expected_id": "G-0175",
+     "reason": "merged",
+     "closest_submitted_id": "R-0109",
+     "note": "Additional symbols for non-identical modules is merged into R-0109."
+    },
+    {
+     "expected_id": "G-0176",
+     "reason": "merged",
+     "closest_submitted_id": "R-0109",
+     "note": "Same-applicant marks rule is merged into R-0109."
+    },
+    {
+     "expected_id": "G-0192",
+     "reason": "merged",
+     "closest_submitted_id": "R-0132",
+     "note": "Requirement that the function still fulfils all requirements with logo is merged into R-0132 together with the brand-only logo rule."
+    },
+    {
+     "expected_id": "G-0204",
+     "reason": "merged",
+     "closest_submitted_id": "R-0142",
+     "note": "Removal only with tools is merged with correct-position fitting in R-0142."
+    },
+    {
+     "expected_id": "G-0209",
+     "reason": "wrong_granularity",
+     "closest_submitted_id": "R-0150",
+     "note": "Test voltages split into separate 12 V (R-0150) and 24 V (R-0151) requirements; 6 V system value missing; none states the full obligation."
+    },
+    {
+     "expected_id": "G-0218",
+     "reason": "wrong_granularity",
+     "closest_submitted_id": "R-0170",
+     "note": "Table 4 compliance (R-0170) and the 60 cd allowance below 5° down (R-0173) are split; neither states the full obligation."
+    },
+    {
+     "expected_id": "G-0222",
+     "reason": "wrong_granularity",
+     "closest_submitted_id": "R-0186",
+     "note": "Table 10 compliance (R-0183) and the paired-device 30°/25 cd exception (R-0186) are split; neither states the full obligation."
+    }
+   ]
+  },
+  "UN R150": {
+   "expected": 39,
+   "submitted": 97,
+   "matched": 36,
+   "matches": [
+    {
+     "expected_id": "G-0001",
+     "submitted_id": "R-0226"
+    },
+    {
+     "expected_id": "G-0002",
+     "submitted_id": "R-0227"
+    },
+    {
+     "expected_id": "G-0003",
+     "submitted_id": "R-0231"
+    },
+    {
+     "expected_id": "G-0004",
+     "submitted_id": "R-0234"
+    },
+    {
+     "expected_id": "G-0005",
+     "submitted_id": "R-0235"
+    },
+    {
+     "expected_id": "G-0006",
+     "submitted_id": "R-0237"
+    },
+    {
+     "expected_id": "G-0008",
+     "submitted_id": "R-0241"
+    },
+    {
+     "expected_id": "G-0009",
+     "submitted_id": "R-0246"
+    },
+    {
+     "expected_id": "G-0010",
+     "submitted_id": "R-0247"
+    },
+    {
+     "expected_id": "G-0011",
+     "submitted_id": "R-0248"
+    },
+    {
+     "expected_id": "G-0012",
+     "submitted_id": "R-0249"
+    },
+    {
+     "expected_id": "G-0013",
+     "submitted_id": "R-0250"
+    },
+    {
+     "expected_id": "G-0014",
+     "submitted_id": "R-0251"
+    },
+    {
+     "expected_id": "G-0015",
+     "submitted_id": "R-0252"
+    },
+    {
+     "expected_id": "G-0016",
+     "submitted_id": "R-0253"
+    },
+    {
+     "expected_id": "G-0018",
+     "submitted_id": "R-0254"
+    },
+    {
+     "expected_id": "G-0019",
+     "submitted_id": "R-0255"
+    },
+    {
+     "expected_id": "G-0020",
+     "submitted_id": "R-0256"
+    },
+    {
+     "expected_id": "G-0021",
+     "submitted_id": "R-0257"
+    },
+    {
+     "expected_id": "G-0022",
+     "submitted_id": "R-0270"
+    },
+    {
+     "expected_id": "G-0023",
+     "submitted_id": "R-0272"
+    },
+    {
+     "expected_id": "G-0024",
+     "submitted_id": "R-0273"
+    },
+    {
+     "expected_id": "G-0026",
+     "submitted_id": "R-0275"
+    },
+    {
+     "expected_id": "G-0029",
+     "submitted_id": "R-0276"
+    },
+    {
+     "expected_id": "G-0036",
+     "submitted_id": "R-0277"
+    },
+    {
+     "expected_id": "G-0037",
+     "submitted_id": "R-0280"
+    },
+    {
+     "expected_id": "G-0038",
+     "submitted_id": "R-0243"
+    },
+    {
+     "expected_id": "G-0039",
+     "submitted_id": "R-0289"
+    },
+    {
+     "expected_id": "G-0042",
+     "submitted_id": "R-0291"
+    },
+    {
+     "expected_id": "G-0043",
+     "submitted_id": "R-0258"
+    },
+    {
+     "expected_id": "G-0044",
+     "submitted_id": "R-0260"
+    },
+    {
+     "expected_id": "G-0045",
+     "submitted_id": "R-0263"
+    },
+    {
+     "expected_id": "G-0048",
+     "submitted_id": "R-0307"
+    },
+    {
+     "expected_id": "G-0049",
+     "submitted_id": "R-0308"
+    },
+    {
+     "expected_id": "G-0050",
+     "submitted_id": "R-0310"
+    },
+    {
+     "expected_id": "G-0051",
+     "submitted_id": "R-0311"
+    }
+   ],
+   "unmatched_expected": [
+    {
+     "expected_id": "G-0017",
+     "reason": "merged",
+     "closest_submitted_id": "R-0254",
+     "note": "Illumination conditions for colour test (Illuminant A, 1/3°, β=0°) are merged into R-0254 together with the chromaticity limit obligation, which is matched to G-0018."
+    },
+    {
+     "expected_id": "G-0052",
+     "reason": "not_extracted",
+     "closest_submitted_id": "R-0268",
+     "note": "No submitted requirement covers exposure per EN ISO 4892-2:2013 in Annex 6 Part 6; R-0268 only states the weathering test must be performed."
+    },
+    {
+     "expected_id": "G-0053",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Table A6-1 weathering parameters (cycles, temperatures, irradiance, humidity) not extracted."
+    }
+   ]
+  },
+  "UN R26": {
+   "expected": 0,
+   "submitted": 12,
+   "matched": 0,
+   "matches": [],
+   "unmatched_expected": []
+  },
+  "UN R48": {
+   "expected": 56,
+   "submitted": 143,
+   "matched": 45,
+   "matches": [
+    {
+     "expected_id": "G-0054",
+     "submitted_id": "R-0333"
+    },
+    {
+     "expected_id": "G-0056",
+     "submitted_id": "R-0334"
+    },
+    {
+     "expected_id": "G-0057",
+     "submitted_id": "R-0335"
+    },
+    {
+     "expected_id": "G-0059",
+     "submitted_id": "R-0336"
+    },
+    {
+     "expected_id": "G-0060",
+     "submitted_id": "R-0337"
+    },
+    {
+     "expected_id": "G-0061",
+     "submitted_id": "R-0342"
+    },
+    {
+     "expected_id": "G-0062",
+     "submitted_id": "R-0343"
+    },
+    {
+     "expected_id": "G-0064",
+     "submitted_id": "R-0344"
+    },
+    {
+     "expected_id": "G-0065",
+     "submitted_id": "R-0346"
+    },
+    {
+     "expected_id": "G-0066",
+     "submitted_id": "R-0347"
+    },
+    {
+     "expected_id": "G-0067",
+     "submitted_id": "R-0348"
+    },
+    {
+     "expected_id": "G-0068",
+     "submitted_id": "R-0349"
+    },
+    {
+     "expected_id": "G-0071",
+     "submitted_id": "R-0356"
+    },
+    {
+     "expected_id": "G-0072",
+     "submitted_id": "R-0357"
+    },
+    {
+     "expected_id": "G-0073",
+     "submitted_id": "R-0358"
+    },
+    {
+     "expected_id": "G-0074",
+     "submitted_id": "R-0360"
+    },
+    {
+     "expected_id": "G-0075",
+     "submitted_id": "R-0361"
+    },
+    {
+     "expected_id": "G-0077",
+     "submitted_id": "R-0391"
+    },
+    {
+     "expected_id": "G-0078",
+     "submitted_id": "R-0393"
+    },
+    {
+     "expected_id": "G-0079",
+     "submitted_id": "R-0396"
+    },
+    {
+     "expected_id": "G-0080",
+     "submitted_id": "R-0399"
+    },
+    {
+     "expected_id": "G-0081",
+     "submitted_id": "R-0400"
+    },
+    {
+     "expected_id": "G-0082",
+     "submitted_id": "R-0401"
+    },
+    {
+     "expected_id": "G-0084",
+     "submitted_id": "R-0406"
+    },
+    {
+     "expected_id": "G-0085",
+     "submitted_id": "R-0407"
+    },
+    {
+     "expected_id": "G-0087",
+     "submitted_id": "R-0411"
+    },
+    {
+     "expected_id": "G-0088",
+     "submitted_id": "R-0412"
+    },
+    {
+     "expected_id": "G-0093",
+     "submitted_id": "R-0413"
+    },
+    {
+     "expected_id": "G-0096",
+     "submitted_id": "R-0415"
+    },
+    {
+     "expected_id": "G-0098",
+     "submitted_id": "R-0416"
+    },
+    {
+     "expected_id": "G-0100",
+     "submitted_id": "R-0418"
+    },
+    {
+     "expected_id": "G-0101",
+     "submitted_id": "R-0423"
+    },
+    {
+     "expected_id": "G-0103",
+     "submitted_id": "R-0424"
+    },
+    {
+     "expected_id": "G-0106",
+     "submitted_id": "R-0426"
+    },
+    {
+     "expected_id": "G-0107",
+     "submitted_id": "R-0427"
+    },
+    {
+     "expected_id": "G-0109",
+     "submitted_id": "R-0428"
+    },
+    {
+     "expected_id": "G-0110",
+     "submitted_id": "R-0429"
+    },
+    {
+     "expected_id": "G-0111",
+     "submitted_id": "R-0430"
+    },
+    {
+     "expected_id": "G-0114",
+     "submitted_id": "R-0433"
+    },
+    {
+     "expected_id": "G-0116",
+     "submitted_id": "R-0434"
+    },
+    {
+     "expected_id": "G-0117",
+     "submitted_id": "R-0441"
+    },
+    {
+     "expected_id": "G-0119",
+     "submitted_id": "R-0443"
+    },
+    {
+     "expected_id": "G-0121",
+     "submitted_id": "R-0446"
+    },
+    {
+     "expected_id": "G-0122",
+     "submitted_id": "R-0447"
+    },
+    {
+     "expected_id": "G-0123",
+     "submitted_id": "R-0449"
+    }
+   ],
+   "unmatched_expected": [
+    {
+     "expected_id": "G-0055",
+     "reason": "merged",
+     "closest_submitted_id": "R-0333",
+     "note": "R-0333 combines 'retains characteristics' and 'enables vehicle to comply' in one requirement."
+    },
+    {
+     "expected_id": "G-0076",
+     "reason": "wrong_granularity",
+     "closest_submitted_id": "R-0370",
+     "note": "Submitted only states the 5.18.1 condition; the general permission conditioned on 5.18.1 or 5.18.2 is not stated as a whole."
+    },
+    {
+     "expected_id": "G-0086",
+     "reason": "wording",
+     "closest_submitted_id": "R-0410",
+     "note": "Submitted requires only two S1/S2 devices and omits the S3/S4 device."
+    },
+    {
+     "expected_id": "G-0094",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Optional stop lamp height compatibility with width/symmetry not extracted."
+    },
+    {
+     "expected_id": "G-0095",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Optional stop lamp 600 mm vertical distance above mandatory lamps not extracted."
+    },
+    {
+     "expected_id": "G-0104",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Optional rear position lamp height compatibility not extracted."
+    },
+    {
+     "expected_id": "G-0105",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Optional rear position lamp 600 mm vertical distance not extracted."
+    },
+    {
+     "expected_id": "G-0108",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Upward angle reduction for optional lamp above 2,100 mm not extracted."
+    },
+    {
+     "expected_id": "G-0112",
+     "reason": "merged",
+     "closest_submitted_id": "R-0430",
+     "note": "Exclusion of non-transmitting retro-reflector area merged into the 12.5 cm² visibility requirement."
+    },
+    {
+     "expected_id": "G-0113",
+     "reason": "wording",
+     "closest_submitted_id": "R-0432",
+     "note": "Submitted references 5.11 exceptions but omits the direction-indicator reciprocal incorporation switch-OFF exception."
+    },
+    {
+     "expected_id": "G-0115",
+     "reason": "merged",
+     "closest_submitted_id": "R-0433",
+     "note": "Combination with front position lamp tell-tale merged with mandatory tell-tale requirement in R-0433."
+    }
+   ]
+  }
+ }
+}

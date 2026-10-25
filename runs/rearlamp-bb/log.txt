@@ -1,0 +1,15 @@
+A/B: reused ../runs/rearlamp-v7b/selection.json
+T: UN R10 31 items (16 extract), UN R148 20 items (15 extract), UN R149 2 items (0 extract), UN R150 27 items (24 extract), UN R19 1 items (0 extract), UN R26 8 items (6 extract), UN R48 79 items (25 extract), UN R53 2 items (0 extract), UN R6 1 items (0 extract)
+C1: 81 jobs
+C1: 388 candidates (2 rejected: unknown node id)
+bundles: 4619 records, 67 candidates with issues; product: 39 passages, 10 facts
+BB retrieval_rules: {'applicable': 216, 'not_applicable': 2, 'unresolved': 161, 'evaluation_failed': 9}
+BB direct: {'applicable': 220, 'not_applicable': 0, 'unresolved': 164, 'evaluation_failed': 4}
+
+| run | submitted | matched | precision | recall | F2 |
+|---|---|---|---|---|---|
+| C1 only (no blackbox) | 388 | 145 | 0.374 | 0.763 | 0.632 |
+| retrieval_rules / applicable | 216 | 94 | 0.435 | 0.495 | 0.482 |
+| retrieval_rules / keep | 386 | 146 | 0.378 | 0.768 | 0.637 |
+| direct / applicable | 220 | 100 | 0.455 | 0.526 | 0.510 |
+| direct / keep | 388 | 145 | 0.374 | 0.763 | 0.632 |

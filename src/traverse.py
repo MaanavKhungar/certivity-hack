@@ -13,7 +13,7 @@ references and the targets are added as new items (hop k+1):
              further; a regulation named without paragraph/annex, or not in our parsed corpus, becomes a hint only
 Every item keeps how it got there (hop, via = the referring paragraph and the reference text) so recall and noise
 can be traced back per item later. A paragraph reached twice is one item (smallest hop, all paths in via).
-Limits: one reference adds at most MAX_ITEM_NODES nodes / MAX_ITEM_CHARS characters (rest marked truncated); one
+Limits (referenced material only; B's sections are always complete): one reference adds at most MAX_ITEM_NODES nodes / MAX_ITEM_CHARS characters (rest marked truncated); one
 regulation's reading list grows by at most MAX_ADDED_CHARS through references (lower hops first, rest skipped).
 """
 from __future__ import annotations
@@ -200,8 +200,8 @@ class Traverser:
                 it.via.append(via)
             return None
         truncated, kept, size = False, [], 0
-        for n in new:
-            if len(kept) >= self.max_item_nodes or size + len(n.text) > self.max_item_chars:
+        for n in new:                                     # limits apply to referenced material only, never to B's sections
+            if origin == "reference" and (len(kept) >= self.max_item_nodes or size + len(n.text) > self.max_item_chars):
                 truncated = True; break
             kept.append(n); size += len(n.text)
         if origin == "reference":

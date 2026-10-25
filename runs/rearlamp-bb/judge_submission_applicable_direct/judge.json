@@ -1,0 +1,995 @@
+{
+ "summary": {
+  "precision": 0.455,
+  "recall": 0.526,
+  "f2": 0.51,
+  "matched": 100,
+  "submitted": 220,
+  "expected": 190
+ },
+ "per_regulation": {
+  "UN R10": {
+   "expected": 32,
+   "submitted": 25,
+   "matched": 13,
+   "matches": [
+    {
+     "expected_id": "G-0127",
+     "submitted_id": "R-0002"
+    },
+    {
+     "expected_id": "G-0128",
+     "submitted_id": "R-0003"
+    },
+    {
+     "expected_id": "G-0129",
+     "submitted_id": "R-0005"
+    },
+    {
+     "expected_id": "G-0131",
+     "submitted_id": "R-0006"
+    },
+    {
+     "expected_id": "G-0136",
+     "submitted_id": "R-0008"
+    },
+    {
+     "expected_id": "G-0137",
+     "submitted_id": "R-0009"
+    },
+    {
+     "expected_id": "G-0138",
+     "submitted_id": "R-0011"
+    },
+    {
+     "expected_id": "G-0139",
+     "submitted_id": "R-0012"
+    },
+    {
+     "expected_id": "G-0145",
+     "submitted_id": "R-0013"
+    },
+    {
+     "expected_id": "G-0153",
+     "submitted_id": "R-0021"
+    },
+    {
+     "expected_id": "G-0154",
+     "submitted_id": "R-0022"
+    },
+    {
+     "expected_id": "G-0155",
+     "submitted_id": "R-0023"
+    },
+    {
+     "expected_id": "G-0157",
+     "submitted_id": "R-0025"
+    }
+   ],
+   "unmatched_expected": [
+    {
+     "expected_id": "G-0124",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "No submitted requirement about affixing the approval mark to the ESA."
+    },
+    {
+     "expected_id": "G-0130",
+     "reason": "merged",
+     "closest_submitted_id": "R-0005",
+     "note": "The constant 63 dBµV/m limit for 400–1,000 MHz sits in R-0005 alongside the 30–400 MHz limits."
+    },
+    {
+     "expected_id": "G-0132",
+     "reason": "not_extracted",
+     "closest_submitted_id": "R-0015",
+     "note": "The Annex 8 narrowband type-approval limits (§6.6.2.1) were not extracted. R-0015 covers only the conformity-of-production limit (+4 dB) under §9.3.1."
+    },
+    {
+     "expected_id": "G-0133",
+     "reason": "not_extracted",
+     "closest_submitted_id": "R-0015",
+     "note": "The narrowband 53 dBµV/m limit for 400–1,000 MHz under §6.6.2.1 was not extracted. It appears only within the COP requirement R-0015."
+    },
+    {
+     "expected_id": "G-0134",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "No submitted requirement says narrowband measured values must be below the type-approval limits (§6.6.2.2)."
+    },
+    {
+     "expected_id": "G-0135",
+     "reason": "wording",
+     "closest_submitted_id": "R-0007",
+     "note": "R-0007 lists the Table 1 amplitude limits. It does not state the obligation to test transient emission by the ISO 7637-2 method in Annex 10."
+    },
+    {
+     "expected_id": "G-0140",
+     "reason": "not_extracted",
+     "closest_submitted_id": "R-0013",
+     "note": "Nothing states that immunity is tested per ISO 16750-2 (starting profile) and ISO 7637-2 with the levels of Tables 3a and 3b."
+    },
+    {
+     "expected_id": "G-0141",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "The functional status classification per ISO 16750-1 for the starting profile was not extracted."
+    },
+    {
+     "expected_id": "G-0142",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Application of the FPSC per ISO 7637-1 was not stated."
+    },
+    {
+     "expected_id": "G-0143",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Table 3a requirements for the 12 V starting profile are missing."
+    },
+    {
+     "expected_id": "G-0144",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Table 3a requirements for the 24 V starting profile are missing."
+    },
+    {
+     "expected_id": "G-0146",
+     "reason": "merged",
+     "closest_submitted_id": "R-0013",
+     "note": "Pulse 2a is merged into the Table 3b requirement R-0013."
+    },
+    {
+     "expected_id": "G-0147",
+     "reason": "merged",
+     "closest_submitted_id": "R-0013",
+     "note": "Pulse 2b is merged into R-0013."
+    },
+    {
+     "expected_id": "G-0148",
+     "reason": "merged",
+     "closest_submitted_id": "R-0013",
+     "note": "Pulse 3a is merged into R-0013."
+    },
+    {
+     "expected_id": "G-0149",
+     "reason": "merged",
+     "closest_submitted_id": "R-0013",
+     "note": "Pulse 3b is merged into R-0013."
+    },
+    {
+     "expected_id": "G-0150",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "The exemption for products without an oscillator above 9 kHz (§6.10.1) was not extracted."
+    },
+    {
+     "expected_id": "G-0151",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "The exemption from transient conducted emission testing (§6.10.5) was not extracted."
+    },
+    {
+     "expected_id": "G-0152",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "The 20–6,000 MHz measurement range with frequency steps per ISO 11452-1 was not extracted."
+    },
+    {
+     "expected_id": "G-0158",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Application of the ISO 16750-2 starting profile to supply lines, and the electric-vehicle exclusion, were not extracted."
+    }
+   ]
+  },
+  "UN R148": {
+   "expected": 63,
+   "submitted": 68,
+   "matched": 29,
+   "matches": [
+    {
+     "expected_id": "G-0161",
+     "submitted_id": "R-0028"
+    },
+    {
+     "expected_id": "G-0163",
+     "submitted_id": "R-0031"
+    },
+    {
+     "expected_id": "G-0164",
+     "submitted_id": "R-0034"
+    },
+    {
+     "expected_id": "G-0169",
+     "submitted_id": "R-0038"
+    },
+    {
+     "expected_id": "G-0170",
+     "submitted_id": "R-0039"
+    },
+    {
+     "expected_id": "G-0180",
+     "submitted_id": "R-0040"
+    },
+    {
+     "expected_id": "G-0181",
+     "submitted_id": "R-0041"
+    },
+    {
+     "expected_id": "G-0184",
+     "submitted_id": "R-0042"
+    },
+    {
+     "expected_id": "G-0188",
+     "submitted_id": "R-0045"
+    },
+    {
+     "expected_id": "G-0197",
+     "submitted_id": "R-0046"
+    },
+    {
+     "expected_id": "G-0199",
+     "submitted_id": "R-0067"
+    },
+    {
+     "expected_id": "G-0201",
+     "submitted_id": "R-0048"
+    },
+    {
+     "expected_id": "G-0202",
+     "submitted_id": "R-0049"
+    },
+    {
+     "expected_id": "G-0210",
+     "submitted_id": "R-0050"
+    },
+    {
+     "expected_id": "G-0211",
+     "submitted_id": "R-0051"
+    },
+    {
+     "expected_id": "G-0212",
+     "submitted_id": "R-0052"
+    },
+    {
+     "expected_id": "G-0213",
+     "submitted_id": "R-0053"
+    },
+    {
+     "expected_id": "G-0214",
+     "submitted_id": "R-0054"
+    },
+    {
+     "expected_id": "G-0215",
+     "submitted_id": "R-0056"
+    },
+    {
+     "expected_id": "G-0217",
+     "submitted_id": "R-0057"
+    },
+    {
+     "expected_id": "G-0219",
+     "submitted_id": "R-0061"
+    },
+    {
+     "expected_id": "G-0220",
+     "submitted_id": "R-0062"
+    },
+    {
+     "expected_id": "G-0221",
+     "submitted_id": "R-0063"
+    },
+    {
+     "expected_id": "G-0225",
+     "submitted_id": "R-0066"
+    },
+    {
+     "expected_id": "G-0226",
+     "submitted_id": "R-0069"
+    },
+    {
+     "expected_id": "G-0227",
+     "submitted_id": "R-0086"
+    },
+    {
+     "expected_id": "G-0228",
+     "submitted_id": "R-0076"
+    },
+    {
+     "expected_id": "G-0229",
+     "submitted_id": "R-0077"
+    },
+    {
+     "expected_id": "G-0234",
+     "submitted_id": "R-0090"
+    }
+   ],
+   "unmatched_expected": [
+    {
+     "expected_id": "G-0162",
+     "reason": "wrong_granularity",
+     "closest_submitted_id": "R-0029",
+     "note": "Legible and indelible split into R-0029 and R-0030."
+    },
+    {
+     "expected_id": "G-0165",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Horizontal arrow requirement not extracted."
+    },
+    {
+     "expected_id": "G-0167",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Arrow direction for position/end-outline lamps not extracted."
+    },
+    {
+     "expected_id": "G-0168",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Arrow direction for reversing lamps not extracted."
+    },
+    {
+     "expected_id": "G-0171",
+     "reason": "not_extracted",
+     "closest_submitted_id": "R-0042",
+     "note": "Rated voltage marking only mentioned in the affixing requirement R-0042."
+    },
+    {
+     "expected_id": "G-0172",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Module marking requirements not extracted."
+    },
+    {
+     "expected_id": "G-0173",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Module identification code not extracted."
+    },
+    {
+     "expected_id": "G-0174",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "MD code format not extracted."
+    },
+    {
+     "expected_id": "G-0175",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Additional symbols for non-identical modules not extracted."
+    },
+    {
+     "expected_id": "G-0176",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Same applicant marks on module and lamp not extracted."
+    },
+    {
+     "expected_id": "G-0177",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Module voltage marking not extracted."
+    },
+    {
+     "expected_id": "G-0178",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Lamp bearing module code not extracted."
+    },
+    {
+     "expected_id": "G-0179",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Lamp voltage marking for module case not extracted."
+    },
+    {
+     "expected_id": "G-0182",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Detachable lens marking not extracted."
+    },
+    {
+     "expected_id": "G-0183",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Shared outer lens marking not extracted."
+    },
+    {
+     "expected_id": "G-0185",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Component marking per 3.3.3.5(a) not extracted."
+    },
+    {
+     "expected_id": "G-0187",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Single approval mark size requirement not extracted."
+    },
+    {
+     "expected_id": "G-0189",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Permission for intensity regulation not extracted."
+    },
+    {
+     "expected_id": "G-0190",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Rear position/stop reciprocal incorporation requirement not extracted."
+    },
+    {
+     "expected_id": "G-0192",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Logo requirements not extracted."
+    },
+    {
+     "expected_id": "G-0193",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Logo brand restriction not extracted."
+    },
+    {
+     "expected_id": "G-0195",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Logo 100 cm2 limit not extracted."
+    },
+    {
+     "expected_id": "G-0196",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Logo symmetry exemption not extracted."
+    },
+    {
+     "expected_id": "G-0203",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Module design requirements not extracted."
+    },
+    {
+     "expected_id": "G-0204",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Module tool removal not extracted."
+    },
+    {
+     "expected_id": "G-0205",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Module tamperproof not extracted."
+    },
+    {
+     "expected_id": "G-0206",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Module non-interchangeability not extracted."
+    },
+    {
+     "expected_id": "G-0207",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Module replacement photometry not extracted."
+    },
+    {
+     "expected_id": "G-0208",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Measurements with light sources present not extracted."
+    },
+    {
+     "expected_id": "G-0209",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Test voltage not extracted."
+    },
+    {
+     "expected_id": "G-0218",
+     "reason": "wording",
+     "closest_submitted_id": "R-0058",
+     "note": "Omits the 60 cd allowance below 5° for reciprocally incorporated rear position lamps."
+    },
+    {
+     "expected_id": "G-0222",
+     "reason": "wording",
+     "closest_submitted_id": "R-0064",
+     "note": "Omits the paired-installation 30° inward / 25 cd exception."
+    },
+    {
+     "expected_id": "G-0230",
+     "reason": "wrong_granularity",
+     "closest_submitted_id": "R-0088",
+     "note": "Split into 1 min and 10 min requirements, manoeuvring lamps omitted."
+    },
+    {
+     "expected_id": "G-0232",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "1 min / 30 min test for other lamps not extracted."
+    }
+   ]
+  },
+  "UN R150": {
+   "expected": 39,
+   "submitted": 59,
+   "matched": 26,
+   "matches": [
+    {
+     "expected_id": "G-0001",
+     "submitted_id": "R-0094"
+    },
+    {
+     "expected_id": "G-0002",
+     "submitted_id": "R-0095"
+    },
+    {
+     "expected_id": "G-0003",
+     "submitted_id": "R-0099"
+    },
+    {
+     "expected_id": "G-0005",
+     "submitted_id": "R-0102"
+    },
+    {
+     "expected_id": "G-0006",
+     "submitted_id": "R-0103"
+    },
+    {
+     "expected_id": "G-0009",
+     "submitted_id": "R-0107"
+    },
+    {
+     "expected_id": "G-0010",
+     "submitted_id": "R-0108"
+    },
+    {
+     "expected_id": "G-0011",
+     "submitted_id": "R-0109"
+    },
+    {
+     "expected_id": "G-0012",
+     "submitted_id": "R-0110"
+    },
+    {
+     "expected_id": "G-0014",
+     "submitted_id": "R-0113"
+    },
+    {
+     "expected_id": "G-0016",
+     "submitted_id": "R-0114"
+    },
+    {
+     "expected_id": "G-0018",
+     "submitted_id": "R-0115"
+    },
+    {
+     "expected_id": "G-0019",
+     "submitted_id": "R-0116"
+    },
+    {
+     "expected_id": "G-0020",
+     "submitted_id": "R-0117"
+    },
+    {
+     "expected_id": "G-0021",
+     "submitted_id": "R-0118"
+    },
+    {
+     "expected_id": "G-0022",
+     "submitted_id": "R-0125"
+    },
+    {
+     "expected_id": "G-0023",
+     "submitted_id": "R-0130"
+    },
+    {
+     "expected_id": "G-0024",
+     "submitted_id": "R-0131"
+    },
+    {
+     "expected_id": "G-0026",
+     "submitted_id": "R-0133"
+    },
+    {
+     "expected_id": "G-0029",
+     "submitted_id": "R-0134"
+    },
+    {
+     "expected_id": "G-0036",
+     "submitted_id": "R-0135"
+    },
+    {
+     "expected_id": "G-0038",
+     "submitted_id": "R-0138"
+    },
+    {
+     "expected_id": "G-0043",
+     "submitted_id": "R-0119"
+    },
+    {
+     "expected_id": "G-0044",
+     "submitted_id": "R-0121"
+    },
+    {
+     "expected_id": "G-0048",
+     "submitted_id": "R-0148"
+    },
+    {
+     "expected_id": "G-0051",
+     "submitted_id": "R-0150"
+    }
+   ],
+   "unmatched_expected": [
+    {
+     "expected_id": "G-0004",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Unique Identifier mark format requirement (§3.3.3.1) not extracted."
+    },
+    {
+     "expected_id": "G-0008",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Single approval mark component size requirement (§3.3.6.2) not extracted."
+    },
+    {
+     "expected_id": "G-0013",
+     "reason": "wrong_granularity",
+     "closest_submitted_id": "R-0111",
+     "note": "Split into R-0111 (not rough) and R-0112 (protuberances); neither states the full obligation."
+    },
+    {
+     "expected_id": "G-0015",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Inseparability of combined optical unit and filter (§4.1.6.1) not extracted."
+    },
+    {
+     "expected_id": "G-0017",
+     "reason": "wrong_paragraph",
+     "closest_submitted_id": "R-0136",
+     "note": "Illumination conditions for colour test stated in R-0136 but cited as §5.1.5.1 instead of §4.2.1.2; R-0115 merges it with colour limits."
+    },
+    {
+     "expected_id": "G-0037",
+     "reason": "not_extracted",
+     "closest_submitted_id": "R-0139",
+     "note": "§5.1.5.2 colour limit requirement not extracted; R-0139 is a conformity-of-production chromaticity requirement in Annex 2."
+    },
+    {
+     "expected_id": "G-0039",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Rotation to minimum RI for devices not marked TOP (Annex 4 Part 1 1.2) not extracted."
+    },
+    {
+     "expected_id": "G-0042",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "RI requirement during ±5° rotation for TOP-marked devices (Annex 4 Part 1 1.3) not extracted."
+    },
+    {
+     "expected_id": "G-0045",
+     "reason": "not_extracted",
+     "closest_submitted_id": "R-0123",
+     "note": "Requirement that the optical unit prevent water reaching the reflecting surface not extracted; R-0123 only describes the immersion test."
+    },
+    {
+     "expected_id": "G-0049",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Tarnishing/deterioration resistance check not extracted."
+    },
+    {
+     "expected_id": "G-0050",
+     "reason": "not_extracted",
+     "closest_submitted_id": "R-0149",
+     "note": "Saline solution composition and temperature not extracted; R-0149 covers only exposure duration."
+    },
+    {
+     "expected_id": "G-0052",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Weathering exposure per EN ISO 4892-2 not extracted."
+    },
+    {
+     "expected_id": "G-0053",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Table A6-1 weathering parameters not extracted."
+    }
+   ]
+  },
+  "UN R26": {
+   "expected": 0,
+   "submitted": 3,
+   "matched": 0,
+   "matches": [],
+   "unmatched_expected": []
+  },
+  "UN R48": {
+   "expected": 56,
+   "submitted": 65,
+   "matched": 32,
+   "matches": [
+    {
+     "expected_id": "G-0054",
+     "submitted_id": "R-0156"
+    },
+    {
+     "expected_id": "G-0056",
+     "submitted_id": "R-0157"
+    },
+    {
+     "expected_id": "G-0057",
+     "submitted_id": "R-0158"
+    },
+    {
+     "expected_id": "G-0060",
+     "submitted_id": "R-0159"
+    },
+    {
+     "expected_id": "G-0065",
+     "submitted_id": "R-0160"
+    },
+    {
+     "expected_id": "G-0066",
+     "submitted_id": "R-0161"
+    },
+    {
+     "expected_id": "G-0071",
+     "submitted_id": "R-0162"
+    },
+    {
+     "expected_id": "G-0073",
+     "submitted_id": "R-0163"
+    },
+    {
+     "expected_id": "G-0074",
+     "submitted_id": "R-0213"
+    },
+    {
+     "expected_id": "G-0075",
+     "submitted_id": "R-0166"
+    },
+    {
+     "expected_id": "G-0077",
+     "submitted_id": "R-0172"
+    },
+    {
+     "expected_id": "G-0079",
+     "submitted_id": "R-0173"
+    },
+    {
+     "expected_id": "G-0080",
+     "submitted_id": "R-0175"
+    },
+    {
+     "expected_id": "G-0081",
+     "submitted_id": "R-0176"
+    },
+    {
+     "expected_id": "G-0082",
+     "submitted_id": "R-0177"
+    },
+    {
+     "expected_id": "G-0084",
+     "submitted_id": "R-0181"
+    },
+    {
+     "expected_id": "G-0085",
+     "submitted_id": "R-0182"
+    },
+    {
+     "expected_id": "G-0087",
+     "submitted_id": "R-0185"
+    },
+    {
+     "expected_id": "G-0088",
+     "submitted_id": "R-0186"
+    },
+    {
+     "expected_id": "G-0093",
+     "submitted_id": "R-0187"
+    },
+    {
+     "expected_id": "G-0096",
+     "submitted_id": "R-0189"
+    },
+    {
+     "expected_id": "G-0098",
+     "submitted_id": "R-0190"
+    },
+    {
+     "expected_id": "G-0100",
+     "submitted_id": "R-0192"
+    },
+    {
+     "expected_id": "G-0101",
+     "submitted_id": "R-0195"
+    },
+    {
+     "expected_id": "G-0103",
+     "submitted_id": "R-0196"
+    },
+    {
+     "expected_id": "G-0106",
+     "submitted_id": "R-0198"
+    },
+    {
+     "expected_id": "G-0107",
+     "submitted_id": "R-0199"
+    },
+    {
+     "expected_id": "G-0115",
+     "submitted_id": "R-0202"
+    },
+    {
+     "expected_id": "G-0117",
+     "submitted_id": "R-0204"
+    },
+    {
+     "expected_id": "G-0119",
+     "submitted_id": "R-0205"
+    },
+    {
+     "expected_id": "G-0121",
+     "submitted_id": "R-0208"
+    },
+    {
+     "expected_id": "G-0122",
+     "submitted_id": "R-0209"
+    }
+   ],
+   "unmatched_expected": [
+    {
+     "expected_id": "G-0055",
+     "reason": "merged",
+     "closest_submitted_id": "R-0156",
+     "note": "Vehicle compliance obligation merged with retention of characteristics in R-0156."
+    },
+    {
+     "expected_id": "G-0059",
+     "reason": "merged",
+     "closest_submitted_id": "R-0158",
+     "note": "Median-plane parallelism merged with bearing-plane requirement; exception for side retro-reflectors/side-marker lamps omitted."
+    },
+    {
+     "expected_id": "G-0061",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "§5.5.4 identical photometric characteristics not covered."
+    },
+    {
+     "expected_id": "G-0062",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "§5.5.5 logo count/position not covered."
+    },
+    {
+     "expected_id": "G-0064",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "§5.5.5 manufacturer-only logos not covered."
+    },
+    {
+     "expected_id": "G-0067",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Position lamp reciprocally incorporated colour requirement not covered."
+    },
+    {
+     "expected_id": "G-0068",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "§5.7.2.1 single lamp with distinct parts (60%/75 mm) not covered."
+    },
+    {
+     "expected_id": "G-0072",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "§5.9.2 permitted photometric variation not covered."
+    },
+    {
+     "expected_id": "G-0076",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "§5.18 lamps on movable components not covered (R-0171 is §5.21)."
+    },
+    {
+     "expected_id": "G-0078",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "§5.28.4 reduced photometric field not covered."
+    },
+    {
+     "expected_id": "G-0086",
+     "reason": "wording",
+     "closest_submitted_id": "R-0184",
+     "note": "Submitted omits the required S3/S4 category device."
+    },
+    {
+     "expected_id": "G-0094",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Optional stop lamp height compatibility not covered."
+    },
+    {
+     "expected_id": "G-0095",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Optional stop lamp 600 mm vertical distance not covered."
+    },
+    {
+     "expected_id": "G-0104",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Optional rear position lamp height compatibility not covered."
+    },
+    {
+     "expected_id": "G-0105",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Optional rear position lamp 600 mm vertical distance not covered."
+    },
+    {
+     "expected_id": "G-0108",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Optional lamp above 2,100 mm upward angle reduction not covered."
+    },
+    {
+     "expected_id": "G-0109",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "§6.10.5.2 alternative horizontal angle not covered."
+    },
+    {
+     "expected_id": "G-0110",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "§6.10.5.2 alternative vertical angle not covered."
+    },
+    {
+     "expected_id": "G-0111",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "12.5 cm² unobstructed apparent surface not covered."
+    },
+    {
+     "expected_id": "G-0112",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "Exclusion of retro-reflector area not covered."
+    },
+    {
+     "expected_id": "G-0113",
+     "reason": "wording",
+     "closest_submitted_id": "R-0201",
+     "note": "Submitted omits the direction-indicator reciprocal incorporation switch-OFF exception."
+    },
+    {
+     "expected_id": "G-0114",
+     "reason": "merged",
+     "closest_submitted_id": "R-0202",
+     "note": "Mandatory tell-tale merged with combination and failure tell-tale; DRL condition missing."
+    },
+    {
+     "expected_id": "G-0116",
+     "reason": "merged",
+     "closest_submitted_id": "R-0202",
+     "note": "Failure tell-tale merged into R-0202."
+    },
+    {
+     "expected_id": "G-0123",
+     "reason": "not_extracted",
+     "closest_submitted_id": null,
+     "note": "§6.14.7 shared surface with other rear lamps not covered."
+    }
+   ]
+  }
+ }
+}

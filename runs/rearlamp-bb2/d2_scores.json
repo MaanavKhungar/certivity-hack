@@ -1,0 +1,3288 @@
+{
+ "prefilter_dropped": [
+  {
+   "id": "C-0087",
+   "job": "J-024",
+   "text": "When the rear position lamp, stop lamp and reversing lamp (and the retro-reflector) form one unit of grouped, combined or reciprocally incorporated lamps, each of these lamps shall satisfy the provisions of UN R148 or of another UN Regulation (e.g. R150 for the retro-reflector).",
+   "test_case": "Check that each function in the unit holds a valid approval or passes the tests of its Regulation.",
+   "table": null,
+   "applies_because": "The product is a rear combination unit grouping R148 lamp functions with an R150 retro-reflector.",
+   "node_id": "R148|3.2.2",
+   "cited_role": "primary",
+   "item": "T-R148-3",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 4,
+    "paragraph": "3.2.2"
+   },
+   "drop_reason": "from a referenced section (hop >= 1)"
+  },
+  {
+   "id": "C-0088",
+   "job": "J-024",
+   "text": "A lamp that does not satisfy the provisions of any of those Regulations shall not be part of the unit of grouped, combined or reciprocally incorporated lamps.",
+   "test_case": "Review the unit's bill of functions against the approval reports and confirm there is no non-compliant lamp.",
+   "table": null,
+   "applies_because": "Every lamp function in the combination must be approvable for the unit to be approved.",
+   "node_id": "R148|3.2.2",
+   "cited_role": "primary",
+   "item": "T-R148-3",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 4,
+    "paragraph": "3.2.2"
+   },
+   "drop_reason": "from a referenced section (hop >= 1)"
+  },
+  {
+   "id": "C-0089",
+   "job": "J-024",
+   "text": "The lamp shall be identified by the approval symbols of its functions: R1 (rear position lamp, steady) or R2 (rear position lamp, variable intensity); S1 (stop lamp, steady) or S2 (stop lamp, variable intensity); AR (reversing lamp, letters A and R may be mingled).",
+   "test_case": "Inspect the approval marking for the correct symbols matching each function variant.",
+   "table": "1",
+   "applies_because": "The product contains rear position, stop and reversing lamp functions that are identified by these symbols.",
+   "node_id": "R148|3.2.4",
+   "cited_role": "primary",
+   "item": "T-R148-3.2.4",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 4,
+    "paragraph": "3.2.4. Table 1"
+   },
+   "drop_reason": "from a referenced section (hop >= 1)"
+  },
+  {
+   "id": "C-0212",
+   "job": "J-031",
+   "text": "Mass-produced rear combination lamps (rear position, stop and reversing lamp functions) shall conform mechanically and geometrically to the approved type, with differences not exceeding inevitable manufacturing deviations.",
+   "test_case": "Measure dimensions and inspect the construction of random production lamps against the approved drawings.",
+   "table": null,
+   "applies_because": "The lamp is series-produced under an R148 approval and must match the approved type mechanically and geometrically.",
+   "node_id": "R148|Annex 5 1.1",
+   "cited_role": "primary",
+   "item": "T-R148-Annex_5",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 43,
+    "paragraph": "Annex 5 1.1"
+   },
+   "drop_reason": "administrative section"
+  },
+  {
+   "id": "C-0213",
+   "job": "J-031",
+   "text": "For each function (rear position, stop and reversing lamp), when any production lamp chosen at random is tested for photometric performance according to paragraph 4.8, no measured luminous intensity value shall deviate unfavourably by more than the values permitted in paragraph 6.1.3, i.e. 20 per cent from the prescribed values, or the Table 12 equivalents for the minimum values in the fields of Annexes 2 and 3.",
+   "test_case": "Measure the luminous intensity of each function of a random production lamp at 13.5 V or the applicant-specified operation, with the non-replaceable LEDs present, and check that no value deviates unfavourably by more than 20 per cent.",
+   "table": null,
+   "applies_because": "Each LED lamp function of the product is subject to photometric conformity of production under R148.",
+   "node_id": "R148|Annex 5 1.2",
+   "cited_role": "primary",
+   "item": "T-R148-Annex_5",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 43,
+    "paragraph": "Annex 5 1.2"
+   },
+   "drop_reason": "administrative section"
+  },
+  {
+   "id": "C-0214",
+   "job": "J-031",
+   "text": "Production lamps shall comply with the prescribed chromaticity coordinates (red for the rear position and stop lamp, white for the reversing lamp) when tested under the conditions of paragraph 4.9.",
+   "test_case": "Measure the chromaticity coordinates of each function within its light distribution field, with the LEDs present in the lamp, and compare them with the colour boundaries.",
+   "table": null,
+   "applies_because": "The red and white light emitted by the production lamp functions must stay within the R148 colour limits.",
+   "node_id": "R148|Annex 5 1.4",
+   "cited_role": "primary",
+   "item": "T-R148-Annex_5",
+   "source": {
+    "regulation": "UN R148",
+    "version": "1.6.0",
+    "page": 44,
+    "paragraph": "Annex 5 1.4"
+   },
+   "drop_reason": "administrative section"
+  },
+  {
+   "id": "C-0224",
+   "job": "J-037",
+   "text": "In case the lamp housing containing the retro-reflector is watertight, the retro-reflector shall be identified by the symbol \"IA\" (retro-reflector for motor vehicles, independent).",
+   "test_case": "Inspect the approval marking on the lamp and the approval documents for the symbol \"IA\".",
+   "table": "1",
+   "applies_because": "The rear retro-reflector is approved as Class IA when the lamp it sits in is watertight.",
+   "node_id": "R150|3.2.5",
+   "cited_role": "primary",
+   "item": "T-R150-3.2.5",
+   "source": {
+    "regulation": "UN R150",
+    "version": "1.2.1",
+    "page": 5,
+    "paragraph": "3.2.5. Table 1"
+   },
+   "drop_reason": "from a referenced section (hop >= 1)"
+  },
+  {
+   "id": "C-0225",
+   "job": "J-037",
+   "text": "In case the retro-reflector is combined with signal lamps which are not watertight, the retro-reflector shall be identified by the symbol \"IB\".",
+   "test_case": "Inspect the approval marking on the lamp and the approval documents for the symbol \"IB\".",
+   "table": "1",
+   "applies_because": "The retro-reflector is integrated in a combined rear lamp, so it is Class IB if the housing is not watertight.",
+   "node_id": "R150|3.2.5",
+   "cited_role": "primary",
+   "item": "T-R150-3.2.5",
+   "source": {
+    "regulation": "UN R150",
+    "version": "1.2.1",
+    "page": 5,
+    "paragraph": "3.2.5. Table 1"
+   },
+   "drop_reason": "from a referenced section (hop >= 1)"
+  },
+  {
+   "id": "C-0242",
+   "job": "J-037",
+   "text": "Retro-reflectors approved under this Regulation shall be manufactured so as to conform to the type approved by meeting the requirements of paragraphs 4 and 5.",
+   "test_case": "Perform periodic production tests of photometry, colorimetry and water penetration per Annex 2.",
+   "table": null,
+   "applies_because": "This is the conformity of production obligation for the series-produced retro-reflector.",
+   "node_id": "R150|3.5.1",
+   "cited_role": "primary",
+   "item": "T-R150-3.5.1",
+   "source": {
+    "regulation": "UN R150",
+    "version": "1.2.1",
+    "page": 9,
+    "paragraph": "3.5.1"
+   },
+   "drop_reason": "from a referenced section (hop >= 1)"
+  },
+  {
+   "id": "C-0284",
+   "job": "J-041",
+   "text": "Mass-produced retro-reflectors shall conform to the approved type from a mechanical and geometric standpoint: differences shall not exceed inevitable manufacturing deviations.",
+   "test_case": "Compare the dimensions and geometry of randomly chosen production retro-reflectors against the approved drawings and the approval sample.",
+   "table": null,
+   "applies_because": "The R150 retro-reflector (P-05) built into the rear lamp is mass-produced under the approval and is subject to conformity of production.",
+   "node_id": "R150|Annex 3 1.1",
+   "cited_role": "primary",
+   "item": "T-R150-Annex_3",
+   "source": {
+    "regulation": "UN R150",
+    "version": "1.2.1",
+    "page": 26,
+    "paragraph": "Annex 3 1.1"
+   },
+   "drop_reason": "administrative section"
+  },
+  {
+   "id": "C-0285",
+   "job": "J-041",
+   "text": "When the photometric performance of any mass-produced retro-reflector chosen at random is tested, no measured value of the coefficient of luminous intensity (CIL) shall deviate unfavourably by more than 20 per cent from the minimum values prescribed in this Regulation.",
+   "test_case": "Measure the CIL of randomly selected production retro-reflectors at the prescribed angles and check each value is at least 80 % of the prescribed minimum.",
+   "table": null,
+   "applies_because": "The production Class IA/IB red retro-reflector must keep its CIL within the permitted CoP deviation.",
+   "node_id": "R150|Annex 3 1.2.1",
+   "cited_role": "primary",
+   "item": "T-R150-Annex_3",
+   "source": {
+    "regulation": "UN R150",
+    "version": "1.2.1",
+    "page": 26,
+    "paragraph": "Annex 3 1.2.1"
+   },
+   "drop_reason": "administrative section"
+  },
+  {
+   "id": "C-0286",
+   "job": "J-041",
+   "text": "Mass-produced retro-reflectors shall comply with the chromaticity coordinates prescribed for red.",
+   "test_case": "Measure the chromaticity coordinates of production retro-reflectors under the prescribed colorimetric conditions and check they lie within the red boundaries.",
+   "table": null,
+   "applies_because": "The retro-reflector of the rear lamp is red, either as a red optical unit or behind the red outer lens acting as filter, and production units must stay within the red colour limits.",
+   "node_id": "R150|Annex 3 1.3",
+   "cited_role": "primary",
+   "item": "T-R150-Annex_3",
+   "source": {
+    "regulation": "UN R150",
+    "version": "1.2.1",
+    "page": 26,
+    "paragraph": "Annex 3 1.3"
+   },
+   "drop_reason": "administrative section"
+  },
+  {
+   "id": "C-0287",
+   "job": "J-041",
+   "text": "Mass-produced retro-reflectors shall pass the resistance to water penetration test of Annex 6, Part 2, paragraph 1: no water shall penetrate to the reflecting surface of the retro-reflecting optical unit.",
+   "test_case": "Immerse a production retro-reflector (part of the lamp) per Annex 6 Part 2 para. 1. Inspect for water at the reflecting surface and, in case of doubt, measure the CIL.",
+   "table": null,
+   "applies_because": "Conformity of production of the retro-reflector in the rear lamp includes the water penetration test on production samples.",
+   "node_id": "R150|Annex 3 6.1",
+   "cited_role": "primary",
+   "item": "T-R150-Annex_3",
+   "source": {
+    "regulation": "UN R150",
+    "version": "1.2.1",
+    "page": 27,
+    "paragraph": "Annex 3 6.1"
+   },
+   "drop_reason": "administrative section"
+  },
+  {
+   "id": "C-0318",
+   "job": "J-060",
+   "text": "The approval number (sequential number) on the retro-reflector's approval marking must be placed close to the circle surrounding the letter \"E\", in any position relative to it.",
+   "test_case": "Visually inspect the marking on the retro-reflector or lamp and check that the approval number is adjacent to the E-circle.",
+   "table": null,
+   "applies_because": "The Class IA/IB retro-reflector of the rear lamp carries an R150 approval marking.",
+   "node_id": "R150|Annex 10 0",
+   "cited_role": "primary",
+   "item": "T-R150-Annex_10",
+   "source": {
+    "regulation": "UN R150",
+    "version": "1.2.1",
+    "page": 51,
+    "paragraph": "Annex 10 0"
+   },
+   "drop_reason": "administrative section"
+  },
+  {
+   "id": "C-0319",
+   "job": "J-060",
+   "text": "The digits making up the approval number on the retro-reflector's approval marking must face the same way as the letter \"E\".",
+   "test_case": "Visually inspect the marking and check that the approval-number digits have the same orientation as the \"E\".",
+   "table": null,
+   "applies_because": "The R150 approval marking applies to the integral retro-reflector.",
+   "node_id": "R150|Annex 10 0",
+   "cited_role": "primary",
+   "item": "T-R150-Annex_10",
+   "source": {
+    "regulation": "UN R150",
+    "version": "1.2.1",
+    "page": 51,
+    "paragraph": "Annex 10 0"
+   },
+   "drop_reason": "administrative section"
+  },
+  {
+   "id": "C-0320",
+   "job": "J-060",
+   "text": "The group of symbols indicating the class of the retro-reflector (IA or IB) must be placed diametrically opposite the approval number with respect to the E-circle.",
+   "test_case": "Visually inspect the marking and check that the class symbol (IA/IB) sits on the opposite side of the E-circle from the approval number.",
+   "table": null,
+   "applies_because": "The retro-reflector is approved as Class IA or IB, and its class symbol forms part of the marking.",
+   "node_id": "R150|Annex 10 0",
+   "cited_role": "primary",
+   "item": "T-R150-Annex_10",
+   "source": {
+    "regulation": "UN R150",
+    "version": "1.2.1",
+    "page": 51,
+    "paragraph": "Annex 10 0"
+   },
+   "drop_reason": "administrative section"
+  },
+  {
+   "id": "C-0435",
+   "job": "J-069",
+   "text": "The parking lamp function may be performed by simultaneously switching ON the front and rear position lamps on the same side of the vehicle, in which case lamps meeting the rear position lamp requirements are deemed to meet the parking lamp requirements.",
+   "test_case": "If parking function is provided, verify same-side front and rear position lamps light together.",
+   "table": null,
+   "applies_because": "The rear position lamp may be used as an optional parking lamp on an M1 vehicle up to 6 m long.",
+   "node_id": "R48|6.12.9",
+   "cited_role": "primary",
+   "item": "T-R48-6",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 53,
+    "paragraph": "6.12.9"
+   },
+   "drop_reason": "from a referenced section (hop >= 1)"
+  },
+  {
+   "id": "C-0436",
+   "job": "J-069",
+   "text": "In case the rear position lamp is used as a parking lamp, the connection shall allow the parking lamps on the same side of the vehicle to be switched ON independently of any other lamps.",
+   "test_case": "Activate the parking function on one side and check that no other lamps are switched on.",
+   "table": null,
+   "applies_because": "This applies if the rear position lamp provides the parking function.",
+   "node_id": "R48|6.12.7",
+   "cited_role": "primary",
+   "item": "T-R48-6",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 53,
+    "paragraph": "6.12.7"
+   },
+   "drop_reason": "from a referenced section (hop >= 1)"
+  },
+  {
+   "id": "C-0437",
+   "job": "J-069",
+   "text": "In case the rear position lamp is used as a parking lamp, it shall be able to operate even if the device which starts the propulsion system is in a position which makes it impossible for the propulsion system to operate.",
+   "test_case": "Switch off the propulsion system and activate the parking function.",
+   "table": null,
+   "applies_because": "This applies if the rear position lamp provides the parking function.",
+   "node_id": "R48|6.12.7",
+   "cited_role": "primary",
+   "item": "T-R48-6",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 53,
+    "paragraph": "6.12.7"
+   },
+   "drop_reason": "from a referenced section (hop >= 1)"
+  },
+  {
+   "id": "C-0438",
+   "job": "J-069",
+   "text": "In case the rear position lamp is used as a parking lamp, a device which automatically switches OFF these lamps as a function of time is prohibited.",
+   "test_case": "Leave the parking lamps on for an extended period and verify they are not switched off by a timer.",
+   "table": null,
+   "applies_because": "This applies if the rear position lamp provides the parking function.",
+   "node_id": "R48|6.12.7",
+   "cited_role": "primary",
+   "item": "T-R48-6",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 53,
+    "paragraph": "6.12.7"
+   },
+   "drop_reason": "from a referenced section (hop >= 1)"
+  },
+  {
+   "id": "C-0439",
+   "job": "J-069",
+   "text": "Where a rear fog lamp is fitted, the distance between the rear fog lamp and each stop lamp shall be greater than 100 mm.",
+   "test_case": "Measure the distance between the rear fog lamp and the stop lamp apparent surfaces on the vehicle.",
+   "table": null,
+   "applies_because": "The stop lamp position in this lamp must keep this distance from any vehicle rear fog lamp.",
+   "node_id": "R48|6.11.9",
+   "cited_role": "primary",
+   "item": "T-R48-6",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 52,
+    "paragraph": "6.11.9"
+   },
+   "drop_reason": "from a referenced section (hop >= 1)"
+  },
+  {
+   "id": "C-0450",
+   "job": "J-070",
+   "text": "In case the rear position lamp is installed on an M1 vehicle less than 6 m in length using the reduced geometric visibility of paragraph 6.10.5.2, side-marker lamps shall be used on the vehicle to supplement this reduced geometric visibility.",
+   "test_case": "Check the vehicle installation: if the rear position lamp meets only 6.10.5.2 angles, verify rear side-marker lamps are fitted.",
+   "table": null,
+   "applies_because": "The rear position lamp may use the M1 alternative visibility of 6.10.5.2, which is only allowed with supplementing side-marker lamps.",
+   "node_id": "R48|6.18.1",
+   "cited_role": "primary",
+   "item": "T-R48-6",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 58,
+    "paragraph": "6.18.1"
+   },
+   "drop_reason": "from a referenced section (hop >= 1)"
+  },
+  {
+   "id": "C-0457",
+   "job": "J-070",
+   "text": "In case a lamp function of the rear lamp is used for an answer-back signal, the geometric visibility shall be in accordance with the individual specifications for that lamp, except that the geometric visibility may be reduced compared with those specifications.",
+   "test_case": "Check the geometric visibility of the lamp in answer-back mode against the individual specification of the function used.",
+   "table": null,
+   "applies_because": "The rear position or reversing lamp of this product may optionally provide the answer-back signal.",
+   "node_id": "R48|6.27.5",
+   "cited_role": "primary",
+   "item": "T-R48-6.27",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 80,
+    "paragraph": "6.27.5"
+   },
+   "drop_reason": "from a referenced section (hop >= 1)"
+  },
+  {
+   "id": "C-0458",
+   "job": "J-070",
+   "text": "In case a lamp function of the rear lamp is used for an answer-back signal, the answer-back signal shall only operate under the park condition of the vehicle.",
+   "test_case": "Attempt to activate the answer-back signal outside park condition and verify it does not operate.",
+   "table": null,
+   "applies_because": "The rear position or reversing lamp of this product may optionally provide the answer-back signal.",
+   "node_id": "R48|6.27.7.1",
+   "cited_role": "primary",
+   "item": "T-R48-6.27",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 80,
+    "paragraph": "6.27.7.1"
+   },
+   "drop_reason": "from a referenced section (hop >= 1)"
+  },
+  {
+   "id": "C-0459",
+   "job": "J-070",
+   "text": "If the answer-back signal provided by the rear lamp flashes, the flash frequency shall not exceed 2.0 Hz.",
+   "test_case": "Measure the flash frequency of the answer-back signal with a photodetector.",
+   "table": null,
+   "applies_because": "The rear position or reversing lamp of this product may optionally provide a flashing answer-back signal.",
+   "node_id": "R48|6.27.7.2",
+   "cited_role": "primary",
+   "item": "T-R48-6.27",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 80,
+    "paragraph": "6.27.7.2"
+   },
+   "drop_reason": "from a referenced section (hop >= 1)"
+  },
+  {
+   "id": "C-0460",
+   "job": "J-070",
+   "text": "For lamps of the rear lamp used for the answer-back signal, the individual specific requirements for electrical connections and the conditions of paragraphs 5.11 and 5.12 may not apply.",
+   "test_case": "Review the wiring concept to confirm that the deviation from 5.11 is limited to answer-back operation.",
+   "table": null,
+   "applies_because": "This permission relaxes the simultaneous-switching rule of 5.11 for the rear position lamp when it is used for an answer-back signal.",
+   "node_id": "R48|6.27.7.4",
+   "cited_role": "primary",
+   "item": "T-R48-6.27",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 80,
+    "paragraph": "6.27.7.4"
+   },
+   "drop_reason": "from a referenced section (hop >= 1)"
+  },
+  {
+   "id": "C-0461",
+   "job": "J-070",
+   "text": "In case the rear position lamp or reversing lamp is used for the answer-back signal, the maximum luminous intensity per lamp in answer-back mode shall not exceed 700 cd on or above the HH line.",
+   "test_case": "Measure the luminous intensity on a goniophotometer in answer-back mode on and above HH and verify it is at most 700 cd.",
+   "table": null,
+   "applies_because": "The rear position and reversing lamps of this product are approved lamps that may provide the answer-back signal.",
+   "node_id": "R48|6.27.9.1",
+   "cited_role": "primary",
+   "item": "T-R48-6.27",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 80,
+    "paragraph": "6.27.9.1"
+   },
+   "drop_reason": "from a referenced section (hop >= 1)"
+  },
+  {
+   "id": "C-0462",
+   "job": "J-070",
+   "text": "The stop lamp shall not be used to provide the answer-back signal.",
+   "test_case": "Inspect the vehicle function and wiring to verify the stop lamp is not activated by the answer-back signal.",
+   "table": null,
+   "applies_because": "The product contains a stop lamp, which is excluded from answer-back use.",
+   "node_id": "R48|6.27.9.1",
+   "cited_role": "primary",
+   "item": "T-R48-6.27",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 80,
+    "paragraph": "6.27.9.1"
+   },
+   "drop_reason": "from a referenced section (hop >= 1)"
+  },
+  {
+   "id": "C-0463",
+   "job": "J-070",
+   "text": "The answer-back signal may only be activated automatically in conjunction with the locking and unlocking of the door(s) and/or the detection of the vehicle user in proximity to the vehicle.",
+   "test_case": "Verify that activation occurs only on lock/unlock or user proximity detection.",
+   "table": null,
+   "applies_because": "This applies when the rear position or reversing lamp of this product provides the answer-back signal.",
+   "node_id": "R48|6.27.9.2",
+   "cited_role": "primary",
+   "item": "T-R48-6.27",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 80,
+    "paragraph": "6.27.9.2"
+   },
+   "drop_reason": "from a referenced section (hop >= 1)"
+  },
+  {
+   "id": "C-0464",
+   "job": "J-070",
+   "text": "The lamp used for the answer-back signal may flash and/or vary in luminous intensity and/or vary in apparent surface.",
+   "test_case": "Inspect the answer-back signal pattern to confirm it uses only flashing, intensity or apparent-surface variation.",
+   "table": null,
+   "applies_because": "This permission covers the LED rear position or reversing lamp when used for the answer-back signal.",
+   "node_id": "R48|6.27.9.3",
+   "cited_role": "primary",
+   "item": "T-R48-6.27",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 80,
+    "paragraph": "6.27.9.3"
+   },
+   "drop_reason": "from a referenced section (hop >= 1)"
+  },
+  {
+   "id": "C-0465",
+   "job": "J-070",
+   "text": "The duration of the optical indication of the answer-back signal shall not exceed 3 seconds, measured from the beginning to the end of the signal, irrespective of flashes, variations of intensity or variations in apparent surface.",
+   "test_case": "Record the answer-back light output over time and verify the total duration is at most 3 s.",
+   "table": null,
+   "applies_because": "This applies when the rear position or reversing lamp of this product provides the answer-back signal.",
+   "node_id": "R48|6.27.9.4",
+   "cited_role": "primary",
+   "item": "T-R48-6.27",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 80,
+    "paragraph": "6.27.9.4"
+   },
+   "drop_reason": "from a referenced section (hop >= 1)"
+  },
+  {
+   "id": "C-0471",
+   "job": "J-079",
+   "text": "In production, the position of the rear position lamp, stop lamp, reversing lamp and rear retro-reflector in width, height and length shall be such that the measured distances fulfil the individual specifications applicable to each lamp. The position is checked according to paragraphs 2.10.2, 2.10.3, 2.10.4, 2.3.3 and 5.4.",
+   "test_case": "On a production vehicle, unladen on a flat surface, measure the illuminating-surface edges of each function for height, distance from the extreme outer edge and spacing, and compare with paras 6.4, 6.7, 6.10 and 6.14.",
+   "table": null,
+   "applies_because": "Each function of the rear combination lamp is checked for position on production M1 vehicles during conformity of production.",
+   "node_id": "R48|Annex 9 1.1",
+   "cited_role": "primary",
+   "item": "T-R48-Annex_9",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 114,
+    "paragraph": "Annex 9 1.1"
+   },
+   "drop_reason": "administrative section"
+  },
+  {
+   "id": "C-0472",
+   "job": "J-079",
+   "text": "In production, the measured angles of geometric visibility of each lamp function shall fulfil the individual specifications applicable to that lamp. The angle limits may have an allowance corresponding to the ±3° mounting variation permitted in paragraph 5.3.",
+   "test_case": "On a production vehicle, check the visibility of each function's apparent surface over the specified horizontal and vertical angles, applying the ±3° allowance.",
+   "table": null,
+   "applies_because": "The apparent surfaces of the rear position, stop and reversing lamps and of the retro-reflector are checked for geometric visibility during conformity of production.",
+   "node_id": "R48|Annex 9 1.2.1",
+   "cited_role": "primary",
+   "item": "T-R48-Annex_9",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 114,
+    "paragraph": "Annex 9 1.2.1"
+   },
+   "drop_reason": "administrative section"
+  },
+  {
+   "id": "C-0473",
+   "job": "J-079",
+   "text": "In production, red light from the rear position lamp, stop lamp and red retro-reflector shall not be visible towards the front of the vehicle, as checked in accordance with paragraph 5.10.",
+   "test_case": "With the lamps lit, an observer moving within Zone 1, 25 m in front of the vehicle, verifies that no red apparent surface is directly visible; in case of doubt, red light emitted forwards is checked to be ≤0.25 cd per lamp.",
+   "table": null,
+   "applies_because": "The lamp emits red light at the rear of an M1 vehicle, so no red light may be visible from the front.",
+   "node_id": "R48|Annex 9 1.2.2",
+   "cited_role": "primary",
+   "item": "T-R48-Annex_9",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 114,
+    "paragraph": "Annex 9 1.2.2"
+   },
+   "drop_reason": "administrative section"
+  },
+  {
+   "id": "C-0474",
+   "job": "J-079",
+   "text": "When switched on from the vehicle electrical system, the rear position lamp, stop lamp and reversing lamp and their associated tell-tales shall function in accordance with paragraphs 5.11 to 5.14 and with the individual specifications applicable to each lamp.",
+   "test_case": "Activate each function in turn (position lamps switch, brake pedal, reverse gear) and verify that the correct lamps and tell-tales light and that the switching conditions are met.",
+   "table": null,
+   "applies_because": "The LED functions of the lamp are supplied by the vehicle electrical system, and their electrical connections are checked in conformity of production.",
+   "node_id": "R48|Annex 9 1.4",
+   "cited_role": "primary",
+   "item": "T-R48-Annex_9",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 115,
+    "paragraph": "Annex 9 1.4"
+   },
+   "drop_reason": "administrative section"
+  },
+  {
+   "id": "C-0475",
+   "job": "J-079",
+   "text": "The presence, number, colour (red for the rear position lamp, stop lamp and retro-reflector; white for the reversing lamp), arrangement and, where applicable, category of the lamps, together with their markings, shall fulfil paragraphs 5.15 and 5.16 and the individual specifications applicable to each lamp.",
+   "test_case": "Visually inspect production lamps on the vehicle for light colour, number of functions per side, arrangement and the R148/R150 approval markings and category symbols.",
+   "table": null,
+   "applies_because": "The colours, number, arrangement and approval markings of the lamp functions are verified by visual inspection in conformity of production.",
+   "node_id": "R48|Annex 9 1.6",
+   "cited_role": "primary",
+   "item": "T-R48-Annex_9",
+   "source": {
+    "regulation": "UN R48",
+    "version": "9.3.0",
+    "page": 115,
+    "paragraph": "Annex 9 1.6"
+   },
+   "drop_reason": "administrative section"
+  }
+ ],
+ "scores": {
+  "C-0001": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "General statement that only announces paragraph 6.",
+   "section_score": 0.6
+  },
+  "C-0002": {
+   "score": 0.75,
+   "duplicate_of": null,
+   "reason": "Non-replaceable LED module documentation applies directly to this lamp.",
+   "section_score": 0.6
+  },
+  "C-0003": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Conditional on the open option of a replaceable R128 light source.",
+   "section_score": 0.6
+  },
+  "C-0004": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Approval mark must be affixed to the ESA.",
+   "section_score": 0.5
+  },
+  "C-0005": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "Placement detail of the mark.",
+   "section_score": 0.5
+  },
+  "C-0006": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Content of the approval mark.",
+   "section_score": 0.5
+  },
+  "C-0007": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Content of the approval mark.",
+   "section_score": 0.5
+  },
+  "C-0008": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Permission only, not an obligation.",
+   "section_score": 0.5
+  },
+  "C-0009": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "General design statement.",
+   "section_score": 0.9
+  },
+  "C-0010": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Overview of the required test set.",
+   "section_score": 0.9
+  },
+  "C-0011": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Broadband measurement method reference.",
+   "section_score": 0.9
+  },
+  "C-0012": {
+   "score": 0.8,
+   "duplicate_of": null,
+   "reason": "Broadband emission limit for 30–75 MHz.",
+   "section_score": 0.9
+  },
+  "C-0013": {
+   "score": 0.8,
+   "duplicate_of": null,
+   "reason": "Broadband emission limit for 75–400 MHz.",
+   "section_score": 0.9
+  },
+  "C-0014": {
+   "score": 0.8,
+   "duplicate_of": null,
+   "reason": "Broadband emission limit for 400–1,000 MHz.",
+   "section_score": 0.9
+  },
+  "C-0015": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Pass criterion that repeats the limits.",
+   "section_score": 0.9
+  },
+  "C-0016": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Narrowband measurement method reference.",
+   "section_score": 0.9
+  },
+  "C-0017": {
+   "score": 0.7,
+   "duplicate_of": null,
+   "reason": "Narrowband limit, conditional on active electronics.",
+   "section_score": 0.9
+  },
+  "C-0018": {
+   "score": 0.7,
+   "duplicate_of": null,
+   "reason": "Narrowband limit, conditional on active electronics.",
+   "section_score": 0.9
+  },
+  "C-0019": {
+   "score": 0.7,
+   "duplicate_of": null,
+   "reason": "Narrowband limit, conditional on active electronics.",
+   "section_score": 0.9
+  },
+  "C-0020": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Pass criterion that repeats the limits.",
+   "section_score": 0.9
+  },
+  "C-0021": {
+   "score": 0.65,
+   "duplicate_of": null,
+   "reason": "Transient conducted emission test on the supply lines.",
+   "section_score": 0.9
+  },
+  "C-0022": {
+   "score": 0.7,
+   "duplicate_of": null,
+   "reason": "12 V positive pulse limit.",
+   "section_score": 0.9
+  },
+  "C-0023": {
+   "score": 0.7,
+   "duplicate_of": null,
+   "reason": "12 V negative pulse limit.",
+   "section_score": 0.9
+  },
+  "C-0024": {
+   "score": 0.55,
+   "duplicate_of": null,
+   "reason": "24 V option; less likely for an M1 car.",
+   "section_score": 0.9
+  },
+  "C-0025": {
+   "score": 0.55,
+   "duplicate_of": null,
+   "reason": "24 V option; less likely for an M1 car.",
+   "section_score": 0.9
+  },
+  "C-0026": {
+   "score": 0.65,
+   "duplicate_of": null,
+   "reason": "Radiated immunity test requirement.",
+   "section_score": 0.9
+  },
+  "C-0027": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Immunity severity for the stripline method.",
+   "section_score": 0.9
+  },
+  "C-0028": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Immunity severity for the TEM cell method.",
+   "section_score": 0.9
+  },
+  "C-0029": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Immunity severity for the BCI method.",
+   "section_score": 0.9
+  },
+  "C-0030": {
+   "score": 0.7,
+   "duplicate_of": null,
+   "reason": "Immunity severity for ALSE, the main method.",
+   "section_score": 0.9
+  },
+  "C-0031": {
+   "score": 0.55,
+   "duplicate_of": null,
+   "reason": "Immunity severity for the reverberation chamber method.",
+   "section_score": 0.9
+  },
+  "C-0032": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Minimum immunity level for stripline.",
+   "section_score": 0.9
+  },
+  "C-0033": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Minimum immunity level for TEM cell.",
+   "section_score": 0.9
+  },
+  "C-0034": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Minimum immunity level for BCI.",
+   "section_score": 0.9
+  },
+  "C-0035": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Minimum immunity level for ALSE.",
+   "section_score": 0.9
+  },
+  "C-0036": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Minimum immunity level for reverberation chamber.",
+   "section_score": 0.9
+  },
+  "C-0037": {
+   "score": 0.8,
+   "duplicate_of": null,
+   "reason": "Pass criterion: no degradation of the stop and rear position lamp functions.",
+   "section_score": 0.9
+  },
+  "C-0038": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Transient immunity test framework.",
+   "section_score": 0.9
+  },
+  "C-0039": {
+   "score": 0.7,
+   "duplicate_of": null,
+   "reason": "Starting profile severity and functional status classes.",
+   "section_score": 0.9
+  },
+  "C-0040": {
+   "score": 0.7,
+   "duplicate_of": null,
+   "reason": "Pulse 1 severity.",
+   "section_score": 0.9
+  },
+  "C-0041": {
+   "score": 0.7,
+   "duplicate_of": null,
+   "reason": "Pulse 2a severity.",
+   "section_score": 0.9
+  },
+  "C-0042": {
+   "score": 0.7,
+   "duplicate_of": null,
+   "reason": "Pulse 2b severity.",
+   "section_score": 0.9
+  },
+  "C-0043": {
+   "score": 0.7,
+   "duplicate_of": null,
+   "reason": "Pulse 3a severity.",
+   "section_score": 0.9
+  },
+  "C-0044": {
+   "score": 0.7,
+   "duplicate_of": null,
+   "reason": "Pulse 3b severity.",
+   "section_score": 0.9
+  },
+  "C-0045": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Exception for the open option of passive drive.",
+   "section_score": 0.9
+  },
+  "C-0046": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Possible relaxation, depending on the drive circuit.",
+   "section_score": 0.9
+  },
+  "C-0047": {
+   "score": 0.2,
+   "duplicate_of": null,
+   "reason": "Conformity of production administration.",
+   "section_score": 0.3
+  },
+  "C-0048": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Conformity of production tolerance.",
+   "section_score": 0.3
+  },
+  "C-0049": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Conformity of production tolerance.",
+   "section_score": 0.3
+  },
+  "C-0050": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Conformity of production immunity check.",
+   "section_score": 0.3
+  },
+  "C-0051": {
+   "score": 0.2,
+   "duplicate_of": null,
+   "reason": "Conformity of production check.",
+   "section_score": 0.3
+  },
+  "C-0052": {
+   "score": 0.2,
+   "duplicate_of": null,
+   "reason": "Conformity of production check.",
+   "section_score": 0.3
+  },
+  "C-0053": {
+   "score": 0.3,
+   "duplicate_of": "C-0013",
+   "reason": "Restates the broadband limits.",
+   "section_score": 0.4
+  },
+  "C-0054": {
+   "score": 0.3,
+   "duplicate_of": "C-0018",
+   "reason": "Restates the narrowband limits.",
+   "section_score": 0.4
+  },
+  "C-0055": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "Test standard reference.",
+   "section_score": 0.5
+  },
+  "C-0056": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Operating state during the broadband test.",
+   "section_score": 0.5
+  },
+  "C-0057": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Lab method choice.",
+   "section_score": 0.5
+  },
+  "C-0058": {
+   "score": 0.25,
+   "duplicate_of": "C-0012",
+   "reason": "Repeats the broadband limits.",
+   "section_score": 0.5
+  },
+  "C-0059": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Detector basis of the limits.",
+   "section_score": 0.5
+  },
+  "C-0060": {
+   "score": 0.15,
+   "duplicate_of": null,
+   "reason": "Lab evaluation procedure.",
+   "section_score": 0.5
+  },
+  "C-0061": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Lab method choice.",
+   "section_score": 0.45
+  },
+  "C-0062": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "Operating state during the narrowband test.",
+   "section_score": 0.45
+  },
+  "C-0063": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Frequency range of the narrowband limits.",
+   "section_score": 0.45
+  },
+  "C-0064": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "Detector type.",
+   "section_score": 0.45
+  },
+  "C-0065": {
+   "score": 0.15,
+   "duplicate_of": null,
+   "reason": "Lab evaluation procedure.",
+   "section_score": 0.45
+  },
+  "C-0066": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Allowed method combination covering 20–6,000 MHz.",
+   "section_score": 0.5
+  },
+  "C-0067": {
+   "score": 0.2,
+   "duplicate_of": null,
+   "reason": "General test conditions reference.",
+   "section_score": 0.5
+  },
+  "C-0068": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Lamp functions active during immunity testing.",
+   "section_score": 0.5
+  },
+  "C-0069": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Immunity frequency range.",
+   "section_score": 0.5
+  },
+  "C-0070": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "AM modulation of the test signal.",
+   "section_score": 0.5
+  },
+  "C-0071": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "PM2 modulation in the radar band.",
+   "section_score": 0.5
+  },
+  "C-0072": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "PM3 modulation.",
+   "section_score": 0.5
+  },
+  "C-0073": {
+   "score": 0.2,
+   "duplicate_of": null,
+   "reason": "Lab setup detail.",
+   "section_score": 0.5
+  },
+  "C-0074": {
+   "score": 0.15,
+   "duplicate_of": null,
+   "reason": "Lab setup detail.",
+   "section_score": 0.5
+  },
+  "C-0075": {
+   "score": 0.2,
+   "duplicate_of": null,
+   "reason": "Lab setup detail.",
+   "section_score": 0.5
+  },
+  "C-0076": {
+   "score": 0.12,
+   "duplicate_of": null,
+   "reason": "Alternative lab method.",
+   "section_score": 0.5
+  },
+  "C-0077": {
+   "score": 0.15,
+   "duplicate_of": null,
+   "reason": "Lab setup detail.",
+   "section_score": 0.5
+  },
+  "C-0078": {
+   "score": 0.15,
+   "duplicate_of": null,
+   "reason": "Lab setup detail.",
+   "section_score": 0.5
+  },
+  "C-0079": {
+   "score": 0.3,
+   "duplicate_of": "C-0040",
+   "reason": "Same obligation as the pulse 1 severity.",
+   "section_score": 0.55
+  },
+  "C-0080": {
+   "score": 0.3,
+   "duplicate_of": "C-0041",
+   "reason": "Same obligation as the pulse 2a severity.",
+   "section_score": 0.55
+  },
+  "C-0081": {
+   "score": 0.3,
+   "duplicate_of": "C-0042",
+   "reason": "Same obligation as the pulse 2b severity.",
+   "section_score": 0.55
+  },
+  "C-0082": {
+   "score": 0.3,
+   "duplicate_of": "C-0043",
+   "reason": "Same obligation as the pulse 3a severity.",
+   "section_score": 0.55
+  },
+  "C-0083": {
+   "score": 0.3,
+   "duplicate_of": "C-0044",
+   "reason": "Same obligation as the pulse 3b severity.",
+   "section_score": 0.55
+  },
+  "C-0084": {
+   "score": 0.3,
+   "duplicate_of": "C-0039",
+   "reason": "Same obligation as the starting profile severity.",
+   "section_score": 0.55
+  },
+  "C-0085": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Exemption for lamps reserved for electric vehicles.",
+   "section_score": 0.55
+  },
+  "C-0086": {
+   "score": 0.3,
+   "duplicate_of": "C-0021",
+   "reason": "Same obligation as the transient emission test.",
+   "section_score": 0.55
+  },
+  "C-0090": {
+   "score": 0.55,
+   "duplicate_of": null,
+   "reason": "Space for markings is a design obligation.",
+   "section_score": 0.85
+  },
+  "C-0091": {
+   "score": 0.65,
+   "duplicate_of": null,
+   "reason": "Legibility and indelibility of markings are commonly listed.",
+   "section_score": 0.85
+  },
+  "C-0092": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Minimum mark size.",
+   "section_score": 0.85
+  },
+  "C-0093": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Content of the approval mark.",
+   "section_score": 0.85
+  },
+  "C-0094": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "Sequential number in the mark.",
+   "section_score": 0.85
+  },
+  "C-0095": {
+   "score": 0.2,
+   "duplicate_of": null,
+   "reason": "Placement detail of the sequential number.",
+   "section_score": 0.85
+  },
+  "C-0096": {
+   "score": 0.55,
+   "duplicate_of": null,
+   "reason": "Function symbols R/S/AR are specific to this lamp.",
+   "section_score": 0.85
+  },
+  "C-0097": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "Regulation number in the mark.",
+   "section_score": 0.85
+  },
+  "C-0098": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Side-specific arrow is an open option.",
+   "section_score": 0.85
+  },
+  "C-0099": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "Arrow direction detail.",
+   "section_score": 0.85
+  },
+  "C-0100": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "Reduced-distribution reversing lamp arrow is an open option.",
+   "section_score": 0.85
+  },
+  "C-0101": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "D marking is an open option.",
+   "section_score": 0.85
+  },
+  "C-0102": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Y marking is an open option.",
+   "section_score": 0.85
+  },
+  "C-0103": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Downward arrow marking for low mounting is plausible on M1.",
+   "section_score": 0.85
+  },
+  "C-0104": {
+   "score": 0.7,
+   "duplicate_of": null,
+   "reason": "Lamp shall bear the approval marking.",
+   "section_score": 0.85
+  },
+  "C-0105": {
+   "score": 0.65,
+   "duplicate_of": null,
+   "reason": "Trade name marking.",
+   "section_score": 0.85
+  },
+  "C-0106": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "An exemption rather than an obligation.",
+   "section_score": 0.85
+  },
+  "C-0107": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Rated voltage marking applies to non-replaceable LEDs.",
+   "section_score": 0.85
+  },
+  "C-0108": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Module option only.",
+   "section_score": 0.85
+  },
+  "C-0109": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Module MD code, an open option.",
+   "section_score": 0.85
+  },
+  "C-0110": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Module option.",
+   "section_score": 0.85
+  },
+  "C-0111": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Module option.",
+   "section_score": 0.85
+  },
+  "C-0112": {
+   "score": 0.15,
+   "duplicate_of": "C-0107",
+   "reason": "Rated voltage marking on the lamp is already covered.",
+   "section_score": 0.85
+  },
+  "C-0113": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "External control gear option.",
+   "section_score": 0.85
+  },
+  "C-0114": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Location of the approval mark.",
+   "section_score": 0.85
+  },
+  "C-0115": {
+   "score": 0.55,
+   "duplicate_of": null,
+   "reason": "Visibility of the mark when fitted.",
+   "section_score": 0.85
+  },
+  "C-0116": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Detachable lens is unlikely.",
+   "section_score": 0.85
+  },
+  "C-0117": {
+   "score": 0.15,
+   "duplicate_of": null,
+   "reason": "Shared lens for several devices is not indicated.",
+   "section_score": 0.85
+  },
+  "C-0118": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Repeats other marking items.",
+   "section_score": 0.85
+  },
+  "C-0119": {
+   "score": 0.15,
+   "duplicate_of": "C-0109",
+   "reason": "Restates module markings.",
+   "section_score": 0.85
+  },
+  "C-0120": {
+   "score": 0.15,
+   "duplicate_of": null,
+   "reason": "A relaxation.",
+   "section_score": 0.85
+  },
+  "C-0121": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Single combined mark with R150 is relevant.",
+   "section_score": 0.85
+  },
+  "C-0122": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Proviso of the single mark.",
+   "section_score": 0.85
+  },
+  "C-0123": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Proviso of the single mark.",
+   "section_score": 0.85
+  },
+  "C-0124": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Size of the single mark.",
+   "section_score": 0.85
+  },
+  "C-0125": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Announcing statement.",
+   "section_score": 0.9
+  },
+  "C-0126": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "R48 specs verifiable at lamp level.",
+   "section_score": 0.9
+  },
+  "C-0127": {
+   "score": 0.8,
+   "duplicate_of": null,
+   "reason": "Vibration robustness is a key design requirement.",
+   "section_score": 0.9
+  },
+  "C-0128": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Deemed approval, informative.",
+   "section_score": 0.9
+  },
+  "C-0129": {
+   "score": 0.2,
+   "duplicate_of": null,
+   "reason": "Permissive.",
+   "section_score": 0.9
+  },
+  "C-0130": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Permissive arrangement.",
+   "section_score": 0.9
+  },
+  "C-0131": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "R/S reciprocal incorporation condition is an open option.",
+   "section_score": 0.9
+  },
+  "C-0132": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "Logo option.",
+   "section_score": 0.9
+  },
+  "C-0133": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Logo area limit.",
+   "section_score": 0.9
+  },
+  "C-0134": {
+   "score": 0.12,
+   "duplicate_of": null,
+   "reason": "A relaxation.",
+   "section_score": 0.9
+  },
+  "C-0135": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "No logo in the stop and reversing functions.",
+   "section_score": 0.9
+  },
+  "C-0136": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "LED group definition for failure.",
+   "section_score": 0.9
+  },
+  "C-0137": {
+   "score": 0.75,
+   "duplicate_of": null,
+   "reason": "Failure provisions for multi-LED functions.",
+   "section_score": 0.9
+  },
+  "C-0138": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "R2 failure fallback.",
+   "section_score": 0.9
+  },
+  "C-0139": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "S2 failure fallback.",
+   "section_score": 0.9
+  },
+  "C-0140": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Allowed light sources.",
+   "section_score": 0.9
+  },
+  "C-0141": {
+   "score": 0.55,
+   "duplicate_of": null,
+   "reason": "EMC disturbance requirement for the LED electronics.",
+   "section_score": 0.9
+  },
+  "C-0142": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Module option.",
+   "section_score": 0.9
+  },
+  "C-0143": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Module option.",
+   "section_score": 0.9
+  },
+  "C-0144": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Module option.",
+   "section_score": 0.9
+  },
+  "C-0145": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Module option.",
+   "section_score": 0.9
+  },
+  "C-0146": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Photometry with the LEDs present.",
+   "section_score": 0.9
+  },
+  "C-0147": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Multiple mounting positions are not indicated.",
+   "section_score": 0.9
+  },
+  "C-0148": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Test condition.",
+   "section_score": 0.9
+  },
+  "C-0149": {
+   "score": 0.2,
+   "duplicate_of": null,
+   "reason": "Measurement tolerance detail.",
+   "section_score": 0.9
+  },
+  "C-0150": {
+   "score": 0.65,
+   "duplicate_of": null,
+   "reason": "13.5 V test voltage.",
+   "section_score": 0.9
+  },
+  "C-0151": {
+   "score": 0.2,
+   "duplicate_of": null,
+   "reason": "24 V is not relevant for M1.",
+   "section_score": 0.9
+  },
+  "C-0152": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Control gear option.",
+   "section_score": 0.9
+  },
+  "C-0153": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Operating condition.",
+   "section_score": 0.9
+  },
+  "C-0154": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Minimum on-axis intensity.",
+   "section_score": 0.9
+  },
+  "C-0155": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Maximum intensity.",
+   "section_score": 0.9
+  },
+  "C-0156": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Light distribution outside the axis.",
+   "section_score": 0.9
+  },
+  "C-0157": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Geometric visibility minima.",
+   "section_score": 0.9
+  },
+  "C-0158": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Local variation provisions.",
+   "section_score": 0.9
+  },
+  "C-0159": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "D option.",
+   "section_score": 0.9
+  },
+  "C-0160": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "D option.",
+   "section_score": 0.9
+  },
+  "C-0161": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Y option.",
+   "section_score": 0.9
+  },
+  "C-0162": {
+   "score": 0.2,
+   "duplicate_of": null,
+   "reason": "Split tailgate Y option is not indicated.",
+   "section_score": 0.9
+  },
+  "C-0163": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "R2/S2 control limits.",
+   "section_score": 0.9
+  },
+  "C-0164": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "R2/S2 night-time limit.",
+   "section_score": 0.9
+  },
+  "C-0165": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "R2/S2 other control systems.",
+   "section_score": 0.9
+  },
+  "C-0166": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "5:1 ratio for reciprocally incorporated R/S.",
+   "section_score": 0.9
+  },
+  "C-0167": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "Refers to the Annex 8 tests.",
+   "section_score": 0.9
+  },
+  "C-0168": {
+   "score": 0.7,
+   "duplicate_of": null,
+   "reason": "Colour within the distribution field.",
+   "section_score": 0.9
+  },
+  "C-0169": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "No sharp colour variation.",
+   "section_score": 0.9
+  },
+  "C-0170": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "General statement pointing to Table 4.",
+   "section_score": 0.95
+  },
+  "C-0171": {
+   "score": 0.75,
+   "duplicate_of": null,
+   "reason": "R1 intensity values.",
+   "section_score": 0.95
+  },
+  "C-0172": {
+   "score": 0.55,
+   "duplicate_of": null,
+   "reason": "R2 option values.",
+   "section_score": 0.95
+  },
+  "C-0173": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "60 cd allowance for reciprocal incorporation.",
+   "section_score": 0.95
+  },
+  "C-0174": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Rear position lamp visibility angles.",
+   "section_score": 0.95
+  },
+  "C-0175": {
+   "score": 0.25,
+   "duplicate_of": "C-0137",
+   "reason": "Cross-reference to the failure provisions.",
+   "section_score": 0.95
+  },
+  "C-0176": {
+   "score": 0.7,
+   "duplicate_of": null,
+   "reason": "Red colour.",
+   "section_score": 0.95
+  },
+  "C-0177": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Pointer to Table 7.",
+   "section_score": 0.95
+  },
+  "C-0178": {
+   "score": 0.75,
+   "duplicate_of": null,
+   "reason": "S1 intensity values.",
+   "section_score": 0.95
+  },
+  "C-0179": {
+   "score": 0.55,
+   "duplicate_of": null,
+   "reason": "S2 option values.",
+   "section_score": 0.95
+  },
+  "C-0180": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Stop lamp visibility angles.",
+   "section_score": 0.95
+  },
+  "C-0181": {
+   "score": 0.25,
+   "duplicate_of": "C-0137",
+   "reason": "Cross-reference to the failure provisions.",
+   "section_score": 0.95
+  },
+  "C-0182": {
+   "score": 0.7,
+   "duplicate_of": null,
+   "reason": "Red colour.",
+   "section_score": 0.95
+  },
+  "C-0183": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Pointer to Table 10.",
+   "section_score": 0.95
+  },
+  "C-0184": {
+   "score": 0.75,
+   "duplicate_of": null,
+   "reason": "AR minimum intensity.",
+   "section_score": 0.95
+  },
+  "C-0185": {
+   "score": 0.75,
+   "duplicate_of": null,
+   "reason": "AR maximum intensities.",
+   "section_score": 0.95
+  },
+  "C-0186": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Reduced distribution option.",
+   "section_score": 0.95
+  },
+  "C-0187": {
+   "score": 0.25,
+   "duplicate_of": "C-0137",
+   "reason": "Cross-reference to the failure provisions.",
+   "section_score": 0.95
+  },
+  "C-0188": {
+   "score": 0.7,
+   "duplicate_of": null,
+   "reason": "White colour.",
+   "section_score": 0.95
+  },
+  "C-0189": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "CoP general.",
+   "section_score": 0.3
+  },
+  "C-0190": {
+   "score": 0.2,
+   "duplicate_of": null,
+   "reason": "CoP deviation.",
+   "section_score": 0.3
+  },
+  "C-0191": {
+   "score": 0.12,
+   "duplicate_of": null,
+   "reason": "CoP table.",
+   "section_score": 0.3
+  },
+  "C-0192": {
+   "score": 0.18,
+   "duplicate_of": null,
+   "reason": "CoP colour.",
+   "section_score": 0.25
+  },
+  "C-0193": {
+   "score": 0.35,
+   "duplicate_of": "C-0174",
+   "reason": "Same visibility angles.",
+   "section_score": 0.6
+  },
+  "C-0194": {
+   "score": 0.25,
+   "duplicate_of": "C-0174",
+   "reason": "Covered by C-0174.",
+   "section_score": 0.6
+  },
+  "C-0195": {
+   "score": 0.35,
+   "duplicate_of": "C-0174",
+   "reason": "Covered by C-0174.",
+   "section_score": 0.6
+  },
+  "C-0196": {
+   "score": 0.25,
+   "duplicate_of": "C-0174",
+   "reason": "Covered by C-0174.",
+   "section_score": 0.6
+  },
+  "C-0197": {
+   "score": 0.35,
+   "duplicate_of": "C-0180",
+   "reason": "Same stop lamp angles.",
+   "section_score": 0.6
+  },
+  "C-0198": {
+   "score": 0.25,
+   "duplicate_of": "C-0180",
+   "reason": "Covered by C-0180.",
+   "section_score": 0.6
+  },
+  "C-0199": {
+   "score": 0.35,
+   "duplicate_of": "C-0180",
+   "reason": "Covered by C-0180.",
+   "section_score": 0.6
+  },
+  "C-0200": {
+   "score": 0.25,
+   "duplicate_of": "C-0180",
+   "reason": "Covered by C-0180.",
+   "section_score": 0.6
+  },
+  "C-0201": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Percentage distribution rule.",
+   "section_score": 0.65
+  },
+  "C-0202": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "Low mounting verification limit.",
+   "section_score": 0.65
+  },
+  "C-0203": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "Low mounting verification limit.",
+   "section_score": 0.65
+  },
+  "C-0204": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "Grid interpolation rule.",
+   "section_score": 0.65
+  },
+  "C-0205": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "AR local variation.",
+   "section_score": 0.65
+  },
+  "C-0206": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Figure A3-I for R.",
+   "section_score": 0.65
+  },
+  "C-0207": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Figure A3-I for S.",
+   "section_score": 0.65
+  },
+  "C-0208": {
+   "score": 0.55,
+   "duplicate_of": null,
+   "reason": "Figure A3-V for AR.",
+   "section_score": 0.65
+  },
+  "C-0209": {
+   "score": 0.18,
+   "duplicate_of": null,
+   "reason": "CoP.",
+   "section_score": 0.25
+  },
+  "C-0210": {
+   "score": 0.18,
+   "duplicate_of": null,
+   "reason": "CoP photometry.",
+   "section_score": 0.25
+  },
+  "C-0211": {
+   "score": 0.1,
+   "duplicate_of": "C-0192",
+   "reason": "Same CoP colour statement.",
+   "section_score": 0.25
+  },
+  "C-0215": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "AR 1/10 min stability.",
+   "section_score": 0.55
+  },
+  "C-0216": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "R LED stability timing.",
+   "section_score": 0.55
+  },
+  "C-0217": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "S LED stability timing.",
+   "section_score": 0.55
+  },
+  "C-0218": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Announces Table A8-1.",
+   "section_score": 0.55
+  },
+  "C-0219": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Rear position lamp switch-on time.",
+   "section_score": 0.55
+  },
+  "C-0220": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Stop lamp 0.2 s.",
+   "section_score": 0.55
+  },
+  "C-0221": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Reversing lamp 0.2 s.",
+   "section_score": 0.55
+  },
+  "C-0222": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "LED deemed compliance.",
+   "section_score": 0.55
+  },
+  "C-0223": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Doubt case check.",
+   "section_score": 0.55
+  },
+  "C-0226": {
+   "score": 0.55,
+   "duplicate_of": null,
+   "reason": "Space for markings on the retro-reflector.",
+   "section_score": 0.75
+  },
+  "C-0227": {
+   "score": 0.75,
+   "duplicate_of": null,
+   "reason": "Markings must be legible and indelible.",
+   "section_score": 0.75
+  },
+  "C-0228": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Minimum mark size for Class IA/IB.",
+   "section_score": 0.75
+  },
+  "C-0229": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Approval mark content (circle with E and country number).",
+   "section_score": 0.75
+  },
+  "C-0230": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Sequential number in the approval marking.",
+   "section_score": 0.75
+  },
+  "C-0231": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Placement detail of the sequential number.",
+   "section_score": 0.75
+  },
+  "C-0232": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "IA/IB class symbol in the marking.",
+   "section_score": 0.75
+  },
+  "C-0233": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Regulation number and series in the marking.",
+   "section_score": 0.75
+  },
+  "C-0234": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "Optional Unique Identifier instead of the approval marking.",
+   "section_score": 0.75
+  },
+  "C-0235": {
+   "score": 0.7,
+   "duplicate_of": null,
+   "reason": "Trade name or mark of the applicant.",
+   "section_score": 0.75
+  },
+  "C-0236": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Conditional TOP marking.",
+   "section_score": 0.75
+  },
+  "C-0237": {
+   "score": 0.3,
+   "duplicate_of": "C-0227",
+   "reason": "Repeats the legibility obligation.",
+   "section_score": 0.75
+  },
+  "C-0238": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Single mark option for the combined lamp.",
+   "section_score": 0.75
+  },
+  "C-0239": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Single mark must be visible after installation.",
+   "section_score": 0.75
+  },
+  "C-0240": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Light-transmitting parts not removable without removing the mark.",
+   "section_score": 0.75
+  },
+  "C-0241": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Size rule for a single mark.",
+   "section_score": 0.75
+  },
+  "C-0243": {
+   "score": 0.2,
+   "duplicate_of": "C-0282",
+   "reason": "Duplicate of the CoP photometric limit.",
+   "section_score": 0.3
+  },
+  "C-0244": {
+   "score": 0.2,
+   "duplicate_of": "C-0283",
+   "reason": "Duplicate of the CoP colour limit.",
+   "section_score": 0.3
+  },
+  "C-0281": {
+   "score": 0.2,
+   "duplicate_of": null,
+   "reason": "CoP administration.",
+   "section_score": 0.3
+  },
+  "C-0282": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "CoP 20% photometric tolerance.",
+   "section_score": 0.3
+  },
+  "C-0283": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "CoP colour compliance.",
+   "section_score": 0.3
+  },
+  "C-0245": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "General R48 reference that only announces other provisions.",
+   "section_score": 0.7
+  },
+  "C-0246": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "General functioning requirement.",
+   "section_score": 0.7
+  },
+  "C-0247": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "No design or manufacturing defect.",
+   "section_score": 0.7
+  },
+  "C-0248": {
+   "score": 0.65,
+   "duplicate_of": null,
+   "reason": "Components not easily dismantled.",
+   "section_score": 0.7
+  },
+  "C-0249": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Outer surface easy to clean.",
+   "section_score": 0.7
+  },
+  "C-0250": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Outer surface not rough.",
+   "section_score": 0.7
+  },
+  "C-0251": {
+   "score": 0.7,
+   "duplicate_of": null,
+   "reason": "No access to the inner surface in normal use.",
+   "section_score": 0.7
+  },
+  "C-0252": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Inseparable optical unit and filter (open option).",
+   "section_score": 0.7
+  },
+  "C-0253": {
+   "score": 0.7,
+   "duplicate_of": null,
+   "reason": "No colouring by paint or varnish.",
+   "section_score": 0.7
+  },
+  "C-0254": {
+   "score": 0.5,
+   "duplicate_of": "C-0280",
+   "reason": "Same red chromaticity requirement.",
+   "section_score": 0.7
+  },
+  "C-0255": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Shape requirement announced; Annex 5 covers it.",
+   "section_score": 0.85
+  },
+  "C-0256": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Announces the photometric and colorimetric requirements.",
+   "section_score": 0.85
+  },
+  "C-0257": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Announces the physical and mechanical tests.",
+   "section_score": 0.85
+  },
+  "C-0261": {
+   "score": 0.7,
+   "duplicate_of": null,
+   "reason": "Photometry and colour after the heat test.",
+   "section_score": 0.85
+  },
+  "C-0264": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Conditional corrosion test (open option).",
+   "section_score": 0.85
+  },
+  "C-0265": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Conditional rear-face test (open option).",
+   "section_score": 0.85
+  },
+  "C-0266": {
+   "score": 0.55,
+   "duplicate_of": null,
+   "reason": "Fuel and lubricant test sequence.",
+   "section_score": 0.85
+  },
+  "C-0267": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Stability in time of optical properties.",
+   "section_score": 0.85
+  },
+  "C-0268": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Weathering resistance test.",
+   "section_score": 0.85
+  },
+  "C-0269": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Post-test colour criterion.",
+   "section_score": 0.85
+  },
+  "C-0270": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Post-test RI criterion.",
+   "section_score": 0.85
+  },
+  "C-0271": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "RI to be met for each declared reference axis.",
+   "section_score": 0.85
+  },
+  "C-0272": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Photometric surface limited to a 200 mm circle.",
+   "section_score": 0.85
+  },
+  "C-0273": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Photometric area limited to 100 cm².",
+   "section_score": 0.85
+  },
+  "C-0274": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "Manufacturer declares the perimeter (documentation).",
+   "section_score": 0.85
+  },
+  "C-0275": {
+   "score": 0.65,
+   "duplicate_of": null,
+   "reason": "RI must meet Table 3.",
+   "section_score": 0.85
+  },
+  "C-0276": {
+   "score": 0.9,
+   "duplicate_of": null,
+   "reason": "Table 3 minimum RI values.",
+   "section_score": 0.85
+  },
+  "C-0277": {
+   "score": 0.65,
+   "duplicate_of": null,
+   "reason": "RI floor within the solid angle.",
+   "section_score": 0.85
+  },
+  "C-0278": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Relaxation for mounting height below 750 mm.",
+   "section_score": 0.85
+  },
+  "C-0280": {
+   "score": 0.8,
+   "duplicate_of": null,
+   "reason": "Red night-time colour requirement.",
+   "section_score": 0.85
+  },
+  "C-0258": {
+   "score": 0.7,
+   "duplicate_of": null,
+   "reason": "Shape not to be confused with the trailer triangle.",
+   "section_score": 0.7
+  },
+  "C-0294": {
+   "score": 0.5,
+   "duplicate_of": "C-0258",
+   "reason": "Duplicate of the shape requirement.",
+   "section_score": 0.7
+  },
+  "C-0259": {
+   "score": 0.8,
+   "duplicate_of": null,
+   "reason": "Heat test severity.",
+   "section_score": 0.8
+  },
+  "C-0260": {
+   "score": 0.75,
+   "duplicate_of": null,
+   "reason": "Heat test pass criterion.",
+   "section_score": 0.8
+  },
+  "C-0262": {
+   "score": 0.5,
+   "duplicate_of": "C-0295",
+   "reason": "Duplicate of the water immersion test.",
+   "section_score": 0.75
+  },
+  "C-0263": {
+   "score": 0.5,
+   "duplicate_of": "C-0296",
+   "reason": "Duplicate of the water penetration pass criterion.",
+   "section_score": 0.75
+  },
+  "C-0295": {
+   "score": 0.75,
+   "duplicate_of": null,
+   "reason": "Water immersion test severity.",
+   "section_score": 0.75
+  },
+  "C-0296": {
+   "score": 0.75,
+   "duplicate_of": null,
+   "reason": "No water at the reflecting surface.",
+   "section_score": 0.75
+  },
+  "C-0297": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "RI after the water test.",
+   "section_score": 0.75
+  },
+  "C-0279": {
+   "score": 0.3,
+   "duplicate_of": "C-0290",
+   "reason": "Duplicate of the rotational RI rule.",
+   "section_score": 0.35
+  },
+  "C-0288": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Mirror-effect measurement procedure.",
+   "section_score": 0.35
+  },
+  "C-0289": {
+   "score": 0.35,
+   "duplicate_of": "C-0290",
+   "reason": "Overlaps the rotational rule.",
+   "section_score": 0.35
+  },
+  "C-0290": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "RI at the worst rotation when not marked TOP.",
+   "section_score": 0.35
+  },
+  "C-0291": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "RI over ±5° rotation when marked TOP.",
+   "section_score": 0.35
+  },
+  "C-0292": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Procedure detail.",
+   "section_score": 0.35
+  },
+  "C-0293": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Illuminant A measurement procedure.",
+   "section_score": 0.35
+  },
+  "C-0298": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Test setup detail.",
+   "section_score": 0.45
+  },
+  "C-0299": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Water spray severity (Class IB option).",
+   "section_score": 0.45
+  },
+  "C-0300": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "Lamp operation cycle during the spray.",
+   "section_score": 0.45
+  },
+  "C-0301": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Spray test duration.",
+   "section_score": 0.45
+  },
+  "C-0302": {
+   "score": 0.55,
+   "duplicate_of": null,
+   "reason": "No standing water inside the device.",
+   "section_score": 0.45
+  },
+  "C-0303": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "RI after the moisture test.",
+   "section_score": 0.45
+  },
+  "C-0304": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Test setup detail.",
+   "section_score": 0.45
+  },
+  "C-0305": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Dust exposure severity.",
+   "section_score": 0.45
+  },
+  "C-0306": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "RI after the dust test.",
+   "section_score": 0.45
+  },
+  "C-0307": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "General corrosion design requirement.",
+   "section_score": 0.6
+  },
+  "C-0308": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Front surface and rear-face protection resistance.",
+   "section_score": 0.6
+  },
+  "C-0309": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "50 h salt mist on the complete lamp.",
+   "section_score": 0.6
+  },
+  "C-0310": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "Salt solution preparation detail.",
+   "section_score": 0.6
+  },
+  "C-0311": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "No excessive corrosion after the test.",
+   "section_score": 0.6
+  },
+  "C-0312": {
+   "score": 0.15,
+   "duplicate_of": null,
+   "reason": "RA tables for marking materials, not this device.",
+   "section_score": 0.6
+  },
+  "C-0313": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Rear-face solvent and brushing test (open option).",
+   "section_score": 0.5
+  },
+  "C-0314": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "RI after the rear-face test.",
+   "section_score": 0.5
+  },
+  "C-0315": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Fuel resistance test.",
+   "section_score": 0.65
+  },
+  "C-0316": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Fuel test pass criterion.",
+   "section_score": 0.65
+  },
+  "C-0317": {
+   "score": 0.65,
+   "duplicate_of": null,
+   "reason": "Lubricating oil test and RI criterion.",
+   "section_score": 0.65
+  },
+  "C-0321": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Height exemption above 2 m; a car rear lamp is never that high, so it has little practical relevance.",
+   "section_score": 0.85
+  },
+  "C-0322": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Below-floor-line exemption; rarely applies to a rear lamp.",
+   "section_score": 0.85
+  },
+  "C-0323": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "100 mm sphere contact zone defines which lamp edges must comply; relevant to the flush/recessed option.",
+   "section_score": 0.85
+  },
+  "C-0324": {
+   "score": 0.85,
+   "duplicate_of": null,
+   "reason": "Main obligation: no pointed or sharp outward parts on the exposed lamp surface.",
+   "section_score": 0.85
+  },
+  "C-0325": {
+   "score": 0.65,
+   "duplicate_of": null,
+   "reason": "No parts likely to catch on pedestrians or cyclists; a general but binding design requirement.",
+   "section_score": 0.85
+  },
+  "C-0326": {
+   "score": 0.85,
+   "duplicate_of": null,
+   "reason": "Concrete design criterion: minimum 2.5 mm radius of curvature on protruding edges.",
+   "section_score": 0.85
+  },
+  "C-0327": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Blunting of low-projection edges; relevant to the open option of edge radii below 2.5 mm.",
+   "section_score": 0.85
+  },
+  "C-0328": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Soft-material relaxation for an exposed seal; an open option.",
+   "section_score": 0.85
+  },
+  "C-0329": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Hardness measurement condition; a procedural detail supporting C-0328.",
+   "section_score": 0.85
+  },
+  "C-0330": {
+   "score": 0.12,
+   "duplicate_of": "C-0324",
+   "reason": "COP statement that repeats the para 5 obligations.",
+   "section_score": 0.15
+  },
+  "C-0331": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Projection determination method for a lamp on a convex surface; procedural, conditional on protrusion.",
+   "section_score": 0.3
+  },
+  "C-0332": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Sphere-based projection measurement for a lamp on a non-convex surface; procedural, conditional on protrusion.",
+   "section_score": 0.3
+  },
+  "C-0333": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Vibration robustness of the fitted lamp.",
+   "section_score": 0.8
+  },
+  "C-0334": {
+   "score": 0.55,
+   "duplicate_of": null,
+   "reason": "No inadvertent maladjustment; binds the fasteners.",
+   "section_score": 0.8
+  },
+  "C-0335": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Reference axis orientation tolerance.",
+   "section_score": 0.8
+  },
+  "C-0336": {
+   "score": 0.55,
+   "duplicate_of": null,
+   "reason": "Reference axis orientation tolerance in the horizontal plane.",
+   "section_score": 0.8
+  },
+  "C-0337": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Fitting instructions, a partly installation-level matter.",
+   "section_score": 0.8
+  },
+  "C-0338": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Verification condition only.",
+   "section_score": 0.8
+  },
+  "C-0339": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Symmetric fitting of the pair.",
+   "section_score": 0.8
+  },
+  "C-0340": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Mirror symmetry of left/right lamps.",
+   "section_score": 0.8
+  },
+  "C-0341": {
+   "score": 0.55,
+   "duplicate_of": null,
+   "reason": "Same colorimetry across the pair.",
+   "section_score": 0.8
+  },
+  "C-0342": {
+   "score": 0.55,
+   "duplicate_of": null,
+   "reason": "Identical photometry across the pair.",
+   "section_score": 0.8
+  },
+  "C-0343": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "Logo is an open option; vehicle-level count.",
+   "section_score": 0.8
+  },
+  "C-0344": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "Logo content restriction for the open option.",
+   "section_score": 0.8
+  },
+  "C-0345": {
+   "score": 0.2,
+   "duplicate_of": null,
+   "reason": "Vehicle shape relaxation.",
+   "section_score": 0.8
+  },
+  "C-0346": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Grouping/combination conditions for the multi-function lamp.",
+   "section_score": 0.8
+  },
+  "C-0347": {
+   "score": 0.65,
+   "duplicate_of": null,
+   "reason": "Each function must comply with the others OFF.",
+   "section_score": 0.8
+  },
+  "C-0348": {
+   "score": 0.55,
+   "duplicate_of": null,
+   "reason": "Reciprocal incorporation is an open option.",
+   "section_score": 0.8
+  },
+  "C-0349": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Rule for segmented apparent surfaces.",
+   "section_score": 0.8
+  },
+  "C-0350": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "'D' assembly option.",
+   "section_score": 0.8
+  },
+  "C-0351": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "'Y' system option.",
+   "section_score": 0.8
+  },
+  "C-0352": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Common lens is not an interdependent system.",
+   "section_score": 0.8
+  },
+  "C-0353": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Measurement definition.",
+   "section_score": 0.8
+  },
+  "C-0354": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Measurement definition.",
+   "section_score": 0.8
+  },
+  "C-0355": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Measurement definition.",
+   "section_score": 0.8
+  },
+  "C-0356": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "No intentional variation of photometry.",
+   "section_score": 0.8
+  },
+  "C-0357": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Variation permission for the open options.",
+   "section_score": 0.8
+  },
+  "C-0358": {
+   "score": 0.65,
+   "duplicate_of": null,
+   "reason": "No red light to the front.",
+   "section_score": 0.8
+  },
+  "C-0359": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Zone 1 visibility prohibition.",
+   "section_score": 0.8
+  },
+  "C-0360": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "0.25 cd forward intensity criterion.",
+   "section_score": 0.8
+  },
+  "C-0361": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Vehicle wiring of the position lamps.",
+   "section_score": 0.8
+  },
+  "C-0362": {
+   "score": 0.15,
+   "duplicate_of": null,
+   "reason": "Wiring exemption.",
+   "section_score": 0.8
+  },
+  "C-0363": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "'Y' option switching.",
+   "section_score": 0.8
+  },
+  "C-0364": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "No concealment.",
+   "section_score": 0.8
+  },
+  "C-0365": {
+   "score": 0.75,
+   "duplicate_of": null,
+   "reason": "Reversing lamp white.",
+   "section_score": 0.8
+  },
+  "C-0366": {
+   "score": 0.75,
+   "duplicate_of": null,
+   "reason": "Stop lamp red.",
+   "section_score": 0.8
+  },
+  "C-0367": {
+   "score": 0.75,
+   "duplicate_of": null,
+   "reason": "Rear position lamp red.",
+   "section_score": 0.8
+  },
+  "C-0368": {
+   "score": 0.75,
+   "duplicate_of": null,
+   "reason": "Retro-reflector red.",
+   "section_score": 0.8
+  },
+  "C-0369": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Vehicle-level number.",
+   "section_score": 0.8
+  },
+  "C-0370": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "Tailgate mounting is possible but not indicated.",
+   "section_score": 0.8
+  },
+  "C-0371": {
+   "score": 0.15,
+   "duplicate_of": null,
+   "reason": "Unlikely combination of options.",
+   "section_score": 0.8
+  },
+  "C-0372": {
+   "score": 0.15,
+   "duplicate_of": null,
+   "reason": "Additional lamps, vehicle level.",
+   "section_score": 0.8
+  },
+  "C-0373": {
+   "score": 0.15,
+   "duplicate_of": null,
+   "reason": "'Y' system on a movable component.",
+   "section_score": 0.8
+  },
+  "C-0374": {
+   "score": 0.2,
+   "duplicate_of": null,
+   "reason": "Movable component, not indicated.",
+   "section_score": 0.8
+  },
+  "C-0375": {
+   "score": 0.2,
+   "duplicate_of": null,
+   "reason": "Movable component, not indicated.",
+   "section_score": 0.8
+  },
+  "C-0376": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Obscuration by a movable component.",
+   "section_score": 0.8
+  },
+  "C-0377": {
+   "score": 0.15,
+   "duplicate_of": null,
+   "reason": "Vehicle alternative.",
+   "section_score": 0.8
+  },
+  "C-0378": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Operability, vehicle level.",
+   "section_score": 0.8
+  },
+  "C-0379": {
+   "score": 0.2,
+   "duplicate_of": null,
+   "reason": "Fail-safe option, not indicated.",
+   "section_score": 0.8
+  },
+  "C-0380": {
+   "score": 0.1,
+   "duplicate_of": null,
+   "reason": "Dashboard tell-tale, vehicle.",
+   "section_score": 0.8
+  },
+  "C-0381": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Variable intensity open option.",
+   "section_score": 0.8
+  },
+  "C-0382": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Intensity ratio under variable control.",
+   "section_score": 0.8
+  },
+  "C-0383": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Permission.",
+   "section_score": 0.8
+  },
+  "C-0384": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Permission, vehicle logic.",
+   "section_score": 0.8
+  },
+  "C-0385": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "No sharp transitions.",
+   "section_score": 0.8
+  },
+  "C-0386": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "Terminal voltage limit.",
+   "section_score": 0.8
+  },
+  "C-0387": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "12 V terminal voltage limit.",
+   "section_score": 0.8
+  },
+  "C-0388": {
+   "score": 0.15,
+   "duplicate_of": null,
+   "reason": "24 V is unlikely for M1.",
+   "section_score": 0.8
+  },
+  "C-0389": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Permission.",
+   "section_score": 0.8
+  },
+  "C-0390": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "Exemption tied to integrated control gear.",
+   "section_score": 0.8
+  },
+  "C-0391": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "No obstacles in visibility angles.",
+   "section_score": 0.8
+  },
+  "C-0392": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Unhidden part must meet photometry.",
+   "section_score": 0.8
+  },
+  "C-0393": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Reduced field relaxation.",
+   "section_score": 0.8
+  },
+  "C-0394": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "'Y' option.",
+   "section_score": 0.8
+  },
+  "C-0395": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Non-replaceable LED modules allowed if stated.",
+   "section_score": 0.8
+  },
+  "C-0396": {
+   "score": 0.65,
+   "duplicate_of": null,
+   "reason": "R148/R150 approval needed.",
+   "section_score": 0.8
+  },
+  "C-0397": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Logo option approval.",
+   "section_score": 0.8
+  },
+  "C-0468": {
+   "score": 0.4,
+   "duplicate_of": "C-0359",
+   "reason": "Same Zone 1 rule.",
+   "section_score": 0.8
+  },
+  "C-0470": {
+   "score": 0.35,
+   "duplicate_of": "C-0360",
+   "reason": "Same 0.25 cd criterion.",
+   "section_score": 0.8
+  },
+  "C-0398": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Number of reversing lamps.",
+   "section_score": 0.8
+  },
+  "C-0399": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Reversing lamp approval.",
+   "section_score": 0.8
+  },
+  "C-0400": {
+   "score": 0.65,
+   "duplicate_of": null,
+   "reason": "Reversing lamp height.",
+   "section_score": 0.8
+  },
+  "C-0401": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Located at the rear.",
+   "section_score": 0.8
+  },
+  "C-0402": {
+   "score": 0.65,
+   "duplicate_of": null,
+   "reason": "Reversing lamp vertical visibility.",
+   "section_score": 0.8
+  },
+  "C-0403": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Single-lamp horizontal visibility.",
+   "section_score": 0.8
+  },
+  "C-0404": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Two-lamp horizontal visibility.",
+   "section_score": 0.8
+  },
+  "C-0405": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Rearward orientation.",
+   "section_score": 0.8
+  },
+  "C-0406": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Vehicle wiring.",
+   "section_score": 0.8
+  },
+  "C-0407": {
+   "score": 0.2,
+   "duplicate_of": null,
+   "reason": "Vehicle wiring.",
+   "section_score": 0.8
+  },
+  "C-0408": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Vehicle tell-tale.",
+   "section_score": 0.8
+  },
+  "C-0409": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Stop lamp is mandatory.",
+   "section_score": 0.8
+  },
+  "C-0410": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Number of stop lamps.",
+   "section_score": 0.8
+  },
+  "C-0411": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Stop lamp approval.",
+   "section_score": 0.8
+  },
+  "C-0412": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Lateral position.",
+   "section_score": 0.8
+  },
+  "C-0413": {
+   "score": 0.65,
+   "duplicate_of": null,
+   "reason": "Stop lamp height.",
+   "section_score": 0.8
+  },
+  "C-0414": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Located at the rear.",
+   "section_score": 0.8
+  },
+  "C-0415": {
+   "score": 0.65,
+   "duplicate_of": null,
+   "reason": "Stop lamp horizontal visibility.",
+   "section_score": 0.8
+  },
+  "C-0416": {
+   "score": 0.65,
+   "duplicate_of": null,
+   "reason": "Stop lamp vertical visibility.",
+   "section_score": 0.8
+  },
+  "C-0417": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Rearward orientation.",
+   "section_score": 0.8
+  },
+  "C-0418": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Vehicle wiring.",
+   "section_score": 0.8
+  },
+  "C-0419": {
+   "score": 0.15,
+   "duplicate_of": null,
+   "reason": "Vehicle relaxation.",
+   "section_score": 0.8
+  },
+  "C-0420": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Vehicle tell-tale.",
+   "section_score": 0.8
+  },
+  "C-0421": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Rear position lamp is mandatory.",
+   "section_score": 0.8
+  },
+  "C-0422": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Number and approval of rear position lamps.",
+   "section_score": 0.8
+  },
+  "C-0423": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Lateral position.",
+   "section_score": 0.8
+  },
+  "C-0424": {
+   "score": 0.65,
+   "duplicate_of": null,
+   "reason": "Rear position lamp height.",
+   "section_score": 0.8
+  },
+  "C-0425": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Located at the rear.",
+   "section_score": 0.8
+  },
+  "C-0426": {
+   "score": 0.65,
+   "duplicate_of": null,
+   "reason": "Horizontal visibility.",
+   "section_score": 0.8
+  },
+  "C-0427": {
+   "score": 0.65,
+   "duplicate_of": null,
+   "reason": "Vertical visibility.",
+   "section_score": 0.8
+  },
+  "C-0428": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "Alternative visibility, needs a side-marker.",
+   "section_score": 0.8
+  },
+  "C-0429": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Alternative visibility.",
+   "section_score": 0.8
+  },
+  "C-0430": {
+   "score": 0.35,
+   "duplicate_of": null,
+   "reason": "12.5 cm² under the alternative.",
+   "section_score": 0.8
+  },
+  "C-0431": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Rearward orientation.",
+   "section_score": 0.8
+  },
+  "C-0432": {
+   "score": 0.25,
+   "duplicate_of": "C-0361",
+   "reason": "Repeats the 5.11 wiring rule.",
+   "section_score": 0.8
+  },
+  "C-0433": {
+   "score": 0.2,
+   "duplicate_of": null,
+   "reason": "Vehicle tell-tale.",
+   "section_score": 0.8
+  },
+  "C-0434": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Failure tell-tale.",
+   "section_score": 0.8
+  },
+  "C-0440": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Retro-reflector is mandatory.",
+   "section_score": 0.8
+  },
+  "C-0441": {
+   "score": 0.55,
+   "duplicate_of": null,
+   "reason": "Class IA/IB approval.",
+   "section_score": 0.8
+  },
+  "C-0442": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Additional reflectors permission.",
+   "section_score": 0.8
+  },
+  "C-0443": {
+   "score": 0.6,
+   "duplicate_of": null,
+   "reason": "Lateral position.",
+   "section_score": 0.8
+  },
+  "C-0444": {
+   "score": 0.65,
+   "duplicate_of": null,
+   "reason": "Retro-reflector height when grouped.",
+   "section_score": 0.8
+  },
+  "C-0445": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Located at the rear.",
+   "section_score": 0.8
+  },
+  "C-0446": {
+   "score": 0.65,
+   "duplicate_of": null,
+   "reason": "Horizontal visibility.",
+   "section_score": 0.8
+  },
+  "C-0447": {
+   "score": 0.65,
+   "duplicate_of": null,
+   "reason": "Vertical visibility.",
+   "section_score": 0.8
+  },
+  "C-0448": {
+   "score": 0.5,
+   "duplicate_of": null,
+   "reason": "Rearward orientation.",
+   "section_score": 0.8
+  },
+  "C-0449": {
+   "score": 0.45,
+   "duplicate_of": null,
+   "reason": "Shared surface permission relevant to integration.",
+   "section_score": 0.8
+  },
+  "C-0451": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "ESS, vehicle level.",
+   "section_score": 0.35
+  },
+  "C-0452": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Flash frequency the LED stop lamp must support.",
+   "section_score": 0.35
+  },
+  "C-0453": {
+   "score": 0.25,
+   "duplicate_of": null,
+   "reason": "Independence of the ESS from other lamps.",
+   "section_score": 0.35
+  },
+  "C-0454": {
+   "score": 0.15,
+   "duplicate_of": null,
+   "reason": "Vehicle logic.",
+   "section_score": 0.35
+  },
+  "C-0455": {
+   "score": 0.15,
+   "duplicate_of": null,
+   "reason": "Vehicle logic.",
+   "section_score": 0.35
+  },
+  "C-0456": {
+   "score": 0.15,
+   "duplicate_of": null,
+   "reason": "Vehicle logic.",
+   "section_score": 0.35
+  },
+  "C-0466": {
+   "score": 0.2,
+   "duplicate_of": null,
+   "reason": "CoP general statement.",
+   "section_score": 0.2
+  },
+  "C-0467": {
+   "score": 0.4,
+   "duplicate_of": null,
+   "reason": "Transparency rule for an apparent surface bounded by another function.",
+   "section_score": 0.4
+  },
+  "C-0469": {
+   "score": 0.3,
+   "duplicate_of": null,
+   "reason": "Zone definition.",
+   "section_score": 0.3
+  }
+ }
+}

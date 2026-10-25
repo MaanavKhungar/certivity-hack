@@ -39,10 +39,17 @@ What counts as a requirement:
 - For prescribed tests, keep what the product must withstand and achieve: the exposure or stress applied to the
   product (e.g. the test atmosphere or solution it is exposed to, with its temperature and duration), the conditions
   that define what is measured (which surface or area counts, the illuminant and angles for a measurement), and the
-  pass criteria after the test.
+  pass criteria after the test. An exposure stays a requirement even when the same paragraph also describes the
+  apparatus: "the samples shall be exposed according to standard X using the parameters of Table Y for N hours" is
+  the stress the product must withstand; write it with its standard, parameters (from the table) and duration.
 - Design options with a condition ("if the device has / is marked / is combined with X, it shall ...") are
   requirements: the engineer decides whether the condition applies. Keep them.
 - Approval marking: the content, placement, size, legibility and format of the marks on the product are requirements.
+- Permissions, exemptions and relaxations that apply to the product are requirements too: "X may be ...", "X is
+  permitted / allowed provided that ...", "notwithstanding paragraph N, ...", "the requirement of N does not apply
+  if ...", a permitted variation or a reduced field. Write them with their condition ("X may ... provided that ...").
+- Provisions for optional devices of the product's kind ("where optional lamps are installed, ...") are requirements:
+  each condition they set (position, height, distance, angles) is its own requirement.
 
 What does not count:
 - Obligations on the approval authority, the Contracting Parties or the technical service; application paperwork,
@@ -66,11 +73,28 @@ What does not count:
 How to write them:
 - One obligation per requirement. Each "shall" (or "must") clause is its own requirement, also when two clauses
   share a sentence joined by "and" or a semicolon. Write several requirements with the same node_id.
+- Granularity, SPLIT into separate requirements when the values or conditions differ: each frequency band, pulse,
+  test level or severity with its own value; each supply voltage (12 V / 24 V) or device category with its own value;
+  each direction (horizontal angle / vertical angle); each different property constrained for the same object
+  (e.g. the kind of an element and the number of elements); each separate indicator, tell-tale or signal; each
+  classification or status criterion stated for a different test. A limit that is constant over one range and
+  varies over another is two requirements.
+- Granularity, KEEP TOGETHER in one requirement: several attributes of one property in one clause ("clearly legible
+  and indelible", "not rough and without protuberances"); the checks of one test at several times or stages
+  ("after 1 min and after 10 min"); an obligation together with its own exception or proviso stated in the same
+  paragraph ("shall meet Table N, except that ... may be ..."); one obligation that covers both sides of an "and/or".
+- Cite the paragraph in which the obligation itself is stated (the deepest one), not its parent heading or the
+  paragraph that only announces a test.
 - Stay close to the regulation's wording; make each requirement understandable on its own (name the subject instead
   of "it", keep conditions such as "when tested according to ...").
 - When a paragraph sets a limit by reference to a table: write the paragraph's own obligation as one requirement
-  (table null), and the table's values that apply to the product as one further requirement (table set), listing all
-  applicable values in it. Write any further "shall" sentence stated around the table separately.
+  (table null), then the table's values that apply to the product (table set):
+  - if the table gives ONE limit of one quantity over a measuring grid (angles, measuring points, zones of one
+    function), write ONE requirement listing all applicable values;
+  - if its rows are DIFFERENT tests or test conditions (pulse types, test methods, frequency bands or severities
+    each with their own level, duration or pass criterion), write ONE requirement PER ROW, each stating the row's
+    test, its values and its criterion.
+  Write any further "shall" sentence stated around the table separately.
 - If the requirement comes from a table, set "table" to the table name (e.g. "3" or "A6-1"), else null.
 - Cite the node_id of the paragraph the obligation is stated in. Never invent node ids.
 - If nothing in the section applies to the product, return an empty list."""
