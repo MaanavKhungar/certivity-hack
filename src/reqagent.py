@@ -115,12 +115,12 @@ SCHEMA = {
 
 # --------------------------------------------------------------------------------------------- data --------------
 def load_env():
-    env = REPO / ".env"
-    if env.exists():
-        for line in env.read_text().splitlines():
-            if "=" in line and not line.lstrip().startswith("#"):
-                k, v = line.split("=", 1)
-                os.environ.setdefault(k.strip(), v.strip().strip('"'))
+    for env in (REPO / ".env", REPO.parent / ".env"):    # repo-local, or one level up (outside the repo)
+        if env.exists():
+            for line in env.read_text().splitlines():
+                if "=" in line and not line.lstrip().startswith("#"):
+                    k, v = line.split("=", 1)
+                    os.environ.setdefault(k.strip(), v.strip().strip('"'))
     if not os.environ.get("ANTHROPIC_API_KEY") and os.environ.get("ANTHROPIC_KEY"):
         os.environ["ANTHROPIC_API_KEY"] = os.environ["ANTHROPIC_KEY"]
 
