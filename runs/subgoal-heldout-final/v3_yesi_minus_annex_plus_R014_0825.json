@@ -1,0 +1,671 @@
+{
+ "team_id": "team-05",
+ "case_id": "subgoal-heldout",
+ "changes": [
+  {
+   "requirement_id": "R-013",
+   "change": "modified",
+   "new_text": "If the DCAS identifies that the system or feature boundary is exceeded, then the DCAS or the applicable feature shall leave the ‘active’ mode, with the exception of the driver unavailability response.",
+   "reason": "Paragraph 5.3.5.1 of UN R171 was amended in version 2.0.0: 'it' became 'the system or the applicable feature'; 'transition into ‘standby’ mode' became 'leave the ‘active’ mode, with the exception of the driver unavailability response,'.",
+   "source": {
+    "page": 9,
+    "paragraph": "5.3.5.1"
+   }
+  },
+  {
+   "requirement_id": "R-021",
+   "change": "modified",
+   "new_text": "When the driver is not deemed to be disengaged (as specified in paragraphs 5.5.4.2.4. and 5.5.4.2.5.) for more than 2 seconds immediately prior to its start, and (a) has commanded the system to perform the manoeuvre for a driver-initiated manoeuvre; or (b) has acknowledged the system’s intention as needed for a driver-confirmed manoeuvre; or (c) is given sufficient notice to react for a system-initiated manoeuvre, the system shall initiate a manoeuvre, except that motoric disengagement may not be considered when HORs are being withheld by the system.",
+   "reason": "Paragraph 5.3.7.2.1.1 of UN R171 was amended in version 2.0.0: 'detected' became 'deemed'; 'disengaged,' became 'disengaged (as specified in paragraphs 5.5.4.2.4.'; '5.5.4.2.5.) for more than 2 seconds immediately prior to its start, and:' was added; 'has' became 'Has'; 'has' became 'Has'; 'is' became 'Is'.",
+   "source": {
+    "page": 11,
+    "paragraph": "5.3.7.2.1.1"
+   }
+  },
+  {
+   "requirement_id": "R-025",
+   "change": "removed",
+   "reason": "Paragraph 5.3.7.2.4.2 of UN R171 was amended in version 2.0.0; the provision 'A manoeuvre shall not be initiated if system has presented an EOR to the driver in the 7 seconds lea…' no longer appears."
+  },
+  {
+   "requirement_id": "R-026",
+   "change": "modified",
+   "new_text": "The system shall implement the strategies to ensure appropriate driver engagement prior to the initiation of the manoeuvre.",
+   "reason": "Paragraph 5.3.7.2.4.2 (formerly 5.3.7.2.4.2.1) of UN R171 was amended in version 2.0.0: 'In addition, further' became 'The'.",
+   "source": {
+    "page": 12,
+    "paragraph": "5.3.7.2.4.2"
+   }
+  },
+  {
+   "requirement_id": "R-027",
+   "change": "modified",
+   "new_text": "The strategies implemented to ensure appropriate driver engagement prior to the initiation of the manoeuvre shall be documented and explained.",
+   "reason": "Paragraph 5.3.7.2.4.2 (formerly 5.3.7.2.4.2.1) of UN R171 was amended in version 2.0.0: 'In addition, further' became 'The'.",
+   "source": {
+    "page": 12,
+    "paragraph": "5.3.7.2.4.2"
+   }
+  },
+  {
+   "requirement_id": "R-028",
+   "change": "modified",
+   "new_text": "When the driver is detected to be disengaged during a manoeuvre, the manufacturer shall describe in the safety concept the system behaviour (e.g., aborting the manoeuvre, fully executing a manoeuvre, bringing the vehicle to a safe stop).",
+   "reason": "Paragraph 5.3.7.2.1.13 (formerly 5.3.7.2.4.3) of UN R171 was amended in version 2.0.0: 'also' was removed; 'initiation of a risk mitigation function, full execution of' became 'aborting'; 'stop' became 'fully executing a manoeuvre, bringing'; 'vehicle).' became 'vehicle to a safe stop).'.",
+   "source": {
+    "page": 11,
+    "paragraph": "5.3.7.2.1.13"
+   }
+  },
+  {
+   "requirement_id": "R-036",
+   "change": "removed",
+   "reason": "Paragraph 5.3.7.2.4.10 of UN R171 was amended in version 2.0.0; the provision 'The system shall only initiate a manoeuvre if the vehicle is located on a highway (including highway…' no longer appears."
+  },
+  {
+   "requirement_id": "R-041",
+   "change": "modified",
+   "new_text": "While in highway or highway-like road operation, the system shall aim to respond to work zones, lane reductions, lane closures, toll stations and end of highways (e.g., by notifying the driver, issuing a DCA, or continuing operation if capable).",
+   "reason": "Paragraph 5.3.7.2.5.3.1 of UN R171 was amended in version 2.0.0: 'or highway-like road' was added.",
+   "source": {
+    "page": 13,
+    "paragraph": "5.3.7.2.5.3.1"
+   }
+  },
+  {
+   "requirement_id": "R-043",
+   "change": "modified",
+   "new_text": "The system’s driver unavailability response shall comply with the technical requirements and transitional provisions of the 04 or later series of amendments to UN Regulation No. 79 with respect to the Risk Mitigation Function (RMF).",
+   "reason": "Paragraph 5.3.7.3.1 of UN R171 was amended in version 2.0.0: 'system' became 'system’s driver unavailability response'.",
+   "source": {
+    "page": 14,
+    "paragraph": "5.3.7.3.1"
+   }
+  },
+  {
+   "requirement_id": "R-044",
+   "change": "modified",
+   "new_text": "When the driver has been determined to be unavailable following a driver disengagement warning escalation sequence as defined in paragraph 5.5.4.2.6., the system shall come to a safe stop in accordance with the RMF requirements.",
+   "reason": "Paragraph 5.3.7.3.1 of UN R171 was amended in version 2.0.0: 'appropriately activate the Risk Mitigation Function in order to' was removed; 'stop.' became 'stop in accordance with the RMF requirements.'.",
+   "source": {
+    "page": 14,
+    "paragraph": "5.3.7.3.1"
+   }
+  },
+  {
+   "requirement_id": "R-045",
+   "change": "modified",
+   "new_text": "Where the system is equipped with a driver-confirmed or system-initiated lane change feature, the system shall be capable of performing lane changes during the driver unavailability response, in compliance with the technical requirements for RMF capable of bringing the vehicle to a safe stop outside its own lane of travel of the 04 or later series of amendments to UN Regulation No. 79, during an intervention on a highway to bring the vehicle towards a target stop area in a slower or emergency lane.",
+   "reason": "Paragraph 5.3.7.3.3 of UN R171 was amended in version 2.0.0: 'RMF' became 'system'; 'changes,' became 'changes during the driver unavailability response,'; 'systems with the purpose' became 'RMF capable'.",
+   "source": {
+    "page": 14,
+    "paragraph": "5.3.7.3.3"
+   }
+  },
+  {
+   "requirement_id": "R-064",
+   "change": "modified",
+   "new_text": "The system shall aim to provide the visual information at least 3 seconds ahead of the initiation of a relevant intended manoeuvre or with sufficient notice to allow the driver to comprehend the manoeuvre and the traffic situation, taking into account the complexity of the manoeuvre and amount of other road users present.",
+   "reason": "Paragraph 5.5.4.1.9.2 of UN R171 was amended in version 2.0.0: 'the visual' was added; 'at least 3 seconds' was added; 'or' was added.",
+   "source": {
+    "page": 20,
+    "paragraph": "5.5.4.1.9.2"
+   }
+  },
+  {
+   "requirement_id": "R-066",
+   "change": "removed",
+   "reason": "Paragraph 5.5.4.1.9.2 of UN R171 was amended in version 2.0.0; the provision 'In addition, the initiation of a lane change procedure shall be announced by another modality unless…' no longer appears."
+  },
+  {
+   "requirement_id": "R-072",
+   "change": "modified",
+   "new_text": "For the purpose of the assessment of visual disengagement, the dashboard and instrument panel may be considered as a driving task relevant area only while manoeuvre relevant information (as detailed in paragraph 5.5.4.1.8.1. or 5.5.4.1.9.4.) is displayed for a maximum duration of 3 seconds.",
+   "reason": "Paragraph 5.5.4.2.5.2 of UN R171 was amended in version 2.0.0: 'shall not' became 'may'; 'area.' became 'area only while manoeuvre relevant information (as detailed in paragraph 5.5.4.1.8.1. or 5.5.4.1.9.4.) is displayed for a maximum duration of 3 seconds.'.",
+   "source": {
+    "page": 21,
+    "paragraph": "5.5.4.2.5.2"
+   }
+  },
+  {
+   "requirement_id": "R-073",
+   "change": "modified",
+   "new_text": "When either eye gaze or head posture are re-directed towards any currently driving task relevant area with the exception of the dashboard and the instrument panel for a sufficient duration depending on the situation, the system shall deem the driver to be visually reengaged following an aversion of eye gaze or head posture.",
+   "reason": "Paragraph 5.5.4.2.5.2.1 of UN R171 was amended in version 2.0.0: 'engaged or' was removed; 'posture' became 'posture,'; 'with the exception of the dashboard and the instrument panel' was added.",
+   "source": {
+    "page": 21,
+    "paragraph": "5.5.4.2.5.2.1"
+   }
+  },
+  {
+   "requirement_id": "R-077",
+   "change": "modified",
+   "new_text": "The manufacturer shall describe in detail, as part of the documentation required for section 9, the boundary conditions under which Hands-On Requests (HORs) can be withheld when the vehicle is located on a “Highway” or a “Highway-like” road and is operated at a speed up to 130 km/h, as outlined in paragraph 5.3.5.2.",
+   "reason": "Paragraph 5.5.4.2.6.5 of UN R171 was amended in version 2.0.0: 'or a “Highway-like” road' was added.",
+   "source": {
+    "page": 22,
+    "paragraph": "5.5.4.2.6.5"
+   }
+  },
+  {
+   "requirement_id": "R-081",
+   "change": "modified",
+   "new_text": "When no driver input has been determined over prolonged periods (e.g. through a negative determination of driver drowsiness or assessment of changes in gaze direction), the driver state monitoring system shall have strategies to assess whether the driver is disengaged.",
+   "reason": "Paragraph 5.5.4.2.7.1 (formerly 5.5.4.2.7) of UN R171 was amended in version 2.0.0: 'be equipped with' became 'have'; 'drowsiness),' became 'drowsiness or assessment of changes in gaze direction),'.",
+   "source": {
+    "page": 24,
+    "paragraph": "5.5.4.2.7.1"
+   }
+  },
+  {
+   "requirement_id": "R-082",
+   "change": "modified",
+   "new_text": "When no driver input has been determined over prolonged periods (e.g. through a negative determination of driver drowsiness or assessment of changes in gaze direction), the driver state monitoring system shall implement appropriate countermeasures.",
+   "reason": "Paragraph 5.5.4.2.7.1 (formerly 5.5.4.2.7) of UN R171 was amended in version 2.0.0: 'be equipped with' became 'have'; 'drowsiness),' became 'drowsiness or assessment of changes in gaze direction),'.",
+   "source": {
+    "page": 24,
+    "paragraph": "5.5.4.2.7.1"
+   }
+  },
+  {
+   "requirement_id": "R-084",
+   "change": "modified",
+   "new_text": "When the system is disabled due to insufficient engagement by the driver, the system shall only be reenabled after the driver has confirmed by a deliberate action their understanding of their responsibilities and appropriate use of the system.",
+   "reason": "Paragraph 5.5.4.2.8.4 of UN R171 was amended in version 2.0.0: 'at the latest upon the deactivation of the powertrain,' was removed; 'request that' became 'only be reenabled after'; 'reads' became 'has confirmed by a deliberate action their understanding of their responsibilities and appropriate use of'; 'driver information material as outlined in paragraph 5.6.' became 'system.'.",
+   "source": {
+    "page": 24,
+    "paragraph": "5.5.4.2.8.4"
+   }
+  },
+  {
+   "requirement_id": "R-089",
+   "change": "modified",
+   "new_text": "When there is an approaching vehicle, the DCAS system shall be designed to not make an approaching vehicle decelerate at a higher level than 3.0 m/s² in order to ensure that the distance between the two vehicles is never less than that which the DCAS vehicle travels in 1 second. At speeds up to 60 km/h the system may deviate from this assessment.",
+   "reason": "Paragraph 6.2.4.1 of UN R171 was amended in version 2.0.0: 'At speeds up to 60 km/h the system may deviate from this assessment.' was added.",
+   "source": {
+    "page": 26,
+    "paragraph": "6.2.4.1"
+   }
+  },
+  {
+   "requirement_id": "R-090",
+   "change": "modified",
+   "new_text": "The DCAS shall perform the assessment of the approaching vehicle's deceleration with the assumptions that the approaching vehicle begins its deceleration 1.4 seconds after the system starts the lateral movement of the lane change procedure. At speeds up to 60 km/h the system may deviate from this assessment.",
+   "reason": "Paragraph 6.2.4.1 of UN R171 was amended in version 2.0.0: 'At speeds up to 60 km/h the system may deviate from this assessment.' was added.",
+   "source": {
+    "page": 26,
+    "paragraph": "6.2.4.1"
+   }
+  },
+  {
+   "requirement_id": "R-091",
+   "change": "modified",
+   "new_text": "The assessment of the approaching vehicle's deceleration shall be performed with the assumptions that the approaching vehicle begins its deceleration either: (i) 0.4 seconds after the system starts the lane change manoeuvre, provided that the approaching vehicle was detected by the DCAS vehicle for a duration of at least 1.0 seconds immediately before the lane change manoeuvre starts; or (ii) 1.4 seconds after the system starts the lane change manoeuvre. At speeds up to 60 km/h the system may deviate from this assessment.",
+   "reason": "Paragraph 6.2.4.1 of UN R171 was amended in version 2.0.0: 'At speeds up to 60 km/h the system may deviate from this assessment.' was added.",
+   "source": {
+    "page": 26,
+    "paragraph": "6.2.4.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "DCAS shall be switched to 'OFF' mode upon activation of an ADS feature.",
+   "reason": "Paragraph 5.2.3 of UN R171 is new in version 2.0.0: 'DCAS shall be switched to 'OFF' mode upon activation of an ADS feature, and shall not be able to be …'.",
+   "source": {
+    "page": 8,
+    "paragraph": "5.2.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "DCAS shall not be able to be switched to 'ON' mode whilst an ADS feature is active.",
+   "reason": "Paragraph 5.2.3 of UN R171 is new in version 2.0.0: 'DCAS shall be switched to 'OFF' mode upon activation of an ADS feature, and shall not be able to be …'.",
+   "source": {
+    "page": 8,
+    "paragraph": "5.2.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "If the driver is detected to be disengaged while the system or feature boundary is detected to be exceeded, the DCAS shall continue providing lateral and longitudinal assistance to the extent possible or terminate assistance gradually in a controllable way, as outlined in the safety concept of the vehicle manufacturer.",
+   "reason": "Paragraph 5.3.5.1 of UN R171 is new in version 2.0.0: 'If the driver is detected to be disengaged while the system or feature boundary is detected to be ex…'.",
+   "source": {
+    "page": 9,
+    "paragraph": "5.3.5.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "If the driver is detected to be disengaged while the system or feature boundary is detected to be exceeded, the driver state monitoring system shall continue to monitor driver disengagement until the driver is motorically and visually reengaged.",
+   "reason": "Paragraph 5.3.5.1 of UN R171 is new in version 2.0.0: 'The driver state monitoring system shall continue to monitor driver disengagement until the driver i…'.",
+   "source": {
+    "page": 9,
+    "paragraph": "5.3.5.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "If the driver remains disengaged, the DCAS shall initiate a driver unavailability response at the latest 10 seconds after the DCAS has detected to be beyond a system boundary.",
+   "reason": "Paragraph 5.3.5.1 of UN R171 is new in version 2.0.0: 'The system shall initiate a driver unavailability response at the latest 10 seconds after it has det…'.",
+   "source": {
+    "page": 9,
+    "paragraph": "5.3.5.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "If a DCA is given while performing a system-initiated manoeuvre, the manufacturer shall consider the time required for the driver to direct their gaze to appropriate driving task relevant area(s) after the DCA is given in order to control the vehicle in the current situation when responding to this DCA.",
+   "reason": "Paragraph 5.3.6.1.2 of UN R171 is new in version 2.0.0: 'If a DCA is given while performing a system-initiated manoeuvre, the manufacturer shall consider the…'.",
+   "source": {
+    "page": 10,
+    "paragraph": "5.3.6.1.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "If the DCA is given during a system-initiated manoeuvre whilst withholding HORs, the time required for the driver to direct their gaze to appropriate driving task relevant area(s) shall be considered in addition to the time required by paragraph 5.3.6.1.1.",
+   "reason": "Paragraph 5.3.6.1.2 of UN R171 is new in version 2.0.0: 'If the DCA is given whilst withholding HORs, this time shall be considered in addition to the time r…'.",
+   "source": {
+    "page": 10,
+    "paragraph": "5.3.6.1.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The manufacturer shall explain to the Type Approval Authority the strategies and the timing with which the assistance is to be provided to the driver until the DCA is confirmed.",
+   "reason": "Paragraph 5.3.6.1.2 of UN R171 is new in version 2.0.0: 'The manufacturer shall explain to the Type Approval Authority the strategies and the timing with whi…'.",
+   "source": {
+    "page": 10,
+    "paragraph": "5.3.6.1.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Notwithstanding the provisions of paragraph 5.3.7.2.1.1, a system-initiated manoeuvre may be initiated when it is considered to mitigate the risk of an imminent collision.",
+   "reason": "Paragraph 5.3.7.2.4.10 of UN R171 is new in version 2.0.0: 'Notwithstanding the provisions of paragraph 5.3.7.2.1.1. a system-initiated manoeuvre may be initiat…'.",
+   "source": {
+    "page": 13,
+    "paragraph": "5.3.7.2.4.10"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Following completion of a system-initiated manoeuvre initiated to mitigate the risk of an imminent collision and once the situation is controllable for the driver, a DCA shall be given.",
+   "reason": "Paragraph 5.3.7.2.4.10 of UN R171 is new in version 2.0.0: 'Following completion of the manoeuvre and once the situation is controllable for the driver a DCA sh…'.",
+   "source": {
+    "page": 13,
+    "paragraph": "5.3.7.2.4.10"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Following a system-initiated manoeuvre initiated to mitigate the risk of an imminent collision, the system shall be disabled according to paragraph 5.5.4.2.8.",
+   "reason": "Paragraph 5.3.7.2.4.10 of UN R171 is new in version 2.0.0: 'The system shall be disabled according to paragraph 5.5.4.2.8.'.",
+   "source": {
+    "page": 13,
+    "paragraph": "5.3.7.2.4.10"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Where the system-initiated manoeuvre is performed according to paragraph 5.3.7.2.4.10, the circumstances as to when this happens shall be described and justified to the Type Approval Authority.",
+   "reason": "Paragraph 5.3.7.2.4.11 of UN R171 is new in version 2.0.0: 'Where the system-initiated manoeuvre is performed according to paragraph 5.3.7.2.4.10 the circumstan…'.",
+   "source": {
+    "page": 13,
+    "paragraph": "5.3.7.2.4.11"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Where the system-initiated manoeuvre is performed according to paragraph 5.3.7.2.4.10, the circumstances as to when this happens shall be assessed according to Annex 3.",
+   "reason": "Paragraph 5.3.7.2.4.11 of UN R171 is new in version 2.0.0: 'Where the system-initiated manoeuvre is performed according to paragraph 5.3.7.2.4.10 the circumstan…'.",
+   "source": {
+    "page": 13,
+    "paragraph": "5.3.7.2.4.11"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Where extended testing in Annex 4 includes different vehicle under test (VUT) speeds, the extended testing shall cover the maximum operating speed in the applicable test scenarios.",
+   "reason": "Paragraph 5.3.7.2.6.1 of UN R171 is new in version 2.0.0: 'Where extended testing in Annex 4 includes different vehicle under test (VUT) speeds, this shall cov…'.",
+   "source": {
+    "page": 14,
+    "paragraph": "5.3.7.2.6.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "A system-initiated manoeuvre may be performed at any time as part of the driver unavailability response in order to mitigate risk irrespective of the disengagement of the driver or warnings given.",
+   "reason": "Paragraph 5.3.7.3.4 of UN R171 is new in version 2.0.0: 'A system-initiated manoeuvre may be performed at any time as part of the driver unavailability respo…'.",
+   "source": {
+    "page": 14,
+    "paragraph": "5.3.7.3.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "A system-initiated manoeuvre as part of the driver unavailability response shall only happen after driver reengagement strategies have failed or if there is an imminent risk of collision.",
+   "reason": "Paragraph 5.3.7.3.4 of UN R171 is new in version 2.0.0: 'This shall only happen after driver reengagement strategies have failed or if there is an imminent r…'.",
+   "source": {
+    "page": 14,
+    "paragraph": "5.3.7.3.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The circumstances as to when a system-initiated manoeuvre happens as part of the driver unavailability response shall be described and justified to the Type Approval Authority.",
+   "reason": "Paragraph 5.3.7.3.4 of UN R171 is new in version 2.0.0: 'The circumstances as to when this happens shall be described and justified to the Type Approval Auth…'.",
+   "source": {
+    "page": 14,
+    "paragraph": "5.3.7.3.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The system shall inform or warn the driver about the basis for the system being disabled due to insufficient engagement.",
+   "reason": "Paragraph 5.5.4.1.1 of UN R171 is new in version 2.0.0: '(h) The basis for the system being disabled due to insufficient engagement;'.",
+   "source": {
+    "page": 19,
+    "paragraph": "5.5.4.1.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The system shall inform or warn the driver about the basis for why a DCA has been issued if not addressed by points (a) to (h) of paragraph 5.5.4.1.1 or if it follows an engagement request escalation.",
+   "reason": "Paragraph 5.5.4.1.1 of UN R171 is new in version 2.0.0: '(i) The basis for why a DCA has been issued if not addressed by the points above or if it follows an…'.",
+   "source": {
+    "page": 19,
+    "paragraph": "5.5.4.1.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Where the notice of the visual information about a relevant intended manoeuvre is less than 3 seconds ahead of initiation, the manufacturer shall provide evidence to the satisfaction of the Type Approval Authority that the timing at which this information is provided ensures an appropriate driver response and the strategies employed ensure the drivers notice the information without undue delay.",
+   "reason": "Paragraph 5.5.4.1.9.2 of UN R171 is new in version 2.0.0: 'Where the notice is less than 3 seconds ahead of initiation, the manufacturer shall provide evidence…'.",
+   "source": {
+    "page": 20,
+    "paragraph": "5.5.4.1.9.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The system shall offer the driver the possibility to visualize at least a representation of the intended manoeuvre.",
+   "reason": "Paragraph 5.5.4.1.9.4 of UN R171 is new in version 2.0.0: 'The system shall offer the driver the possibility to visualize at least a representation of the inte…'.",
+   "source": {
+    "page": 20,
+    "paragraph": "5.5.4.1.9.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The visualization of the intended manoeuvre offered to the driver shall aim to not cause unnecessary distraction to the driver.",
+   "reason": "Paragraph 5.5.4.1.9.4 of UN R171 is new in version 2.0.0: 'This visualization shall aim to not cause unnecessary distraction to the driver.'.",
+   "source": {
+    "page": 20,
+    "paragraph": "5.5.4.1.9.4"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The Emergency Off-Road (EOR) warning time shall not be extended with the time the driver's gaze is directed towards the dashboard or instrument panel.",
+   "reason": "Paragraph 5.5.4.2.5.2 of UN R171 is new in version 2.0.0: 'The EOR warning time shall not be extended with the time the drivers gaze is directed towards the da…'.",
+   "source": {
+    "page": 21,
+    "paragraph": "5.5.4.2.5.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "When the system is capable of withholding of Hands-On Requests (HORs) on highway-like roads, the system shall aim to avoid frequent fluctuations between being able and not able to withhold HORs (e.g., not operating on discontinuous sections of highway-like roads).",
+   "reason": "Paragraph 5.5.4.2.6.5 of UN R171 is new in version 2.0.0: 'When the system is capable of withholding of HORs on highway-like roads it shall aim to avoid freque…'.",
+   "source": {
+    "page": 22,
+    "paragraph": "5.5.4.2.6.5"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The manufacturer shall document such alternative strategies for ensuring an equivalent duration of being able to withhold HORs and demonstrate them to the satisfaction of the Type Approval Authority.",
+   "reason": "Paragraph 5.5.4.2.6.5 of UN R171 is new in version 2.0.0: 'The manufacturer shall document such strategies and demonstrate them to the satisfaction of the Type…'.",
+   "source": {
+    "page": 22,
+    "paragraph": "5.5.4.2.6.5"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "When the system is capable of withholding of HORs on highway-like roads, the manufacturer shall demonstrate the system’s ability to safely operate in the presence of cyclists.",
+   "reason": "Paragraph 5.5.4.2.6.5 of UN R171 is new in version 2.0.0: '(b) The manufacturer shall demonstrate the system’s ability to safely operate in the presence of cyc…'.",
+   "source": {
+    "page": 23,
+    "paragraph": "5.5.4.2.6.5"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The system’s ability to safely operate in the presence of cyclists shall be demonstrated by avoidance of a collision with a longitudinally travelling cyclist ahead in lane as outlined in Annex 4, paragraph 4.2.5.2.16., taking into account the robustness criteria outlined in Appendix 4 of Annex 3.",
+   "reason": "Paragraph 5.5.4.2.6.5 of UN R171 is new in version 2.0.0: 'This shall be demonstrated by avoidance of a collision with a longitudinally travelling cyclist ahea…'.",
+   "source": {
+    "page": 23,
+    "paragraph": "5.5.4.2.6.5"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "When the system is capable of withholding of HORs on highway-like roads and the end of a highway-like road is expected to require a manoeuvre controlled by the driver, an HOR shall aim to be given at least 7 seconds prior the necessary manoeuvre needs to start.",
+   "reason": "Paragraph 5.5.4.2.6.5 of UN R171 is new in version 2.0.0: '(c) When the end of a highway-like road is expected to require a manoeuvre controlled by the driver …'.",
+   "source": {
+    "page": 23,
+    "paragraph": "5.5.4.2.6.5"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The system shall aim to determine whether or not the driver is in an appropriate position to operate the vehicle controls.",
+   "reason": "Paragraph 5.5.4.2.6.5.7.1 of UN R171 is new in version 2.0.0: 'The system shall aim to determine whether or not the driver is in an appropriate position to operate…'.",
+   "source": {
+    "page": 23,
+    "paragraph": "5.5.4.2.6.5.7.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The strategy employed for classification and detection of whether or not the driver is in an appropriate position to operate the vehicle controls shall be documented by the manufacturer and assessed by the Type Approval Authority.",
+   "reason": "Paragraph 5.5.4.2.6.5.7.1 of UN R171 is new in version 2.0.0: 'The strategy employed for classification and detection of such positions shall be documented by the …'.",
+   "source": {
+    "page": 23,
+    "paragraph": "5.5.4.2.6.5.7.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "If the driver is deemed, as per the strategy, not to be in an appropriate position to operate the vehicle controls for 10 seconds, a Hands-Off Request (HOR) shall be given.",
+   "reason": "Paragraph 5.5.4.2.6.5.7.2 of UN R171 is new in version 2.0.0: 'If the driver is deemed, as per the strategy, not to be in an appropriate position to operate the ve…'.",
+   "source": {
+    "page": 23,
+    "paragraph": "5.5.4.2.6.5.7.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Following such a hands-on request (HOR), the system may continue to perform system-initiated manoeuvres.",
+   "reason": "Paragraph 5.5.4.2.6.5.7.3 of UN R171 is new in version 2.0.0: 'Following such an HOR, the system may continue to perform system-initiated manoeuvres but shall only…'.",
+   "source": {
+    "page": 24,
+    "paragraph": "5.5.4.2.6.5.7.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "Following such a hands-on request (HOR), the system shall only resume operating while withholding HORs once the driver has been deemed, as per the strategy, to be in an appropriate position to operate the vehicle controls and not to be motorically disengaged for at least 30 seconds.",
+   "reason": "Paragraph 5.5.4.2.6.5.7.3 of UN R171 is new in version 2.0.0: 'Following such an HOR, the system may continue to perform system-initiated manoeuvres but shall only…'.",
+   "source": {
+    "page": 24,
+    "paragraph": "5.5.4.2.6.5.7.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The driver shall be informed of the basis for why the system will not resume withholding hands-on requests (HORs).",
+   "reason": "Paragraph 5.5.4.2.6.5.7.3 of UN R171 is new in version 2.0.0: 'The driver shall be informed of the basis for why the system will not resume withholding HORs.'.",
+   "source": {
+    "page": 24,
+    "paragraph": "5.5.4.2.6.5.7.3"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "During phases of operation where the system is able to perform system-initiated manoeuvres, the driver state monitoring system shall have additional strategies to assess behaviours which indicate that the driver is consistently engaged with the driving task by assessing the determination of drowsiness.",
+   "reason": "Paragraph 5.5.4.2.7.2 of UN R171 is new in version 2.0.0: 'During phases of operation where the system is able to perform system-initiated manoeuvres, the driv…'.",
+   "source": {
+    "page": 24,
+    "paragraph": "5.5.4.2.7.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "During phases of operation where the system is able to perform system-initiated manoeuvres, the driver state monitoring system shall have additional strategies to assess behaviours which indicate that the driver is consistently engaged with the driving task by assessing that the driver performs changes in eye gaze with a frequency and/or direction appropriate to the current vehicle traffic environment and upcoming manoeuvres, and that these behaviours do not degrade over time.",
+   "reason": "Paragraph 5.5.4.2.7.2 of UN R171 is new in version 2.0.0: 'During phases of operation where the system is able to perform system-initiated manoeuvres, the driv…'.",
+   "source": {
+    "page": 24,
+    "paragraph": "5.5.4.2.7.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "If the behaviours of the driver do not indicate consistent engagement with the driving task, then system-initiated manoeuvres other than those in situation of imminent collision risk shall not be initiated.",
+   "reason": "Paragraph 5.5.4.2.7.2 of UN R171 is new in version 2.0.0: 'If the behaviours of the driver do not indicate consistent engagement with the driving task, then sy…'.",
+   "source": {
+    "page": 24,
+    "paragraph": "5.5.4.2.7.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "If the behaviours of the driver do not indicate consistent engagement with the driving task, then appropriate countermeasures shall be applied as described in the safety concept.",
+   "reason": "Paragraph 5.5.4.2.7.2 of UN R171 is new in version 2.0.0: 'If the behaviours of the driver do not indicate consistent engagement with the driving task, then sy…'.",
+   "source": {
+    "page": 24,
+    "paragraph": "5.5.4.2.7.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The strategies implemented to assess behaviours which indicate that the driver is consistently engaged with the driving task shall be documented by the manufacturer.",
+   "reason": "Paragraph 5.5.4.2.7.2 of UN R171 is new in version 2.0.0: 'The strategies implemented to assess behaviours which indicate that the driver is consistently engag…'.",
+   "source": {
+    "page": 24,
+    "paragraph": "5.5.4.2.7.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The strategies implemented to assess behaviours which indicate that the driver is consistently engaged with the driving task shall be assessed by the Type Approval Authority.",
+   "reason": "Paragraph 5.5.4.2.7.2 of UN R171 is new in version 2.0.0: 'The strategies implemented to assess behaviours which indicate that the driver is consistently engag…'.",
+   "source": {
+    "page": 24,
+    "paragraph": "5.5.4.2.7.2"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "When the driver is detected to have insufficient engagement, the disablement of the system shall happen once the driver has resumed control of the vehicle, or the vehicle has become stationary.",
+   "reason": "Paragraph 5.5.4.2.8.1 of UN R171 is new in version 2.0.0: 'The disablement shall happen once the driver has resumed control of the vehicle, or the vehicle has …'.",
+   "source": {
+    "page": 24,
+    "paragraph": "5.5.4.2.8.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "When the system deviates from the assessment of the approaching vehicle's deceleration at speeds up to 60 km/h, the manufacturer shall explain to the Type Approval Authority the distances and timings for an approaching vehicle under which a lane change manoeuvre can be started.",
+   "reason": "Paragraph 6.2.4.1 of UN R171 is new in version 2.0.0: 'In these cases, the manufacturer shall explain the distances and timings for an approaching vehicle …'.",
+   "source": {
+    "page": 27,
+    "paragraph": "6.2.4.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "When the system deviates from the assessment of the approaching vehicle's deceleration at speeds up to 60 km/h, the manufacturer shall provide evidence of the situations in which a lane change manoeuvre can be started with an approaching vehicle being deemed controllable for other road users.",
+   "reason": "Paragraph 6.2.4.1 of UN R171 is new in version 2.0.0: 'In these cases, the manufacturer shall explain the distances and timings for an approaching vehicle …'.",
+   "source": {
+    "page": 27,
+    "paragraph": "6.2.4.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "The provisions of paragraphs 6.3.2. to 6.3.8. shall equally apply when going straight across an intersection for systems capable of performing a system-initiated left or right turn at that intersection.",
+   "reason": "Paragraph 6.4.1 of UN R171 is new in version 2.0.0: 'The provisions of paragraphs 6.3.2. to 6.3.8. shall equally apply when going straight across an inte…'.",
+   "source": {
+    "page": 29,
+    "paragraph": "6.4.1"
+   }
+  },
+  {
+   "requirement_id": null,
+   "change": "added",
+   "new_text": "In non-highway environments, the system shall only make the vehicle automatically accelerate from standstill if both of the following conditions are fulfilled at the moment of drive off: (a) the driver is not deemed to be visually disengaged as per paragraph 5.5.4.2.5. for more than 2 seconds immediately prior to the drive off; and (b) the system has confirmed there is no risk of collision detected along the drive-off path.",
+   "reason": "Paragraph 6.4.2 of UN R171 is new in version 2.0.0: 'In non-highway environments, the system shall only make the vehicle automatically accelerate from st…'.",
+   "source": {
+    "page": 29,
+    "paragraph": "6.4.2"
+   }
+  },
+  {
+   "requirement_id": "R-014",
+   "change": "modified",
+   "new_text": "If the DCAS identifies that the system or feature boundary is exceeded, then the DCAS or the applicable feature shall immediately notify the driver in accordance to the strategies described by the manufacturer as outlined in paragraph 5.3.5.2. and according to the HMI requirements defined in paragraph 5.5.4.1.",
+   "reason": "Paragraph 5.3.5.1 of UN R171 was amended in version 2.0.0: 'it' became 'the system or the applicable feature'; 'transition into ‘standby’ mode' became 'leave the ‘active’ mode, with the exception of the driver unavailability response,'.",
+   "source": {
+    "page": 9,
+    "paragraph": "5.3.5.1"
+   }
+  }
+ ]
+}

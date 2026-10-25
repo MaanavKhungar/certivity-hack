@@ -302,7 +302,12 @@ def added_keys(A: dict, reqs: list[dict]) -> list[str]:
     """New paragraphs with new text, inside the chapters the old requirement set covers (mapped to the new numbering)."""
     cited = {_old_key(r) for r in reqs}
     scope = {chapter(k) for k in cited}
-    scope |= {chapter(s["match"]["key"]) for s in A["so"] if s["key"] in cited and s["match"] and s["score"] >= LINK}
+    links: dict[str, list[float]] = {}                  # chapter -> scores of old sentences linked into it
+    for s in A["so"]:
+        if s["key"] in cited and s["match"] and s["score"] >= LINK:
+            links.setdefault(chapter(s["match"]["key"]), []).append(s["score"])
+    # one weak link (e.g. a single 77 % match into a new annex) does not make a whole chapter part of the old scope
+    scope |= {ch for ch, sc in links.items() if len(sc) >= 2 or max(sc) >= NOVEL}
     keys = [s["key"] for s in A["sn"] if s["new"] and chapter(s["key"]) in scope]
     return list(dict.fromkeys(keys))
 
