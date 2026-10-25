@@ -21,6 +21,7 @@ from pipeline import call_json, RUNS
 SAME = 97      # a sentence matched at >= SAME is unchanged (only editorial differences)
 NOVEL = 90     # a new sentence whose best old match is below NOVEL is new text
 LINK = 60      # below LINK a match is not a counterpart at all
+NORMATIVE_RE = re.compile(r"\b(?:shall|must|may)\b|\b(?:is|are) not required\b", re.I)
 
 
 # ============================================================ align ===========================================
@@ -40,6 +41,43 @@ def sentences(text: str) -> list[str]:
 def norm(s: str) -> str:
     s = s.casefold().replace("%", " per cent").replace("“", '"').replace("”", '"').replace("’", "'")
     return " ".join(s.split()).rstrip(".;:, ")
+
+
+ORDER_SENSITIVE = {
+    "above", "after", "before", "behind", "below", "between", "except",
+    "fewer", "following", "front", "greater", "less", "more", "not",
+    "only", "preceding", "unless", "until", "without",
+}
+FUNCTION_WORDS = {
+    "a", "an", "and", "as", "at", "be", "both", "by", "during", "for",
+    "from", "in", "is", "of", "on", "or", "shall", "should", "than", "the",
+    "to", "when", "where", "which", "while", "with",
+}
+
+
+def _words(s: str) -> list[str]:
+    return re.findall(r"[a-z0-9]+", norm(s))
+
+
+def pure_reordering_equivalent(a: str, b: str) -> bool:
+    """Conservatively identify editorial word movement without hiding changes.
+
+    Both sides must have exactly the same normalized words and duplicate counts.
+    Order-sensitive regulatory language is excluded, and most content words must
+    retain their relative order. Ambiguous reorderings therefore continue to the
+    existing review path instead of being silently marked unchanged.
+    """
+    wa, wb = _words(a), _words(b)
+    if wa == wb or sorted(wa) != sorted(wb) or ORDER_SENSITIVE.intersection(wa):
+        return wa == wb
+    ca = [w for w in wa if w not in FUNCTION_WORDS]
+    cb = [w for w in wb if w not in FUNCTION_WORDS]
+    if not ca:
+        return False
+    common = sum(i2 - i1 for tag, i1, i2, _j1, _j2 in difflib.SequenceMatcher(
+        None, ca, cb, autojunk=False
+    ).get_opcodes() if tag == "equal")
+    return common / max(len(ca), len(cb)) >= 0.8
 
 
 def _sent_table(nodes) -> list[dict]:
@@ -112,14 +150,20 @@ For EVERY requirement decide:
 - "unchanged": the obligation it states is still in the new version with the same subject, condition and constraint.
   Judge the sentence(s) the requirement comes from, not their surroundings: if those words are the same in substance, it
   is unchanged even when the paragraph was renumbered, moved, split, got a new heading, or now sits in a narrower
-  procedure next to new text. Purely editorial differences do NOT count either: "%" written as "per cent", a
-  cross-reference renumbered, punctuation, capitalisation.
+  procedure next to new text. Moving words or phrases without changing who must do what, under which conditions, is also
+  unchanged. Purely editorial differences do NOT count either: "%" written as "per cent", a cross-reference renumbered,
+  punctuation, capitalisation.
 - "modified": the words of its source sentence(s) changed: a value, a condition, the subject, an added or removed
   condition/list item, a changed procedure step, or even one qualifying word added or dropped ("the target" -> "the
-  relevant target"). Write new_text as a MINIMAL EDIT of the old requirement:
-  copy the old requirement text character for character and change only the words the regulation changed (replace
-  the changed words, insert the added words or list items, delete the removed ones) at the place they occur.
-  Never paraphrase, shorten, reorder or restyle the rest, and never add content the old requirement did not contain
+  relevant target"). First split the old requirement conceptually into independent semantic obligations or constraints.
+  Write new_text for the obligation(s) whose meaning actually changed. Omit an independent sibling constraint when it is
+  unchanged and can be removed without changing the subject, trigger, applicability or meaning of the changed obligation.
+  For example, if one sentence independently specifies both test direction and intervention distance, and only the
+  intervention-distance rule changes, new_text should state the changed intervention-distance rule and need not repeat
+  the unchanged direction rule. Do NOT omit shared conditions or context needed to make the changed obligation accurate.
+  Within the retained obligation, make a MINIMAL EDIT of the old requirement: copy its wording and change only the words
+  the regulation changed (replace changed words, insert added words or list items, delete removed ones).
+  Never add content the old requirement did not contain
   (if the old requirement was cut off mid-list or mid-sentence, end the new one at the last complete item and drop
   the incomplete fragment). new_text has a hard limit of 2000 characters. Only if the edited text would be longer,
   make room by dropping the sub-items of the LONGEST fully unchanged sub-list first (then the next longest, only as
@@ -130,7 +174,8 @@ For EVERY requirement decide:
 Also give old_quote: the exact text of the OLD paragraph the requirement covers (ALL of it, e.g. the whole list when
 the requirement contains a list), and new_quote: the corresponding exact text of the NEW paragraph (null when removed).
 Quote verbatim from the paragraphs shown: code diffs the two quotes to write the reason, so every change must be inside
-them."""
+them. In note, state only material changes to the obligation; do not report harmless grammar, pluralisation, reordered
+wording, or context that was deliberately omitted as an independent unchanged sibling constraint."""
 
 MOD_SCHEMA = {"type": "object", "additionalProperties": False, "required": ["decisions"], "properties": {
     "decisions": {"type": "array", "items": {"type": "object", "additionalProperties": False,
@@ -146,6 +191,13 @@ regulation was published. You get ONE paragraph of the new version in which sent
 the old version (or repeat an old sentence in a new place, e.g. a step reused by a new procedure: that is new here), plus the requirements that already cover this paragraph.
 
 Write the requirements the NEW sentences add, exactly as the existing requirement set would have written them:
+- Preserve the source proposition before improving style. Keep every actor, action, condition, exception, negation,
+  comparator, number, unit, direction and cross-reference. Do not strengthen or weaken deontic force: in particular,
+  do not change "is/are" into "shall", "shall" into "may", or an exception into a positive obligation.
+- Prefer a minimal grammatical transformation of the source sentence. Do not add scene-setting phrases such as
+  "during the test procedure" unless they are required to resolve an otherwise ambiguous subject or condition.
+- A passive source with no explicit actor must remain passive; never invent "the system", "the test system", the
+  manufacturer or the Technical Service as the actor merely to make the requirement active-voice.
 - one obligation per requirement. A sentence is normally ONE requirement, even when it lists alternatives, cases
   (forwards / rearwards), exemption conditions (a) (b), or several attributes of the same thing. Split only (1) the
   steps of a procedure "(a) Position..., (b) Hold..., (c) Release...", one requirement per step, (2) enumerated items
@@ -283,9 +335,14 @@ def _short(s: str, n: int) -> str:
 def build_changes(A: dict, mods: list[dict], adds: list[dict]) -> list[dict]:
     reg, v = A["reg"], A["v_new"]
     out = []
+    modified_quotes: dict[str, list[str]] = {}
     for g in mods:
         for d in g["decisions"]:
             if d["decision"] == "unchanged":
+                continue
+            if (d["decision"] == "modified" and d.get("new_quote") and
+                    pure_reordering_equivalent(d["old_quote"], d["new_quote"])):
+                # Suppress only a conservative reorder-only false positive.
                 continue
             old_lbl = _label(A, g["key"], "old")
             if d["decision"] == "removed":
@@ -302,12 +359,26 @@ def build_changes(A: dict, mods: list[dict], adds: list[dict]) -> list[dict]:
             reason = f"Paragraph {where} of {reg} was amended in version {v}: " + ("; ".join(ops) if ops else d["note"]) + "."
             out.append({"requirement_id": d["requirement_id"], "change": "modified", "new_text": d["new_text"][:2000],
                         "reason": reason, "source": {"page": page_of(A, nk, d["new_quote"]), "paragraph": new_lbl}})
+            modified_quotes.setdefault(nk, []).append(d["new_quote"] or "")
     for a in adds:
         lbl = _label(A, a["key"])
         for x in a["added"]:
+            quote = x["source_quote"]
+            # Procedure steps may inherit "shall" from a lead-in. Block only
+            # an unsupported upgrade from "is/are to be" to invented "shall".
+            if (re.search(r"\b(?:is|are) to be\b", quote, re.I) and
+                    not NORMATIVE_RE.search(quote) and re.search(r"\bshall\b", x["new_text"], re.I)):
+                continue
+            # Avoid emitting an added duplicate already covered by a modified
+            # requirement from the same paragraph.
+            enumerated_items = re.findall(r"\([a-z0-9ivx]{1,4}\)", quote, re.I)
+            if (len(enumerated_items) >= 2 and any(
+                    fuzz.partial_token_set_ratio(quote, q) == 100
+                    for q in modified_quotes.get(a["key"], []))):
+                continue
             out.append({"requirement_id": None, "change": "added", "new_text": x["new_text"][:2000],
-                        "reason": f"Paragraph {lbl} of {reg} is new in version {v}: '{_short(x['source_quote'], 100)}'.",
-                        "source": {"page": page_of(A, a["key"], x["source_quote"]), "paragraph": lbl}})
+                        "reason": f"Paragraph {lbl} of {reg} is new in version {v}: '{_short(quote, 100)}'.",
+                        "source": {"page": page_of(A, a["key"], quote), "paragraph": lbl}})
     return out
 
 
