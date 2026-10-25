@@ -1,0 +1,10 @@
+UN R10 base (7.2.0): 683 nodes, 243,226 chars -> 7 batches (0 oversized), running 7
+  B-004 Annex 1, Annex 2A, Annex 2B, Annex 4, Annex 4 Appe   67 nodes ->   0 reqs
+  B-005 Annex 5, Annex 5 Appendix 1, Annex 6, Annex 6 Appe   61 nodes ->   0 reqs
+  B-003 §14, §15, §16, §17, §18, §19, §20, §21, §22, §23     10 nodes ->   4 reqs
+  B-007 Annex 13, Annex 13 Appendix 1, Annex 15, Annex 15   144 nodes ->  37 reqs
+  B-006 Annex 7, Annex 7 Appendix 1, Annex 8, Annex 9, Ann  119 nodes ->  34 reqs
+  B-001 §0, §1, §2, §3, §4, §5, §6                          148 nodes ->  38 reqs
+  B-002 §7, §8, §9, §10, §11, §12, §13                      134 nodes ->  55 reqs
+C1: 168 requirements, 0 flagged; coverage {'processed': 683, 'failed': 0, 'not_processed': 0}; calls 7 (+0 cached)
+T (2 hops): 636 shared context nodes, 27 requirements with incomplete context, diagnostics ['hop_limit', 'unresolved']

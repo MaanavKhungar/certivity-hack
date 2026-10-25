@@ -1,0 +1,5246 @@
+{
+ "candidates": [
+  {
+   "batch": "B-001",
+   "index_in_response": 0,
+   "text": "The ESA sample(s) submitted for approval shall be clearly and indelibly marked with the manufacturer's trade name or mark.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|3.2.6"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|3.2.6"
+    ],
+    "table": null,
+    "text": "The ESA sample(s) submitted for approval shall be clearly and indelibly marked with the manufacturer's trade name or mark."
+   },
+   "id": "R10-base-0001",
+   "source_node_ids": [
+    "R10|base|3.2.6"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 6,
+    "page_end": 6,
+    "paragraph": "3.2.6"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 1,
+   "text": "The ESA sample(s) submitted for approval shall be clearly and indelibly marked with the type designation.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|3.2.6"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|3.2.6"
+    ],
+    "table": null,
+    "text": "The ESA sample(s) submitted for approval shall be clearly and indelibly marked with the type designation."
+   },
+   "id": "R10-base-0002",
+   "source_node_ids": [
+    "R10|base|3.2.6"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 6,
+    "page_end": 6,
+    "paragraph": "3.2.6"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 2,
+   "text": "An ESA brought to the market as a replacement part does not need a type approval if it is obviously marked as a replacement part by an identification number and if it is identical to, and from the same manufacturer as, the corresponding original equipment.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|3.2.8"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|3.2.8"
+    ],
+    "table": null,
+    "text": "An ESA brought to the market as a replacement part does not need a type approval if it is obviously marked as a replacement part by an identification number and if it is identical to, and from the same manufacturer as, the corresponding original equipment."
+   },
+   "id": "R10-base-0003",
+   "source_node_ids": [
+    "R10|base|3.2.8"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 6,
+    "page_end": 7,
+    "paragraph": "3.2.8"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 3,
+   "text": "An ESA sold as aftermarket equipment for installation in motor vehicles needs no type approval if it is not related to immunity related functions (paragraph 2.12.); in this case the manufacturer shall issue a declaration that the ESA fulfils the requirements of this Regulation and in particular the limits defined in paragraphs 6.5., 6.6., 6.7., 6.8. and 6.9.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|3.2.9"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|3.2.9"
+    ],
+    "table": null,
+    "text": "An ESA sold as aftermarket equipment for installation in motor vehicles needs no type approval if it is not related to immunity related functions (paragraph 2.12.); in this case the manufacturer shall issue a declaration that the ESA fulfils the requirements of this Regulation and in particular the limits defined in paragraphs 6.5., 6.6., 6.7., 6.8. and 6.9."
+   },
+   "id": "R10-base-0004",
+   "source_node_ids": [
+    "R10|base|3.2.9"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "3.2.9"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 4,
+   "text": "If an ESA (e.g. decorative or side signalling lamp electronics) is (part of) a light source, the applicant shall either specify the approval number according to Regulation No. 37, No. 99 or No. 128 granted to this ESA, or provide a test report by a designated Technical Service stating that this ESA is not mechanically interchangeable with any light source according to Regulation No. 37, No. 99 or No. 128; without this documentation approval of the ESA under Regulation No. 10 shall not be granted.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|3.2.10"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|3.2.10"
+    ],
+    "table": null,
+    "text": "If an ESA (e.g. decorative or side signalling lamp electronics) is (part of) a light source, the applicant shall either specify the approval number according to Regulation No. 37, No. 99 or No. 128 granted to this ESA, or provide a test report by a designated Technical Service stating that this ESA is not mechanically interchangeable with any light source according to Regulation No. 37, No. 99 or No. 128; without this documentation approval of the ESA under Regulation No. 10 shall not be granted."
+   },
+   "id": "R10-base-0005",
+   "source_node_ids": [
+    "R10|base|3.2.10"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "3.2.10"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 5,
+   "text": "ESAs which are intentional RF transmitters (e.g. radar, keyless-entry aerial if transmitting) and which have not received type approval in conjunction with a vehicle manufacturer shall be supplied with suitable installation guidelines.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|4.1.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|4.1.3"
+    ],
+    "table": null,
+    "text": "ESAs which are intentional RF transmitters (e.g. radar, keyless-entry aerial if transmitting) and which have not received type approval in conjunction with a vehicle manufacturer shall be supplied with suitable installation guidelines."
+   },
+   "id": "R10-base-0006",
+   "source_node_ids": [
+    "R10|base|4.1.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "4.1.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 6,
+   "text": "An approval mark as described in paragraph 5.3. shall be affixed to every ESA conforming to a type approved under this Regulation (no marking is required for electrical/electronic systems built into vehicles approved as units).",
+   "table": null,
+   "cited_ids": [
+    "R10|base|5.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|5.2.2"
+    ],
+    "table": null,
+    "text": "An approval mark as described in paragraph 5.3. shall be affixed to every ESA conforming to a type approved under this Regulation (no marking is required for electrical/electronic systems built into vehicles approved as units)."
+   },
+   "id": "R10-base-0007",
+   "source_node_ids": [
+    "R10|base|5.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "5.2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 7,
+   "text": "The approval mark shall comprise a circle containing the letter \"E\", followed by the distinguishing number of the country granting the approval.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|5.3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|5.3.1"
+    ],
+    "table": null,
+    "text": "The approval mark shall comprise a circle containing the letter \"E\", followed by the distinguishing number of the country granting the approval."
+   },
+   "id": "R10-base-0008",
+   "source_node_ids": [
+    "R10|base|5.3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "5.3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 8,
+   "text": "The approval mark shall comprise, to the right of the circle, the number of this Regulation (10), followed by the letter \"R\", a dash and the approval number.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|5.3.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|5.3.2"
+    ],
+    "table": null,
+    "text": "The approval mark shall comprise, to the right of the circle, the number of this Regulation (10), followed by the letter \"R\", a dash and the approval number."
+   },
+   "id": "R10-base-0009",
+   "source_node_ids": [
+    "R10|base|5.3.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "5.3.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 9,
+   "text": "Approval markings on ESAs in conformity with paragraph 5.3. need not be visible when the ESA is installed in the vehicle.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|5.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|5.5"
+    ],
+    "table": null,
+    "text": "Approval markings on ESAs in conformity with paragraph 5.3. need not be visible when the ESA is installed in the vehicle."
+   },
+   "id": "R10-base-0010",
+   "source_node_ids": [
+    "R10|base|5.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "5.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 10,
+   "text": "The ESA(s) shall be designed, constructed and fitted in such a way as to enable the vehicle, in normal conditions of use, to comply with the requirements of this Regulation.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.1.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.1.1"
+    ],
+    "table": null,
+    "text": "The ESA(s) shall be designed, constructed and fitted in such a way as to enable the vehicle, in normal conditions of use, to comply with the requirements of this Regulation."
+   },
+   "id": "R10-base-0011",
+   "source_node_ids": [
+    "R10|base|6.1.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "6.1.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 11,
+   "text": "The ESA(s) shall be tested for radiated and conducted emissions and for immunity to radiated and conducted disturbances.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.1.1.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.1.1.2"
+    ],
+    "table": null,
+    "text": "The ESA(s) shall be tested for radiated and conducted emissions and for immunity to radiated and conducted disturbances."
+   },
+   "id": "R10-base-0012",
+   "source_node_ids": [
+    "R10|base|6.1.1.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 9,
+    "page_end": 9,
+    "paragraph": "6.1.1.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 12,
+   "text": "The broadband electromagnetic radiation generated by the ESA representative of its type shall be measured by the method described in Annex 7.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.5.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.5.1"
+    ],
+    "table": null,
+    "text": "The broadband electromagnetic radiation generated by the ESA representative of its type shall be measured by the method described in Annex 7."
+   },
+   "id": "R10-base-0013",
+   "source_node_ids": [
+    "R10|base|6.5.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 10,
+    "page_end": 10,
+    "paragraph": "6.5.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 13,
+   "text": "When measured by the method of Annex 7, the ESA broadband emission (dB microvolts/m) shall be below the limit of 62 to 52 dB microvolts/m in the 30 to 75 MHz band, decreasing logarithmically with frequency above 30 MHz, and 52 to 63 dB microvolts/m in the 75 to 400 MHz band, increasing logarithmically with frequency above 75 MHz (Appendix 6).",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.5.2.1",
+    "R10|base|6.5.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.5.2.1",
+     "R10|base|6.5.2.2"
+    ],
+    "table": null,
+    "text": "When measured by the method of Annex 7, the ESA broadband emission (dB microvolts/m) shall be below the limit of 62 to 52 dB microvolts/m in the 30 to 75 MHz band, decreasing logarithmically with frequency above 30 MHz, and 52 to 63 dB microvolts/m in the 75 to 400 MHz band, increasing logarithmically with frequency above 75 MHz (Appendix 6)."
+   },
+   "id": "R10-base-0014",
+   "source_node_ids": [
+    "R10|base|6.5.2.1",
+    "R10|base|6.5.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 10,
+    "page_end": 10,
+    "paragraph": "6.5.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 14,
+   "text": "When measured by the method of Annex 7, the ESA broadband emission shall be below the constant limit of 63 dB microvolts/m in the 400 to 1,000 MHz band.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.5.2.1",
+    "R10|base|6.5.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.5.2.1",
+     "R10|base|6.5.2.2"
+    ],
+    "table": null,
+    "text": "When measured by the method of Annex 7, the ESA broadband emission shall be below the constant limit of 63 dB microvolts/m in the 400 to 1,000 MHz band."
+   },
+   "id": "R10-base-0015",
+   "source_node_ids": [
+    "R10|base|6.5.2.1",
+    "R10|base|6.5.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 10,
+    "page_end": 10,
+    "paragraph": "6.5.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 15,
+   "text": "The narrowband electromagnetic radiation generated by the ESA representative of its type shall be measured by the method described in Annex 8.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.6.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.6.1"
+    ],
+    "table": null,
+    "text": "The narrowband electromagnetic radiation generated by the ESA representative of its type shall be measured by the method described in Annex 8."
+   },
+   "id": "R10-base-0016",
+   "source_node_ids": [
+    "R10|base|6.6.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 10,
+    "page_end": 10,
+    "paragraph": "6.6.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 16,
+   "text": "When measured by the method of Annex 8, the ESA narrowband emission (dB microvolts/m) shall be below the limit of 52 to 42 dB microvolts/m in the 30 to 75 MHz band, decreasing logarithmically with frequency above 30 MHz, and 42 to 53 dB microvolts/m in the 75 to 400 MHz band, increasing logarithmically with frequency above 75 MHz (Appendix 7).",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.6.2.1",
+    "R10|base|6.6.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.6.2.1",
+     "R10|base|6.6.2.2"
+    ],
+    "table": null,
+    "text": "When measured by the method of Annex 8, the ESA narrowband emission (dB microvolts/m) shall be below the limit of 52 to 42 dB microvolts/m in the 30 to 75 MHz band, decreasing logarithmically with frequency above 30 MHz, and 42 to 53 dB microvolts/m in the 75 to 400 MHz band, increasing logarithmically with frequency above 75 MHz (Appendix 7)."
+   },
+   "id": "R10-base-0017",
+   "source_node_ids": [
+    "R10|base|6.6.2.1",
+    "R10|base|6.6.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 10,
+    "page_end": 10,
+    "paragraph": "6.6.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 17,
+   "text": "When measured by the method of Annex 8, the ESA narrowband emission shall be below the constant limit of 53 dB microvolts/m in the 400 to 1,000 MHz band.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.6.2.1",
+    "R10|base|6.6.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.6.2.1",
+     "R10|base|6.6.2.2"
+    ],
+    "table": null,
+    "text": "When measured by the method of Annex 8, the ESA narrowband emission shall be below the constant limit of 53 dB microvolts/m in the 400 to 1,000 MHz band."
+   },
+   "id": "R10-base-0018",
+   "source_node_ids": [
+    "R10|base|6.6.2.1",
+    "R10|base|6.6.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 10,
+    "page_end": 10,
+    "paragraph": "6.6.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 18,
+   "text": "An ESA that does not include an electronic oscillator with an operating frequency greater than 9 kHz shall be deemed to comply with paragraph 6.6.2. and Annex 8 (narrowband emission).",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.10.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.10.1"
+    ],
+    "table": null,
+    "text": "An ESA that does not include an electronic oscillator with an operating frequency greater than 9 kHz shall be deemed to comply with paragraph 6.6.2. and Annex 8 (narrowband emission)."
+   },
+   "id": "R10-base-0019",
+   "source_node_ids": [
+    "R10|base|6.10.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 12,
+    "page_end": 13,
+    "paragraph": "6.10.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 19,
+   "text": "The emission of transient conducted disturbances generated by the ESA on 12/24 V supply lines shall be tested by the method(s) according to ISO 7637-2 as described in Annex 10 for the levels given in Table 1.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.7.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.7.1"
+    ],
+    "table": null,
+    "text": "The emission of transient conducted disturbances generated by the ESA on 12/24 V supply lines shall be tested by the method(s) according to ISO 7637-2 as described in Annex 10 for the levels given in Table 1."
+   },
+   "id": "R10-base-0020",
+   "source_node_ids": [
+    "R10|base|6.7.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 10,
+    "page_end": 11,
+    "paragraph": "6.7.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 20,
+   "text": "The maximum allowed positive transient pulse amplitude emitted by the ESA on the supply lines shall be +75 V for vehicles with 12 V systems and +150 V for vehicles with 24 V systems.",
+   "table": "1",
+   "cited_ids": [
+    "R10|base|6.7.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.7.1"
+    ],
+    "table": "1",
+    "text": "The maximum allowed positive transient pulse amplitude emitted by the ESA on the supply lines shall be +75 V for vehicles with 12 V systems and +150 V for vehicles with 24 V systems."
+   },
+   "id": "R10-base-0021",
+   "source_node_ids": [
+    "R10|base|6.7.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 10,
+    "page_end": 11,
+    "paragraph": "6.7.1. Table 1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 21,
+   "text": "The maximum allowed negative transient pulse amplitude emitted by the ESA on the supply lines shall be -100 V for vehicles with 12 V systems and -450 V for vehicles with 24 V systems.",
+   "table": "1",
+   "cited_ids": [
+    "R10|base|6.7.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.7.1"
+    ],
+    "table": "1",
+    "text": "The maximum allowed negative transient pulse amplitude emitted by the ESA on the supply lines shall be -100 V for vehicles with 12 V systems and -450 V for vehicles with 24 V systems."
+   },
+   "id": "R10-base-0022",
+   "source_node_ids": [
+    "R10|base|6.7.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 10,
+    "page_end": 11,
+    "paragraph": "6.7.1. Table 1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 22,
+   "text": "ESAs that are not switched, contain no switches or do not include inductive load need not be tested for transient conducted emission and shall be deemed to comply with paragraph 6.7.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.10.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.10.5"
+    ],
+    "table": null,
+    "text": "ESAs that are not switched, contain no switches or do not include inductive load need not be tested for transient conducted emission and shall be deemed to comply with paragraph 6.7."
+   },
+   "id": "R10-base-0023",
+   "source_node_ids": [
+    "R10|base|6.10.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 13,
+    "page_end": 13,
+    "paragraph": "6.10.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 23,
+   "text": "The immunity to electromagnetic radiation of the ESA representative of its type shall be tested by the method(s) chosen from those described in Annex 9 (stripline, TEM cell, BCI, ALSE/absorber chamber, reverberation chamber).",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.8.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.8.1"
+    ],
+    "table": null,
+    "text": "The immunity to electromagnetic radiation of the ESA representative of its type shall be tested by the method(s) chosen from those described in Annex 9 (stripline, TEM cell, BCI, ALSE/absorber chamber, reverberation chamber)."
+   },
+   "id": "R10-base-0024",
+   "source_node_ids": [
+    "R10|base|6.8.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 11,
+    "page_end": 11,
+    "paragraph": "6.8.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 24,
+   "text": "The ESA radiated immunity test severity in over 90 per cent of the 20 to 6,000 MHz band shall be per Table 2a for the chosen method: Stripline 60 V/m (20-400 MHz); TEM cell 75 V/m (20-200 MHz); BCI 60 mA (20-400 MHz); ALSE 30 V/m (80-2,000 MHz) and 10 V/m (2,000-6,000 MHz); Reverberation chamber 21 V/m (LUF-2,000 MHz) and 7 V/m (2,000-6,000 MHz).",
+   "table": "2a",
+   "cited_ids": [
+    "R10|base|6.8.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.8.2.1"
+    ],
+    "table": "2a",
+    "text": "The ESA radiated immunity test severity in over 90 per cent of the 20 to 6,000 MHz band shall be per Table 2a for the chosen method: Stripline 60 V/m (20-400 MHz); TEM cell 75 V/m (20-200 MHz); BCI 60 mA (20-400 MHz); ALSE 30 V/m (80-2,000 MHz) and 10 V/m (2,000-6,000 MHz); Reverberation chamber 21 V/m (LUF-2,000 MHz) and 7 V/m (2,000-6,000 MHz)."
+   },
+   "id": "R10-base-0025",
+   "source_node_ids": [
+    "R10|base|6.8.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 11,
+    "page_end": 12,
+    "paragraph": "6.8.2.1. Table 2a"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 25,
+   "text": "The ESA radiated immunity minimum test level over the whole 20 to 6,000 MHz band shall be per Table 2b for the chosen method: Stripline 50 V/m (20-400 MHz); TEM cell 62.5 V/m (20-200 MHz); BCI 50 mA (20-400 MHz); ALSE 25 V/m (80-2,000 MHz) and 8 V/m (2,000-6,000 MHz); Reverberation chamber 18 V/m (LUF-2,000 MHz) and 6 V/m (2,000-6,000 MHz).",
+   "table": "2b",
+   "cited_ids": [
+    "R10|base|6.8.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.8.2.1"
+    ],
+    "table": "2b",
+    "text": "The ESA radiated immunity minimum test level over the whole 20 to 6,000 MHz band shall be per Table 2b for the chosen method: Stripline 50 V/m (20-400 MHz); TEM cell 62.5 V/m (20-200 MHz); BCI 50 mA (20-400 MHz); ALSE 25 V/m (80-2,000 MHz) and 8 V/m (2,000-6,000 MHz); Reverberation chamber 18 V/m (LUF-2,000 MHz) and 6 V/m (2,000-6,000 MHz)."
+   },
+   "id": "R10-base-0026",
+   "source_node_ids": [
+    "R10|base|6.8.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 11,
+    "page_end": 12,
+    "paragraph": "6.8.2.1. Table 2b"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 26,
+   "text": "During the radiated immunity tests performed in accordance with Annex 9, there shall be no degradation of performance of the ESA's \"immunity related functions\" (e.g. camera/indirect vision, radar/LIDAR braking or blind-spot functions, pedestrian impact sensing, direction indicator, anti-theft alarm).",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.8.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.8.2.2"
+    ],
+    "table": null,
+    "text": "During the radiated immunity tests performed in accordance with Annex 9, there shall be no degradation of performance of the ESA's \"immunity related functions\" (e.g. camera/indirect vision, radar/LIDAR braking or blind-spot functions, pedestrian impact sensing, direction indicator, anti-theft alarm)."
+   },
+   "id": "R10-base-0027",
+   "source_node_ids": [
+    "R10|base|6.8.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 12,
+    "page_end": 12,
+    "paragraph": "6.8.2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 27,
+   "text": "ESAs with no immunity related functions need not be tested for immunity to radiated disturbances and shall be deemed to comply with paragraph 6.8. and Annex 9.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.10.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.10.3"
+    ],
+    "table": null,
+    "text": "ESAs with no immunity related functions need not be tested for immunity to radiated disturbances and shall be deemed to comply with paragraph 6.8. and Annex 9."
+   },
+   "id": "R10-base-0028",
+   "source_node_ids": [
+    "R10|base|6.10.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 13,
+    "page_end": 13,
+    "paragraph": "6.10.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 28,
+   "text": "Loss of function of a receiver ESA during the immunity test, when the test signal is within the receiver bandwidth (RF exclusion band) specified for the radio service/product in the harmonized international EMC standard, does not necessarily lead to fail criteria.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.10.6"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.10.6"
+    ],
+    "table": null,
+    "text": "Loss of function of a receiver ESA during the immunity test, when the test signal is within the receiver bandwidth (RF exclusion band) specified for the radio service/product in the harmonized international EMC standard, does not necessarily lead to fail criteria."
+   },
+   "id": "R10-base-0029",
+   "source_node_ids": [
+    "R10|base|6.10.6"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 13,
+    "page_end": 13,
+    "paragraph": "6.10.6"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 29,
+   "text": "The immunity of the ESA to transient disturbances conducted along 12/24 V supply lines shall be tested according to ISO 16750-2 for the starting profile and ISO 7637-2 for pulses 1, 2a, 2b, 3a and 3b, as described in Annex 10, with the test levels of Tables 3a and 3b; the starting profile shall be assessed with the functional status classification of ISO 16750-1 and pulses 1, 2a, 2b, 3a and 3b with the Functional Performance Status Classification (FPSC) of ISO 7637-1.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.9.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.9.1"
+    ],
+    "table": null,
+    "text": "The immunity of the ESA to transient disturbances conducted along 12/24 V supply lines shall be tested according to ISO 16750-2 for the starting profile and ISO 7637-2 for pulses 1, 2a, 2b, 3a and 3b, as described in Annex 10, with the test levels of Tables 3a and 3b; the starting profile shall be assessed with the functional status classification of ISO 16750-1 and pulses 1, 2a, 2b, 3a and 3b with the Functional Performance Status Classification (FPSC) of ISO 7637-1."
+   },
+   "id": "R10-base-0030",
+   "source_node_ids": [
+    "R10|base|6.9.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 12,
+    "page_end": 12,
+    "paragraph": "6.9.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 30,
+   "text": "For ESAs that could be installed in vehicles with internal combustion engines started with a 12 V/24 V starter motor, the ESA shall withstand the starting profile at immunity test level II (12 V and 24 V systems), 10 pulses, with functional status B for ESAs related to immunity related functions which shall be operational during engine start phases, C for other immunity-related ESAs, and D for ESAs not related to immunity related functions.",
+   "table": "3a",
+   "cited_ids": [
+    "R10|base|6.9.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.9.1"
+    ],
+    "table": "3a",
+    "text": "For ESAs that could be installed in vehicles with internal combustion engines started with a 12 V/24 V starter motor, the ESA shall withstand the starting profile at immunity test level II (12 V and 24 V systems), 10 pulses, with functional status B for ESAs related to immunity related functions which shall be operational during engine start phases, C for other immunity-related ESAs, and D for ESAs not related to immunity related functions."
+   },
+   "id": "R10-base-0031",
+   "source_node_ids": [
+    "R10|base|6.9.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 12,
+    "page_end": 12,
+    "paragraph": "6.9.1. Table 3a"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 31,
+   "text": "The ESA shall withstand test pulse 1 at -75 V (12 V system) or -450 V (24 V system), 500 pulses, with FPSC III for ESAs related and not related to immunity related functions.",
+   "table": "3b",
+   "cited_ids": [
+    "R10|base|6.9.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.9.1"
+    ],
+    "table": "3b",
+    "text": "The ESA shall withstand test pulse 1 at -75 V (12 V system) or -450 V (24 V system), 500 pulses, with FPSC III for ESAs related and not related to immunity related functions."
+   },
+   "id": "R10-base-0032",
+   "source_node_ids": [
+    "R10|base|6.9.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 12,
+    "page_end": 12,
+    "paragraph": "6.9.1. Table 3b"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 32,
+   "text": "The ESA shall withstand test pulse 2a at +37 V (12 V and 24 V systems), 500 pulses, with FPSC I for ESAs related to immunity related functions and III for ESAs not related to immunity related functions.",
+   "table": "3b",
+   "cited_ids": [
+    "R10|base|6.9.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.9.1"
+    ],
+    "table": "3b",
+    "text": "The ESA shall withstand test pulse 2a at +37 V (12 V and 24 V systems), 500 pulses, with FPSC I for ESAs related to immunity related functions and III for ESAs not related to immunity related functions."
+   },
+   "id": "R10-base-0033",
+   "source_node_ids": [
+    "R10|base|6.9.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 12,
+    "page_end": 12,
+    "paragraph": "6.9.1. Table 3b"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 33,
+   "text": "The ESA shall withstand test pulse 2b at +10 V (12 V system) or +20 V (24 V system), 10 pulses, with FPSC II for ESAs related to immunity related functions and III for ESAs not related to immunity related functions.",
+   "table": "3b",
+   "cited_ids": [
+    "R10|base|6.9.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.9.1"
+    ],
+    "table": "3b",
+    "text": "The ESA shall withstand test pulse 2b at +10 V (12 V system) or +20 V (24 V system), 10 pulses, with FPSC II for ESAs related to immunity related functions and III for ESAs not related to immunity related functions."
+   },
+   "id": "R10-base-0034",
+   "source_node_ids": [
+    "R10|base|6.9.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 12,
+    "page_end": 12,
+    "paragraph": "6.9.1. Table 3b"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 34,
+   "text": "The ESA shall withstand test pulse 3a at -112 V (12 V system) or -150 V (24 V system), test duration 1 h, with FPSC I for ESAs related to immunity related functions and III for ESAs not related to immunity related functions.",
+   "table": "3b",
+   "cited_ids": [
+    "R10|base|6.9.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.9.1"
+    ],
+    "table": "3b",
+    "text": "The ESA shall withstand test pulse 3a at -112 V (12 V system) or -150 V (24 V system), test duration 1 h, with FPSC I for ESAs related to immunity related functions and III for ESAs not related to immunity related functions."
+   },
+   "id": "R10-base-0035",
+   "source_node_ids": [
+    "R10|base|6.9.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 12,
+    "page_end": 12,
+    "paragraph": "6.9.1. Table 3b"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 35,
+   "text": "The ESA shall withstand test pulse 3b at +75 V (12 V system) or +150 V (24 V system), test duration 1 h, with FPSC I for ESAs related to immunity related functions and III for ESAs not related to immunity related functions.",
+   "table": "3b",
+   "cited_ids": [
+    "R10|base|6.9.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.9.1"
+    ],
+    "table": "3b",
+    "text": "The ESA shall withstand test pulse 3b at +75 V (12 V system) or +150 V (24 V system), test duration 1 h, with FPSC I for ESAs related to immunity related functions and III for ESAs not related to immunity related functions."
+   },
+   "id": "R10-base-0036",
+   "source_node_ids": [
+    "R10|base|6.9.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 12,
+    "page_end": 12,
+    "paragraph": "6.9.1. Table 3b"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 36,
+   "text": "ESAs that are RF transmitters (e.g. radar, transmitting keyless-entry aerial) shall be tested in the transmit mode.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.10.7"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.10.7"
+    ],
+    "table": null,
+    "text": "ESAs that are RF transmitters (e.g. radar, transmitting keyless-entry aerial) shall be tested in the transmit mode."
+   },
+   "id": "R10-base-0037",
+   "source_node_ids": [
+    "R10|base|6.10.7"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 13,
+    "page_end": 13,
+    "paragraph": "6.10.7"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 37,
+   "text": "For RF transmitting ESAs, wanted emissions within the necessary bandwidth and out-of-band emissions are disregarded for the purpose of this Regulation, but spurious emissions are subject to the emission requirements of this Regulation.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|6.10.7"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|6.10.7"
+    ],
+    "table": null,
+    "text": "For RF transmitting ESAs, wanted emissions within the necessary bandwidth and out-of-band emissions are disregarded for the purpose of this Regulation, but spurious emissions are subject to the emission requirements of this Regulation."
+   },
+   "id": "R10-base-0038",
+   "source_node_ids": [
+    "R10|base|6.10.7"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 13,
+    "page_end": 13,
+    "paragraph": "6.10.7"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 0,
+   "text": "If the bumper module's ESAs are active during REESS charging, or the charge-port area includes a vehicle inlet or charging electronics, the ESAs shall be designed, constructed and fitted so that the vehicle complies with the requirements of this Regulation in configuration \"REESS charging mode coupled to the power grid\".",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.1.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.1.1"
+    ],
+    "table": null,
+    "text": "If the bumper module's ESAs are active during REESS charging, or the charge-port area includes a vehicle inlet or charging electronics, the ESAs shall be designed, constructed and fitted so that the vehicle complies with the requirements of this Regulation in configuration \"REESS charging mode coupled to the power grid\"."
+   },
+   "id": "R10-base-0039",
+   "source_node_ids": [
+    "R10|base|7.1.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 13,
+    "page_end": 13,
+    "paragraph": "7.1.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 1,
+   "text": "ESAs in configuration \"REESS charging mode coupled to the power grid\" (ESAs active during charging, or charge-port inlet/charging electronics) shall be tested for radiated and conducted emissions and for immunity to radiated and conducted disturbances.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.1.1.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.1.1.2"
+    ],
+    "table": null,
+    "text": "ESAs in configuration \"REESS charging mode coupled to the power grid\" (ESAs active during charging, or charge-port inlet/charging electronics) shall be tested for radiated and conducted emissions and for immunity to radiated and conducted disturbances."
+   },
+   "id": "R10-base-0040",
+   "source_node_ids": [
+    "R10|base|7.1.1.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 14,
+    "page_end": 14,
+    "paragraph": "7.1.1.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 2,
+   "text": "In configuration \"REESS charging mode coupled to the power grid\", the broadband electromagnetic radiation generated by the ESA representative of its type shall be measured by the method described in Annex 7.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.10.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.10.1"
+    ],
+    "table": null,
+    "text": "In configuration \"REESS charging mode coupled to the power grid\", the broadband electromagnetic radiation generated by the ESA representative of its type shall be measured by the method described in Annex 7."
+   },
+   "id": "R10-base-0041",
+   "source_node_ids": [
+    "R10|base|7.10.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 19,
+    "page_end": 19,
+    "paragraph": "7.10.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 3,
+   "text": "In configuration \"REESS charging mode coupled to the power grid\", when measured by the Annex 7 method, the ESA broadband emission limit shall decrease logarithmically from 62 to 52 dBµV/m over the 30 to 75 MHz band. It shall then increase logarithmically from 52 to 63 dBµV/m over the 75 to 400 MHz band, as shown in Appendix 6.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.10.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.10.2.1"
+    ],
+    "table": null,
+    "text": "In configuration \"REESS charging mode coupled to the power grid\", when measured by the Annex 7 method, the ESA broadband emission limit shall decrease logarithmically from 62 to 52 dBµV/m over the 30 to 75 MHz band. It shall then increase logarithmically from 52 to 63 dBµV/m over the 75 to 400 MHz band, as shown in Appendix 6."
+   },
+   "id": "R10-base-0042",
+   "source_node_ids": [
+    "R10|base|7.10.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 19,
+    "page_end": 19,
+    "paragraph": "7.10.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 4,
+   "text": "In configuration \"REESS charging mode coupled to the power grid\", when measured by the Annex 7 method, the ESA broadband emission limit shall remain constant at 63 dBµV/m in the 400 to 1,000 MHz frequency band.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.10.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.10.2.1"
+    ],
+    "table": null,
+    "text": "In configuration \"REESS charging mode coupled to the power grid\", when measured by the Annex 7 method, the ESA broadband emission limit shall remain constant at 63 dBµV/m in the 400 to 1,000 MHz frequency band."
+   },
+   "id": "R10-base-0043",
+   "source_node_ids": [
+    "R10|base|7.10.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 19,
+    "page_end": 19,
+    "paragraph": "7.10.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 5,
+   "text": "On the ESA representative of its type in configuration \"REESS charging mode coupled to the power grid\", the measured broadband values, expressed in dBµV/m, shall be below the type approval limits.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.10.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.10.2.2"
+    ],
+    "table": null,
+    "text": "On the ESA representative of its type in configuration \"REESS charging mode coupled to the power grid\", the measured broadband values, expressed in dBµV/m, shall be below the type approval limits."
+   },
+   "id": "R10-base-0044",
+   "source_node_ids": [
+    "R10|base|7.10.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 19,
+    "page_end": 19,
+    "paragraph": "7.10.2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 6,
+   "text": "If the charge-port area includes a vehicle inlet or charging electronics connected to AC power lines, the harmonics emission on AC power lines generated by the ESA representative of its type shall be measured by the Annex 17 method. That method is defined by the manufacturer in accordance with the Technical Service.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.11.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.11.1"
+    ],
+    "table": null,
+    "text": "If the charge-port area includes a vehicle inlet or charging electronics connected to AC power lines, the harmonics emission on AC power lines generated by the ESA representative of its type shall be measured by the Annex 17 method. That method is defined by the manufacturer in accordance with the Technical Service."
+   },
+   "id": "R10-base-0045",
+   "source_node_ids": [
+    "R10|base|7.11.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 19,
+    "page_end": 19,
+    "paragraph": "7.11.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 7,
+   "text": "For an ESA in REESS charging mode with input current ≤ 16 A per phase, the harmonics emission on AC power lines, measured by the Annex 17 method, shall not exceed the limits defined in IEC 61000-3-2 and given in Table 12.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.11.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.11.2.1"
+    ],
+    "table": null,
+    "text": "For an ESA in REESS charging mode with input current ≤ 16 A per phase, the harmonics emission on AC power lines, measured by the Annex 17 method, shall not exceed the limits defined in IEC 61000-3-2 and given in Table 12."
+   },
+   "id": "R10-base-0046",
+   "source_node_ids": [
+    "R10|base|7.11.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 20,
+    "page_end": 20,
+    "paragraph": "7.11.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 8,
+   "text": "Maximum authorized harmonic current for an ESA with input current ≤ 16 A per phase (Annex 17), applied per IEC 61000-3-2 paragraph 6.3.3.4. Odd harmonics: n=3: 2.3 A; n=5: 1.14 A; n=7: 0.77 A; n=9: 0.40 A; n=11: 0.33 A; n=13: 0.21 A; 15 ≤ n ≤ 39: 0.15×15/n A. Even harmonics: n=2: 1.08 A; n=4: 0.43 A; n=6: 0.30 A; 8 ≤ n ≤ 40: 0.23×8/n A.",
+   "table": "12",
+   "cited_ids": [
+    "R10|base|7.11.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.11.2.1"
+    ],
+    "table": "12",
+    "text": "Maximum authorized harmonic current for an ESA with input current ≤ 16 A per phase (Annex 17), applied per IEC 61000-3-2 paragraph 6.3.3.4. Odd harmonics: n=3: 2.3 A; n=5: 1.14 A; n=7: 0.77 A; n=9: 0.40 A; n=11: 0.33 A; n=13: 0.21 A; 15 ≤ n ≤ 39: 0.15×15/n A. Even harmonics: n=2: 1.08 A; n=4: 0.43 A; n=6: 0.30 A; 8 ≤ n ≤ 40: 0.23×8/n A."
+   },
+   "id": "R10-base-0047",
+   "source_node_ids": [
+    "R10|base|7.11.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 20,
+    "page_end": 20,
+    "paragraph": "7.11.2.1. Table 12"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 9,
+   "text": "For an ESA in REESS charging mode with input current > 16 A and ≤ 75 A per phase, the harmonics emission on AC power lines, measured by the Annex 17 method, shall not exceed the limits defined in IEC 61000-3-12 and given in Tables 13, 14 and 15.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.11.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.11.2.2"
+    ],
+    "table": null,
+    "text": "For an ESA in REESS charging mode with input current > 16 A and ≤ 75 A per phase, the harmonics emission on AC power lines, measured by the Annex 17 method, shall not exceed the limits defined in IEC 61000-3-12 and given in Tables 13, 14 and 15."
+   },
+   "id": "R10-base-0048",
+   "source_node_ids": [
+    "R10|base|7.11.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 20,
+    "page_end": 21,
+    "paragraph": "7.11.2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 10,
+   "text": "For an ESA with input current > 16 A and ≤ 75 A per phase that is single-phase or other than balanced three-phase equipment, the acceptable individual harmonic currents In/I1 (%) and maximum current harmonic ratios (%) depend on minimum Rsce. Values are listed as I3/I5/I7/I9/I11/I13/THD/PWHD. Rsce 33: 21.6/10.7/7.2/3.8/3.1/2/23/23. Rsce 66: 24/13/8/5/4/3/26/26. Rsce 120: 27/15/10/6/5/4/30/30. Rsce 250: 35/20/13/9/8/6/40/40. Rsce ≥ 350: 41/24/15/12/10/8/47/47. Relative values of even harmonics ≤ 12 shall be lower than 16/n %. Even harmonics > 12 are counted in THD and PWHD in the same way as odd harmonics. Linear interpolation between successive Rsce values is authorized.",
+   "table": "13",
+   "cited_ids": [
+    "R10|base|7.11.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.11.2.2"
+    ],
+    "table": "13",
+    "text": "For an ESA with input current > 16 A and ≤ 75 A per phase that is single-phase or other than balanced three-phase equipment, the acceptable individual harmonic currents In/I1 (%) and maximum current harmonic ratios (%) depend on minimum Rsce. Values are listed as I3/I5/I7/I9/I11/I13/THD/PWHD. Rsce 33: 21.6/10.7/7.2/3.8/3.1/2/23/23. Rsce 66: 24/13/8/5/4/3/26/26. Rsce 120: 27/15/10/6/5/4/30/30. Rsce 250: 35/20/13/9/8/6/40/40. Rsce ≥ 350: 41/24/15/12/10/8/47/47. Relative values of even harmonics ≤ 12 shall be lower than 16/n %. Even harmonics > 12 are counted in THD and PWHD in the same way as odd harmonics. Linear interpolation between successive Rsce values is authorized."
+   },
+   "id": "R10-base-0049",
+   "source_node_ids": [
+    "R10|base|7.11.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 20,
+    "page_end": 21,
+    "paragraph": "7.11.2.2. Table 13"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 11,
+   "text": "For an ESA with input current > 16 A and ≤ 75 A per phase that is balanced three-phase equipment, the acceptable individual harmonic currents In/I1 (%) and maximum current harmonic ratios (%) depend on minimum Rsce. Values are listed as I5/I7/I11/I13/THD/PWHD. Rsce 33: 10.7/7.2/3.1/2/13/22. Rsce 66: 14/9/5/3/16/25. Rsce 120: 19/12/7/4/22/28. Rsce 250: 31/20/12/7/37/38. Rsce ≥ 350: 40/25/15/10/48/46. Relative values of even harmonics ≤ 12 shall be lower than 16/n %. Even harmonics > 12 are counted in THD and PWHD in the same way as odd harmonics. Linear interpolation between successive Rsce values is authorized.",
+   "table": "14",
+   "cited_ids": [
+    "R10|base|7.11.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.11.2.2"
+    ],
+    "table": "14",
+    "text": "For an ESA with input current > 16 A and ≤ 75 A per phase that is balanced three-phase equipment, the acceptable individual harmonic currents In/I1 (%) and maximum current harmonic ratios (%) depend on minimum Rsce. Values are listed as I5/I7/I11/I13/THD/PWHD. Rsce 33: 10.7/7.2/3.1/2/13/22. Rsce 66: 14/9/5/3/16/25. Rsce 120: 19/12/7/4/22/28. Rsce 250: 31/20/12/7/37/38. Rsce ≥ 350: 40/25/15/10/48/46. Relative values of even harmonics ≤ 12 shall be lower than 16/n %. Even harmonics > 12 are counted in THD and PWHD in the same way as odd harmonics. Linear interpolation between successive Rsce values is authorized."
+   },
+   "id": "R10-base-0050",
+   "source_node_ids": [
+    "R10|base|7.11.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 20,
+    "page_end": 21,
+    "paragraph": "7.11.2.2. Table 14"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 12,
+   "text": "For an ESA with input current > 16 A and ≤ 75 A per phase that is balanced three-phase equipment under specific conditions, the acceptable individual harmonic currents In/I1 (%) and maximum current harmonic ratios (%) depend on minimum Rsce. Values are listed as I5/I7/I11/I13/THD/PWHD. Rsce 33: 10.7/7.2/3.1/2/13/22. Rsce ≥ 120: 40/25/15/10/48/46. Relative values of even harmonics ≤ 12 shall be lower than 16/n %. Even harmonics > 12 are counted in THD and PWHD in the same way as odd harmonics.",
+   "table": "15",
+   "cited_ids": [
+    "R10|base|7.11.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.11.2.2"
+    ],
+    "table": "15",
+    "text": "For an ESA with input current > 16 A and ≤ 75 A per phase that is balanced three-phase equipment under specific conditions, the acceptable individual harmonic currents In/I1 (%) and maximum current harmonic ratios (%) depend on minimum Rsce. Values are listed as I5/I7/I11/I13/THD/PWHD. Rsce 33: 10.7/7.2/3.1/2/13/22. Rsce ≥ 120: 40/25/15/10/48/46. Relative values of even harmonics ≤ 12 shall be lower than 16/n %. Even harmonics > 12 are counted in THD and PWHD in the same way as odd harmonics."
+   },
+   "id": "R10-base-0051",
+   "source_node_ids": [
+    "R10|base|7.11.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 20,
+    "page_end": 21,
+    "paragraph": "7.11.2.2. Table 15"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 13,
+   "text": "If the charge-port area includes a vehicle inlet or charging electronics connected to AC power lines, the emission of voltage changes, voltage fluctuations and flicker on AC power lines generated by the ESA shall be measured by the Annex 18 method. That method is defined by the ESA manufacturer in accordance with the Technical Service.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.12.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.12.1"
+    ],
+    "table": null,
+    "text": "If the charge-port area includes a vehicle inlet or charging electronics connected to AC power lines, the emission of voltage changes, voltage fluctuations and flicker on AC power lines generated by the ESA shall be measured by the Annex 18 method. That method is defined by the ESA manufacturer in accordance with the Technical Service."
+   },
+   "id": "R10-base-0052",
+   "source_node_ids": [
+    "R10|base|7.12.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 21,
+    "page_end": 21,
+    "paragraph": "7.12.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 14,
+   "text": "For an ESA in REESS charging mode with rated current ≤ 16 A per phase and not subjected to conditional connection, measured by the Annex 18 method (IEC 61000-3-3, Clause 5), the value of Pst shall not be greater than 1.0.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.12.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.12.2.1"
+    ],
+    "table": null,
+    "text": "For an ESA in REESS charging mode with rated current ≤ 16 A per phase and not subjected to conditional connection, measured by the Annex 18 method (IEC 61000-3-3, Clause 5), the value of Pst shall not be greater than 1.0."
+   },
+   "id": "R10-base-0053",
+   "source_node_ids": [
+    "R10|base|7.12.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 21,
+    "page_end": 21,
+    "paragraph": "7.12.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 15,
+   "text": "For an ESA in REESS charging mode with rated current ≤ 16 A per phase and not subjected to conditional connection, measured by the Annex 18 method (IEC 61000-3-3, Clause 5), the value of Plt shall not be greater than 0.65.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.12.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.12.2.1"
+    ],
+    "table": null,
+    "text": "For an ESA in REESS charging mode with rated current ≤ 16 A per phase and not subjected to conditional connection, measured by the Annex 18 method (IEC 61000-3-3, Clause 5), the value of Plt shall not be greater than 0.65."
+   },
+   "id": "R10-base-0054",
+   "source_node_ids": [
+    "R10|base|7.12.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 21,
+    "page_end": 21,
+    "paragraph": "7.12.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 16,
+   "text": "For an ESA in REESS charging mode with rated current ≤ 16 A per phase and not subjected to conditional connection, measured by the Annex 18 method (IEC 61000-3-3, Clause 5), d(t) during a voltage change shall not exceed 3.3 per cent for more than 500 ms.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.12.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.12.2.1"
+    ],
+    "table": null,
+    "text": "For an ESA in REESS charging mode with rated current ≤ 16 A per phase and not subjected to conditional connection, measured by the Annex 18 method (IEC 61000-3-3, Clause 5), d(t) during a voltage change shall not exceed 3.3 per cent for more than 500 ms."
+   },
+   "id": "R10-base-0055",
+   "source_node_ids": [
+    "R10|base|7.12.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 21,
+    "page_end": 21,
+    "paragraph": "7.12.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 17,
+   "text": "For an ESA in REESS charging mode with rated current ≤ 16 A per phase and not subjected to conditional connection, measured by the Annex 18 method (IEC 61000-3-3, Clause 5), the relative steady-state voltage change dc shall not exceed 3.3 per cent.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.12.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.12.2.1"
+    ],
+    "table": null,
+    "text": "For an ESA in REESS charging mode with rated current ≤ 16 A per phase and not subjected to conditional connection, measured by the Annex 18 method (IEC 61000-3-3, Clause 5), the relative steady-state voltage change dc shall not exceed 3.3 per cent."
+   },
+   "id": "R10-base-0056",
+   "source_node_ids": [
+    "R10|base|7.12.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 21,
+    "page_end": 21,
+    "paragraph": "7.12.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 18,
+   "text": "For an ESA in REESS charging mode with rated current ≤ 16 A per phase and not subjected to conditional connection, measured by the Annex 18 method (IEC 61000-3-3, Clause 5), the maximum relative voltage change dmax shall not exceed 6 per cent.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.12.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.12.2.1"
+    ],
+    "table": null,
+    "text": "For an ESA in REESS charging mode with rated current ≤ 16 A per phase and not subjected to conditional connection, measured by the Annex 18 method (IEC 61000-3-3, Clause 5), the maximum relative voltage change dmax shall not exceed 6 per cent."
+   },
+   "id": "R10-base-0057",
+   "source_node_ids": [
+    "R10|base|7.12.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 21,
+    "page_end": 21,
+    "paragraph": "7.12.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 19,
+   "text": "For an ESA in REESS charging mode with rated current > 16 A and ≤ 75 A per phase and subjected to conditional connection, measured by the Annex 18 method (IEC 61000-3-11, Clause 5), the value of Pst shall not be greater than 1.0.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.12.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.12.2.2"
+    ],
+    "table": null,
+    "text": "For an ESA in REESS charging mode with rated current > 16 A and ≤ 75 A per phase and subjected to conditional connection, measured by the Annex 18 method (IEC 61000-3-11, Clause 5), the value of Pst shall not be greater than 1.0."
+   },
+   "id": "R10-base-0058",
+   "source_node_ids": [
+    "R10|base|7.12.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 21,
+    "page_end": 22,
+    "paragraph": "7.12.2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 20,
+   "text": "For an ESA in REESS charging mode with rated current > 16 A and ≤ 75 A per phase and subjected to conditional connection, measured by the Annex 18 method (IEC 61000-3-11, Clause 5), the value of Plt shall not be greater than 0.65.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.12.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.12.2.2"
+    ],
+    "table": null,
+    "text": "For an ESA in REESS charging mode with rated current > 16 A and ≤ 75 A per phase and subjected to conditional connection, measured by the Annex 18 method (IEC 61000-3-11, Clause 5), the value of Plt shall not be greater than 0.65."
+   },
+   "id": "R10-base-0059",
+   "source_node_ids": [
+    "R10|base|7.12.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 21,
+    "page_end": 22,
+    "paragraph": "7.12.2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 21,
+   "text": "For an ESA in REESS charging mode with rated current > 16 A and ≤ 75 A per phase and subjected to conditional connection, measured by the Annex 18 method (IEC 61000-3-11, Clause 5), d(t) during a voltage change shall not exceed 3.3 per cent for more than 500 ms.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.12.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.12.2.2"
+    ],
+    "table": null,
+    "text": "For an ESA in REESS charging mode with rated current > 16 A and ≤ 75 A per phase and subjected to conditional connection, measured by the Annex 18 method (IEC 61000-3-11, Clause 5), d(t) during a voltage change shall not exceed 3.3 per cent for more than 500 ms."
+   },
+   "id": "R10-base-0060",
+   "source_node_ids": [
+    "R10|base|7.12.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 21,
+    "page_end": 22,
+    "paragraph": "7.12.2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 22,
+   "text": "For an ESA in REESS charging mode with rated current > 16 A and ≤ 75 A per phase and subjected to conditional connection, measured by the Annex 18 method (IEC 61000-3-11, Clause 5), the relative steady-state voltage change dc shall not exceed 3.3 per cent.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.12.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.12.2.2"
+    ],
+    "table": null,
+    "text": "For an ESA in REESS charging mode with rated current > 16 A and ≤ 75 A per phase and subjected to conditional connection, measured by the Annex 18 method (IEC 61000-3-11, Clause 5), the relative steady-state voltage change dc shall not exceed 3.3 per cent."
+   },
+   "id": "R10-base-0061",
+   "source_node_ids": [
+    "R10|base|7.12.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 21,
+    "page_end": 22,
+    "paragraph": "7.12.2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 23,
+   "text": "For an ESA in REESS charging mode with rated current > 16 A and ≤ 75 A per phase and subjected to conditional connection, measured by the Annex 18 method (IEC 61000-3-11, Clause 5), the maximum relative voltage change dmax shall not exceed 6 per cent.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.12.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.12.2.2"
+    ],
+    "table": null,
+    "text": "For an ESA in REESS charging mode with rated current > 16 A and ≤ 75 A per phase and subjected to conditional connection, measured by the Annex 18 method (IEC 61000-3-11, Clause 5), the maximum relative voltage change dmax shall not exceed 6 per cent."
+   },
+   "id": "R10-base-0062",
+   "source_node_ids": [
+    "R10|base|7.12.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 21,
+    "page_end": 22,
+    "paragraph": "7.12.2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 24,
+   "text": "If the charge-port area includes a vehicle inlet or charging electronics connected to AC or DC power lines, the radiofrequency conducted disturbances on those lines generated by the ESA shall be measured by the Annex 19 method. That method is defined by the ESA manufacturer in accordance with the Technical Service.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.13.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.13.1"
+    ],
+    "table": null,
+    "text": "If the charge-port area includes a vehicle inlet or charging electronics connected to AC or DC power lines, the radiofrequency conducted disturbances on those lines generated by the ESA shall be measured by the Annex 19 method. That method is defined by the ESA manufacturer in accordance with the Technical Service."
+   },
+   "id": "R10-base-0063",
+   "source_node_ids": [
+    "R10|base|7.13.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 22,
+    "page_end": 22,
+    "paragraph": "7.13.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 25,
+   "text": "For an ESA in REESS charging mode, the radiofrequency conducted disturbances on AC power lines, measured by the Annex 19 method, shall not exceed the limits defined in IEC 61000-6-3 and given in Table 16.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.13.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.13.2.1"
+    ],
+    "table": null,
+    "text": "For an ESA in REESS charging mode, the radiofrequency conducted disturbances on AC power lines, measured by the Annex 19 method, shall not exceed the limits defined in IEC 61000-6-3 and given in Table 16."
+   },
+   "id": "R10-base-0064",
+   "source_node_ids": [
+    "R10|base|7.13.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 22,
+    "page_end": 22,
+    "paragraph": "7.13.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 26,
+   "text": "Maximum allowed radiofrequency conducted disturbances from an ESA on AC power lines (Annex 19). From 0.15 to 0.5 MHz: quasi-peak 66 to 56 dBµV and average 56 to 46 dBµV, both decreasing linearly with the logarithm of frequency. From 0.5 to 5 MHz: quasi-peak 56 dBµV, average 46 dBµV. From 5 to 30 MHz: quasi-peak 60 dBµV, average 50 dBµV.",
+   "table": "16",
+   "cited_ids": [
+    "R10|base|7.13.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.13.2.1"
+    ],
+    "table": "16",
+    "text": "Maximum allowed radiofrequency conducted disturbances from an ESA on AC power lines (Annex 19). From 0.15 to 0.5 MHz: quasi-peak 66 to 56 dBµV and average 56 to 46 dBµV, both decreasing linearly with the logarithm of frequency. From 0.5 to 5 MHz: quasi-peak 56 dBµV, average 46 dBµV. From 5 to 30 MHz: quasi-peak 60 dBµV, average 50 dBµV."
+   },
+   "id": "R10-base-0065",
+   "source_node_ids": [
+    "R10|base|7.13.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 22,
+    "page_end": 22,
+    "paragraph": "7.13.2.1. Table 16"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 27,
+   "text": "For an ESA in REESS charging mode, the radiofrequency conducted disturbances on DC power lines, measured by the Annex 19 method, shall not exceed the limits defined in IEC 61000-6-3 and given in Table 17.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.13.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.13.2.2"
+    ],
+    "table": null,
+    "text": "For an ESA in REESS charging mode, the radiofrequency conducted disturbances on DC power lines, measured by the Annex 19 method, shall not exceed the limits defined in IEC 61000-6-3 and given in Table 17."
+   },
+   "id": "R10-base-0066",
+   "source_node_ids": [
+    "R10|base|7.13.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 22,
+    "page_end": 22,
+    "paragraph": "7.13.2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 28,
+   "text": "Maximum allowed radiofrequency conducted disturbances from an ESA on DC power lines (Annex 19). From 0.15 to 0.5 MHz: quasi-peak 79 dBµV, average 66 dBµV. From 0.5 to 30 MHz: quasi-peak 73 dBµV, average 60 dBµV.",
+   "table": "17",
+   "cited_ids": [
+    "R10|base|7.13.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.13.2.2"
+    ],
+    "table": "17",
+    "text": "Maximum allowed radiofrequency conducted disturbances from an ESA on DC power lines (Annex 19). From 0.15 to 0.5 MHz: quasi-peak 79 dBµV, average 66 dBµV. From 0.5 to 30 MHz: quasi-peak 73 dBµV, average 60 dBµV."
+   },
+   "id": "R10-base-0067",
+   "source_node_ids": [
+    "R10|base|7.13.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 22,
+    "page_end": 22,
+    "paragraph": "7.13.2.2. Table 17"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 29,
+   "text": "If the charge-port area includes a vehicle inlet or charging electronics connected to AC or DC power lines, the ESA's immunity to Electrical Fast Transient/Burst disturbances conducted along those lines shall be tested by the Annex 21 method.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.15.1.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.15.1.1"
+    ],
+    "table": null,
+    "text": "If the charge-port area includes a vehicle inlet or charging electronics connected to AC or DC power lines, the ESA's immunity to Electrical Fast Transient/Burst disturbances conducted along those lines shall be tested by the Annex 21 method."
+   },
+   "id": "R10-base-0068",
+   "source_node_ids": [
+    "R10|base|7.15.1.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 22,
+    "page_end": 22,
+    "paragraph": "7.15.1.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 30,
+   "text": "For an ESA in REESS charging mode tested by the Annex 21 method, the EFT/burst immunity test levels for AC or DC power lines shall be: ±2 kV test voltage in open circuit, rise time (Tr) 5 ns, hold time (Th) 50 ns, repetition rate 5 kHz, applied for at least 1 minute.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.15.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.15.2.1"
+    ],
+    "table": null,
+    "text": "For an ESA in REESS charging mode tested by the Annex 21 method, the EFT/burst immunity test levels for AC or DC power lines shall be: ±2 kV test voltage in open circuit, rise time (Tr) 5 ns, hold time (Th) 50 ns, repetition rate 5 kHz, applied for at least 1 minute."
+   },
+   "id": "R10-base-0069",
+   "source_node_ids": [
+    "R10|base|7.15.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 22,
+    "page_end": 22,
+    "paragraph": "7.15.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 31,
+   "text": "The ESA in REESS charging mode shall show no degradation of performance of the charging function, as defined in paragraph 2.1 of Annex 21, during the EFT/burst tests performed in accordance with Annex 21.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.15.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.15.2.2"
+    ],
+    "table": null,
+    "text": "The ESA in REESS charging mode shall show no degradation of performance of the charging function, as defined in paragraph 2.1 of Annex 21, during the EFT/burst tests performed in accordance with Annex 21."
+   },
+   "id": "R10-base-0070",
+   "source_node_ids": [
+    "R10|base|7.15.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 23,
+    "page_end": 23,
+    "paragraph": "7.15.2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 32,
+   "text": "If the charge-port area includes a vehicle inlet or charging electronics connected to AC or DC power lines, the ESA's immunity to surge conducted along those lines shall be tested by the Annex 22 method.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.16.1.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.16.1.1"
+    ],
+    "table": null,
+    "text": "If the charge-port area includes a vehicle inlet or charging electronics connected to AC or DC power lines, the ESA's immunity to surge conducted along those lines shall be tested by the Annex 22 method."
+   },
+   "id": "R10-base-0071",
+   "source_node_ids": [
+    "R10|base|7.16.1.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 23,
+    "page_end": 23,
+    "paragraph": "7.16.1.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 33,
+   "text": "For an ESA in REESS charging mode tested by the Annex 22 method, the surge immunity test levels on AC power lines shall be ±2 kV (open circuit) between line and earth and ±1 kV between lines. The pulse has a rise time (Tr) of 1.2 µs and a hold time (Th) of 50 µs. Each surge is applied five times with a maximum delay of 1 minute between pulses, at phases 0, 90, 180 and 270°.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.16.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.16.2.1"
+    ],
+    "table": null,
+    "text": "For an ESA in REESS charging mode tested by the Annex 22 method, the surge immunity test levels on AC power lines shall be ±2 kV (open circuit) between line and earth and ±1 kV between lines. The pulse has a rise time (Tr) of 1.2 µs and a hold time (Th) of 50 µs. Each surge is applied five times with a maximum delay of 1 minute between pulses, at phases 0, 90, 180 and 270°."
+   },
+   "id": "R10-base-0072",
+   "source_node_ids": [
+    "R10|base|7.16.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 23,
+    "page_end": 23,
+    "paragraph": "7.16.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 34,
+   "text": "For an ESA in REESS charging mode tested by the Annex 22 method, the surge immunity test levels on DC power lines shall be ±0.5 kV (open circuit) between line and earth and ±0.5 kV between lines. The pulse has a rise time (Tr) of 1.2 µs and a hold time (Th) of 50 µs. Each surge is applied five times with a maximum delay of 1 minute.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.16.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.16.2.1"
+    ],
+    "table": null,
+    "text": "For an ESA in REESS charging mode tested by the Annex 22 method, the surge immunity test levels on DC power lines shall be ±0.5 kV (open circuit) between line and earth and ±0.5 kV between lines. The pulse has a rise time (Tr) of 1.2 µs and a hold time (Th) of 50 µs. Each surge is applied five times with a maximum delay of 1 minute."
+   },
+   "id": "R10-base-0073",
+   "source_node_ids": [
+    "R10|base|7.16.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 23,
+    "page_end": 23,
+    "paragraph": "7.16.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 35,
+   "text": "The ESA in REESS charging mode shall show no degradation of performance of the charging function, as defined in paragraph 2.1 of Annex 22, during the surge tests performed in accordance with Annex 22.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.16.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.16.2.2"
+    ],
+    "table": null,
+    "text": "The ESA in REESS charging mode shall show no degradation of performance of the charging function, as defined in paragraph 2.1 of Annex 22, during the surge tests performed in accordance with Annex 22."
+   },
+   "id": "R10-base-0074",
+   "source_node_ids": [
+    "R10|base|7.16.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 23,
+    "page_end": 23,
+    "paragraph": "7.16.2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 36,
+   "text": "For an ESA active in configuration \"REESS charging mode coupled to the power grid\", the emission of transient conducted disturbances on 12/24 V supply lines shall be tested according to ISO 7637-2:2011 as described in Annex 10. The emissions shall not exceed the levels given in Table 18.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.17.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.17.1"
+    ],
+    "table": null,
+    "text": "For an ESA active in configuration \"REESS charging mode coupled to the power grid\", the emission of transient conducted disturbances on 12/24 V supply lines shall be tested according to ISO 7637-2:2011 as described in Annex 10. The emissions shall not exceed the levels given in Table 18."
+   },
+   "id": "R10-base-0075",
+   "source_node_ids": [
+    "R10|base|7.17.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 23,
+    "page_end": 23,
+    "paragraph": "7.17.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 37,
+   "text": "Maximum allowed transient pulse amplitude emitted by an ESA on supply lines in REESS charging mode: positive polarity +75 V for 12 V systems and +150 V for 24 V systems; negative polarity -100 V for 12 V systems and -450 V for 24 V systems.",
+   "table": "18",
+   "cited_ids": [
+    "R10|base|7.17.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.17.1"
+    ],
+    "table": "18",
+    "text": "Maximum allowed transient pulse amplitude emitted by an ESA on supply lines in REESS charging mode: positive polarity +75 V for 12 V systems and +150 V for 24 V systems; negative polarity -100 V for 12 V systems and -450 V for 24 V systems."
+   },
+   "id": "R10-base-0076",
+   "source_node_ids": [
+    "R10|base|7.17.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 23,
+    "page_end": 23,
+    "paragraph": "7.17.1. Table 18"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 38,
+   "text": "For an ESA active in configuration \"REESS charging mode coupled to the power grid\", the immunity to electromagnetic radiation shall be tested by method(s) chosen from those described in Annex 9. Testing shall cover the levels given in Table 19a over more than 90 per cent of the 20 to 6,000 MHz band, and the minimum levels given in Table 19b over the whole band.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.18.1",
+    "R10|base|7.18.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.18.1",
+     "R10|base|7.18.2.1"
+    ],
+    "table": null,
+    "text": "For an ESA active in configuration \"REESS charging mode coupled to the power grid\", the immunity to electromagnetic radiation shall be tested by method(s) chosen from those described in Annex 9. Testing shall cover the levels given in Table 19a over more than 90 per cent of the 20 to 6,000 MHz band, and the minimum levels given in Table 19b over the whole band."
+   },
+   "id": "R10-base-0077",
+   "source_node_ids": [
+    "R10|base|7.18.1",
+    "R10|base|7.18.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 23,
+    "page_end": 24,
+    "paragraph": "7.18.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 39,
+   "text": "Radiated immunity test levels for an ESA in REESS charging mode, applied over more than 90 per cent of the 20 to 6,000 MHz band. BCI: 60 mA from 20 to 400 MHz (not applicable above 2 GHz). ALSE: 30 V/m from 80 to 2,000 MHz and 10 V/m from 2,000 to 6,000 MHz.",
+   "table": "19a",
+   "cited_ids": [
+    "R10|base|7.18.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.18.2.1"
+    ],
+    "table": "19a",
+    "text": "Radiated immunity test levels for an ESA in REESS charging mode, applied over more than 90 per cent of the 20 to 6,000 MHz band. BCI: 60 mA from 20 to 400 MHz (not applicable above 2 GHz). ALSE: 30 V/m from 80 to 2,000 MHz and 10 V/m from 2,000 to 6,000 MHz."
+   },
+   "id": "R10-base-0078",
+   "source_node_ids": [
+    "R10|base|7.18.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 23,
+    "page_end": 24,
+    "paragraph": "7.18.2.1. Table 19a"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 40,
+   "text": "Minimum radiated immunity test levels for an ESA in REESS charging mode, applied over the whole 20 to 6,000 MHz band. BCI: 50 mA from 20 to 400 MHz (not applicable above 2 GHz). ALSE: 25 V/m from 80 to 2,000 MHz and 8 V/m from 2,000 to 6,000 MHz.",
+   "table": "19b",
+   "cited_ids": [
+    "R10|base|7.18.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.18.2.1"
+    ],
+    "table": "19b",
+    "text": "Minimum radiated immunity test levels for an ESA in REESS charging mode, applied over the whole 20 to 6,000 MHz band. BCI: 50 mA from 20 to 400 MHz (not applicable above 2 GHz). ALSE: 25 V/m from 80 to 2,000 MHz and 8 V/m from 2,000 to 6,000 MHz."
+   },
+   "id": "R10-base-0079",
+   "source_node_ids": [
+    "R10|base|7.18.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 23,
+    "page_end": 24,
+    "paragraph": "7.18.2.1. Table 19b"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 41,
+   "text": "The ESA in REESS charging mode shall show no degradation of performance of the charging function, as defined in paragraph 2.3 of Annex 9, during the radiated immunity tests performed in accordance with Annex 9.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.18.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.18.2.2"
+    ],
+    "table": null,
+    "text": "The ESA in REESS charging mode shall show no degradation of performance of the charging function, as defined in paragraph 2.3 of Annex 9, during the radiated immunity tests performed in accordance with Annex 9."
+   },
+   "id": "R10-base-0080",
+   "source_node_ids": [
+    "R10|base|7.18.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 24,
+    "page_end": 24,
+    "paragraph": "7.18.2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 42,
+   "text": "For an ESA active in configuration \"REESS charging mode coupled to the power grid\", the immunity to transient disturbances conducted along 12/24 V supply lines shall be tested according to ISO 7637-2 as described in Annex 10, with the test levels given in Table 20.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.19.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.19.1"
+    ],
+    "table": null,
+    "text": "For an ESA active in configuration \"REESS charging mode coupled to the power grid\", the immunity to transient disturbances conducted along 12/24 V supply lines shall be tested according to ISO 7637-2 as described in Annex 10, with the test levels given in Table 20."
+   },
+   "id": "R10-base-0081",
+   "source_node_ids": [
+    "R10|base|7.19.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 24,
+    "page_end": 24,
+    "paragraph": "7.19.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 43,
+   "text": "ESA in REESS charging mode, test pulse 1: immunity test level -75 V (12 V system) or -450 V (24 V system), 500 pulses. Required functional performance status class: III for both immunity-related and non-immunity-related functions.",
+   "table": "20",
+   "cited_ids": [
+    "R10|base|7.19.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.19.1"
+    ],
+    "table": "20",
+    "text": "ESA in REESS charging mode, test pulse 1: immunity test level -75 V (12 V system) or -450 V (24 V system), 500 pulses. Required functional performance status class: III for both immunity-related and non-immunity-related functions."
+   },
+   "id": "R10-base-0082",
+   "source_node_ids": [
+    "R10|base|7.19.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 24,
+    "page_end": 24,
+    "paragraph": "7.19.1. Table 20"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 44,
+   "text": "ESA in REESS charging mode, test pulse 2a: immunity test level +37 V (12 V and 24 V systems), 500 pulses. Required functional performance status class: I for immunity-related functions and III for non-immunity-related functions.",
+   "table": "20",
+   "cited_ids": [
+    "R10|base|7.19.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.19.1"
+    ],
+    "table": "20",
+    "text": "ESA in REESS charging mode, test pulse 2a: immunity test level +37 V (12 V and 24 V systems), 500 pulses. Required functional performance status class: I for immunity-related functions and III for non-immunity-related functions."
+   },
+   "id": "R10-base-0083",
+   "source_node_ids": [
+    "R10|base|7.19.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 24,
+    "page_end": 24,
+    "paragraph": "7.19.1. Table 20"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 45,
+   "text": "ESA in REESS charging mode, test pulse 2b: immunity test level +10 V (12 V system) or +20 V (24 V system), 10 pulses. Required functional performance status class: II for immunity-related functions and III for non-immunity-related functions.",
+   "table": "20",
+   "cited_ids": [
+    "R10|base|7.19.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.19.1"
+    ],
+    "table": "20",
+    "text": "ESA in REESS charging mode, test pulse 2b: immunity test level +10 V (12 V system) or +20 V (24 V system), 10 pulses. Required functional performance status class: II for immunity-related functions and III for non-immunity-related functions."
+   },
+   "id": "R10-base-0084",
+   "source_node_ids": [
+    "R10|base|7.19.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 24,
+    "page_end": 24,
+    "paragraph": "7.19.1. Table 20"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 46,
+   "text": "ESA in REESS charging mode, test pulse 3a: immunity test level -112 V (12 V system) or -150 V (24 V system), test duration 1 h. Required functional performance status class: I for immunity-related functions and III for non-immunity-related functions.",
+   "table": "20",
+   "cited_ids": [
+    "R10|base|7.19.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.19.1"
+    ],
+    "table": "20",
+    "text": "ESA in REESS charging mode, test pulse 3a: immunity test level -112 V (12 V system) or -150 V (24 V system), test duration 1 h. Required functional performance status class: I for immunity-related functions and III for non-immunity-related functions."
+   },
+   "id": "R10-base-0085",
+   "source_node_ids": [
+    "R10|base|7.19.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 24,
+    "page_end": 24,
+    "paragraph": "7.19.1. Table 20"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 47,
+   "text": "ESA in REESS charging mode, test pulse 3b: immunity test level +75 V (12 V system) or +150 V (24 V system), test duration 1 h. Required functional performance status class: I for immunity-related functions and III for non-immunity-related functions.",
+   "table": "20",
+   "cited_ids": [
+    "R10|base|7.19.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.19.1"
+    ],
+    "table": "20",
+    "text": "ESA in REESS charging mode, test pulse 3b: immunity test level +75 V (12 V system) or +150 V (24 V system), test duration 1 h. Required functional performance status class: I for immunity-related functions and III for non-immunity-related functions."
+   },
+   "id": "R10-base-0086",
+   "source_node_ids": [
+    "R10|base|7.19.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 24,
+    "page_end": 24,
+    "paragraph": "7.19.1. Table 20"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 48,
+   "text": "An ESA intended for \"REESS charging mode coupled to the power grid\" only with a DC-charging station whose DC network cable is shorter than 30 m need not fulfil paragraphs 7.13, 7.15 and 7.16. In that case the manufacturer shall state that the ESA can be used in this mode only with cables shorter than 30 m, and this information shall be made publicly available after type approval.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.20.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.20.1"
+    ],
+    "table": null,
+    "text": "An ESA intended for \"REESS charging mode coupled to the power grid\" only with a DC-charging station whose DC network cable is shorter than 30 m need not fulfil paragraphs 7.13, 7.15 and 7.16. In that case the manufacturer shall state that the ESA can be used in this mode only with cables shorter than 30 m, and this information shall be made publicly available after type approval."
+   },
+   "id": "R10-base-0087",
+   "source_node_ids": [
+    "R10|base|7.20.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 24,
+    "page_end": 25,
+    "paragraph": "7.20.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 49,
+   "text": "An ESA intended for \"REESS charging mode coupled to the power grid\" only with a local/private DC-charging station without additional participants need not fulfil paragraphs 7.13, 7.15 and 7.16. In that case the manufacturer shall state that the ESA can be used in this mode only with such a station, and this information shall be made publicly available after type approval.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|7.20.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|7.20.2"
+    ],
+    "table": null,
+    "text": "An ESA intended for \"REESS charging mode coupled to the power grid\" only with a local/private DC-charging station without additional participants need not fulfil paragraphs 7.13, 7.15 and 7.16. In that case the manufacturer shall state that the ESA can be used in this mode only with such a station, and this information shall be made publicly available after type approval."
+   },
+   "id": "R10-base-0088",
+   "source_node_ids": [
+    "R10|base|7.20.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 25,
+    "page_end": 25,
+    "paragraph": "7.20.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 50,
+   "text": "ESAs (components/STUs) approved under this Regulation shall be manufactured so as to conform to the type approved, meeting the requirements of paragraph 6 and, if applicable, paragraph 7.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|9.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|9.1"
+    ],
+    "table": null,
+    "text": "ESAs (components/STUs) approved under this Regulation shall be manufactured so as to conform to the type approved, meeting the requirements of paragraph 6 and, if applicable, paragraph 7."
+   },
+   "id": "R10-base-0089",
+   "source_node_ids": [
+    "R10|base|9.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 25,
+    "page_end": 25,
+    "paragraph": "9.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 51,
+   "text": "For conformity of production of an ESA taken from the series, broadband and narrowband emission levels shall not exceed by more than 4 dB (60 per cent) the reference limits of paragraphs 6.5.2.1 and 6.6.2.1 and, if applicable, paragraph 7.10.2.1.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|9.3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|9.3.1"
+    ],
+    "table": null,
+    "text": "For conformity of production of an ESA taken from the series, broadband and narrowband emission levels shall not exceed by more than 4 dB (60 per cent) the reference limits of paragraphs 6.5.2.1 and 6.6.2.1 and, if applicable, paragraph 7.10.2.1."
+   },
+   "id": "R10-base-0090",
+   "source_node_ids": [
+    "R10|base|9.3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 26,
+    "page_end": 26,
+    "paragraph": "9.3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 52,
+   "text": "For conformity of production of an ESA taken from the series, the ESA shall not exhibit any degradation relating to the direct control of the vehicle that could be observed by the driver or other road users. This applies when subjected to a field strength up to 80 per cent of the reference limits of paragraph 6.8.2.1 and, if applicable, paragraph 7.18.2.1.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|9.3.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|9.3.2"
+    ],
+    "table": null,
+    "text": "For conformity of production of an ESA taken from the series, the ESA shall not exhibit any degradation relating to the direct control of the vehicle that could be observed by the driver or other road users. This applies when subjected to a field strength up to 80 per cent of the reference limits of paragraph 6.8.2.1 and, if applicable, paragraph 7.18.2.1."
+   },
+   "id": "R10-base-0091",
+   "source_node_ids": [
+    "R10|base|9.3.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 26,
+    "page_end": 26,
+    "paragraph": "9.3.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 53,
+   "text": "For conformity of production of a component or STU taken from the series, the ESA shall show no degradation of performance of \"immunity related functions\" up to the conducted transient levels given in paragraph 6.9.1 and, if applicable, paragraph 7.19.1.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|9.3.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|9.3.3"
+    ],
+    "table": null,
+    "text": "For conformity of production of a component or STU taken from the series, the ESA shall show no degradation of performance of \"immunity related functions\" up to the conducted transient levels given in paragraph 6.9.1 and, if applicable, paragraph 7.19.1."
+   },
+   "id": "R10-base-0092",
+   "source_node_ids": [
+    "R10|base|9.3.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 26,
+    "page_end": 26,
+    "paragraph": "9.3.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 54,
+   "text": "For conformity of production of a component or STU taken from the series, the ESA's transient conducted emissions shall not exceed the levels given in paragraph 6.7.1 and, if applicable, paragraph 7.17.1.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|9.3.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|9.3.3"
+    ],
+    "table": null,
+    "text": "For conformity of production of a component or STU taken from the series, the ESA's transient conducted emissions shall not exceed the levels given in paragraph 6.7.1 and, if applicable, paragraph 7.17.1."
+   },
+   "id": "R10-base-0093",
+   "source_node_ids": [
+    "R10|base|9.3.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 26,
+    "page_end": 26,
+    "paragraph": "9.3.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-003",
+   "index_in_response": 0,
+   "text": "ESA broadband reference limits (paragraphs 6.5.2.1. and 7.10.2.1.): the broadband electromagnetic emission of the ESA, measured with a 120 kHz bandwidth, shall not exceed E (dBµV/m) = 62 - 25.13 log (F/30) in the 30-75 MHz range and E = 52 + 15.13 log (F/75) in the 75-400 MHz range, where F is the frequency in MHz.",
+   "table": "Appendix 6",
+   "cited_ids": [
+    "R10|base|23"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|23"
+    ],
+    "table": "Appendix 6",
+    "text": "ESA broadband reference limits (paragraphs 6.5.2.1. and 7.10.2.1.): the broadband electromagnetic emission of the ESA, measured with a 120 kHz bandwidth, shall not exceed E (dBµV/m) = 62 - 25.13 log (F/30) in the 30-75 MHz range and E = 52 + 15.13 log (F/75) in the 75-400 MHz range, where F is the frequency in MHz."
+   },
+   "id": "R10-base-0094",
+   "source_node_ids": [
+    "R10|base|23"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 29,
+    "page_end": 44,
+    "paragraph": "23. Table Appendix 6"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-003",
+   "index_in_response": 1,
+   "text": "ESA broadband reference limits (paragraphs 6.5.2.1. and 7.10.2.1.): the broadband electromagnetic emission of the ESA, measured with a 120 kHz bandwidth, shall not exceed E = 63 dBµV/m in the 400-1,000 MHz range.",
+   "table": "Appendix 6",
+   "cited_ids": [
+    "R10|base|23"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|23"
+    ],
+    "table": "Appendix 6",
+    "text": "ESA broadband reference limits (paragraphs 6.5.2.1. and 7.10.2.1.): the broadband electromagnetic emission of the ESA, measured with a 120 kHz bandwidth, shall not exceed E = 63 dBµV/m in the 400-1,000 MHz range."
+   },
+   "id": "R10-base-0095",
+   "source_node_ids": [
+    "R10|base|23"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 29,
+    "page_end": 44,
+    "paragraph": "23. Table Appendix 6"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-003",
+   "index_in_response": 2,
+   "text": "ESA narrowband reference limits (paragraph 6.6.2.1.): the narrowband electromagnetic emission of the ESA, measured with a 120 kHz bandwidth, shall not exceed E (dBµV/m) = 52 - 25.13 log (F/30) in the 30-75 MHz range and E = 42 + 15.13 log (F/75) in the 75-400 MHz range, where F is the frequency in MHz.",
+   "table": "Appendix 7",
+   "cited_ids": [
+    "R10|base|23"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|23"
+    ],
+    "table": "Appendix 7",
+    "text": "ESA narrowband reference limits (paragraph 6.6.2.1.): the narrowband electromagnetic emission of the ESA, measured with a 120 kHz bandwidth, shall not exceed E (dBµV/m) = 52 - 25.13 log (F/30) in the 30-75 MHz range and E = 42 + 15.13 log (F/75) in the 75-400 MHz range, where F is the frequency in MHz."
+   },
+   "id": "R10-base-0096",
+   "source_node_ids": [
+    "R10|base|23"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 29,
+    "page_end": 44,
+    "paragraph": "23. Table Appendix 7"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-003",
+   "index_in_response": 3,
+   "text": "ESA narrowband reference limits (paragraph 6.6.2.1.): the narrowband electromagnetic emission of the ESA, measured with a 120 kHz bandwidth, shall not exceed E = 53 dBµV/m in the 400-1,000 MHz range.",
+   "table": "Appendix 7",
+   "cited_ids": [
+    "R10|base|23"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|23"
+    ],
+    "table": "Appendix 7",
+    "text": "ESA narrowband reference limits (paragraph 6.6.2.1.): the narrowband electromagnetic emission of the ESA, measured with a 120 kHz bandwidth, shall not exceed E = 53 dBµV/m in the 400-1,000 MHz range."
+   },
+   "id": "R10-base-0097",
+   "source_node_ids": [
+    "R10|base|23"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 29,
+    "page_end": 44,
+    "paragraph": "23. Table Appendix 7"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 0,
+   "text": "The test measuring broadband electromagnetic emissions from the ESA shall be performed according to CISPR 25, unless otherwise stated in Annex 7.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 7 1.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 7 1.2"
+    ],
+    "table": null,
+    "text": "The test measuring broadband electromagnetic emissions from the ESA shall be performed according to CISPR 25, unless otherwise stated in Annex 7."
+   },
+   "id": "R10-base-0098",
+   "source_node_ids": [
+    "R10|base|Annex 7 1.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 91,
+    "page_end": 91,
+    "paragraph": "Annex 7 1.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 1,
+   "text": "During the broadband emission test, the ESA under test shall be in normal operation mode, preferably in maximum load.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 7 2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 7 2.1"
+    ],
+    "table": null,
+    "text": "During the broadband emission test, the ESA under test shall be in normal operation mode, preferably in maximum load."
+   },
+   "id": "R10-base-0099",
+   "source_node_ids": [
+    "R10|base|Annex 7 2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 91,
+    "page_end": 91,
+    "paragraph": "Annex 7 2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 2,
+   "text": "If the ESA is involved in 'REESS charging mode coupled to the power grid' (e.g. charging electronics in the charge-port area, or ESAs active during charging), it shall be in charging mode during the broadband emission test. The state of charge of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole frequency range measurement.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 7 2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 7 2.1"
+    ],
+    "table": null,
+    "text": "If the ESA is involved in 'REESS charging mode coupled to the power grid' (e.g. charging electronics in the charge-port area, or ESAs active during charging), it shall be in charging mode during the broadband emission test. The state of charge of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole frequency range measurement."
+   },
+   "id": "R10-base-0100",
+   "source_node_ids": [
+    "R10|base|Annex 7 2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 91,
+    "page_end": 91,
+    "paragraph": "Annex 7 2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 3,
+   "text": "For an ESA involved in 'REESS charging mode coupled to the power grid' whose current consumption can be adjusted, the current during the broadband emission test shall be set as follows: at least 80 per cent of its maximum rated charging/input current for AC charging; for DC charging, at least 20 per cent of its nominal value, or a minimum of 16 A if 20 per cent cannot be achieved in the test facility, unless another value is agreed with the type approval authorities. If the test is not performed with a REESS, the ESA should be tested at rated current.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 7 2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 7 2.1"
+    ],
+    "table": null,
+    "text": "For an ESA involved in 'REESS charging mode coupled to the power grid' whose current consumption can be adjusted, the current during the broadband emission test shall be set as follows: at least 80 per cent of its maximum rated charging/input current for AC charging; for DC charging, at least 20 per cent of its nominal value, or a minimum of 16 A if 20 per cent cannot be achieved in the test facility, unless another value is agreed with the type approval authorities. If the test is not performed with a REESS, the ESA should be tested at rated current."
+   },
+   "id": "R10-base-0101",
+   "source_node_ids": [
+    "R10|base|Annex 7 2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 91,
+    "page_end": 91,
+    "paragraph": "Annex 7 2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 4,
+   "text": "For an ESA not involved in 'REESS charging mode coupled to the power grid', the broadband emission test shall be performed according to the ALSE method described in Clause 6.4 of CISPR 25.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 7 3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 7 3.1"
+    ],
+    "table": null,
+    "text": "For an ESA not involved in 'REESS charging mode coupled to the power grid', the broadband emission test shall be performed according to the ALSE method described in Clause 6.4 of CISPR 25."
+   },
+   "id": "R10-base-0102",
+   "source_node_ids": [
+    "R10|base|Annex 7 3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 91,
+    "page_end": 91,
+    "paragraph": "Annex 7 3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 5,
+   "text": "The ESA broadband emission limits apply throughout the frequency range 30 to 1,000 MHz for measurements performed in an ALSE or OATS.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 7 4.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 7 4.1"
+    ],
+    "table": null,
+    "text": "The ESA broadband emission limits apply throughout the frequency range 30 to 1,000 MHz for measurements performed in an ALSE or OATS."
+   },
+   "id": "R10-base-0103",
+   "source_node_ids": [
+    "R10|base|Annex 7 4.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 92,
+    "page_end": 92,
+    "paragraph": "Annex 7 4.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 6,
+   "text": "Broadband emission measurements of the ESA may be performed with quasi-peak or peak detectors. The limits of paragraphs 6.5 and 7.10 are quasi-peak limits; if peak detectors are used, a correction factor of 20 dB as defined in CISPR 12 shall be applied.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 7 4.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 7 4.2"
+    ],
+    "table": null,
+    "text": "Broadband emission measurements of the ESA may be performed with quasi-peak or peak detectors. The limits of paragraphs 6.5 and 7.10 are quasi-peak limits; if peak detectors are used, a correction factor of 20 dB as defined in CISPR 12 shall be applied."
+   },
+   "id": "R10-base-0104",
+   "source_node_ids": [
+    "R10|base|Annex 7 4.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 92,
+    "page_end": 92,
+    "paragraph": "Annex 7 4.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 7,
+   "text": "The test measuring narrowband electromagnetic emissions from the ESA (other than ESAs involved in 'REESS charging mode coupled to the power grid') shall be performed according to CISPR 25, unless otherwise stated in Annex 8.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 8 1.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 8 1.2"
+    ],
+    "table": null,
+    "text": "The test measuring narrowband electromagnetic emissions from the ESA (other than ESAs involved in 'REESS charging mode coupled to the power grid') shall be performed according to CISPR 25, unless otherwise stated in Annex 8."
+   },
+   "id": "R10-base-0105",
+   "source_node_ids": [
+    "R10|base|Annex 8 1.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 96,
+    "page_end": 96,
+    "paragraph": "Annex 8 1.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 8,
+   "text": "During the narrowband emission test, the ESA under test shall be in normal operation mode, preferably in maximum load.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 8 2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 8 2"
+    ],
+    "table": null,
+    "text": "During the narrowband emission test, the ESA under test shall be in normal operation mode, preferably in maximum load."
+   },
+   "id": "R10-base-0106",
+   "source_node_ids": [
+    "R10|base|Annex 8 2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 96,
+    "page_end": 96,
+    "paragraph": "Annex 8 2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 9,
+   "text": "The ESA narrowband emission test shall be performed according to the ALSE method described in paragraph 6.4 of CISPR 25.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 8 3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 8 3.1"
+    ],
+    "table": null,
+    "text": "The ESA narrowband emission test shall be performed according to the ALSE method described in paragraph 6.4 of CISPR 25."
+   },
+   "id": "R10-base-0107",
+   "source_node_ids": [
+    "R10|base|Annex 8 3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 96,
+    "page_end": 96,
+    "paragraph": "Annex 8 3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 10,
+   "text": "The ESA narrowband emission limits apply throughout the frequency range 30 to 1,000 MHz for measurements performed in an ALSE or OATS.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 8 4.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 8 4.1"
+    ],
+    "table": null,
+    "text": "The ESA narrowband emission limits apply throughout the frequency range 30 to 1,000 MHz for measurements performed in an ALSE or OATS."
+   },
+   "id": "R10-base-0108",
+   "source_node_ids": [
+    "R10|base|Annex 8 4.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 96,
+    "page_end": 96,
+    "paragraph": "Annex 8 4.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 11,
+   "text": "ESA narrowband emission measurements shall be performed with an average detector.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 8 4.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 8 4.2"
+    ],
+    "table": null,
+    "text": "ESA narrowband emission measurements shall be performed with an average detector."
+   },
+   "id": "R10-base-0109",
+   "source_node_ids": [
+    "R10|base|Annex 8 4.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 96,
+    "page_end": 96,
+    "paragraph": "Annex 8 4.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 12,
+   "text": "The ESA may comply with the electromagnetic radiation immunity requirements using any combination of the following methods, at the manufacturer's discretion, provided the full frequency range of paragraph 3.1 of Annex 9 (20 to 6,000 MHz) is covered: absorber chamber test (ISO 11452-2), TEM cell (ISO 11452-3), bulk current injection (ISO 11452-4), stripline (ISO 11452-5) or reverberation chamber (ISO 11452-11). Frequency range and general test conditions shall be based on ISO 11452-1.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 1.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 1.2.1"
+    ],
+    "table": null,
+    "text": "The ESA may comply with the electromagnetic radiation immunity requirements using any combination of the following methods, at the manufacturer's discretion, provided the full frequency range of paragraph 3.1 of Annex 9 (20 to 6,000 MHz) is covered: absorber chamber test (ISO 11452-2), TEM cell (ISO 11452-3), bulk current injection (ISO 11452-4), stripline (ISO 11452-5) or reverberation chamber (ISO 11452-11). Frequency range and general test conditions shall be based on ISO 11452-1."
+   },
+   "id": "R10-base-0110",
+   "source_node_ids": [
+    "R10|base|Annex 9 1.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 97,
+    "page_end": 98,
+    "paragraph": "Annex 9 1.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 13,
+   "text": "If the ESA is in configuration 'REESS charging mode coupled to the power grid', it shall comply with the immunity requirements using a combination of the absorber chamber test (ISO 11452-2) and bulk current injection testing (ISO 11452-4), at the manufacturer's discretion, provided the full frequency range of paragraph 3.1 of Annex 9 is covered.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 1.2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 1.2.1"
+    ],
+    "table": null,
+    "text": "If the ESA is in configuration 'REESS charging mode coupled to the power grid', it shall comply with the immunity requirements using a combination of the absorber chamber test (ISO 11452-2) and bulk current injection testing (ISO 11452-4), at the manufacturer's discretion, provided the full frequency range of paragraph 3.1 of Annex 9 is covered."
+   },
+   "id": "R10-base-0111",
+   "source_node_ids": [
+    "R10|base|Annex 9 1.2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 97,
+    "page_end": 98,
+    "paragraph": "Annex 9 1.2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 14,
+   "text": "The test conditions for the ESA immunity test shall be according to ISO 11452-1.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 2.1"
+    ],
+    "table": null,
+    "text": "The test conditions for the ESA immunity test shall be according to ISO 11452-1."
+   },
+   "id": "R10-base-0112",
+   "source_node_ids": [
+    "R10|base|Annex 9 2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 98,
+    "page_end": 98,
+    "paragraph": "Annex 9 2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 15,
+   "text": "During the immunity test, the ESA under test shall be switched on and stimulated to be in normal operation condition. It shall be arranged as defined in Annex 9 unless individual test methods dictate otherwise.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 2.2"
+    ],
+    "table": null,
+    "text": "During the immunity test, the ESA under test shall be switched on and stimulated to be in normal operation condition. It shall be arranged as defined in Annex 9 unless individual test methods dictate otherwise."
+   },
+   "id": "R10-base-0113",
+   "source_node_ids": [
+    "R10|base|Annex 9 2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 98,
+    "page_end": 98,
+    "paragraph": "Annex 9 2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 16,
+   "text": "If the ESA is involved in 'REESS charging mode coupled to the power grid', the REESS shall be in charging mode during the immunity test. The traction battery SOC shall be kept between 20 per cent and 80 per cent of the maximum SOC (the average SOC in case of multiple batteries). If the current consumption can be adjusted, the current shall be set to at least 20 per cent of the maximum rated charging/input current for AC charging. For DC charging it shall be set to at least 20 per cent of the nominal value, or a minimum of 16 A if this cannot be achieved, unless another value is agreed with the Type-Approval Authorities.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 2.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 2.3"
+    ],
+    "table": null,
+    "text": "If the ESA is involved in 'REESS charging mode coupled to the power grid', the REESS shall be in charging mode during the immunity test. The traction battery SOC shall be kept between 20 per cent and 80 per cent of the maximum SOC (the average SOC in case of multiple batteries). If the current consumption can be adjusted, the current shall be set to at least 20 per cent of the maximum rated charging/input current for AC charging. For DC charging it shall be set to at least 20 per cent of the nominal value, or a minimum of 16 A if this cannot be achieved, unless another value is agreed with the Type-Approval Authorities."
+   },
+   "id": "R10-base-0114",
+   "source_node_ids": [
+    "R10|base|Annex 9 2.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 98,
+    "page_end": 98,
+    "paragraph": "Annex 9 2.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 17,
+   "text": "Failure criterion for an ESA involved in 'REESS charging mode coupled to the power grid': a temporary loss of the charging function during the immunity test is allowed only if there is no incorrect charging condition (e.g. over-current, overvoltage) and the function can be restored by a simple intervention without tools (e.g. turning the DUT off/on) after the disturbance is removed.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 2.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 2.3"
+    ],
+    "table": null,
+    "text": "Failure criterion for an ESA involved in 'REESS charging mode coupled to the power grid': a temporary loss of the charging function during the immunity test is allowed only if there is no incorrect charging condition (e.g. over-current, overvoltage) and the function can be restored by a simple intervention without tools (e.g. turning the DUT off/on) after the disturbance is removed."
+   },
+   "id": "R10-base-0115",
+   "source_node_ids": [
+    "R10|base|Annex 9 2.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 98,
+    "page_end": 98,
+    "paragraph": "Annex 9 2.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 18,
+   "text": "ESA immunity measurements shall be made in the 20 to 6,000 MHz frequency range, with frequency steps, step size and dwell time chosen according to ISO 11452-1.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 3.1"
+    ],
+    "table": null,
+    "text": "ESA immunity measurements shall be made in the 20 to 6,000 MHz frequency range, with frequency steps, step size and dwell time chosen according to ISO 11452-1."
+   },
+   "id": "R10-base-0116",
+   "source_node_ids": [
+    "R10|base|Annex 9 3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 98,
+    "page_end": 99,
+    "paragraph": "Annex 9 3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 19,
+   "text": "In the 20 to 400 MHz frequency range, the ESA immunity test signal modulation shall be AM with 1 kHz modulation and 80 per cent modulation depth, unless otherwise agreed between Technical Service and ESA manufacturer.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 3.1"
+    ],
+    "table": null,
+    "text": "In the 20 to 400 MHz frequency range, the ESA immunity test signal modulation shall be AM with 1 kHz modulation and 80 per cent modulation depth, unless otherwise agreed between Technical Service and ESA manufacturer."
+   },
+   "id": "R10-base-0117",
+   "source_node_ids": [
+    "R10|base|Annex 9 3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 98,
+    "page_end": 99,
+    "paragraph": "Annex 9 3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 20,
+   "text": "In the 2,700 to 3,100 MHz frequency range, the ESA immunity test signal modulation shall be PM2 (pulse modulation type 2) with Ton 3 µs and period 3,333 µs, unless otherwise agreed between Technical Service and ESA manufacturer.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 3.1"
+    ],
+    "table": null,
+    "text": "In the 2,700 to 3,100 MHz frequency range, the ESA immunity test signal modulation shall be PM2 (pulse modulation type 2) with Ton 3 µs and period 3,333 µs, unless otherwise agreed between Technical Service and ESA manufacturer."
+   },
+   "id": "R10-base-0118",
+   "source_node_ids": [
+    "R10|base|Annex 9 3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 98,
+    "page_end": 99,
+    "paragraph": "Annex 9 3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 21,
+   "text": "In the 380 to 2,700 MHz and 3,100 to 6,000 MHz frequency ranges, the ESA immunity test signal modulation shall be PM3 (pulse modulation type 3) with Ton 500 µs and period 1,000 µs, unless otherwise agreed between Technical Service and ESA manufacturer.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 3.1"
+    ],
+    "table": null,
+    "text": "In the 380 to 2,700 MHz and 3,100 to 6,000 MHz frequency ranges, the ESA immunity test signal modulation shall be PM3 (pulse modulation type 3) with Ton 500 µs and period 1,000 µs, unless otherwise agreed between Technical Service and ESA manufacturer."
+   },
+   "id": "R10-base-0119",
+   "source_node_ids": [
+    "R10|base|Annex 9 3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 98,
+    "page_end": 99,
+    "paragraph": "Annex 9 3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 22,
+   "text": "When the absorber chamber test is used for ESA immunity, the test field conditions shall be established with the substitution method according to ISO 11452-2, and the test shall be performed with vertical polarization.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 4.1.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 4.1.2"
+    ],
+    "table": null,
+    "text": "When the absorber chamber test is used for ESA immunity, the test field conditions shall be established with the substitution method according to ISO 11452-2, and the test shall be performed with vertical polarization."
+   },
+   "id": "R10-base-0120",
+   "source_node_ids": [
+    "R10|base|Annex 9 4.1.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 99,
+    "page_end": 99,
+    "paragraph": "Annex 9 4.1.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 23,
+   "text": "When TEM cell testing is used for ESA immunity, the test shall be performed according to ISO 11452-3. The method of maximum field coupling to the ESA or to the wiring harness inside the TEM cell shall be used.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 4.2.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 4.2.2"
+    ],
+    "table": null,
+    "text": "When TEM cell testing is used for ESA immunity, the test shall be performed according to ISO 11452-3. The method of maximum field coupling to the ESA or to the wiring harness inside the TEM cell shall be used."
+   },
+   "id": "R10-base-0121",
+   "source_node_ids": [
+    "R10|base|Annex 9 4.2.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 100,
+    "page_end": 100,
+    "paragraph": "Annex 9 4.2.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 24,
+   "text": "When bulk current injection testing is used for ESA immunity, the test shall be performed on a test bench according to ISO 11452-4, using either the substitution method with the injection probe 150 mm from the ESA or the closed loop method with the injection probe 900 mm from the ESA. Alternatively, the ESA may be tested installed in the vehicle according to ISO 11451-4, using the substitution method with the probe 150 mm from the ESA.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 4.3.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 4.3.2"
+    ],
+    "table": null,
+    "text": "When bulk current injection testing is used for ESA immunity, the test shall be performed on a test bench according to ISO 11452-4, using either the substitution method with the injection probe 150 mm from the ESA or the closed loop method with the injection probe 900 mm from the ESA. Alternatively, the ESA may be tested installed in the vehicle according to ISO 11451-4, using the substitution method with the probe 150 mm from the ESA."
+   },
+   "id": "R10-base-0122",
+   "source_node_ids": [
+    "R10|base|Annex 9 4.3.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 100,
+    "page_end": 100,
+    "paragraph": "Annex 9 4.3.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 25,
+   "text": "When stripline testing is used for ESA immunity, the test shall be performed according to ISO 11452-5.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 4.4.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 4.4.2"
+    ],
+    "table": null,
+    "text": "When stripline testing is used for ESA immunity, the test shall be performed according to ISO 11452-5."
+   },
+   "id": "R10-base-0123",
+   "source_node_ids": [
+    "R10|base|Annex 9 4.4.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 101,
+    "page_end": 101,
+    "paragraph": "Annex 9 4.4.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 26,
+   "text": "When the reverberation chamber test is used for ESA immunity, the test shall be performed according to ISO 11452-11, using a test setup with ground plane unless otherwise specified.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 9 4.5.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 9 4.5.2"
+    ],
+    "table": null,
+    "text": "When the reverberation chamber test is used for ESA immunity, the test shall be performed according to ISO 11452-11, using a test setup with ground plane unless otherwise specified."
+   },
+   "id": "R10-base-0124",
+   "source_node_ids": [
+    "R10|base|Annex 9 4.5.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 101,
+    "page_end": 101,
+    "paragraph": "Annex 9 4.5.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 27,
+   "text": "For immunity to transients conducted along 12/24 V supply lines, test pulse 1 according to ISO 7637-2 shall be applied to the ESA supply lines and to other ESA connections which may be operationally connected to supply lines.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 10 2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 10 2"
+    ],
+    "table": null,
+    "text": "For immunity to transients conducted along 12/24 V supply lines, test pulse 1 according to ISO 7637-2 shall be applied to the ESA supply lines and to other ESA connections which may be operationally connected to supply lines."
+   },
+   "id": "R10-base-0125",
+   "source_node_ids": [
+    "R10|base|Annex 10 2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 108,
+    "page_end": 108,
+    "paragraph": "Annex 10 2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 28,
+   "text": "For immunity to transients conducted along 12/24 V supply lines, test pulse 2a according to ISO 7637-2 shall be applied to the ESA supply lines and to other ESA connections which may be operationally connected to supply lines.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 10 2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 10 2"
+    ],
+    "table": null,
+    "text": "For immunity to transients conducted along 12/24 V supply lines, test pulse 2a according to ISO 7637-2 shall be applied to the ESA supply lines and to other ESA connections which may be operationally connected to supply lines."
+   },
+   "id": "R10-base-0126",
+   "source_node_ids": [
+    "R10|base|Annex 10 2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 108,
+    "page_end": 108,
+    "paragraph": "Annex 10 2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 29,
+   "text": "For immunity to transients conducted along 12/24 V supply lines, test pulse 2b according to ISO 7637-2 shall be applied to the ESA supply lines and to other ESA connections which may be operationally connected to supply lines.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 10 2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 10 2"
+    ],
+    "table": null,
+    "text": "For immunity to transients conducted along 12/24 V supply lines, test pulse 2b according to ISO 7637-2 shall be applied to the ESA supply lines and to other ESA connections which may be operationally connected to supply lines."
+   },
+   "id": "R10-base-0127",
+   "source_node_ids": [
+    "R10|base|Annex 10 2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 108,
+    "page_end": 108,
+    "paragraph": "Annex 10 2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 30,
+   "text": "For immunity to transients conducted along 12/24 V supply lines, test pulse 3a according to ISO 7637-2 shall be applied to the ESA supply lines and to other ESA connections which may be operationally connected to supply lines.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 10 2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 10 2"
+    ],
+    "table": null,
+    "text": "For immunity to transients conducted along 12/24 V supply lines, test pulse 3a according to ISO 7637-2 shall be applied to the ESA supply lines and to other ESA connections which may be operationally connected to supply lines."
+   },
+   "id": "R10-base-0128",
+   "source_node_ids": [
+    "R10|base|Annex 10 2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 108,
+    "page_end": 108,
+    "paragraph": "Annex 10 2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 31,
+   "text": "For immunity to transients conducted along 12/24 V supply lines, test pulse 3b according to ISO 7637-2 shall be applied to the ESA supply lines and to other ESA connections which may be operationally connected to supply lines.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 10 2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 10 2"
+    ],
+    "table": null,
+    "text": "For immunity to transients conducted along 12/24 V supply lines, test pulse 3b according to ISO 7637-2 shall be applied to the ESA supply lines and to other ESA connections which may be operationally connected to supply lines."
+   },
+   "id": "R10-base-0129",
+   "source_node_ids": [
+    "R10|base|Annex 10 2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 108,
+    "page_end": 108,
+    "paragraph": "Annex 10 2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 32,
+   "text": "The starting profile according to ISO 16750-2 shall be applied to the ESA's 12/24 V supply lines and to other ESA connections which may be operationally connected to supply lines. ESAs reserved exclusively for mounting on electric vehicles (without a 12 V/24 V starter motor) are not subject to the starting profile.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 10 2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 10 2"
+    ],
+    "table": null,
+    "text": "The starting profile according to ISO 16750-2 shall be applied to the ESA's 12/24 V supply lines and to other ESA connections which may be operationally connected to supply lines. ESAs reserved exclusively for mounting on electric vehicles (without a 12 V/24 V starter motor) are not subject to the starting profile."
+   },
+   "id": "R10-base-0130",
+   "source_node_ids": [
+    "R10|base|Annex 10 2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 108,
+    "page_end": 108,
+    "paragraph": "Annex 10 2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-006",
+   "index_in_response": 33,
+   "text": "Transient conducted disturbances generated by the ESA on 12/24 V supply lines shall be measured according to ISO 7637-2. This applies to the supply lines and to other ESA connections which may be operationally connected to supply lines.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 10 3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 10 3"
+    ],
+    "table": null,
+    "text": "Transient conducted disturbances generated by the ESA on 12/24 V supply lines shall be measured according to ISO 7637-2. This applies to the supply lines and to other ESA connections which may be operationally connected to supply lines."
+   },
+   "id": "R10-base-0131",
+   "source_node_ids": [
+    "R10|base|Annex 10 3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 108,
+    "page_end": 108,
+    "paragraph": "Annex 10 3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 0,
+   "text": "If the bumper's charge-port area includes a vehicle inlet/charging electronics (ESA in configuration 'REESS charging mode coupled to the power grid'), the harmonics generated by the ESA on its AC power lines shall be tested according to IEC 61000-3-2 for input current in charging mode ≤ 16 A per phase (class A equipment), or according to IEC 61000-3-12 for input current > 16 A and ≤ 75 A per phase.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 17 1.2",
+    "R10|base|Annex 17 1.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 17 1.2",
+     "R10|base|Annex 17 1.1"
+    ],
+    "table": null,
+    "text": "If the bumper's charge-port area includes a vehicle inlet/charging electronics (ESA in configuration 'REESS charging mode coupled to the power grid'), the harmonics generated by the ESA on its AC power lines shall be tested according to IEC 61000-3-2 for input current in charging mode ≤ 16 A per phase (class A equipment), or according to IEC 61000-3-12 for input current > 16 A and ≤ 75 A per phase."
+   },
+   "id": "R10-base-0132",
+   "source_node_ids": [
+    "R10|base|Annex 17 1.2",
+    "R10|base|Annex 17 1.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 136,
+    "page_end": 137,
+    "paragraph": "Annex 17 1.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 1,
+   "text": "For the harmonics test of a charging-mode ESA (if fitted), the state of charge of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole measurement.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 17 2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 17 2.1"
+    ],
+    "table": null,
+    "text": "For the harmonics test of a charging-mode ESA (if fitted), the state of charge of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole measurement."
+   },
+   "id": "R10-base-0133",
+   "source_node_ids": [
+    "R10|base|Annex 17 2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 137,
+    "page_end": 137,
+    "paragraph": "Annex 17 2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 2,
+   "text": "For the harmonics test of a charging-mode ESA (if fitted), if the current consumption can be adjusted, the current shall be set to at least 80 per cent of its maximum rated charging/input current value for AC charging.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 17 2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 17 2.1"
+    ],
+    "table": null,
+    "text": "For the harmonics test of a charging-mode ESA (if fitted), if the current consumption can be adjusted, the current shall be set to at least 80 per cent of its maximum rated charging/input current value for AC charging."
+   },
+   "id": "R10-base-0134",
+   "source_node_ids": [
+    "R10|base|Annex 17 2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 137,
+    "page_end": 137,
+    "paragraph": "Annex 17 2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 3,
+   "text": "For a charging-mode ESA (if fitted), even and odd current harmonics shall be measured up to the 40th harmonic.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 17 4.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 17 4.1"
+    ],
+    "table": null,
+    "text": "For a charging-mode ESA (if fitted), even and odd current harmonics shall be measured up to the 40th harmonic."
+   },
+   "id": "R10-base-0135",
+   "source_node_ids": [
+    "R10|base|Annex 17 4.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 137,
+    "page_end": 137,
+    "paragraph": "Annex 17 4.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 4,
+   "text": "A single-phase or three-phase charging-mode ESA (if fitted) with input current ≤ 16 A per phase shall meet the harmonic limits of Table 12 of paragraph 7.11.2.1.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 17 4.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 17 4.2"
+    ],
+    "table": null,
+    "text": "A single-phase or three-phase charging-mode ESA (if fitted) with input current ≤ 16 A per phase shall meet the harmonic limits of Table 12 of paragraph 7.11.2.1."
+   },
+   "id": "R10-base-0136",
+   "source_node_ids": [
+    "R10|base|Annex 17 4.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 137,
+    "page_end": 137,
+    "paragraph": "Annex 17 4.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 5,
+   "text": "A single-phase or other than balanced three-phase charging-mode ESA (if fitted) with input current > 16 A and ≤ 75 A per phase shall meet the harmonic limits of Table 13 of paragraph 7.11.2.2.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 17 4.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 17 4.3"
+    ],
+    "table": null,
+    "text": "A single-phase or other than balanced three-phase charging-mode ESA (if fitted) with input current > 16 A and ≤ 75 A per phase shall meet the harmonic limits of Table 13 of paragraph 7.11.2.2."
+   },
+   "id": "R10-base-0137",
+   "source_node_ids": [
+    "R10|base|Annex 17 4.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 137,
+    "page_end": 137,
+    "paragraph": "Annex 17 4.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 6,
+   "text": "A balanced three-phase charging-mode ESA (if fitted) with input current > 16 A and ≤ 75 A per phase shall meet the harmonic limits of Table 14 of paragraph 7.11.2.2.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 17 4.4"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 17 4.4"
+    ],
+    "table": null,
+    "text": "A balanced three-phase charging-mode ESA (if fitted) with input current > 16 A and ≤ 75 A per phase shall meet the harmonic limits of Table 14 of paragraph 7.11.2.2."
+   },
+   "id": "R10-base-0138",
+   "source_node_ids": [
+    "R10|base|Annex 17 4.4"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 137,
+    "page_end": 137,
+    "paragraph": "Annex 17 4.4"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 7,
+   "text": "For a three-phase charging-mode ESA (if fitted) with input current > 16 A and ≤ 75 A per phase, when at least one of conditions a), b) or c) of Clause 5.2 of IEC 61000-3-12 is fulfilled, the harmonic limits of Table 15 of paragraph 7.11.2.2. may be applied.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 17 4.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 17 4.5"
+    ],
+    "table": null,
+    "text": "For a three-phase charging-mode ESA (if fitted) with input current > 16 A and ≤ 75 A per phase, when at least one of conditions a), b) or c) of Clause 5.2 of IEC 61000-3-12 is fulfilled, the harmonic limits of Table 15 of paragraph 7.11.2.2. may be applied."
+   },
+   "id": "R10-base-0139",
+   "source_node_ids": [
+    "R10|base|Annex 17 4.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 137,
+    "page_end": 137,
+    "paragraph": "Annex 17 4.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 8,
+   "text": "If fitted, a charging-mode ESA with rated current ≤ 16 A per phase and not subjected to conditional connection shall be tested for voltage changes, voltage fluctuations and flicker on its AC power lines according to IEC 61000-3-3 (Clause 4).",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 18 1.2",
+    "R10|base|Annex 18 3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 18 1.2",
+     "R10|base|Annex 18 3.1"
+    ],
+    "table": null,
+    "text": "If fitted, a charging-mode ESA with rated current ≤ 16 A per phase and not subjected to conditional connection shall be tested for voltage changes, voltage fluctuations and flicker on its AC power lines according to IEC 61000-3-3 (Clause 4)."
+   },
+   "id": "R10-base-0140",
+   "source_node_ids": [
+    "R10|base|Annex 18 1.2",
+    "R10|base|Annex 18 3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 138,
+    "page_end": 139,
+    "paragraph": "Annex 18 1.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 9,
+   "text": "If fitted, a charging-mode ESA with rated current > 16 A and ≤ 75 A per phase and subjected to conditional connection shall be tested for voltage changes, voltage fluctuations and flicker on its AC power lines according to IEC 61000-3-11 (Clause 6).",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 18 1.2",
+    "R10|base|Annex 18 3.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 18 1.2",
+     "R10|base|Annex 18 3.2"
+    ],
+    "table": null,
+    "text": "If fitted, a charging-mode ESA with rated current > 16 A and ≤ 75 A per phase and subjected to conditional connection shall be tested for voltage changes, voltage fluctuations and flicker on its AC power lines according to IEC 61000-3-11 (Clause 6)."
+   },
+   "id": "R10-base-0141",
+   "source_node_ids": [
+    "R10|base|Annex 18 1.2",
+    "R10|base|Annex 18 3.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 138,
+    "page_end": 139,
+    "paragraph": "Annex 18 1.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 10,
+   "text": "For the flicker test of a charging-mode ESA (if fitted), the state of charge of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole measurement.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 18 2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 18 2.1"
+    ],
+    "table": null,
+    "text": "For the flicker test of a charging-mode ESA (if fitted), the state of charge of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole measurement."
+   },
+   "id": "R10-base-0142",
+   "source_node_ids": [
+    "R10|base|Annex 18 2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 139,
+    "page_end": 139,
+    "paragraph": "Annex 18 2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 11,
+   "text": "For the flicker test of a charging-mode ESA (if fitted), if the current consumption can be adjusted, the current shall be set to at least 80 per cent of its maximum rated charging/input current value for AC charging.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 18 2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 18 2.1"
+    ],
+    "table": null,
+    "text": "For the flicker test of a charging-mode ESA (if fitted), if the current consumption can be adjusted, the current shall be set to at least 80 per cent of its maximum rated charging/input current value for AC charging."
+   },
+   "id": "R10-base-0143",
+   "source_node_ids": [
+    "R10|base|Annex 18 2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 139,
+    "page_end": 139,
+    "paragraph": "Annex 18 2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 12,
+   "text": "For a charging-mode ESA (if fitted), the short duration flicker value, long duration flicker value and voltage relative variation shall be determined in the time domain.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 18 4.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 18 4.1"
+    ],
+    "table": null,
+    "text": "For a charging-mode ESA (if fitted), the short duration flicker value, long duration flicker value and voltage relative variation shall be determined in the time domain."
+   },
+   "id": "R10-base-0144",
+   "source_node_ids": [
+    "R10|base|Annex 18 4.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 139,
+    "page_end": 139,
+    "paragraph": "Annex 18 4.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 13,
+   "text": "A charging-mode ESA (if fitted) with input current ≤ 16 A per phase and not subjected to conditional connection shall meet the flicker/voltage change limits of paragraph 7.12.2.1.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 18 4.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 18 4.2"
+    ],
+    "table": null,
+    "text": "A charging-mode ESA (if fitted) with input current ≤ 16 A per phase and not subjected to conditional connection shall meet the flicker/voltage change limits of paragraph 7.12.2.1."
+   },
+   "id": "R10-base-0145",
+   "source_node_ids": [
+    "R10|base|Annex 18 4.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 139,
+    "page_end": 139,
+    "paragraph": "Annex 18 4.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 14,
+   "text": "A charging-mode ESA (if fitted) with input current > 16 A and ≤ 75 A per phase and subjected to conditional connection shall meet the flicker/voltage change limits of paragraph 7.12.2.2.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 18 4.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 18 4.3"
+    ],
+    "table": null,
+    "text": "A charging-mode ESA (if fitted) with input current > 16 A and ≤ 75 A per phase and subjected to conditional connection shall meet the flicker/voltage change limits of paragraph 7.12.2.2."
+   },
+   "id": "R10-base-0146",
+   "source_node_ids": [
+    "R10|base|Annex 18 4.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 139,
+    "page_end": 139,
+    "paragraph": "Annex 18 4.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 15,
+   "text": "If fitted, the radio frequency conducted disturbances generated by a charging-mode ESA on its AC or DC power lines shall be measured according to CISPR 16-2-1 unless otherwise stated in Annex 19.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 19 1.2",
+    "R10|base|Annex 19 1.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 19 1.2",
+     "R10|base|Annex 19 1.1"
+    ],
+    "table": null,
+    "text": "If fitted, the radio frequency conducted disturbances generated by a charging-mode ESA on its AC or DC power lines shall be measured according to CISPR 16-2-1 unless otherwise stated in Annex 19."
+   },
+   "id": "R10-base-0147",
+   "source_node_ids": [
+    "R10|base|Annex 19 1.2",
+    "R10|base|Annex 19 1.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 140,
+    "page_end": 140,
+    "paragraph": "Annex 19 1.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 16,
+   "text": "For the conducted RF emission test of a charging-mode ESA (if fitted), the state of charge of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole frequency range measurement.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 19 2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 19 2.1"
+    ],
+    "table": null,
+    "text": "For the conducted RF emission test of a charging-mode ESA (if fitted), the state of charge of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole frequency range measurement."
+   },
+   "id": "R10-base-0148",
+   "source_node_ids": [
+    "R10|base|Annex 19 2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 141,
+    "page_end": 141,
+    "paragraph": "Annex 19 2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 17,
+   "text": "For the conducted RF emission test of a charging-mode ESA (if fitted), if the current consumption can be adjusted, the current shall be set to at least 80 per cent of its maximum rated charging/input current value for AC charging.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 19 2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 19 2.1"
+    ],
+    "table": null,
+    "text": "For the conducted RF emission test of a charging-mode ESA (if fitted), if the current consumption can be adjusted, the current shall be set to at least 80 per cent of its maximum rated charging/input current value for AC charging."
+   },
+   "id": "R10-base-0149",
+   "source_node_ids": [
+    "R10|base|Annex 19 2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 141,
+    "page_end": 141,
+    "paragraph": "Annex 19 2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 18,
+   "text": "For the conducted RF emission test of a charging-mode ESA (if fitted), if the current consumption can be adjusted, the current shall be set to at least 20 per cent of its nominal value, or to a minimum of 16 A if 20 per cent cannot be achieved in the test facility, for DC charging, unless another value is agreed with the Type Approval Authority.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 19 2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 19 2.1"
+    ],
+    "table": null,
+    "text": "For the conducted RF emission test of a charging-mode ESA (if fitted), if the current consumption can be adjusted, the current shall be set to at least 20 per cent of its nominal value, or to a minimum of 16 A if 20 per cent cannot be achieved in the test facility, for DC charging, unless another value is agreed with the Type Approval Authority."
+   },
+   "id": "R10-base-0150",
+   "source_node_ids": [
+    "R10|base|Annex 19 2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 141,
+    "page_end": 141,
+    "paragraph": "Annex 19 2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 19,
+   "text": "The conducted RF emission limits for a charging-mode ESA (if fitted) apply throughout the frequency range 0.15 to 30 MHz for measurements in a shielded enclosure, ALSE or OATS.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 19 4.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 19 4.1"
+    ],
+    "table": null,
+    "text": "The conducted RF emission limits for a charging-mode ESA (if fitted) apply throughout the frequency range 0.15 to 30 MHz for measurements in a shielded enclosure, ALSE or OATS."
+   },
+   "id": "R10-base-0151",
+   "source_node_ids": [
+    "R10|base|Annex 19 4.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 142,
+    "page_end": 142,
+    "paragraph": "Annex 19 4.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 20,
+   "text": "Conducted RF emissions of a charging-mode ESA (if fitted) shall be measured with average and either quasi-peak or peak detectors; if peak detectors are used a correction factor of 20 dB as defined in CISPR 12 shall be applied.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 19 4.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 19 4.2"
+    ],
+    "table": null,
+    "text": "Conducted RF emissions of a charging-mode ESA (if fitted) shall be measured with average and either quasi-peak or peak detectors; if peak detectors are used a correction factor of 20 dB as defined in CISPR 12 shall be applied."
+   },
+   "id": "R10-base-0152",
+   "source_node_ids": [
+    "R10|base|Annex 19 4.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 142,
+    "page_end": 142,
+    "paragraph": "Annex 19 4.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 21,
+   "text": "Conducted RF emissions of a charging-mode ESA (if fitted) on AC power lines shall not exceed the limits of Table 16 of paragraph 7.13.2.1.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 19 4.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 19 4.2"
+    ],
+    "table": null,
+    "text": "Conducted RF emissions of a charging-mode ESA (if fitted) on AC power lines shall not exceed the limits of Table 16 of paragraph 7.13.2.1."
+   },
+   "id": "R10-base-0153",
+   "source_node_ids": [
+    "R10|base|Annex 19 4.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 142,
+    "page_end": 142,
+    "paragraph": "Annex 19 4.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 22,
+   "text": "Conducted RF emissions of a charging-mode ESA (if fitted) on DC power lines shall not exceed the limits of Table 17 of paragraph 7.13.2.2.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 19 4.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 19 4.2"
+    ],
+    "table": null,
+    "text": "Conducted RF emissions of a charging-mode ESA (if fitted) on DC power lines shall not exceed the limits of Table 17 of paragraph 7.13.2.2."
+   },
+   "id": "R10-base-0154",
+   "source_node_ids": [
+    "R10|base|Annex 19 4.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 142,
+    "page_end": 142,
+    "paragraph": "Annex 19 4.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 23,
+   "text": "If fitted, a charging-mode ESA shall be subjected to electrical fast transient/burst disturbances conducted along its AC and DC power lines and monitored during the test, according to IEC 61000-4-4 unless otherwise stated.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 19 Appendix 1 1.2",
+    "R10|base|Annex 19 Appendix 1 1.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 19 Appendix 1 1.2",
+     "R10|base|Annex 19 Appendix 1 1.1"
+    ],
+    "table": null,
+    "text": "If fitted, a charging-mode ESA shall be subjected to electrical fast transient/burst disturbances conducted along its AC and DC power lines and monitored during the test, according to IEC 61000-4-4 unless otherwise stated."
+   },
+   "id": "R10-base-0155",
+   "source_node_ids": [
+    "R10|base|Annex 19 Appendix 1 1.2",
+    "R10|base|Annex 19 Appendix 1 1.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 144,
+    "page_end": 144,
+    "paragraph": "Annex 19 Appendix 1 1.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 24,
+   "text": "For the EFT/burst immunity test of a charging-mode ESA (if fitted), the state of charge of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole measurement.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 19 Appendix 1 2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 19 Appendix 1 2.1"
+    ],
+    "table": null,
+    "text": "For the EFT/burst immunity test of a charging-mode ESA (if fitted), the state of charge of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole measurement."
+   },
+   "id": "R10-base-0156",
+   "source_node_ids": [
+    "R10|base|Annex 19 Appendix 1 2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 144,
+    "page_end": 144,
+    "paragraph": "Annex 19 Appendix 1 2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 25,
+   "text": "For the EFT/burst immunity test of a charging-mode ESA (if fitted), if the current consumption can be adjusted, the current shall be set to at least 20 per cent of its maximum rated charging/input current value for AC charging.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 19 Appendix 1 2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 19 Appendix 1 2.1"
+    ],
+    "table": null,
+    "text": "For the EFT/burst immunity test of a charging-mode ESA (if fitted), if the current consumption can be adjusted, the current shall be set to at least 20 per cent of its maximum rated charging/input current value for AC charging."
+   },
+   "id": "R10-base-0157",
+   "source_node_ids": [
+    "R10|base|Annex 19 Appendix 1 2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 144,
+    "page_end": 144,
+    "paragraph": "Annex 19 Appendix 1 2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 26,
+   "text": "For the EFT/burst immunity test of a charging-mode ESA (if fitted), if the current consumption can be adjusted, the current shall be set to at least 20 per cent of its nominal value, or to a minimum of 16 A if 20 per cent cannot be achieved in the test facility, for DC charging, unless another value is agreed with the Type Approval Authority.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 19 Appendix 1 2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 19 Appendix 1 2.1"
+    ],
+    "table": null,
+    "text": "For the EFT/burst immunity test of a charging-mode ESA (if fitted), if the current consumption can be adjusted, the current shall be set to at least 20 per cent of its nominal value, or to a minimum of 16 A if 20 per cent cannot be achieved in the test facility, for DC charging, unless another value is agreed with the Type Approval Authority."
+   },
+   "id": "R10-base-0158",
+   "source_node_ids": [
+    "R10|base|Annex 19 Appendix 1 2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 144,
+    "page_end": 144,
+    "paragraph": "Annex 19 Appendix 1 2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 27,
+   "text": "EFT/burst immunity failure criterion for a charging-mode ESA (if fitted): temporary loss of charging function is allowed only provided there is no incorrect charging condition (e.g. over-current, overvoltage) and the function can be restored by a simple intervention without tools (e.g. turning the DUT off/on) after the disturbance is removed.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 19 Appendix 1 2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 19 Appendix 1 2.1"
+    ],
+    "table": null,
+    "text": "EFT/burst immunity failure criterion for a charging-mode ESA (if fitted): temporary loss of charging function is allowed only provided there is no incorrect charging condition (e.g. over-current, overvoltage) and the function can be restored by a simple intervention without tools (e.g. turning the DUT off/on) after the disturbance is removed."
+   },
+   "id": "R10-base-0159",
+   "source_node_ids": [
+    "R10|base|Annex 19 Appendix 1 2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 144,
+    "page_end": 144,
+    "paragraph": "Annex 19 Appendix 1 2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 28,
+   "text": "The EFT/burst immunity test of a charging-mode ESA (if fitted) shall be conducted in accordance with IEC 61000-4-4 only at the severity levels given in paragraph 7.15.2.1.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 19 Appendix 1 5.1.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 19 Appendix 1 5.1.1"
+    ],
+    "table": null,
+    "text": "The EFT/burst immunity test of a charging-mode ESA (if fitted) shall be conducted in accordance with IEC 61000-4-4 only at the severity levels given in paragraph 7.15.2.1."
+   },
+   "id": "R10-base-0160",
+   "source_node_ids": [
+    "R10|base|Annex 19 Appendix 1 5.1.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 145,
+    "page_end": 145,
+    "paragraph": "Annex 19 Appendix 1 5.1.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 29,
+   "text": "The EFT/burst shall be applied to the charging-mode ESA (if fitted) on the AC/DC power lines in common mode using a CDN.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 19 Appendix 1 5.1.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 19 Appendix 1 5.1.2"
+    ],
+    "table": null,
+    "text": "The EFT/burst shall be applied to the charging-mode ESA (if fitted) on the AC/DC power lines in common mode using a CDN."
+   },
+   "id": "R10-base-0161",
+   "source_node_ids": [
+    "R10|base|Annex 19 Appendix 1 5.1.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 145,
+    "page_end": 145,
+    "paragraph": "Annex 19 Appendix 1 5.1.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 30,
+   "text": "If fitted, a charging-mode ESA shall be subjected to surges conducted along its AC and DC power lines and monitored during the test, according to IEC 61000-4-5 unless otherwise stated.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 22 1.2",
+    "R10|base|Annex 22 1.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 22 1.2",
+     "R10|base|Annex 22 1.1"
+    ],
+    "table": null,
+    "text": "If fitted, a charging-mode ESA shall be subjected to surges conducted along its AC and DC power lines and monitored during the test, according to IEC 61000-4-5 unless otherwise stated."
+   },
+   "id": "R10-base-0162",
+   "source_node_ids": [
+    "R10|base|Annex 22 1.2",
+    "R10|base|Annex 22 1.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 145,
+    "page_end": 145,
+    "paragraph": "Annex 22 1.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 31,
+   "text": "For the surge immunity test of a charging-mode ESA (if fitted), the state of charge of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole measurement.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 22 2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 22 2.1"
+    ],
+    "table": null,
+    "text": "For the surge immunity test of a charging-mode ESA (if fitted), the state of charge of the traction battery shall be kept between 20 per cent and 80 per cent of the maximum SOC during the whole measurement."
+   },
+   "id": "R10-base-0163",
+   "source_node_ids": [
+    "R10|base|Annex 22 2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 145,
+    "page_end": 146,
+    "paragraph": "Annex 22 2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 32,
+   "text": "For the surge immunity test of a charging-mode ESA (if fitted), if the current consumption can be adjusted, the current shall be set to at least 20 per cent of its maximum rated charging/input current value for AC charging.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 22 2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 22 2.1"
+    ],
+    "table": null,
+    "text": "For the surge immunity test of a charging-mode ESA (if fitted), if the current consumption can be adjusted, the current shall be set to at least 20 per cent of its maximum rated charging/input current value for AC charging."
+   },
+   "id": "R10-base-0164",
+   "source_node_ids": [
+    "R10|base|Annex 22 2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 145,
+    "page_end": 146,
+    "paragraph": "Annex 22 2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 33,
+   "text": "For the surge immunity test of a charging-mode ESA (if fitted), if the current consumption can be adjusted, the current shall be set to at least 20 per cent of its nominal value, or to a minimum of 16 A if 20 per cent cannot be achieved in the test facility, for DC charging, unless another value is agreed with the Type-Approval Authority.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 22 2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 22 2.1"
+    ],
+    "table": null,
+    "text": "For the surge immunity test of a charging-mode ESA (if fitted), if the current consumption can be adjusted, the current shall be set to at least 20 per cent of its nominal value, or to a minimum of 16 A if 20 per cent cannot be achieved in the test facility, for DC charging, unless another value is agreed with the Type-Approval Authority."
+   },
+   "id": "R10-base-0165",
+   "source_node_ids": [
+    "R10|base|Annex 22 2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 145,
+    "page_end": 146,
+    "paragraph": "Annex 22 2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 34,
+   "text": "Surge immunity failure criterion for a charging-mode ESA (if fitted): temporary loss of charging function is allowed only provided there is no incorrect charging condition (e.g. over-current, overvoltage) and the function can be restored by a simple intervention without tools (e.g. turning the DUT off/on) after the disturbance is removed.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 22 2.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 22 2.1"
+    ],
+    "table": null,
+    "text": "Surge immunity failure criterion for a charging-mode ESA (if fitted): temporary loss of charging function is allowed only provided there is no incorrect charging condition (e.g. over-current, overvoltage) and the function can be restored by a simple intervention without tools (e.g. turning the DUT off/on) after the disturbance is removed."
+   },
+   "id": "R10-base-0166",
+   "source_node_ids": [
+    "R10|base|Annex 22 2.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 145,
+    "page_end": 146,
+    "paragraph": "Annex 22 2.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 35,
+   "text": "The surge immunity test of a charging-mode ESA (if fitted) shall be conducted in accordance with IEC 61000-4-5 only at the severity levels given in paragraph 7.16.2.1.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 22 5.1.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 22 5.1.1"
+    ],
+    "table": null,
+    "text": "The surge immunity test of a charging-mode ESA (if fitted) shall be conducted in accordance with IEC 61000-4-5 only at the severity levels given in paragraph 7.16.2.1."
+   },
+   "id": "R10-base-0167",
+   "source_node_ids": [
+    "R10|base|Annex 22 5.1.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 146,
+    "page_end": 146,
+    "paragraph": "Annex 22 5.1.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-007",
+   "index_in_response": 36,
+   "text": "The surge shall be applied to the charging-mode ESA (if fitted) on the AC/DC power lines between each line and earth and between lines using a CDN.",
+   "table": null,
+   "cited_ids": [
+    "R10|base|Annex 22 5.1.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R10|base|Annex 22 5.1.2"
+    ],
+    "table": null,
+    "text": "The surge shall be applied to the charging-mode ESA (if fitted) on the AC/DC power lines between each line and earth and between lines using a CDN."
+   },
+   "id": "R10-base-0168",
+   "source_node_ids": [
+    "R10|base|Annex 22 5.1.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R10",
+    "version": "7.2.0",
+    "role": "base",
+    "page": 146,
+    "page_end": 146,
+    "paragraph": "Annex 22 5.1.2"
+   },
+   "possible_duplicate_of": null
+  }
+ ],
+ "flagged": []
+}

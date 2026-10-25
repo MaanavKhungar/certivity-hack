@@ -1,0 +1,278 @@
+{
+ "per_requirement": [
+  {
+   "requirement": "R127-base-0001",
+   "type": "hop_limit",
+   "note": "171 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R127-base-0002",
+   "type": "hop_limit",
+   "note": "171 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R127-base-0003",
+   "type": "hop_limit",
+   "note": "171 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R127-base-0004",
+   "type": "unresolved",
+   "target": "UN R127 1.2.2",
+   "in_corpus": true,
+   "from": "R127|base|Annex 6 1.2.1",
+   "ref": "paragraph 1.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R127-base-0004",
+   "type": "unresolved",
+   "target": "UN R127 5.7",
+   "in_corpus": true,
+   "from": "R127|base|Annex 6 3.3.3",
+   "ref": "paragraph 5.7.",
+   "hop": 2
+  },
+  {
+   "requirement": "R127-base-0004",
+   "type": "unresolved",
+   "target": "UN R127 1.2.2",
+   "in_corpus": true,
+   "from": "R127|base|Annex 6 3.3.4",
+   "ref": "paragraph 1.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R127-base-0004",
+   "type": "hop_limit",
+   "note": "106 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R127-base-0005",
+   "type": "unresolved",
+   "target": "UN R127 1.2.2",
+   "in_corpus": true,
+   "from": "R127|base|Annex 6 1.2.1",
+   "ref": "paragraph 1.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R127-base-0005",
+   "type": "unresolved",
+   "target": "UN R127 5.7",
+   "in_corpus": true,
+   "from": "R127|base|Annex 6 3.3.3",
+   "ref": "paragraph 5.7.",
+   "hop": 2
+  },
+  {
+   "requirement": "R127-base-0005",
+   "type": "unresolved",
+   "target": "UN R127 1.2.2",
+   "in_corpus": true,
+   "from": "R127|base|Annex 6 3.3.4",
+   "ref": "paragraph 1.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R127-base-0005",
+   "type": "hop_limit",
+   "note": "106 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R127-base-0006",
+   "type": "unresolved",
+   "target": "UN R127 1.2.2",
+   "in_corpus": true,
+   "from": "R127|base|Annex 6 1.2.1",
+   "ref": "paragraph 1.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R127-base-0006",
+   "type": "unresolved",
+   "target": "UN R127 5.7",
+   "in_corpus": true,
+   "from": "R127|base|Annex 6 3.3.3",
+   "ref": "paragraph 5.7.",
+   "hop": 2
+  },
+  {
+   "requirement": "R127-base-0006",
+   "type": "unresolved",
+   "target": "UN R127 1.2.2",
+   "in_corpus": true,
+   "from": "R127|base|Annex 6 3.3.4",
+   "ref": "paragraph 1.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R127-base-0006",
+   "type": "hop_limit",
+   "note": "106 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R127-base-0007",
+   "type": "unresolved",
+   "target": "UN R127 1.2.2",
+   "in_corpus": true,
+   "from": "R127|base|Annex 6 1.2.1",
+   "ref": "paragraph 1.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R127-base-0007",
+   "type": "unresolved",
+   "target": "UN R127 5.7",
+   "in_corpus": true,
+   "from": "R127|base|Annex 6 3.3.3",
+   "ref": "paragraph 5.7.",
+   "hop": 2
+  },
+  {
+   "requirement": "R127-base-0007",
+   "type": "unresolved",
+   "target": "UN R127 1.2.2",
+   "in_corpus": true,
+   "from": "R127|base|Annex 6 3.3.4",
+   "ref": "paragraph 1.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R127-base-0007",
+   "type": "hop_limit",
+   "note": "58 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R127-base-0008",
+   "type": "unresolved",
+   "target": "UN R127 1.2.2",
+   "in_corpus": true,
+   "from": "R127|base|Annex 6 1.2.1",
+   "ref": "paragraph 1.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R127-base-0008",
+   "type": "unresolved",
+   "target": "UN R127 5.7",
+   "in_corpus": true,
+   "from": "R127|base|Annex 6 3.3.3",
+   "ref": "paragraph 5.7.",
+   "hop": 2
+  },
+  {
+   "requirement": "R127-base-0008",
+   "type": "unresolved",
+   "target": "UN R127 1.2.2",
+   "in_corpus": true,
+   "from": "R127|base|Annex 6 3.3.4",
+   "ref": "paragraph 1.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R127-base-0008",
+   "type": "hop_limit",
+   "note": "58 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R127-base-0009",
+   "type": "unresolved",
+   "target": "UN R127 Annex 1 Part 2",
+   "in_corpus": true,
+   "from": "R127|base|4.3",
+   "ref": "Annex 1, Part 2",
+   "hop": 2
+  },
+  {
+   "requirement": "R127-base-0009",
+   "type": "hop_limit",
+   "note": "64 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R127-base-0010",
+   "type": "unresolved",
+   "target": "UN R127 Annex 1 Part 2",
+   "in_corpus": true,
+   "from": "R127|base|4.3",
+   "ref": "Annex 1, Part 2",
+   "hop": 2
+  },
+  {
+   "requirement": "R127-base-0010",
+   "type": "hop_limit",
+   "note": "64 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R127-base-0011",
+   "type": "unresolved",
+   "target": "UN R127 Annex 1 Part 2",
+   "in_corpus": true,
+   "from": "R127|base|4.3",
+   "ref": "Annex 1, Part 2",
+   "hop": 2
+  },
+  {
+   "requirement": "R127-base-0011",
+   "type": "hop_limit",
+   "note": "64 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R127-base-0012",
+   "type": "unresolved",
+   "target": "UN R127 Annex 1 Part 2",
+   "in_corpus": true,
+   "from": "R127|base|4.3",
+   "ref": "Annex 1, Part 2",
+   "hop": 2
+  },
+  {
+   "requirement": "R127-base-0012",
+   "type": "hop_limit",
+   "note": "64 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R127-base-0013",
+   "type": "unresolved",
+   "target": "UN R127 Annex 1 Part 2",
+   "in_corpus": true,
+   "from": "R127|base|4.3",
+   "ref": "Annex 1, Part 2",
+   "hop": 2
+  },
+  {
+   "requirement": "R127-base-0013",
+   "type": "hop_limit",
+   "note": "64 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R127-base-0014",
+   "type": "unresolved",
+   "target": "UN R127 Annex 1 Part 2",
+   "in_corpus": true,
+   "from": "R127|base|4.3",
+   "ref": "Annex 1, Part 2",
+   "hop": 2
+  },
+  {
+   "requirement": "R127-base-0014",
+   "type": "hop_limit",
+   "note": "64 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R127-base-0022",
+   "type": "hop_limit",
+   "note": "2 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R127-base-0031",
+   "type": "hop_limit",
+   "note": "2 nodes reached at hop 2 were not scanned for further references"
+  }
+ ],
+ "regulation_hints": [],
+ "summary": {
+  "hop_limit": 16,
+  "unresolved": 21
+ }
+}

@@ -13,7 +13,7 @@ Post     dedupe per paragraph, ids, page/paragraph from the parsed node, validat
 Every model call goes through pipeline.call_json, so re-runs only pay for calls whose input changed.
 """
 from __future__ import annotations
-import argparse, json, subprocess, sys
+import argparse, json, re, subprocess, sys
 from concurrent.futures import ThreadPoolExecutor
 from dataclasses import asdict
 from pathlib import Path
@@ -67,6 +67,17 @@ def stage_a(profile_blocks, profile, thr: float, log) -> dict:
             cand[r] = {**v, "via": why}
     log(f"stage A: {len(cand)} candidates: " + ", ".join(f"{r} {v['likelihood']:.2f}{'*' if v['via']=='bm25' else ''}"
                                                       for r, v in sorted(cand.items(), key=lambda kv: -kv[1]['likelihood'])))
+    # card names can differ from the parsed corpus' names ("UN GTR No. 9" vs "UN GTR 9", "UN R94 (version 5.1.0)"
+    # vs "UN R94"): use the corpus name
+    def corpus_name(r):
+        if (r, "base") in C.by_reg:
+            return r
+        alt = re.sub(r"\(\s*version[^)]*\)", "", r, flags=re.I)
+        alt = re.sub(r"\s+", " ", re.sub(r"\bNo\.?\s*", "", alt)).strip()
+        return alt if (alt, "base") in C.by_reg else r
+    cand = {corpus_name(r): v for r, v in cand.items()}
+    regs = {corpus_name(r): v for r, v in regs.items()}
+    cards = {**cards, **{corpus_name(r): c for r, c in cards.items()}}
     return {"product_summary": res["product_summary"], "regulations": regs, "candidates": cand, "bm25": bm, "cards": cards, "C": C}
 
 

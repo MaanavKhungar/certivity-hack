@@ -1,0 +1,106 @@
+{
+ "per_requirement": [
+  {
+   "requirement": "R175-base-0003",
+   "type": "hop_limit",
+   "note": "16 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R175-base-0004",
+   "type": "hop_limit",
+   "note": "16 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R175-base-0005",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R175-base-0006",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R175-base-0014",
+   "type": "hop_limit",
+   "note": "67 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R175-base-0020",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R175-base-0021",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R175-base-0022",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R175-base-0023",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R175-base-0024",
+   "type": "hop_limit",
+   "note": "1 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R175-base-0050",
+   "type": "hop_limit",
+   "note": "21 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R175-base-0051",
+   "type": "hop_limit",
+   "note": "21 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R175-base-0052",
+   "type": "hop_limit",
+   "note": "21 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R175-base-0053",
+   "type": "hop_limit",
+   "note": "21 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R175-base-0054",
+   "type": "hop_limit",
+   "note": "19 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R175-base-0055",
+   "type": "hop_limit",
+   "note": "20 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R175-base-0056",
+   "type": "hop_limit",
+   "note": "4 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R175-base-0057",
+   "type": "hop_limit",
+   "note": "3 nodes reached at hop 2 were not scanned for further references"
+  }
+ ],
+ "regulation_hints": [
+  {
+   "regulation": "UN R10",
+   "in_corpus": true,
+   "from": "UN R175",
+   "paragraph": "5.1.8",
+   "text": "specting the transitional provisions of the 06 or later series of amendments to UN Regulation No. 10."
+  }
+ ],
+ "summary": {
+  "hop_limit": 18
+ }
+}

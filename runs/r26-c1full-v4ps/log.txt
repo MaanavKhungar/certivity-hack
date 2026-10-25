@@ -1,0 +1,6 @@
+--sections: 101 of 214 nodes in stage B's 4 selected sections: 5, 6, 8, Annex 3
+UN R26 base (4.0.0): 214 nodes, 43,141 chars -> 2 batches (0 oversized), running 2
+  B-002 Annex 3                                              12 nodes ->   2 reqs
+  B-001 §5, §6, §8                                           89 nodes ->   9 reqs
+C1: 11 requirements, 0 flagged; coverage {'processed': 101, 'failed': 0, 'not_processed': 0, 'filtered': 113}; calls 2 (+0 cached)
+T (2 hops): 135 shared context nodes, 0 requirements with incomplete context, diagnostics ['hop_limit']

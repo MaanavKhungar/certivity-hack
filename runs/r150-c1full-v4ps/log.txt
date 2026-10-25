@@ -1,0 +1,7 @@
+--sections: 342 of 498 nodes in stage B's 17 selected sections: 3.3, Annex 10, 4, 5, Annex 2, Annex 3, Annex 4 Part 1, Annex 4 Part 3, Annex 5, Annex 6 Part 1, Annex 6 Part 2, Annex 6 Part 3, Annex 6 Part 4, Annex 6 Part 5, Annex 6 Part 6, Annex 7 Part 1, Annex 7 Part 2
+UN R150 base (1.2.1): 498 nodes, 127,305 chars -> 3 batches (0 oversized), running 3
+  B-003 Annex 6 Part 6, Annex 7 Part 1, Annex 7 Part 2, An   15 nodes ->   2 reqs
+  B-002 Annex 2, Annex 3, Annex 4 Part 1, Annex 4 Part 3,   167 nodes ->  31 reqs
+  B-001 §3, §4, §5                                          160 nodes ->  44 reqs
+C1: 77 requirements, 0 flagged; coverage {'processed': 342, 'failed': 0, 'not_processed': 0, 'filtered': 156}; calls 3 (+0 cached)
+T (2 hops): 432 shared context nodes, 22 requirements with incomplete context, diagnostics ['hop_limit', 'unresolved']

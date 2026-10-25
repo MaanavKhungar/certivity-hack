@@ -1,0 +1,492 @@
+{
+ "per_requirement": [
+  {
+   "requirement": "R94-base-0001",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.1",
+   "in_corpus": true,
+   "from": "R94|base|5.2.3.1.1",
+   "ref": "paragraph 1.4.3.5.2.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0001",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.2",
+   "in_corpus": true,
+   "from": "R94|base|5.2.3.1.2",
+   "ref": "paragraph 1.4.3.5.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0001",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.1",
+   "in_corpus": true,
+   "from": "R94|base|5.2.4.2.1",
+   "ref": "paragraph 1.4.3.5.2.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0001",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.2",
+   "in_corpus": true,
+   "from": "R94|base|5.2.4.2.2",
+   "ref": "paragraph 1.4.3.5.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0001",
+   "type": "hop_limit",
+   "note": "301 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R94-base-0002",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.1",
+   "in_corpus": true,
+   "from": "R94|base|5.2.3.1.1",
+   "ref": "paragraph 1.4.3.5.2.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0002",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.2",
+   "in_corpus": true,
+   "from": "R94|base|5.2.3.1.2",
+   "ref": "paragraph 1.4.3.5.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0002",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.1",
+   "in_corpus": true,
+   "from": "R94|base|5.2.4.2.1",
+   "ref": "paragraph 1.4.3.5.2.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0002",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.2",
+   "in_corpus": true,
+   "from": "R94|base|5.2.4.2.2",
+   "ref": "paragraph 1.4.3.5.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0002",
+   "type": "hop_limit",
+   "note": "301 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R94-base-0013",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.1",
+   "in_corpus": true,
+   "from": "R94|base|5.2.3.1.1",
+   "ref": "paragraph 1.4.3.5.2.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0013",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.2",
+   "in_corpus": true,
+   "from": "R94|base|5.2.3.1.2",
+   "ref": "paragraph 1.4.3.5.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0013",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.1",
+   "in_corpus": true,
+   "from": "R94|base|5.2.4.2.1",
+   "ref": "paragraph 1.4.3.5.2.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0013",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.2",
+   "in_corpus": true,
+   "from": "R94|base|5.2.4.2.2",
+   "ref": "paragraph 1.4.3.5.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0013",
+   "type": "hop_limit",
+   "note": "301 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R94-base-0014",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.1",
+   "in_corpus": true,
+   "from": "R94|base|5.2.3.1.1",
+   "ref": "paragraph 1.4.3.5.2.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0014",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.2",
+   "in_corpus": true,
+   "from": "R94|base|5.2.3.1.2",
+   "ref": "paragraph 1.4.3.5.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0014",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.1",
+   "in_corpus": true,
+   "from": "R94|base|5.2.4.2.1",
+   "ref": "paragraph 1.4.3.5.2.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0014",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.2",
+   "in_corpus": true,
+   "from": "R94|base|5.2.4.2.2",
+   "ref": "paragraph 1.4.3.5.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0014",
+   "type": "hop_limit",
+   "note": "301 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R94-base-0015",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.1",
+   "in_corpus": true,
+   "from": "R94|base|5.2.3.1.1",
+   "ref": "paragraph 1.4.3.5.2.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0015",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.2",
+   "in_corpus": true,
+   "from": "R94|base|5.2.3.1.2",
+   "ref": "paragraph 1.4.3.5.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0015",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.1",
+   "in_corpus": true,
+   "from": "R94|base|5.2.4.2.1",
+   "ref": "paragraph 1.4.3.5.2.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0015",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.2",
+   "in_corpus": true,
+   "from": "R94|base|5.2.4.2.2",
+   "ref": "paragraph 1.4.3.5.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0015",
+   "type": "hop_limit",
+   "note": "301 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R94-base-0017",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.1",
+   "in_corpus": true,
+   "from": "R94|base|5.2.3.1.1",
+   "ref": "paragraph 1.4.3.5.2.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0017",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.2",
+   "in_corpus": true,
+   "from": "R94|base|5.2.3.1.2",
+   "ref": "paragraph 1.4.3.5.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0017",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.1",
+   "in_corpus": true,
+   "from": "R94|base|5.2.4.2.1",
+   "ref": "paragraph 1.4.3.5.2.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0017",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.2",
+   "in_corpus": true,
+   "from": "R94|base|5.2.4.2.2",
+   "ref": "paragraph 1.4.3.5.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0017",
+   "type": "hop_limit",
+   "note": "301 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R94-base-0019",
+   "type": "hop_limit",
+   "note": "117 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R94-base-0020",
+   "type": "hop_limit",
+   "note": "117 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R94-base-0021",
+   "type": "hop_limit",
+   "note": "60 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R94-base-0022",
+   "type": "hop_limit",
+   "note": "93 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R94-base-0023",
+   "type": "hop_limit",
+   "note": "93 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R94-base-0024",
+   "type": "hop_limit",
+   "note": "98 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R94-base-0025",
+   "type": "hop_limit",
+   "note": "98 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R94-base-0026",
+   "type": "hop_limit",
+   "note": "98 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R94-base-0027",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.1",
+   "in_corpus": true,
+   "from": "R94|base|5.2.3.1.1",
+   "ref": "paragraph 1.4.3.5.2.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0027",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.2",
+   "in_corpus": true,
+   "from": "R94|base|5.2.3.1.2",
+   "ref": "paragraph 1.4.3.5.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0027",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.1",
+   "in_corpus": true,
+   "from": "R94|base|5.2.4.2.1",
+   "ref": "paragraph 1.4.3.5.2.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0027",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.2",
+   "in_corpus": true,
+   "from": "R94|base|5.2.4.2.2",
+   "ref": "paragraph 1.4.3.5.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0027",
+   "type": "hop_limit",
+   "note": "226 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R94-base-0028",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.1",
+   "in_corpus": true,
+   "from": "R94|base|5.2.3.1.1",
+   "ref": "paragraph 1.4.3.5.2.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0028",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.2",
+   "in_corpus": true,
+   "from": "R94|base|5.2.3.1.2",
+   "ref": "paragraph 1.4.3.5.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0028",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.1",
+   "in_corpus": true,
+   "from": "R94|base|5.2.4.2.1",
+   "ref": "paragraph 1.4.3.5.2.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0028",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.2",
+   "in_corpus": true,
+   "from": "R94|base|5.2.4.2.2",
+   "ref": "paragraph 1.4.3.5.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0028",
+   "type": "hop_limit",
+   "note": "226 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R94-base-0029",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.1",
+   "in_corpus": true,
+   "from": "R94|base|5.2.3.1.1",
+   "ref": "paragraph 1.4.3.5.2.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0029",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.2",
+   "in_corpus": true,
+   "from": "R94|base|5.2.3.1.2",
+   "ref": "paragraph 1.4.3.5.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0029",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.1",
+   "in_corpus": true,
+   "from": "R94|base|5.2.4.2.1",
+   "ref": "paragraph 1.4.3.5.2.1.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0029",
+   "type": "unresolved",
+   "target": "UN R94 1.4.3.5.2.2",
+   "in_corpus": true,
+   "from": "R94|base|5.2.4.2.2",
+   "ref": "paragraph 1.4.3.5.2.2.",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0029",
+   "type": "unresolved",
+   "target": "UN R16 8.1.8",
+   "in_corpus": false,
+   "from": "R94|base|6.1",
+   "ref": "paragraphs 8.1.8. to 8.1.9. of UN Regulation No. 16",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0029",
+   "type": "unresolved",
+   "target": "UN R16 8.1.9",
+   "in_corpus": false,
+   "from": "R94|base|6.1",
+   "ref": "paragraphs 8.1.8. to 8.1.9. of UN Regulation No. 16",
+   "hop": 2
+  },
+  {
+   "requirement": "R94-base-0029",
+   "type": "hop_limit",
+   "note": "247 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R94-base-0034",
+   "type": "hop_limit",
+   "note": "58 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R94-base-0040",
+   "type": "hop_limit",
+   "note": "25 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R94-base-0041",
+   "type": "hop_limit",
+   "note": "25 nodes reached at hop 2 were not scanned for further references"
+  },
+  {
+   "requirement": "R94-base-0042",
+   "type": "hop_limit",
+   "note": "24 nodes reached at hop 2 were not scanned for further references"
+  }
+ ],
+ "regulation_hints": [
+  {
+   "regulation": "UN R16",
+   "in_corpus": false,
+   "from": "UN R94",
+   "paragraph": "5.1.2",
+   "text": "ng positions includes belts, the belt components shall meet the requirements of Regulation No. 16."
+  },
+  {
+   "regulation": "UN R14",
+   "in_corpus": false,
+   "from": "UN R94",
+   "paragraph": "5.1.3",
+   "text": "ve system includes belts, shall be provided with anchorage points conforming to Regulation No. 14."
+  },
+  {
+   "regulation": "UN R137",
+   "in_corpus": true,
+   "from": "UN R94",
+   "paragraph": "5.3.1",
+   "text": "g are deemed to meet the requirements of paragraph 5. where the requirements of UN Regulation No. 137 are fully complied with and at least on"
+  },
+  {
+   "regulation": "UN R137",
+   "in_corpus": true,
+   "from": "UN R94",
+   "paragraph": "5.3.2",
+   "text": "graph 5, where their structural basis is a ladder frame and the requirements of UN Regulation No. 137 are fully complied with and at least on"
+  },
+  {
+   "regulation": "UN R16",
+   "in_corpus": false,
+   "from": "UN R94",
+   "paragraph": "6.1",
+   "text": "occupants other than the driver, compliance with paragraphs 8.1.8. to 8.1.9. of UN Regulation No. 16 as amended by the 08 series of amendmen"
+  }
+ ],
+ "summary": {
+  "hop_limit": 21,
+  "unresolved": 38
+ }
+}

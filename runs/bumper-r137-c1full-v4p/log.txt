@@ -1,0 +1,7 @@
+UN R137 base (4.0.0): 441 nodes, 107,110 chars -> 4 batches (0 oversized), running 4
+  B-002 §12                                                  13 nodes ->   0 reqs
+  B-004 Annex 8, Annex 9, Annex 10                          100 nodes ->   6 reqs
+  B-003 Annex 1, Annex 2, Annex 3, Annex 4, Annex 5, Annex  177 nodes ->   6 reqs
+  B-001 §0, §1, §2, §3, §4, §5, §6, §7, §8, §9, §10, §11    151 nodes ->  31 reqs
+C1: 43 requirements, 0 flagged; coverage {'processed': 441, 'failed': 0, 'not_processed': 0}; calls 4 (+0 cached)
+T (2 hops): 398 shared context nodes, 5 requirements with incomplete context, diagnostics ['hop_limit', 'unresolved']

@@ -1,0 +1,6 @@
+UN R152 base (2.5.0): 299 nodes, 95,392 chars -> 3 batches (0 oversized), running 3
+  B-003 Annex 1, Annex 2, Annex 3, Annex 3 Appendix 1, Ann  130 nodes ->  29 reqs
+  B-002 §6, §7, §8, §9, §10, §11, §12                        76 nodes ->  44 reqs
+  B-001 §0, §1, §2, §3, §4, §5                               93 nodes ->  39 reqs
+C1: 112 requirements, 0 flagged; coverage {'processed': 299, 'failed': 0, 'not_processed': 0}; calls 3 (+0 cached)
+T (2 hops): 237 shared context nodes, 14 requirements with incomplete context, diagnostics ['hop_limit', 'unresolved']

@@ -1,0 +1,6 @@
+--sections: 172 of 683 nodes in stage B's 10 selected sections: 4.2, 5, Annex 1, 6, 9, 23, Annex 7, Annex 8, Annex 9, Annex 10
+UN R10 base (7.2.0): 683 nodes, 243,226 chars -> 2 batches (0 oversized), running 2
+  B-002 Annex 1, Annex 7, Annex 7 Appendix 1, Annex 8, Ann   91 nodes ->  29 reqs
+  B-001 §4, §5, §6, §9, §23                                  81 nodes ->  40 reqs
+C1: 69 requirements, 0 flagged; coverage {'processed': 172, 'failed': 0, 'not_processed': 0, 'filtered': 511}; calls 2 (+0 cached)
+T (2 hops): 636 shared context nodes, 11 requirements with incomplete context, diagnostics ['hop_limit', 'unresolved']

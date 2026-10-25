@@ -1,0 +1,44 @@
+{
+ "case": "heldout-front-bumper",
+ "run": "heldout-bumper-ab",
+ "model": "claude-opus-5-5",
+ "selection": null,
+ "traversal": {
+  "n_hops": 3,
+  "max_item_nodes": 150,
+  "max_item_chars": 60000,
+  "max_added_chars": 250000,
+  "extract_hops": 1,
+  "cross_mode": "context"
+ },
+ "corpus_sha256": {
+  "UN GTR 9": "d9f7d2a04b580602",
+  "UN R10": "cb706f27264bf76e",
+  "UN R127": "99e4b9002d00891d",
+  "UN R137": "9f90ab47d5498b12",
+  "UN R148": "62c20347b81ef29a",
+  "UN R149": "1ae3821772ab614d",
+  "UN R152": "22b5768eecec3f43",
+  "UN R175": "2e41597ec0b572e9",
+  "UN R19": "95734d9f55bf1f20",
+  "UN R23": "382c2ea0007ee497",
+  "UN R26": "1d177a69e1bd48c0",
+  "UN R42": "9754bced1c02e212",
+  "UN R48": "68a2d3953b59bdc7",
+  "UN R53": "af6b7a244f1b2743",
+  "UN R6": "e64c9db9bebde0ee",
+  "UN R94": "4587550e6b53565e"
+ },
+ "variants": "retrieval_rules,direct",
+ "conditions": "none (first experiment)",
+ "policies": {
+  "submission_applicable.json": [
+   "applicable"
+  ],
+  "submission_keep.json": [
+   "applicable",
+   "unresolved",
+   "evaluation_failed"
+  ]
+ }
+}

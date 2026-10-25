@@ -1,0 +1,730 @@
+{
+ "candidates": [
+  {
+   "batch": "B-001",
+   "index_in_response": 0,
+   "text": "After each impact test made in accordance with the conditions and procedure specified in Annex 3, the lighting and signalling devices (including the side signalling lamp integrated in the front bumper, and the decorative lighting if fitted) shall continue to operate correctly.",
+   "table": null,
+   "cited_ids": [
+    "R42|base|6.1.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R42|base|6.1.1"
+    ],
+    "table": null,
+    "text": "After each impact test made in accordance with the conditions and procedure specified in Annex 3, the lighting and signalling devices (including the side signalling lamp integrated in the front bumper, and the decorative lighting if fitted) shall continue to operate correctly."
+   },
+   "id": "R42-base-0001",
+   "source_node_ids": [
+    "R42|base|6.1.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 3,
+    "page_end": 3,
+    "paragraph": "6.1.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 1,
+   "text": "After each impact test made in accordance with the conditions and procedure specified in Annex 3, the lighting and signalling devices (including the side signalling lamp integrated in the front bumper, and the decorative lighting if fitted) shall remain visible.",
+   "table": null,
+   "cited_ids": [
+    "R42|base|6.1.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R42|base|6.1.1"
+    ],
+    "table": null,
+    "text": "After each impact test made in accordance with the conditions and procedure specified in Annex 3, the lighting and signalling devices (including the side signalling lamp integrated in the front bumper, and the decorative lighting if fitted) shall remain visible."
+   },
+   "id": "R42-base-0002",
+   "source_node_ids": [
+    "R42|base|6.1.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 3,
+    "page_end": 3,
+    "paragraph": "6.1.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 2,
+   "text": "After each impact test made in accordance with the conditions and procedure specified in Annex 3, the vehicle's bonnet (hood) shall be operable in the normal manner.",
+   "table": null,
+   "cited_ids": [
+    "R42|base|6.1.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R42|base|6.1.2"
+    ],
+    "table": null,
+    "text": "After each impact test made in accordance with the conditions and procedure specified in Annex 3, the vehicle's bonnet (hood) shall be operable in the normal manner."
+   },
+   "id": "R42-base-0003",
+   "source_node_ids": [
+    "R42|base|6.1.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 3,
+    "page_end": 3,
+    "paragraph": "6.1.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 3,
+   "text": "After each impact test made in accordance with the conditions and procedure specified in Annex 3, the vehicle's cooling system (behind the grille and bumper) shall have neither leaks nor constricted fluid passages which prevent normal functioning.",
+   "table": null,
+   "cited_ids": [
+    "R42|base|6.1.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R42|base|6.1.3"
+    ],
+    "table": null,
+    "text": "After each impact test made in accordance with the conditions and procedure specified in Annex 3, the vehicle's cooling system (behind the grille and bumper) shall have neither leaks nor constricted fluid passages which prevent normal functioning."
+   },
+   "id": "R42-base-0004",
+   "source_node_ids": [
+    "R42|base|6.1.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 3,
+    "page_end": 3,
+    "paragraph": "6.1.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 4,
+   "text": "After each impact test made in accordance with the conditions and procedure specified in Annex 3, the sealing devices and caps of the vehicle's cooling system shall be operable in the normal manner.",
+   "table": null,
+   "cited_ids": [
+    "R42|base|6.1.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R42|base|6.1.3"
+    ],
+    "table": null,
+    "text": "After each impact test made in accordance with the conditions and procedure specified in Annex 3, the sealing devices and caps of the vehicle's cooling system shall be operable in the normal manner."
+   },
+   "id": "R42-base-0005",
+   "source_node_ids": [
+    "R42|base|6.1.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 3,
+    "page_end": 3,
+    "paragraph": "6.1.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 5,
+   "text": "After each impact test made in accordance with the conditions and procedure specified in Annex 3, the vehicle's propulsion, suspension (including tyres), steering and braking systems shall remain in adjustment and shall operate in a normal manner (where the EV charging inlet/flap is present in the bumper, this includes the propulsion/energy-supply parts in the impact zone); this requirement does not apply to sensors, cameras, radar devices, etc. being part of driver assist systems (e.g. the bumper's camera, radar, radar/LIDAR and PDC sensors), which may become damaged, disoriented or broken due to an impact carried out according to Annex 3 as long as the basic braking and steering performance are still intact.",
+   "table": null,
+   "cited_ids": [
+    "R42|base|6.1.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R42|base|6.1.5"
+    ],
+    "table": null,
+    "text": "After each impact test made in accordance with the conditions and procedure specified in Annex 3, the vehicle's propulsion, suspension (including tyres), steering and braking systems shall remain in adjustment and shall operate in a normal manner (where the EV charging inlet/flap is present in the bumper, this includes the propulsion/energy-supply parts in the impact zone); this requirement does not apply to sensors, cameras, radar devices, etc. being part of driver assist systems (e.g. the bumper's camera, radar, radar/LIDAR and PDC sensors), which may become damaged, disoriented or broken due to an impact carried out according to Annex 3 as long as the basic braking and steering performance are still intact."
+   },
+   "id": "R42-base-0006",
+   "source_node_ids": [
+    "R42|base|6.1.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 3,
+    "page_end": 3,
+    "paragraph": "6.1.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-001",
+   "index_in_response": 6,
+   "text": "Every vehicle bearing an approval mark under this Regulation shall conform to the vehicle type approved, particularly as regards features which influence the behaviour of the parts of the structure and the components affected by impact (e.g. the front protective device's dimensions, lines and materials).",
+   "table": null,
+   "cited_ids": [
+    "R42|base|8.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R42|base|8.1"
+    ],
+    "table": null,
+    "text": "Every vehicle bearing an approval mark under this Regulation shall conform to the vehicle type approved, particularly as regards features which influence the behaviour of the parts of the structure and the components affected by impact (e.g. the front protective device's dimensions, lines and materials)."
+   },
+   "id": "R42-base-0007",
+   "source_node_ids": [
+    "R42|base|8.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 4,
+    "page_end": 4,
+    "paragraph": "8.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 0,
+   "text": "In the impact tests of Annex 3, the first contact of the impactor with the vehicle shall be by the impact contour on the front protective device (bumper), the impactor reference line being at the reference height of 445 mm.",
+   "table": null,
+   "cited_ids": [
+    "R42|base|Annex 3 2.3.5",
+    "R42|base|Annex 3 2.3.6"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R42|base|Annex 3 2.3.5",
+     "R42|base|Annex 3 2.3.6"
+    ],
+    "table": null,
+    "text": "In the impact tests of Annex 3, the first contact of the impactor with the vehicle shall be by the impact contour on the front protective device (bumper), the impactor reference line being at the reference height of 445 mm."
+   },
+   "id": "R42-base-0008",
+   "source_node_ids": [
+    "R42|base|Annex 3 2.3.5",
+    "R42|base|Annex 3 2.3.6"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "Annex 3 2.3.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 1,
+   "text": "In both vehicle-loading conditions (unladen weight and laden test weight), the front protective device between the vehicle corners (as defined in paragraph 3.1.5.) shall be intersected by the horizontal plane passing through the impactor reference line at the reference height of 445 mm.",
+   "table": null,
+   "cited_ids": [
+    "R42|base|Annex 3 2.3.5",
+    "R42|base|Annex 3 2.3.6"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R42|base|Annex 3 2.3.5",
+     "R42|base|Annex 3 2.3.6"
+    ],
+    "table": null,
+    "text": "In both vehicle-loading conditions (unladen weight and laden test weight), the front protective device between the vehicle corners (as defined in paragraph 3.1.5.) shall be intersected by the horizontal plane passing through the impactor reference line at the reference height of 445 mm."
+   },
+   "id": "R42-base-0009",
+   "source_node_ids": [
+    "R42|base|Annex 3 2.3.5",
+    "R42|base|Annex 3 2.3.6"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "Annex 3 2.3.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 2,
+   "text": "The effective mass of the impactor used to test the front protective device shall be equal to the mass corresponding to the unladen weight of the vehicle tested.",
+   "table": null,
+   "cited_ids": [
+    "R42|base|Annex 3 2.3.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R42|base|Annex 3 2.3.3"
+    ],
+    "table": null,
+    "text": "The effective mass of the impactor used to test the front protective device shall be equal to the mass corresponding to the unladen weight of the vehicle tested."
+   },
+   "id": "R42-base-0010",
+   "source_node_ids": [
+    "R42|base|Annex 3 2.3.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "Annex 3 2.3.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 3,
+   "text": "The front protective device shall be subjected to a longitudinal impact test consisting of two impacts on the front surface of the vehicle: one with the vehicle at unladen weight (paragraph 3.1.3.) and one with the vehicle at laden test weight (paragraph 3.1.4.).",
+   "table": null,
+   "cited_ids": [
+    "R42|base|Annex 3 2.7.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R42|base|Annex 3 2.7.1"
+    ],
+    "table": null,
+    "text": "The front protective device shall be subjected to a longitudinal impact test consisting of two impacts on the front surface of the vehicle: one with the vehicle at unladen weight (paragraph 3.1.3.) and one with the vehicle at laden test weight (paragraph 3.1.4.)."
+   },
+   "id": "R42-base-0011",
+   "source_node_ids": [
+    "R42|base|Annex 3 2.7.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "Annex 3 2.7.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 4,
+   "text": "For the two longitudinal impacts on the front surface, the location of the first impact is free, but for the second impact the median plane of the impactor shall be at least 300 mm from the first, provided that the extremities of the impactor do not pass outside the zone defined by two planes parallel to the longitudinal median plane passing through the vehicle corners.",
+   "table": null,
+   "cited_ids": [
+    "R42|base|Annex 3 2.7.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R42|base|Annex 3 2.7.2"
+    ],
+    "table": null,
+    "text": "For the two longitudinal impacts on the front surface, the location of the first impact is free, but for the second impact the median plane of the impactor shall be at least 300 mm from the first, provided that the extremities of the impactor do not pass outside the zone defined by two planes parallel to the longitudinal median plane passing through the vehicle corners."
+   },
+   "id": "R42-base-0012",
+   "source_node_ids": [
+    "R42|base|Annex 3 2.7.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "Annex 3 2.7.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 5,
+   "text": "In the front longitudinal impact test, the impactor is placed with plane A vertical and the reference line horizontal at 445 mm, and the vehicle is aligned so that a point between the vehicle corners touches the impactor with the vehicle's longitudinal median plane perpendicular to plane A.",
+   "table": null,
+   "cited_ids": [
+    "R42|base|Annex 3 2.7.3",
+    "R42|base|Annex 3 2.7.4"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R42|base|Annex 3 2.7.3",
+     "R42|base|Annex 3 2.7.4"
+    ],
+    "table": null,
+    "text": "In the front longitudinal impact test, the impactor is placed with plane A vertical and the reference line horizontal at 445 mm, and the vehicle is aligned so that a point between the vehicle corners touches the impactor with the vehicle's longitudinal median plane perpendicular to plane A."
+   },
+   "id": "R42-base-0013",
+   "source_node_ids": [
+    "R42|base|Annex 3 2.7.3",
+    "R42|base|Annex 3 2.7.4"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "Annex 3 2.7.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 6,
+   "text": "In the front longitudinal impact test, the vehicle is impacted at a speed of 4 km/h +0.25/-0 km/h.",
+   "table": null,
+   "cited_ids": [
+    "R42|base|Annex 3 2.7.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R42|base|Annex 3 2.7.5"
+    ],
+    "table": null,
+    "text": "In the front longitudinal impact test, the vehicle is impacted at a speed of 4 km/h +0.25/-0 km/h."
+   },
+   "id": "R42-base-0014",
+   "source_node_ids": [
+    "R42|base|Annex 3 2.7.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 7,
+    "page_end": 7,
+    "paragraph": "Annex 3 2.7.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 7,
+   "text": "The front protective device shall be subjected to a corner impact test consisting of an impact at one front corner with the vehicle at unladen weight (paragraph 3.1.3.) and an impact at the other front corner with the vehicle at the weight given in paragraph 3.1.4. (laden test weight).",
+   "table": null,
+   "cited_ids": [
+    "R42|base|Annex 3 2.8.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R42|base|Annex 3 2.8.1"
+    ],
+    "table": null,
+    "text": "The front protective device shall be subjected to a corner impact test consisting of an impact at one front corner with the vehicle at unladen weight (paragraph 3.1.3.) and an impact at the other front corner with the vehicle at the weight given in paragraph 3.1.4. (laden test weight)."
+   },
+   "id": "R42-base-0015",
+   "source_node_ids": [
+    "R42|base|Annex 3 2.8.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "Annex 3 2.8.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 8,
+   "text": "In the front corner impact test, with plane A of the impactor vertical and the reference line horizontal at 445 mm and a vehicle corner touching the impactor, plane A of the impactor shall make an angle of 60 ± 5° with the longitudinal median plane of the vehicle.",
+   "table": null,
+   "cited_ids": [
+    "R42|base|Annex 3 2.8.2",
+    "R42|base|Annex 3 2.8.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R42|base|Annex 3 2.8.2",
+     "R42|base|Annex 3 2.8.3"
+    ],
+    "table": null,
+    "text": "In the front corner impact test, with plane A of the impactor vertical and the reference line horizontal at 445 mm and a vehicle corner touching the impactor, plane A of the impactor shall make an angle of 60 ± 5° with the longitudinal median plane of the vehicle."
+   },
+   "id": "R42-base-0016",
+   "source_node_ids": [
+    "R42|base|Annex 3 2.8.2",
+    "R42|base|Annex 3 2.8.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "Annex 3 2.8.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 9,
+   "text": "In the front corner impact test, the point of first contact on the vehicle shall be in the vertical median plane of the impactor within a tolerance of ± 25 mm.",
+   "table": null,
+   "cited_ids": [
+    "R42|base|Annex 3 2.8.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R42|base|Annex 3 2.8.3"
+    ],
+    "table": null,
+    "text": "In the front corner impact test, the point of first contact on the vehicle shall be in the vertical median plane of the impactor within a tolerance of ± 25 mm."
+   },
+   "id": "R42-base-0017",
+   "source_node_ids": [
+    "R42|base|Annex 3 2.8.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "Annex 3 2.8.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 10,
+   "text": "In the front corner impact test, the vehicle is impacted at a speed of 2.5 km/h +0.1/-0 km/h.",
+   "table": null,
+   "cited_ids": [
+    "R42|base|Annex 3 2.8.4"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R42|base|Annex 3 2.8.4"
+    ],
+    "table": null,
+    "text": "In the front corner impact test, the vehicle is impacted at a speed of 2.5 km/h +0.1/-0 km/h."
+   },
+   "id": "R42-base-0018",
+   "source_node_ids": [
+    "R42|base|Annex 3 2.8.4"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "Annex 3 2.8.4"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 11,
+   "text": "The front protective device and the mountings attaching it to the vehicle structure may be repaired or replaced between the impact tests.",
+   "table": null,
+   "cited_ids": [
+    "R42|base|Annex 3 3.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R42|base|Annex 3 3.1"
+    ],
+    "table": null,
+    "text": "The front protective device and the mountings attaching it to the vehicle structure may be repaired or replaced between the impact tests."
+   },
+   "id": "R42-base-0019",
+   "source_node_ids": [
+    "R42|base|Annex 3 3.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "Annex 3 3.1"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 12,
+   "text": "If the front protective device includes self-restoring materials (e.g. a recoverable EPP absorber), the permitted recovery time between tests shall be as stated by the manufacturer.",
+   "table": null,
+   "cited_ids": [
+    "R42|base|Annex 3 3.2"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R42|base|Annex 3 3.2"
+    ],
+    "table": null,
+    "text": "If the front protective device includes self-restoring materials (e.g. a recoverable EPP absorber), the permitted recovery time between tests shall be as stated by the manufacturer."
+   },
+   "id": "R42-base-0020",
+   "source_node_ids": [
+    "R42|base|Annex 3 3.2"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "Annex 3 3.2"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 13,
+   "text": "If the manufacturer so requests, a vehicle of the same type may be used for each impact test.",
+   "table": null,
+   "cited_ids": [
+    "R42|base|Annex 3 3.3"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R42|base|Annex 3 3.3"
+    ],
+    "table": null,
+    "text": "If the manufacturer so requests, a vehicle of the same type may be used for each impact test."
+   },
+   "id": "R42-base-0021",
+   "source_node_ids": [
+    "R42|base|Annex 3 3.3"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "Annex 3 3.3"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 14,
+   "text": "If the impact test has been carried out at an impact speed or with an impact mass exceeding those indicated in paragraphs 2.7.5. and 2.8.4. of Annex 3, and the vehicle has satisfied the prescribed conditions, the test is considered satisfactory.",
+   "table": null,
+   "cited_ids": [
+    "R42|base|Annex 3 3.5"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R42|base|Annex 3 3.5"
+    ],
+    "table": null,
+    "text": "If the impact test has been carried out at an impact speed or with an impact mass exceeding those indicated in paragraphs 2.7.5. and 2.8.4. of Annex 3, and the vehicle has satisfied the prescribed conditions, the test is considered satisfactory."
+   },
+   "id": "R42-base-0022",
+   "source_node_ids": [
+    "R42|base|Annex 3 3.5"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "Annex 3 3.5"
+   },
+   "possible_duplicate_of": null
+  },
+  {
+   "batch": "B-002",
+   "index_in_response": 15,
+   "text": "Other equivalent test methods are permitted for verifying the front protective device, provided that the conditions referred to in this Regulation can be observed and their equivalence can be demonstrated.",
+   "table": null,
+   "cited_ids": [
+    "R42|base|Annex 3 4.1"
+   ],
+   "raw": {
+    "source_node_ids": [
+     "R42|base|Annex 3 4.1"
+    ],
+    "table": null,
+    "text": "Other equivalent test methods are permitted for verifying the front protective device, provided that the conditions referred to in this Regulation can be observed and their equivalence can be demonstrated."
+   },
+   "id": "R42-base-0023",
+   "source_node_ids": [
+    "R42|base|Annex 3 4.1"
+   ],
+   "validation": "valid",
+   "non_primary_ids_ignored": [],
+   "source": {
+    "regulation": "UN R42",
+    "version": "0.2.0",
+    "role": "base",
+    "page": 8,
+    "page_end": 8,
+    "paragraph": "Annex 3 4.1"
+   },
+   "possible_duplicate_of": null
+  }
+ ],
+ "flagged": []
+}
